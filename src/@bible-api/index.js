@@ -1,6 +1,7 @@
 import _ from 'lodash';
 import axios from 'axios';
-import * as bibles from './bibles';
+
+export const getBible = async version => await axios.get(`/api/bible/${version}`).then(res => res.data);
 
 export const api = axios.create({
 	baseURL: 'https://api.scripture.api.bible',
@@ -14,15 +15,14 @@ export const api = axios.create({
 })
 
 export class Bible {
-	constructor(version) {
-		this.__bible = bibles[version];
-		this.__bible__id = bibles[version].id
-		this.__version = version;
+	constructor(bible) {
+		this.__bible = bible;
+		this.__bible__id = bible.id
 		this.__books =
-		_.mapValues(bibles[version].books, ({ chapters }, book) =>
+		_.mapValues(bible.books, ({ chapters }, book) =>
 			_.map(chapters, ({ verses }) =>
 				[null, ..._.map(verses, verse =>
-					`/v1/bibles/${bibles[version].id}/verses/${verse.id}`)]));
+					`/v1/bibles/${bible.id}/verses/${verse.id}`)]));
 	}
 	async get(search) {
 		const [book, cvss] = search.split(' ');
@@ -43,38 +43,30 @@ export class Bible {
 				}))))));
 		return verses;
 	}
-
-	// htmlToText(html) {
-	// 	let temp = document.createElement('template');
-	// 	html = html.trim();
-	// 	temp.innerHTML = html;
-	// 	temp.content.firstChild.firstChild.remove();
-	// 	return temp.content.textContent;
-	// }
 }
 
-export const info = version => {
-	// const bible = _.chain(bibles[version].books)
-	// 	.mapValues(({ chapters }) =>
-	// 		_.map(chapters, ({ verses }) =>
-	// 			[null, ..._.map(verses, verse => `/v1/bibles/${bibles[version].id}/verses/${verse.id}`)]))
-	// 	.value();
-	// console.log(bible);
-	// return bible;
-}
+// export const info = version => {
+// 	const bible = _.chain(bibles[version].books)
+// 		.mapValues(({ chapters }) =>
+// 			_.map(chapters, ({ verses }) =>
+// 				[null, ..._.map(verses, verse => `/v1/bibles/${bibles[version].id}/verses/${verse.id}`)]))
+// 		.value();
+// 	console.log(bible);
+// 	return bible;
+// }
 
-export const build = async version => {
-	// const bible = { id: versions[version] };
-	// const books = await api.get(`/v1/bibles/${bible.id}/books`).then(res => res.data.data);
-	// bible.books = _.mapKeys(books, 'id');
-	// await Promise.all(_.map(bible.books, async book => {
-	// 	bible.books[book.id] = bible.books[book.id] || {};
-	// 	bible.books[book.id].chapters = await api.get(`/v1/bibles/${bible.id}/books/${book.id}/chapters`).then(res => res.data.data);
-	// 	await Promise.all(_.map(bible.books[book.id].chapters, async (chapter, i) => {
-	// 		const verses = await api.get(`/v1/bibles/${bible.id}/chapters/${chapter.id}/verses`).then(res => res.data.data);
-	// 		bible.books[book.id].chapters[i].verses = verses;
-	// 	}));
-	// }));
-	// console.log(JSON.stringify(bible, null, 2));
-	// return bible;
-};
+// export const build = async version => {
+// 	const bible = { id: versions[version] };
+// 	const books = await api.get(`/v1/bibles/${bible.id}/books`).then(res => res.data.data);
+// 	bible.books = _.mapKeys(books, 'id');
+// 	await Promise.all(_.map(bible.books, async book => {
+// 		bible.books[book.id] = bible.books[book.id] || {};
+// 		bible.books[book.id].chapters = await api.get(`/v1/bibles/${bible.id}/books/${book.id}/chapters`).then(res => res.data.data);
+// 		await Promise.all(_.map(bible.books[book.id].chapters, async (chapter, i) => {
+// 			const verses = await api.get(`/v1/bibles/${bible.id}/chapters/${chapter.id}/verses`).then(res => res.data.data);
+// 			bible.books[book.id].chapters[i].verses = verses;
+// 		}));
+// 	}));
+// 	console.log(JSON.stringify(bible, null, 2));
+// 	return bible;
+// };
