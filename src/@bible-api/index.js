@@ -46,10 +46,7 @@ export class Bible {
 		}
 
 		const verses = await Promise.all(_.map(vs, async v =>
-			api.get(v).then(res => ({
-				html: res.data.data.content,
-				ref: res.data.data.reference,
-			}))));
+			axios.get(v).then(res => res.data)));
 		return verses;
 	}
 }

@@ -10,7 +10,7 @@ const api = axios.create({
 	baseURL: 'https://api.scripture.api.bible',
 	timeout: 10000,
 	headers: {
-		'api-key': 'c8aec1029bae26c608775b6cf8a8f747',
+		'api-key': process.env.BIBLE_API_KEY,
 	},
 });
 
