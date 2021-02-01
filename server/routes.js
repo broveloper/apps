@@ -3,7 +3,7 @@ const path = require('path');
 const axios = require('axios');
 
 const redis = require('redis');
-const redisClient = redis.createClient(process.env.REDIS_URL || null);
+const redisClient = redis.createClient(process.env.REDIS_URL);
 redisClient.on('error', error => console.error(error));
 
 const api = axios.create({
