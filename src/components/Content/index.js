@@ -181,7 +181,8 @@ export const Content = props => {
 			className={clsx(classes.map, { [classes.mapMeta]: showMeta })}
 			dangerouslySetInnerHTML={{ __html: mapHTML }}
 			onClick={onFocusHandler}
-			onTouchStart={onFocusHandler} />
+			onTouchStart={onFocusHandler}
+			spellCheck={false} />
 		<div
 			id="edit"
 			className={classes.edit}
@@ -190,6 +191,7 @@ export const Content = props => {
 			onTouchStart={onFocusHandler}
 			onKeyDown={onInputHandler}
 			onKeyUp={onKeyUpHandler}
-			ref={editRef} />
+			ref={editRef}
+			spellCheck={false} />
 	</div>
 }
