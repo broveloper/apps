@@ -49,7 +49,7 @@ const useVerses = props => {
 		const versesEdit = editRef.current;
 		versesEdit.innerHTML = '';
 		const versesMap = document.createElement('div');
-		const mapHTML = _.flatten(verses).reduce((html, verse) => html += verse?.html?.trim?.(), '');
+		const mapHTML = _.reduce(verses, (html, verse) => html += verse?.html?.trim?.(), '');
 		versesMap.innerHTML = mapHTML;
 		const cursors = {
 			edit: versesEdit,
@@ -179,7 +179,9 @@ export const Content = props => {
 	return <div className={clsx('scripture-styles', classes.content)}>
 		<div
 			className={clsx(classes.map, { [classes.mapMeta]: showMeta })}
-			dangerouslySetInnerHTML={{ __html: mapHTML }} />
+			dangerouslySetInnerHTML={{ __html: mapHTML }}
+			onClick={onFocusHandler}
+			onTouchStart={onFocusHandler} />
 		<div
 			id="edit"
 			className={classes.edit}
