@@ -1,6 +1,7 @@
 import _ from 'lodash';
 import clsx from 'clsx';
 import { useEffect, useRef, useState } from 'react';
+import { useLongPress } from 'react-use';
 import { makeStyles } from '@material-ui/core/styles';
 import 'scripture-styles/dist/css/scripture-styles.css';
 
@@ -137,19 +138,44 @@ const useVerses = props => {
 		cursorEnd();
 	};
 
-	const onFocusHandler = () => cursorEnd();
+	const longPress = useLongPress(() => setShowMeta(true));
+
+	const onMouseDown = e => {
+		longPress.onMouseDown(e);
+		cursorEnd();
+	};
+
+	const onMouseUp = e => {
+		longPress.onMouseUp(e);
+		if (showMeta) setShowMeta(false);
+	};
+
+	const onMouseLeave = e => {
+		longPress.onMouseLeave(e);
+		if (showMeta) setShowMeta(false);
+	};
+
+	const onTouchStart = e => {
+		longPress.onTouchStart(e);
+		cursorEnd();
+	};
+
+	const onTouchEnd = e => {
+		longPress.onTouchEnd(e);
+		if (showMeta) setShowMeta(false);
+	};
 
 	const onKeyDownHandler = e => {
 		if (e.metaKey) setShowMeta(true);
-		else if (e.key === 'Backspace') e.preventDefault();
-		else if (e.key === 'Tab') {
+		else if (e.key === 'Backspace') {
 			e.preventDefault();
-			inputSkip(/^[a-zA-Z0-9]$/);
+			e.stopPropagation();
 		}
 	};
 
 	const onInputHandler = e => { //console.log('onInputHandler', [e]);
 		e.preventDefault();
+		e.stopPropagation();
 		input(e.data);
 	}
 
@@ -168,10 +194,14 @@ const useVerses = props => {
 	return {
 		editRef,
 		mapHTML,
-		onFocusHandler,
 		onInputHandler,
 		onKeyDownHandler,
 		onKeyUpHandler,
+		onMouseDown,
+		onMouseUp,
+		onMouseLeave,
+		onTouchStart,
+		onTouchEnd,
 		showMeta,
 	};
 };
@@ -183,10 +213,14 @@ export const Content = props => {
 	const {
 		editRef,
 		mapHTML,
-		onFocusHandler,
 		onInputHandler,
 		onKeyDownHandler,
 		onKeyUpHandler,
+		onMouseDown,
+		onMouseUp,
+		onMouseLeave,
+		onTouchStart,
+		onTouchEnd,
 		showMeta,
 	} = useVerses(props);
 
@@ -194,15 +228,16 @@ export const Content = props => {
 		<div
 			className={clsx(classes.map, { [classes.mapMeta]: showMeta })}
 			dangerouslySetInnerHTML={{ __html: mapHTML }}
-			onClick={onFocusHandler}
-			onTouchStart={onFocusHandler}
 			spellCheck={false} />
 		<div
 			id="edit"
 			className={classes.edit}
 			contentEditable="true"
-			onClick={onFocusHandler}
-			onTouchStart={onFocusHandler}
+			onMouseDown={onMouseDown}
+			onMouseUp={onMouseUp}
+			onMouseLeave={onMouseLeave}
+			onTouchStart={onTouchStart}
+			onTouchEnd={onTouchEnd}
 			onBeforeInput={onInputHandler}
 			onKeyDown={onKeyDownHandler}
 			onKeyUp={onKeyUpHandler}

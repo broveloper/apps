@@ -1,10 +1,9 @@
 import axios from 'axios';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Form, useFormState } from 'react-final-form';
 import { makeStyles } from '@material-ui/core/styles';
 import { Search, Submit, Version } from 'fields';
 import { Content } from 'components/Content';
-// import { versesapi } from './utils';
 
 const useStyles = makeStyles((theme) => ({
 	form: {
@@ -13,9 +12,13 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const FormFields = props=> {
-	const { handleSubmit, verses } = props;
+	const { handleSubmit, setVerses, verses } = props;
 	const { q, version } = useFormState().values;
 	const classes = useStyles();
+
+	useEffect(() => {
+		setVerses(null);
+	}, [q, version]);
 
 	return <>
 		<form className={classes.form} onSubmit={handleSubmit}>
@@ -31,7 +34,6 @@ export const Page = props => {
 	const [verses, setVerses] = useState(null);
 
 	const onSubmit = async ({ q, version }) => {
-		// setVerses(await versesapi[version]?.(q));
 		setVerses(await axios.get(`/v1/${version}/text`, { params: { q } }).then(res => res.data));
 	};
 	
@@ -39,6 +41,7 @@ export const Page = props => {
 		<Form
 			onSubmit={onSubmit}
 			component={FormFields}
+			setVerses={setVerses}
 			verses={verses} />
 	</>;
 }
