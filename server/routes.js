@@ -50,7 +50,8 @@ const versesapi = {
 						pverses.unshift({
 							book_name,
 							chapter,
-							text: text.trim().replace(/\r\n|\n\r|\n|\r/g, ''),
+							text: text.trim(),
+							// text: text.trim().replace(/\r\n|\n\r|\n|\r/g, ''),
 							verse: parseInt(n.slice(1, n.length - 1)),
 						});
 						return rest;

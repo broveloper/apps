@@ -30,7 +30,6 @@ const useStyles = makeStyles((theme) => ({
 		width: '100%',
 		height: '100%',
 		outline: 'none',
-		whiteSpace: 'pre-wrap',
 		'& p [data-sid]': {
 			opacity: 0,
 		},
@@ -138,7 +137,10 @@ const useVerses = props => {
 		cursorEnd();
 	};
 
-	const longPress = useLongPress(() => setShowMeta(true));
+	const longPress = useLongPress(e => {
+		e.preventDefault();
+		setShowMeta(true);
+	});
 
 	const onMouseDown = e => {
 		longPress.onMouseDown(e);
@@ -233,6 +235,7 @@ export const Content = props => {
 			id="edit"
 			className={classes.edit}
 			contentEditable="true"
+			onPaste={e => e.preventDefault()}
 			onMouseDown={onMouseDown}
 			onMouseUp={onMouseUp}
 			onMouseLeave={onMouseLeave}
