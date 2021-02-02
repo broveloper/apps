@@ -22,7 +22,7 @@ const apis = {
 };
 
 const versesapi = {
-	esv: async q => {
+	esv: q => {
 		const params = {
 			q,
 			'include-copyright': false,
@@ -35,46 +35,48 @@ const versesapi = {
 			'include-short-copyright': false,
 			'include-passage-references': false,
 		};
-		const data = await apis.esv.get('/text', { params }).then(res => res.data);
-		let verses = [];
-		_.each(data.passages, (passage, i) => {
-			const meta = data.passage_meta[i];
-			const [book_name, meta2] = meta.canonical.split(' ');
-			const [chapter] = meta2.split(':');
-			const pverses = [];
-			_.chain(passage.match(/(\[\d+\])/g))
-				.reverse()
-				.reduce((passage, n) => {
-					const [rest, text] = passage.split(n);
-					pverses.unshift({
-						book_name,
-						chapter,
-						text: text.trim().replace(/\r\n|\n\r|\n|\r/g, ''),
-						verse: parseInt(n.slice(1, n.length - 1)),
-					});
-					return rest;
-				}, passage)
-				.value();
-			verses = _.concat(verses, pverses);
+		return apis.esv.get('/text', { params }).then(res => {
+			const data = res.data;
+			let verses = [];
+			_.each(data.passages, (passage, i) => {
+				const meta = data.passage_meta[i];
+				const [book_name, meta2] = meta.canonical.split(' ');
+				const [chapter] = meta2.split(':');
+				const pverses = [];
+				_.chain(passage.match(/(\[\d+\])/g))
+					.reverse()
+					.reduce((passage, n) => {
+						const [rest, text] = passage.split(n);
+						pverses.unshift({
+							book_name,
+							chapter,
+							text: text.trim().replace(/\r\n|\n\r|\n|\r/g, ''),
+							verse: parseInt(n.slice(1, n.length - 1)),
+						});
+						return rest;
+					}, passage)
+					.value();
+				verses = _.concat(verses, pverses);
+			});
+			return verses;
 		});
-		return verses;
 	},
-	kjv: async q => {
+	kjv: q => {
 		const params = {
 			translation: 'kjv',
 		};
-		const data = await apis.kjv.get(`/${q}`, { params }).then(res => res.data);
-		return data?.verses;
+		return apis.kjv.get(`/${q}`, { params }).then(res => {
+			return res.data.verses;
+		});
 	},
 }
 
 module.exports = app => {
-	// app.get('/v1/:version/text', async (req, res) => {
+	// app.get('/v1/:version/text', (req, res) => {
 	// 	const { version } = req.params;
 	// 	const { q } = req.query;
 	// 	if (versesapi[version]) {
-	// 		const data = await versesapi[version](q);
-	// 		res.json(data);
+	// 		versesapi[version](q).then(data => res.json(data));
 	// 	} else {
 	// 		res.json({ msg: 'No version provided' });
 	// 	}

@@ -129,9 +129,6 @@ const useVerses = props => {
 
 	const input = key => {
 		if (cursors.map?.nodeName !== '#text') return console.warn('input key on non #text node');
-		if (key === 'Tab') {
-			inputSkip(/^[a-zA-Z0-9]$/);
-		}
 		const nextKey = cursors.map.nodeValue.substring(cursors.text.length, cursors.map.length).charAt(0);
 		if (new RegExp(`^${nextKey}$`, 'i').test(key)) {
 			cursors.text.nodeValue += nextKey;
@@ -142,13 +139,18 @@ const useVerses = props => {
 
 	const onFocusHandler = () => cursorEnd();
 
-	const onInputHandler = e => {
-		if (!e.metaKey) {
+	const onKeyDownHandler = e => {
+		if (e.metaKey) setShowMeta(true);
+		else if (e.key === 'Backspace') e.preventDefault();
+		else if (e.key === 'Tab') {
 			e.preventDefault();
-			input(e.key);
-		} else {
-			setShowMeta(true);
+			inputSkip(/^[a-zA-Z0-9]$/);
 		}
+	};
+
+	const onInputHandler = e => { //console.log('onInputHandler', [e]);
+		e.preventDefault();
+		input(e.data);
 	}
 
 	const onKeyUpHandler = e => {
@@ -168,6 +170,7 @@ const useVerses = props => {
 		mapHTML,
 		onFocusHandler,
 		onInputHandler,
+		onKeyDownHandler,
 		onKeyUpHandler,
 		showMeta,
 	};
@@ -182,6 +185,7 @@ export const Content = props => {
 		mapHTML,
 		onFocusHandler,
 		onInputHandler,
+		onKeyDownHandler,
 		onKeyUpHandler,
 		showMeta,
 	} = useVerses(props);
@@ -199,7 +203,8 @@ export const Content = props => {
 			contentEditable="true"
 			onClick={onFocusHandler}
 			onTouchStart={onFocusHandler}
-			onKeyDown={onInputHandler}
+			onBeforeInput={onInputHandler}
+			onKeyDown={onKeyDownHandler}
 			onKeyUp={onKeyUpHandler}
 			ref={editRef}
 			spellCheck={false} />
