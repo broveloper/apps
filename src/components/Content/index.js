@@ -71,6 +71,7 @@ const useVerses = props => {
 	};
 
 	const cursorEnd = () => {
+		if (!verses) return null;
 		const range = document.createRange();
 		range.selectNodeContents(cursors.text);
 		range.collapse(false);
@@ -143,29 +144,29 @@ const useVerses = props => {
 		setShowMeta(true);
 	});
 
-	const onMouseDown = e => {
+	const onMouseDown = e => { //console.log('onMouseDown');
 		longPress.onMouseDown(e);
 		cursorEnd();
 	};
 
-	const onMouseUp = e => {
+	const onMouseUp = e => { //console.log('onMouseUp');
 		longPress.onMouseUp(e);
 		if (showMeta) setShowMeta(false);
 		cursorEnd();
 	};
 
-	const onMouseLeave = e => {
+	const onMouseLeave = e => { //console.log('onMouseLeave');
 		longPress.onMouseLeave(e);
 		if (showMeta) setShowMeta(false);
-		cursorEnd();
+		// cursorEnd();
 	};
 
-	const onTouchStart = e => {
+	const onTouchStart = e => { //console.log('onTouchStart');
 		longPress.onTouchStart(e);
 		cursorEnd();
 	};
 
-	const onTouchEnd = e => {
+	const onTouchEnd = e => { //console.log('onTouchEnd');
 		longPress.onTouchEnd(e);
 		if (showMeta) setShowMeta(false);
 		cursorEnd();
@@ -236,7 +237,6 @@ export const Content = props => {
 			dangerouslySetInnerHTML={{ __html: mapHTML }}
 			spellCheck={false} />
 		<div
-			id="edit"
 			className={clsx(classes.edit)}
 			contentEditable="true"
 			onPaste={e => e.preventDefault()}
