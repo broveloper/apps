@@ -2,11 +2,11 @@ const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
 
-const redis = require('redis');
-const redisClient = redis.createClient(process.env.REDIS_URL);
-redisClient.on('error', error => console.error(error));
+// const redis = require('redis');
+// const redisClient = redis.createClient(process.env.REDIS_URL);
+// redisClient.on('error', error => console.error(error));
 
-const api = axios.create({
+const bibleapi = axios.create({
 	baseURL: 'https://api.scripture.api.bible',
 	timeout: 10000,
 	headers: {
@@ -27,15 +27,15 @@ module.exports = app => {
 	});
 
 	app.get('/v1/bibles/:bible/verses/:verse', async (req, res) => {
-		const cached = await new Promise(resolve => redisClient.get(req.path, (err, value) => resolve(err ? null : value)));
-		if (cached) return res.json(JSON.parse(cached));
+		// const cached = await new Promise(resolve => redisClient.get(req.path, (err, value) => resolve(err ? null : value)));
+		// if (cached) return res.json(JSON.parse(cached));
 
-		const data = await api.get(req.path).then(res => res?.data?.data);
+		const data = await bibleapi.get(req.path).then(res => res?.data?.data);
 		const verse = {
 			html: data.content,
 			ref: data.reference,
 		};
-		redisClient.set(req.path, JSON.stringify(verse));
+		// redisClient.set(req.path, JSON.stringify(verse));
 		res.json(verse);
 	});
 };
