@@ -34,7 +34,7 @@ export const Version = props => {
 		<Select {...fieldProps}>
 			<option aria-label="Select Version" value="" />
 			<option value={'kjv'}>KJV</option>
-			<option value={'asv'}>ASV</option>
+			<option value={'esv'}>ESV</option>
 		</Select>
 		<FormHelperText></FormHelperText>
 	</FormControl>;

@@ -49,7 +49,9 @@ const useVerses = props => {
 		const versesEdit = editRef.current;
 		versesEdit.innerHTML = '';
 		const versesMap = document.createElement('div');
-		const mapHTML = _.reduce(verses, (html, verse) => html += verse?.html?.trim?.(), '');
+		const mapHTML = _.reduce(verses, (html, { book_name, chapter, text, verse }) => {
+			return html += `<p class="p"><span data-number="${verse}" data-sid="${book_name} ${chapter}:${verse}" class="v">${verse}</span>${text.trim()}</p>`;
+		}, '');
 		versesMap.innerHTML = mapHTML;
 		const cursors = {
 			edit: versesEdit,

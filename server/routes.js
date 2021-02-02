@@ -1,41 +1,74 @@
-const fs = require('fs');
-const path = require('path');
+const _ = require('lodash');
 const axios = require('axios');
 
-// const redis = require('redis');
-// const redisClient = redis.createClient(process.env.REDIS_URL);
-// redisClient.on('error', error => console.error(error));
-
-const bibleapi = axios.create({
-	baseURL: 'https://api.scripture.api.bible',
-	timeout: 10000,
-	headers: {
-		'api-key': process.env.BIBLE_API_KEY,
-	},
-});
+const apis = {
+	esv: axios.create({
+		baseURL: 'https://api.esv.org/v3/passage',
+		timeout: 10000,
+		transformResponse: data => {
+			return JSON.parse(data);
+		},
+		headers: {
+			'Authorization': `Token ${process.env.ESV_API_KEY}`,
+		},
+	}),
+	kjv: axios.create({
+		baseURL: 'https://bible-api.com',
+		timeout: 10000,
+		transformResponse: data => {
+			return JSON.parse(data);
+		},
+	}),
+};
 
 module.exports = app => {
-	app.get('/api/bible/:version', (req, res) => {
+	app.get('/v1/:version/text', async (req, res) => {
 		const { version } = req.params;
-		const filePath = path.join(__dirname, 'bibles', `${version}.json`);
-		if (fs.existsSync(filePath)) {
-			res.header('Content-Type','application/json');
-			res.sendFile(filePath);
+		const { q } = req.query;
+		if (version === 'esv') {
+			const params = {
+				q,
+				'include-copyright': false,
+				'include-headings': false,
+				'include-first-verse-numbers': false,
+				'include-footnotes': false,
+				'include-footnote-body': false,
+				'include-verse-numbers': true,
+				'include-selahs': true,
+				'include-short-copyright': false,
+				'include-passage-references': false,
+			};
+			const data = await apis.esv.get('/text', { params }).then(res => res.data);
+			let verses = [];
+			_.each(data.passages, (passage, i) => {
+				const meta = data.passage_meta[i];
+				const [book_name, meta2] = meta.canonical.split(' ');
+				const [chapter] = meta2.split(':');
+				const pverses = [];
+				_.chain(passage.match(/(\[\d+\])/g))
+					.reverse()
+					.reduce((passage, n) => {
+						const [rest, text] = passage.split(n);
+						pverses.unshift({
+							book_name,
+							chapter,
+							text: text.trim(),
+							verse: parseInt(n.slice(1, n.length - 1)),
+						});
+						return rest;
+					}, passage)
+					.value();
+				verses = [...verses, ...pverses];
+			});
+			res.json(verses)
+		} else if (version === 'kjv') {
+			const params = {
+				translation: 'kjv',
+			};
+			const data = await apis.kjv.get(`/${q}`, { params }).then(res => res.data);
+			res.json(data?.verses);
 		} else {
-			res.json({ msg: 'File not found.' });
+			res.json({ msg: 'No version provided' });
 		}
-	});
-
-	app.get('/v1/bibles/:bible/verses/:verse', async (req, res) => {
-		// const cached = await new Promise(resolve => redisClient.get(req.path, (err, value) => resolve(err ? null : value)));
-		// if (cached) return res.json(JSON.parse(cached));
-
-		const data = await bibleapi.get(req.path).then(res => res?.data?.data);
-		const verse = {
-			html: data.content,
-			ref: data.reference,
-		};
-		// redisClient.set(req.path, JSON.stringify(verse));
-		res.json(verse);
 	});
 };

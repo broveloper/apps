@@ -20,5 +20,5 @@ export const Submit = props => {
 			disabled={disabled}
 			disableElevation={true}
 			type="submit"
-			variant="contained">Submit</Button>;
+			variant="contained">Start</Button>;
 };
