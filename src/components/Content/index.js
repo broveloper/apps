@@ -135,6 +135,7 @@ const useVerses = props => {
 			inputSkip();
 		}
 		cursorEnd();
+		_.defer(cursorEnd);
 	};
 
 	const longPress = useLongPress(e => {
@@ -150,11 +151,13 @@ const useVerses = props => {
 	const onMouseUp = e => {
 		longPress.onMouseUp(e);
 		if (showMeta) setShowMeta(false);
+		cursorEnd();
 	};
 
 	const onMouseLeave = e => {
 		longPress.onMouseLeave(e);
 		if (showMeta) setShowMeta(false);
+		cursorEnd();
 	};
 
 	const onTouchStart = e => {
@@ -165,6 +168,7 @@ const useVerses = props => {
 	const onTouchEnd = e => {
 		longPress.onTouchEnd(e);
 		if (showMeta) setShowMeta(false);
+		cursorEnd();
 	};
 
 	const onKeyDownHandler = e => {
@@ -233,7 +237,7 @@ export const Content = props => {
 			spellCheck={false} />
 		<div
 			id="edit"
-			className={classes.edit}
+			className={clsx(classes.edit)}
 			contentEditable="true"
 			onPaste={e => e.preventDefault()}
 			onMouseDown={onMouseDown}
@@ -242,6 +246,7 @@ export const Content = props => {
 			onTouchStart={onTouchStart}
 			onTouchEnd={onTouchEnd}
 			onBeforeInput={onInputHandler}
+			onInput={e => e.preventDefault()}
 			onKeyDown={onKeyDownHandler}
 			onKeyUp={onKeyUpHandler}
 			ref={editRef}
