@@ -50,8 +50,7 @@ const versesapi = {
 						pverses.unshift({
 							book_name,
 							chapter,
-							text: text.trim(),
-							// text: text.trim().replace(/\r\n|\n\r|\n|\r/g, ''),
+							text: text.trim().replace(/\r\n|\n\r|\n|\r/g, ' '),
 							verse: parseInt(n.slice(1, n.length - 1)),
 						});
 						return rest;
@@ -67,7 +66,10 @@ const versesapi = {
 			translation: 'kjv',
 		};
 		return apis.kjv.get(`/${q}`, { params }).then(res => {
-			return res.data.verses;
+			return _.map(res.data.verses, verse => ({
+				...verse,
+				text: verse.text.trim().replace(/\r\n|\n\r|\n|\r/g, ' '),
+			}));
 		});
 	},
 }

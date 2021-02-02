@@ -11,6 +11,7 @@ const useStyles = makeStyles((theme) => ({
 		position: 'relative',
 	},
 	map: {
+		whiteSpace: 'pre-wrap',
 		position: 'relative',
 		'& p': {
 			color: 'rgba(17,17,17,0)',
@@ -26,6 +27,7 @@ const useStyles = makeStyles((theme) => ({
 		},
 	},
 	edit: {
+		whiteSpace: 'pre-wrap',
 		position: 'absolute', top: '0', left: '0',
 		width: '100%',
 		height: '100%',
