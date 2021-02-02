@@ -21,7 +21,7 @@ const useStyles = makeStyles((theme) => ({
 	},
 	mapMeta: {
 		'& p': {
-			color: 'rgba(17,17,17,.2)',
+			color: 'rgba(17,17,17,.3)',
 		},
 	},
 	edit: {
