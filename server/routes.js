@@ -72,13 +72,13 @@ const versesapi = {
 }
 
 module.exports = app => {
-	// app.get('/v1/:version/text', (req, res) => {
-	// 	const { version } = req.params;
-	// 	const { q } = req.query;
-	// 	if (versesapi[version]) {
-	// 		versesapi[version](q).then(data => res.json(data));
-	// 	} else {
-	// 		res.json({ msg: 'No version provided' });
-	// 	}
-	// });
+	app.get('/v1/:version/text', (req, res) => {
+		const { version } = req.params;
+		const { q } = req.query;
+		if (versesapi[version]) {
+			versesapi[version](q).then(data => res.json(data));
+		} else {
+			res.json({ msg: 'No version provided' });
+		}
+	});
 };
