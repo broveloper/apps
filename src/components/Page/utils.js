@@ -55,7 +55,7 @@ export const versesapi = {
 					return rest;
 				}, passage)
 				.value();
-			verses = [...verses, ...pverses];
+			verses = _.concat(verses, pverses);
 		});
 		return verses;
 	},
