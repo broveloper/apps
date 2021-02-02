@@ -10,7 +10,7 @@ const useStyles = makeStyles((theme) => ({
 		position: 'relative',
 	},
 	map: {
-		position: 'absolute', top: '0', left: '0',
+		position: 'relative',
 		'& p': {
 			color: 'rgba(17,17,17,0)',
 			transition: 'color 300ms',
@@ -25,13 +25,17 @@ const useStyles = makeStyles((theme) => ({
 		},
 	},
 	edit: {
-		position: 'relative',
+		position: 'absolute', top: '0', left: '0',
+		width: '100%',
+		height: '100%',
 		outline: 'none',
-		zIndex: 10,
 		whiteSpace: 'pre-wrap',
 		'& p [data-sid]': {
 			opacity: 0,
 		},
+	},
+	copyright: {
+		textAlign: 'end',
 	}
 }));
 
@@ -109,12 +113,12 @@ const useVerses = props => {
 		}
 	};
 
-	const inputSkip = () => {
+	const inputSkip = (regex = /^[^a-zA-Z0-9]$/) => {
 		if (cursors.map?.nodeName !== '#text') return console.warn('input key on non #text node');
 		while (true) {
 			if (cursors.text.nodeValue === cursors.map.nodeValue) break;
 			let nextKey = cursors.map.nodeValue.substring(cursors.text.length, cursors.map.length).charAt(0);
-			if (!/^[^a-zA-Z0-9]$/.test(nextKey)) break;
+			if (!regex.test(nextKey)) break;
 			cursors.text.nodeValue += nextKey;
 		}
 		if (cursors.text.nodeValue === cursors.map.nodeValue) {
@@ -125,6 +129,9 @@ const useVerses = props => {
 
 	const input = key => {
 		if (cursors.map?.nodeName !== '#text') return console.warn('input key on non #text node');
+		if (key === 'Tab') {
+			inputSkip(/^[a-zA-Z0-9]$/);
+		}
 		const nextKey = cursors.map.nodeValue.substring(cursors.text.length, cursors.map.length).charAt(0);
 		if (new RegExp(`^${nextKey}$`, 'i').test(key)) {
 			cursors.text.nodeValue += nextKey;
@@ -168,6 +175,7 @@ const useVerses = props => {
 
 
 export const Content = props => {
+	const { version } = props;
 	const classes = useStyles();
 	const {
 		editRef,
@@ -195,5 +203,6 @@ export const Content = props => {
 			onKeyUp={onKeyUpHandler}
 			ref={editRef}
 			spellCheck={false} />
+		{version === 'esv' && <p className={clsx('p', classes.copyright)}>ESV</p>}
 	</div>
 }

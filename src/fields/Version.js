@@ -8,7 +8,7 @@ import { useField } from 'react-final-form';
 const useStyles = makeStyles((theme) => ({
 	formControl: {
 		margin: theme.spacing(1),
-		minWidth: 80,
+		flex: '0 0 90px',
 	},
 	selectEmpty: {
 		marginTop: theme.spacing(2),
@@ -33,8 +33,8 @@ export const Version = props => {
 		<InputLabel htmlFor={FIELD_NAME}>Version</InputLabel>
 		<Select {...fieldProps}>
 			<option aria-label="Select Version" value="" />
-			<option value={'kjv'}>KJV</option>
 			<option value={'esv'}>ESV</option>
+			<option value={'kjv'}>KJV</option>
 		</Select>
 		<FormHelperText></FormHelperText>
 	</FormControl>;

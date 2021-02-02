@@ -5,6 +5,7 @@ const useStyles = makeStyles((theme) => ({
 	submit: {
 		margin: theme.spacing(1),
 		marginTop: 22,
+		flex: '0 0 80px',
 	},
 }));
 

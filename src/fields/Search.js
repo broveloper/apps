@@ -7,7 +7,7 @@ import { useField } from 'react-final-form';
 const useStyles = makeStyles((theme) => ({
 	formControl: {
 		margin: theme.spacing(1),
-		minWidth: 120,
+		flex: '1 0 120px',
 	},
 }));
 
@@ -23,7 +23,7 @@ export const Search = props => {
 		...field.input,
 		disabled,
 		id: FIELD_NAME,
-		label: 'Search',
+		label: 'Search Passages',
 		placeholder: 'Genesis 1:1',
 	};
 
