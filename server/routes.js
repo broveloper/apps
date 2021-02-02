@@ -66,8 +66,7 @@ const versesapi = {
 			translation: 'kjv',
 		};
 		return apis.kjv.get(`/${q}`, { params }).then(res => {
-			return _.map(res.data.verses, verse => ({
-				...verse,
+			return _.map(res.data.verses, verse => Object.assign(verse, {
 				text: verse.text.trim().replace(/\r\n|\n\r|\n|\r/g, ' '),
 			}));
 		});
