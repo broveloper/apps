@@ -11,16 +11,19 @@ const useStyles = makeStyles((theme) => ({
 	map: {
 		whiteSpace: 'pre-wrap',
 		position: 'relative',
-		'& p': {
+		'& [class^="p"]': {
 			color: 'rgba(17,17,17,0)',
+			textIndent: 0,
 			transition: 'color 300ms',
-			'& [data-sid]': {
-				color: 'rgba(17,17,17,1)',
-			},
+		},
+		'& [data-sid]': {
+			color: 'rgba(17,17,17,1)',
+			display: 'inline-block',
+			textIndent: '1.4em',
 		},
 	},
 	mapMeta: {
-		'& p': {
+		'& [class^="p"]': {
 			color: 'rgba(17,17,17,.3)',
 		},
 	},
@@ -30,9 +33,30 @@ const useStyles = makeStyles((theme) => ({
 		width: '100%',
 		height: '100%',
 		outline: 'none',
-		'& p [data-sid]': {
-			opacity: 0,
+		'& [class^="p"]:last-of-type': {
+			display: 'inline',
 		},
+		'& [class^="p"]': {
+			textIndent: 0,
+		},
+		'& [data-sid]': {
+			opacity: 0,
+			display: 'inline-block',
+			textIndent: '1.4em',
+		},
+		'-webkit-touch-callout': 'none',
+		'-webkit-user-select': 'none',
+		'-moz-user-select': 'none',
+		'-ms-user-select': 'none',
+		'user-select': 'none',
+	},
+	input: {
+		margin: 0,
+		padding: 0,
+		border: 0,
+		outline: 0,
+		background: 'transparent',
+		width: '1em',
 	},
 	copyright: {
 		textAlign: 'end',
@@ -40,41 +64,39 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 export const Content = props => {
-	const { version } = props;
 	const classes = useStyles();
 	const {
 		editRef,
+		longPressHandlers,
 		mapHTML,
-		onInputHandler,
+		onChangeHandler,
 		onKeyDownHandler,
 		onKeyUpHandler,
-		onMouseDown,
-		onMouseUp,
-		onMouseLeave,
-		onTouchStart,
-		onTouchEnd,
 		showMeta,
 	} = useVerses(props);
 
-	return <div className={clsx('scripture-styles', classes.content)}>
-		<div
-			className={clsx(classes.map, { [classes.mapMeta]: showMeta })}
-			dangerouslySetInnerHTML={{ __html: mapHTML }}
-			spellCheck={false} />
-		<div
-			className={clsx(classes.edit)}
-			contentEditable="true"
-			onPaste={e => e.preventDefault()}
-			onMouseDown={onMouseDown}
-			onMouseUp={onMouseUp}
-			onMouseLeave={onMouseLeave}
-			onTouchStart={onTouchStart}
-			onTouchEnd={onTouchEnd}
-			onBeforeInput={onInputHandler}
-			onInput={e => e.preventDefault()}
-			onKeyDown={onKeyDownHandler}
-			onKeyUp={onKeyUpHandler}
-			ref={editRef}
-			spellCheck={false} />
+	return <div
+		{...longPressHandlers}
+		className={clsx('scripture-styles', classes.content)}>
+		<label htmlFor="input">
+			<div
+				className={clsx(classes.map, { [classes.mapMeta]: showMeta })}
+				dangerouslySetInnerHTML={{ __html: mapHTML }}
+				spellCheck={false} />
+			<div
+				className={clsx(classes.edit)}
+				ref={editRef}
+				spellCheck={false}>
+				<input
+					className={classes.input}
+					id="input"
+					name="input"
+					onChange={onChangeHandler}
+					onKeyDown={onKeyDownHandler}
+					onKeyUp={onKeyUpHandler}
+					type="text"
+					value="" />
+			</div>
+		</label>
 	</div>
 }

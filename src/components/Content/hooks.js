@@ -11,11 +11,16 @@ export const useVerses = props => {
 	const {
 		cursors,
 		mapHTML,
+		versesEdit,
+		versesMap,
 	} = state;
 
 	const initialize = () => { //console.log('initiaizing ...');
 		const versesEdit = editRef.current;
-		versesEdit.innerHTML = '';
+		versesEdit.oncontextmenu = e => e.preventDefault();
+		while (versesEdit.childNodes.length > 1) {
+			versesEdit.removeChild(versesEdit.firstChild);
+		}
 		const versesMap = document.createElement('div');
 		const mapHTML = _.reduce(verses, (html, { book_name, chapter, text, verse }) => {
 			return html += `<p class="p"><span data-number="${verse}" data-sid="${book_name} ${chapter}:${verse}" class="v">${verse}</span>${text.trim()}</p>`;
@@ -34,16 +39,6 @@ export const useVerses = props => {
 		});
 	};
 
-	const cursorEnd = () => {
-		if (!verses) return null;
-		const range = document.createRange();
-		range.selectNodeContents(cursors.text);
-		range.collapse(false);
-		const sel = window.getSelection();//get the selection object (allows you to change selection)
-		sel.removeAllRanges();//remove any selections already made
-		sel.addRange(range);
-	};
-
 	const nextSibling = () => {
 		if (cursors.edit === null || cursors.map === null) { //console.log('\tnextSibling: end');
 			return null;
@@ -58,7 +53,9 @@ export const useVerses = props => {
 	};
 	const nextChild = () => { //console.log('\tnextChild');
 		cursors.map = cursors.map.firstChild;
-		cursors.edit = cursors.edit.lastChild;
+		cursors.edit = cursors.edit === versesEdit
+			? cursors.edit.childNodes[cursors.edit.childNodes.length - 2]
+			: cursors.edit.lastChild;
 	};
 
 	const next = () => {
@@ -67,7 +64,8 @@ export const useVerses = props => {
 				cursors.edit.appendChild(cursors.map.cloneNode(true));
 				nextSibling();
 			} else { //console.log('next: node is element.');
-				cursors.edit.appendChild(cursors.map.cloneNode(false));
+				if (cursors.map.parentNode === versesMap && cursors.map.classList.contains('p')) cursors.edit.insertBefore(cursors.map.cloneNode(false), cursors.edit.lastChild);
+				else cursors.edit.appendChild(cursors.map.cloneNode(false));
 				nextChild();
 			}
 		}
@@ -99,60 +97,28 @@ export const useVerses = props => {
 			cursors.text.nodeValue += nextKey;
 			inputSkip();
 		}
-		cursorEnd();
-		_.defer(cursorEnd);
 	};
 
-	const longPress = useLongPress(e => {
-		e.preventDefault();
-		setShowMeta(true);
-	});
-
-	const onMouseDown = e => { //console.log('onMouseDown');
-		longPress.onMouseDown(e);
-		cursorEnd();
+	const longPress = useLongPress(e => setShowMeta(true));
+	const longPressHandlers = {
+		...longPress,
+		onMouseLeave: e => { //console.log('onMouseLeave');
+			longPress.onMouseLeave(e);
+			if (showMeta) setShowMeta(false);
+		},
+		onMouseUp: e => { //console.log('onMouseUp');
+			longPress.onMouseUp(e);
+			if (showMeta) setShowMeta(false);
+		},
+		onTouchEnd: e => { //console.log('onTouchEnd');
+			longPress.onTouchEnd(e);
+			if (showMeta) setShowMeta(false);
+		},
 	};
 
-	const onMouseUp = e => { //console.log('onMouseUp');
-		longPress.onMouseUp(e);
-		if (showMeta) setShowMeta(false);
-		cursorEnd();
-	};
-
-	const onMouseLeave = e => { //console.log('onMouseLeave');
-		longPress.onMouseLeave(e);
-		if (showMeta) setShowMeta(false);
-		// cursorEnd();
-	};
-
-	const onTouchStart = e => { //console.log('onTouchStart');
-		longPress.onTouchStart(e);
-		cursorEnd();
-	};
-
-	const onTouchEnd = e => { //console.log('onTouchEnd');
-		longPress.onTouchEnd(e);
-		if (showMeta) setShowMeta(false);
-		cursorEnd();
-	};
-
-	const onKeyDownHandler = e => {
-		if (e.metaKey) setShowMeta(true);
-		else if (e.key === 'Backspace') {
-			e.preventDefault();
-			e.stopPropagation();
-		}
-	};
-
-	const onInputHandler = e => { //console.log('onInputHandler', [e]);
-		e.preventDefault();
-		e.stopPropagation();
-		input(e.data);
-	}
-
-	const onKeyUpHandler = e => {
-		if (showMeta) setShowMeta(false);
-	}
+	const onKeyDownHandler = e => e.metaKey && !showMeta && setShowMeta(true);
+	const onKeyUpHandler = e => showMeta && setShowMeta(false);
+	const onChangeHandler = e => e.nativeEvent.inputType === 'insertText' && input(e.nativeEvent.data);
 
 	useEffect(() => {
 		initialize();
@@ -164,15 +130,11 @@ export const useVerses = props => {
 
 	return {
 		editRef,
+		longPressHandlers,
 		mapHTML,
-		onInputHandler,
+		onChangeHandler,
 		onKeyDownHandler,
 		onKeyUpHandler,
-		onMouseDown,
-		onMouseUp,
-		onMouseLeave,
-		onTouchStart,
-		onTouchEnd,
 		showMeta,
 	};
 };
