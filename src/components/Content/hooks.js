@@ -1,107 +1,92 @@
 import _ from 'lodash';
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { useLongPress } from 'react-use';
 
-
 export const useVerses = props => {
-	const { verses } = props;
+	const { verses, version } = props;
+	const cursors = useRef({});
 	const editRef = useRef();
+	const mapRef = useRef();
 	const inputRef = useRef();
-	const [state, setState] = useState({});
-	const [showMeta, setShowMeta] = useState(false);
-	const {
-		cursors,
-		mapHTML,
-		versesEdit,
-		versesMap,
-	} = state;
+	const showRef = useRef(false)
+	const [showMeta, _setShowMeta] = useState(false);
+	const setShowMeta = bool => _setShowMeta(bool) || (showRef.current = bool);
 
-	const initialize = () => { //console.log('initiaizing ...');
-		const versesEdit = editRef.current;
-		versesEdit.oncontextmenu = e => e.preventDefault();
-		while (versesEdit.childNodes.length > 1) {
-			versesEdit.removeChild(versesEdit.firstChild);
-		}
-		const versesMap = document.createElement('div');
-		const mapHTML = _.reduce(verses, (html, { book_name, chapter, text, verse }) => {
-			return html += `<p class="p"><span data-number="${verse}" data-sid="${book_name} ${chapter}:${verse}" class="v">${verse}</span>${text.trim()}</p>`;
-		}, '');
-		versesMap.innerHTML = mapHTML;
-		const cursors = {
-			edit: versesEdit,
-			map: versesMap.firstChild,
-			text: null,
-		};
-		setState({
-			cursors,
-			mapHTML,
-			versesEdit,
-			versesMap,
-		});
-	};
-
-	const nextSibling = () => {
-		if (cursors.edit === null || cursors.map === null) { //console.log('\tnextSibling: end');
-			return null;
-		}
-		if (cursors.map.nextSibling) { //console.log('\tnextSibling: found');
-			cursors.map = cursors.map.nextSibling;
-		} else { //console.log('\tnextSibling: parentNode backup');
-			cursors.map = cursors.map.parentNode;
-			cursors.edit = cursors.edit.parentNode;
-			nextSibling();
-		}
-	};
-	const nextChild = () => { //console.log('\tnextChild');
-		cursors.map = cursors.map.firstChild;
-		cursors.edit = cursors.edit === versesEdit
-			? cursors.edit.childNodes[cursors.edit.childNodes.length - 2]
-			: cursors.edit.lastChild;
-	};
-
-	const next = () => {
-		while (cursors.edit != null && cursors.map != null && cursors.map?.nodeName !== '#text') {
-			if (cursors.map.hasAttribute?.('data-sid')) { //console.log('next: node is verse number.')
-				cursors.edit.appendChild(cursors.map.cloneNode(true));
-				nextSibling();
-			} else { //console.log('next: node is element.');
-				if (cursors.map.parentNode === versesMap && cursors.map.classList.contains('p')) cursors.edit.insertBefore(cursors.map.cloneNode(false), cursors.edit.lastChild);
-				else cursors.edit.appendChild(cursors.map.cloneNode(false));
-				nextChild();
+	const { initialize, input, } = useMemo(() => {
+		const nextSibling = () => {
+			if (cursors.current.edit === null || cursors.current.map === null) { //console.log('\tnextSibling: end');
+				return null;
 			}
-		}
-		if (cursors.map?.nodeName === '#text' && cursors.edit != null) { //console.log('next: appending new text node to edit.')
-			cursors.edit.appendChild(document.createTextNode(''));
-			cursors.text = cursors.edit.lastChild;
-			inputSkip();
-		}
-	};
-
-	const inputSkip = (regex = /^[^a-zA-Z0-9]$/) => {
-		if (cursors.map?.nodeName !== '#text') return console.warn('input key on non #text node');
-		while (true) {
-			if (cursors.text.nodeValue === cursors.map.nodeValue) break;
-			let nextKey = cursors.map.nodeValue.substring(cursors.text.length, cursors.map.length).charAt(0);
-			if (!regex.test(nextKey)) break;
-			cursors.text.nodeValue += nextKey;
-		}
-		if (cursors.text.nodeValue === cursors.map.nodeValue) {
-			nextSibling();
-			next();
-		}
-	};
-
-	const input = key => {
-		if (cursors.map?.nodeName !== '#text') return console.warn('input key on non #text node');
-		const nextKey = cursors.map.nodeValue.substring(cursors.text.length, cursors.map.length).charAt(0);
-		if (new RegExp(`^${nextKey}$`, 'i').test(key)) {
-			cursors.text.nodeValue += nextKey;
-			inputSkip();
-		}
-	};
+			if (cursors.current.map.nextSibling) { //console.log('\tnextSibling: found');
+				cursors.current.map = cursors.current.map.nextSibling;
+			} else { //console.log('\tnextSibling: parentNode backup');
+				cursors.current.map = cursors.current.map.parentNode;
+				cursors.current.edit = cursors.current.edit.parentNode;
+				nextSibling();
+			}
+		};
+		const nextChild = () => { //console.log('\tnextChild');
+			cursors.current.map = cursors.current.map.firstChild;
+			cursors.current.edit = cursors.current.edit === editRef.current
+				? cursors.current.edit.childNodes[cursors.current.edit.childNodes.length - 2]
+				: cursors.current.edit.lastChild;
+		};
+		const next = () => { //console.log('next>', cursors);
+			while (cursors.current.edit != null && cursors.current.map != null && cursors.current.map?.nodeName !== '#text') {
+				if (cursors.current.map.hasAttribute?.('data-sid')) { //console.log('next: node is verse number.')
+					cursors.current.edit.appendChild(cursors.current.map.cloneNode(true));
+					nextSibling();
+				} else { //console.log('next: node is element.');
+					if (cursors.current.map.parentNode === mapRef.current && cursors.current.map.classList.contains('p')) cursors.current.edit.insertBefore(cursors.current.map.cloneNode(false), cursors.current.edit.lastChild);
+					else cursors.current.edit.appendChild(cursors.current.map.cloneNode(false));
+					nextChild();
+				}
+			}
+			if (cursors.current.map?.nodeName === '#text' && cursors.current.edit != null) { //console.log('next: appending new text node to edit.')
+				cursors.current.edit.appendChild(document.createTextNode(''));
+				cursors.current.text = cursors.current.edit.lastChild;
+				inputSkip();
+			}
+		};
+		const inputSkip = (regex = /^[^a-zA-Z0-9]$/) => {
+			if (cursors.current.map?.nodeName !== '#text') return console.warn('input key on non #text node');
+			while (true) {
+				if (cursors.current.text.nodeValue === cursors.current.map.nodeValue) break;
+				let nextKey = cursors.current.map.nodeValue.substring(cursors.current.text.length, cursors.current.map.length).charAt(0);
+				if (!regex.test(nextKey)) break;
+				cursors.current.text.nodeValue += nextKey;
+			}
+			if (cursors.current.text.nodeValue === cursors.current.map.nodeValue) {
+				nextSibling();
+				next();
+			}
+		};
+		const input = key => {
+			if (cursors.current.map?.nodeName !== '#text') return console.warn('input key on non #text node');
+			const nextKey = cursors.current.map.nodeValue.substring(cursors.current.text.length, cursors.current.map.length).charAt(0);
+			if (new RegExp(`^${nextKey}$`, 'i').test(key)) {
+				cursors.current.text.nodeValue += nextKey;
+				inputSkip();
+			}
+		};
+		const initialize = () => { //console.log('initiaizing ...');
+			editRef.current.oncontextmenu = e => e.preventDefault();
+			while (editRef.current.childNodes.length > 1) editRef.current.removeChild(editRef.current.firstChild);
+			mapRef.current.innerHTML = _.reduce(verses, (html, { book_name, chapter, text, verse }) => {
+				return html += `<p class="p"><span data-number="${verse}" data-sid="${book_name} ${chapter}:${verse}" class="v">${verse}</span>${text.trim()}</p>`;
+			}, '');
+			Object.assign(cursors.current, {
+				edit: editRef.current,
+				map: mapRef.current.firstChild,
+				text: null,
+			});
+			if (version && verses) next();
+		};
+		return { initialize, input };
+	}, [verses, version]);
 
 	const longPress = useLongPress(e => setShowMeta(true));
-	const longPressHandlers = {
+	const contentHandlers = useMemo(() => ({
 		onMouseDown: e => { //console.log('onMouseDown');
 			inputRef.current.focus();
 			longPress.onMouseDown(e);
@@ -122,28 +107,24 @@ export const useVerses = props => {
 			inputRef.current.focus();
 			longPress.onTouchStart(e);
 		},
-	};
+	}), []);
 
-	const onKeyDownHandler = e => e.metaKey && !showMeta && setShowMeta(true);
-	const onKeyUpHandler = e => showMeta && setShowMeta(false);
-	const onChangeHandler = e => input(e.target.value);
+	const inputHandlers = useMemo(() => ({
+		onChange: e => input(e.target.value),
+		onKeyDown: e => e.metaKey && !showRef.current && setShowMeta(true),
+		onKeyUp: e => showRef.current && setShowMeta(false),
+	}), []);
 
 	useEffect(() => {
 		initialize();
-	}, [verses]);
-
-	useEffect(() => {
-		if (Object.keys(state).length > 0) next();
-	}, [state]);
+	}, [verses, version]);
 
 	return {
+		contentHandlers,
 		editRef,
+		inputHandlers,
 		inputRef,
-		longPressHandlers,
-		mapHTML,
-		onChangeHandler,
-		onKeyDownHandler,
-		onKeyUpHandler,
+		mapRef,
 		showMeta,
 	};
 };

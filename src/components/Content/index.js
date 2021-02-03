@@ -1,3 +1,4 @@
+import { forwardRef, memo } from 'react';
 import clsx from 'clsx';
 import { makeStyles } from '@material-ui/core/styles';
 import 'scripture-styles/dist/css/scripture-styles.css';
@@ -63,41 +64,49 @@ const useStyles = makeStyles((theme) => ({
 	}
 }));
 
+const Input = memo(forwardRef((props, ref) => {
+	const {
+		className,
+		inputHandlers,
+	} = props;
+	return <input
+		{...inputHandlers}
+		autoCapitalize="none"
+		className={className}
+		id="input"
+		name="input"
+		ref={ref}
+		type="text"
+		value="" />;
+}));
+
 export const Content = props => {
 	const classes = useStyles();
 	const {
+		contentHandlers,
 		editRef,
+		inputHandlers,
 		inputRef,
-		longPressHandlers,
-		mapHTML,
-		onChangeHandler,
-		onKeyDownHandler,
-		onKeyUpHandler,
+		mapRef,
 		showMeta,
 	} = useVerses(props);
 
 	return <div
-		{...longPressHandlers}
+		{...contentHandlers}
 		className={clsx('scripture-styles', classes.content)}>
 		<label htmlFor="input">
 			<div
 				className={clsx(classes.map, { [classes.mapMeta]: showMeta })}
-				dangerouslySetInnerHTML={{ __html: mapHTML }}
+				ref={mapRef}
 				spellCheck={false} />
 			<div
 				className={clsx(classes.edit)}
 				ref={editRef}
 				spellCheck={false}>
-				<input
+				<Input
 					className={classes.input}
-					id="input"
-					name="input"
-					onChange={onChangeHandler}
-					onKeyDown={onKeyDownHandler}
-					onKeyUp={onKeyUpHandler}
-					ref={inputRef}
-					type="text"
-					value="" />
+					inputHandlers={inputHandlers}
+					ref={inputRef} />
 			</div>
 		</label>
 	</div>
