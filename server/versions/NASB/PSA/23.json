@@ -1,0 +1,52 @@
+{
+  "book_id": "PSA",
+  "book_name": "PSALMS",
+  "chapter": 23,
+  "verses": [
+    {
+      "texts": [
+        "The Lord is my shepherd,",
+        "I shall not want."
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "He makes me lie down in green pastures;",
+        "He leads me beside quiet waters."
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "He restores my soul;",
+        "He guides me in the paths of righteousness",
+        "For His name's sake."
+      ],
+      "verse": 3
+    },
+    {
+      "texts": [
+        "Even though I walk through the valley of the shadow of death,",
+        "I fear no evil, for You are with me;",
+        "Your rod and Your staff, they comfort me."
+      ],
+      "verse": 4
+    },
+    {
+      "texts": [
+        "You prepare a table before me in the presence of my enemies;",
+        "You have anointed my head with oil;",
+        "My cup overflows."
+      ],
+      "verse": 5
+    },
+    {
+      "texts": [
+        "Surely goodness and lovingkindness will follow me all the days of my life,",
+        "And I will dwell in the house of the Lord forever."
+      ],
+      "verse": 6
+    }
+  ]
+}

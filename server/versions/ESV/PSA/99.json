@@ -1,0 +1,77 @@
+{
+  "book_id": "PSA",
+  "book_name": "Psalms",
+  "chapter": 99,
+  "verses": [
+    {
+      "texts": [
+        "The Lord reigns; let the peoples tremble!",
+        "He sits enthroned upon the cherubim; let the earth quake!"
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "The Lord is great in Zion;",
+        "he is exalted over all the peoples."
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "Let them praise your great and awesome name!",
+        "Holy is he!"
+      ],
+      "verse": 3
+    },
+    {
+      "texts": [
+        "The King in his might loves justice.",
+        "You have established equity;",
+        "you have executed justice",
+        "and righteousness in Jacob."
+      ],
+      "verse": 4
+    },
+    {
+      "texts": [
+        "Exalt the Lord our God;",
+        "worship at his footstool!",
+        "Holy is he!"
+      ],
+      "verse": 5
+    },
+    {
+      "texts": [
+        "Moses and Aaron were among his priests,",
+        "Samuel also was among those who called upon his name.",
+        "They called to the Lord, and he answered them."
+      ],
+      "verse": 6
+    },
+    {
+      "texts": [
+        "In the pillar of the cloud he spoke to them;",
+        "they kept his testimonies",
+        "and the statute that he gave them."
+      ],
+      "verse": 7
+    },
+    {
+      "texts": [
+        "O Lord our God, you answered them;",
+        "you were a forgiving God to them,",
+        "but an avenger of their wrongdoings."
+      ],
+      "verse": 8
+    },
+    {
+      "texts": [
+        "Exalt the Lord our God,",
+        "and worship at his holy mountain;",
+        "for the Lord our God is holy!"
+      ],
+      "verse": 9
+    }
+  ]
+}

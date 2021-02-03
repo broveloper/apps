@@ -1,0 +1,556 @@
+{
+  "book_id": "NUM",
+  "book_name": "NUMBERS",
+  "chapter": 7,
+  "verses": [
+    {
+      "texts": [
+        "Now on the day that Moses had finished setting up the tabernacle, he anointed it and consecrated it with all its furnishings and the altar and all its utensils; he anointed them and consecrated them also."
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "Then the leaders of Israel, the heads of their fathers' households, made an offering (they were the leaders of the tribes; they were the ones who were over the numbered men)."
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "When they brought their offering before the Lord, six covered carts and twelve oxen, a cart for every two of the leaders and an ox for each one, then they presented them before the tabernacle."
+      ],
+      "verse": 3
+    },
+    {
+      "texts": [
+        "Then the Lord spoke to Moses, saying,"
+      ],
+      "verse": 4
+    },
+    {
+      "texts": [
+        "\"Accept these things from them, that they may be used in the service of the tent of meeting, and you shall give them to the Levites, to each man according to his service.\""
+      ],
+      "verse": 5
+    },
+    {
+      "texts": [
+        "So Moses took the carts and the oxen and gave them to the Levites."
+      ],
+      "verse": 6
+    },
+    {
+      "texts": [
+        "Two carts and four oxen he gave to the sons of Gershon, according to their service,"
+      ],
+      "verse": 7
+    },
+    {
+      "texts": [
+        "and four carts and eight oxen he gave to the sons of Merari, according to their service, under the direction of Ithamar the son of Aaron the priest."
+      ],
+      "verse": 8
+    },
+    {
+      "texts": [
+        "But he did not give any to the sons of Kohath because theirs was the service of the holy objects, which they carried on the shoulder.",
+        ""
+      ],
+      "verse": 9
+    },
+    {
+      "texts": [
+        "The leaders offered the dedication offering for the altar when it was anointed, so the leaders offered their offering before the altar."
+      ],
+      "verse": 10
+    },
+    {
+      "texts": [
+        "Then the Lord said to Moses, \"Let them present their offering, one leader each day, for the dedication of the altar.\"",
+        ""
+      ],
+      "verse": 11
+    },
+    {
+      "texts": [
+        "Now the one who presented his offering on the first day was Nahshon the son of Amminadab, of the tribe of Judah;"
+      ],
+      "verse": 12
+    },
+    {
+      "texts": [
+        "and his offering was one silver dish whose weight was one hundred and thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;"
+      ],
+      "verse": 13
+    },
+    {
+      "texts": [
+        "one gold pan of ten shekels, full of incense;"
+      ],
+      "verse": 14
+    },
+    {
+      "texts": [
+        "one bull, one ram, one male lamb one year old, for a burnt offering;"
+      ],
+      "verse": 15
+    },
+    {
+      "texts": [
+        "one male goat for a sin offering;"
+      ],
+      "verse": 16
+    },
+    {
+      "texts": [
+        "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, five male lambs one year old. This was the offering of Nahshon the son of Amminadab.",
+        ""
+      ],
+      "verse": 17
+    },
+    {
+      "texts": [
+        "On the second day Nethanel the son of Zuar, leader of Issachar, presented an offering;"
+      ],
+      "verse": 18
+    },
+    {
+      "texts": [
+        "he presented as his offering one silver dish whose weight was one hundred and thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;"
+      ],
+      "verse": 19
+    },
+    {
+      "texts": [
+        "one gold pan of ten shekels, full of incense;"
+      ],
+      "verse": 20
+    },
+    {
+      "texts": [
+        "one bull, one ram, one male lamb one year old, for a burnt offering;"
+      ],
+      "verse": 21
+    },
+    {
+      "texts": [
+        "one male goat for a sin offering;"
+      ],
+      "verse": 22
+    },
+    {
+      "texts": [
+        "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, five male lambs one year old. This was the offering of Nethanel the son of Zuar.",
+        ""
+      ],
+      "verse": 23
+    },
+    {
+      "texts": [
+        "On the third day it was Eliab the son of Helon, leader of the sons of Zebulun;"
+      ],
+      "verse": 24
+    },
+    {
+      "texts": [
+        "his offering was one silver dish whose weight was one hundred and thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;"
+      ],
+      "verse": 25
+    },
+    {
+      "texts": [
+        "one gold pan of ten shekels, full of incense;"
+      ],
+      "verse": 26
+    },
+    {
+      "texts": [
+        "one young bull, one ram, one male lamb one year old, for a burnt offering;"
+      ],
+      "verse": 27
+    },
+    {
+      "texts": [
+        "one male goat for a sin offering;"
+      ],
+      "verse": 28
+    },
+    {
+      "texts": [
+        "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, five male lambs one year old. This was the offering of Eliab the son of Helon.",
+        ""
+      ],
+      "verse": 29
+    },
+    {
+      "texts": [
+        "On the fourth day it was Elizur the son of Shedeur, leader of the sons of Reuben;"
+      ],
+      "verse": 30
+    },
+    {
+      "texts": [
+        "his offering was one silver dish whose weight was one hundred and thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;"
+      ],
+      "verse": 31
+    },
+    {
+      "texts": [
+        "one gold pan of ten shekels, full of incense;"
+      ],
+      "verse": 32
+    },
+    {
+      "texts": [
+        "one bull, one ram, one male lamb one year old, for a burnt offering;"
+      ],
+      "verse": 33
+    },
+    {
+      "texts": [
+        "one male goat for a sin offering;"
+      ],
+      "verse": 34
+    },
+    {
+      "texts": [
+        "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, five male lambs one year old. This was the offering of Elizur the son of Shedeur.",
+        ""
+      ],
+      "verse": 35
+    },
+    {
+      "texts": [
+        "On the fifth day it was Shelumiel the son of Zurishaddai, leader of the children of Simeon;"
+      ],
+      "verse": 36
+    },
+    {
+      "texts": [
+        "his offering was one silver dish whose weight was one hundred and thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;"
+      ],
+      "verse": 37
+    },
+    {
+      "texts": [
+        "one gold pan of ten shekels, full of incense;"
+      ],
+      "verse": 38
+    },
+    {
+      "texts": [
+        "one bull, one ram, one male lamb one year old, for a burnt offering;"
+      ],
+      "verse": 39
+    },
+    {
+      "texts": [
+        "one male goat for a sin offering;"
+      ],
+      "verse": 40
+    },
+    {
+      "texts": [
+        "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, five male lambs one year old. This was the offering of Shelumiel the son of Zurishaddai.",
+        ""
+      ],
+      "verse": 41
+    },
+    {
+      "texts": [
+        "On the sixth day it was Eliasaph the son of Deuel, leader of the sons of Gad;"
+      ],
+      "verse": 42
+    },
+    {
+      "texts": [
+        "his offering was one silver dish whose weight was one hundred and thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;"
+      ],
+      "verse": 43
+    },
+    {
+      "texts": [
+        "one gold pan of ten shekels, full of incense;"
+      ],
+      "verse": 44
+    },
+    {
+      "texts": [
+        "one bull, one ram, one male lamb one year old, for a burnt offering;"
+      ],
+      "verse": 45
+    },
+    {
+      "texts": [
+        "one male goat for a sin offering;"
+      ],
+      "verse": 46
+    },
+    {
+      "texts": [
+        "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, five male lambs one year old. This was the offering of Eliasaph the son of Deuel.",
+        ""
+      ],
+      "verse": 47
+    },
+    {
+      "texts": [
+        "On the seventh day it was Elishama the son of Ammihud, leader of the sons of Ephraim;"
+      ],
+      "verse": 48
+    },
+    {
+      "texts": [
+        "his offering was one silver dish whose weight was one hundred and thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;"
+      ],
+      "verse": 49
+    },
+    {
+      "texts": [
+        "one gold pan of ten shekels, full of incense;"
+      ],
+      "verse": 50
+    },
+    {
+      "texts": [
+        "one bull, one ram, one male lamb one year old, for a burnt offering;"
+      ],
+      "verse": 51
+    },
+    {
+      "texts": [
+        "one male goat for a sin offering;"
+      ],
+      "verse": 52
+    },
+    {
+      "texts": [
+        "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, five male lambs one year old. This was the offering of Elishama the son of Ammihud.",
+        ""
+      ],
+      "verse": 53
+    },
+    {
+      "texts": [
+        "On the eighth day it was Gamaliel the son of Pedahzur, leader of the sons of Manasseh;"
+      ],
+      "verse": 54
+    },
+    {
+      "texts": [
+        "his offering was one silver dish whose weight was one hundred and thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;"
+      ],
+      "verse": 55
+    },
+    {
+      "texts": [
+        "one gold pan of ten shekels, full of incense;"
+      ],
+      "verse": 56
+    },
+    {
+      "texts": [
+        "one bull, one ram, one male lamb one year old, for a burnt offering;"
+      ],
+      "verse": 57
+    },
+    {
+      "texts": [
+        "one male goat for a sin offering;"
+      ],
+      "verse": 58
+    },
+    {
+      "texts": [
+        "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, five male lambs one year old. This was the offering of Gamaliel the son of Pedahzur.",
+        ""
+      ],
+      "verse": 59
+    },
+    {
+      "texts": [
+        "On the ninth day it was Abidan the son of Gideoni, leader of the sons of Benjamin;"
+      ],
+      "verse": 60
+    },
+    {
+      "texts": [
+        "his offering was one silver dish whose weight was one hundred and thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;"
+      ],
+      "verse": 61
+    },
+    {
+      "texts": [
+        "one gold pan of ten shekels, full of incense;"
+      ],
+      "verse": 62
+    },
+    {
+      "texts": [
+        "one bull, one ram, one male lamb one year old, for a burnt offering;"
+      ],
+      "verse": 63
+    },
+    {
+      "texts": [
+        "one male goat for a sin offering;"
+      ],
+      "verse": 64
+    },
+    {
+      "texts": [
+        "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, five male lambs one year old. This was the offering of Abidan the son of Gideoni.",
+        ""
+      ],
+      "verse": 65
+    },
+    {
+      "texts": [
+        "On the tenth day it was Ahiezer the son of Ammishaddai, leader of the sons of Dan;"
+      ],
+      "verse": 66
+    },
+    {
+      "texts": [
+        "his offering was one silver dish whose weight was one hundred and thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;"
+      ],
+      "verse": 67
+    },
+    {
+      "texts": [
+        "one gold pan of ten shekels, full of incense;"
+      ],
+      "verse": 68
+    },
+    {
+      "texts": [
+        "one bull, one ram, one male lamb one year old, for a burnt offering;"
+      ],
+      "verse": 69
+    },
+    {
+      "texts": [
+        "one male goat for a sin offering;"
+      ],
+      "verse": 70
+    },
+    {
+      "texts": [
+        "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, five male lambs one year old. This was the offering of Ahiezer the son of Ammishaddai.",
+        ""
+      ],
+      "verse": 71
+    },
+    {
+      "texts": [
+        "On the eleventh day it was Pagiel the son of Ochran, leader of the sons of Asher;"
+      ],
+      "verse": 72
+    },
+    {
+      "texts": [
+        "his offering was one silver dish whose weight was one hundred and thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;"
+      ],
+      "verse": 73
+    },
+    {
+      "texts": [
+        "one gold pan of ten shekels, full of incense;"
+      ],
+      "verse": 74
+    },
+    {
+      "texts": [
+        "one bull, one ram, one male lamb one year old, for a burnt offering;"
+      ],
+      "verse": 75
+    },
+    {
+      "texts": [
+        "one male goat for a sin offering;"
+      ],
+      "verse": 76
+    },
+    {
+      "texts": [
+        "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, five male lambs one year old. This was the offering of Pagiel the son of Ochran.",
+        ""
+      ],
+      "verse": 77
+    },
+    {
+      "texts": [
+        "On the twelfth day it was Ahira the son of Enan, leader of the sons of Naphtali;"
+      ],
+      "verse": 78
+    },
+    {
+      "texts": [
+        "his offering was one silver dish whose weight was one hundred and thirty shekels, one silver bowl of seventy shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;"
+      ],
+      "verse": 79
+    },
+    {
+      "texts": [
+        "one gold pan of ten shekels, full of incense;"
+      ],
+      "verse": 80
+    },
+    {
+      "texts": [
+        "one bull, one ram, one male lamb one year old, for a burnt offering;"
+      ],
+      "verse": 81
+    },
+    {
+      "texts": [
+        "one male goat for a sin offering;"
+      ],
+      "verse": 82
+    },
+    {
+      "texts": [
+        "and for the sacrifice of peace offerings, two oxen, five rams, five male goats, five male lambs one year old. This was the offering of Ahira the son of Enan.",
+        ""
+      ],
+      "verse": 83
+    },
+    {
+      "texts": [
+        "This was the dedication offering for the altar from the leaders of Israel when it was anointed: twelve silver dishes, twelve silver bowls, twelve gold pans,"
+      ],
+      "verse": 84
+    },
+    {
+      "texts": [
+        "each silver dish weighing one hundred and thirty shekels and each bowl seventy; all the silver of the utensils was 2,400 shekels, according to the shekel of the sanctuary;"
+      ],
+      "verse": 85
+    },
+    {
+      "texts": [
+        "the twelve gold pans, full of incense, weighing ten shekels apiece, according to the shekel of the sanctuary, all the gold of the pans 120 shekels;"
+      ],
+      "verse": 86
+    },
+    {
+      "texts": [
+        "all the oxen for the burnt offering twelve bulls, all the rams twelve, the male lambs one year old with their grain offering twelve, and the male goats for a sin offering twelve;"
+      ],
+      "verse": 87
+    },
+    {
+      "texts": [
+        "and all the oxen for the sacrifice of peace offerings 24 bulls, all the rams 60, the male goats 60, the male lambs one year old 60. This was the dedication offering for the altar after it was anointed.",
+        ""
+      ],
+      "verse": 88
+    },
+    {
+      "texts": [
+        "Now when Moses went into the tent of meeting to speak with Him, he heard the voice speaking to him from above the mercy seat that was on the ark of the testimony, from between the two cherubim, so He spoke to him."
+      ],
+      "verse": 89
+    }
+  ]
+}

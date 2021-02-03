@@ -1,0 +1,55 @@
+{
+  "book_id": "PSA",
+  "book_name": "Psalms",
+  "chapter": 110,
+  "verses": [
+    {
+      "texts": [
+        "The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
+        ""
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "The Lord shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.",
+        ""
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.",
+        ""
+      ],
+      "verse": 3
+    },
+    {
+      "texts": [
+        "The Lord hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek.",
+        ""
+      ],
+      "verse": 4
+    },
+    {
+      "texts": [
+        "The Lord at thy right hand shall strike through kings in the day of his wrath.",
+        ""
+      ],
+      "verse": 5
+    },
+    {
+      "texts": [
+        "He shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries.",
+        ""
+      ],
+      "verse": 6
+    },
+    {
+      "texts": [
+        "He shall drink of the brook in the way: therefore shall he lift up the head."
+      ],
+      "verse": 7
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "book_id": "PSA",
+  "book_name": "PSALMS",
+  "chapter": 150,
+  "verses": [
+    {
+      "texts": [
+        "Praise the Lord!",
+        "Praise God in His sanctuary;",
+        "Praise Him in His mighty expanse."
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "Praise Him for His mighty deeds;",
+        "Praise Him according to His excellent greatness."
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "Praise Him with trumpet sound;",
+        "Praise Him with harp and lyre."
+      ],
+      "verse": 3
+    },
+    {
+      "texts": [
+        "Praise Him with timbrel and dancing;",
+        "Praise Him with stringed instruments and pipe."
+      ],
+      "verse": 4
+    },
+    {
+      "texts": [
+        "Praise Him with loud cymbals;",
+        "Praise Him with resounding cymbals."
+      ],
+      "verse": 5
+    },
+    {
+      "texts": [
+        "Let everything that has breath praise the Lord.",
+        "Praise the Lord!"
+      ],
+      "verse": 6
+    }
+  ]
+}

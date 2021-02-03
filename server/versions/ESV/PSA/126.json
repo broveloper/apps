@@ -1,0 +1,53 @@
+{
+  "book_id": "PSA",
+  "book_name": "Psalms",
+  "chapter": 126,
+  "verses": [
+    {
+      "texts": [
+        "When the Lord restored the fortunes of Zion,",
+        "we were like those who dream."
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "Then our mouth was filled with laughter,",
+        "and our tongue with shouts of joy;",
+        "then they said among the nations,",
+        "\"The Lord has done great things for them.\""
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "The Lord has done great things for us;",
+        "we are glad."
+      ],
+      "verse": 3
+    },
+    {
+      "texts": [
+        "Restore our fortunes, O Lord,",
+        "like streams in the Negeb!"
+      ],
+      "verse": 4
+    },
+    {
+      "texts": [
+        "Those who sow in tears",
+        "shall reap with shouts of joy!"
+      ],
+      "verse": 5
+    },
+    {
+      "texts": [
+        "He who goes out weeping,",
+        "bearing the seed for sowing,",
+        "shall come home with shouts of joy,",
+        "bringing his sheaves with him."
+      ],
+      "verse": 6
+    }
+  ]
+}

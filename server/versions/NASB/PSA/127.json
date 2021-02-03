@@ -1,0 +1,47 @@
+{
+  "book_id": "PSA",
+  "book_name": "PSALMS",
+  "chapter": 127,
+  "verses": [
+    {
+      "texts": [
+        "Unless the Lord builds the house,",
+        "They labor in vain who build it;",
+        "Unless the Lord guards the city,",
+        "The watchman keeps awake in vain."
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "It is vain for you to rise up early,",
+        "To retire late,",
+        "To eat the bread of painful labors;",
+        "For He gives to His beloved even in his sleep."
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "Behold, children are a gift of the Lord,",
+        "The fruit of the womb is a reward."
+      ],
+      "verse": 3
+    },
+    {
+      "texts": [
+        "Like arrows in the hand of a warrior,",
+        "So are the children of one's youth."
+      ],
+      "verse": 4
+    },
+    {
+      "texts": [
+        "How blessed is the man whose quiver is full of them;",
+        "They will not be ashamed",
+        "When they speak with their enemies in the gate."
+      ],
+      "verse": 5
+    }
+  ]
+}

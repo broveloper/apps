@@ -1,0 +1,44 @@
+{
+  "book_id": "PSA",
+  "book_name": "PSALMS",
+  "chapter": 100,
+  "verses": [
+    {
+      "texts": [
+        "Shout joyfully to the Lord, all the earth."
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "Serve the Lord with gladness;",
+        "Come before Him with joyful singing."
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "Know that the Lord Himself is God;",
+        "It is He who has made us, and not we ourselves;",
+        "We are His people and the sheep of His pasture."
+      ],
+      "verse": 3
+    },
+    {
+      "texts": [
+        "Enter His gates with thanksgiving",
+        "And His courts with praise.",
+        "Give thanks to Him, bless His name."
+      ],
+      "verse": 4
+    },
+    {
+      "texts": [
+        "For the Lord is good;",
+        "His lovingkindness is everlasting",
+        "And His faithfulness to all generations."
+      ],
+      "verse": 5
+    }
+  ]
+}

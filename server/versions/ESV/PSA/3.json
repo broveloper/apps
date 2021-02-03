@@ -1,0 +1,65 @@
+{
+  "book_id": "PSA",
+  "book_name": "Psalms",
+  "chapter": 3,
+  "verses": [
+    {
+      "texts": [
+        "O Lord, how many are my foes!",
+        "Many are rising against me;"
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "many are saying of my soul,",
+        "there is no salvation for him in God. Selah"
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "But you, O Lord, are a shield about me,",
+        "my glory, and the lifter of my head."
+      ],
+      "verse": 3
+    },
+    {
+      "texts": [
+        "I cried aloud to the Lord,",
+        "and he answered me from his holy hill. Selah"
+      ],
+      "verse": 4
+    },
+    {
+      "texts": [
+        "I lay down and slept;",
+        "I woke again, for the Lord sustained me."
+      ],
+      "verse": 5
+    },
+    {
+      "texts": [
+        "I will not be afraid of many thousands of people",
+        "who have set themselves against me all around."
+      ],
+      "verse": 6
+    },
+    {
+      "texts": [
+        "Arise, O Lord!",
+        "Save me, O my God!",
+        "For you strike all my enemies on the cheek;",
+        "you break the teeth of the wicked."
+      ],
+      "verse": 7
+    },
+    {
+      "texts": [
+        "Salvation belongs to the Lord;",
+        "your blessing be on your people! Selah"
+      ],
+      "verse": 8
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "book_id": "PSA",
+  "book_name": "Psalms",
+  "chapter": 14,
+  "verses": [
+    {
+      "texts": [
+        "The fool says in his heart, \"There is no God.\"",
+        "They are corrupt, they do abominable deeds,",
+        "there is none who does good."
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "The Lord looks down from heaven on the children of man,",
+        "to see if there are any who understand,",
+        "who seek after God."
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "They have all turned aside; together they have become corrupt;",
+        "there is none who does good,",
+        "not even one."
+      ],
+      "verse": 3
+    },
+    {
+      "texts": [
+        "Have they no knowledge, all the evildoers",
+        "who eat up my people as they eat bread",
+        "and do not call upon the Lord?"
+      ],
+      "verse": 4
+    },
+    {
+      "texts": [
+        "There they are in great terror,",
+        "for God is with the generation of the righteous."
+      ],
+      "verse": 5
+    },
+    {
+      "texts": [
+        "You would shame the plans of the poor,",
+        "but the Lord is his refuge."
+      ],
+      "verse": 6
+    },
+    {
+      "texts": [
+        "Oh, that salvation for Israel would come out of Zion!",
+        "When the Lord restores the fortunes of his people,",
+        "let Jacob rejoice, let Israel be glad."
+      ],
+      "verse": 7
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "book_id": "PSA",
+  "book_name": "Psalms",
+  "chapter": 133,
+  "verses": [
+    {
+      "texts": [
+        "Behold, how good and how pleasant it is for brethren to dwell together in unity!",
+        ""
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "It is like the precious ointment upon the head, that ran down upon the beard, even Aaron's beard: that went down to the skirts of his garments;",
+        ""
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "As the dew of Hermon, and as the dew that descended upon the mountains of Zion: for there the Lord commanded the blessing, even life for evermore."
+      ],
+      "verse": 3
+    }
+  ]
+}

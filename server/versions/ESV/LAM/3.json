@@ -1,0 +1,469 @@
+{
+  "book_id": "LAM",
+  "book_name": "Lamentations",
+  "chapter": 3,
+  "verses": [
+    {
+      "texts": [
+        "I am the man who has seen affliction",
+        "under the rod of his wrath;"
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "he has driven and brought me",
+        "into darkness without any light;"
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "surely against me he turns his hand",
+        "again and again the whole day long."
+      ],
+      "verse": 3
+    },
+    {
+      "texts": [
+        "He has made my flesh and my skin waste away;",
+        "he has broken my bones;"
+      ],
+      "verse": 4
+    },
+    {
+      "texts": [
+        "he has besieged and enveloped me",
+        "with bitterness and tribulation;"
+      ],
+      "verse": 5
+    },
+    {
+      "texts": [
+        "he has made me dwell in darkness",
+        "like the dead of long ago."
+      ],
+      "verse": 6
+    },
+    {
+      "texts": [
+        "He has walled me about so that I cannot escape;",
+        "he has made my chains heavy;"
+      ],
+      "verse": 7
+    },
+    {
+      "texts": [
+        "though I call and cry for help,",
+        "he shuts out my prayer;"
+      ],
+      "verse": 8
+    },
+    {
+      "texts": [
+        "he has blocked my ways with blocks of stones;",
+        "he has made my paths crooked."
+      ],
+      "verse": 9
+    },
+    {
+      "texts": [
+        "He is a bear lying in wait for me,",
+        "a lion in hiding;"
+      ],
+      "verse": 10
+    },
+    {
+      "texts": [
+        "he turned aside my steps and tore me to pieces;",
+        "he has made me desolate;"
+      ],
+      "verse": 11
+    },
+    {
+      "texts": [
+        "he bent his bow and set me",
+        "as a target for his arrow."
+      ],
+      "verse": 12
+    },
+    {
+      "texts": [
+        "He drove into my kidneys",
+        "the arrows of his quiver;"
+      ],
+      "verse": 13
+    },
+    {
+      "texts": [
+        "I have become the laughingstock of all peoples,",
+        "the object of their taunts all day long."
+      ],
+      "verse": 14
+    },
+    {
+      "texts": [
+        "He has filled me with bitterness;",
+        "he has sated me with wormwood."
+      ],
+      "verse": 15
+    },
+    {
+      "texts": [
+        "He has made my teeth grind on gravel,",
+        "and made me cower in ashes;"
+      ],
+      "verse": 16
+    },
+    {
+      "texts": [
+        "my soul is bereft of peace;",
+        "I have forgotten what happiness is;"
+      ],
+      "verse": 17
+    },
+    {
+      "texts": [
+        "so I say, \"My endurance has perished;",
+        "so has my hope from the Lord.\""
+      ],
+      "verse": 18
+    },
+    {
+      "texts": [
+        "Remember my affliction and my wanderings,",
+        "the wormwood and the gall!"
+      ],
+      "verse": 19
+    },
+    {
+      "texts": [
+        "My soul continually remembers it",
+        "and is bowed down within me."
+      ],
+      "verse": 20
+    },
+    {
+      "texts": [
+        "But this I call to mind,",
+        "and therefore I have hope:"
+      ],
+      "verse": 21
+    },
+    {
+      "texts": [
+        "The steadfast love of the Lord never ceases;",
+        "his mercies never come to an end;"
+      ],
+      "verse": 22
+    },
+    {
+      "texts": [
+        "they are new every morning;",
+        "great is your faithfulness."
+      ],
+      "verse": 23
+    },
+    {
+      "texts": [
+        "\"The Lord is my portion,\" says my soul,",
+        "\"therefore I will hope in him.\""
+      ],
+      "verse": 24
+    },
+    {
+      "texts": [
+        "The Lord is good to those who wait for him,",
+        "to the soul who seeks him."
+      ],
+      "verse": 25
+    },
+    {
+      "texts": [
+        "It is good that one should wait quietly",
+        "for the salvation of the Lord."
+      ],
+      "verse": 26
+    },
+    {
+      "texts": [
+        "It is good for a man that he bear",
+        "the yoke in his youth."
+      ],
+      "verse": 27
+    },
+    {
+      "texts": [
+        "Let him sit alone in silence",
+        "when it is laid on him;"
+      ],
+      "verse": 28
+    },
+    {
+      "texts": [
+        "let him put his mouth in the dust—",
+        "there may yet be hope;"
+      ],
+      "verse": 29
+    },
+    {
+      "texts": [
+        "let him give his cheek to the one who strikes,",
+        "and let him be filled with insults."
+      ],
+      "verse": 30
+    },
+    {
+      "texts": [
+        "For the Lord will not",
+        "cast off forever,"
+      ],
+      "verse": 31
+    },
+    {
+      "texts": [
+        "but, though he cause grief, he will have compassion",
+        "according to the abundance of his steadfast love;"
+      ],
+      "verse": 32
+    },
+    {
+      "texts": [
+        "for he does not afflict from his heart",
+        "or grieve the children of men."
+      ],
+      "verse": 33
+    },
+    {
+      "texts": [
+        "To crush underfoot",
+        "all the prisoners of the earth,"
+      ],
+      "verse": 34
+    },
+    {
+      "texts": [
+        "to deny a man justice",
+        "in the presence of the Most High,"
+      ],
+      "verse": 35
+    },
+    {
+      "texts": [
+        "to subvert a man in his lawsuit,",
+        "the Lord does not approve."
+      ],
+      "verse": 36
+    },
+    {
+      "texts": [
+        "Who has spoken and it came to pass,",
+        "unless the Lord has commanded it?"
+      ],
+      "verse": 37
+    },
+    {
+      "texts": [
+        "Is it not from the mouth of the Most High",
+        "that good and bad come?"
+      ],
+      "verse": 38
+    },
+    {
+      "texts": [
+        "Why should a living man complain,",
+        "a man, about the punishment of his sins?"
+      ],
+      "verse": 39
+    },
+    {
+      "texts": [
+        "Let us test and examine our ways,",
+        "and return to the Lord!"
+      ],
+      "verse": 40
+    },
+    {
+      "texts": [
+        "Let us lift up our hearts and hands",
+        "to God in heaven:"
+      ],
+      "verse": 41
+    },
+    {
+      "texts": [
+        "\"We have transgressed and rebelled,",
+        "and you have not forgiven."
+      ],
+      "verse": 42
+    },
+    {
+      "texts": [
+        "\"You have wrapped yourself with anger and pursued us,",
+        "killing without pity;"
+      ],
+      "verse": 43
+    },
+    {
+      "texts": [
+        "you have wrapped yourself with a cloud",
+        "so that no prayer can pass through."
+      ],
+      "verse": 44
+    },
+    {
+      "texts": [
+        "You have made us scum and garbage",
+        "among the peoples."
+      ],
+      "verse": 45
+    },
+    {
+      "texts": [
+        "\"All our enemies",
+        "open their mouths against us;"
+      ],
+      "verse": 46
+    },
+    {
+      "texts": [
+        "panic and pitfall have come upon us,",
+        "devastation and destruction;"
+      ],
+      "verse": 47
+    },
+    {
+      "texts": [
+        "my eyes flow with rivers of tears",
+        "because of the destruction of the daughter of my people."
+      ],
+      "verse": 48
+    },
+    {
+      "texts": [
+        "\"My eyes will flow without ceasing,",
+        "without respite,"
+      ],
+      "verse": 49
+    },
+    {
+      "texts": [
+        "until the Lord from heaven",
+        "looks down and sees;"
+      ],
+      "verse": 50
+    },
+    {
+      "texts": [
+        "my eyes cause me grief",
+        "at the fate of all the daughters of my city."
+      ],
+      "verse": 51
+    },
+    {
+      "texts": [
+        "\"I have been hunted like a bird",
+        "by those who were my enemies without cause;"
+      ],
+      "verse": 52
+    },
+    {
+      "texts": [
+        "they flung me alive into the pit",
+        "and cast stones on me;"
+      ],
+      "verse": 53
+    },
+    {
+      "texts": [
+        "water closed over my head;",
+        "I said, 'I am lost.'"
+      ],
+      "verse": 54
+    },
+    {
+      "texts": [
+        "\"I called on your name, O Lord,",
+        "from the depths of the pit;"
+      ],
+      "verse": 55
+    },
+    {
+      "texts": [
+        "you heard my plea, 'Do not close",
+        "your ear to my cry for help!'"
+      ],
+      "verse": 56
+    },
+    {
+      "texts": [
+        "You came near when I called on you;",
+        "you said, 'Do not fear!'"
+      ],
+      "verse": 57
+    },
+    {
+      "texts": [
+        "\"You have taken up my cause, O Lord;",
+        "you have redeemed my life."
+      ],
+      "verse": 58
+    },
+    {
+      "texts": [
+        "You have seen the wrong done to me, O Lord;",
+        "judge my cause."
+      ],
+      "verse": 59
+    },
+    {
+      "texts": [
+        "You have seen all their vengeance,",
+        "all their plots against me."
+      ],
+      "verse": 60
+    },
+    {
+      "texts": [
+        "\"You have heard their taunts, O Lord,",
+        "all their plots against me."
+      ],
+      "verse": 61
+    },
+    {
+      "texts": [
+        "The lips and thoughts of my assailants",
+        "are against me all the day long."
+      ],
+      "verse": 62
+    },
+    {
+      "texts": [
+        "Behold their sitting and their rising;",
+        "I am the object of their taunts."
+      ],
+      "verse": 63
+    },
+    {
+      "texts": [
+        "\"You will repay them, O Lord,",
+        "according to the work of their hands."
+      ],
+      "verse": 64
+    },
+    {
+      "texts": [
+        "You will give them dullness of heart;",
+        "your curse will be on them."
+      ],
+      "verse": 65
+    },
+    {
+      "texts": [
+        "You will pursue them in anger and destroy them",
+        "from under your heavens, O Lord.\""
+      ],
+      "verse": 66
+    }
+  ]
+}

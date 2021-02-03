@@ -1,0 +1,57 @@
+{
+  "book_id": "PSA",
+  "book_name": "PSALMS",
+  "chapter": 67,
+  "verses": [
+    {
+      "texts": [
+        "God be gracious to us and bless us,",
+        "And cause His face to shine upon us- Selah."
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "That Your way may be known on the earth,",
+        "Your salvation among all nations."
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "Let the peoples praise You, O God;",
+        "Let all the peoples praise You."
+      ],
+      "verse": 3
+    },
+    {
+      "texts": [
+        "Let the nations be glad and sing for joy;",
+        "For You will judge the peoples with uprightness",
+        "And guide the nations on the earth. Selah."
+      ],
+      "verse": 4
+    },
+    {
+      "texts": [
+        "Let the peoples praise You, O God;",
+        "Let all the peoples praise You."
+      ],
+      "verse": 5
+    },
+    {
+      "texts": [
+        "The earth has yielded its produce;",
+        "God, our God, blesses us."
+      ],
+      "verse": 6
+    },
+    {
+      "texts": [
+        "God blesses us,",
+        "That all the ends of the earth may fear Him."
+      ],
+      "verse": 7
+    }
+  ]
+}

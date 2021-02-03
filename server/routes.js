@@ -1,86 +1,56 @@
-const _ = require('lodash');
-const axios = require('axios');
+const fs = require('fs');
+const path = require('path');
+const fuzzy = require('fuzzy');
 
-const apis = {
-	esv: axios.create({
-		baseURL: 'https://api.esv.org/v3/passage',
-		timeout: 10000,
-		transformResponse: data => {
-			return JSON.parse(data);
-		},
-		headers: {
-			'Authorization': `Token ${process.env.ESV_API_KEY}`,
-		},
-	}),
-	kjv: axios.create({
-		baseURL: 'https://bible-api.com',
-		timeout: 10000,
-		transformResponse: data => {
-			return JSON.parse(data);
-		},
-	}),
+
+const getPassage = (BOOKS_DIR, q) => {
+	const bregex = /^\s*(\d?\s*[a-zA-Z]+)\s+(\d+):?(\d+\s*-?\s*\d*)?\s*$/;
+	if (!bregex.test(q)) return new Error('Invalid passage search provided.');
+	const BOOKS_FILE = path.join(BOOKS_DIR, 'books.json');
+	if (!fs.existsSync(BOOKS_FILE)) return new Error(`No books.json found for version.`);
+	const books = JSON.parse(fs.readFileSync(BOOKS_FILE, 'utf8'));
+	const [b, c, vs] = q.replace(bregex, '$1|$2|$3').split('|');
+	const book_found = fuzzy.filter(b, Object.keys(books))?.[0]?.string;
+	const BOOK = books[book_found];
+	if (!BOOK) return new Error(`No books under (${b}) found.`);
+	const BOOK_DIR = path.join(BOOKS_DIR, BOOK);
+	if (!fs.existsSync(BOOK_DIR)) return new Error(`No (${book_found}) found.`);
+	const CHAPTER_FILE = path.join(BOOK_DIR, `${c}.json`);
+	if (!fs.existsSync(CHAPTER_FILE)) return new Error(`Chapter (${c}) does not exists for (${BOOK}).`);
+	const chapter = JSON.parse(fs.readFileSync(CHAPTER_FILE, 'utf8'));
+	const chapter_meta = {
+		book_id: chapter.book_id,
+		book_name: chapter.book_name,
+		chapter: chapter.chapter,
+	};
+	const chapterRange = [chapter.verses[0].verse, chapter.verses[chapter.verses.length - 1].verse];
+	const range = [chapterRange[0], chapterRange[1]];
+	if (vs.trim()) {
+		const vr = vs.split('-');
+		range[0] = parseInt(vr[0].trim())
+		range[1] = vr[1]?.trim?.() ? parseInt(vr[1].trim()) : range[0];
+		range[1] = Math.max(range[0], range[1]);
+		range[1] = Math.min(range[1], chapterRange[1]);
+	}
+	const verses = chapter.verses
+		.filter(verse => verse.verse >= range[0] && verse.verse <= range[1])
+		.map(verse => Object.assign({}, chapter_meta, verse, { text: verse.texts.join('\r\n\t') }));
+	return verses;
 };
-
-const versesapi = {
-	esv: q => {
-		const params = {
-			q,
-			'include-copyright': false,
-			'include-headings': false,
-			'include-first-verse-numbers': false,
-			'include-footnotes': false,
-			'include-footnote-body': false,
-			'include-verse-numbers': true,
-			'include-selahs': true,
-			'include-short-copyright': false,
-			'include-passage-references': false,
-		};
-		return apis.esv.get('/text', { params }).then(res => {
-			const data = res.data;
-			let verses = [];
-			_.each(data.passages, (passage, i) => {
-				const meta = data.passage_meta[i];
-				const [book_name, meta2] = meta.canonical.split(' ');
-				const [chapter] = meta2.split(':');
-				const pverses = [];
-				_.chain(passage.match(/(\[\d+\])/g))
-					.reverse()
-					.reduce((passage, n) => {
-						const [rest, text] = passage.split(n);
-						pverses.unshift({
-							book_name,
-							chapter,
-							text: text.trim(),
-							verse: parseInt(n.slice(1, n.length - 1)),
-						});
-						return rest;
-					}, passage)
-					.value();
-				verses = _.concat(verses, pverses);
-			});
-			return verses;
-		});
-	},
-	kjv: q => {
-		const params = {
-			translation: 'kjv',
-		};
-		return apis.kjv.get(`/${q}`, { params }).then(res => {
-			return _.map(res.data.verses, verse => Object.assign(verse, {
-				text: verse.text.trim().replace(/\r\n|\n\r|\n|\r/g, ' '),
-			}));
-		});
-	},
-}
 
 module.exports = app => {
 	app.get('/v1/:version/text', (req, res) => {
 		const { version } = req.params;
+		const BOOKS_DIR = path.join(__dirname, 'versions', version);
+		if (!fs.existsSync(BOOKS_DIR)) return res.json({ msg: 'No version provided' });
 		const { q } = req.query;
-		if (versesapi[version]) {
-			versesapi[version](q).then(data => res.json(data));
-		} else {
-			res.json({ msg: 'No version provided' });
-		}
+		const passages = q.split(',')
+			.map(q => getPassage(BOOKS_DIR, q))
+			.filter(passage => {
+				if (!(passage instanceof Error)) return true;
+				return console.log(passage);
+			})
+			.reduce((passages, passage) => passages.concat(passage), []);
+		res.json(passages);
 	});
 };

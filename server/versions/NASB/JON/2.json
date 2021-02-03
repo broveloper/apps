@@ -1,0 +1,87 @@
+{
+  "book_id": "JON",
+  "book_name": "JONAH",
+  "chapter": 2,
+  "verses": [
+    {
+      "texts": [
+        "Then Jonah prayed to the Lord his God from the stomach of the fish,"
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "and he said,",
+        "\"I called out of my distress to the Lord,",
+        "And He answered me.",
+        "I cried for help from the depth of Sheol;",
+        "You heard my voice."
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "\"For You had cast me into the deep,",
+        "Into the heart of the seas,",
+        "And the current engulfed me.",
+        "All Your breakers and billows passed over me."
+      ],
+      "verse": 3
+    },
+    {
+      "texts": [
+        "\"So I said, 'I have been expelled from Your sight.",
+        "Nevertheless I will look again toward Your holy temple.'"
+      ],
+      "verse": 4
+    },
+    {
+      "texts": [
+        "\"Water encompassed me to the point of death.",
+        "The great deep engulfed me,",
+        "Weeds were wrapped around my head."
+      ],
+      "verse": 5
+    },
+    {
+      "texts": [
+        "\"I descended to the roots of the mountains.",
+        "The earth with its bars was around me forever,",
+        "But You have brought up my life from the pit, O Lord my God."
+      ],
+      "verse": 6
+    },
+    {
+      "texts": [
+        "\"While I was fainting away,",
+        "I remembered the Lord,",
+        "And my prayer came to You,",
+        "Into Your holy temple."
+      ],
+      "verse": 7
+    },
+    {
+      "texts": [
+        "\"Those who regard vain idols",
+        "Forsake their faithfulness,"
+      ],
+      "verse": 8
+    },
+    {
+      "texts": [
+        "But I will sacrifice to You",
+        "With the voice of thanksgiving.",
+        "That which I have vowed I will pay.",
+        "Salvation is from the Lord.\"",
+        ""
+      ],
+      "verse": 9
+    },
+    {
+      "texts": [
+        "Then the Lord commanded the fish, and it vomited Jonah up onto the dry land."
+      ],
+      "verse": 10
+    }
+  ]
+}

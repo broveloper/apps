@@ -1,0 +1,41 @@
+{
+  "book_id": "PSA",
+  "book_name": "Psalms",
+  "chapter": 127,
+  "verses": [
+    {
+      "texts": [
+        "Except the Lord build the house, they labour in vain that build it: except the Lord keep the city, the watchman waketh but in vain.",
+        ""
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep.",
+        ""
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "Lo, children are an heritage of the Lord: and the fruit of the womb is his reward.",
+        ""
+      ],
+      "verse": 3
+    },
+    {
+      "texts": [
+        "As arrows are in the hand of a mighty man; so are children of the youth.",
+        ""
+      ],
+      "verse": 4
+    },
+    {
+      "texts": [
+        "Happy is the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate."
+      ],
+      "verse": 5
+    }
+  ]
+}

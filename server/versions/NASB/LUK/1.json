@@ -1,0 +1,517 @@
+{
+  "book_id": "LUK",
+  "book_name": "LUKE",
+  "chapter": 1,
+  "verses": [
+    {
+      "texts": [
+        "Inasmuch as many have undertaken to compile an account of the things accomplished among us,"
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "just as they were handed down to us by those who from the beginning were eyewitnesses and servants of the word,"
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "it seemed fitting for me as well, having investigated everything carefully from the beginning, to write it out for you in consecutive order, most excellent Theophilus;"
+      ],
+      "verse": 3
+    },
+    {
+      "texts": [
+        "so that you may know the exact truth about the things you have been taught.",
+        ""
+      ],
+      "verse": 4
+    },
+    {
+      "texts": [
+        "In the days of Herod, king of Judea, there was a priest named Zacharias, of the division of Abijah; and he had a wife from the daughters of Aaron, and her name was Elizabeth."
+      ],
+      "verse": 5
+    },
+    {
+      "texts": [
+        "They were both righteous in the sight of God, walking blamelessly in all the commandments and requirements of the Lord."
+      ],
+      "verse": 6
+    },
+    {
+      "texts": [
+        "But they had no child, because Elizabeth was barren, and they were both advanced in years.",
+        ""
+      ],
+      "verse": 7
+    },
+    {
+      "texts": [
+        "Now it happened that while he was performing his priestly service before God in the appointed order of his division,"
+      ],
+      "verse": 8
+    },
+    {
+      "texts": [
+        "according to the custom of the priestly office, he was chosen by lot to enter the temple of the Lord and burn incense."
+      ],
+      "verse": 9
+    },
+    {
+      "texts": [
+        "And the whole multitude of the people were in prayer outside at the hour of the incense offering."
+      ],
+      "verse": 10
+    },
+    {
+      "texts": [
+        "And an angel of the Lord appeared to him, standing to the right of the altar of incense."
+      ],
+      "verse": 11
+    },
+    {
+      "texts": [
+        "Zacharias was troubled when he saw the angel, and fear gripped him."
+      ],
+      "verse": 12
+    },
+    {
+      "texts": [
+        "But the angel said to him, \"Do not be afraid, Zacharias, for your petition has been heard, and your wife Elizabeth will bear you a son, and you will give him the name John."
+      ],
+      "verse": 13
+    },
+    {
+      "texts": [
+        "You will have joy and gladness, and many will rejoice at his birth."
+      ],
+      "verse": 14
+    },
+    {
+      "texts": [
+        "For he will be great in the sight of the Lord; and he will drink no wine or liquor, and he will be filled with the Holy Spirit while yet in his mother's womb."
+      ],
+      "verse": 15
+    },
+    {
+      "texts": [
+        "And he will turn many of the sons of Israel back to the Lord their God."
+      ],
+      "verse": 16
+    },
+    {
+      "texts": [
+        "It is he who will go as a forerunner before Him in the spirit and power of Elijah, to turn the hearts of the fathers back to the children, and the disobedient to the attitude of the righteous, so as to make ready a people prepared for the Lord.\"",
+        ""
+      ],
+      "verse": 17
+    },
+    {
+      "texts": [
+        "Zacharias said to the angel, \"How will I know this for certain? For I am an old man and my wife is advanced in years.\""
+      ],
+      "verse": 18
+    },
+    {
+      "texts": [
+        "The angel answered and said to him, \"I am Gabriel, who stands in the presence of God, and I have been sent to speak to you and to bring you this good news."
+      ],
+      "verse": 19
+    },
+    {
+      "texts": [
+        "And behold, you shall be silent and unable to speak until the day when these things take place, because you did not believe my words, which will be fulfilled in their proper time.\"",
+        ""
+      ],
+      "verse": 20
+    },
+    {
+      "texts": [
+        "The people were waiting for Zacharias, and were wondering at his delay in the temple."
+      ],
+      "verse": 21
+    },
+    {
+      "texts": [
+        "But when he came out, he was unable to speak to them; and they realized that he had seen a vision in the temple; and he kept making signs to them, and remained mute."
+      ],
+      "verse": 22
+    },
+    {
+      "texts": [
+        "When the days of his priestly service were ended, he went back home.",
+        ""
+      ],
+      "verse": 23
+    },
+    {
+      "texts": [
+        "After these days Elizabeth his wife became pregnant, and she kept herself in seclusion for five months, saying,"
+      ],
+      "verse": 24
+    },
+    {
+      "texts": [
+        "\"This is the way the Lord has dealt with me in the days when He looked with favor upon me, to take away my disgrace among men.\"",
+        ""
+      ],
+      "verse": 25
+    },
+    {
+      "texts": [
+        "Now in the sixth month the angel Gabriel was sent from God to a city in Galilee called Nazareth,"
+      ],
+      "verse": 26
+    },
+    {
+      "texts": [
+        "to a virgin engaged to a man whose name was Joseph, of the descendants of David; and the virgin's name was Mary."
+      ],
+      "verse": 27
+    },
+    {
+      "texts": [
+        "And coming in, he said to her, \"Greetings, favored one! The Lord is with you.\""
+      ],
+      "verse": 28
+    },
+    {
+      "texts": [
+        "But she was very perplexed at this statement, and kept pondering what kind of salutation this was."
+      ],
+      "verse": 29
+    },
+    {
+      "texts": [
+        "The angel said to her, \"Do not be afraid, Mary; for you have found favor with God."
+      ],
+      "verse": 30
+    },
+    {
+      "texts": [
+        "And behold, you will conceive in your womb and bear a son, and you shall name Him Jesus."
+      ],
+      "verse": 31
+    },
+    {
+      "texts": [
+        "He will be great and will be called the Son of the Most High; and the Lord God will give Him the throne of His father David;"
+      ],
+      "verse": 32
+    },
+    {
+      "texts": [
+        "and He will reign over the house of Jacob forever, and His kingdom will have no end.\""
+      ],
+      "verse": 33
+    },
+    {
+      "texts": [
+        "Mary said to the angel, \"How can this be, since I am a virgin?\""
+      ],
+      "verse": 34
+    },
+    {
+      "texts": [
+        "The angel answered and said to her, \"The Holy Spirit will come upon you, and the power of the Most High will overshadow you; and for that reason the holy Child shall be called the Son of God."
+      ],
+      "verse": 35
+    },
+    {
+      "texts": [
+        "And behold, even your relative Elizabeth has also conceived a son in her old age; and she who was called barren is now in her sixth month."
+      ],
+      "verse": 36
+    },
+    {
+      "texts": [
+        "For nothing will be impossible with God.\""
+      ],
+      "verse": 37
+    },
+    {
+      "texts": [
+        "And Mary said, \"Behold, the bondslave of the Lord; may it be done to me according to your word.\" And the angel departed from her.",
+        ""
+      ],
+      "verse": 38
+    },
+    {
+      "texts": [
+        "Now at this time Mary arose and went in a hurry to the hill country, to a city of Judah,"
+      ],
+      "verse": 39
+    },
+    {
+      "texts": [
+        "and entered the house of Zacharias and greeted Elizabeth."
+      ],
+      "verse": 40
+    },
+    {
+      "texts": [
+        "When Elizabeth heard Mary's greeting, the baby leaped in her womb; and Elizabeth was filled with the Holy Spirit."
+      ],
+      "verse": 41
+    },
+    {
+      "texts": [
+        "And she cried out with a loud voice and said, \"Blessed are you among women, and blessed is the fruit of your womb!"
+      ],
+      "verse": 42
+    },
+    {
+      "texts": [
+        "And how has it happened to me, that the mother of my Lord would come to me?"
+      ],
+      "verse": 43
+    },
+    {
+      "texts": [
+        "For behold, when the sound of your greeting reached my ears, the baby leaped in my womb for joy."
+      ],
+      "verse": 44
+    },
+    {
+      "texts": [
+        "And blessed is she who believed that there would be a fulfillment of what had been spoken to her by the Lord.\"",
+        ""
+      ],
+      "verse": 45
+    },
+    {
+      "texts": [
+        "And Mary said: \"My soul exalts the Lord,"
+      ],
+      "verse": 46
+    },
+    {
+      "texts": [
+        "And my spirit has rejoiced in God my Savior."
+      ],
+      "verse": 47
+    },
+    {
+      "texts": [
+        "\"For He has had regard for the humble state of His bondslave;",
+        "For behold, from this time on all generations will count me blessed."
+      ],
+      "verse": 48
+    },
+    {
+      "texts": [
+        "\"For the Mighty One has done great things for me;",
+        "And holy is His name."
+      ],
+      "verse": 49
+    },
+    {
+      "texts": [
+        "\"And His mercy is upon generation after generation",
+        "Toward those who fear Him."
+      ],
+      "verse": 50
+    },
+    {
+      "texts": [
+        "\"He has done mighty deeds with His arm;",
+        "He has scattered those who were proud in the thoughts of their heart."
+      ],
+      "verse": 51
+    },
+    {
+      "texts": [
+        "\"He has brought down rulers from their thrones,",
+        "And has exalted those who were humble."
+      ],
+      "verse": 52
+    },
+    {
+      "texts": [
+        "\"He has filled the hungry with good things;",
+        "And sent away the rich empty-handed."
+      ],
+      "verse": 53
+    },
+    {
+      "texts": [
+        "\"He has given help to Israel His servant,",
+        "In remembrance of His mercy,"
+      ],
+      "verse": 54
+    },
+    {
+      "texts": [
+        "As He spoke to our fathers,",
+        "To Abraham and his descendants forever.\"",
+        ""
+      ],
+      "verse": 55
+    },
+    {
+      "texts": [
+        "And Mary stayed with her about three months, and then returned to her home.",
+        ""
+      ],
+      "verse": 56
+    },
+    {
+      "texts": [
+        "Now the time had come for Elizabeth to give birth, and she gave birth to a son."
+      ],
+      "verse": 57
+    },
+    {
+      "texts": [
+        "Her neighbors and her relatives heard that the Lord had displayed His great mercy toward her; and they were rejoicing with her.",
+        ""
+      ],
+      "verse": 58
+    },
+    {
+      "texts": [
+        "And it happened that on the eighth day they came to circumcise the child, and they were going to call him Zacharias, after his father."
+      ],
+      "verse": 59
+    },
+    {
+      "texts": [
+        "But his mother answered and said, \"No indeed; but he shall be called John.\""
+      ],
+      "verse": 60
+    },
+    {
+      "texts": [
+        "And they said to her, \"There is no one among your relatives who is called by that name.\""
+      ],
+      "verse": 61
+    },
+    {
+      "texts": [
+        "And they made signs to his father, as to what he wanted him called."
+      ],
+      "verse": 62
+    },
+    {
+      "texts": [
+        "And he asked for a tablet and wrote as follows, \"His name is John.\" And they were all astonished."
+      ],
+      "verse": 63
+    },
+    {
+      "texts": [
+        "And at once his mouth was opened and his tongue loosed, and he began to speak in praise of God."
+      ],
+      "verse": 64
+    },
+    {
+      "texts": [
+        "Fear came on all those living around them; and all these matters were being talked about in all the hill country of Judea."
+      ],
+      "verse": 65
+    },
+    {
+      "texts": [
+        "All who heard them kept them in mind, saying, \"What then will this child turn out to be?\" For the hand of the Lord was certainly with him.",
+        ""
+      ],
+      "verse": 66
+    },
+    {
+      "texts": [
+        "And his father Zacharias was filled with the Holy Spirit, and prophesied, saying:"
+      ],
+      "verse": 67
+    },
+    {
+      "texts": [
+        "\"Blessed be the Lord God of Israel,",
+        "For He has visited us and accomplished redemption for His people,"
+      ],
+      "verse": 68
+    },
+    {
+      "texts": [
+        "And has raised up a horn of salvation for us",
+        "In the house of David His servant-"
+      ],
+      "verse": 69
+    },
+    {
+      "texts": [
+        "As He spoke by the mouth of His holy prophets from of old-"
+      ],
+      "verse": 70
+    },
+    {
+      "texts": [
+        "Salvation from our enemies,",
+        "And from the hand of all who hate us;"
+      ],
+      "verse": 71
+    },
+    {
+      "texts": [
+        "To show mercy toward our fathers,",
+        "And to remember His holy covenant,"
+      ],
+      "verse": 72
+    },
+    {
+      "texts": [
+        "The oath which He swore to Abraham our father,"
+      ],
+      "verse": 73
+    },
+    {
+      "texts": [
+        "To grant us that we, being rescued from the hand of our enemies,",
+        "Might serve Him without fear,"
+      ],
+      "verse": 74
+    },
+    {
+      "texts": [
+        "In holiness and righteousness before Him all our days."
+      ],
+      "verse": 75
+    },
+    {
+      "texts": [
+        "\"And you, child, will be called the prophet of the Most High;",
+        "For you will go on before the Lord to prepare His ways;"
+      ],
+      "verse": 76
+    },
+    {
+      "texts": [
+        "To give to His people the knowledge of salvation",
+        "By the forgiveness of their sins,"
+      ],
+      "verse": 77
+    },
+    {
+      "texts": [
+        "Because of the tender mercy of our God,",
+        "With which the Sunrise from on high will visit us,"
+      ],
+      "verse": 78
+    },
+    {
+      "texts": [
+        "To shine upon those who sit in darkness and the shadow of death,",
+        "To guide our feet into the way of peace.\"",
+        ""
+      ],
+      "verse": 79
+    },
+    {
+      "texts": [
+        "And the child continued to grow and to become strong in spirit, and he lived in the deserts until the day of his public appearance to Israel."
+      ],
+      "verse": 80
+    }
+  ]
+}

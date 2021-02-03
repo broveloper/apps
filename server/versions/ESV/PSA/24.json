@@ -1,0 +1,82 @@
+{
+  "book_id": "PSA",
+  "book_name": "Psalms",
+  "chapter": 24,
+  "verses": [
+    {
+      "texts": [
+        "The earth is the Lord's and the fullness thereof,",
+        "the world and those who dwell therein,"
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "for he has founded it upon the seas",
+        "and established it upon the rivers."
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "Who shall ascend the hill of the Lord?",
+        "And who shall stand in his holy place?"
+      ],
+      "verse": 3
+    },
+    {
+      "texts": [
+        "He who has clean hands and a pure heart,",
+        "who does not lift up his soul to what is false",
+        "and does not swear deceitfully."
+      ],
+      "verse": 4
+    },
+    {
+      "texts": [
+        "He will receive blessing from the Lord",
+        "and righteousness from the God of his salvation."
+      ],
+      "verse": 5
+    },
+    {
+      "texts": [
+        "Such is the generation of those who seek him,",
+        "who seek the face of the God of Jacob. Selah"
+      ],
+      "verse": 6
+    },
+    {
+      "texts": [
+        "Lift up your heads, O gates!",
+        "And be lifted up, O ancient doors,",
+        "that the King of glory may come in."
+      ],
+      "verse": 7
+    },
+    {
+      "texts": [
+        "Who is this King of glory?",
+        "The Lord, strong and mighty,",
+        "the Lord, mighty in battle!"
+      ],
+      "verse": 8
+    },
+    {
+      "texts": [
+        "Lift up your heads, O gates!",
+        "And lift them up, O ancient doors,",
+        "that the King of glory may come in."
+      ],
+      "verse": 9
+    },
+    {
+      "texts": [
+        "Who is this King of glory?",
+        "The Lord of hosts,",
+        "he is the King of glory! Selah"
+      ],
+      "verse": 10
+    }
+  ]
+}

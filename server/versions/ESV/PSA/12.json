@@ -1,0 +1,65 @@
+{
+  "book_id": "PSA",
+  "book_name": "Psalms",
+  "chapter": 12,
+  "verses": [
+    {
+      "texts": [
+        "Save, O Lord, for the godly one is gone;",
+        "for the faithful have vanished from among the children of man."
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "Everyone utters lies to his neighbor;",
+        "with flattering lips and a double heart they speak."
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "May the Lord cut off all flattering lips,",
+        "the tongue that makes great boasts,"
+      ],
+      "verse": 3
+    },
+    {
+      "texts": [
+        "those who say, \"With our tongue we will prevail,",
+        "our lips are with us; who is master over us?\""
+      ],
+      "verse": 4
+    },
+    {
+      "texts": [
+        "\"Because the poor are plundered, because the needy groan,",
+        "I will now arise,\" says the Lord;",
+        "\"I will place him in the safety for which he longs.\""
+      ],
+      "verse": 5
+    },
+    {
+      "texts": [
+        "The words of the Lord are pure words,",
+        "like silver refined in a furnace on the ground,",
+        "purified seven times."
+      ],
+      "verse": 6
+    },
+    {
+      "texts": [
+        "You, O Lord, will keep them;",
+        "you will guard us from this generation forever."
+      ],
+      "verse": 7
+    },
+    {
+      "texts": [
+        "On every side the wicked prowl,",
+        "as vileness is exalted among the children of man."
+      ],
+      "verse": 8
+    }
+  ]
+}

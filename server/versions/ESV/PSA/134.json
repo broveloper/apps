@@ -1,0 +1,28 @@
+{
+  "book_id": "PSA",
+  "book_name": "Psalms",
+  "chapter": 134,
+  "verses": [
+    {
+      "texts": [
+        "Come, bless the Lord, all you servants of the Lord,",
+        "who stand by night in the house of the Lord!"
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "Lift up your hands to the holy place",
+        "and bless the Lord!"
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "May the Lord bless you from Zion,",
+        "he who made heaven and earth!"
+      ],
+      "verse": 3
+    }
+  ]
+}

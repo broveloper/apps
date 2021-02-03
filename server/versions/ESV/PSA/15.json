@@ -1,0 +1,45 @@
+{
+  "book_id": "PSA",
+  "book_name": "Psalms",
+  "chapter": 15,
+  "verses": [
+    {
+      "texts": [
+        "O Lord, who shall sojourn in your tent?",
+        "Who shall dwell on your holy hill?"
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "He who walks blamelessly and does what is right",
+        "and speaks truth in his heart;"
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "who does not slander with his tongue",
+        "and does no evil to his neighbor,",
+        "nor takes up a reproach against his friend;"
+      ],
+      "verse": 3
+    },
+    {
+      "texts": [
+        "in whose eyes a vile person is despised,",
+        "but who honors those who fear the Lord;",
+        "who swears to his own hurt and does not change;"
+      ],
+      "verse": 4
+    },
+    {
+      "texts": [
+        "who does not put out his money at interest",
+        "and does not take a bribe against the innocent.",
+        "He who does these things shall never be moved."
+      ],
+      "verse": 5
+    }
+  ]
+}

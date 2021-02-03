@@ -1,0 +1,54 @@
+{
+  "book_id": "PSA",
+  "book_name": "Psalms",
+  "chapter": 1,
+  "verses": [
+    {
+      "texts": [
+        "Blessed is the man",
+        "who walks not in the counsel of the wicked,",
+        "nor stands in the way of sinners,",
+        "nor sits in the seat of scoffers;"
+      ],
+      "verse": 1
+    },
+    {
+      "texts": [
+        "but his delight is in the law of the Lord,",
+        "and on his law he meditates day and night."
+      ],
+      "verse": 2
+    },
+    {
+      "texts": [
+        "He is like a tree",
+        "planted by streams of water",
+        "that yields its fruit in its season,",
+        "and its leaf does not wither.",
+        "In all that he does, he prospers."
+      ],
+      "verse": 3
+    },
+    {
+      "texts": [
+        "The wicked are not so,",
+        "but are like chaff that the wind drives away."
+      ],
+      "verse": 4
+    },
+    {
+      "texts": [
+        "Therefore the wicked will not stand in the judgment,",
+        "nor sinners in the congregation of the righteous;"
+      ],
+      "verse": 5
+    },
+    {
+      "texts": [
+        "for the Lord knows the way of the righteous,",
+        "but the way of the wicked will perish."
+      ],
+      "verse": 6
+    }
+  ]
+}
