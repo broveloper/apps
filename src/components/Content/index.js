@@ -67,6 +67,7 @@ export const Content = props => {
 	const classes = useStyles();
 	const {
 		editRef,
+		inputRef,
 		longPressHandlers,
 		mapHTML,
 		onChangeHandler,
@@ -94,6 +95,7 @@ export const Content = props => {
 					onChange={onChangeHandler}
 					onKeyDown={onKeyDownHandler}
 					onKeyUp={onKeyUpHandler}
+					ref={inputRef}
 					type="text"
 					value="" />
 			</div>

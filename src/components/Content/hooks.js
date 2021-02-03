@@ -6,6 +6,7 @@ import { useLongPress } from 'react-use';
 export const useVerses = props => {
 	const { verses } = props;
 	const editRef = useRef();
+	const inputRef = useRef();
 	const [state, setState] = useState({});
 	const [showMeta, setShowMeta] = useState(false);
 	const {
@@ -101,7 +102,9 @@ export const useVerses = props => {
 
 	const longPress = useLongPress(e => setShowMeta(true));
 	const longPressHandlers = {
-		...longPress,
+		onMouseDown: e => { //console.log('onMouseDown');
+			inputRef.current.focus();
+		},
 		onMouseLeave: e => { //console.log('onMouseLeave');
 			longPress.onMouseLeave(e);
 			if (showMeta) setShowMeta(false);
@@ -114,11 +117,14 @@ export const useVerses = props => {
 			longPress.onTouchEnd(e);
 			if (showMeta) setShowMeta(false);
 		},
+		onTouchStart: e => { //console.log('onTouchStart');
+			inputRef.current.focus();
+		},
 	};
 
 	const onKeyDownHandler = e => e.metaKey && !showMeta && setShowMeta(true);
 	const onKeyUpHandler = e => showMeta && setShowMeta(false);
-	const onChangeHandler = e => e.nativeEvent.inputType === 'insertText' && input(e.nativeEvent.data);
+	const onChangeHandler = e => input(e.target.value);
 
 	useEffect(() => {
 		initialize();
@@ -130,6 +136,7 @@ export const useVerses = props => {
 
 	return {
 		editRef,
+		inputRef,
 		longPressHandlers,
 		mapHTML,
 		onChangeHandler,
