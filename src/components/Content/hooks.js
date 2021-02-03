@@ -104,6 +104,7 @@ export const useVerses = props => {
 	const longPressHandlers = {
 		onMouseDown: e => { //console.log('onMouseDown');
 			inputRef.current.focus();
+			longPress.onMouseDown(e);
 		},
 		onMouseLeave: e => { //console.log('onMouseLeave');
 			longPress.onMouseLeave(e);
@@ -119,6 +120,7 @@ export const useVerses = props => {
 		},
 		onTouchStart: e => { //console.log('onTouchStart');
 			inputRef.current.focus();
+			longPress.onTouchStart(e);
 		},
 	};
 
