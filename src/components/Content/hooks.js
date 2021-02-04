@@ -54,7 +54,7 @@ export const useVerses = props => {
 				inputSkip();
 			}
 		};
-		const inputSkip = (regex = /^[^a-zA-Z0-9]$/) => {
+		const inputSkip = (regex = /^[^a-zA-Z0-9']$/) => {
 			if (cursors.current.map?.nodeName !== '#text') return console.warn('input key on non #text node');
 			while (true) {
 				if (cursors.current.text.nodeValue === cursors.current.map.nodeValue) break;
@@ -70,14 +70,14 @@ export const useVerses = props => {
 		const inputText = (text, options) => { //console.log('inputText', text);
 			if (cursors.current.map?.nodeName !== '#text') return console.warn('input text on non #text node');
 			const remainingText = cursors.current.map.nodeValue.substring(cursors.current.text.length, cursors.current.map.length);
-			if (options?.composition) {
+			if (options?.composition || text.length > 1) {
 				const nextText = remainingText.substring(0, text.length);
 				if (areSimilar(text, nextText)) {
 					logsRef.current.log(`append: ${nextText}`);
 					cursors.current.text.nodeValue += nextText;
 					return inputSkip() || true;
 				}
-				if (/^[\d,]+$/.test(text) && /^[a-zA-Z]/.test(nextText)) {
+				if (/^[\d,]+$/.test(text)) {
 					const numberText = converter.toWords(text.replace(',', ''));
 					const nextText = remainingText.substring(0, numberText.length);
 					if (areSimilar(numberText, nextText)) {
@@ -97,7 +97,7 @@ export const useVerses = props => {
 		};
 		const input = (text, options) => {
 			if (!text) return console.warn('no input text value.');
-			const texts = text.split(/[^a-zA-Z0-9]+/).filter(text => text);
+			const texts = text.split(/[^a-zA-Z0-9']+/).filter(text => text);
 			while (texts.length > 0) {
 				const text = texts.shift();
 				if (!inputText(text, options)) break;
