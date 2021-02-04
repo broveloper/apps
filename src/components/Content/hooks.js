@@ -71,7 +71,7 @@ export const useVerses = props => {
 			if (cursors.current.map?.nodeName !== '#text') return console.warn('input text on non #text node');
 			const remainingText = cursors.current.map.nodeValue.substring(cursors.current.text.length, cursors.current.map.length);
 			if (options?.composition || text.length > 1) {
-				const nextText = remainingText.substring(0, text.length);
+				const [nextText] = remainingText.match(new RegExp(`^[a-zA-Z0-9']+`, 'i')) || [];
 				if (areSimilar(text, nextText)) {
 					logsRef.current.log(`append: ${nextText}`);
 					cursors.current.text.nodeValue += nextText;
