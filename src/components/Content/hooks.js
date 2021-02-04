@@ -139,7 +139,7 @@ export const useVerses = props => {
 				}
 			}
 		};
-		const input = (text, options) => {
+		const input = window.inp = (text, options) => {
 			if (!text) return console.warn('no input text value.');
 			const texts = text.split(regex.gaps).filter(text => text);
 			while (texts.length > 0) {
@@ -192,9 +192,13 @@ export const useVerses = props => {
 	const inputHandlers = useMemo(() => ({
 		onChange: e => {
 			if (e.nativeEvent.inputType === 'insertText') {
-				if (regex.gaps.test(e.nativeEvent.data)) { // console.log('try adding inputComp')
-					logsRef.current.log(`${e.nativeEvent.inputType}-comp: ${inputComp.current} [${e.nativeEvent.data},${inputComp.current}]`);
+				if (regex.gap.test(e.nativeEvent.data)) { // console.log('try adding inputComp')
+					logsRef.current.log(`${e.nativeEvent.inputType}-gap: ${inputComp.current} [${e.nativeEvent.data},${inputComp.current}]`);
 					input(inputComp.current, { composition: true });
+					inputComp.current = e.target.value = '';
+				} else if (regex.gaps.test(e.nativeEvent.data)) {
+					logsRef.current.log(`${e.nativeEvent.inputType}-gaps: ${e.nativeEvent.data} [${e.nativeEvent.data},${inputComp.current}]`);
+					input(e.nativeEvent.data, { composition: true });
 					inputComp.current = e.target.value = '';
 				} else { // console.log('inputing single char')
 					logsRef.current.log(`${e.nativeEvent.inputType}: ${e.nativeEvent.data} [${e.nativeEvent.data},${inputComp.current}]`);
