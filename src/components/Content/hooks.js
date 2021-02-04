@@ -210,6 +210,8 @@ export const useVerses = props => {
 				logsRef.current.log(`${e.nativeEvent.inputType}: ${e.target.value} [null,${inputComp.current}]`);
 				input(e.target.value, { composition: true });
 				inputComp.current = e.target.value = '';
+			} else if (e.nativeEvent.inputType === 'insertCompositionText') {
+				logsRef.current.log(`${e.nativeEvent.inputType}: null [${e.target.value},${e.nativeEvent.data},${inputComp.current}]`);
 			} else {
 				logsRef.current.log(`${e.nativeEvent.inputType}-aborted: null [${e.target.value},${inputComp.current}]`);
 			}
