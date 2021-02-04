@@ -64,10 +64,10 @@ export const useVerses = props => {
 		const input = text => { //console.log('input', text);
 			if (cursors.current.map?.nodeName !== '#text') return console.warn('input text on non #text node');
 			const remainingText = cursors.current.map.nodeValue.substring(cursors.current.text.length, cursors.current.map.length);
-			const [,match] = remainingText.match(new RegExp(`^(${text})`, 'i')) || [null,null];
-			if (match) { //console.log('match', match);
-				cursors.current.text.nodeValue += match;
-				inputSkip();
+			const match = remainingText.match(new RegExp(`^${text}`, 'i'));
+			if (match?.[0]) {
+				cursors.current.text.nodeValue += match?.[0] || inputSkip();
+				return inputSkip() || true;
 			}
 		};
 		const initialize = () => { //console.log('initiaizing ...');
@@ -111,7 +111,14 @@ export const useVerses = props => {
 	}), []);
 
 	const inputHandlers = useMemo(() => ({
-		onChange: e => input(e.target.value),
+		onChange: e => {
+			if (!e.target.value) return console.warn('no input value.');
+			const texts = e.target.value.split(/[^a-zA-Z0-9]+/).filter(text => text);
+			while (texts.length > 0) {
+				const text = texts.shift();
+				if (!input(text)) break;
+			}
+		},
 		onKeyDown: e => e.metaKey && !showRef.current && setShowMeta(true),
 		onKeyUp: e => showRef.current && setShowMeta(false),
 	}), []);
