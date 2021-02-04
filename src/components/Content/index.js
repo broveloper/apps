@@ -114,6 +114,6 @@ export const Content = props => {
 				</div>
 			</label>
 		</div>
-		{/test/.test(document.location.search) && <pre>{JSON.stringify(logsRef.current, null, 2)}</pre>}
+		{logsRef.current.logging && <pre>{JSON.stringify(logsRef.current, null, 2)}</pre>}
 	</>;
 }

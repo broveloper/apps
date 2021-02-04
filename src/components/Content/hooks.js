@@ -15,6 +15,8 @@ export const useVerses = props => {
 	const showRef = useRef(false)
 	const [showMeta, _setShowMeta] = useState(false);
 	const setShowMeta = bool => _setShowMeta(bool) || (showRef.current = bool);
+	logsRef.current.logging = /test/.test(document.location.search);
+	logsRef.current.log = log => logsRef.current.logging && logsRef.current.push(log);
 
 	const { initialize, input, } = useMemo(() => {
 		const nextSibling = () => {
@@ -71,7 +73,7 @@ export const useVerses = props => {
 			if (options?.composition) {
 				const nextText = remainingText.substring(0, text.length);
 				if (areSimilar(text, nextText)) {
-					logsRef.current.push(`append: ${nextText}`);
+					logsRef.current.log(`append: ${nextText}`);
 					cursors.current.text.nodeValue += nextText;
 					return inputSkip() || true;
 				}
@@ -79,7 +81,7 @@ export const useVerses = props => {
 					const numberText = converter.toWords(text.replace(',', ''));
 					const nextText = remainingText.substring(0, numberText.length);
 					if (areSimilar(numberText, nextText)) {
-						logsRef.current.push(`append: ${nextText}`);
+						logsRef.current.log(`append: ${nextText}`);
 						cursors.current.text.nodeValue += nextText;
 						return inputSkip() || true;
 					}
@@ -87,7 +89,7 @@ export const useVerses = props => {
 			} else {
 				const [nextText] = remainingText.match(new RegExp(`^${text}`, 'i')) || [];
 				if (nextText) {
-					logsRef.current.push(`append: ${nextText}`);
+					logsRef.current.log(`append: ${nextText}`);
 					cursors.current.text.nodeValue += nextText;
 					return inputSkip() || true;
 				}
@@ -145,7 +147,7 @@ export const useVerses = props => {
 	const inputHandlers = useMemo(() => ({
 		onChange: e => {
 			if (e.nativeEvent.inputType !== 'insertCompositionText') {
-				logsRef.current.push(`change: ${e.target.value} by ${e.nativeEvent.inputType}`);
+				logsRef.current.log(`change: ${e.target.value} by ${e.nativeEvent.inputType}`);
 				input(e.target.value);
 				e.target.value = '';
 			}
@@ -154,12 +156,12 @@ export const useVerses = props => {
 			const text = e.data.replace(inputComp.current, '').trim();
 			input(text, { composition: true });
 			inputComp.current = e.data;
-			logsRef.current.push(`compositionupdate: (${text}) by (${e.type})`);
+			logsRef.current.log(`compositionupdate: (${text}) by (${e.type})`);
 		},
 		onCompositionEnd: e => {
 			inputComp.current = '';
 			e.target.value = '';
-			logsRef.current.push(`compositionend: (${e.data}) by (${e.type})`);
+			logsRef.current.log(`compositionend: (${e.data}) by (${e.type})`);
 		},
 		onKeyDown: e => e.metaKey && !showRef.current && setShowMeta(true),
 		onKeyUp: e => showRef.current && setShowMeta(false),
