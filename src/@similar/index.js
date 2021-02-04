@@ -68,13 +68,7 @@ export const normalize = word => {
 	return result;
 };
 
-export const compare = (word1, word2, maxLen) => {
-	let errors = 0;
-	for (let k = 0; k < maxLen; k += 1) if (word1[k] !== word2[k]) errors += 1;
-	let maxErrors;
-	for (let k = 0; k < ruleLens.length; k += 1)
-		if (maxLen >= ruleLens[k]) maxErrors = errorRules[ruleLens[k]];
-	if (errors > maxErrors) return false;
+const compareTyped = (word1, word2, maxLen, maxErrors) => {
 	let different = 0;
 	for (let k = 0; k < maxLen; k += 1) {
 		const adj = adjacents[word1[k]] || [];
@@ -84,6 +78,21 @@ export const compare = (word1, word2, maxLen) => {
 		}
 	}
 	return different <= maxErrors;
+}
+
+export const compare = (word1, word2, maxLen, compares) => {
+	let errors = 0;
+	for (let k = 0; k < maxLen; k += 1) if (word1[k] !== word2[k]) errors += 1;
+	let maxErrors;
+	for (let k = 0; k < ruleLens.length; k += 1)
+		if (maxLen >= ruleLens[k]) maxErrors = errorRules[ruleLens[k]];
+	if (errors > maxErrors) return false;
+	for (let j in compares) {
+		if (typeof compares[j] === 'function' && compares[j](word1, word2, maxLen, maxErrors) === false) {
+			return false;
+		}
+	}
+	return true;
 };
 
 const shiftLetters = (word, index) =>
@@ -92,7 +101,8 @@ const shiftLetters = (word, index) =>
 		word.length
 	)}`;
 
-export const areSimilar = (...words) => {
+export const areSimilar = window.areSimilar = (...words) => {
+	const compares = typeof words[words.length-1] === 'string' ? null : words.pop();
 	for (let k = 0; k < words.length - 1; k += 1) {
 		const word1 = normalize(words[k]);
 		const word2 = normalize(words[k + 1]);
@@ -103,7 +113,7 @@ export const areSimilar = (...words) => {
 		for (let m = -1; m < maxLen - 1; m += 1) {
 			similar = false;
 			const compare2 = m === -1 ? word2 : shiftLetters(word2, m);
-			if (compare(word1, compare2, maxLen)) {
+			if (compare(word1, compare2, maxLen, compares)) {
 				similar = true;
 				break;
 			}
@@ -111,4 +121,8 @@ export const areSimilar = (...words) => {
 		if (!similar) return false;
 	}
 	return true;
+};
+
+export const areSimilarTyped = window.areSimilarTyped = (...words) => {
+	return areSimilar(...words, [compareTyped]);
 };
