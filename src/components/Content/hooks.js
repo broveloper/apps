@@ -4,6 +4,29 @@ import { useLongPress } from 'react-use';
 import converter from 'number-to-words';
 import { areSimilar } from '@similar';
 
+const regex = {
+	char: /^[a-zA-Z0-9']$/i,
+	chars: /^[a-zA-Z0-9']+$/i,
+	gap: /^[^a-zA-Z0-9']$/,
+	gaps: /[^a-zA-Z0-9']+/,
+};
+
+const wordLookback = window.wordLookback = (back, whole) => {
+	let word = whole.charAt(back.length);
+	let bi, fi;
+	for (bi = back.length - 1; bi >= 0; bi--) {
+		const char = whole.charAt(bi);
+		if (regex.char.test(char)) word = `${char}${word}`;
+		else break;
+	}
+	for (fi = back.length + 1; fi < whole.length; fi++) {
+		const char = whole.charAt(fi);
+		if (regex.char.test(char)) word = `${word}${char}`;
+		else break;
+	}
+	return [word, whole.substring(0, bi + 1)];
+};
+
 export const useVerses = props => {
 	const { verses } = props;
 	const cursors = useRef({});
@@ -18,7 +41,7 @@ export const useVerses = props => {
 	logsRef.current.logging = /test/.test(document.location.search);
 	logsRef.current.log = log => logsRef.current.logging && logsRef.current.push(log);
 
-	const { initialize, input, } = useMemo(() => {
+	const { initialize, input } = useMemo(() => {
 		const nextSibling = () => {
 			if (cursors.current.edit === null || cursors.current.map === null) { //console.log('\tnextSibling: end');
 				return null;
@@ -54,12 +77,12 @@ export const useVerses = props => {
 				inputSkip();
 			}
 		};
-		const inputSkip = (regex = /^[^a-zA-Z0-9']$/) => {
+		const inputSkip = () => {
 			if (cursors.current.map?.nodeName !== '#text') return console.warn('input key on non #text node');
 			while (true) {
 				if (cursors.current.text.nodeValue === cursors.current.map.nodeValue) break;
 				let nextKey = cursors.current.map.nodeValue.substring(cursors.current.text.length, cursors.current.map.length).charAt(0);
-				if (!regex.test(nextKey)) break;
+				if (!regex.gap.test(nextKey)) break;
 				cursors.current.text.nodeValue += nextKey;
 			}
 			if (cursors.current.text.nodeValue === cursors.current.map.nodeValue) {
@@ -70,20 +93,19 @@ export const useVerses = props => {
 		const inputText = (text, options) => { //console.log('inputText', text);
 			if (cursors.current.map?.nodeName !== '#text') return console.warn('input text on non #text node');
 			const remainingText = cursors.current.map.nodeValue.substring(cursors.current.text.length, cursors.current.map.length);
-			if (options?.composition || text.length > 1) {
-				const [nextText] = remainingText.match(new RegExp(`^[a-zA-Z0-9']+`, 'i')) || [];
-				if (areSimilar(text, nextText)) {
+			if (options?.composition) {
+				const [nextText, editText] = wordLookback(cursors.current.text.nodeValue, cursors.current.map.nodeValue);
+				if (areSimilar(nextText, text)) {
 					logsRef.current.log(`append: ${nextText}`);
-					cursors.current.text.nodeValue += nextText;
-					return inputSkip() || true;
+					cursors.current.text.nodeValue = `${editText}${nextText}`;
+					inputSkip();
 				}
 				if (/^[\d,]+$/.test(text)) {
 					const numberText = converter.toWords(text.replace(',', ''));
-					const nextText = remainingText.substring(0, numberText.length);
-					if (areSimilar(numberText, nextText)) {
+					if (areSimilar(nextText, numberText)) {
 						logsRef.current.log(`append: ${nextText}`);
-						cursors.current.text.nodeValue += nextText;
-						return inputSkip() || true;
+						cursors.current.text.nodeValue = `${editText}${nextText}`;
+						inputSkip();
 					}
 				}
 			} else {
@@ -91,16 +113,20 @@ export const useVerses = props => {
 				if (nextText) {
 					logsRef.current.log(`append: ${nextText}`);
 					cursors.current.text.nodeValue += nextText;
-					return inputSkip() || true;
+					const beforeValue = cursors.current.text.nodeValue
+					inputSkip();
+					if (beforeValue.length < cursors.current.text.nodeValue.length) {
+						inputComp.current = '';
+					}
 				}
 			}
 		};
 		const input = (text, options) => {
 			if (!text) return console.warn('no input text value.');
-			const texts = text.split(/[^a-zA-Z0-9']+/).filter(text => text);
+			const texts = text.split(regex.gaps).filter(text => text);
 			while (texts.length > 0) {
 				const text = texts.shift();
-				if (!inputText(text, options)) break;
+				inputText(text, options);
 			}
 		};
 		const initialize = () => { //console.log('initiaizing ...');
@@ -146,23 +172,42 @@ export const useVerses = props => {
 
 	const inputHandlers = useMemo(() => ({
 		onChange: e => {
-			if (e.nativeEvent.inputType !== 'insertCompositionText') {
-				logsRef.current.log(`change: ${e.target.value} by ${e.nativeEvent.inputType}`);
-				input(e.target.value);
-				e.target.value = '';
+			if (e.nativeEvent.inputType === 'insertText') {
+				logsRef.current.log(`${e.nativeEvent.inputType}: ${e.nativeEvent.data} []`);
+				if (regex.gap.test(e.nativeEvent.data)) { // console.log('try adding inputComp')
+					logsRef.current.log(`${e.nativeEvent.inputType}-comp: ${inputComp.current} [${e.nativeEvent.data},${inputComp.current}]`);
+					input(inputComp.current, { composition: true });
+					inputComp.current = e.target.value = '';
+				} else { // console.log('inputing single char')
+					logsRef.current.log(`${e.nativeEvent.inputType}: ${e.nativeEvent.data} [${e.nativeEvent.data},${inputComp.current}]`);
+					inputComp.current += e.nativeEvent.data;
+					input(e.nativeEvent.data);
+					e.target.value = '';
+				}
+			} else if (e.nativeEvent.inputType === 'insertFromPaste') {
+				logsRef.current.log(`${e.nativeEvent.inputType}: ${e.target.value} [null,${inputComp.current}]`);
+				input(e.target.value, { composition: true });
+				inputComp.current = e.target.value = '';
+			} else {
+				logsRef.current.log(`${e.nativeEvent.inputType}-aborted: null [${e.target.value},${inputComp.current}]`);
 			}
+		},
+		onCompositionStart: e => {
+			logsRef.current.log(`${e.type}: null [${e.data},${inputComp.current}]`);
+			inputComp.current = e.target.value = '';
 		},
 		onCompositionUpdate: e => {
 			const text = e.data.replace(inputComp.current, '').trim();
-			logsRef.current.log(`compositionupdate: (${text}) by (${e.type})`);
+			logsRef.current.log(`${e.type}: ${text} [${e.data},${inputComp.current}]`);
 			input(text, { composition: true });
 			inputComp.current = e.data;
 		},
 		onCompositionEnd: e => {
-			if (/^[a-zA-Z0-9']+$/i.test(e.data)) input(e.data, { composition: true });
-			inputComp.current = '';
-			e.target.value = '';
-			logsRef.current.log(`compositionend: (${e.data}) by (${e.type})`);
+			if (regex.chars.test(e.data)) {
+				logsRef.current.log(`${e.type}: ${e.data} [${e.data},${inputComp.current}]`);
+				input(e.data, { composition: true });
+			}
+			inputComp.current = e.target.value = '';
 		},
 		onKeyDown: e => e.metaKey && !showRef.current && setShowMeta(true),
 		onKeyUp: e => showRef.current && setShowMeta(false),
