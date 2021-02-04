@@ -12,7 +12,7 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const FormFields = props=> {
-	const { handleSubmit, setVerses, verses } = props;
+	const { handleSubmit, setVerses } = props;
 	const { q, version } = useFormState().values;
 	const classes = useStyles();
 
@@ -20,14 +20,11 @@ const FormFields = props=> {
 		setVerses(null);
 	}, [q, version]);
 
-	return <>
-		<form className={classes.form} onSubmit={handleSubmit}>
-			<Version />
-			<Search disabled={!version} />
-			<Submit disabled={!version || !q} />
-		</form>
-		<Content verses={verses} version={version} />
-	</>;
+	return <form className={classes.form} onSubmit={handleSubmit}>
+		<Version />
+		<Search disabled={!version} />
+		<Submit disabled={!version || !q} />
+	</form>;
 };
 
 export const Page = props => {
@@ -41,7 +38,7 @@ export const Page = props => {
 		<Form
 			onSubmit={onSubmit}
 			component={FormFields}
-			setVerses={setVerses}
-			verses={verses} />
+			setVerses={setVerses} />
+		<Content verses={verses} />
 	</>;
 }

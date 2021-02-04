@@ -3,7 +3,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import { useLongPress } from 'react-use';
 
 export const useVerses = props => {
-	const { verses, version } = props;
+	const { verses } = props;
 	const cursors = useRef({});
 	const editRef = useRef();
 	const mapRef = useRef();
@@ -81,10 +81,10 @@ export const useVerses = props => {
 				map: mapRef.current.firstChild,
 				text: null,
 			});
-			if (version && verses) next();
+			if (verses) next();
 		};
 		return { initialize, input };
-	}, [verses, version]);
+	}, [verses]);
 
 	const longPress = useLongPress(e => setShowMeta(true));
 	const contentHandlers = useMemo(() => ({
@@ -125,7 +125,7 @@ export const useVerses = props => {
 
 	useEffect(() => {
 		initialize();
-	}, [verses, version]);
+	}, [verses]);
 
 	return {
 		contentHandlers,
