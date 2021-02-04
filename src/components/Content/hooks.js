@@ -94,15 +94,15 @@ export const useVerses = props => {
 		},
 		onMouseLeave: e => { //console.log('onMouseLeave');
 			longPress.onMouseLeave(e);
-			if (showMeta) setShowMeta(false);
+			if (showRef.current) setShowMeta(false);
 		},
 		onMouseUp: e => { //console.log('onMouseUp');
 			longPress.onMouseUp(e);
-			if (showMeta) setShowMeta(false);
+			if (showRef.current) setShowMeta(false);
 		},
 		onTouchEnd: e => { //console.log('onTouchEnd');
 			longPress.onTouchEnd(e);
-			if (showMeta) setShowMeta(false);
+			if (showRef.current) setShowMeta(false);
 		},
 		onTouchStart: e => { //console.log('onTouchStart');
 			inputRef.current.focus();
