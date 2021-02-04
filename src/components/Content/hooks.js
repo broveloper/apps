@@ -61,11 +61,12 @@ export const useVerses = props => {
 				next();
 			}
 		};
-		const input = key => {
-			if (cursors.current.map?.nodeName !== '#text') return console.warn('input key on non #text node');
-			const nextKey = cursors.current.map.nodeValue.substring(cursors.current.text.length, cursors.current.map.length).charAt(0);
-			if (new RegExp(`^${nextKey}$`, 'i').test(key)) {
-				cursors.current.text.nodeValue += nextKey;
+		const input = text => { //console.log('input', text);
+			if (cursors.current.map?.nodeName !== '#text') return console.warn('input text on non #text node');
+			const remainingText = cursors.current.map.nodeValue.substring(cursors.current.text.length, cursors.current.map.length);
+			const [,match] = remainingText.match(new RegExp(`^(${text})`, 'i')) || [null,null];
+			if (match) { //console.log('match', match);
+				cursors.current.text.nodeValue += match;
 				inputSkip();
 			}
 		};
