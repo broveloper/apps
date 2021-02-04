@@ -57,7 +57,9 @@ const useStyles = makeStyles((theme) => ({
 		border: 0,
 		outline: 0,
 		background: 'transparent',
-		width: '1em',
+		width: '1px',
+		caretColor: 'rgba(17,17,17,1)',
+		color: 'transparent',
 	},
 	copyright: {
 		textAlign: 'end',
@@ -73,11 +75,11 @@ const Input = memo(forwardRef((props, ref) => {
 		{...inputHandlers}
 		autoCapitalize="none"
 		className={className}
+		defaultValue=""
 		id="input"
 		name="input"
 		ref={ref}
-		type="text"
-		value="" />;
+		type="text" />;
 }));
 
 export const Content = props => {

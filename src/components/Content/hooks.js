@@ -62,7 +62,7 @@ export const useVerses = props => {
 				next();
 			}
 		};
-		const input = text => { //console.log('input', text);
+		const inputText = text => { //console.log('inputText', text);
 			if (cursors.current.map?.nodeName !== '#text') return console.warn('input text on non #text node');
 			const remainingText = cursors.current.map.nodeValue.substring(cursors.current.text.length, cursors.current.map.length);
 			const match = remainingText.match(new RegExp(`^${text}`, 'i'));
@@ -70,6 +70,14 @@ export const useVerses = props => {
 				logsRef.current.push(`append: ${match}`);
 				cursors.current.text.nodeValue += match?.[0] || inputSkip();
 				return inputSkip() || true;
+			}
+		};
+		const input = text => {
+			if (!text) return console.warn('no input text value.');
+			const texts = text.split(/[^a-zA-Z0-9]+/).filter(text => text);
+			while (texts.length > 0) {
+				const text = texts.shift();
+				if (!inputText(text)) break;
 			}
 		};
 		const initialize = () => { //console.log('initiaizing ...');
@@ -114,13 +122,16 @@ export const useVerses = props => {
 
 	const inputHandlers = useMemo(() => ({
 		onChange: e => {
-			if (!e.target.value) return console.warn('no input value.');
-			const texts = e.target.value.split(/[^a-zA-Z0-9]+/).filter(text => text);
-			logsRef.current.push(`change: ${e.target.value} by ${e.nativeEvent.inputType}`);
-			while (texts.length > 0) {
-				const text = texts.shift();
-				if (!input(text)) break;
+			if (e.nativeEvent.inputType !== 'insertCompositionText') {
+				logsRef.current.push(`change: ${e.target.value} by ${e.nativeEvent.inputType}`);
+				input(e.target.value);
+				e.target.value = '';
 			}
+		},
+		onCompositionEnd: e => {
+			logsRef.current.push(`compositionend: ${e.target.value} by ${e.nativeEvent.inputType}`);
+			input(e.target.value);
+			e.target.value = '';
 		},
 		onKeyDown: e => e.metaKey && !showRef.current && setShowMeta(true),
 		onKeyUp: e => showRef.current && setShowMeta(false),
