@@ -154,9 +154,9 @@ export const useVerses = props => {
 		},
 		onCompositionUpdate: e => {
 			const text = e.data.replace(inputComp.current, '').trim();
+			logsRef.current.log(`compositionupdate: (${text}) by (${e.type})`);
 			input(text, { composition: true });
 			inputComp.current = e.data;
-			logsRef.current.log(`compositionupdate: (${text}) by (${e.type})`);
 		},
 		onCompositionEnd: e => {
 			if (/^[a-zA-Z0-9']$/i.test(e.data)) input(e.data, { composition: true });
