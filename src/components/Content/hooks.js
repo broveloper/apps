@@ -1,6 +1,7 @@
 import _ from 'lodash';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { useLongPress } from 'react-use';
+import { areSimilar } from '@similar';
 
 export const useVerses = props => {
 	const { verses } = props;
@@ -63,22 +64,31 @@ export const useVerses = props => {
 				next();
 			}
 		};
-		const inputText = text => { //console.log('inputText', text);
+		const inputText = (text, options) => { //console.log('inputText', text);
 			if (cursors.current.map?.nodeName !== '#text') return console.warn('input text on non #text node');
 			const remainingText = cursors.current.map.nodeValue.substring(cursors.current.text.length, cursors.current.map.length);
-			const match = remainingText.match(new RegExp(`^${text}`, 'i'));
-			if (match?.[0]) {
-				logsRef.current.push(`append: ${match}`);
-				cursors.current.text.nodeValue += match?.[0] || inputSkip();
-				return inputSkip() || true;
+			if (options?.composition) {
+				const nextText = remainingText.substring(0, text.length);
+				if (areSimilar(text, nextText)) {
+					logsRef.current.push(`append: ${nextText}`);
+					cursors.current.text.nodeValue += nextText;
+					return inputSkip() || true;
+				}
+			} else {
+				const [nextText] = remainingText.match(new RegExp(`^${text}`, 'i')) || [];
+				if (nextText) {
+					logsRef.current.push(`append: ${nextText}`);
+					cursors.current.text.nodeValue += nextText;
+					return inputSkip() || true;
+				}
 			}
 		};
-		const input = text => {
+		const input = (text, options) => {
 			if (!text) return console.warn('no input text value.');
 			const texts = text.split(/[^a-zA-Z0-9]+/).filter(text => text);
 			while (texts.length > 0) {
 				const text = texts.shift();
-				if (!inputText(text)) break;
+				if (!inputText(text, options)) break;
 			}
 		};
 		const initialize = () => { //console.log('initiaizing ...');
@@ -131,7 +141,7 @@ export const useVerses = props => {
 		},
 		onCompositionUpdate: e => {
 			const text = e.data.replace(inputComp.current, '').trim();
-			input(text);
+			input(text, { composition: true });
 			inputComp.current = e.data;
 			logsRef.current.push(`compositionupdate: (${text}) by (${e.type})`);
 		},
