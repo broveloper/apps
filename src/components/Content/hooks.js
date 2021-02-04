@@ -8,7 +8,8 @@ export const useVerses = props => {
 	const editRef = useRef();
 	const mapRef = useRef();
 	const inputRef = useRef();
-	const logsRef = useRef([])
+	const inputComp = useRef('');
+	const logsRef = useRef([]);
 	const showRef = useRef(false)
 	const [showMeta, _setShowMeta] = useState(false);
 	const setShowMeta = bool => _setShowMeta(bool) || (showRef.current = bool);
@@ -129,14 +130,15 @@ export const useVerses = props => {
 			}
 		},
 		onCompositionUpdate: e => {
-			logsRef.current.push(`compositionupdate: ${e.data} by (${e.inputType}|${e.type})`);
-			// input(e.target.value);
-			// e.target.value = '';
+			const text = e.data.replace(inputComp.current, '').trim();
+			input(text);
+			inputComp.current = e.data;
+			logsRef.current.push(`compositionupdate: (${text}) by (${e.type})`);
 		},
 		onCompositionEnd: e => {
-			logsRef.current.push(`compositionend: ${e.data} by (${e.inputType}|${e.type})`);
-			input(e.target.value);
+			inputComp.current = '';
 			e.target.value = '';
+			logsRef.current.push(`compositionend: (${e.data}) by (${e.type})`);
 		},
 		onKeyDown: e => e.metaKey && !showRef.current && setShowMeta(true),
 		onKeyUp: e => showRef.current && setShowMeta(false),
