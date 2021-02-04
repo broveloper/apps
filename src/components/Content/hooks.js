@@ -128,8 +128,13 @@ export const useVerses = props => {
 				e.target.value = '';
 			}
 		},
+		onCompositionUpdate: e => {
+			logsRef.current.push(`compositionupdate: ${e.data} by (${e.inputType}|${e.type})`);
+			// input(e.target.value);
+			// e.target.value = '';
+		},
 		onCompositionEnd: e => {
-			logsRef.current.push(`compositionend: ${e.target.value} by ${e.nativeEvent.inputType}`);
+			logsRef.current.push(`compositionend: ${e.data} by (${e.inputType}|${e.type})`);
 			input(e.target.value);
 			e.target.value = '';
 		},
