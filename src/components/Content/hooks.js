@@ -116,7 +116,7 @@ export const useVerses = props => {
 		onChange: e => {
 			if (!e.target.value) return console.warn('no input value.');
 			const texts = e.target.value.split(/[^a-zA-Z0-9]+/).filter(text => text);
-			logsRef.current.push(`change: ${e.target.value}`);
+			logsRef.current.push(`change: ${e.target.value} by ${e.nativeEvent.inputType}`);
 			while (texts.length > 0) {
 				const text = texts.shift();
 				if (!input(text)) break;
