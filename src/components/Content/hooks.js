@@ -159,7 +159,7 @@ export const useVerses = props => {
 			inputComp.current = e.data;
 		},
 		onCompositionEnd: e => {
-			if (/^[a-zA-Z0-9']$/i.test(e.data)) input(e.data, { composition: true });
+			if (/^[a-zA-Z0-9']+$/i.test(e.data)) input(e.data, { composition: true });
 			inputComp.current = '';
 			e.target.value = '';
 			logsRef.current.log(`compositionend: (${e.data}) by (${e.type})`);
