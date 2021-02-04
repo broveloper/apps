@@ -1,6 +1,7 @@
 import _ from 'lodash';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { useLongPress } from 'react-use';
+import converter from 'number-to-words';
 import { areSimilar } from '@similar';
 
 export const useVerses = props => {
@@ -73,6 +74,15 @@ export const useVerses = props => {
 					logsRef.current.push(`append: ${nextText}`);
 					cursors.current.text.nodeValue += nextText;
 					return inputSkip() || true;
+				}
+				if (/^[\d,]+$/.test(text) && /^[a-zA-Z]/.test(nextText)) {
+					const numberText = converter.toWords(text.replace(',', ''));
+					const nextText = remainingText.substring(0, numberText.length);
+					if (areSimilar(numberText, nextText)) {
+						logsRef.current.push(`append: ${nextText}`);
+						cursors.current.text.nodeValue += nextText;
+						return inputSkip() || true;
+					}
 				}
 			} else {
 				const [nextText] = remainingText.match(new RegExp(`^${text}`, 'i')) || [];
