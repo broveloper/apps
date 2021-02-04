@@ -87,27 +87,31 @@ export const Content = props => {
 		editRef,
 		inputHandlers,
 		inputRef,
+		logsRef,
 		mapRef,
 		showMeta,
 	} = useVerses(props);
 
-	return <div
-		{...contentHandlers}
-		className={clsx('scripture-styles', classes.content)}>
-		<label htmlFor="input">
-			<div
-				className={clsx(classes.map, { [classes.mapMeta]: showMeta })}
-				ref={mapRef}
-				spellCheck={false} />
-			<div
-				className={clsx(classes.edit)}
-				ref={editRef}
-				spellCheck={false}>
-				<Input
-					className={classes.input}
-					inputHandlers={inputHandlers}
-					ref={inputRef} />
-			</div>
-		</label>
-	</div>
+	return <>
+		<div
+			{...contentHandlers}
+			className={clsx('scripture-styles', classes.content)}>
+			<label htmlFor="input">
+				<div
+					className={clsx(classes.map, { [classes.mapMeta]: showMeta })}
+					ref={mapRef}
+					spellCheck={false} />
+				<div
+					className={clsx(classes.edit)}
+					ref={editRef}
+					spellCheck={false}>
+					<Input
+						className={classes.input}
+						inputHandlers={inputHandlers}
+						ref={inputRef} />
+				</div>
+			</label>
+		</div>
+		{/test/.test(document.location.search) && <pre>{JSON.stringify(logsRef.current, null, 2)}</pre>}
+	</>;
 }

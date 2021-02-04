@@ -8,6 +8,7 @@ export const useVerses = props => {
 	const editRef = useRef();
 	const mapRef = useRef();
 	const inputRef = useRef();
+	const logsRef = useRef([])
 	const showRef = useRef(false)
 	const [showMeta, _setShowMeta] = useState(false);
 	const setShowMeta = bool => _setShowMeta(bool) || (showRef.current = bool);
@@ -66,6 +67,7 @@ export const useVerses = props => {
 			const remainingText = cursors.current.map.nodeValue.substring(cursors.current.text.length, cursors.current.map.length);
 			const match = remainingText.match(new RegExp(`^${text}`, 'i'));
 			if (match?.[0]) {
+				logsRef.current.push(`append: ${match}`);
 				cursors.current.text.nodeValue += match?.[0] || inputSkip();
 				return inputSkip() || true;
 			}
@@ -114,6 +116,7 @@ export const useVerses = props => {
 		onChange: e => {
 			if (!e.target.value) return console.warn('no input value.');
 			const texts = e.target.value.split(/[^a-zA-Z0-9]+/).filter(text => text);
+			logsRef.current.push(`change: ${e.target.value}`);
 			while (texts.length > 0) {
 				const text = texts.shift();
 				if (!input(text)) break;
@@ -132,6 +135,7 @@ export const useVerses = props => {
 		editRef,
 		inputHandlers,
 		inputRef,
+		logsRef,
 		mapRef,
 		showMeta,
 	};
