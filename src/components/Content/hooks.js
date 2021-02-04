@@ -192,7 +192,7 @@ export const useVerses = props => {
 	const inputHandlers = useMemo(() => ({
 		onChange: e => {
 			if (e.nativeEvent.inputType === 'insertText') {
-				if (regex.gap.test(e.nativeEvent.data)) { // console.log('try adding inputComp')
+				if (regex.gaps.test(e.nativeEvent.data)) { // console.log('try adding inputComp')
 					logsRef.current.log(`${e.nativeEvent.inputType}-comp: ${inputComp.current} [${e.nativeEvent.data},${inputComp.current}]`);
 					input(inputComp.current, { composition: true });
 					inputComp.current = e.target.value = '';
