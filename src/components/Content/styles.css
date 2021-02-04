@@ -1,0 +1,60 @@
+@keyframes starholder {
+	0%   {
+		opacity: 0;
+		transform: translate(0, 0);
+	}
+	1% { opacity: .5; }
+	20% {
+		opacity: 1;
+	}
+  50%  {
+		transform: translate(12px, -28px);
+	}
+	90% {
+		opacity: 1;
+	}
+  100% {
+		opacity: 0;
+		transform: translate(24px, -4px);
+	}
+}
+@keyframes starspin {
+	0%   { transform: scale3d(1,1,1); }
+  50%  { transform: scale3d(0,1,1); }
+  100% { transform: scale3d(1,1,1); }
+}
+@keyframes starcolor {
+	0%   { color:rgb(255,204,0); }
+	50%  { color:rgb(255, 231, 137); }
+  100% { color:rgb(255,204,0); }
+}
+
+@keyframes wrongholder {
+	0%   {
+		opacity: 0;
+		transform: translate(0, 0);
+	}
+	1% { opacity: .5; }
+	20% {
+		opacity: 1;
+	}
+  50%  {
+		transform: translate(6px, -24px);
+	}
+	80% {
+		opacity: 1;
+	}
+  100% {
+		opacity: 0;
+		transform: translate(12px, -20px);
+	}
+}
+@keyframes wrongspin {
+	0%   { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+@keyframes wrongcolor {
+	0%   { color:rgb(221, 7, 36); }
+	75%  { color:rgb(156, 30, 47); }
+  100% { color:rgb(112, 64, 69); }
+}

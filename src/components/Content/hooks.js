@@ -36,12 +36,27 @@ export const useVerses = props => {
 	const inputComp = useRef('');
 	const logsRef = useRef([]);
 	const showRef = useRef(false)
+	const starRef = useRef();
+	const wrongRef = useRef();
 	const [showMeta, _setShowMeta] = useState(false);
 	const setShowMeta = bool => _setShowMeta(bool) || (showRef.current = bool);
 	logsRef.current.logging = /test/.test(document.location.search);
 	logsRef.current.log = log => logsRef.current.logging && logsRef.current.push(log);
 
 	const { initialize, input } = useMemo(() => {
+		const addIcon = _.throttle((node, time) => {
+			const icon = node.cloneNode(true);
+			inputRef.current.parentNode.appendChild(icon);
+			icon.style.animationPlayState = 'running';
+			setTimeout(() => inputRef.current.parentNode.removeChild(icon), time);
+		}, 300);
+		const addStar = () => addIcon(starRef.current, 2000);
+		const addWrong = () => addIcon(wrongRef.current, 800);
+		const updateText = text => {
+			cursors.current.text.nodeValue = text;
+			if (regex.gap.test(cursors.current.map.nodeValue.charAt(text.length))) addStar();
+		};
+
 		const nextSibling = () => {
 			if (cursors.current.edit === null || cursors.current.map === null) { //console.log('\tnextSibling: end');
 				return null;
@@ -97,27 +112,30 @@ export const useVerses = props => {
 				const [nextText, editText] = wordLookback(cursors.current.text.nodeValue, cursors.current.map.nodeValue);
 				if (areSimilar(nextText, text)) {
 					logsRef.current.log(`append: ${nextText}`);
-					cursors.current.text.nodeValue = `${editText}${nextText}`;
+					updateText(`${editText}${nextText}`);
 					inputSkip();
-				}
-				if (/^[\d,]+$/.test(text)) {
+				} else if (/^[\d,]+$/.test(text)) {
 					const numberText = converter.toWords(text.replace(',', ''));
 					if (areSimilar(nextText, numberText)) {
 						logsRef.current.log(`append: ${nextText}`);
-						cursors.current.text.nodeValue = `${editText}${nextText}`;
+						updateText(`${editText}${nextText}`);
 						inputSkip();
 					}
+				} else {
+					addWrong();
 				}
 			} else {
 				const [nextText] = remainingText.match(new RegExp(`^${text}`, 'i')) || [];
 				if (nextText) {
 					logsRef.current.log(`append: ${nextText}`);
-					cursors.current.text.nodeValue += nextText;
-					const beforeValue = cursors.current.text.nodeValue
+					updateText(`${cursors.current.text.nodeValue}${nextText}`);
+					const beforeValue = cursors.current.text.nodeValue;
 					inputSkip();
 					if (beforeValue.length < cursors.current.text.nodeValue.length) {
 						inputComp.current = '';
 					}
+				} else {
+					addWrong();
 				}
 			}
 		};
@@ -225,5 +243,7 @@ export const useVerses = props => {
 		logsRef,
 		mapRef,
 		showMeta,
+		starRef,
+		wrongRef,
 	};
 };
