@@ -150,6 +150,7 @@ export const useVerses = props => {
 		const initialize = () => { //console.log('initiaizing ...');
 			inputComp.current = '';
 			editRef.current.oncontextmenu = e => e.preventDefault();
+			mapRef.current.oncontextmenu = e => e.preventDefault();
 			while (editRef.current.childNodes.length > 1) editRef.current.removeChild(editRef.current.firstChild);
 			mapRef.current.innerHTML = _.reduce(verses, (html, { book_name, chapter, text, verse }) => {
 				return html += `<p class="p"><span data-number="${verse}" data-sid="${book_name} ${chapter}:${verse}" class="v">${verse}</span>${text.trim()}</p>`;

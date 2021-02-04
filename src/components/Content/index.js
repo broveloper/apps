@@ -12,6 +12,13 @@ const useStyles = makeStyles((theme) => ({
 		margin: theme.spacing(1),
 		position: 'relative',
 	},
+	noselect: {
+		'-webkit-touch-callout': 'none',
+		'-webkit-user-select': 'none',
+		'-moz-user-select': 'none',
+		'-ms-user-select': 'none',
+		'user-select': 'none',
+	},
 	map: {
 		whiteSpace: 'pre-wrap',
 		position: 'relative',
@@ -48,11 +55,6 @@ const useStyles = makeStyles((theme) => ({
 			display: 'inline-block',
 			textIndent: '1.4em',
 		},
-		'-webkit-touch-callout': 'none',
-		'-webkit-user-select': 'none',
-		'-moz-user-select': 'none',
-		'-ms-user-select': 'none',
-		'user-select': 'none',
 	},
 	input: {
 		display: 'inline-block',
@@ -75,7 +77,7 @@ const useStyles = makeStyles((theme) => ({
 		fontSize: '16px',
 		position: 'absolute',
 		top: '-18px',
-		right: '-12px',
+		right: '-16px',
 	},
 	starholder: {
 		animation: 'starholder 2s ease-out 1 forwards',
@@ -134,11 +136,11 @@ export const Content = props => {
 			className={clsx('scripture-styles', classes.content)}>
 			<label htmlFor="input">
 				<div
-					className={clsx(classes.map, { [classes.mapMeta]: showMeta })}
+					className={clsx(classes.noselect, classes.map, { [classes.mapMeta]: showMeta })}
 					ref={mapRef}
 					spellCheck={false} />
 				<div
-					className={clsx(classes.edit)}
+					className={clsx(classes.noselect, classes.edit)}
 					ref={editRef}
 					spellCheck={false}>
 					<Input
