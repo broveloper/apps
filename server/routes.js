@@ -58,12 +58,12 @@ const getPassage = (BOOKS_DIR, q, options) => {
 
 module.exports = app => {
 	app.get('/v1/:version/text', (req, res) => {
-		const { version, ...options } = req.params;
+		const { version } = req.params;
 		const BOOKS_DIR = path.join(__dirname, 'versions', version);
 		if (!fs.existsSync(BOOKS_DIR)) return res.json({ msg: 'No version provided' });
-		const { q } = req.query;
+		const { q, headings } = req.query;
 		const passages = q.split(',')
-			.map(q => getPassage(BOOKS_DIR, q, options))
+			.map(q => getPassage(BOOKS_DIR, q, { headings }))
 			.filter(passage => {
 				if (!(passage instanceof Error)) return true;
 				return console.log(passage);

@@ -31,7 +31,7 @@ export const Page = props => {
 	const [verses, setVerses] = useState(null);
 
 	const onSubmit = async ({ q, version }) => {
-		setVerses(await axios.get(`/v1/${version}/text`, { params: { q } }).then(res => res.data));
+		setVerses(await axios.get(`/v1/${version}/text`, { params: { q, headings: true } }).then(res => res.data));
 	};
 	
 	return <>
