@@ -115,22 +115,14 @@ export const useVerses = props => {
 			return false;
 		};
 
-		const inputNumber = num => { //console.log('inputNumber', num);
-			if (!/^[\d,]+$/.test(num)) return false;
-			const nextNum = converter.toWords(num.replace(',', ''));
-			if (!areSimilar(nextNum, num)) return false;
-			return nextNum;
-		};
-
 		const inputComposition = text => { //console.log('inputComposition', text);
 			const [nextComp, appendTo] = wordLookback(cursors.current.text.nodeValue, cursors.current.map.nodeValue);
-			if (areSimilar(nextComp, text)) return `${appendTo}${nextComp}`;
-			const nextNum = inputNumber(text);
-			if (nextNum) return `${appendTo}${nextNum}`;
-			if (text.length === 1) {
-				const nextUpdate = inputChar(text);
-				if (nextUpdate) return nextUpdate;
-			}
+			if (areSimilar(nextComp, text))
+				return `${appendTo}${nextComp}`;
+			if (/^[\d,]+$/.test(text) && areSimilar(nextComp, converter.toWords(text.replace(',', ''))))
+				return `${appendTo}${nextComp}`;
+			if (text.length === 1)
+				return inputChar(text);
 			return false;
 		};
 
@@ -149,7 +141,7 @@ export const useVerses = props => {
 				addWrong();
 			}
 		};
-		const input = window.inp = (text, options) => {
+		const input = (text, options) => { //console.log('input', text)
 			if (!text) return console.warn('no input text value.');
 			const texts = text.split(regex.gaps).filter(text => text);
 			while (texts.length > 0) {
