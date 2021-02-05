@@ -2,176 +2,393 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 63,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Who is this who comes from Edom,",
-        "in crimsoned garments from Bozrah,",
-        "he who is splendid in his apparel,",
-        "marching in the greatness of his strength?",
-        "\"It is I, speaking in righteousness,",
-        "mighty to save.\""
-      ],
-      "verse": 1
+      "text": "The 's Day of Vengeance",
+      "type": "heading"
     },
     {
-      "texts": [
-        "Why is your apparel red,",
-        "and your garments like his who treads in the winepress?"
-      ],
-      "verse": 2
+      "text": "Who is this who comes from Edom,",
+      "verse": 1,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "\"I have trodden the winepress alone,",
-        "and from the peoples no one was with me;",
-        "I trod them in my anger",
-        "and trampled them in my wrath;",
-        "their lifeblood spattered on my garments,",
-        "and stained all my apparel."
-      ],
-      "verse": 3
+      "text": "in crimsoned garments from Bozrah,",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For the day of vengeance was in my heart,",
-        "and my year of redemption had come."
-      ],
-      "verse": 4
+      "text": "he who is splendid in his apparel,",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "I looked, but there was no one to help;",
-        "I was appalled, but there was no one to uphold;",
-        "so my own arm brought me salvation,",
-        "and my wrath upheld me."
-      ],
-      "verse": 5
+      "text": "marching in the greatness of his strength?",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "I trampled down the peoples in my anger;",
-        "I made them drunk in my wrath,",
-        "and I poured out their lifeblood on the earth.\""
-      ],
-      "verse": 6
+      "text": "“It is I, speaking in righteousness,",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "I will recount the steadfast love of the Lord,",
-        "the praises of the Lord,",
-        "according to all that the Lord has granted us,",
-        "and the great goodness to the house of Israel",
-        "that he has granted them according to his compassion,",
-        "according to the abundance of his steadfast love."
-      ],
-      "verse": 7
+      "text": "mighty to save.”",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For he said, \"Surely they are my people,",
-        "children who will not deal falsely.\"",
-        "And he became their Savior."
-      ],
-      "verse": 8
+      "text": "Why is your apparel red,",
+      "verse": 2,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "In all their affliction he was afflicted,",
-        "and the angel of his presence saved them;",
-        "in his love and in his pity he redeemed them;",
-        "he lifted them up and carried them all the days of old."
-      ],
-      "verse": 9
+      "text": "and your garments like his who treads in the winepress?",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "But they rebelled",
-        "and grieved his Holy Spirit;",
-        "therefore he turned to be their enemy,",
-        "and himself fought against them."
-      ],
-      "verse": 10
+      "text": "“I have trodden the winepress alone,",
+      "verse": 3,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "Then he remembered the days of old,",
-        "of Moses and his people.",
-        "Where is he who brought them up out of the sea",
-        "with the shepherds of his flock?",
-        "Where is he who put in the midst of them",
-        "his Holy Spirit,"
-      ],
-      "verse": 11
+      "text": "and from the peoples no one was with me;",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "who caused his glorious arm",
-        "to go at the right hand of Moses,",
-        "who divided the waters before them",
-        "to make for himself an everlasting name,"
-      ],
-      "verse": 12
+      "text": "I trod them in my anger",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "who led them through the depths?",
-        "Like a horse in the desert,",
-        "they did not stumble."
-      ],
-      "verse": 13
+      "text": "and trampled them in my wrath;",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Like livestock that go down into the valley,",
-        "the Spirit of the Lord gave them rest.",
-        "So you led your people,",
-        "to make for yourself a glorious name."
-      ],
-      "verse": 14
+      "text": "their lifeblood spattered on my garments,",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Look down from heaven and see,",
-        "from your holy and beautiful habitation.",
-        "Where are your zeal and your might?",
-        "The stirring of your inner parts and your compassion",
-        "are held back from me."
-      ],
-      "verse": 15
+      "text": "and stained all my apparel.",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For you are our Father,",
-        "though Abraham does not know us,",
-        "and Israel does not acknowledge us;",
-        "you, O Lord, are our Father,",
-        "our Redeemer from of old is your name."
-      ],
-      "verse": 16
+      "text": "For the day of vengeance was in my heart,",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "O Lord, why do you make us wander from your ways",
-        "and harden our heart, so that we fear you not?",
-        "Return for the sake of your servants,",
-        "the tribes of your heritage."
-      ],
-      "verse": 17
+      "text": "and my year of redemption had come.",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Your holy people held possession for a little while;",
-        "our adversaries have trampled down your sanctuary."
-      ],
-      "verse": 18
+      "text": "I looked, but there was no one to help;",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "We have become like those over whom you have never ruled,",
-        "like those who are not called by your name."
-      ],
-      "verse": 19
+      "text": "I was appalled, but there was no one to uphold;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "so my own arm brought me salvation,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and my wrath upheld me.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I trampled down the peoples in my anger;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I made them drunk in my wrath,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and I poured out their lifeblood on the earth.”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The 's Mercy Remembered",
+      "type": "heading"
+    },
+    {
+      "text": "I will recount the steadfast love of the ,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the praises of the ,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "according to all that the  has granted us,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and the great goodness to the house of Israel",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "that he has granted them according to his compassion,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "according to the abundance of his steadfast love.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For he said, “Surely they are my people,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "children who will not deal falsely.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And he became their Savior.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "In all their affliction he was afflicted,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and the angel of his presence saved them;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "in his love and in his pity he redeemed them;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "he lifted them up and carried them all the days of old.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "But they rebelled",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and grieved his Holy Spirit;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "therefore he turned to be their enemy,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and himself fought against them.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Then he remembered the days of old,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "of Moses and his people.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Where is he who brought them up out of the sea",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "with the shepherds of his flock?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Where is he who put in the midst of them",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "his Holy Spirit,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "who caused his glorious arm",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "to go at the right hand of Moses,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "who divided the waters before them",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "to make for himself an everlasting name,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "who led them through the depths?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a horse in the desert,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "they did not stumble.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Like livestock that go down into the valley,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "the Spirit of the  gave them rest.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "So you led your people,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "to make for yourself a glorious name.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Prayer for Mercy",
+      "type": "heading"
+    },
+    {
+      "text": "Look down from heaven and see,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "from your holy and beautiful habitation.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Where are your zeal and your might?",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The stirring of your inner parts and your compassion",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "are held back from me.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For you are our Father,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "though Abraham does not know us,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and Israel does not acknowledge us;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "you, O , are our Father,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "our Redeemer from of old is your name.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "O , why do you make us wander from your ways",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and harden our heart, so that we fear you not?",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Return for the sake of your servants,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the tribes of your heritage.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Your holy people held possession for a little while;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "our adversaries have trampled down your sanctuary.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "We have become like those over whom you have never ruled,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "like those who are not called by your name.",
+      "verse": 19,
+      "type": "poetry"
     }
   ]
 }

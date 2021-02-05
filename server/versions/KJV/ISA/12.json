@@ -2,47 +2,5 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 12,
-  "verses": [
-    {
-      "texts": [
-        "And in that day thou shalt say, O Lord, I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me.",
-        ""
-      ],
-      "verse": 1
-    },
-    {
-      "texts": [
-        "Behold, God is my salvation; I will trust, and not be afraid: for the Lord Jehovah is my strength and my song; he also is become my salvation.",
-        ""
-      ],
-      "verse": 2
-    },
-    {
-      "texts": [
-        "Therefore with joy shall ye draw water out of the wells of salvation.",
-        ""
-      ],
-      "verse": 3
-    },
-    {
-      "texts": [
-        "And in that day shall ye say, Praise the Lord, call upon his name, declare his doings among the people, make mention that his name is exalted.",
-        ""
-      ],
-      "verse": 4
-    },
-    {
-      "texts": [
-        "Sing unto the Lord; for he hath done excellent things: this is known in all the earth.",
-        ""
-      ],
-      "verse": 5
-    },
-    {
-      "texts": [
-        "Cry out and shout, thou inhabitant of Zion: for great is the Holy One of Israel in the midst of thee."
-      ],
-      "verse": 6
-    }
-  ]
+  "content": []
 }

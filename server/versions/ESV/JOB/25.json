@@ -2,47 +2,65 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 25,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Then Bildad the Shuhite answered and said:"
-      ],
-      "verse": 1
+      "text": "Bildad Speaks: Man Cannot Be Righteous",
+      "type": "heading"
     },
     {
-      "texts": [
-        "\"Dominion and fear are with God;",
-        "he makes peace in his high heaven."
-      ],
-      "verse": 2
+      "text": "Then Bildad the Shuhite answered and said:",
+      "verse": 1,
+      "type": "newline"
     },
     {
-      "texts": [
-        "Is there any number to his armies?",
-        "Upon whom does his light not arise?"
-      ],
-      "verse": 3
+      "text": "“Dominion and fear are with God;",
+      "verse": 2,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "How then can man be in the right before God?",
-        "How can he who is born of woman be pure?"
-      ],
-      "verse": 4
+      "text": "he makes peace in his high heaven.",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Behold, even the moon is not bright,",
-        "and the stars are not pure in his eyes;"
-      ],
-      "verse": 5
+      "text": "Is there any number to his armies?",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "how much less man, who is a maggot,",
-        "and the son of man, who is a worm!\""
-      ],
-      "verse": 6
+      "text": "Upon whom does his light not arise?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "How then can man be in the right before God?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "How can he who is born of woman be pure?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, even the moon is not bright,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and the stars are not pure in his eyes;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "how much less man, who is a maggot,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and the son of man, who is a worm!”",
+      "verse": 6,
+      "type": "poetry"
     }
   ]
 }

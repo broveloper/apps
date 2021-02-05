@@ -2,149 +2,108 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 21,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "And the Lord said to Moses, \"Speak to the priests, the sons of Aaron, and say to them, No one shall make himself unclean for the dead among his people,"
-      ],
-      "verse": 1
+      "text": "Holiness and the Priests",
+      "type": "heading"
     },
     {
-      "texts": [
-        "except for his closest relatives, his mother, his father, his son, his daughter, his brother,"
-      ],
+      "text": "And the  said to Moses, “Speak to the priests, the sons of Aaron, and say to them, No one shall make himself unclean for the dead among his people,",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "except for his closest relatives, his mother, his father, his son, his daughter, his brother,",
       "verse": 2
     },
     {
-      "texts": [
-        "or his virgin sister (who is near to him because she has had no husband; for her he may make himself unclean)."
-      ],
+      "text": "or his virgin sister (who is near to him because she has had no husband; for her he may make himself unclean).",
       "verse": 3
     },
     {
-      "texts": [
-        "He shall not make himself unclean as a husband among his people and so profane himself."
-      ],
+      "text": "He shall not make himself unclean as a husband among his people and so profane himself.",
       "verse": 4
     },
     {
-      "texts": [
-        "They shall not make bald patches on their heads, nor shave off the edges of their beards, nor make any cuts on their body."
-      ],
+      "text": "They shall not make bald patches on their heads, nor shave off the edges of their beards, nor make any cuts on their body.",
       "verse": 5
     },
     {
-      "texts": [
-        "They shall be holy to their God and not profane the name of their God. For they offer the Lord's food offerings, the bread of their God; therefore they shall be holy."
-      ],
+      "text": "They shall be holy to their God and not profane the name of their God. For they offer the 's food offerings, the bread of their God; therefore they shall be holy.",
       "verse": 6
     },
     {
-      "texts": [
-        "They shall not marry a prostitute or a woman who has been defiled, neither shall they marry a woman divorced from her husband, for the priest is holy to his God."
-      ],
+      "text": "They shall not marry a prostitute or a woman who has been defiled, neither shall they marry a woman divorced from her husband, for the priest is holy to his God.",
       "verse": 7
     },
     {
-      "texts": [
-        "You shall sanctify him, for he offers the bread of your God. He shall be holy to you, for I, the Lord, who sanctify you, am holy."
-      ],
+      "text": "You shall sanctify him, for he offers the bread of your God. He shall be holy to you, for I, the , who sanctify you, am holy.",
       "verse": 8
     },
     {
-      "texts": [
-        "And the daughter of any priest, if she profanes herself by whoring, profanes her father; she shall be burned with fire."
-      ],
+      "text": "And the daughter of any priest, if she profanes herself by whoring, profanes her father; she shall be burned with fire.",
       "verse": 9
     },
     {
-      "texts": [
-        "\"The priest who is chief among his brothers, on whose head the anointing oil is poured and who has been consecrated to wear the garments, shall not let the hair of his head hang loose nor tear his clothes."
-      ],
-      "verse": 10
+      "text": "“The priest who is chief among his brothers, on whose head the anointing oil is poured and who has been consecrated to wear the garments, shall not let the hair of his head hang loose nor tear his clothes.",
+      "verse": 10,
+      "type": "newline"
     },
     {
-      "texts": [
-        "He shall not go in to any dead bodies nor make himself unclean, even for his father or for his mother."
-      ],
+      "text": "He shall not go in to any dead bodies nor make himself unclean, even for his father or for his mother.",
       "verse": 11
     },
     {
-      "texts": [
-        "He shall not go out of the sanctuary, lest he profane the sanctuary of his God, for the consecration of the anointing oil of his God is on him: I am the Lord."
-      ],
+      "text": "He shall not go out of the sanctuary, lest he profane the sanctuary of his God, for the consecration of the anointing oil of his God is on him: I am the .",
       "verse": 12
     },
     {
-      "texts": [
-        "And he shall take a wife in her virginity."
-      ],
+      "text": "And he shall take a wife in her virginity.",
       "verse": 13
     },
     {
-      "texts": [
-        "A widow, or a divorced woman, or a woman who has been defiled, or a prostitute, these he shall not marry. But he shall take as his wife a virgin of his own people,"
-      ],
+      "text": "A widow, or a divorced woman, or a woman who has been defiled, or a prostitute, these he shall not marry. But he shall take as his wife a virgin of his own people,",
       "verse": 14
     },
     {
-      "texts": [
-        "that he may not profane his offspring among his people, for I am the Lord who sanctifies him.\""
-      ],
+      "text": "that he may not profane his offspring among his people, for I am the  who sanctifies him.”",
       "verse": 15
     },
     {
-      "texts": [
-        "And the Lord spoke to Moses, saying,"
-      ],
-      "verse": 16
+      "text": "And the  spoke to Moses, saying,",
+      "verse": 16,
+      "type": "newline"
     },
     {
-      "texts": [
-        "\"Speak to Aaron, saying, None of your offspring throughout their generations who has a blemish may approach to offer the bread of his God."
-      ],
+      "text": "“Speak to Aaron, saying, None of your offspring throughout their generations who has a blemish may approach to offer the bread of his God.",
       "verse": 17
     },
     {
-      "texts": [
-        "For no one who has a blemish shall draw near, a man blind or lame, or one who has a mutilated face or a limb too long,"
-      ],
+      "text": "For no one who has a blemish shall draw near, a man blind or lame, or one who has a mutilated face or a limb too long,",
       "verse": 18
     },
     {
-      "texts": [
-        "or a man who has an injured foot or an injured hand,"
-      ],
+      "text": "or a man who has an injured foot or an injured hand,",
       "verse": 19
     },
     {
-      "texts": [
-        "or a hunchback or a dwarf or a man with a defect in his sight or an itching disease or scabs or crushed testicles."
-      ],
+      "text": "or a hunchback or a dwarf or a man with a defect in his sight or an itching disease or scabs or crushed testicles.",
       "verse": 20
     },
     {
-      "texts": [
-        "No man of the offspring of Aaron the priest who has a blemish shall come near to offer the Lord's food offerings; since he has a blemish, he shall not come near to offer the bread of his God."
-      ],
+      "text": "No man of the offspring of Aaron the priest who has a blemish shall come near to offer the 's food offerings; since he has a blemish, he shall not come near to offer the bread of his God.",
       "verse": 21
     },
     {
-      "texts": [
-        "He may eat the bread of his God, both of the most holy and of the holy things,"
-      ],
+      "text": "He may eat the bread of his God, both of the most holy and of the holy things,",
       "verse": 22
     },
     {
-      "texts": [
-        "but he shall not go through the veil or approach the altar, because he has a blemish, that he may not profane my sanctuaries, for I am the Lord who sanctifies them.\""
-      ],
+      "text": "but he shall not go through the veil or approach the altar, because he has a blemish, that he may not profane my sanctuaries, for I am the  who sanctifies them.”",
       "verse": 23
     },
     {
-      "texts": [
-        "So Moses spoke to Aaron and to his sons and to all the people of Israel."
-      ],
+      "text": "So Moses spoke to Aaron and to his sons and to all the people of Israel.",
       "verse": 24
     }
   ]

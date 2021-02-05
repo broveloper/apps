@@ -2,160 +2,230 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 8,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Then Bildad the Shuhite answered and said:"
-      ],
-      "verse": 1
+      "text": "Bildad Speaks: Job Should Repent",
+      "type": "heading"
     },
     {
-      "texts": [
-        "\"How long will you say these things,",
-        "and the words of your mouth be a great wind?"
-      ],
-      "verse": 2
+      "text": "Then Bildad the Shuhite answered and said:",
+      "verse": 1,
+      "type": "newline"
     },
     {
-      "texts": [
-        "Does God pervert justice?",
-        "Or does the Almighty pervert the right?"
-      ],
-      "verse": 3
+      "text": "“How long will you say these things,",
+      "verse": 2,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "If your children have sinned against him,",
-        "he has delivered them into the hand of their transgression."
-      ],
-      "verse": 4
+      "text": "and the words of your mouth be a great wind?",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "If you will seek God",
-        "and plead with the Almighty for mercy,"
-      ],
-      "verse": 5
+      "text": "Does God pervert justice?",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "if you are pure and upright,",
-        "surely then he will rouse himself for you",
-        "and restore your rightful habitation."
-      ],
-      "verse": 6
+      "text": "Or does the Almighty pervert the right?",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "And though your beginning was small,",
-        "your latter days will be very great."
-      ],
-      "verse": 7
+      "text": "If your children have sinned against him,",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"For inquire, please, of bygone ages,",
-        "and consider what the fathers have searched out."
-      ],
-      "verse": 8
+      "text": "he has delivered them into the hand of their transgression.",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For we are but of yesterday and know nothing,",
-        "for our days on earth are a shadow."
-      ],
-      "verse": 9
+      "text": "If you will seek God",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Will they not teach you and tell you",
-        "and utter words out of their understanding?"
-      ],
-      "verse": 10
+      "text": "and plead with the Almighty for mercy,",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Can papyrus grow where there is no marsh?",
-        "Can reeds flourish where there is no water?"
-      ],
-      "verse": 11
+      "text": "if you are pure and upright,",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "While yet in flower and not cut down,",
-        "they wither before any other plant."
-      ],
-      "verse": 12
+      "text": "surely then he will rouse himself for you",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Such are the paths of all who forget God;",
-        "the hope of the godless shall perish."
-      ],
-      "verse": 13
+      "text": "and restore your rightful habitation.",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "His confidence is severed,",
-        "and his trust is a spider's web."
-      ],
-      "verse": 14
+      "text": "And though your beginning was small,",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He leans against his house, but it does not stand;",
-        "he lays hold of it, but it does not endure."
-      ],
-      "verse": 15
+      "text": "your latter days will be very great.",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He is a lush plant before the sun,",
-        "and his shoots spread over his garden."
-      ],
-      "verse": 16
+      "text": "“For inquire, please, of bygone ages,",
+      "verse": 8,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "His roots entwine the stone heap;",
-        "he looks upon a house of stones."
-      ],
-      "verse": 17
+      "text": "and consider what the fathers have searched out.",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "If he is destroyed from his place,",
-        "then it will deny him, saying, 'I have never seen you.'"
-      ],
-      "verse": 18
+      "text": "For we are but of yesterday and know nothing,",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Behold, this is the joy of his way,",
-        "and out of the soil others will spring."
-      ],
-      "verse": 19
+      "text": "for our days on earth are a shadow.",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Behold, God will not reject a blameless man,",
-        "nor take the hand of evildoers."
-      ],
-      "verse": 20
+      "text": "Will they not teach you and tell you",
+      "verse": 10,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He will yet fill your mouth with laughter,",
-        "and your lips with shouting."
-      ],
-      "verse": 21
+      "text": "and utter words out of their understanding?",
+      "verse": 10,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Those who hate you will be clothed with shame,",
-        "and the tent of the wicked will be no more.\""
-      ],
-      "verse": 22
+      "text": "“Can papyrus grow where there is no marsh?",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Can reeds flourish where there is no water?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "While yet in flower and not cut down,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "they wither before any other plant.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Such are the paths of all who forget God;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "the hope of the godless shall perish.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "His confidence is severed,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and his trust is a spider's web.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He leans against his house, but it does not stand;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "he lays hold of it, but it does not endure.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He is a lush plant before the sun,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and his shoots spread over his garden.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "His roots entwine the stone heap;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "he looks upon a house of stones.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "If he is destroyed from his place,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "then it will deny him, saying, ‘I have never seen you.’",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, this is the joy of his way,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and out of the soil others will spring.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, God will not reject a blameless man,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "nor take the hand of evildoers.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "He will yet fill your mouth with laughter,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and your lips with shouting.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who hate you will be clothed with shame,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and the tent of the wicked will be no more.”",
+      "verse": 22,
+      "type": "poetry"
     }
   ]
 }

@@ -2,139 +2,283 @@
   "book_id": "MIC",
   "book_name": "Micah",
   "chapter": 6,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Hear what the Lord says:",
-        "Arise, plead your case before the mountains,",
-        "and let the hills hear your voice."
-      ],
-      "verse": 1
+      "text": "The Indictment of the",
+      "type": "heading"
     },
     {
-      "texts": [
-        "Hear, you mountains, the indictment of the Lord,",
-        "and you enduring foundations of the earth,",
-        "for the Lord has an indictment against his people,",
-        "and he will contend with Israel."
-      ],
-      "verse": 2
+      "text": "Hear what the  says:",
+      "verse": 1,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "\"O my people, what have I done to you?",
-        "How have I wearied you? Answer me!"
-      ],
-      "verse": 3
+      "text": "Arise, plead your case before the mountains,",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For I brought you up from the land of Egypt",
-        "and redeemed you from the house of slavery,",
-        "and I sent before you Moses,",
-        "Aaron, and Miriam."
-      ],
-      "verse": 4
+      "text": "and let the hills hear your voice.",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "O my people, remember what Balak king of Moab devised,",
-        "and what Balaam the son of Beor answered him,",
-        "and what happened from Shittim to Gilgal,",
-        "that you may know the righteous acts of the Lord.\""
-      ],
-      "verse": 5
+      "text": "Hear, you mountains, the indictment of the ,",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"With what shall I come before the Lord,",
-        "and bow myself before God on high?",
-        "Shall I come before him with burnt offerings,",
-        "with calves a year old?"
-      ],
-      "verse": 6
+      "text": "and you enduring foundations of the earth,",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Will the Lord be pleased with thousands of rams,",
-        "with ten thousands of rivers of oil?",
-        "Shall I give my firstborn for my transgression,",
-        "the fruit of my body for the sin of my soul?\""
-      ],
-      "verse": 7
+      "text": "for the  has an indictment against his people,",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He has told you, O man, what is good;",
-        "and what does the Lord require of you",
-        "but to do justice, and to love kindness,",
-        "and to walk humbly with your God?"
-      ],
-      "verse": 8
+      "text": "and he will contend with Israel.",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The voice of the Lord cries to the city—",
-        "and it is sound wisdom to fear your name:",
-        "\"Hear of the rod and of him who appointed it!"
-      ],
-      "verse": 9
+      "text": "“O my people, what have I done to you?",
+      "verse": 3,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "Can I forget any longer the treasures of wickedness in the house of the wicked,",
-        "and the scant measure that is accursed?"
-      ],
-      "verse": 10
+      "text": "How have I wearied you? Answer me!",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Shall I acquit the man with wicked scales",
-        "and with a bag of deceitful weights?"
-      ],
-      "verse": 11
+      "text": "For I brought you up from the land of Egypt",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Your rich men are full of violence;",
-        "your inhabitants speak lies,",
-        "and their tongue is deceitful in their mouth."
-      ],
-      "verse": 12
+      "text": "and redeemed you from the house of slavery,",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Therefore I strike you with a grievous blow,",
-        "making you desolate because of your sins."
-      ],
-      "verse": 13
+      "text": "and I sent before you Moses,",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "You shall eat, but not be satisfied,",
-        "and there shall be hunger within you;",
-        "you shall put away, but not preserve,",
-        "and what you preserve I will give to the sword."
-      ],
-      "verse": 14
+      "text": "Aaron, and Miriam.",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "You shall sow, but not reap;",
-        "you shall tread olives, but not anoint yourselves with oil;",
-        "you shall tread grapes, but not drink wine."
-      ],
-      "verse": 15
+      "text": "O my people, remember what Balak king of Moab devised,",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For you have kept the statutes of Omri,",
-        "and all the works of the house of Ahab;",
-        "and you have walked in their counsels,",
-        "that I may make you a desolation, and your inhabitants a hissing;",
-        "so you shall bear the scorn of my people.\""
-      ],
-      "verse": 16
+      "text": "and what Balaam the son of Beor answered him,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and what happened from Shittim to Gilgal,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "that you may know the righteous acts of the .”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "What Does the  Require?",
+      "type": "heading"
+    },
+    {
+      "text": "“With what shall I come before the ,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and bow myself before God on high?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall I come before him with burnt offerings,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "with calves a year old?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Will the  be pleased with thousands of rams,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "with ten thousands of rivers of oil?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall I give my firstborn for my transgression,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the fruit of my body for the sin of my soul?”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He has told you, O man, what is good;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and what does the  require of you",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "but to do justice, and to love kindness,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and to walk humbly with your God?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Destruction of the Wicked",
+      "type": "heading"
+    },
+    {
+      "text": "The voice of the  cries to the city—",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and it is sound wisdom to fear your name:",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Hear of the rod and of him who appointed it!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Can I forget any longer the treasures of wickedness in the house of the wicked,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the scant measure that is accursed?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall I acquit the man with wicked scales",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and with a bag of deceitful weights?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Your rich men are full of violence;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "your inhabitants speak lies,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and their tongue is deceitful in their mouth.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I strike you with a grievous blow,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "making you desolate because of your sins.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall eat, but not be satisfied,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and there shall be hunger within you;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "you shall put away, but not preserve,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and what you preserve I will give to the sword.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall sow, but not reap;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "you shall tread olives, but not anoint yourselves with oil;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "you shall tread grapes, but not drink wine.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For you have kept the statutes of Omri,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and all the works of the house of Ahab;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and you have walked in their counsels,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "that I may make you a desolation, and your inhabitants a hissing;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "so you shall bear the scorn of my people.”",
+      "verse": 16,
+      "type": "poetry"
     }
   ]
 }

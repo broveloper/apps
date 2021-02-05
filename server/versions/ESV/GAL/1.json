@@ -2,150 +2,124 @@
   "book_id": "GAL",
   "book_name": "Galatians",
   "chapter": 1,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Paul, an apostle—not from men nor through man, but through Jesus Christ and God the Father, who raised him from the dead—"
-      ],
-      "verse": 1
+      "text": "Greeting",
+      "type": "heading"
     },
     {
-      "texts": [
-        "and all the brothers who are with me,",
-        "To the churches of Galatia:"
-      ],
+      "text": "Paul, an apostle—not from men nor through man, but through Jesus Christ and God the Father, who raised him from the dead—",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "and all the brothers who are with me,",
       "verse": 2
     },
     {
-      "texts": [
-        "Grace to you and peace from God our Father and the Lord Jesus Christ,"
-      ],
-      "verse": 3
+      "text": "To the churches of Galatia:",
+      "verse": 2,
+      "type": "newline"
     },
     {
-      "texts": [
-        "who gave himself for our sins to deliver us from the present evil age, according to the will of our God and Father,"
-      ],
+      "text": "Grace to you and peace from God our Father and the Lord Jesus Christ,",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "who gave himself for our sins to deliver us from the present evil age, according to the will of our God and Father,",
       "verse": 4
     },
     {
-      "texts": [
-        "to whom be the glory forever and ever. Amen."
-      ],
+      "text": "to whom be the glory forever and ever. Amen.",
       "verse": 5
     },
     {
-      "texts": [
-        "I am astonished that you are so quickly deserting him who called you in the grace of Christ and are turning to a different gospel—"
-      ],
-      "verse": 6
+      "text": "No Other Gospel",
+      "type": "heading"
     },
     {
-      "texts": [
-        "not that there is another one, but there are some who trouble you and want to distort the gospel of Christ."
-      ],
+      "text": "I am astonished that you are so quickly deserting him who called you in the grace of Christ and are turning to a different gospel—",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "not that there is another one, but there are some who trouble you and want to distort the gospel of Christ.",
       "verse": 7
     },
     {
-      "texts": [
-        "But even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you, let him be accursed."
-      ],
+      "text": "But even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you, let him be accursed.",
       "verse": 8
     },
     {
-      "texts": [
-        "As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, let him be accursed."
-      ],
+      "text": "As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, let him be accursed.",
       "verse": 9
     },
     {
-      "texts": [
-        "For am I now seeking the approval of man, or of God? Or am I trying to please man? If I were still trying to please man, I would not be a servant of Christ."
-      ],
-      "verse": 10
+      "text": "For am I now seeking the approval of man, or of God? Or am I trying to please man? If I were still trying to please man, I would not be a servant of Christ.",
+      "verse": 10,
+      "type": "newline"
     },
     {
-      "texts": [
-        "For I would have you know, brothers, that the gospel that was preached by me is not man's gospel."
-      ],
-      "verse": 11
+      "text": "Paul Called by God",
+      "type": "heading"
     },
     {
-      "texts": [
-        "For I did not receive it from any man, nor was I taught it, but I received it through a revelation of Jesus Christ."
-      ],
+      "text": "For I would have you know, brothers, that the gospel that was preached by me is not man's gospel.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "For I did not receive it from any man, nor was I taught it, but I received it through a revelation of Jesus Christ.",
       "verse": 12
     },
     {
-      "texts": [
-        "For you have heard of my former life in Judaism, how I persecuted the church of God violently and tried to destroy it."
-      ],
+      "text": "For you have heard of my former life in Judaism, how I persecuted the church of God violently and tried to destroy it.",
       "verse": 13
     },
     {
-      "texts": [
-        "And I was advancing in Judaism beyond many of my own age among my people, so extremely zealous was I for the traditions of my fathers."
-      ],
+      "text": "And I was advancing in Judaism beyond many of my own age among my people, so extremely zealous was I for the traditions of my fathers.",
       "verse": 14
     },
     {
-      "texts": [
-        "But when he who had set me apart before I was born, and who called me by his grace,"
-      ],
+      "text": "But when he who had set me apart before I was born, and who called me by his grace,",
       "verse": 15
     },
     {
-      "texts": [
-        "was pleased to reveal his Son to me, in order that I might preach him among the Gentiles, I did not immediately consult with anyone;"
-      ],
+      "text": "was pleased to reveal his Son to me, in order that I might preach him among the Gentiles, I did not immediately consult with anyone;",
       "verse": 16
     },
     {
-      "texts": [
-        "nor did I go up to Jerusalem to those who were apostles before me, but I went away into Arabia, and returned again to Damascus."
-      ],
+      "text": "nor did I go up to Jerusalem to those who were apostles before me, but I went away into Arabia, and returned again to Damascus.",
       "verse": 17
     },
     {
-      "texts": [
-        "Then after three years I went up to Jerusalem to visit Cephas and remained with him fifteen days."
-      ],
-      "verse": 18
+      "text": "Then after three years I went up to Jerusalem to visit Cephas and remained with him fifteen days.",
+      "verse": 18,
+      "type": "newline"
     },
     {
-      "texts": [
-        "But I saw none of the other apostles except James the Lord's brother."
-      ],
+      "text": "But I saw none of the other apostles except James the Lord's brother.",
       "verse": 19
     },
     {
-      "texts": [
-        "(In what I am writing to you, before God, I do not lie!)"
-      ],
+      "text": "(In what I am writing to you, before God, I do not lie!)",
       "verse": 20
     },
     {
-      "texts": [
-        "Then I went into the regions of Syria and Cilicia."
-      ],
+      "text": "Then I went into the regions of Syria and Cilicia.",
       "verse": 21
     },
     {
-      "texts": [
-        "And I was still unknown in person to the churches of Judea that are in Christ."
-      ],
+      "text": "And I was still unknown in person to the churches of Judea that are in Christ.",
       "verse": 22
     },
     {
-      "texts": [
-        "They only were hearing it said, \"He who used to persecute us is now preaching the faith he once tried to destroy.\""
-      ],
+      "text": "They only were hearing it said, “He who used to persecute us is now preaching the faith he once tried to destroy.”",
       "verse": 23
     },
     {
-      "texts": [
-        "And they glorified God because of me."
-      ],
+      "text": "And they glorified God because of me.",
       "verse": 24
     }
   ]

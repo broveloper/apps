@@ -2,41 +2,35 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 20,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "In the year that the commander in chief, who was sent by Sargon the king of Assyria, came to Ashdod and fought against it and captured it—"
-      ],
-      "verse": 1
+      "text": "A Sign Against Egypt and Cush",
+      "type": "heading"
     },
     {
-      "texts": [
-        "at that time the Lord spoke by Isaiah the son of Amoz, saying, \"Go, and loose the sackcloth from your waist and take off your sandals from your feet,\" and he did so, walking naked and barefoot."
-      ],
+      "text": "In the year that the commander in chief, who was sent by Sargon the king of Assyria, came to Ashdod and fought against it and captured it—",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "at that time the  spoke by Isaiah the son of Amoz, saying, “Go, and loose the sackcloth from your waist and take off your sandals from your feet,” and he did so, walking naked and barefoot.",
       "verse": 2
     },
     {
-      "texts": [
-        "Then the Lord said, \"As my servant Isaiah has walked naked and barefoot for three years as a sign and a portent against Egypt and Cush,"
-      ],
-      "verse": 3
+      "text": "Then the  said, “As my servant Isaiah has walked naked and barefoot for three years as a sign and a portent against Egypt and Cush,",
+      "verse": 3,
+      "type": "newline"
     },
     {
-      "texts": [
-        "so shall the king of Assyria lead away the Egyptian captives and the Cushite exiles, both the young and the old, naked and barefoot, with buttocks uncovered, the nakedness of Egypt."
-      ],
+      "text": "so shall the king of Assyria lead away the Egyptian captives and the Cushite exiles, both the young and the old, naked and barefoot, with buttocks uncovered, the nakedness of Egypt.",
       "verse": 4
     },
     {
-      "texts": [
-        "Then they shall be dismayed and ashamed because of Cush their hope and of Egypt their boast."
-      ],
+      "text": "Then they shall be dismayed and ashamed because of Cush their hope and of Egypt their boast.",
       "verse": 5
     },
     {
-      "texts": [
-        "And the inhabitants of this coastland will say in that day, 'Behold, this is what has happened to those in whom we hoped and to whom we fled for help to be delivered from the king of Assyria! And we, how shall we escape?'\""
-      ],
+      "text": "And the inhabitants of this coastland will say in that day, ‘Behold, this is what has happened to those in whom we hoped and to whom we fled for help to be delivered from the king of Assyria! And we, how shall we escape?’”",
       "verse": 6
     }
   ]

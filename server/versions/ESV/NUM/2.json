@@ -2,210 +2,153 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 2,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "The Lord spoke to Moses and Aaron, saying,"
-      ],
-      "verse": 1
+      "text": "Arrangement of the Camp",
+      "type": "heading"
     },
     {
-      "texts": [
-        "\"The people of Israel shall camp each by his own standard, with the banners of their fathers' houses. They shall camp facing the tent of meeting on every side."
-      ],
+      "text": "The  spoke to Moses and Aaron, saying,",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“The people of Israel shall camp each by his own standard, with the banners of their fathers' houses. They shall camp facing the tent of meeting on every side.",
       "verse": 2
     },
     {
-      "texts": [
-        "Those to camp on the east side toward the sunrise shall be of the standard of the camp of Judah by their companies, the chief of the people of Judah being Nahshon the son of Amminadab,"
-      ],
+      "text": "Those to camp on the east side toward the sunrise shall be of the standard of the camp of Judah by their companies, the chief of the people of Judah being Nahshon the son of Amminadab,",
       "verse": 3
     },
     {
-      "texts": [
-        "his company as listed being 74,600."
-      ],
+      "text": "his company as listed being 74,600.",
       "verse": 4
     },
     {
-      "texts": [
-        "Those to camp next to him shall be the tribe of Issachar, the chief of the people of Issachar being Nethanel the son of Zuar,"
-      ],
+      "text": "Those to camp next to him shall be the tribe of Issachar, the chief of the people of Issachar being Nethanel the son of Zuar,",
       "verse": 5
     },
     {
-      "texts": [
-        "his company as listed being 54,400."
-      ],
+      "text": "his company as listed being 54,400.",
       "verse": 6
     },
     {
-      "texts": [
-        "Then the tribe of Zebulun, the chief of the people of Zebulun being Eliab the son of Helon,"
-      ],
+      "text": "Then the tribe of Zebulun, the chief of the people of Zebulun being Eliab the son of Helon,",
       "verse": 7
     },
     {
-      "texts": [
-        "his company as listed being 57,400."
-      ],
+      "text": "his company as listed being 57,400.",
       "verse": 8
     },
     {
-      "texts": [
-        "All those listed of the camp of Judah, by their companies, were 186,400. They shall set out first on the march."
-      ],
+      "text": "All those listed of the camp of Judah, by their companies, were 186,400. They shall set out first on the march.",
       "verse": 9
     },
     {
-      "texts": [
-        "\"On the south side shall be the standard of the camp of Reuben by their companies, the chief of the people of Reuben being Elizur the son of Shedeur,"
-      ],
-      "verse": 10
+      "text": "“On the south side shall be the standard of the camp of Reuben by their companies, the chief of the people of Reuben being Elizur the son of Shedeur,",
+      "verse": 10,
+      "type": "newline"
     },
     {
-      "texts": [
-        "his company as listed being 46,500."
-      ],
+      "text": "his company as listed being 46,500.",
       "verse": 11
     },
     {
-      "texts": [
-        "And those to camp next to him shall be the tribe of Simeon, the chief of the people of Simeon being Shelumiel the son of Zurishaddai,"
-      ],
+      "text": "And those to camp next to him shall be the tribe of Simeon, the chief of the people of Simeon being Shelumiel the son of Zurishaddai,",
       "verse": 12
     },
     {
-      "texts": [
-        "his company as listed being 59,300."
-      ],
+      "text": "his company as listed being 59,300.",
       "verse": 13
     },
     {
-      "texts": [
-        "Then the tribe of Gad, the chief of the people of Gad being Eliasaph the son of Reuel,"
-      ],
+      "text": "Then the tribe of Gad, the chief of the people of Gad being Eliasaph the son of Reuel,",
       "verse": 14
     },
     {
-      "texts": [
-        "his company as listed being 45,650."
-      ],
+      "text": "his company as listed being 45,650.",
       "verse": 15
     },
     {
-      "texts": [
-        "All those listed of the camp of Reuben, by their companies, were 151,450. They shall set out second."
-      ],
+      "text": "All those listed of the camp of Reuben, by their companies, were 151,450. They shall set out second.",
       "verse": 16
     },
     {
-      "texts": [
-        "\"Then the tent of meeting shall set out, with the camp of the Levites in the midst of the camps; as they camp, so shall they set out, each in position, standard by standard."
-      ],
-      "verse": 17
+      "text": "“Then the tent of meeting shall set out, with the camp of the Levites in the midst of the camps; as they camp, so shall they set out, each in position, standard by standard.",
+      "verse": 17,
+      "type": "newline"
     },
     {
-      "texts": [
-        "\"On the west side shall be the standard of the camp of Ephraim by their companies, the chief of the people of Ephraim being Elishama the son of Ammihud,"
-      ],
-      "verse": 18
+      "text": "“On the west side shall be the standard of the camp of Ephraim by their companies, the chief of the people of Ephraim being Elishama the son of Ammihud,",
+      "verse": 18,
+      "type": "newline"
     },
     {
-      "texts": [
-        "his company as listed being 40,500."
-      ],
+      "text": "his company as listed being 40,500.",
       "verse": 19
     },
     {
-      "texts": [
-        "And next to him shall be the tribe of Manasseh, the chief of the people of Manasseh being Gamaliel the son of Pedahzur,"
-      ],
+      "text": "And next to him shall be the tribe of Manasseh, the chief of the people of Manasseh being Gamaliel the son of Pedahzur,",
       "verse": 20
     },
     {
-      "texts": [
-        "his company as listed being 32,200."
-      ],
+      "text": "his company as listed being 32,200.",
       "verse": 21
     },
     {
-      "texts": [
-        "Then the tribe of Benjamin, the chief of the people of Benjamin being Abidan the son of Gideoni,"
-      ],
+      "text": "Then the tribe of Benjamin, the chief of the people of Benjamin being Abidan the son of Gideoni,",
       "verse": 22
     },
     {
-      "texts": [
-        "his company as listed being 35,400."
-      ],
+      "text": "his company as listed being 35,400.",
       "verse": 23
     },
     {
-      "texts": [
-        "All those listed of the camp of Ephraim, by their companies, were 108,100. They shall set out third on the march."
-      ],
+      "text": "All those listed of the camp of Ephraim, by their companies, were 108,100. They shall set out third on the march.",
       "verse": 24
     },
     {
-      "texts": [
-        "\"On the north side shall be the standard of the camp of Dan by their companies, the chief of the people of Dan being Ahiezer the son of Ammishaddai,"
-      ],
-      "verse": 25
+      "text": "“On the north side shall be the standard of the camp of Dan by their companies, the chief of the people of Dan being Ahiezer the son of Ammishaddai,",
+      "verse": 25,
+      "type": "newline"
     },
     {
-      "texts": [
-        "his company as listed being 62,700."
-      ],
+      "text": "his company as listed being 62,700.",
       "verse": 26
     },
     {
-      "texts": [
-        "And those to camp next to him shall be the tribe of Asher, the chief of the people of Asher being Pagiel the son of Ochran,"
-      ],
+      "text": "And those to camp next to him shall be the tribe of Asher, the chief of the people of Asher being Pagiel the son of Ochran,",
       "verse": 27
     },
     {
-      "texts": [
-        "his company as listed being 41,500."
-      ],
+      "text": "his company as listed being 41,500.",
       "verse": 28
     },
     {
-      "texts": [
-        "Then the tribe of Naphtali, the chief of the people of Naphtali being Ahira the son of Enan,"
-      ],
+      "text": "Then the tribe of Naphtali, the chief of the people of Naphtali being Ahira the son of Enan,",
       "verse": 29
     },
     {
-      "texts": [
-        "his company as listed being 53,400."
-      ],
+      "text": "his company as listed being 53,400.",
       "verse": 30
     },
     {
-      "texts": [
-        "All those listed of the camp of Dan were 157,600. They shall set out last, standard by standard.\""
-      ],
+      "text": "All those listed of the camp of Dan were 157,600. They shall set out last, standard by standard.”",
       "verse": 31
     },
     {
-      "texts": [
-        "These are the people of Israel as listed by their fathers' houses. All those listed in the camps by their companies were 603,550."
-      ],
-      "verse": 32
+      "text": "These are the people of Israel as listed by their fathers' houses. All those listed in the camps by their companies were 603,550.",
+      "verse": 32,
+      "type": "newline"
     },
     {
-      "texts": [
-        "But the Levites were not listed among the people of Israel, as the Lord commanded Moses."
-      ],
+      "text": "But the Levites were not listed among the people of Israel, as the  commanded Moses.",
       "verse": 33
     },
     {
-      "texts": [
-        "Thus did the people of Israel. According to all that the Lord commanded Moses, so they camped by their standards, and so they set out, each one in his clan, according to his fathers' house."
-      ],
-      "verse": 34
+      "text": "Thus did the people of Israel. According to all that the  commanded Moses, so they camped by their standards, and so they set out, each one in his clan, according to his fathers' house.",
+      "verse": 34,
+      "type": "newline"
     }
   ]
 }

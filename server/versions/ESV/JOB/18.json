@@ -2,153 +2,220 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 18,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Then Bildad the Shuhite answered and said:"
-      ],
-      "verse": 1
+      "text": "Bildad Speaks: God Punishes the Wicked",
+      "type": "heading"
     },
     {
-      "texts": [
-        "\"How long will you hunt for words?",
-        "Consider, and then we will speak."
-      ],
-      "verse": 2
+      "text": "Then Bildad the Shuhite answered and said:",
+      "verse": 1,
+      "type": "newline"
     },
     {
-      "texts": [
-        "Why are we counted as cattle?",
-        "Why are we stupid in your sight?"
-      ],
-      "verse": 3
+      "text": "“How long will you hunt for words?",
+      "verse": 2,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "You who tear yourself in your anger,",
-        "shall the earth be forsaken for you,",
-        "or the rock be removed out of its place?"
-      ],
-      "verse": 4
+      "text": "Consider, and then we will speak.",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Indeed, the light of the wicked is put out,",
-        "and the flame of his fire does not shine."
-      ],
-      "verse": 5
+      "text": "Why are we counted as cattle?",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The light is dark in his tent,",
-        "and his lamp above him is put out."
-      ],
-      "verse": 6
+      "text": "Why are we stupid in your sight?",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "His strong steps are shortened,",
-        "and his own schemes throw him down."
-      ],
-      "verse": 7
+      "text": "You who tear yourself in your anger,",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For he is cast into a net by his own feet,",
-        "and he walks on its mesh."
-      ],
-      "verse": 8
+      "text": "shall the earth be forsaken for you,",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "A trap seizes him by the heel;",
-        "a snare lays hold of him."
-      ],
-      "verse": 9
+      "text": "or the rock be removed out of its place?",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "A rope is hidden for him in the ground,",
-        "a trap for him in the path."
-      ],
-      "verse": 10
+      "text": "“Indeed, the light of the wicked is put out,",
+      "verse": 5,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "Terrors frighten him on every side,",
-        "and chase him at his heels."
-      ],
-      "verse": 11
+      "text": "and the flame of his fire does not shine.",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "His strength is famished,",
-        "and calamity is ready for his stumbling."
-      ],
-      "verse": 12
+      "text": "The light is dark in his tent,",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "It consumes the parts of his skin;",
-        "the firstborn of death consumes his limbs."
-      ],
-      "verse": 13
+      "text": "and his lamp above him is put out.",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He is torn from the tent in which he trusted",
-        "and is brought to the king of terrors."
-      ],
-      "verse": 14
+      "text": "His strong steps are shortened,",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "In his tent dwells that which is none of his;",
-        "sulfur is scattered over his habitation."
-      ],
-      "verse": 15
+      "text": "and his own schemes throw him down.",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "His roots dry up beneath,",
-        "and his branches wither above."
-      ],
-      "verse": 16
+      "text": "For he is cast into a net by his own feet,",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "His memory perishes from the earth,",
-        "and he has no name in the street."
-      ],
-      "verse": 17
+      "text": "and he walks on its mesh.",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He is thrust from light into darkness,",
-        "and driven out of the world."
-      ],
-      "verse": 18
+      "text": "A trap seizes him by the heel;",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He has no posterity or progeny among his people,",
-        "and no survivor where he used to live."
-      ],
-      "verse": 19
+      "text": "a snare lays hold of him.",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "They of the west are appalled at his day,",
-        "and horror seizes them of the east."
-      ],
-      "verse": 20
+      "text": "A rope is hidden for him in the ground,",
+      "verse": 10,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Surely such are the dwellings of the unrighteous,",
-        "such is the place of him who knows not God.\""
-      ],
-      "verse": 21
+      "text": "a trap for him in the path.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Terrors frighten him on every side,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and chase him at his heels.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "His strength is famished,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and calamity is ready for his stumbling.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "It consumes the parts of his skin;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "the firstborn of death consumes his limbs.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He is torn from the tent in which he trusted",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and is brought to the king of terrors.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "In his tent dwells that which is none of his;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "sulfur is scattered over his habitation.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "His roots dry up beneath,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and his branches wither above.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "His memory perishes from the earth,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and he has no name in the street.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "He is thrust from light into darkness,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and driven out of the world.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "He has no posterity or progeny among his people,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and no survivor where he used to live.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "They of the west are appalled at his day,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and horror seizes them of the east.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely such are the dwellings of the unrighteous,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "such is the place of him who knows not God.”",
+      "verse": 21,
+      "type": "poetry"
     }
   ]
 }

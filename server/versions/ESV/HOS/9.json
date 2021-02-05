@@ -2,162 +2,365 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 9,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Rejoice not, O Israel!",
-        "Exult not like the peoples;",
-        "for you have played the whore, forsaking your God.",
-        "You have loved a prostitute's wages",
-        "on all threshing floors."
-      ],
-      "verse": 1
+      "text": "The  Will Punish Israel",
+      "type": "heading"
     },
     {
-      "texts": [
-        "Threshing floor and wine vat shall not feed them,",
-        "and the new wine shall fail them."
-      ],
-      "verse": 2
+      "text": "Rejoice not, O Israel!",
+      "verse": 1,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "They shall not remain in the land of the Lord,",
-        "but Ephraim shall return to Egypt,",
-        "and they shall eat unclean food in Assyria."
-      ],
-      "verse": 3
+      "text": "Exult not like the peoples;",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "They shall not pour drink offerings of wine to the Lord,",
-        "and their sacrifices shall not please him.",
-        "It shall be like mourners' bread to them;",
-        "all who eat of it shall be defiled;",
-        "for their bread shall be for their hunger only;",
-        "it shall not come to the house of the Lord."
-      ],
-      "verse": 4
+      "text": "for you have played the whore, forsaking your God.",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "What will you do on the day of the appointed festival,",
-        "and on the day of the feast of the Lord?"
-      ],
-      "verse": 5
+      "text": "You have loved a prostitute's wages",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For behold, they are going away from destruction;",
-        "but Egypt shall gather them;",
-        "Memphis shall bury them.",
-        "Nettles shall possess their precious things of silver;",
-        "thorns shall be in their tents."
-      ],
-      "verse": 6
+      "text": "on all threshing floors.",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The days of punishment have come;",
-        "the days of recompense have come;",
-        "Israel shall know it.",
-        "The prophet is a fool;",
-        "the man of the spirit is mad,",
-        "because of your great iniquity",
-        "and great hatred."
-      ],
-      "verse": 7
+      "text": "Threshing floor and wine vat shall not feed them,",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The prophet is the watchman of Ephraim with my God;",
-        "yet a fowler's snare is on all his ways,",
-        "and hatred in the house of his God."
-      ],
-      "verse": 8
+      "text": "and the new wine shall fail them.",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "They have deeply corrupted themselves",
-        "as in the days of Gibeah:",
-        "he will remember their iniquity;",
-        "he will punish their sins."
-      ],
-      "verse": 9
+      "text": "They shall not remain in the land of the ,",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Like grapes in the wilderness,",
-        "I found Israel.",
-        "Like the first fruit on the fig tree",
-        "in its first season,",
-        "I saw your fathers.",
-        "But they came to Baal-peor",
-        "and consecrated themselves to the thing of shame,",
-        "and became detestable like the thing they loved."
-      ],
-      "verse": 10
+      "text": "but Ephraim shall return to Egypt,",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Ephraim's glory shall fly away like a bird—",
-        "no birth, no pregnancy, no conception!"
-      ],
-      "verse": 11
+      "text": "and they shall eat unclean food in Assyria.",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Even if they bring up children,",
-        "I will bereave them till none is left.",
-        "Woe to them",
-        "when I depart from them!"
-      ],
-      "verse": 12
+      "text": "They shall not pour drink offerings of wine to the ,",
+      "verse": 4,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "Ephraim, as I have seen, was like a young palm planted in a meadow;",
-        "but Ephraim must lead his children out to slaughter."
-      ],
-      "verse": 13
+      "text": "and their sacrifices shall not please him.",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Give them, O Lord—",
-        "what will you give?",
-        "Give them a miscarrying womb",
-        "and dry breasts."
-      ],
-      "verse": 14
+      "text": "It shall be like mourners' bread to them;",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Every evil of theirs is in Gilgal;",
-        "there I began to hate them.",
-        "Because of the wickedness of their deeds",
-        "I will drive them out of my house.",
-        "I will love them no more;",
-        "all their princes are rebels."
-      ],
-      "verse": 15
+      "text": "all who eat of it shall be defiled;",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Ephraim is stricken;",
-        "their root is dried up;",
-        "they shall bear no fruit.",
-        "Even though they give birth,",
-        "I will put their beloved children to death."
-      ],
-      "verse": 16
+      "text": "for their bread shall be for their hunger only;",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "My God will reject them",
-        "because they have not listened to him;",
-        "they shall be wanderers among the nations."
-      ],
-      "verse": 17
+      "text": "it shall not come to the house of the .",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "What will you do on the day of the appointed festival,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and on the day of the feast of the ?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For behold, they are going away from destruction;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "but Egypt shall gather them;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Memphis shall bury them.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Nettles shall possess their precious things of silver;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "thorns shall be in their tents.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The days of punishment have come;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the days of recompense have come;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel shall know it.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The prophet is a fool;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the man of the spirit is mad,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "because of your great iniquity",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and great hatred.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The prophet is the watchman of Ephraim with my God;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "yet a fowler's snare is on all his ways,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and hatred in the house of his God.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "They have deeply corrupted themselves",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "as in the days of Gibeah:",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "he will remember their iniquity;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "he will punish their sins.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Like grapes in the wilderness,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I found Israel.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the first fruit on the fig tree",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "in its first season,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I saw your fathers.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But they came to Baal-peor",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and consecrated themselves to the thing of shame,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and became detestable like the thing they loved.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Ephraim's glory shall fly away like a bird—",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "no birth, no pregnancy, no conception!",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Even if they bring up children,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bereave them till none is left.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to them",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "when I depart from them!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Ephraim, as I have seen, was like a young palm planted in a meadow;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "but Ephraim must lead his children out to slaughter.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Give them, O —",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "what will you give?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Give them a miscarrying womb",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and dry breasts.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Every evil of theirs is in Gilgal;",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "there I began to hate them.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of the wickedness of their deeds",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I will drive them out of my house.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I will love them no more;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "all their princes are rebels.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Ephraim is stricken;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "their root is dried up;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall bear no fruit.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Even though they give birth,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I will put their beloved children to death.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "My God will reject them",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "because they have not listened to him;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall be wanderers among the nations.",
+      "verse": 17,
+      "type": "poetry"
     }
   ]
 }

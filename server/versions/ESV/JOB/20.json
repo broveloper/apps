@@ -2,213 +2,320 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 20,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Then Zophar the Naamathite answered and said:"
-      ],
-      "verse": 1
+      "text": "Zophar Speaks: The Wicked Will Suffer",
+      "type": "heading"
     },
     {
-      "texts": [
-        "\"Therefore my thoughts answer me,",
-        "because of my haste within me."
-      ],
-      "verse": 2
+      "text": "Then Zophar the Naamathite answered and said:",
+      "verse": 1,
+      "type": "newline"
     },
     {
-      "texts": [
-        "I hear censure that insults me,",
-        "and out of my understanding a spirit answers me."
-      ],
-      "verse": 3
+      "text": "“Therefore my thoughts answer me,",
+      "verse": 2,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "Do you not know this from of old,",
-        "since man was placed on earth,"
-      ],
-      "verse": 4
+      "text": "because of my haste within me.",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "that the exulting of the wicked is short,",
-        "and the joy of the godless but for a moment?"
-      ],
-      "verse": 5
+      "text": "I hear censure that insults me,",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Though his height mount up to the heavens,",
-        "and his head reach to the clouds,"
-      ],
-      "verse": 6
+      "text": "and out of my understanding a spirit answers me.",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "he will perish forever like his own dung;",
-        "those who have seen him will say, 'Where is he?'"
-      ],
-      "verse": 7
+      "text": "Do you not know this from of old,",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He will fly away like a dream and not be found;",
-        "he will be chased away like a vision of the night."
-      ],
-      "verse": 8
+      "text": "since man was placed on earth,",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The eye that saw him will see him no more,",
-        "nor will his place any more behold him."
-      ],
-      "verse": 9
+      "text": "that the exulting of the wicked is short,",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "His children will seek the favor of the poor,",
-        "and his hands will give back his wealth."
-      ],
-      "verse": 10
+      "text": "and the joy of the godless but for a moment?",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "His bones are full of his youthful vigor,",
-        "but it will lie down with him in the dust."
-      ],
-      "verse": 11
+      "text": "Though his height mount up to the heavens,",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Though evil is sweet in his mouth,",
-        "though he hides it under his tongue,"
-      ],
-      "verse": 12
+      "text": "and his head reach to the clouds,",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "though he is loath to let it go",
-        "and holds it in his mouth,"
-      ],
-      "verse": 13
+      "text": "he will perish forever like his own dung;",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "yet his food is turned in his stomach;",
-        "it is the venom of cobras within him."
-      ],
-      "verse": 14
+      "text": "those who have seen him will say, ‘Where is he?’",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He swallows down riches and vomits them up again;",
-        "God casts them out of his belly."
-      ],
-      "verse": 15
+      "text": "He will fly away like a dream and not be found;",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He will suck the poison of cobras;",
-        "the tongue of a viper will kill him."
-      ],
-      "verse": 16
+      "text": "he will be chased away like a vision of the night.",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He will not look upon the rivers,",
-        "the streams flowing with honey and curds."
-      ],
-      "verse": 17
+      "text": "The eye that saw him will see him no more,",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He will give back the fruit of his toil",
-        "and will not swallow it down;",
-        "from the profit of his trading",
-        "he will get no enjoyment."
-      ],
-      "verse": 18
+      "text": "nor will his place any more behold him.",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For he has crushed and abandoned the poor;",
-        "he has seized a house that he did not build."
-      ],
-      "verse": 19
+      "text": "His children will seek the favor of the poor,",
+      "verse": 10,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Because he knew no contentment in his belly,",
-        "he will not let anything in which he delights escape him."
-      ],
-      "verse": 20
+      "text": "and his hands will give back his wealth.",
+      "verse": 10,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "There was nothing left after he had eaten;",
-        "therefore his prosperity will not endure."
-      ],
-      "verse": 21
+      "text": "His bones are full of his youthful vigor,",
+      "verse": 11,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "In the fullness of his sufficiency he will be in distress;",
-        "the hand of everyone in misery will come against him."
-      ],
-      "verse": 22
+      "text": "but it will lie down with him in the dust.",
+      "verse": 11,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "To fill his belly to the full,",
-        "God will send his burning anger against him",
-        "and rain it upon him into his body."
-      ],
-      "verse": 23
+      "text": "“Though evil is sweet in his mouth,",
+      "verse": 12,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "He will flee from an iron weapon;",
-        "a bronze arrow will strike him through."
-      ],
-      "verse": 24
+      "text": "though he hides it under his tongue,",
+      "verse": 12,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "It is drawn forth and comes out of his body;",
-        "the glittering point comes out of his gallbladder;",
-        "terrors come upon him."
-      ],
-      "verse": 25
+      "text": "though he is loath to let it go",
+      "verse": 13,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Utter darkness is laid up for his treasures;",
-        "a fire not fanned will devour him;",
-        "what is left in his tent will be consumed."
-      ],
-      "verse": 26
+      "text": "and holds it in his mouth,",
+      "verse": 13,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The heavens will reveal his iniquity,",
-        "and the earth will rise up against him."
-      ],
-      "verse": 27
+      "text": "yet his food is turned in his stomach;",
+      "verse": 14,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The possessions of his house will be carried away,",
-        "dragged off in the day of God's wrath."
-      ],
-      "verse": 28
+      "text": "it is the venom of cobras within him.",
+      "verse": 14,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "This is the wicked man's portion from God,",
-        "the heritage decreed for him by God.\""
-      ],
-      "verse": 29
+      "text": "He swallows down riches and vomits them up again;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "God casts them out of his belly.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He will suck the poison of cobras;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "the tongue of a viper will kill him.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "He will not look upon the rivers,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the streams flowing with honey and curds.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "He will give back the fruit of his toil",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and will not swallow it down;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "from the profit of his trading",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "he will get no enjoyment.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "For he has crushed and abandoned the poor;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "he has seized a house that he did not build.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“Because he knew no contentment in his belly,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he will not let anything in which he delights escape him.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "There was nothing left after he had eaten;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "therefore his prosperity will not endure.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "In the fullness of his sufficiency he will be in distress;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "the hand of everyone in misery will come against him.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "To fill his belly to the full,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "God will send his burning anger against him",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and rain it upon him into his body.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "He will flee from an iron weapon;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "a bronze arrow will strike him through.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "It is drawn forth and comes out of his body;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "the glittering point comes out of his gallbladder;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "terrors come upon him.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Utter darkness is laid up for his treasures;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "a fire not fanned will devour him;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "what is left in his tent will be consumed.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "The heavens will reveal his iniquity,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and the earth will rise up against him.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "The possessions of his house will be carried away,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "dragged off in the day of God's wrath.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "This is the wicked man's portion from God,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "the heritage decreed for him by God.”",
+      "verse": 29,
+      "type": "poetry"
     }
   ]
 }

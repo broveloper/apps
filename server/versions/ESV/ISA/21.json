@@ -2,155 +2,333 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 21,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "The oracle concerning the wilderness of the sea.",
-        "As whirlwinds in the Negeb sweep on,",
-        "it comes from the wilderness,",
-        "from a terrible land."
-      ],
-      "verse": 1
+      "text": "Fallen, Fallen Is Babylon",
+      "type": "heading"
     },
     {
-      "texts": [
-        "A stern vision is told to me;",
-        "the traitor betrays,",
-        "and the destroyer destroys.",
-        "Go up, O Elam;",
-        "lay siege, O Media;",
-        "all the sighing she has caused",
-        "I bring to an end."
-      ],
-      "verse": 2
+      "text": "The oracle concerning the wilderness of the sea.",
+      "verse": 1,
+      "type": "newline"
     },
     {
-      "texts": [
-        "Therefore my loins are filled with anguish;",
-        "pangs have seized me,",
-        "like the pangs of a woman in labor;",
-        "I am bowed down so that I cannot hear;",
-        "I am dismayed so that I cannot see."
-      ],
-      "verse": 3
+      "text": "As whirlwinds in the Negeb sweep on,",
+      "verse": 1,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "My heart staggers; horror has appalled me;",
-        "the twilight I longed for",
-        "has been turned for me into trembling."
-      ],
-      "verse": 4
+      "text": "it comes from the wilderness,",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "They prepare the table,",
-        "they spread the rugs,",
-        "they eat, they drink.",
-        "Arise, O princes;",
-        "oil the shield!"
-      ],
-      "verse": 5
+      "text": "from a terrible land.",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For thus the Lord said to me:",
-        "\"Go, set a watchman;",
-        "let him announce what he sees."
-      ],
-      "verse": 6
+      "text": "A stern vision is told to me;",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "When he sees riders, horsemen in pairs,",
-        "riders on donkeys, riders on camels,",
-        "let him listen diligently,",
-        "very diligently.\""
-      ],
-      "verse": 7
+      "text": "the traitor betrays,",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Then he who saw cried out:",
-        "\"Upon a watchtower I stand, O Lord,",
-        "continually by day,",
-        "and at my post I am stationed",
-        "whole nights."
-      ],
-      "verse": 8
+      "text": "and the destroyer destroys.",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "And behold, here come riders,",
-        "horsemen in pairs!\"",
-        "And he answered,",
-        "\"Fallen, fallen is Babylon;",
-        "and all the carved images of her gods",
-        "he has shattered to the ground.\""
-      ],
-      "verse": 9
+      "text": "Go up, O Elam;",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "O my threshed and winnowed one,",
-        "what I have heard from the Lord of hosts,",
-        "the God of Israel, I announce to you."
-      ],
-      "verse": 10
+      "text": "lay siege, O Media;",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The oracle concerning Dumah.",
-        "One is calling to me from Seir,",
-        "\"Watchman, what time of the night?",
-        "Watchman, what time of the night?\""
-      ],
-      "verse": 11
+      "text": "all the sighing she has caused",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The watchman says:",
-        "\"Morning comes, and also the night.",
-        "If you will inquire, inquire;",
-        "come back again.\""
-      ],
-      "verse": 12
+      "text": "I bring to an end.",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The oracle concerning Arabia.",
-        "In the thickets in Arabia you will lodge,",
-        "O caravans of Dedanites."
-      ],
-      "verse": 13
+      "text": "Therefore my loins are filled with anguish;",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "To the thirsty bring water;",
-        "meet the fugitive with bread,",
-        "O inhabitants of the land of Tema."
-      ],
-      "verse": 14
+      "text": "pangs have seized me,",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For they have fled from the swords,",
-        "from the drawn sword,",
-        "from the bent bow,",
-        "and from the press of battle."
-      ],
-      "verse": 15
+      "text": "like the pangs of a woman in labor;",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For thus the Lord said to me, \"Within a year, according to the years of a hired worker, all the glory of Kedar will come to an end."
-      ],
-      "verse": 16
+      "text": "I am bowed down so that I cannot hear;",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "And the remainder of the archers of the mighty men of the sons of Kedar will be few, for the Lord, the God of Israel, has spoken.\""
-      ],
+      "text": "I am dismayed so that I cannot see.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart staggers; horror has appalled me;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the twilight I longed for",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "has been turned for me into trembling.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They prepare the table,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they spread the rugs,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they eat, they drink.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Arise, O princes;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "oil the shield!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For thus the Lord said to me:",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“Go, set a watchman;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "let him announce what he sees.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "When he sees riders, horsemen in pairs,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "riders on donkeys, riders on camels,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "let him listen diligently,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "very diligently.”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Then he who saw cried out:",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Upon a watchtower I stand, O Lord,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "continually by day,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and at my post I am stationed",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "whole nights.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And behold, here come riders,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "horsemen in pairs!”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And he answered,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Fallen, fallen is Babylon;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and all the carved images of her gods",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "he has shattered to the ground.”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "O my threshed and winnowed one,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "what I have heard from the  of hosts,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "the God of Israel, I announce to you.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The oracle concerning Dumah.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "One is calling to me from Seir,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Watchman, what time of the night?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Watchman, what time of the night?”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The watchman says:",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“Morning comes, and also the night.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "If you will inquire, inquire;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "come back again.”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The oracle concerning Arabia.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "In the thickets in Arabia you will lodge,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O caravans of Dedanites.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "To the thirsty bring water;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "meet the fugitive with bread,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "O inhabitants of the land of Tema.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "For they have fled from the swords,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "from the drawn sword,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "from the bent bow,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and from the press of battle.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For thus the Lord said to me, “Within a year, according to the years of a hired worker, all the glory of Kedar will come to an end.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "And the remainder of the archers of the mighty men of the sons of Kedar will be few, for the , the God of Israel, has spoken.”",
       "verse": 17
     }
   ]

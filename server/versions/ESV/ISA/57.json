@@ -2,193 +2,424 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 57,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "The righteous man perishes,",
-        "and no one lays it to heart;",
-        "devout men are taken away,",
-        "while no one understands.",
-        "For the righteous man is taken away from calamity;"
-      ],
-      "verse": 1
+      "text": "Israel's Futile Idolatry",
+      "type": "heading"
     },
     {
-      "texts": [
-        "he enters into peace;",
-        "they rest in their beds",
-        "who walk in their uprightness."
-      ],
-      "verse": 2
+      "text": "The righteous man perishes,",
+      "verse": 1,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "But you, draw near,",
-        "sons of the sorceress,",
-        "offspring of the adulterer and the loose woman."
-      ],
-      "verse": 3
+      "text": "and no one lays it to heart;",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Whom are you mocking?",
-        "Against whom do you open your mouth wide",
-        "and stick out your tongue?",
-        "Are you not children of transgression,",
-        "the offspring of deceit,"
-      ],
-      "verse": 4
+      "text": "devout men are taken away,",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "you who burn with lust among the oaks,",
-        "under every green tree,",
-        "who slaughter your children in the valleys,",
-        "under the clefts of the rocks?"
-      ],
-      "verse": 5
+      "text": "while no one understands.",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Among the smooth stones of the valley is your portion;",
-        "they, they, are your lot;",
-        "to them you have poured out a drink offering,",
-        "you have brought a grain offering.",
-        "Shall I relent for these things?"
-      ],
-      "verse": 6
+      "text": "For the righteous man is taken away from calamity;",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "On a high and lofty mountain",
-        "you have set your bed,",
-        "and there you went up to offer sacrifice."
-      ],
-      "verse": 7
+      "text": "he enters into peace;",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Behind the door and the doorpost",
-        "you have set up your memorial;",
-        "for, deserting me, you have uncovered your bed,",
-        "you have gone up to it,",
-        "you have made it wide;",
-        "and you have made a covenant for yourself with them,",
-        "you have loved their bed,",
-        "you have looked on nakedness."
-      ],
-      "verse": 8
+      "text": "they rest in their beds",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "You journeyed to the king with oil",
-        "and multiplied your perfumes;",
-        "you sent your envoys far off,",
-        "and sent down even to Sheol."
-      ],
-      "verse": 9
+      "text": "who walk in their uprightness.",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "You were wearied with the length of your way,",
-        "but you did not say, \"It is hopeless\";",
-        "you found new life for your strength,",
-        "and so you were not faint."
-      ],
-      "verse": 10
+      "text": "But you, draw near,",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Whom did you dread and fear,",
-        "so that you lied,",
-        "and did not remember me,",
-        "did not lay it to heart?",
-        "Have I not held my peace, even for a long time,",
-        "and you do not fear me?"
-      ],
-      "verse": 11
+      "text": "sons of the sorceress,",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "I will declare your righteousness and your deeds,",
-        "but they will not profit you."
-      ],
-      "verse": 12
+      "text": "offspring of the adulterer and the loose woman.",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "When you cry out, let your collection of idols deliver you!",
-        "The wind will carry them all off,",
-        "a breath will take them away.",
-        "But he who takes refuge in me shall possess the land",
-        "and shall inherit my holy mountain."
-      ],
-      "verse": 13
+      "text": "Whom are you mocking?",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "And it shall be said,",
-        "\"Build up, build up, prepare the way,",
-        "remove every obstruction from my people's way.\""
-      ],
-      "verse": 14
+      "text": "Against whom do you open your mouth wide",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For thus says the One who is high and lifted up,",
-        "who inhabits eternity, whose name is Holy:",
-        "\"I dwell in the high and holy place,",
-        "and also with him who is of a contrite and lowly spirit,",
-        "to revive the spirit of the lowly,",
-        "and to revive the heart of the contrite."
-      ],
-      "verse": 15
+      "text": "and stick out your tongue?",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For I will not contend forever,",
-        "nor will I always be angry;",
-        "for the spirit would grow faint before me,",
-        "and the breath of life that I made."
-      ],
-      "verse": 16
+      "text": "Are you not children of transgression,",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Because of the iniquity of his unjust gain I was angry,",
-        "I struck him; I hid my face and was angry,",
-        "but he went on backsliding in the way of his own heart."
-      ],
-      "verse": 17
+      "text": "the offspring of deceit,",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "I have seen his ways, but I will heal him;",
-        "I will lead him and restore comfort to him and his mourners,"
-      ],
-      "verse": 18
+      "text": "you who burn with lust among the oaks,",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "creating the fruit of the lips.",
-        "Peace, peace, to the far and to the near,\" says the Lord,",
-        "\"and I will heal him."
-      ],
-      "verse": 19
+      "text": "under every green tree,",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "But the wicked are like the tossing sea;",
-        "for it cannot be quiet,",
-        "and its waters toss up mire and dirt."
-      ],
-      "verse": 20
+      "text": "who slaughter your children in the valleys,",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "There is no peace,\" says my God, \"for the wicked.\""
-      ],
-      "verse": 21
+      "text": "under the clefts of the rocks?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Among the smooth stones of the valley is your portion;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "they, they, are your lot;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "to them you have poured out a drink offering,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "you have brought a grain offering.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall I relent for these things?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "On a high and lofty mountain",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "you have set your bed,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and there you went up to offer sacrifice.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Behind the door and the doorpost",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "you have set up your memorial;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "for, deserting me, you have uncovered your bed,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "you have gone up to it,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "you have made it wide;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and you have made a covenant for yourself with them,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "you have loved their bed,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "you have looked on nakedness.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You journeyed to the king with oil",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and multiplied your perfumes;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "you sent your envoys far off,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and sent down even to Sheol.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "You were wearied with the length of your way,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "but you did not say, “It is hopeless”;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "you found new life for your strength,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and so you were not faint.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Whom did you dread and fear,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "so that you lied,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and did not remember me,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "did not lay it to heart?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Have I not held my peace, even for a long time,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and you do not fear me?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will declare your righteousness and your deeds,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "but they will not profit you.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "When you cry out, let your collection of idols deliver you!",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The wind will carry them all off,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "a breath will take them away.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But he who takes refuge in me shall possess the land",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and shall inherit my holy mountain.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Comfort for the Contrite",
+      "type": "heading"
+    },
+    {
+      "text": "And it shall be said,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Build up, build up, prepare the way,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "remove every obstruction from my people's way.”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "For thus says the One who is high and lifted up,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "who inhabits eternity, whose name is Holy:",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“I dwell in the high and holy place,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and also with him who is of a contrite and lowly spirit,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "to revive the spirit of the lowly,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and to revive the heart of the contrite.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For I will not contend forever,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "nor will I always be angry;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "for the spirit would grow faint before me,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and the breath of life that I made.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of the iniquity of his unjust gain I was angry,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I struck him; I hid my face and was angry,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "but he went on backsliding in the way of his own heart.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I have seen his ways, but I will heal him;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "I will lead him and restore comfort to him and his mourners,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "creating the fruit of the lips.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Peace, peace, to the far and to the near,” says the ,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“and I will heal him.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "But the wicked are like the tossing sea;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "for it cannot be quiet,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and its waters toss up mire and dirt.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "There is no peace,” says my God, “for the wicked.”",
+      "verse": 21,
+      "type": "poetry"
     }
   ]
 }

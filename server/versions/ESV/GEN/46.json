@@ -2,209 +2,157 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 46,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "So Israel took his journey with all that he had and came to Beersheba, and offered sacrifices to the God of his father Isaac."
-      ],
-      "verse": 1
+      "text": "Joseph Brings His Family to Egypt",
+      "type": "heading"
     },
     {
-      "texts": [
-        "And God spoke to Israel in visions of the night and said, \"Jacob, Jacob.\" And he said, \"Here I am.\""
-      ],
+      "text": "So Israel took his journey with all that he had and came to Beersheba, and offered sacrifices to the God of his father Isaac.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "And God spoke to Israel in visions of the night and said, “Jacob, Jacob.” And he said, “Here I am.”",
       "verse": 2
     },
     {
-      "texts": [
-        "Then he said, \"I am God, the God of your father. Do not be afraid to go down to Egypt, for there I will make you into a great nation."
-      ],
+      "text": "Then he said, “I am God, the God of your father. Do not be afraid to go down to Egypt, for there I will make you into a great nation.",
       "verse": 3
     },
     {
-      "texts": [
-        "I myself will go down with you to Egypt, and I will also bring you up again, and Joseph's hand shall close your eyes.\""
-      ],
+      "text": "I myself will go down with you to Egypt, and I will also bring you up again, and Joseph's hand shall close your eyes.”",
       "verse": 4
     },
     {
-      "texts": [
-        "Then Jacob set out from Beersheba. The sons of Israel carried Jacob their father, their little ones, and their wives, in the wagons that Pharaoh had sent to carry him."
-      ],
-      "verse": 5
+      "text": "Then Jacob set out from Beersheba. The sons of Israel carried Jacob their father, their little ones, and their wives, in the wagons that Pharaoh had sent to carry him.",
+      "verse": 5,
+      "type": "newline"
     },
     {
-      "texts": [
-        "They also took their livestock and their goods, which they had gained in the land of Canaan, and came into Egypt, Jacob and all his offspring with him,"
-      ],
+      "text": "They also took their livestock and their goods, which they had gained in the land of Canaan, and came into Egypt, Jacob and all his offspring with him,",
       "verse": 6
     },
     {
-      "texts": [
-        "his sons, and his sons' sons with him, his daughters, and his sons' daughters. All his offspring he brought with him into Egypt."
-      ],
+      "text": "his sons, and his sons' sons with him, his daughters, and his sons' daughters. All his offspring he brought with him into Egypt.",
       "verse": 7
     },
     {
-      "texts": [
-        "Now these are the names of the descendants of Israel, who came into Egypt, Jacob and his sons. Reuben, Jacob's firstborn,"
-      ],
-      "verse": 8
+      "text": "Now these are the names of the descendants of Israel, who came into Egypt, Jacob and his sons. Reuben, Jacob's firstborn,",
+      "verse": 8,
+      "type": "newline"
     },
     {
-      "texts": [
-        "and the sons of Reuben: Hanoch, Pallu, Hezron, and Carmi."
-      ],
+      "text": "and the sons of Reuben: Hanoch, Pallu, Hezron, and Carmi.",
       "verse": 9
     },
     {
-      "texts": [
-        "The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman."
-      ],
+      "text": "The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman.",
       "verse": 10
     },
     {
-      "texts": [
-        "The sons of Levi: Gershon, Kohath, and Merari."
-      ],
+      "text": "The sons of Levi: Gershon, Kohath, and Merari.",
       "verse": 11
     },
     {
-      "texts": [
-        "The sons of Judah: Er, Onan, Shelah, Perez, and Zerah (but Er and Onan died in the land of Canaan); and the sons of Perez were Hezron and Hamul."
-      ],
+      "text": "The sons of Judah: Er, Onan, Shelah, Perez, and Zerah (but Er and Onan died in the land of Canaan); and the sons of Perez were Hezron and Hamul.",
       "verse": 12
     },
     {
-      "texts": [
-        "The sons of Issachar: Tola, Puvah, Yob, and Shimron."
-      ],
+      "text": "The sons of Issachar: Tola, Puvah, Yob, and Shimron.",
       "verse": 13
     },
     {
-      "texts": [
-        "The sons of Zebulun: Sered, Elon, and Jahleel."
-      ],
+      "text": "The sons of Zebulun: Sered, Elon, and Jahleel.",
       "verse": 14
     },
     {
-      "texts": [
-        "These are the sons of Leah, whom she bore to Jacob in Paddan-aram, together with his daughter Dinah; altogether his sons and his daughters numbered thirty-three."
-      ],
+      "text": "These are the sons of Leah, whom she bore to Jacob in Paddan-aram, together with his daughter Dinah; altogether his sons and his daughters numbered thirty-three.",
       "verse": 15
     },
     {
-      "texts": [
-        "The sons of Gad: Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli."
-      ],
-      "verse": 16
+      "text": "The sons of Gad: Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli.",
+      "verse": 16,
+      "type": "newline"
     },
     {
-      "texts": [
-        "The sons of Asher: Imnah, Ishvah, Ishvi, Beriah, with Serah their sister. And the sons of Beriah: Heber and Malchiel."
-      ],
+      "text": "The sons of Asher: Imnah, Ishvah, Ishvi, Beriah, with Serah their sister. And the sons of Beriah: Heber and Malchiel.",
       "verse": 17
     },
     {
-      "texts": [
-        "These are the sons of Zilpah, whom Laban gave to Leah his daughter; and these she bore to Jacob—sixteen persons."
-      ],
+      "text": "These are the sons of Zilpah, whom Laban gave to Leah his daughter; and these she bore to Jacob—sixteen persons.",
       "verse": 18
     },
     {
-      "texts": [
-        "The sons of Rachel, Jacob's wife: Joseph and Benjamin."
-      ],
-      "verse": 19
+      "text": "The sons of Rachel, Jacob's wife: Joseph and Benjamin.",
+      "verse": 19,
+      "type": "newline"
     },
     {
-      "texts": [
-        "And to Joseph in the land of Egypt were born Manasseh and Ephraim, whom Asenath, the daughter of Potiphera the priest of On, bore to him."
-      ],
+      "text": "And to Joseph in the land of Egypt were born Manasseh and Ephraim, whom Asenath, the daughter of Potiphera the priest of On, bore to him.",
       "verse": 20
     },
     {
-      "texts": [
-        "And the sons of Benjamin: Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard."
-      ],
+      "text": "And the sons of Benjamin: Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard.",
       "verse": 21
     },
     {
-      "texts": [
-        "These are the sons of Rachel, who were born to Jacob—fourteen persons in all."
-      ],
+      "text": "These are the sons of Rachel, who were born to Jacob—fourteen persons in all.",
       "verse": 22
     },
     {
-      "texts": [
-        "The son of Dan: Hushim."
-      ],
-      "verse": 23
+      "text": "The son of Dan: Hushim.",
+      "verse": 23,
+      "type": "newline"
     },
     {
-      "texts": [
-        "The sons of Naphtali: Jahzeel, Guni, Jezer, and Shillem."
-      ],
+      "text": "The sons of Naphtali: Jahzeel, Guni, Jezer, and Shillem.",
       "verse": 24
     },
     {
-      "texts": [
-        "These are the sons of Bilhah, whom Laban gave to Rachel his daughter, and these she bore to Jacob—seven persons in all."
-      ],
+      "text": "These are the sons of Bilhah, whom Laban gave to Rachel his daughter, and these she bore to Jacob—seven persons in all.",
       "verse": 25
     },
     {
-      "texts": [
-        "All the persons belonging to Jacob who came into Egypt, who were his own descendants, not including Jacob's sons' wives, were sixty-six persons in all."
-      ],
-      "verse": 26
+      "text": "All the persons belonging to Jacob who came into Egypt, who were his own descendants, not including Jacob's sons' wives, were sixty-six persons in all.",
+      "verse": 26,
+      "type": "newline"
     },
     {
-      "texts": [
-        "And the sons of Joseph, who were born to him in Egypt, were two. All the persons of the house of Jacob who came into Egypt were seventy."
-      ],
+      "text": "And the sons of Joseph, who were born to him in Egypt, were two. All the persons of the house of Jacob who came into Egypt were seventy.",
       "verse": 27
     },
     {
-      "texts": [
-        "He had sent Judah ahead of him to Joseph to show the way before him in Goshen, and they came into the land of Goshen."
-      ],
-      "verse": 28
+      "text": "Jacob and Joseph Reunited",
+      "type": "heading"
     },
     {
-      "texts": [
-        "Then Joseph prepared his chariot and went up to meet Israel his father in Goshen. He presented himself to him and fell on his neck and wept on his neck a good while."
-      ],
+      "text": "He had sent Judah ahead of him to Joseph to show the way before him in Goshen, and they came into the land of Goshen.",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "Then Joseph prepared his chariot and went up to meet Israel his father in Goshen. He presented himself to him and fell on his neck and wept on his neck a good while.",
       "verse": 29
     },
     {
-      "texts": [
-        "Israel said to Joseph, \"Now let me die, since I have seen your face and know that you are still alive.\""
-      ],
+      "text": "Israel said to Joseph, “Now let me die, since I have seen your face and know that you are still alive.”",
       "verse": 30
     },
     {
-      "texts": [
-        "Joseph said to his brothers and to his father's household, \"I will go up and tell Pharaoh and will say to him, 'My brothers and my father's household, who were in the land of Canaan, have come to me."
-      ],
+      "text": "Joseph said to his brothers and to his father's household, “I will go up and tell Pharaoh and will say to him, ‘My brothers and my father's household, who were in the land of Canaan, have come to me.",
       "verse": 31
     },
     {
-      "texts": [
-        "And the men are shepherds, for they have been keepers of livestock, and they have brought their flocks and their herds and all that they have.'"
-      ],
+      "text": "And the men are shepherds, for they have been keepers of livestock, and they have brought their flocks and their herds and all that they have.’",
       "verse": 32
     },
     {
-      "texts": [
-        "When Pharaoh calls you and says, 'What is your occupation?'"
-      ],
+      "text": "When Pharaoh calls you and says, ‘What is your occupation?’",
       "verse": 33
     },
     {
-      "texts": [
-        "you shall say, 'Your servants have been keepers of livestock from our youth even until now, both we and our fathers,' in order that you may dwell in the land of Goshen, for every shepherd is an abomination to the Egyptians.\""
-      ],
+      "text": "you shall say, ‘Your servants have been keepers of livestock from our youth even until now, both we and our fathers,’ in order that you may dwell in the land of Goshen, for every shepherd is an abomination to the Egyptians.”",
       "verse": 34
     }
   ]

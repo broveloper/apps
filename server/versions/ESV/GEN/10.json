@@ -2,198 +2,144 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 10,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "These are the generations of the sons of Noah, Shem, Ham, and Japheth. Sons were born to them after the flood."
-      ],
-      "verse": 1
+      "text": "Nations Descended from Noah",
+      "type": "heading"
     },
     {
-      "texts": [
-        "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras."
-      ],
-      "verse": 2
+      "text": "These are the generations of the sons of Noah, Shem, Ham, and Japheth. Sons were born to them after the flood.",
+      "verse": 1,
+      "type": "newline"
     },
     {
-      "texts": [
-        "The sons of Gomer: Ashkenaz, Riphath, and Togarmah."
-      ],
+      "text": "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "The sons of Gomer: Ashkenaz, Riphath, and Togarmah.",
       "verse": 3
     },
     {
-      "texts": [
-        "The sons of Javan: Elishah, Tarshish, Kittim, and Dodanim."
-      ],
+      "text": "The sons of Javan: Elishah, Tarshish, Kittim, and Dodanim.",
       "verse": 4
     },
     {
-      "texts": [
-        "From these the coastland peoples spread in their lands, each with his own language, by their clans, in their nations."
-      ],
+      "text": "From these the coastland peoples spread in their lands, each with his own language, by their clans, in their nations.",
       "verse": 5
     },
     {
-      "texts": [
-        "The sons of Ham: Cush, Egypt, Put, and Canaan."
-      ],
-      "verse": 6
+      "text": "The sons of Ham: Cush, Egypt, Put, and Canaan.",
+      "verse": 6,
+      "type": "newline"
     },
     {
-      "texts": [
-        "The sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan."
-      ],
+      "text": "The sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan.",
       "verse": 7
     },
     {
-      "texts": [
-        "Cush fathered Nimrod; he was the first on earth to be a mighty man."
-      ],
+      "text": "Cush fathered Nimrod; he was the first on earth to be a mighty man.",
       "verse": 8
     },
     {
-      "texts": [
-        "He was a mighty hunter before the Lord. Therefore it is said, \"Like Nimrod a mighty hunter before the Lord.\""
-      ],
+      "text": "He was a mighty hunter before the . Therefore it is said, “Like Nimrod a mighty hunter before the .”",
       "verse": 9
     },
     {
-      "texts": [
-        "The beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of Shinar."
-      ],
+      "text": "The beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of Shinar.",
       "verse": 10
     },
     {
-      "texts": [
-        "From that land he went into Assyria and built Nineveh, Rehoboth-Ir, Calah, and"
-      ],
+      "text": "From that land he went into Assyria and built Nineveh, Rehoboth-Ir, Calah, and",
       "verse": 11
     },
     {
-      "texts": [
-        "Resen between Nineveh and Calah; that is the great city."
-      ],
+      "text": "Resen between Nineveh and Calah; that is the great city.",
       "verse": 12
     },
     {
-      "texts": [
-        "Egypt fathered Ludim, Anamim, Lehabim, Naphtuhim,"
-      ],
+      "text": "Egypt fathered Ludim, Anamim, Lehabim, Naphtuhim,",
       "verse": 13
     },
     {
-      "texts": [
-        "Pathrusim, Casluhim (from whom the Philistines came), and Caphtorim."
-      ],
+      "text": "Pathrusim, Casluhim (from whom the Philistines came), and Caphtorim.",
       "verse": 14
     },
     {
-      "texts": [
-        "Canaan fathered Sidon his firstborn and Heth,"
-      ],
-      "verse": 15
+      "text": "Canaan fathered Sidon his firstborn and Heth,",
+      "verse": 15,
+      "type": "newline"
     },
     {
-      "texts": [
-        "and the Jebusites, the Amorites, the Girgashites,"
-      ],
+      "text": "and the Jebusites, the Amorites, the Girgashites,",
       "verse": 16
     },
     {
-      "texts": [
-        "the Hivites, the Arkites, the Sinites,"
-      ],
+      "text": "the Hivites, the Arkites, the Sinites,",
       "verse": 17
     },
     {
-      "texts": [
-        "the Arvadites, the Zemarites, and the Hamathites. Afterward the clans of the Canaanites dispersed."
-      ],
+      "text": "the Arvadites, the Zemarites, and the Hamathites. Afterward the clans of the Canaanites dispersed.",
       "verse": 18
     },
     {
-      "texts": [
-        "And the territory of the Canaanites extended from Sidon in the direction of Gerar as far as Gaza, and in the direction of Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha."
-      ],
+      "text": "And the territory of the Canaanites extended from Sidon in the direction of Gerar as far as Gaza, and in the direction of Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha.",
       "verse": 19
     },
     {
-      "texts": [
-        "These are the sons of Ham, by their clans, their languages, their lands, and their nations."
-      ],
+      "text": "These are the sons of Ham, by their clans, their languages, their lands, and their nations.",
       "verse": 20
     },
     {
-      "texts": [
-        "To Shem also, the father of all the children of Eber, the elder brother of Japheth, children were born."
-      ],
-      "verse": 21
+      "text": "To Shem also, the father of all the children of Eber, the elder brother of Japheth, children were born.",
+      "verse": 21,
+      "type": "newline"
     },
     {
-      "texts": [
-        "The sons of Shem: Elam, Asshur, Arpachshad, Lud, and Aram."
-      ],
+      "text": "The sons of Shem: Elam, Asshur, Arpachshad, Lud, and Aram.",
       "verse": 22
     },
     {
-      "texts": [
-        "The sons of Aram: Uz, Hul, Gether, and Mash."
-      ],
+      "text": "The sons of Aram: Uz, Hul, Gether, and Mash.",
       "verse": 23
     },
     {
-      "texts": [
-        "Arpachshad fathered Shelah; and Shelah fathered Eber."
-      ],
+      "text": "Arpachshad fathered Shelah; and Shelah fathered Eber.",
       "verse": 24
     },
     {
-      "texts": [
-        "To Eber were born two sons: the name of the one was Peleg, for in his days the earth was divided, and his brother's name was Joktan."
-      ],
+      "text": "To Eber were born two sons: the name of the one was Peleg, for in his days the earth was divided, and his brother's name was Joktan.",
       "verse": 25
     },
     {
-      "texts": [
-        "Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah,"
-      ],
+      "text": "Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah,",
       "verse": 26
     },
     {
-      "texts": [
-        "Hadoram, Uzal, Diklah,"
-      ],
+      "text": "Hadoram, Uzal, Diklah,",
       "verse": 27
     },
     {
-      "texts": [
-        "Obal, Abimael, Sheba,"
-      ],
+      "text": "Obal, Abimael, Sheba,",
       "verse": 28
     },
     {
-      "texts": [
-        "Ophir, Havilah, and Jobab; all these were the sons of Joktan."
-      ],
+      "text": "Ophir, Havilah, and Jobab; all these were the sons of Joktan.",
       "verse": 29
     },
     {
-      "texts": [
-        "The territory in which they lived extended from Mesha in the direction of Sephar to the hill country of the east."
-      ],
+      "text": "The territory in which they lived extended from Mesha in the direction of Sephar to the hill country of the east.",
       "verse": 30
     },
     {
-      "texts": [
-        "These are the sons of Shem, by their clans, their languages, their lands, and their nations."
-      ],
+      "text": "These are the sons of Shem, by their clans, their languages, their lands, and their nations.",
       "verse": 31
     },
     {
-      "texts": [
-        "These are the clans of the sons of Noah, according to their genealogies, in their nations, and from these the nations spread abroad on the earth after the flood."
-      ],
-      "verse": 32
+      "text": "These are the clans of the sons of Noah, according to their genealogies, in their nations, and from these the nations spread abroad on the earth after the flood.",
+      "verse": 32,
+      "type": "newline"
     }
   ]
 }

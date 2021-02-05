@@ -2,166 +2,260 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 10,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "\"I loathe my life;",
-        "I will give free utterance to my complaint;",
-        "I will speak in the bitterness of my soul."
-      ],
-      "verse": 1
+      "text": "Job Continues: A Plea to God",
+      "type": "heading"
     },
     {
-      "texts": [
-        "I will say to God, Do not condemn me;",
-        "let me know why you contend against me."
-      ],
-      "verse": 2
+      "text": "“I loathe my life;",
+      "verse": 1,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "Does it seem good to you to oppress,",
-        "to despise the work of your hands",
-        "and favor the designs of the wicked?"
-      ],
-      "verse": 3
+      "text": "I will give free utterance to my complaint;",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Have you eyes of flesh?",
-        "Do you see as man sees?"
-      ],
-      "verse": 4
+      "text": "I will speak in the bitterness of my soul.",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Are your days as the days of man,",
-        "or your years as a man's years,"
-      ],
-      "verse": 5
+      "text": "I will say to God, Do not condemn me;",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "that you seek out my iniquity",
-        "and search for my sin,"
-      ],
-      "verse": 6
+      "text": "let me know why you contend against me.",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "although you know that I am not guilty,",
-        "and there is none to deliver out of your hand?"
-      ],
-      "verse": 7
+      "text": "Does it seem good to you to oppress,",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Your hands fashioned and made me,",
-        "and now you have destroyed me altogether."
-      ],
-      "verse": 8
+      "text": "to despise the work of your hands",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Remember that you have made me like clay;",
-        "and will you return me to the dust?"
-      ],
-      "verse": 9
+      "text": "and favor the designs of the wicked?",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Did you not pour me out like milk",
-        "and curdle me like cheese?"
-      ],
-      "verse": 10
+      "text": "Have you eyes of flesh?",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "You clothed me with skin and flesh,",
-        "and knit me together with bones and sinews."
-      ],
-      "verse": 11
+      "text": "Do you see as man sees?",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "You have granted me life and steadfast love,",
-        "and your care has preserved my spirit."
-      ],
-      "verse": 12
+      "text": "Are your days as the days of man,",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Yet these things you hid in your heart;",
-        "I know that this was your purpose."
-      ],
-      "verse": 13
+      "text": "or your years as a man's years,",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "If I sin, you watch me",
-        "and do not acquit me of my iniquity."
-      ],
-      "verse": 14
+      "text": "that you seek out my iniquity",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "If I am guilty, woe to me!",
-        "If I am in the right, I cannot lift up my head,",
-        "for I am filled with disgrace",
-        "and look on my affliction."
-      ],
-      "verse": 15
+      "text": "and search for my sin,",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "And were my head lifted up, you would hunt me like a lion",
-        "and again work wonders against me."
-      ],
-      "verse": 16
+      "text": "although you know that I am not guilty,",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "You renew your witnesses against me",
-        "and increase your vexation toward me;",
-        "you bring fresh troops against me."
-      ],
-      "verse": 17
+      "text": "and there is none to deliver out of your hand?",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Why did you bring me out from the womb?",
-        "Would that I had died before any eye had seen me"
-      ],
-      "verse": 18
+      "text": "Your hands fashioned and made me,",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "and were as though I had not been,",
-        "carried from the womb to the grave."
-      ],
-      "verse": 19
+      "text": "and now you have destroyed me altogether.",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Are not my days few?",
-        "Then cease, and leave me alone, that I may find a little cheer"
-      ],
-      "verse": 20
+      "text": "Remember that you have made me like clay;",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "before I go—and I shall not return—",
-        "to the land of darkness and deep shadow,"
-      ],
-      "verse": 21
+      "text": "and will you return me to the dust?",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "the land of gloom like thick darkness,",
-        "like deep shadow without any order,",
-        "where light is as thick darkness.\""
-      ],
-      "verse": 22
+      "text": "Did you not pour me out like milk",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and curdle me like cheese?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "You clothed me with skin and flesh,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and knit me together with bones and sinews.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "You have granted me life and steadfast love,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and your care has preserved my spirit.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet these things you hid in your heart;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I know that this was your purpose.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "If I sin, you watch me",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and do not acquit me of my iniquity.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "If I am guilty, woe to me!",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "If I am in the right, I cannot lift up my head,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "for I am filled with disgrace",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and look on my affliction.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And were my head lifted up, you would hunt me like a lion",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and again work wonders against me.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "You renew your witnesses against me",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and increase your vexation toward me;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "you bring fresh troops against me.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“Why did you bring me out from the womb?",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Would that I had died before any eye had seen me",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and were as though I had not been,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "carried from the womb to the grave.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Are not my days few?",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Then cease, and leave me alone, that I may find a little cheer",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "before I go—and I shall not return—",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "to the land of darkness and deep shadow,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "the land of gloom like thick darkness,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "like deep shadow without any order,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "where light is as thick darkness.”",
+      "verse": 22,
+      "type": "poetry"
     }
   ]
 }

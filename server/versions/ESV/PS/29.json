@@ -1,0 +1,131 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 29,
+  "content": [
+    {
+      "text": "Ascribe to the  Glory",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Ascribe to the , O heavenly beings,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "ascribe to the  glory and strength.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Ascribe to the  the glory due his name;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "worship the  in the splendor of holiness.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the  is over the waters;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the God of glory thunders,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the , over many waters.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the  is powerful;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the voice of the  is full of majesty.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the  breaks the cedars;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the  breaks the cedars of Lebanon.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He makes Lebanon to skip like a calf,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and Sirion like a young wild ox.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the  flashes forth flames of fire.",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The voice of the  shakes the wilderness;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the  shakes the wilderness of Kadesh.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the  makes the deer give birth",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and strips the forests bare,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and in his temple all cry, “Glory!”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The  sits enthroned over the flood;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the  sits enthroned as king forever.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "May the  give strength to his people!",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "May the  bless his people with peace!",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

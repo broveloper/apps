@@ -2,251 +2,360 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 9,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Then Job answered and said:"
-      ],
-      "verse": 1
+      "text": "Job Replies: There Is No Arbiter",
+      "type": "heading"
     },
     {
-      "texts": [
-        "\"Truly I know that it is so:",
-        "But how can a man be in the right before God?"
-      ],
-      "verse": 2
+      "text": "Then Job answered and said:",
+      "verse": 1,
+      "type": "newline"
     },
     {
-      "texts": [
-        "If one wished to contend with him,",
-        "one could not answer him once in a thousand times."
-      ],
-      "verse": 3
+      "text": "“Truly I know that it is so:",
+      "verse": 2,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "He is wise in heart and mighty in strength",
-        "—who has hardened himself against him, and succeeded?—"
-      ],
-      "verse": 4
+      "text": "But how can a man be in the right before God?",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "he who removes mountains, and they know it not,",
-        "when he overturns them in his anger,"
-      ],
-      "verse": 5
+      "text": "If one wished to contend with him,",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "who shakes the earth out of its place,",
-        "and its pillars tremble;"
-      ],
-      "verse": 6
+      "text": "one could not answer him once in a thousand times.",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "who commands the sun, and it does not rise;",
-        "who seals up the stars;"
-      ],
-      "verse": 7
+      "text": "He is wise in heart and mighty in strength",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "who alone stretched out the heavens",
-        "and trampled the waves of the sea;"
-      ],
-      "verse": 8
+      "text": "—who has hardened himself against him, and succeeded?—",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "who made the Bear and Orion,",
-        "the Pleiades and the chambers of the south;"
-      ],
-      "verse": 9
+      "text": "he who removes mountains, and they know it not,",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "who does great things beyond searching out,",
-        "and marvelous things beyond number."
-      ],
-      "verse": 10
+      "text": "when he overturns them in his anger,",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Behold, he passes by me, and I see him not;",
-        "he moves on, but I do not perceive him."
-      ],
-      "verse": 11
+      "text": "who shakes the earth out of its place,",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Behold, he snatches away; who can turn him back?",
-        "Who will say to him, 'What are you doing?'"
-      ],
-      "verse": 12
+      "text": "and its pillars tremble;",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"God will not turn back his anger;",
-        "beneath him bowed the helpers of Rahab."
-      ],
-      "verse": 13
+      "text": "who commands the sun, and it does not rise;",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "How then can I answer him,",
-        "choosing my words with him?"
-      ],
-      "verse": 14
+      "text": "who seals up the stars;",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Though I am in the right, I cannot answer him;",
-        "I must appeal for mercy to my accuser."
-      ],
-      "verse": 15
+      "text": "who alone stretched out the heavens",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "If I summoned him and he answered me,",
-        "I would not believe that he was listening to my voice."
-      ],
-      "verse": 16
+      "text": "and trampled the waves of the sea;",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For he crushes me with a tempest",
-        "and multiplies my wounds without cause;"
-      ],
-      "verse": 17
+      "text": "who made the Bear and Orion,",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "he will not let me get my breath,",
-        "but fills me with bitterness."
-      ],
-      "verse": 18
+      "text": "the Pleiades and the chambers of the south;",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "If it is a contest of strength, behold, he is mighty!",
-        "If it is a matter of justice, who can summon him?"
-      ],
-      "verse": 19
+      "text": "who does great things beyond searching out,",
+      "verse": 10,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Though I am in the right, my own mouth would condemn me;",
-        "though I am blameless, he would prove me perverse."
-      ],
-      "verse": 20
+      "text": "and marvelous things beyond number.",
+      "verse": 10,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "I am blameless; I regard not myself;",
-        "I loathe my life."
-      ],
-      "verse": 21
+      "text": "Behold, he passes by me, and I see him not;",
+      "verse": 11,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "It is all one; therefore I say,",
-        "'He destroys both the blameless and the wicked.'"
-      ],
-      "verse": 22
+      "text": "he moves on, but I do not perceive him.",
+      "verse": 11,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "When disaster brings sudden death,",
-        "he mocks at the calamity of the innocent."
-      ],
-      "verse": 23
+      "text": "Behold, he snatches away; who can turn him back?",
+      "verse": 12,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The earth is given into the hand of the wicked;",
-        "he covers the faces of its judges—",
-        "if it is not he, who then is it?"
-      ],
-      "verse": 24
+      "text": "Who will say to him, ‘What are you doing?’",
+      "verse": 12,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"My days are swifter than a runner;",
-        "they flee away; they see no good."
-      ],
-      "verse": 25
+      "text": "“God will not turn back his anger;",
+      "verse": 13,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "They go by like skiffs of reed,",
-        "like an eagle swooping on the prey."
-      ],
-      "verse": 26
+      "text": "beneath him bowed the helpers of Rahab.",
+      "verse": 13,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "If I say, 'I will forget my complaint,",
-        "I will put off my sad face, and be of good cheer,'"
-      ],
-      "verse": 27
+      "text": "How then can I answer him,",
+      "verse": 14,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "I become afraid of all my suffering,",
-        "for I know you will not hold me innocent."
-      ],
-      "verse": 28
+      "text": "choosing my words with him?",
+      "verse": 14,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "I shall be condemned;",
-        "why then do I labor in vain?"
-      ],
-      "verse": 29
+      "text": "Though I am in the right, I cannot answer him;",
+      "verse": 15,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "If I wash myself with snow",
-        "and cleanse my hands with lye,"
-      ],
-      "verse": 30
+      "text": "I must appeal for mercy to my accuser.",
+      "verse": 15,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "yet you will plunge me into a pit,",
-        "and my own clothes will abhor me."
-      ],
-      "verse": 31
+      "text": "If I summoned him and he answered me,",
+      "verse": 16,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For he is not a man, as I am, that I might answer him,",
-        "that we should come to trial together."
-      ],
-      "verse": 32
+      "text": "I would not believe that he was listening to my voice.",
+      "verse": 16,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "There is no arbiter between us,",
-        "who might lay his hand on us both."
-      ],
-      "verse": 33
+      "text": "For he crushes me with a tempest",
+      "verse": 17,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Let him take his rod away from me,",
-        "and let not dread of him terrify me."
-      ],
-      "verse": 34
+      "text": "and multiplies my wounds without cause;",
+      "verse": 17,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Then I would speak without fear of him,",
-        "for I am not so in myself."
-      ],
-      "verse": 35
+      "text": "he will not let me get my breath,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "but fills me with bitterness.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "If it is a contest of strength, behold, he is mighty!",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "If it is a matter of justice, who can summon him?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Though I am in the right, my own mouth would condemn me;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "though I am blameless, he would prove me perverse.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "I am blameless; I regard not myself;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "I loathe my life.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "It is all one; therefore I say,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "‘He destroys both the blameless and the wicked.’",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "When disaster brings sudden death,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "he mocks at the calamity of the innocent.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "The earth is given into the hand of the wicked;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "he covers the faces of its judges—",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "if it is not he, who then is it?",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "“My days are swifter than a runner;",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they flee away; they see no good.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "They go by like skiffs of reed,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "like an eagle swooping on the prey.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "If I say, ‘I will forget my complaint,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "I will put off my sad face, and be of good cheer,’",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "I become afraid of all my suffering,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "for I know you will not hold me innocent.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "I shall be condemned;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "why then do I labor in vain?",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "If I wash myself with snow",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "and cleanse my hands with lye,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "yet you will plunge me into a pit,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "and my own clothes will abhor me.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "For he is not a man, as I am, that I might answer him,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "that we should come to trial together.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "There is no arbiter between us,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "who might lay his hand on us both.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Let him take his rod away from me,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "and let not dread of him terrify me.",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I would speak without fear of him,",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "for I am not so in myself.",
+      "verse": 35,
+      "type": "poetry"
     }
   ]
 }

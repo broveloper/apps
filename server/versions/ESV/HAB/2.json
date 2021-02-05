@@ -2,177 +2,369 @@
   "book_id": "HAB",
   "book_name": "Habakkuk",
   "chapter": 2,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "I will take my stand at my watchpost",
-        "and station myself on the tower,",
-        "and look out to see what he will say to me,",
-        "and what I will answer concerning my complaint."
-      ],
-      "verse": 1
+      "text": "I will take my stand at my watchpost",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "And the Lord answered me:",
-        "\"Write the vision;",
-        "make it plain on tablets,",
-        "so he may run who reads it."
-      ],
-      "verse": 2
+      "text": "and station myself on the tower,",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For still the vision awaits its appointed time;",
-        "it hastens to the end—it will not lie.",
-        "If it seems slow, wait for it;",
-        "it will surely come; it will not delay."
-      ],
-      "verse": 3
+      "text": "and look out to see what he will say to me,",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Behold, his soul is puffed up; it is not upright within him,",
-        "but the righteous shall live by his faith."
-      ],
-      "verse": 4
+      "text": "and what I will answer concerning my complaint.",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Moreover, wine is a traitor,",
-        "an arrogant man who is never at rest.",
-        "His greed is as wide as Sheol;",
-        "like death he has never enough.",
-        "He gathers for himself all nations",
-        "and collects as his own all peoples.\""
-      ],
-      "verse": 5
+      "text": "The Righteous Shall Live by His Faith",
+      "type": "heading"
     },
     {
-      "texts": [
-        "Shall not all these take up their taunt against him, with scoffing and riddles for him, and say,",
-        "\"Woe to him who heaps up what is not his own—",
-        "for how long?—",
-        "and loads himself with pledges!\""
-      ],
-      "verse": 6
+      "text": "And the  answered me:",
+      "verse": 2,
+      "type": "newline"
     },
     {
-      "texts": [
-        "Will not your debtors suddenly arise,",
-        "and those awake who will make you tremble?",
-        "Then you will be spoil for them."
-      ],
-      "verse": 7
+      "text": "“Write the vision;",
+      "verse": 2,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "Because you have plundered many nations,",
-        "all the remnant of the peoples shall plunder you,",
-        "for the blood of man and violence to the earth,",
-        "to cities and all who dwell in them."
-      ],
-      "verse": 8
+      "text": "make it plain on tablets,",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Woe to him who gets evil gain for his house,",
-        "to set his nest on high,",
-        "to be safe from the reach of harm!"
-      ],
-      "verse": 9
+      "text": "so he may run who reads it.",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "You have devised shame for your house",
-        "by cutting off many peoples;",
-        "you have forfeited your life."
-      ],
-      "verse": 10
+      "text": "For still the vision awaits its appointed time;",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For the stone will cry out from the wall,",
-        "and the beam from the woodwork respond."
-      ],
-      "verse": 11
+      "text": "it hastens to the end—it will not lie.",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Woe to him who builds a town with blood",
-        "and founds a city on iniquity!"
-      ],
-      "verse": 12
+      "text": "If it seems slow, wait for it;",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Behold, is it not from the Lord of hosts",
-        "that peoples labor merely for fire,",
-        "and nations weary themselves for nothing?"
-      ],
-      "verse": 13
+      "text": "it will surely come; it will not delay.",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For the earth will be filled",
-        "with the knowledge of the glory of the Lord",
-        "as the waters cover the sea."
-      ],
-      "verse": 14
+      "text": "“Behold, his soul is puffed up; it is not upright within him,",
+      "verse": 4,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "\"Woe to him who makes his neighbors drink—",
-        "you pour out your wrath and make them drunk,",
-        "in order to gaze at their nakedness!"
-      ],
-      "verse": 15
+      "text": "but the righteous shall live by his faith.",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "You will have your fill of shame instead of glory.",
-        "Drink, yourself, and show your uncircumcision!",
-        "The cup in the Lord's right hand",
-        "will come around to you,",
-        "and utter shame will come upon your glory!"
-      ],
-      "verse": 16
+      "text": "“Moreover, wine is a traitor,",
+      "verse": 5,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "The violence done to Lebanon will overwhelm you,",
-        "as will the destruction of the beasts that terrified them,",
-        "for the blood of man and violence to the earth,",
-        "to cities and all who dwell in them."
-      ],
-      "verse": 17
+      "text": "an arrogant man who is never at rest.",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"What profit is an idol",
-        "when its maker has shaped it,",
-        "a metal image, a teacher of lies?",
-        "For its maker trusts in his own creation",
-        "when he makes speechless idols!"
-      ],
-      "verse": 18
+      "text": "His greed is as wide as Sheol;",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Woe to him who says to a wooden thing, Awake;",
-        "to a silent stone, Arise!",
-        "Can this teach?",
-        "Behold, it is overlaid with gold and silver,",
-        "and there is no breath at all in it."
-      ],
-      "verse": 19
+      "text": "like death he has never enough.",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "But the Lord is in his holy temple;",
-        "let all the earth keep silence before him.\""
-      ],
-      "verse": 20
+      "text": "He gathers for himself all nations",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and collects as his own all peoples.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to the Chaldeans",
+      "type": "heading"
+    },
+    {
+      "text": "Shall not all these take up their taunt against him, with scoffing and riddles for him, and say,",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "“Woe to him who heaps up what is not his own—",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for how long?—",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and loads himself with pledges!”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Will not your debtors suddenly arise,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and those awake who will make you tremble?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Then you will be spoil for them.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Because you have plundered many nations,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "all the remnant of the peoples shall plunder you,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "for the blood of man and violence to the earth,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "to cities and all who dwell in them.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Woe to him who gets evil gain for his house,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to set his nest on high,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "to be safe from the reach of harm!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "You have devised shame for your house",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "by cutting off many peoples;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "you have forfeited your life.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For the stone will cry out from the wall,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and the beam from the woodwork respond.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Woe to him who builds a town with blood",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and founds a city on iniquity!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, is it not from the  of hosts",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "that peoples labor merely for fire,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and nations weary themselves for nothing?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For the earth will be filled",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "with the knowledge of the glory of the",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "as the waters cover the sea.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“Woe to him who makes his neighbors drink—",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you pour out your wrath and make them drunk,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "in order to gaze at their nakedness!",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "You will have your fill of shame instead of glory.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Drink, yourself, and show your uncircumcision!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The cup in the 's right hand",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "will come around to you,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and utter shame will come upon your glory!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The violence done to Lebanon will overwhelm you,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "as will the destruction of the beasts that terrified them,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "for the blood of man and violence to the earth,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "to cities and all who dwell in them.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“What profit is an idol",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "when its maker has shaped it,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "a metal image, a teacher of lies?",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "For its maker trusts in his own creation",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "when he makes speechless idols!",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to him who says to a wooden thing, Awake;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "to a silent stone, Arise!",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Can this teach?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, it is overlaid with gold and silver,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and there is no breath at all in it.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "But the  is in his holy temple;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "let all the earth keep silence before him.”",
+      "verse": 20,
+      "type": "poetry"
     }
   ]
 }

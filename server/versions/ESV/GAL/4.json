@@ -2,195 +2,166 @@
   "book_id": "GAL",
   "book_name": "Galatians",
   "chapter": 4,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "I mean that the heir, as long as he is a child, is no different from a slave, though he is the owner of everything,"
-      ],
-      "verse": 1
+      "text": "Sons and Heirs",
+      "type": "heading"
     },
     {
-      "texts": [
-        "but he is under guardians and managers until the date set by his father."
-      ],
+      "text": "I mean that the heir, as long as he is a child, is no different from a slave, though he is the owner of everything,",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "but he is under guardians and managers until the date set by his father.",
       "verse": 2
     },
     {
-      "texts": [
-        "In the same way we also, when we were children, were enslaved to the elementary principles of the world."
-      ],
+      "text": "In the same way we also, when we were children, were enslaved to the elementary principles of the world.",
       "verse": 3
     },
     {
-      "texts": [
-        "But when the fullness of time had come, God sent forth his Son, born of woman, born under the law,"
-      ],
+      "text": "But when the fullness of time had come, God sent forth his Son, born of woman, born under the law,",
       "verse": 4
     },
     {
-      "texts": [
-        "to redeem those who were under the law, so that we might receive adoption as sons."
-      ],
+      "text": "to redeem those who were under the law, so that we might receive adoption as sons.",
       "verse": 5
     },
     {
-      "texts": [
-        "And because you are sons, God has sent the Spirit of his Son into our hearts, crying, \"Abba! Father!\""
-      ],
+      "text": "And because you are sons, God has sent the Spirit of his Son into our hearts, crying, “Abba! Father!”",
       "verse": 6
     },
     {
-      "texts": [
-        "So you are no longer a slave, but a son, and if a son, then an heir through God."
-      ],
+      "text": "So you are no longer a slave, but a son, and if a son, then an heir through God.",
       "verse": 7
     },
     {
-      "texts": [
-        "Formerly, when you did not know God, you were enslaved to those that by nature are not gods."
-      ],
-      "verse": 8
+      "text": "Paul's Concern for the Galatians",
+      "type": "heading"
     },
     {
-      "texts": [
-        "But now that you have come to know God, or rather to be known by God, how can you turn back again to the weak and worthless elementary principles of the world, whose slaves you want to be once more?"
-      ],
+      "text": "Formerly, when you did not know God, you were enslaved to those that by nature are not gods.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "But now that you have come to know God, or rather to be known by God, how can you turn back again to the weak and worthless elementary principles of the world, whose slaves you want to be once more?",
       "verse": 9
     },
     {
-      "texts": [
-        "You observe days and months and seasons and years!"
-      ],
+      "text": "You observe days and months and seasons and years!",
       "verse": 10
     },
     {
-      "texts": [
-        "I am afraid I may have labored over you in vain."
-      ],
+      "text": "I am afraid I may have labored over you in vain.",
       "verse": 11
     },
     {
-      "texts": [
-        "Brothers, I entreat you, become as I am, for I also have become as you are. You did me no wrong."
-      ],
-      "verse": 12
+      "text": "Brothers, I entreat you, become as I am, for I also have become as you are. You did me no wrong.",
+      "verse": 12,
+      "type": "newline"
     },
     {
-      "texts": [
-        "You know it was because of a bodily ailment that I preached the gospel to you at first,"
-      ],
+      "text": "You know it was because of a bodily ailment that I preached the gospel to you at first,",
       "verse": 13
     },
     {
-      "texts": [
-        "and though my condition was a trial to you, you did not scorn or despise me, but received me as an angel of God, as Christ Jesus."
-      ],
+      "text": "and though my condition was a trial to you, you did not scorn or despise me, but received me as an angel of God, as Christ Jesus.",
       "verse": 14
     },
     {
-      "texts": [
-        "What then has become of your blessedness? For I testify to you that, if possible, you would have gouged out your eyes and given them to me."
-      ],
+      "text": "What then has become of your blessedness? For I testify to you that, if possible, you would have gouged out your eyes and given them to me.",
       "verse": 15
     },
     {
-      "texts": [
-        "Have I then become your enemy by telling you the truth?"
-      ],
+      "text": "Have I then become your enemy by telling you the truth?",
       "verse": 16
     },
     {
-      "texts": [
-        "They make much of you, but for no good purpose. They want to shut you out, that you may make much of them."
-      ],
+      "text": "They make much of you, but for no good purpose. They want to shut you out, that you may make much of them.",
       "verse": 17
     },
     {
-      "texts": [
-        "It is always good to be made much of for a good purpose, and not only when I am present with you,"
-      ],
+      "text": "It is always good to be made much of for a good purpose, and not only when I am present with you,",
       "verse": 18
     },
     {
-      "texts": [
-        "my little children, for whom I am again in the anguish of childbirth until Christ is formed in you!"
-      ],
+      "text": "my little children, for whom I am again in the anguish of childbirth until Christ is formed in you!",
       "verse": 19
     },
     {
-      "texts": [
-        "I wish I could be present with you now and change my tone, for I am perplexed about you."
-      ],
+      "text": "I wish I could be present with you now and change my tone, for I am perplexed about you.",
       "verse": 20
     },
     {
-      "texts": [
-        "Tell me, you who desire to be under the law, do you not listen to the law?"
-      ],
-      "verse": 21
+      "text": "Example of Hagar and Sarah",
+      "type": "heading"
     },
     {
-      "texts": [
-        "For it is written that Abraham had two sons, one by a slave woman and one by a free woman."
-      ],
+      "text": "Tell me, you who desire to be under the law, do you not listen to the law?",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "For it is written that Abraham had two sons, one by a slave woman and one by a free woman.",
       "verse": 22
     },
     {
-      "texts": [
-        "But the son of the slave was born according to the flesh, while the son of the free woman was born through promise."
-      ],
+      "text": "But the son of the slave was born according to the flesh, while the son of the free woman was born through promise.",
       "verse": 23
     },
     {
-      "texts": [
-        "Now this may be interpreted allegorically: these women are two covenants. One is from Mount Sinai, bearing children for slavery; she is Hagar."
-      ],
+      "text": "Now this may be interpreted allegorically: these women are two covenants. One is from Mount Sinai, bearing children for slavery; she is Hagar.",
       "verse": 24
     },
     {
-      "texts": [
-        "Now Hagar is Mount Sinai in Arabia; she corresponds to the present Jerusalem, for she is in slavery with her children."
-      ],
+      "text": "Now Hagar is Mount Sinai in Arabia; she corresponds to the present Jerusalem, for she is in slavery with her children.",
       "verse": 25
     },
     {
-      "texts": [
-        "But the Jerusalem above is free, and she is our mother."
-      ],
+      "text": "But the Jerusalem above is free, and she is our mother.",
       "verse": 26
     },
     {
-      "texts": [
-        "For it is written,",
-        "\"Rejoice, O barren one who does not bear;",
-        "break forth and cry aloud, you who are not in labor!",
-        "For the children of the desolate one will be more",
-        "than those of the one who has a husband.\""
-      ],
+      "text": "For it is written,",
       "verse": 27
     },
     {
-      "texts": [
-        "Now you, brothers, like Isaac, are children of promise."
-      ],
-      "verse": 28
+      "text": "“Rejoice, O barren one who does not bear;",
+      "verse": 27,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "But just as at that time he who was born according to the flesh persecuted him who was born according to the Spirit, so also it is now."
-      ],
+      "text": "break forth and cry aloud, you who are not in labor!",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "For the children of the desolate one will be more",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "than those of the one who has a husband.”",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Now you, brothers, like Isaac, are children of promise.",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "But just as at that time he who was born according to the flesh persecuted him who was born according to the Spirit, so also it is now.",
       "verse": 29
     },
     {
-      "texts": [
-        "But what does the Scripture say? \"Cast out the slave woman and her son, for the son of the slave woman shall not inherit with the son of the free woman.\""
-      ],
+      "text": "But what does the Scripture say? “Cast out the slave woman and her son, for the son of the slave woman shall not inherit with the son of the free woman.”",
       "verse": 30
     },
     {
-      "texts": [
-        "So, brothers, we are not children of the slave but of the free woman."
-      ],
+      "text": "So, brothers, we are not children of the slave but of the free woman.",
       "verse": 31
     }
   ]

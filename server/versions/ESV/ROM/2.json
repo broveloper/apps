@@ -2,179 +2,134 @@
   "book_id": "ROM",
   "book_name": "Romans",
   "chapter": 2,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Therefore you have no excuse, O man, every one of you who judges. For in passing judgment on another you condemn yourself, because you, the judge, practice the very same things."
-      ],
-      "verse": 1
+      "text": "God's Righteous Judgment",
+      "type": "heading"
     },
     {
-      "texts": [
-        "We know that the judgment of God rightly falls on those who practice such things."
-      ],
+      "text": "Therefore you have no excuse, O man, every one of you who judges. For in passing judgment on another you condemn yourself, because you, the judge, practice the very same things.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "We know that the judgment of God rightly falls on those who practice such things.",
       "verse": 2
     },
     {
-      "texts": [
-        "Do you suppose, O man—you who judge those who practice such things and yet do them yourself—that you will escape the judgment of God?"
-      ],
+      "text": "Do you suppose, O man—you who judge those who practice such things and yet do them yourself—that you will escape the judgment of God?",
       "verse": 3
     },
     {
-      "texts": [
-        "Or do you presume on the riches of his kindness and forbearance and patience, not knowing that God's kindness is meant to lead you to repentance?"
-      ],
+      "text": "Or do you presume on the riches of his kindness and forbearance and patience, not knowing that God's kindness is meant to lead you to repentance?",
       "verse": 4
     },
     {
-      "texts": [
-        "But because of your hard and impenitent heart you are storing up wrath for yourself on the day of wrath when God's righteous judgment will be revealed."
-      ],
+      "text": "But because of your hard and impenitent heart you are storing up wrath for yourself on the day of wrath when God's righteous judgment will be revealed.",
       "verse": 5
     },
     {
-      "texts": [
-        "He will render to each one according to his works:"
-      ],
-      "verse": 6
+      "text": "He will render to each one according to his works:",
+      "verse": 6,
+      "type": "newline"
     },
     {
-      "texts": [
-        "to those who by patience in well-doing seek for glory and honor and immortality, he will give eternal life;"
-      ],
+      "text": "to those who by patience in well-doing seek for glory and honor and immortality, he will give eternal life;",
       "verse": 7
     },
     {
-      "texts": [
-        "but for those who are self-seeking and do not obey the truth, but obey unrighteousness, there will be wrath and fury."
-      ],
+      "text": "but for those who are self-seeking and do not obey the truth, but obey unrighteousness, there will be wrath and fury.",
       "verse": 8
     },
     {
-      "texts": [
-        "There will be tribulation and distress for every human being who does evil, the Jew first and also the Greek,"
-      ],
+      "text": "There will be tribulation and distress for every human being who does evil, the Jew first and also the Greek,",
       "verse": 9
     },
     {
-      "texts": [
-        "but glory and honor and peace for everyone who does good, the Jew first and also the Greek."
-      ],
+      "text": "but glory and honor and peace for everyone who does good, the Jew first and also the Greek.",
       "verse": 10
     },
     {
-      "texts": [
-        "For God shows no partiality."
-      ],
+      "text": "For God shows no partiality.",
       "verse": 11
     },
     {
-      "texts": [
-        "For all who have sinned without the law will also perish without the law, and all who have sinned under the law will be judged by the law."
-      ],
-      "verse": 12
+      "text": "God's Judgment and the Law",
+      "type": "heading"
     },
     {
-      "texts": [
-        "For it is not the hearers of the law who are righteous before God, but the doers of the law who will be justified."
-      ],
+      "text": "For all who have sinned without the law will also perish without the law, and all who have sinned under the law will be judged by the law.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "For it is not the hearers of the law who are righteous before God, but the doers of the law who will be justified.",
       "verse": 13
     },
     {
-      "texts": [
-        "For when Gentiles, who do not have the law, by nature do what the law requires, they are a law to themselves, even though they do not have the law."
-      ],
+      "text": "For when Gentiles, who do not have the law, by nature do what the law requires, they are a law to themselves, even though they do not have the law.",
       "verse": 14
     },
     {
-      "texts": [
-        "They show that the work of the law is written on their hearts, while their conscience also bears witness, and their conflicting thoughts accuse or even excuse them"
-      ],
+      "text": "They show that the work of the law is written on their hearts, while their conscience also bears witness, and their conflicting thoughts accuse or even excuse them",
       "verse": 15
     },
     {
-      "texts": [
-        "on that day when, according to my gospel, God judges the secrets of men by Christ Jesus."
-      ],
+      "text": "on that day when, according to my gospel, God judges the secrets of men by Christ Jesus.",
       "verse": 16
     },
     {
-      "texts": [
-        "But if you call yourself a Jew and rely on the law and boast in God"
-      ],
-      "verse": 17
+      "text": "But if you call yourself a Jew and rely on the law and boast in God",
+      "verse": 17,
+      "type": "newline"
     },
     {
-      "texts": [
-        "and know his will and approve what is excellent, because you are instructed from the law;"
-      ],
+      "text": "and know his will and approve what is excellent, because you are instructed from the law;",
       "verse": 18
     },
     {
-      "texts": [
-        "and if you are sure that you yourself are a guide to the blind, a light to those who are in darkness,"
-      ],
+      "text": "and if you are sure that you yourself are a guide to the blind, a light to those who are in darkness,",
       "verse": 19
     },
     {
-      "texts": [
-        "an instructor of the foolish, a teacher of children, having in the law the embodiment of knowledge and truth—"
-      ],
+      "text": "an instructor of the foolish, a teacher of children, having in the law the embodiment of knowledge and truth—",
       "verse": 20
     },
     {
-      "texts": [
-        "you then who teach others, do you not teach yourself? While you preach against stealing, do you steal?"
-      ],
+      "text": "you then who teach others, do you not teach yourself? While you preach against stealing, do you steal?",
       "verse": 21
     },
     {
-      "texts": [
-        "You who say that one must not commit adultery, do you commit adultery? You who abhor idols, do you rob temples?"
-      ],
+      "text": "You who say that one must not commit adultery, do you commit adultery? You who abhor idols, do you rob temples?",
       "verse": 22
     },
     {
-      "texts": [
-        "You who boast in the law dishonor God by breaking the law."
-      ],
+      "text": "You who boast in the law dishonor God by breaking the law.",
       "verse": 23
     },
     {
-      "texts": [
-        "For, as it is written, \"The name of God is blasphemed among the Gentiles because of you.\""
-      ],
+      "text": "For, as it is written, “The name of God is blasphemed among the Gentiles because of you.”",
       "verse": 24
     },
     {
-      "texts": [
-        "For circumcision indeed is of value if you obey the law, but if you break the law, your circumcision becomes uncircumcision."
-      ],
-      "verse": 25
+      "text": "For circumcision indeed is of value if you obey the law, but if you break the law, your circumcision becomes uncircumcision.",
+      "verse": 25,
+      "type": "newline"
     },
     {
-      "texts": [
-        "So, if a man who is uncircumcised keeps the precepts of the law, will not his uncircumcision be regarded as circumcision?"
-      ],
+      "text": "So, if a man who is uncircumcised keeps the precepts of the law, will not his uncircumcision be regarded as circumcision?",
       "verse": 26
     },
     {
-      "texts": [
-        "Then he who is physically uncircumcised but keeps the law will condemn you who have the written code and circumcision but break the law."
-      ],
+      "text": "Then he who is physically uncircumcised but keeps the law will condemn you who have the written code and circumcision but break the law.",
       "verse": 27
     },
     {
-      "texts": [
-        "For no one is a Jew who is merely one outwardly, nor is circumcision outward and physical."
-      ],
+      "text": "For no one is a Jew who is merely one outwardly, nor is circumcision outward and physical.",
       "verse": 28
     },
     {
-      "texts": [
-        "But a Jew is one inwardly, and circumcision is a matter of the heart, by the Spirit, not by the letter. His praise is not from man but from God."
-      ],
+      "text": "But a Jew is one inwardly, and circumcision is a matter of the heart, by the Spirit, not by the letter. His praise is not from man but from God.",
       "verse": 29
     }
   ]

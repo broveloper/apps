@@ -2,87 +2,189 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 31,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Woe to those who go down to Egypt for help",
-        "and rely on horses,",
-        "who trust in chariots because they are many",
-        "and in horsemen because they are very strong,",
-        "but do not look to the Holy One of Israel",
-        "or consult the Lord!"
-      ],
-      "verse": 1
+      "text": "Woe to Those Who Go Down to Egypt",
+      "type": "heading"
     },
     {
-      "texts": [
-        "And yet he is wise and brings disaster;",
-        "he does not call back his words,",
-        "but will arise against the house of the evildoers",
-        "and against the helpers of those who work iniquity."
-      ],
-      "verse": 2
+      "text": "Woe to those who go down to Egypt for help",
+      "verse": 1,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "The Egyptians are man, and not God,",
-        "and their horses are flesh, and not spirit.",
-        "When the Lord stretches out his hand,",
-        "the helper will stumble, and he who is helped will fall,",
-        "and they will all perish together."
-      ],
-      "verse": 3
+      "text": "and rely on horses,",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For thus the Lord said to me,",
-        "\"As a lion or a young lion growls over his prey,",
-        "and when a band of shepherds is called out against him",
-        "he is not terrified by their shouting",
-        "or daunted at their noise,",
-        "so the Lord of hosts will come down",
-        "to fight on Mount Zion and on its hill."
-      ],
-      "verse": 4
+      "text": "who trust in chariots because they are many",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Like birds hovering, so the Lord of hosts",
-        "will protect Jerusalem;",
-        "he will protect and deliver it;",
-        "he will spare and rescue it.\""
-      ],
-      "verse": 5
+      "text": "and in horsemen because they are very strong,",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Turn to him from whom people have deeply revolted, O children of Israel."
-      ],
-      "verse": 6
+      "text": "but do not look to the Holy One of Israel",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For in that day everyone shall cast away his idols of silver and his idols of gold, which your hands have sinfully made for you."
-      ],
+      "text": "or consult the !",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And yet he is wise and brings disaster;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "he does not call back his words,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "but will arise against the house of the evildoers",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and against the helpers of those who work iniquity.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The Egyptians are man, and not God,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and their horses are flesh, and not spirit.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "When the  stretches out his hand,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the helper will stumble, and he who is helped will fall,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and they will all perish together.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For thus the  said to me,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“As a lion or a young lion growls over his prey,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and when a band of shepherds is called out against him",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "he is not terrified by their shouting",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "or daunted at their noise,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "so the  of hosts will come down",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "to fight on Mount Zion and on its hill.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Like birds hovering, so the  of hosts",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "will protect Jerusalem;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "he will protect and deliver it;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "he will spare and rescue it.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Turn to him from whom people have deeply revolted, O children of Israel.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "For in that day everyone shall cast away his idols of silver and his idols of gold, which your hands have sinfully made for you.",
       "verse": 7
     },
     {
-      "texts": [
-        "\"And the Assyrian shall fall by a sword, not of man;",
-        "and a sword, not of man, shall devour him;",
-        "and he shall flee from the sword,",
-        "and his young men shall be put to forced labor."
-      ],
-      "verse": 8
+      "text": "“And the Assyrian shall fall by a sword, not of man;",
+      "verse": 8,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "His rock shall pass away in terror,",
-        "and his officers desert the standard in panic,\"",
-        "declares the Lord, whose fire is in Zion,",
-        "and whose furnace is in Jerusalem."
-      ],
-      "verse": 9
+      "text": "and a sword, not of man, shall devour him;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and he shall flee from the sword,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and his young men shall be put to forced labor.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "His rock shall pass away in terror,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and his officers desert the standard in panic,”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the , whose fire is in Zion,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and whose furnace is in Jerusalem.",
+      "verse": 9,
+      "type": "poetry"
     }
   ]
 }

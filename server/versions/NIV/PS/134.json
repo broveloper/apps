@@ -1,0 +1,46 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 134,
+  "content": [
+    {
+      "text": "Psalm 134",
+      "type": "heading"
+    },
+    {
+      "text": "A song of ascents.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Praise the , all you servants of the",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who minister by night in the house of the .",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Lift up your hands in the sanctuary",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and praise the .",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "May the  bless you from Zion,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he who is the Maker of heaven and earth.",
+      "verse": 3,
+      "type": "poetry"
+    }
+  ]
+}

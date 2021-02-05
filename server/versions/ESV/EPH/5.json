@@ -2,206 +2,165 @@
   "book_id": "EPH",
   "book_name": "Ephesians",
   "chapter": 5,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Therefore be imitators of God, as beloved children."
-      ],
-      "verse": 1
+      "text": "Walk in Love",
+      "type": "heading"
     },
     {
-      "texts": [
-        "And walk in love, as Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God."
-      ],
+      "text": "Therefore be imitators of God, as beloved children.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "And walk in love, as Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God.",
       "verse": 2
     },
     {
-      "texts": [
-        "But sexual immorality and all impurity or covetousness must not even be named among you, as is proper among saints."
-      ],
-      "verse": 3
+      "text": "But sexual immorality and all impurity or covetousness must not even be named among you, as is proper among saints.",
+      "verse": 3,
+      "type": "newline"
     },
     {
-      "texts": [
-        "Let there be no filthiness nor foolish talk nor crude joking, which are out of place, but instead let there be thanksgiving."
-      ],
+      "text": "Let there be no filthiness nor foolish talk nor crude joking, which are out of place, but instead let there be thanksgiving.",
       "verse": 4
     },
     {
-      "texts": [
-        "For you may be sure of this, that everyone who is sexually immoral or impure, or who is covetous (that is, an idolater), has no inheritance in the kingdom of Christ and God."
-      ],
+      "text": "For you may be sure of this, that everyone who is sexually immoral or impure, or who is covetous (that is, an idolater), has no inheritance in the kingdom of Christ and God.",
       "verse": 5
     },
     {
-      "texts": [
-        "Let no one deceive you with empty words, for because of these things the wrath of God comes upon the sons of disobedience."
-      ],
+      "text": "Let no one deceive you with empty words, for because of these things the wrath of God comes upon the sons of disobedience.",
       "verse": 6
     },
     {
-      "texts": [
-        "Therefore do not become partners with them;"
-      ],
+      "text": "Therefore do not become partners with them;",
       "verse": 7
     },
     {
-      "texts": [
-        "for at one time you were darkness, but now you are light in the Lord. Walk as children of light"
-      ],
+      "text": "for at one time you were darkness, but now you are light in the Lord. Walk as children of light",
       "verse": 8
     },
     {
-      "texts": [
-        "(for the fruit of light is found in all that is good and right and true),"
-      ],
+      "text": "(for the fruit of light is found in all that is good and right and true),",
       "verse": 9
     },
     {
-      "texts": [
-        "and try to discern what is pleasing to the Lord."
-      ],
+      "text": "and try to discern what is pleasing to the Lord.",
       "verse": 10
     },
     {
-      "texts": [
-        "Take no part in the unfruitful works of darkness, but instead expose them."
-      ],
+      "text": "Take no part in the unfruitful works of darkness, but instead expose them.",
       "verse": 11
     },
     {
-      "texts": [
-        "For it is shameful even to speak of the things that they do in secret."
-      ],
+      "text": "For it is shameful even to speak of the things that they do in secret.",
       "verse": 12
     },
     {
-      "texts": [
-        "But when anything is exposed by the light, it becomes visible,"
-      ],
+      "text": "But when anything is exposed by the light, it becomes visible,",
       "verse": 13
     },
     {
-      "texts": [
-        "for anything that becomes visible is light. Therefore it says,",
-        "\"Awake, O sleeper,",
-        "and arise from the dead,",
-        "and Christ will shine on you.\""
-      ],
+      "text": "for anything that becomes visible is light. Therefore it says,",
       "verse": 14
     },
     {
-      "texts": [
-        "Look carefully then how you walk, not as unwise but as wise,"
-      ],
-      "verse": 15
+      "text": "“Awake, O sleeper,",
+      "verse": 14,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "making the best use of the time, because the days are evil."
-      ],
+      "text": "and arise from the dead,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and Christ will shine on you.”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Look carefully then how you walk, not as unwise but as wise,",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "making the best use of the time, because the days are evil.",
       "verse": 16
     },
     {
-      "texts": [
-        "Therefore do not be foolish, but understand what the will of the Lord is."
-      ],
+      "text": "Therefore do not be foolish, but understand what the will of the Lord is.",
       "verse": 17
     },
     {
-      "texts": [
-        "And do not get drunk with wine, for that is debauchery, but be filled with the Spirit,"
-      ],
+      "text": "And do not get drunk with wine, for that is debauchery, but be filled with the Spirit,",
       "verse": 18
     },
     {
-      "texts": [
-        "addressing one another in psalms and hymns and spiritual songs, singing and making melody to the Lord with your heart,"
-      ],
+      "text": "addressing one another in psalms and hymns and spiritual songs, singing and making melody to the Lord with your heart,",
       "verse": 19
     },
     {
-      "texts": [
-        "giving thanks always and for everything to God the Father in the name of our Lord Jesus Christ,"
-      ],
+      "text": "giving thanks always and for everything to God the Father in the name of our Lord Jesus Christ,",
       "verse": 20
     },
     {
-      "texts": [
-        "submitting to one another out of reverence for Christ."
-      ],
+      "text": "submitting to one another out of reverence for Christ.",
       "verse": 21
     },
     {
-      "texts": [
-        "Wives, submit to your own husbands, as to the Lord."
-      ],
-      "verse": 22
+      "text": "Wives and Husbands",
+      "type": "heading"
     },
     {
-      "texts": [
-        "For the husband is the head of the wife even as Christ is the head of the church, his body, and is himself its Savior."
-      ],
+      "text": "Wives, submit to your own husbands, as to the Lord.",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "For the husband is the head of the wife even as Christ is the head of the church, his body, and is himself its Savior.",
       "verse": 23
     },
     {
-      "texts": [
-        "Now as the church submits to Christ, so also wives should submit in everything to their husbands."
-      ],
+      "text": "Now as the church submits to Christ, so also wives should submit in everything to their husbands.",
       "verse": 24
     },
     {
-      "texts": [
-        "Husbands, love your wives, as Christ loved the church and gave himself up for her,"
-      ],
-      "verse": 25
+      "text": "Husbands, love your wives, as Christ loved the church and gave himself up for her,",
+      "verse": 25,
+      "type": "newline"
     },
     {
-      "texts": [
-        "that he might sanctify her, having cleansed her by the washing of water with the word,"
-      ],
+      "text": "that he might sanctify her, having cleansed her by the washing of water with the word,",
       "verse": 26
     },
     {
-      "texts": [
-        "so that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish."
-      ],
+      "text": "so that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish.",
       "verse": 27
     },
     {
-      "texts": [
-        "In the same way husbands should love their wives as their own bodies. He who loves his wife loves himself."
-      ],
+      "text": "In the same way husbands should love their wives as their own bodies. He who loves his wife loves himself.",
       "verse": 28
     },
     {
-      "texts": [
-        "For no one ever hated his own flesh, but nourishes and cherishes it, just as Christ does the church,"
-      ],
+      "text": "For no one ever hated his own flesh, but nourishes and cherishes it, just as Christ does the church,",
       "verse": 29
     },
     {
-      "texts": [
-        "because we are members of his body."
-      ],
+      "text": "because we are members of his body.",
       "verse": 30
     },
     {
-      "texts": [
-        "\"Therefore a man shall leave his father and mother and hold fast to his wife, and the two shall become one flesh.\""
-      ],
+      "text": "“Therefore a man shall leave his father and mother and hold fast to his wife, and the two shall become one flesh.”",
       "verse": 31
     },
     {
-      "texts": [
-        "This mystery is profound, and I am saying that it refers to Christ and the church."
-      ],
+      "text": "This mystery is profound, and I am saying that it refers to Christ and the church.",
       "verse": 32
     },
     {
-      "texts": [
-        "However, let each one of you love his wife as himself, and let the wife see that she respects her husband."
-      ],
+      "text": "However, let each one of you love his wife as himself, and let the wife see that she respects her husband.",
       "verse": 33
     }
   ]

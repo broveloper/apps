@@ -2,89 +2,71 @@
   "book_id": "MAL",
   "book_name": "Malachi",
   "chapter": 1,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "The oracle of the word of the Lord to Israel by Malachi."
-      ],
+      "text": "The oracle of the word of the  to Israel by Malachi.",
       "verse": 1
     },
     {
-      "texts": [
-        "\"I have loved you,\" says the Lord. But you say, \"How have you loved us?\" \"Is not Esau Jacob's brother?\" declares the Lord. \"Yet I have loved Jacob"
-      ],
-      "verse": 2
+      "text": "The 's Love for Israel",
+      "type": "heading"
     },
     {
-      "texts": [
-        "but Esau I have hated. I have laid waste his hill country and left his heritage to jackals of the desert.\""
-      ],
+      "text": "“I have loved you,” says the . But you say, “How have you loved us?” “Is not Esau Jacob's brother?” declares the . “Yet I have loved Jacob",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "but Esau I have hated. I have laid waste his hill country and left his heritage to jackals of the desert.”",
       "verse": 3
     },
     {
-      "texts": [
-        "If Edom says, \"We are shattered but we will rebuild the ruins,\" the Lord of hosts says, \"They may build, but I will tear down, and they will be called 'the wicked country,' and 'the people with whom the Lord is angry forever.'\""
-      ],
+      "text": "If Edom says, “We are shattered but we will rebuild the ruins,” the  of hosts says, “They may build, but I will tear down, and they will be called ‘the wicked country,’ and ‘the people with whom the  is angry forever.’”",
       "verse": 4
     },
     {
-      "texts": [
-        "Your own eyes shall see this, and you shall say, \"Great is the Lord beyond the border of Israel!\""
-      ],
+      "text": "Your own eyes shall see this, and you shall say, “Great is the  beyond the border of Israel!”",
       "verse": 5
     },
     {
-      "texts": [
-        "\"A son honors his father, and a servant his master. If then I am a father, where is my honor? And if I am a master, where is my fear? says the Lord of hosts to you, O priests, who despise my name. But you say, 'How have we despised your name?'"
-      ],
-      "verse": 6
+      "text": "The Priests' Polluted Offerings",
+      "type": "heading"
     },
     {
-      "texts": [
-        "By offering polluted food upon my altar. But you say, 'How have we polluted you?' By saying that the Lord's table may be despised."
-      ],
+      "text": "“A son honors his father, and a servant his master. If then I am a father, where is my honor? And if I am a master, where is my fear? says the  of hosts to you, O priests, who despise my name. But you say, ‘How have we despised your name?’",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "By offering polluted food upon my altar. But you say, ‘How have we polluted you?’ By saying that the 's table may be despised.",
       "verse": 7
     },
     {
-      "texts": [
-        "When you offer blind animals in sacrifice, is that not evil? And when you offer those that are lame or sick, is that not evil? Present that to your governor; will he accept you or show you favor? says the Lord of hosts."
-      ],
+      "text": "When you offer blind animals in sacrifice, is that not evil? And when you offer those that are lame or sick, is that not evil? Present that to your governor; will he accept you or show you favor? says the  of hosts.",
       "verse": 8
     },
     {
-      "texts": [
-        "And now entreat the favor of God, that he may be gracious to us. With such a gift from your hand, will he show favor to any of you? says the Lord of hosts."
-      ],
+      "text": "And now entreat the favor of God, that he may be gracious to us. With such a gift from your hand, will he show favor to any of you? says the  of hosts.",
       "verse": 9
     },
     {
-      "texts": [
-        "Oh that there were one among you who would shut the doors, that you might not kindle fire on my altar in vain! I have no pleasure in you, says the Lord of hosts, and I will not accept an offering from your hand."
-      ],
+      "text": "Oh that there were one among you who would shut the doors, that you might not kindle fire on my altar in vain! I have no pleasure in you, says the  of hosts, and I will not accept an offering from your hand.",
       "verse": 10
     },
     {
-      "texts": [
-        "For from the rising of the sun to its setting my name will be great among the nations, and in every place incense will be offered to my name, and a pure offering. For my name will be great among the nations, says the Lord of hosts."
-      ],
+      "text": "For from the rising of the sun to its setting my name will be great among the nations, and in every place incense will be offered to my name, and a pure offering. For my name will be great among the nations, says the  of hosts.",
       "verse": 11
     },
     {
-      "texts": [
-        "But you profane it when you say that the Lord's table is polluted, and its fruit, that is, its food may be despised."
-      ],
+      "text": "But you profane it when you say that the Lord's table is polluted, and its fruit, that is, its food may be despised.",
       "verse": 12
     },
     {
-      "texts": [
-        "But you say, 'What a weariness this is,' and you snort at it, says the Lord of hosts. You bring what has been taken by violence or is lame or sick, and this you bring as your offering! Shall I accept that from your hand? says the Lord."
-      ],
+      "text": "But you say, ‘What a weariness this is,’ and you snort at it, says the  of hosts. You bring what has been taken by violence or is lame or sick, and this you bring as your offering! Shall I accept that from your hand? says the .",
       "verse": 13
     },
     {
-      "texts": [
-        "Cursed be the cheat who has a male in his flock, and vows it, and yet sacrifices to the Lord what is blemished. For I am a great King, says the Lord of hosts, and my name will be feared among the nations."
-      ],
+      "text": "Cursed be the cheat who has a male in his flock, and vows it, and yet sacrifices to the Lord what is blemished. For I am a great King, says the  of hosts, and my name will be feared among the nations.",
       "verse": 14
     }
   ]

@@ -2,203 +2,295 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 13,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "\"Behold, my eye has seen all this,",
-        "my ear has heard and understood it."
-      ],
-      "verse": 1
+      "text": "Job Continues: Still I Will Hope in God",
+      "type": "heading"
     },
     {
-      "texts": [
-        "What you know, I also know;",
-        "I am not inferior to you."
-      ],
-      "verse": 2
+      "text": "“Behold, my eye has seen all this,",
+      "verse": 1,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "But I would speak to the Almighty,",
-        "and I desire to argue my case with God."
-      ],
-      "verse": 3
+      "text": "my ear has heard and understood it.",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "As for you, you whitewash with lies;",
-        "worthless physicians are you all."
-      ],
-      "verse": 4
+      "text": "What you know, I also know;",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Oh that you would keep silent,",
-        "and it would be your wisdom!"
-      ],
-      "verse": 5
+      "text": "I am not inferior to you.",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Hear now my argument",
-        "and listen to the pleadings of my lips."
-      ],
-      "verse": 6
+      "text": "But I would speak to the Almighty,",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Will you speak falsely for God",
-        "and speak deceitfully for him?"
-      ],
-      "verse": 7
+      "text": "and I desire to argue my case with God.",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Will you show partiality toward him?",
-        "Will you plead the case for God?"
-      ],
-      "verse": 8
+      "text": "As for you, you whitewash with lies;",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Will it be well with you when he searches you out?",
-        "Or can you deceive him, as one deceives a man?"
-      ],
-      "verse": 9
+      "text": "worthless physicians are you all.",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He will surely rebuke you",
-        "if in secret you show partiality."
-      ],
-      "verse": 10
+      "text": "Oh that you would keep silent,",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Will not his majesty terrify you,",
-        "and the dread of him fall upon you?"
-      ],
-      "verse": 11
+      "text": "and it would be your wisdom!",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Your maxims are proverbs of ashes;",
-        "your defenses are defenses of clay."
-      ],
-      "verse": 12
+      "text": "Hear now my argument",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Let me have silence, and I will speak,",
-        "and let come on me what may."
-      ],
-      "verse": 13
+      "text": "and listen to the pleadings of my lips.",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Why should I take my flesh in my teeth",
-        "and put my life in my hand?"
-      ],
-      "verse": 14
+      "text": "Will you speak falsely for God",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Though he slay me, I will hope in him;",
-        "yet I will argue my ways to his face."
-      ],
-      "verse": 15
+      "text": "and speak deceitfully for him?",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "This will be my salvation,",
-        "that the godless shall not come before him."
-      ],
-      "verse": 16
+      "text": "Will you show partiality toward him?",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Keep listening to my words,",
-        "and let my declaration be in your ears."
-      ],
-      "verse": 17
+      "text": "Will you plead the case for God?",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Behold, I have prepared my case;",
-        "I know that I shall be in the right."
-      ],
-      "verse": 18
+      "text": "Will it be well with you when he searches you out?",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Who is there who will contend with me?",
-        "For then I would be silent and die."
-      ],
-      "verse": 19
+      "text": "Or can you deceive him, as one deceives a man?",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Only grant me two things,",
-        "then I will not hide myself from your face:"
-      ],
-      "verse": 20
+      "text": "He will surely rebuke you",
+      "verse": 10,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "withdraw your hand far from me,",
-        "and let not dread of you terrify me."
-      ],
-      "verse": 21
+      "text": "if in secret you show partiality.",
+      "verse": 10,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Then call, and I will answer;",
-        "or let me speak, and you reply to me."
-      ],
-      "verse": 22
+      "text": "Will not his majesty terrify you,",
+      "verse": 11,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "How many are my iniquities and my sins?",
-        "Make me know my transgression and my sin."
-      ],
-      "verse": 23
+      "text": "and the dread of him fall upon you?",
+      "verse": 11,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Why do you hide your face",
-        "and count me as your enemy?"
-      ],
-      "verse": 24
+      "text": "Your maxims are proverbs of ashes;",
+      "verse": 12,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Will you frighten a driven leaf",
-        "and pursue dry chaff?"
-      ],
-      "verse": 25
+      "text": "your defenses are defenses of clay.",
+      "verse": 12,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For you write bitter things against me",
-        "and make me inherit the iniquities of my youth."
-      ],
-      "verse": 26
+      "text": "“Let me have silence, and I will speak,",
+      "verse": 13,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "You put my feet in the stocks",
-        "and watch all my paths;",
-        "you set a limit for the soles of my feet."
-      ],
-      "verse": 27
+      "text": "and let come on me what may.",
+      "verse": 13,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Man wastes away like a rotten thing,",
-        "like a garment that is moth-eaten."
-      ],
-      "verse": 28
+      "text": "Why should I take my flesh in my teeth",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and put my life in my hand?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Though he slay me, I will hope in him;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "yet I will argue my ways to his face.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "This will be my salvation,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "that the godless shall not come before him.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Keep listening to my words,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and let my declaration be in your ears.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I have prepared my case;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "I know that I shall be in the right.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is there who will contend with me?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "For then I would be silent and die.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Only grant me two things,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "then I will not hide myself from your face:",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "withdraw your hand far from me,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and let not dread of you terrify me.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Then call, and I will answer;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "or let me speak, and you reply to me.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "How many are my iniquities and my sins?",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Make me know my transgression and my sin.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do you hide your face",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and count me as your enemy?",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Will you frighten a driven leaf",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and pursue dry chaff?",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "For you write bitter things against me",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and make me inherit the iniquities of my youth.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "You put my feet in the stocks",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and watch all my paths;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "you set a limit for the soles of my feet.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Man wastes away like a rotten thing,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "like a garment that is moth-eaten.",
+      "verse": 28,
+      "type": "poetry"
     }
   ]
 }

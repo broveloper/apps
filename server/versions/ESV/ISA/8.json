@@ -2,142 +2,133 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 8,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Then the Lord said to me, \"Take a large tablet and write on it in common characters, 'Belonging to Maher-shalal-hash-baz.'"
-      ],
-      "verse": 1
+      "text": "The Coming Assyrian Invasion",
+      "type": "heading"
     },
     {
-      "texts": [
-        "And I will get reliable witnesses, Uriah the priest and Zechariah the son of Jeberechiah, to attest for me.\""
-      ],
+      "text": "Then the  said to me, “Take a large tablet and write on it in common characters, ‘Belonging to Maher-shalal-hash-baz.’",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "And I will get reliable witnesses, Uriah the priest and Zechariah the son of Jeberechiah, to attest for me.”",
       "verse": 2
     },
     {
-      "texts": [
-        "And I went to the prophetess, and she conceived and bore a son. Then the Lord said to me, \"Call his name Maher-shalal-hash-baz;"
-      ],
-      "verse": 3
+      "text": "And I went to the prophetess, and she conceived and bore a son. Then the  said to me, “Call his name Maher-shalal-hash-baz;",
+      "verse": 3,
+      "type": "newline"
     },
     {
-      "texts": [
-        "for before the boy knows how to cry 'My father' or 'My mother,' the wealth of Damascus and the spoil of Samaria will be carried away before the king of Assyria.\""
-      ],
+      "text": "for before the boy knows how to cry ‘My father’ or ‘My mother,’ the wealth of Damascus and the spoil of Samaria will be carried away before the king of Assyria.”",
       "verse": 4
     },
     {
-      "texts": [
-        "The Lord spoke to me again:"
-      ],
-      "verse": 5
+      "text": "The  spoke to me again:",
+      "verse": 5,
+      "type": "newline"
     },
     {
-      "texts": [
-        "\"Because this people has refused the waters of Shiloah that flow gently, and rejoice over Rezin and the son of Remaliah,"
-      ],
+      "text": "“Because this people has refused the waters of Shiloah that flow gently, and rejoice over Rezin and the son of Remaliah,",
       "verse": 6
     },
     {
-      "texts": [
-        "therefore, behold, the Lord is bringing up against them the waters of the River, mighty and many, the king of Assyria and all his glory. And it will rise over all its channels and go over all its banks,"
-      ],
+      "text": "therefore, behold, the Lord is bringing up against them the waters of the River, mighty and many, the king of Assyria and all his glory. And it will rise over all its channels and go over all its banks,",
       "verse": 7
     },
     {
-      "texts": [
-        "and it will sweep on into Judah, it will overflow and pass on, reaching even to the neck, and its outspread wings will fill the breadth of your land, O Immanuel.\""
-      ],
+      "text": "and it will sweep on into Judah, it will overflow and pass on, reaching even to the neck, and its outspread wings will fill the breadth of your land, O Immanuel.”",
       "verse": 8
     },
     {
-      "texts": [
-        "Be broken, you peoples, and be shattered;",
-        "give ear, all you far countries;",
-        "strap on your armor and be shattered;",
-        "strap on your armor and be shattered."
-      ],
-      "verse": 9
+      "text": "Be broken, you peoples, and be shattered;",
+      "verse": 9,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "Take counsel together, but it will come to nothing;",
-        "speak a word, but it will not stand,",
-        "for God is with us."
-      ],
-      "verse": 10
+      "text": "give ear, all you far countries;",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For the Lord spoke thus to me with his strong hand upon me, and warned me not to walk in the way of this people, saying:"
-      ],
-      "verse": 11
+      "text": "strap on your armor and be shattered;",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Do not call conspiracy all that this people calls conspiracy, and do not fear what they fear, nor be in dread."
-      ],
+      "text": "strap on your armor and be shattered.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Take counsel together, but it will come to nothing;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "speak a word, but it will not stand,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "for God is with us.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Fear God, Wait for the",
+      "type": "heading"
+    },
+    {
+      "text": "For the  spoke thus to me with his strong hand upon me, and warned me not to walk in the way of this people, saying:",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "“Do not call conspiracy all that this people calls conspiracy, and do not fear what they fear, nor be in dread.",
       "verse": 12
     },
     {
-      "texts": [
-        "But the Lord of hosts, him you shall honor as holy. Let him be your fear, and let him be your dread."
-      ],
+      "text": "But the  of hosts, him you shall honor as holy. Let him be your fear, and let him be your dread.",
       "verse": 13
     },
     {
-      "texts": [
-        "And he will become a sanctuary and a stone of offense and a rock of stumbling to both houses of Israel, a trap and a snare to the inhabitants of Jerusalem."
-      ],
+      "text": "And he will become a sanctuary and a stone of offense and a rock of stumbling to both houses of Israel, a trap and a snare to the inhabitants of Jerusalem.",
       "verse": 14
     },
     {
-      "texts": [
-        "And many shall stumble on it. They shall fall and be broken; they shall be snared and taken.\""
-      ],
+      "text": "And many shall stumble on it. They shall fall and be broken; they shall be snared and taken.”",
       "verse": 15
     },
     {
-      "texts": [
-        "Bind up the testimony; seal the teaching among my disciples."
-      ],
-      "verse": 16
+      "text": "Bind up the testimony; seal the teaching among my disciples.",
+      "verse": 16,
+      "type": "newline"
     },
     {
-      "texts": [
-        "I will wait for the Lord, who is hiding his face from the house of Jacob, and I will hope in him."
-      ],
+      "text": "I will wait for the , who is hiding his face from the house of Jacob, and I will hope in him.",
       "verse": 17
     },
     {
-      "texts": [
-        "Behold, I and the children whom the Lord has given me are signs and portents in Israel from the Lord of hosts, who dwells on Mount Zion."
-      ],
+      "text": "Behold, I and the children whom the  has given me are signs and portents in Israel from the  of hosts, who dwells on Mount Zion.",
       "verse": 18
     },
     {
-      "texts": [
-        "And when they say to you, \"Inquire of the mediums and the necromancers who chirp and mutter,\" should not a people inquire of their God? Should they inquire of the dead on behalf of the living?"
-      ],
+      "text": "And when they say to you, “Inquire of the mediums and the necromancers who chirp and mutter,” should not a people inquire of their God? Should they inquire of the dead on behalf of the living?",
       "verse": 19
     },
     {
-      "texts": [
-        "To the teaching and to the testimony! If they will not speak according to this word, it is because they have no dawn."
-      ],
+      "text": "To the teaching and to the testimony! If they will not speak according to this word, it is because they have no dawn.",
       "verse": 20
     },
     {
-      "texts": [
-        "They will pass through the land, greatly distressed and hungry. And when they are hungry, they will be enraged and will speak contemptuously against their king and their God, and turn their faces upward."
-      ],
+      "text": "They will pass through the land, greatly distressed and hungry. And when they are hungry, they will be enraged and will speak contemptuously against their king and their God, and turn their faces upward.",
       "verse": 21
     },
     {
-      "texts": [
-        "And they will look to the earth, but behold, distress and darkness, the gloom of anguish. And they will be thrust into thick darkness."
-      ],
+      "text": "And they will look to the earth, but behold, distress and darkness, the gloom of anguish. And they will be thrust into thick darkness.",
       "verse": 22
     }
   ]

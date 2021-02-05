@@ -2,127 +2,137 @@
   "book_id": "HEB",
   "book_name": "Hebrews",
   "chapter": 3,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Therefore, holy brothers, you who share in a heavenly calling, consider Jesus, the apostle and high priest of our confession,"
-      ],
-      "verse": 1
+      "text": "Jesus Greater Than Moses",
+      "type": "heading"
     },
     {
-      "texts": [
-        "who was faithful to him who appointed him, just as Moses also was faithful in all God's house."
-      ],
+      "text": "Therefore, holy brothers, you who share in a heavenly calling, consider Jesus, the apostle and high priest of our confession,",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "who was faithful to him who appointed him, just as Moses also was faithful in all God's house.",
       "verse": 2
     },
     {
-      "texts": [
-        "For Jesus has been counted worthy of more glory than Moses—as much more glory as the builder of a house has more honor than the house itself."
-      ],
+      "text": "For Jesus has been counted worthy of more glory than Moses—as much more glory as the builder of a house has more honor than the house itself.",
       "verse": 3
     },
     {
-      "texts": [
-        "(For every house is built by someone, but the builder of all things is God.)"
-      ],
+      "text": "(For every house is built by someone, but the builder of all things is God.)",
       "verse": 4
     },
     {
-      "texts": [
-        "Now Moses was faithful in all God's house as a servant, to testify to the things that were to be spoken later,"
-      ],
+      "text": "Now Moses was faithful in all God's house as a servant, to testify to the things that were to be spoken later,",
       "verse": 5
     },
     {
-      "texts": [
-        "but Christ is faithful over God's house as a son. And we are his house if indeed we hold fast our confidence and our boasting in our hope."
-      ],
+      "text": "but Christ is faithful over God's house as a son. And we are his house, if indeed we hold fast our confidence and our boasting in our hope.",
       "verse": 6
     },
     {
-      "texts": [
-        "Therefore, as the Holy Spirit says,",
-        "\"Today, if you hear his voice,"
-      ],
-      "verse": 7
+      "text": "A Rest for the People of God",
+      "type": "heading"
     },
     {
-      "texts": [
-        "do not harden your hearts as in the rebellion,",
-        "on the day of testing in the wilderness,"
-      ],
-      "verse": 8
+      "text": "Therefore, as the Holy Spirit says,",
+      "verse": 7,
+      "type": "newline"
     },
     {
-      "texts": [
-        "where your fathers put me to the test",
-        "and saw my works for forty years."
-      ],
-      "verse": 9
+      "text": "“Today, if you hear his voice,",
+      "verse": 7,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "Therefore I was provoked with that generation,",
-        "and said, 'They always go astray in their heart;",
-        "they have not known my ways.'"
-      ],
-      "verse": 10
+      "text": "do not harden your hearts as in the rebellion,",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "As I swore in my wrath,",
-        "'They shall not enter my rest.'\""
-      ],
-      "verse": 11
+      "text": "on the day of testing in the wilderness,",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Take care, brothers, lest there be in any of you an evil, unbelieving heart, leading you to fall away from the living God."
-      ],
-      "verse": 12
+      "text": "where your fathers put me to the test",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "But exhort one another every day, as long as it is called \"today,\" that none of you may be hardened by the deceitfulness of sin."
-      ],
+      "text": "and saw my works for forty years.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I was provoked with that generation,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and said, ‘They always go astray in their heart;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they have not known my ways.’",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "As I swore in my wrath,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "‘They shall not enter my rest.’”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Take care, brothers, lest there be in any of you an evil, unbelieving heart, leading you to fall away from the living God.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "But exhort one another every day, as long as it is called “today,” that none of you may be hardened by the deceitfulness of sin.",
       "verse": 13
     },
     {
-      "texts": [
-        "For we have come to share in Christ, if indeed we hold our original confidence firm to the end."
-      ],
+      "text": "For we have come to share in Christ, if indeed we hold our original confidence firm to the end.",
       "verse": 14
     },
     {
-      "texts": [
-        "As it is said,",
-        "\"Today, if you hear his voice,",
-        "do not harden your hearts as in the rebellion.\""
-      ],
+      "text": "As it is said,",
       "verse": 15
     },
     {
-      "texts": [
-        "For who were those who heard and yet rebelled? Was it not all those who left Egypt led by Moses?"
-      ],
-      "verse": 16
+      "text": "“Today, if you hear his voice,",
+      "verse": 15,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "And with whom was he provoked for forty years? Was it not with those who sinned, whose bodies fell in the wilderness?"
-      ],
+      "text": "do not harden your hearts as in the rebellion.”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For who were those who heard and yet rebelled? Was it not all those who left Egypt led by Moses?",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "And with whom was he provoked for forty years? Was it not with those who sinned, whose bodies fell in the wilderness?",
       "verse": 17
     },
     {
-      "texts": [
-        "And to whom did he swear that they would not enter his rest, but to those who were disobedient?"
-      ],
+      "text": "And to whom did he swear that they would not enter his rest, but to those who were disobedient?",
       "verse": 18
     },
     {
-      "texts": [
-        "So we see that they were unable to enter because of unbelief."
-      ],
+      "text": "So we see that they were unable to enter because of unbelief.",
       "verse": 19
     }
   ]

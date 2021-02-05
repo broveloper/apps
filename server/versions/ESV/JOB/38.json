@@ -2,292 +2,415 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 38,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Then the Lord answered Job out of the whirlwind and said:"
-      ],
-      "verse": 1
+      "text": "The  Answers Job",
+      "type": "heading"
     },
     {
-      "texts": [
-        "\"Who is this that darkens counsel by words without knowledge?"
-      ],
-      "verse": 2
+      "text": "Then the  answered Job out of the whirlwind and said:",
+      "verse": 1,
+      "type": "newline"
     },
     {
-      "texts": [
-        "Dress for action like a man;",
-        "I will question you, and you make it known to me."
-      ],
-      "verse": 3
+      "text": "“Who is this that darkens counsel by words without knowledge?",
+      "verse": 2,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "\"Where were you when I laid the foundation of the earth?",
-        "Tell me, if you have understanding."
-      ],
-      "verse": 4
+      "text": "Dress for action like a man;",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Who determined its measurements—surely you know!",
-        "Or who stretched the line upon it?"
-      ],
-      "verse": 5
+      "text": "I will question you, and you make it known to me.",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "On what were its bases sunk,",
-        "or who laid its cornerstone,"
-      ],
-      "verse": 6
+      "text": "“Where were you when I laid the foundation of the earth?",
+      "verse": 4,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "when the morning stars sang together",
-        "and all the sons of God shouted for joy?"
-      ],
-      "verse": 7
+      "text": "Tell me, if you have understanding.",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Or who shut in the sea with doors",
-        "when it burst out from the womb,"
-      ],
-      "verse": 8
+      "text": "Who determined its measurements—surely you know!",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "when I made clouds its garment",
-        "and thick darkness its swaddling band,"
-      ],
-      "verse": 9
+      "text": "Or who stretched the line upon it?",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "and prescribed limits for it",
-        "and set bars and doors,"
-      ],
-      "verse": 10
+      "text": "On what were its bases sunk,",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "and said, 'Thus far shall you come, and no farther,",
-        "and here shall your proud waves be stayed'?"
-      ],
-      "verse": 11
+      "text": "or who laid its cornerstone,",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Have you commanded the morning since your days began,",
-        "and caused the dawn to know its place,"
-      ],
-      "verse": 12
+      "text": "when the morning stars sang together",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "that it might take hold of the skirts of the earth,",
-        "and the wicked be shaken out of it?"
-      ],
-      "verse": 13
+      "text": "and all the sons of God shouted for joy?",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "It is changed like clay under the seal,",
-        "and its features stand out like a garment."
-      ],
-      "verse": 14
+      "text": "“Or who shut in the sea with doors",
+      "verse": 8,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "From the wicked their light is withheld,",
-        "and their uplifted arm is broken."
-      ],
-      "verse": 15
+      "text": "when it burst out from the womb,",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Have you entered into the springs of the sea,",
-        "or walked in the recesses of the deep?"
-      ],
-      "verse": 16
+      "text": "when I made clouds its garment",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Have the gates of death been revealed to you,",
-        "or have you seen the gates of deep darkness?"
-      ],
-      "verse": 17
+      "text": "and thick darkness its swaddling band,",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Have you comprehended the expanse of the earth?",
-        "Declare, if you know all this."
-      ],
-      "verse": 18
+      "text": "and prescribed limits for it",
+      "verse": 10,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Where is the way to the dwelling of light,",
-        "and where is the place of darkness,"
-      ],
-      "verse": 19
+      "text": "and set bars and doors,",
+      "verse": 10,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "that you may take it to its territory",
-        "and that you may discern the paths to its home?"
-      ],
-      "verse": 20
+      "text": "and said, ‘Thus far shall you come, and no farther,",
+      "verse": 11,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "You know, for you were born then,",
-        "and the number of your days is great!"
-      ],
-      "verse": 21
+      "text": "and here shall your proud waves be stayed’?",
+      "verse": 11,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Have you entered the storehouses of the snow,",
-        "or have you seen the storehouses of the hail,"
-      ],
-      "verse": 22
+      "text": "“Have you commanded the morning since your days began,",
+      "verse": 12,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "which I have reserved for the time of trouble,",
-        "for the day of battle and war?"
-      ],
-      "verse": 23
+      "text": "and caused the dawn to know its place,",
+      "verse": 12,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "What is the way to the place where the light is distributed,",
-        "or where the east wind is scattered upon the earth?"
-      ],
-      "verse": 24
+      "text": "that it might take hold of the skirts of the earth,",
+      "verse": 13,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Who has cleft a channel for the torrents of rain",
-        "and a way for the thunderbolt,"
-      ],
-      "verse": 25
+      "text": "and the wicked be shaken out of it?",
+      "verse": 13,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "to bring rain on a land where no man is,",
-        "on the desert in which there is no man,"
-      ],
-      "verse": 26
+      "text": "It is changed like clay under the seal,",
+      "verse": 14,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "to satisfy the waste and desolate land,",
-        "and to make the ground sprout with grass?"
-      ],
-      "verse": 27
+      "text": "and its features stand out like a garment.",
+      "verse": 14,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Has the rain a father,",
-        "or who has begotten the drops of dew?"
-      ],
-      "verse": 28
+      "text": "From the wicked their light is withheld,",
+      "verse": 15,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "From whose womb did the ice come forth,",
-        "and who has given birth to the frost of heaven?"
-      ],
-      "verse": 29
+      "text": "and their uplifted arm is broken.",
+      "verse": 15,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The waters become hard like stone,",
-        "and the face of the deep is frozen."
-      ],
-      "verse": 30
+      "text": "“Have you entered into the springs of the sea,",
+      "verse": 16,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "\"Can you bind the chains of the Pleiades",
-        "or loose the cords of Orion?"
-      ],
-      "verse": 31
+      "text": "or walked in the recesses of the deep?",
+      "verse": 16,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Can you lead forth the Mazzaroth in their season,",
-        "or can you guide the Bear with its children?"
-      ],
-      "verse": 32
+      "text": "Have the gates of death been revealed to you,",
+      "verse": 17,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Do you know the ordinances of the heavens?",
-        "Can you establish their rule on the earth?"
-      ],
-      "verse": 33
+      "text": "or have you seen the gates of deep darkness?",
+      "verse": 17,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Can you lift up your voice to the clouds,",
-        "that a flood of waters may cover you?"
-      ],
-      "verse": 34
+      "text": "Have you comprehended the expanse of the earth?",
+      "verse": 18,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Can you send forth lightnings, that they may go",
-        "and say to you, 'Here we are'?"
-      ],
-      "verse": 35
+      "text": "Declare, if you know all this.",
+      "verse": 18,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Who has put wisdom in the inward parts",
-        "or given understanding to the mind?"
-      ],
-      "verse": 36
+      "text": "“Where is the way to the dwelling of light,",
+      "verse": 19,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "Who can number the clouds by wisdom?",
-        "Or who can tilt the waterskins of the heavens,"
-      ],
-      "verse": 37
+      "text": "and where is the place of darkness,",
+      "verse": 19,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "when the dust runs into a mass",
-        "and the clods stick fast together?"
-      ],
-      "verse": 38
+      "text": "that you may take it to its territory",
+      "verse": 20,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Can you hunt the prey for the lion,",
-        "or satisfy the appetite of the young lions,"
-      ],
-      "verse": 39
+      "text": "and that you may discern the paths to its home?",
+      "verse": 20,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "when they crouch in their dens",
-        "or lie in wait in their thicket?"
-      ],
-      "verse": 40
+      "text": "You know, for you were born then,",
+      "verse": 21,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Who provides for the raven its prey,",
-        "when its young ones cry to God for help,",
-        "and wander about for lack of food?"
-      ],
-      "verse": 41
+      "text": "and the number of your days is great!",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“Have you entered the storehouses of the snow,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or have you seen the storehouses of the hail,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "which I have reserved for the time of trouble,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "for the day of battle and war?",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "What is the way to the place where the light is distributed,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "or where the east wind is scattered upon the earth?",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "“Who has cleft a channel for the torrents of rain",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and a way for the thunderbolt,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "to bring rain on a land where no man is,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "on the desert in which there is no man,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "to satisfy the waste and desolate land,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and to make the ground sprout with grass?",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "“Has the rain a father,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or who has begotten the drops of dew?",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "From whose womb did the ice come forth,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "and who has given birth to the frost of heaven?",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "The waters become hard like stone,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "and the face of the deep is frozen.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "“Can you bind the chains of the Pleiades",
+      "verse": 31,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or loose the cords of Orion?",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Can you lead forth the Mazzaroth in their season,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "or can you guide the Bear with its children?",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Do you know the ordinances of the heavens?",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Can you establish their rule on the earth?",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "“Can you lift up your voice to the clouds,",
+      "verse": 34,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that a flood of waters may cover you?",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "Can you send forth lightnings, that they may go",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "and say to you, ‘Here we are’?",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has put wisdom in the inward parts",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "or given understanding to the mind?",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "Who can number the clouds by wisdom?",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "Or who can tilt the waterskins of the heavens,",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "when the dust runs into a mass",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "and the clods stick fast together?",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "“Can you hunt the prey for the lion,",
+      "verse": 39,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or satisfy the appetite of the young lions,",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "when they crouch in their dens",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "or lie in wait in their thicket?",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "Who provides for the raven its prey,",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "when its young ones cry to God for help,",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "and wander about for lack of food?",
+      "verse": 41,
+      "type": "poetry"
     }
   ]
 }

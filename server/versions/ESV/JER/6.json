@@ -2,280 +2,630 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 6,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Flee for safety, O people of Benjamin,",
-        "from the midst of Jerusalem!",
-        "Blow the trumpet in Tekoa,",
-        "and raise a signal on Beth-haccherem,",
-        "for disaster looms out of the north,",
-        "and great destruction."
-      ],
-      "verse": 1
+      "text": "Impending Disaster for Jerusalem",
+      "type": "heading"
     },
     {
-      "texts": [
-        "The lovely and delicately bred I will destroy,",
-        "the daughter of Zion."
-      ],
-      "verse": 2
+      "text": "Flee for safety, O people of Benjamin,",
+      "verse": 1,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "Shepherds with their flocks shall come against her;",
-        "they shall pitch their tents around her;",
-        "they shall pasture, each in his place."
-      ],
-      "verse": 3
+      "text": "from the midst of Jerusalem!",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Prepare war against her;",
-        "arise, and let us attack at noon!",
-        "Woe to us, for the day declines,",
-        "for the shadows of evening lengthen!"
-      ],
-      "verse": 4
+      "text": "Blow the trumpet in Tekoa,",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Arise, and let us attack by night",
-        "and destroy her palaces!\""
-      ],
-      "verse": 5
+      "text": "and raise a signal on Beth-haccherem,",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For thus says the Lord of hosts:",
-        "\"Cut down her trees;",
-        "cast up a siege mound against Jerusalem.",
-        "This is the city that must be punished;",
-        "there is nothing but oppression within her."
-      ],
-      "verse": 6
+      "text": "for disaster looms out of the north,",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "As a well keeps its water fresh,",
-        "so she keeps fresh her evil;",
-        "violence and destruction are heard within her;",
-        "sickness and wounds are ever before me."
-      ],
-      "verse": 7
+      "text": "and great destruction.",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Be warned, O Jerusalem,",
-        "lest I turn from you in disgust,",
-        "lest I make you a desolation,",
-        "an uninhabited land.\""
-      ],
-      "verse": 8
+      "text": "The lovely and delicately bred I will destroy,",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Thus says the Lord of hosts:",
-        "\"They shall glean thoroughly as a vine",
-        "the remnant of Israel;",
-        "like a grape gatherer pass your hand again",
-        "over its branches.\""
-      ],
-      "verse": 9
+      "text": "the daughter of Zion.",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "To whom shall I speak and give warning,",
-        "that they may hear?",
-        "Behold, their ears are uncircumcised,",
-        "they cannot listen;",
-        "behold, the word of the Lord is to them an object of scorn;",
-        "they take no pleasure in it."
-      ],
-      "verse": 10
+      "text": "Shepherds with their flocks shall come against her;",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Therefore I am full of the wrath of the Lord;",
-        "I am weary of holding it in.",
-        "\"Pour it out upon the children in the street,",
-        "and upon the gatherings of young men, also;",
-        "both husband and wife shall be taken,",
-        "the elderly and the very aged."
-      ],
-      "verse": 11
+      "text": "they shall pitch their tents around her;",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Their houses shall be turned over to others,",
-        "their fields and wives together,",
-        "for I will stretch out my hand",
-        "against the inhabitants of the land,\"",
-        "declares the Lord."
-      ],
-      "verse": 12
+      "text": "they shall pasture, each in his place.",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"For from the least to the greatest of them,",
-        "everyone is greedy for unjust gain;",
-        "and from prophet to priest,",
-        "everyone deals falsely."
-      ],
-      "verse": 13
+      "text": "“Prepare war against her;",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "They have healed the wound of my people lightly,",
-        "saying, 'Peace, peace,'",
-        "when there is no peace."
-      ],
-      "verse": 14
+      "text": "arise, and let us attack at noon!",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Were they ashamed when they committed abomination?",
-        "No, they were not at all ashamed;",
-        "they did not know how to blush.",
-        "Therefore they shall fall among those who fall;",
-        "at the time that I punish them, they shall be overthrown,\"",
-        "says the Lord."
-      ],
-      "verse": 15
+      "text": "Woe to us, for the day declines,",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Thus says the Lord:",
-        "\"Stand by the roads, and look,",
-        "and ask for the ancient paths,",
-        "where the good way is; and walk in it,",
-        "and find rest for your souls.",
-        "But they said, 'We will not walk in it.'"
-      ],
-      "verse": 16
+      "text": "for the shadows of evening lengthen!",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "I set watchmen over you, saying,",
-        "'Pay attention to the sound of the trumpet!'",
-        "But they said, 'We will not pay attention.'"
-      ],
-      "verse": 17
+      "text": "Arise, and let us attack by night",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Therefore hear, O nations,",
-        "and know, O congregation, what will happen to them."
-      ],
-      "verse": 18
+      "text": "and destroy her palaces!”",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Hear, O earth; behold, I am bringing disaster upon this people,",
-        "the fruit of their devices,",
-        "because they have not paid attention to my words;",
-        "and as for my law, they have rejected it."
-      ],
-      "verse": 19
+      "text": "For thus says the  of hosts:",
+      "verse": 6,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "What use to me is frankincense that comes from Sheba,",
-        "or sweet cane from a distant land?",
-        "Your burnt offerings are not acceptable,",
-        "nor your sacrifices pleasing to me."
-      ],
-      "verse": 20
+      "text": "“Cut down her trees;",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Therefore thus says the Lord:",
-        "'Behold, I will lay before this people",
-        "stumbling blocks against which they shall stumble;",
-        "fathers and sons together,",
-        "neighbor and friend shall perish.'\""
-      ],
-      "verse": 21
+      "text": "cast up a siege mound against Jerusalem.",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Thus says the Lord:",
-        "\"Behold, a people is coming from the north country,",
-        "a great nation is stirring from the farthest parts of the earth."
-      ],
-      "verse": 22
+      "text": "This is the city that must be punished;",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "They lay hold on bow and javelin;",
-        "they are cruel and have no mercy;",
-        "the sound of them is like the roaring sea;",
-        "they ride on horses,",
-        "set in array as a man for battle,",
-        "against you, O daughter of Zion!\""
-      ],
-      "verse": 23
+      "text": "there is nothing but oppression within her.",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "We have heard the report of it;",
-        "our hands fall helpless;",
-        "anguish has taken hold of us,",
-        "pain as of a woman in labor."
-      ],
-      "verse": 24
+      "text": "As a well keeps its water fresh,",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Go not out into the field,",
-        "nor walk on the road,",
-        "for the enemy has a sword;",
-        "terror is on every side."
-      ],
-      "verse": 25
+      "text": "so she keeps fresh her evil;",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "O daughter of my people, put on sackcloth,",
-        "and roll in ashes;",
-        "make mourning as for an only son,",
-        "most bitter lamentation,",
-        "for suddenly the destroyer",
-        "will come upon us."
-      ],
-      "verse": 26
+      "text": "violence and destruction are heard within her;",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"I have made you a tester of metals among my people,",
-        "that you may know and test their ways."
-      ],
-      "verse": 27
+      "text": "sickness and wounds are ever before me.",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "They are all stubbornly rebellious,",
-        "going about with slanders;",
-        "they are bronze and iron;",
-        "all of them act corruptly."
-      ],
-      "verse": 28
+      "text": "Be warned, O Jerusalem,",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The bellows blow fiercely;",
-        "the lead is consumed by the fire;",
-        "in vain the refining goes on,",
-        "for the wicked are not removed."
-      ],
-      "verse": 29
+      "text": "lest I turn from you in disgust,",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Rejected silver they are called,",
-        "for the Lord has rejected them.\""
-      ],
-      "verse": 30
+      "text": "lest I make you a desolation,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "an uninhabited land.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the  of hosts:",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“They shall glean thoroughly as a vine",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the remnant of Israel;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "like a grape gatherer pass your hand again",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "over its branches.”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "To whom shall I speak and give warning,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "that they may hear?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, their ears are uncircumcised,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they cannot listen;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "behold, the word of the  is to them an object of scorn;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they take no pleasure in it.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I am full of the wrath of the ;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I am weary of holding it in.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Pour it out upon the children in the street,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and upon the gatherings of young men, also;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "both husband and wife shall be taken,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "the elderly and the very aged.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Their houses shall be turned over to others,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "their fields and wives together,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "for I will stretch out my hand",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "against the inhabitants of the land,”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the .",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“For from the least to the greatest of them,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "everyone is greedy for unjust gain;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and from prophet to priest,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "everyone deals falsely.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They have healed the wound of my people lightly,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "saying, ‘Peace, peace,’",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "when there is no peace.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Were they ashamed when they committed abomination?",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "No, they were not at all ashamed;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "they did not know how to blush.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore they shall fall among those who fall;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "at the time that I punish them, they shall be overthrown,”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "says the .",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the :",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Stand by the roads, and look,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and ask for the ancient paths,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "where the good way is; and walk in it,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and find rest for your souls.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "But they said, ‘We will not walk in it.’",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I set watchmen over you, saying,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Pay attention to the sound of the trumpet!’",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "But they said, ‘We will not pay attention.’",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore hear, O nations,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and know, O congregation, what will happen to them.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear, O earth; behold, I am bringing disaster upon this people,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "the fruit of their devices,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "because they have not paid attention to my words;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and as for my law, they have rejected it.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "What use to me is frankincense that comes from Sheba,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "or sweet cane from a distant land?",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Your burnt offerings are not acceptable,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "nor your sacrifices pleasing to me.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore thus says the :",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Behold, I will lay before this people",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "stumbling blocks against which they shall stumble;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "fathers and sons together,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "neighbor and friend shall perish.’”",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the :",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Behold, a people is coming from the north country,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "a great nation is stirring from the farthest parts of the earth.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "They lay hold on bow and javelin;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "they are cruel and have no mercy;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "the sound of them is like the roaring sea;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "they ride on horses,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "set in array as a man for battle,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "against you, O daughter of Zion!”",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "We have heard the report of it;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "our hands fall helpless;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "anguish has taken hold of us,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "pain as of a woman in labor.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Go not out into the field,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "nor walk on the road,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "for the enemy has a sword;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "terror is on every side.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "O daughter of my people, put on sackcloth,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and roll in ashes;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "make mourning as for an only son,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "most bitter lamentation,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "for suddenly the destroyer",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "will come upon us.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "“I have made you a tester of metals among my people,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that you may know and test their ways.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "They are all stubbornly rebellious,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "going about with slanders;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "they are bronze and iron;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "all of them act corruptly.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "The bellows blow fiercely;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "the lead is consumed by the fire;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "in vain the refining goes on,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "for the wicked are not removed.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Rejected silver they are called,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "for the  has rejected them.”",
+      "verse": 30,
+      "type": "poetry"
     }
   ]
 }

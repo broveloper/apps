@@ -2,107 +2,84 @@
   "book_id": "JAS",
   "book_name": "James",
   "chapter": 4,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you?"
-      ],
-      "verse": 1
+      "text": "Warning Against Worldliness",
+      "type": "heading"
     },
     {
-      "texts": [
-        "You desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. You do not have, because you do not ask."
-      ],
+      "text": "What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you?",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "You desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. You do not have, because you do not ask.",
       "verse": 2
     },
     {
-      "texts": [
-        "You ask and do not receive, because you ask wrongly, to spend it on your passions."
-      ],
+      "text": "You ask and do not receive, because you ask wrongly, to spend it on your passions.",
       "verse": 3
     },
     {
-      "texts": [
-        "You adulterous people! Do you not know that friendship with the world is enmity with God? Therefore whoever wishes to be a friend of the world makes himself an enemy of God."
-      ],
+      "text": "You adulterous people! Do you not know that friendship with the world is enmity with God? Therefore whoever wishes to be a friend of the world makes himself an enemy of God.",
       "verse": 4
     },
     {
-      "texts": [
-        "Or do you suppose it is to no purpose that the Scripture says, \"He yearns jealously over the spirit that he has made to dwell in us\"?"
-      ],
+      "text": "Or do you suppose it is to no purpose that the Scripture says, “He yearns jealously over the spirit that he has made to dwell in us”?",
       "verse": 5
     },
     {
-      "texts": [
-        "But he gives more grace. Therefore it says, \"God opposes the proud, but gives grace to the humble.\""
-      ],
+      "text": "But he gives more grace. Therefore it says, “God opposes the proud but gives grace to the humble.”",
       "verse": 6
     },
     {
-      "texts": [
-        "Submit yourselves therefore to God. Resist the devil, and he will flee from you."
-      ],
+      "text": "Submit yourselves therefore to God. Resist the devil, and he will flee from you.",
       "verse": 7
     },
     {
-      "texts": [
-        "Draw near to God, and he will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded."
-      ],
+      "text": "Draw near to God, and he will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded.",
       "verse": 8
     },
     {
-      "texts": [
-        "Be wretched and mourn and weep. Let your laughter be turned to mourning and your joy to gloom."
-      ],
+      "text": "Be wretched and mourn and weep. Let your laughter be turned to mourning and your joy to gloom.",
       "verse": 9
     },
     {
-      "texts": [
-        "Humble yourselves before the Lord, and he will exalt you."
-      ],
+      "text": "Humble yourselves before the Lord, and he will exalt you.",
       "verse": 10
     },
     {
-      "texts": [
-        "Do not speak evil against one another, brothers. The one who speaks against a brother or judges his brother, speaks evil against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge."
-      ],
-      "verse": 11
+      "text": "Do not speak evil against one another, brothers. The one who speaks against a brother or judges his brother, speaks evil against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge.",
+      "verse": 11,
+      "type": "newline"
     },
     {
-      "texts": [
-        "There is only one lawgiver and judge, he who is able to save and to destroy. But who are you to judge your neighbor?"
-      ],
+      "text": "There is only one lawgiver and judge, he who is able to save and to destroy. But who are you to judge your neighbor?",
       "verse": 12
     },
     {
-      "texts": [
-        "Come now, you who say, \"Today or tomorrow we will go into such and such a town and spend a year there and trade and make a profit\"—"
-      ],
-      "verse": 13
+      "text": "Boasting About Tomorrow",
+      "type": "heading"
     },
     {
-      "texts": [
-        "yet you do not know what tomorrow will bring. What is your life? For you are a mist that appears for a little time and then vanishes."
-      ],
+      "text": "Come now, you who say, “Today or tomorrow we will go into such and such a town and spend a year there and trade and make a profit”—",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "yet you do not know what tomorrow will bring. What is your life? For you are a mist that appears for a little time and then vanishes.",
       "verse": 14
     },
     {
-      "texts": [
-        "Instead you ought to say, \"If the Lord wills, we will live and do this or that.\""
-      ],
+      "text": "Instead you ought to say, “If the Lord wills, we will live and do this or that.”",
       "verse": 15
     },
     {
-      "texts": [
-        "As it is, you boast in your arrogance. All such boasting is evil."
-      ],
+      "text": "As it is, you boast in your arrogance. All such boasting is evil.",
       "verse": 16
     },
     {
-      "texts": [
-        "So whoever knows the right thing to do and fails to do it, for him it is sin."
-      ],
+      "text": "So whoever knows the right thing to do and fails to do it, for him it is sin.",
       "verse": 17
     }
   ]

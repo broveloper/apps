@@ -2,311 +2,231 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 3,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "These are the generations of Aaron and Moses at the time when the Lord spoke with Moses on Mount Sinai."
-      ],
-      "verse": 1
+      "text": "The Sons of Aaron",
+      "type": "heading"
     },
     {
-      "texts": [
-        "These are the names of the sons of Aaron: Nadab the firstborn, and Abihu, Eleazar, and Ithamar."
-      ],
+      "text": "These are the generations of Aaron and Moses at the time when the  spoke with Moses on Mount Sinai.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "These are the names of the sons of Aaron: Nadab the firstborn, and Abihu, Eleazar, and Ithamar.",
       "verse": 2
     },
     {
-      "texts": [
-        "These are the names of the sons of Aaron, the anointed priests, whom he ordained to serve as priests."
-      ],
+      "text": "These are the names of the sons of Aaron, the anointed priests, whom he ordained to serve as priests.",
       "verse": 3
     },
     {
-      "texts": [
-        "But Nadab and Abihu died before the Lord when they offered unauthorized fire before the Lord in the wilderness of Sinai, and they had no children. So Eleazar and Ithamar served as priests in the lifetime of Aaron their father."
-      ],
+      "text": "But Nadab and Abihu died before the  when they offered unauthorized fire before the  in the wilderness of Sinai, and they had no children. So Eleazar and Ithamar served as priests in the lifetime of Aaron their father.",
       "verse": 4
     },
     {
-      "texts": [
-        "And the Lord spoke to Moses, saying,"
-      ],
-      "verse": 5
+      "text": "Duties of the Levites",
+      "type": "heading"
     },
     {
-      "texts": [
-        "\"Bring the tribe of Levi near, and set them before Aaron the priest, that they may minister to him."
-      ],
+      "text": "And the  spoke to Moses, saying,",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "“Bring the tribe of Levi near, and set them before Aaron the priest, that they may minister to him.",
       "verse": 6
     },
     {
-      "texts": [
-        "They shall keep guard over him and over the whole congregation before the tent of meeting, as they minister at the tabernacle."
-      ],
+      "text": "They shall keep guard over him and over the whole congregation before the tent of meeting, as they minister at the tabernacle.",
       "verse": 7
     },
     {
-      "texts": [
-        "They shall guard all the furnishings of the tent of meeting, and keep guard over the people of Israel as they minister at the tabernacle."
-      ],
+      "text": "They shall guard all the furnishings of the tent of meeting, and keep guard over the people of Israel as they minister at the tabernacle.",
       "verse": 8
     },
     {
-      "texts": [
-        "And you shall give the Levites to Aaron and his sons; they are wholly given to him from among the people of Israel."
-      ],
+      "text": "And you shall give the Levites to Aaron and his sons; they are wholly given to him from among the people of Israel.",
       "verse": 9
     },
     {
-      "texts": [
-        "And you shall appoint Aaron and his sons, and they shall guard their priesthood. But if any outsider comes near, he shall be put to death.\""
-      ],
+      "text": "And you shall appoint Aaron and his sons, and they shall guard their priesthood. But if any outsider comes near, he shall be put to death.”",
       "verse": 10
     },
     {
-      "texts": [
-        "And the Lord spoke to Moses, saying,"
-      ],
-      "verse": 11
+      "text": "And the  spoke to Moses, saying,",
+      "verse": 11,
+      "type": "newline"
     },
     {
-      "texts": [
-        "\"Behold, I have taken the Levites from among the people of Israel instead of every firstborn who opens the womb among the people of Israel. The Levites shall be mine,"
-      ],
+      "text": "“Behold, I have taken the Levites from among the people of Israel instead of every firstborn who opens the womb among the people of Israel. The Levites shall be mine,",
       "verse": 12
     },
     {
-      "texts": [
-        "for all the firstborn are mine. On the day that I struck down all the firstborn in the land of Egypt, I consecrated for my own all the firstborn in Israel, both of man and of beast. They shall be mine: I am the Lord.\""
-      ],
+      "text": "for all the firstborn are mine. On the day that I struck down all the firstborn in the land of Egypt, I consecrated for my own all the firstborn in Israel, both of man and of beast. They shall be mine: I am the .”",
       "verse": 13
     },
     {
-      "texts": [
-        "And the Lord spoke to Moses in the wilderness of Sinai, saying,"
-      ],
-      "verse": 14
+      "text": "And the  spoke to Moses in the wilderness of Sinai, saying,",
+      "verse": 14,
+      "type": "newline"
     },
     {
-      "texts": [
-        "\"List the sons of Levi, by fathers' houses and by clans; every male from a month old and upward you shall list.\""
-      ],
+      "text": "“List the sons of Levi, by fathers' houses and by clans; every male from a month old and upward you shall list.”",
       "verse": 15
     },
     {
-      "texts": [
-        "So Moses listed them according to the word of the Lord, as he was commanded."
-      ],
+      "text": "So Moses listed them according to the word of the , as he was commanded.",
       "verse": 16
     },
     {
-      "texts": [
-        "And these were the sons of Levi by their names: Gershon and Kohath and Merari."
-      ],
+      "text": "And these were the sons of Levi by their names: Gershon and Kohath and Merari.",
       "verse": 17
     },
     {
-      "texts": [
-        "And these are the names of the sons of Gershon by their clans: Libni and Shimei."
-      ],
+      "text": "And these are the names of the sons of Gershon by their clans: Libni and Shimei.",
       "verse": 18
     },
     {
-      "texts": [
-        "And the sons of Kohath by their clans: Amram, Izhar, Hebron, and Uzziel."
-      ],
+      "text": "And the sons of Kohath by their clans: Amram, Izhar, Hebron, and Uzziel.",
       "verse": 19
     },
     {
-      "texts": [
-        "And the sons of Merari by their clans: Mahli and Mushi. These are the clans of the Levites, by their fathers' houses."
-      ],
+      "text": "And the sons of Merari by their clans: Mahli and Mushi. These are the clans of the Levites, by their fathers' houses.",
       "verse": 20
     },
     {
-      "texts": [
-        "To Gershon belonged the clan of the Libnites and the clan of the Shimeites; these were the clans of the Gershonites."
-      ],
-      "verse": 21
+      "text": "To Gershon belonged the clan of the Libnites and the clan of the Shimeites; these were the clans of the Gershonites.",
+      "verse": 21,
+      "type": "newline"
     },
     {
-      "texts": [
-        "Their listing according to the number of all the males from a month old and upward was 7,500."
-      ],
+      "text": "Their listing according to the number of all the males from a month old and upward was 7,500.",
       "verse": 22
     },
     {
-      "texts": [
-        "The clans of the Gershonites were to camp behind the tabernacle on the west,"
-      ],
+      "text": "The clans of the Gershonites were to camp behind the tabernacle on the west,",
       "verse": 23
     },
     {
-      "texts": [
-        "with Eliasaph, the son of Lael as chief of the fathers' house of the Gershonites."
-      ],
+      "text": "with Eliasaph, the son of Lael as chief of the fathers' house of the Gershonites.",
       "verse": 24
     },
     {
-      "texts": [
-        "And the guard duty of the sons of Gershon in the tent of meeting involved the tabernacle, the tent with its covering, the screen for the entrance of the tent of meeting,"
-      ],
+      "text": "And the guard duty of the sons of Gershon in the tent of meeting involved the tabernacle, the tent with its covering, the screen for the entrance of the tent of meeting,",
       "verse": 25
     },
     {
-      "texts": [
-        "the hangings of the court, the screen for the door of the court that is around the tabernacle and the altar, and its cords—all the service connected with these."
-      ],
+      "text": "the hangings of the court, the screen for the door of the court that is around the tabernacle and the altar, and its cords—all the service connected with these.",
       "verse": 26
     },
     {
-      "texts": [
-        "To Kohath belonged the clan of the Amramites and the clan of the Izharites and the clan of the Hebronites and the clan of the Uzzielites; these are the clans of the Kohathites."
-      ],
-      "verse": 27
+      "text": "To Kohath belonged the clan of the Amramites and the clan of the Izharites and the clan of the Hebronites and the clan of the Uzzielites; these are the clans of the Kohathites.",
+      "verse": 27,
+      "type": "newline"
     },
     {
-      "texts": [
-        "According to the number of all the males, from a month old and upward, there were 8,600, keeping guard over the sanctuary."
-      ],
+      "text": "According to the number of all the males, from a month old and upward, there were 8,600, keeping guard over the sanctuary.",
       "verse": 28
     },
     {
-      "texts": [
-        "The clans of the sons of Kohath were to camp on the south side of the tabernacle,"
-      ],
+      "text": "The clans of the sons of Kohath were to camp on the south side of the tabernacle,",
       "verse": 29
     },
     {
-      "texts": [
-        "with Elizaphan the son of Uzziel as chief of the fathers' house of the clans of the Kohathites."
-      ],
+      "text": "with Elizaphan the son of Uzziel as chief of the fathers' house of the clans of the Kohathites.",
       "verse": 30
     },
     {
-      "texts": [
-        "And their guard duty involved the ark, the table, the lampstand, the altars, the vessels of the sanctuary with which the priests minister, and the screen; all the service connected with these."
-      ],
+      "text": "And their guard duty involved the ark, the table, the lampstand, the altars, the vessels of the sanctuary with which the priests minister, and the screen; all the service connected with these.",
       "verse": 31
     },
     {
-      "texts": [
-        "And Eleazar the son of Aaron the priest was to be chief over the chiefs of the Levites, and to have oversight of those who kept guard over the sanctuary."
-      ],
+      "text": "And Eleazar the son of Aaron the priest was to be chief over the chiefs of the Levites, and to have oversight of those who kept guard over the sanctuary.",
       "verse": 32
     },
     {
-      "texts": [
-        "To Merari belonged the clan of the Mahlites and the clan of the Mushites: these are the clans of Merari."
-      ],
-      "verse": 33
+      "text": "To Merari belonged the clan of the Mahlites and the clan of the Mushites: these are the clans of Merari.",
+      "verse": 33,
+      "type": "newline"
     },
     {
-      "texts": [
-        "Their listing according to the number of all the males from a month old and upward was 6,200."
-      ],
+      "text": "Their listing according to the number of all the males from a month old and upward was 6,200.",
       "verse": 34
     },
     {
-      "texts": [
-        "And the chief of the fathers' house of the clans of Merari was Zuriel the son of Abihail. They were to camp on the north side of the tabernacle."
-      ],
+      "text": "And the chief of the fathers' house of the clans of Merari was Zuriel the son of Abihail. They were to camp on the north side of the tabernacle.",
       "verse": 35
     },
     {
-      "texts": [
-        "And the appointed guard duty of the sons of Merari involved the frames of the tabernacle, the bars, the pillars, the bases, and all their accessories; all the service connected with these;"
-      ],
+      "text": "And the appointed guard duty of the sons of Merari involved the frames of the tabernacle, the bars, the pillars, the bases, and all their accessories; all the service connected with these;",
       "verse": 36
     },
     {
-      "texts": [
-        "also the pillars around the court, with their bases and pegs and cords."
-      ],
+      "text": "also the pillars around the court, with their bases and pegs and cords.",
       "verse": 37
     },
     {
-      "texts": [
-        "Those who were to camp before the tabernacle on the east, before the tent of meeting toward the sunrise, were Moses and Aaron and his sons, guarding the sanctuary itself, to protect the people of Israel. And any outsider who came near was to be put to death."
-      ],
-      "verse": 38
+      "text": "Those who were to camp before the tabernacle on the east, before the tent of meeting toward the sunrise, were Moses and Aaron and his sons, guarding the sanctuary itself, to protect the people of Israel. And any outsider who came near was to be put to death.",
+      "verse": 38,
+      "type": "newline"
     },
     {
-      "texts": [
-        "All those listed among the Levites, whom Moses and Aaron listed at the commandment of the Lord, by clans, all the males from a month old and upward, were 22,000."
-      ],
+      "text": "All those listed among the Levites, whom Moses and Aaron listed at the commandment of the , by clans, all the males from a month old and upward, were 22,000.",
       "verse": 39
     },
     {
-      "texts": [
-        "And the Lord said to Moses, \"List all the firstborn males of the people of Israel, from a month old and upward, taking the number of their names."
-      ],
-      "verse": 40
+      "text": "Redemption of the Firstborn",
+      "type": "heading"
     },
     {
-      "texts": [
-        "And you shall take the Levites for me—I am the Lord—instead of all the firstborn among the people of Israel, and the cattle of the Levites instead of all the firstborn among the cattle of the people of Israel.\""
-      ],
+      "text": "And the  said to Moses, “List all the firstborn males of the people of Israel, from a month old and upward, taking the number of their names.",
+      "verse": 40,
+      "type": "newline"
+    },
+    {
+      "text": "And you shall take the Levites for me—I am the —instead of all the firstborn among the people of Israel, and the cattle of the Levites instead of all the firstborn among the cattle of the people of Israel.”",
       "verse": 41
     },
     {
-      "texts": [
-        "So Moses listed all the firstborn among the people of Israel, as the Lord commanded him."
-      ],
+      "text": "So Moses listed all the firstborn among the people of Israel, as the  commanded him.",
       "verse": 42
     },
     {
-      "texts": [
-        "And all the firstborn males, according to the number of names, from a month old and upward as listed were 22,273."
-      ],
+      "text": "And all the firstborn males, according to the number of names, from a month old and upward as listed were 22,273.",
       "verse": 43
     },
     {
-      "texts": [
-        "And the Lord spoke to Moses, saying,"
-      ],
-      "verse": 44
+      "text": "And the  spoke to Moses, saying,",
+      "verse": 44,
+      "type": "newline"
     },
     {
-      "texts": [
-        "\"Take the Levites instead of all the firstborn among the people of Israel, and the cattle of the Levites instead of their cattle. The Levites shall be mine: I am the Lord."
-      ],
+      "text": "“Take the Levites instead of all the firstborn among the people of Israel, and the cattle of the Levites instead of their cattle. The Levites shall be mine: I am the .",
       "verse": 45
     },
     {
-      "texts": [
-        "And as the redemption price for the 273 of the firstborn of the people of Israel, over and above the number of the male Levites,"
-      ],
+      "text": "And as the redemption price for the 273 of the firstborn of the people of Israel, over and above the number of the male Levites,",
       "verse": 46
     },
     {
-      "texts": [
-        "you shall take five shekels per head; you shall take them according to the shekel of the sanctuary (the shekel of twenty gerahs),"
-      ],
+      "text": "you shall take five shekels per head; you shall take them according to the shekel of the sanctuary (the shekel of twenty gerahs),",
       "verse": 47
     },
     {
-      "texts": [
-        "and give the money to Aaron and his sons as the redemption price for those who are over.\""
-      ],
+      "text": "and give the money to Aaron and his sons as the redemption price for those who are over.”",
       "verse": 48
     },
     {
-      "texts": [
-        "So Moses took the redemption money from those who were over and above those redeemed by the Levites."
-      ],
+      "text": "So Moses took the redemption money from those who were over and above those redeemed by the Levites.",
       "verse": 49
     },
     {
-      "texts": [
-        "From the firstborn of the people of Israel he took the money, 1,365 shekels, by the shekel of the sanctuary."
-      ],
+      "text": "From the firstborn of the people of Israel he took the money, 1,365 shekels, by the shekel of the sanctuary.",
       "verse": 50
     },
     {
-      "texts": [
-        "And Moses gave the redemption money to Aaron and his sons, according to the word of the Lord, as the Lord commanded Moses."
-      ],
+      "text": "And Moses gave the redemption money to Aaron and his sons, according to the word of the , as the  commanded Moses.",
       "verse": 51
     }
   ]

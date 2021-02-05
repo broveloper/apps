@@ -2,216 +2,310 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 6,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Then Job answered and said:"
-      ],
-      "verse": 1
+      "text": "Job Replies: My Complaint Is Just",
+      "type": "heading"
     },
     {
-      "texts": [
-        "\"Oh that my vexation were weighed,",
-        "and all my calamity laid in the balances!"
-      ],
-      "verse": 2
+      "text": "Then Job answered and said:",
+      "verse": 1,
+      "type": "newline"
     },
     {
-      "texts": [
-        "For then it would be heavier than the sand of the sea;",
-        "therefore my words have been rash."
-      ],
-      "verse": 3
+      "text": "“Oh that my vexation were weighed,",
+      "verse": 2,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "For the arrows of the Almighty are in me;",
-        "my spirit drinks their poison;",
-        "the terrors of God are arrayed against me."
-      ],
-      "verse": 4
+      "text": "and all my calamity laid in the balances!",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Does the wild donkey bray when he has grass,",
-        "or the ox low over his fodder?"
-      ],
-      "verse": 5
+      "text": "For then it would be heavier than the sand of the sea;",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Can that which is tasteless be eaten without salt,",
-        "or is there any taste in the juice of the mallow?"
-      ],
-      "verse": 6
+      "text": "therefore my words have been rash.",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "My appetite refuses to touch them;",
-        "they are as food that is loathsome to me."
-      ],
-      "verse": 7
+      "text": "For the arrows of the Almighty are in me;",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Oh that I might have my request,",
-        "and that God would fulfill my hope,"
-      ],
-      "verse": 8
+      "text": "my spirit drinks their poison;",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "that it would please God to crush me,",
-        "that he would let loose his hand and cut me off!"
-      ],
-      "verse": 9
+      "text": "the terrors of God are arrayed against me.",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "This would be my comfort;",
-        "I would even exult in pain unsparing,",
-        "for I have not denied the words of the Holy One."
-      ],
-      "verse": 10
+      "text": "Does the wild donkey bray when he has grass,",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "What is my strength, that I should wait?",
-        "And what is my end, that I should be patient?"
-      ],
-      "verse": 11
+      "text": "or the ox low over his fodder?",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Is my strength the strength of stones, or is my flesh bronze?"
-      ],
-      "verse": 12
+      "text": "Can that which is tasteless be eaten without salt,",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Have I any help in me,",
-        "when resource is driven from me?"
-      ],
-      "verse": 13
+      "text": "or is there any taste in the juice of the mallow?",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"He who withholds kindness from a friend",
-        "forsakes the fear of the Almighty."
-      ],
-      "verse": 14
+      "text": "My appetite refuses to touch them;",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "My brothers are treacherous as a torrent-bed,",
-        "as torrential streams that pass away,"
-      ],
-      "verse": 15
+      "text": "they are as food that is loathsome to me.",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "which are dark with ice,",
-        "and where the snow hides itself."
-      ],
-      "verse": 16
+      "text": "“Oh that I might have my request,",
+      "verse": 8,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "When they melt, they disappear;",
-        "when it is hot, they vanish from their place."
-      ],
-      "verse": 17
+      "text": "and that God would fulfill my hope,",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The caravans turn aside from their course;",
-        "they go up into the waste and perish."
-      ],
-      "verse": 18
+      "text": "that it would please God to crush me,",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The caravans of Tema look,",
-        "the travelers of Sheba hope."
-      ],
-      "verse": 19
+      "text": "that he would let loose his hand and cut me off!",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "They are ashamed because they were confident;",
-        "they come there and are disappointed."
-      ],
-      "verse": 20
+      "text": "This would be my comfort;",
+      "verse": 10,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For you have now become nothing;",
-        "you see my calamity and are afraid."
-      ],
-      "verse": 21
+      "text": "I would even exult in pain unsparing,",
+      "verse": 10,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Have I said, 'Make me a gift'?",
-        "Or, 'From your wealth offer a bribe for me'?"
-      ],
-      "verse": 22
+      "text": "for I have not denied the words of the Holy One.",
+      "verse": 10,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Or, 'Deliver me from the adversary's hand'?",
-        "Or, 'Redeem me from the hand of the ruthless'?"
-      ],
-      "verse": 23
+      "text": "What is my strength, that I should wait?",
+      "verse": 11,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Teach me, and I will be silent;",
-        "make me understand how I have gone astray."
-      ],
-      "verse": 24
+      "text": "And what is my end, that I should be patient?",
+      "verse": 11,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "How forceful are upright words!",
-        "But what does reproof from you reprove?"
-      ],
-      "verse": 25
+      "text": "Is my strength the strength of stones, or is my flesh bronze?",
+      "verse": 12,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Do you think that you can reprove words,",
-        "when the speech of a despairing man is wind?"
-      ],
-      "verse": 26
+      "text": "Have I any help in me,",
+      "verse": 13,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "You would even cast lots over the fatherless,",
-        "and bargain over your friend."
-      ],
-      "verse": 27
+      "text": "when resource is driven from me?",
+      "verse": 13,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"But now, be pleased to look at me,",
-        "for I will not lie to your face."
-      ],
-      "verse": 28
+      "text": "“He who withholds kindness from a friend",
+      "verse": 14,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "Please turn; let no injustice be done.",
-        "Turn now; my vindication is at stake."
-      ],
-      "verse": 29
+      "text": "forsakes the fear of the Almighty.",
+      "verse": 14,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Is there any injustice on my tongue?",
-        "Cannot my palate discern the cause of calamity?"
-      ],
-      "verse": 30
+      "text": "My brothers are treacherous as a torrent-bed,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "as torrential streams that pass away,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "which are dark with ice,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and where the snow hides itself.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "When they melt, they disappear;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "when it is hot, they vanish from their place.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The caravans turn aside from their course;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "they go up into the waste and perish.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The caravans of Tema look,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "the travelers of Sheba hope.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "They are ashamed because they were confident;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "they come there and are disappointed.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For you have now become nothing;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "you see my calamity and are afraid.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Have I said, ‘Make me a gift’?",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Or, ‘From your wealth offer a bribe for me’?",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Or, ‘Deliver me from the adversary's hand’?",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Or, ‘Redeem me from the hand of the ruthless’?",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "“Teach me, and I will be silent;",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "make me understand how I have gone astray.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "How forceful are upright words!",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "But what does reproof from you reprove?",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Do you think that you can reprove words,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "when the speech of a despairing man is wind?",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "You would even cast lots over the fatherless,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and bargain over your friend.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "“But now, be pleased to look at me,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for I will not lie to your face.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Please turn; let no injustice be done.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Turn now; my vindication is at stake.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Is there any injustice on my tongue?",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Cannot my palate discern the cause of calamity?",
+      "verse": 30,
+      "type": "poetry"
     }
   ]
 }

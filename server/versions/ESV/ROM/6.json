@@ -2,143 +2,110 @@
   "book_id": "ROM",
   "book_name": "Romans",
   "chapter": 6,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "What shall we say then? Are we to continue in sin that grace may abound?"
-      ],
-      "verse": 1
+      "text": "Dead to Sin, Alive to God",
+      "type": "heading"
     },
     {
-      "texts": [
-        "By no means! How can we who died to sin still live in it?"
-      ],
+      "text": "What shall we say then? Are we to continue in sin that grace may abound?",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "By no means! How can we who died to sin still live in it?",
       "verse": 2
     },
     {
-      "texts": [
-        "Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death?"
-      ],
+      "text": "Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death?",
       "verse": 3
     },
     {
-      "texts": [
-        "We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life."
-      ],
+      "text": "We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life.",
       "verse": 4
     },
     {
-      "texts": [
-        "For if we have been united with him in a death like his, we shall certainly be united with him in a resurrection like his."
-      ],
-      "verse": 5
+      "text": "For if we have been united with him in a death like his, we shall certainly be united with him in a resurrection like his.",
+      "verse": 5,
+      "type": "newline"
     },
     {
-      "texts": [
-        "We know that our old self was crucified with him in order that the body of sin might be brought to nothing, so that we would no longer be enslaved to sin."
-      ],
+      "text": "We know that our old self was crucified with him in order that the body of sin might be brought to nothing, so that we would no longer be enslaved to sin.",
       "verse": 6
     },
     {
-      "texts": [
-        "For one who has died has been set free from sin."
-      ],
+      "text": "For one who has died has been set free from sin.",
       "verse": 7
     },
     {
-      "texts": [
-        "Now if we have died with Christ, we believe that we will also live with him."
-      ],
+      "text": "Now if we have died with Christ, we believe that we will also live with him.",
       "verse": 8
     },
     {
-      "texts": [
-        "We know that Christ, being raised from the dead, will never die again; death no longer has dominion over him."
-      ],
+      "text": "We know that Christ, being raised from the dead, will never die again; death no longer has dominion over him.",
       "verse": 9
     },
     {
-      "texts": [
-        "For the death he died he died to sin, once for all, but the life he lives he lives to God."
-      ],
+      "text": "For the death he died he died to sin, once for all, but the life he lives he lives to God.",
       "verse": 10
     },
     {
-      "texts": [
-        "So you also must consider yourselves dead to sin and alive to God in Christ Jesus."
-      ],
+      "text": "So you also must consider yourselves dead to sin and alive to God in Christ Jesus.",
       "verse": 11
     },
     {
-      "texts": [
-        "Let not sin therefore reign in your mortal body, to make you obey its passions."
-      ],
-      "verse": 12
+      "text": "Let not sin therefore reign in your mortal body, to make you obey its passions.",
+      "verse": 12,
+      "type": "newline"
     },
     {
-      "texts": [
-        "Do not present your members to sin as instruments for unrighteousness, but present yourselves to God as those who have been brought from death to life, and your members to God as instruments for righteousness."
-      ],
+      "text": "Do not present your members to sin as instruments for unrighteousness, but present yourselves to God as those who have been brought from death to life, and your members to God as instruments for righteousness.",
       "verse": 13
     },
     {
-      "texts": [
-        "For sin will have no dominion over you, since you are not under law but under grace."
-      ],
+      "text": "For sin will have no dominion over you, since you are not under law but under grace.",
       "verse": 14
     },
     {
-      "texts": [
-        "What then? Are we to sin because we are not under law but under grace? By no means!"
-      ],
-      "verse": 15
+      "text": "Slaves to Righteousness",
+      "type": "heading"
     },
     {
-      "texts": [
-        "Do you not know that if you present yourselves to anyone as obedient slaves, you are slaves of the one whom you obey, either of sin, which leads to death, or of obedience, which leads to righteousness?"
-      ],
+      "text": "What then? Are we to sin because we are not under law but under grace? By no means!",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "Do you not know that if you present yourselves to anyone as obedient slaves, you are slaves of the one whom you obey, either of sin, which leads to death, or of obedience, which leads to righteousness?",
       "verse": 16
     },
     {
-      "texts": [
-        "But thanks be to God, that you who were once slaves of sin have become obedient from the heart to the standard of teaching to which you were committed,"
-      ],
+      "text": "But thanks be to God, that you who were once slaves of sin have become obedient from the heart to the standard of teaching to which you were committed,",
       "verse": 17
     },
     {
-      "texts": [
-        "and, having been set free from sin, have become slaves of righteousness."
-      ],
+      "text": "and, having been set free from sin, have become slaves of righteousness.",
       "verse": 18
     },
     {
-      "texts": [
-        "I am speaking in human terms, because of your natural limitations. For just as you once presented your members as slaves to impurity and to lawlessness leading to more lawlessness, so now present your members as slaves to righteousness leading to sanctification."
-      ],
+      "text": "I am speaking in human terms, because of your natural limitations. For just as you once presented your members as slaves to impurity and to lawlessness leading to more lawlessness, so now present your members as slaves to righteousness leading to sanctification.",
       "verse": 19
     },
     {
-      "texts": [
-        "For when you were slaves of sin, you were free in regard to righteousness."
-      ],
-      "verse": 20
+      "text": "For when you were slaves of sin, you were free in regard to righteousness.",
+      "verse": 20,
+      "type": "newline"
     },
     {
-      "texts": [
-        "But what fruit were you getting at that time from the things of which you are now ashamed? For the end of those things is death."
-      ],
+      "text": "But what fruit were you getting at that time from the things of which you are now ashamed? For the end of those things is death.",
       "verse": 21
     },
     {
-      "texts": [
-        "But now that you have been set free from sin and have become slaves of God, the fruit you get leads to sanctification and its end, eternal life."
-      ],
+      "text": "But now that you have been set free from sin and have become slaves of God, the fruit you get leads to sanctification and its end, eternal life.",
       "verse": 22
     },
     {
-      "texts": [
-        "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord."
-      ],
+      "text": "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.",
       "verse": 23
     }
   ]

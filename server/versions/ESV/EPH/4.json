@@ -2,199 +2,155 @@
   "book_id": "EPH",
   "book_name": "Ephesians",
   "chapter": 4,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "I therefore, a prisoner for the Lord, urge you to walk in a manner worthy of the calling to which you have been called,"
-      ],
-      "verse": 1
+      "text": "Unity in the Body of Christ",
+      "type": "heading"
     },
     {
-      "texts": [
-        "with all humility and gentleness, with patience, bearing with one another in love,"
-      ],
+      "text": "I therefore, a prisoner for the Lord, urge you to walk in a manner worthy of the calling to which you have been called,",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "with all humility and gentleness, with patience, bearing with one another in love,",
       "verse": 2
     },
     {
-      "texts": [
-        "eager to maintain the unity of the Spirit in the bond of peace."
-      ],
+      "text": "eager to maintain the unity of the Spirit in the bond of peace.",
       "verse": 3
     },
     {
-      "texts": [
-        "There is one body and one Spirit—just as you were called to the one hope that belongs to your call—"
-      ],
+      "text": "There is one body and one Spirit—just as you were called to the one hope that belongs to your call—",
       "verse": 4
     },
     {
-      "texts": [
-        "one Lord, one faith, one baptism,"
-      ],
+      "text": "one Lord, one faith, one baptism,",
       "verse": 5
     },
     {
-      "texts": [
-        "one God and Father of all, who is over all and through all and in all."
-      ],
+      "text": "one God and Father of all, who is over all and through all and in all.",
       "verse": 6
     },
     {
-      "texts": [
-        "But grace was given to each one of us according to the measure of Christ's gift."
-      ],
+      "text": "But grace was given to each one of us according to the measure of Christ's gift.",
       "verse": 7
     },
     {
-      "texts": [
-        "Therefore it says,",
-        "\"When he ascended on high he led a host of captives,",
-        "and he gave gifts to men.\""
-      ],
+      "text": "Therefore it says,",
       "verse": 8
     },
     {
-      "texts": [
-        "(In saying, \"He ascended,\" what does it mean but that he had also descended into the lower regions, the earth?"
-      ],
-      "verse": 9
+      "text": "“When he ascended on high he led a host of captives,",
+      "verse": 8,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "He who descended is the one who also ascended far above all the heavens, that he might fill all things.)"
-      ],
+      "text": "and he gave gifts to men.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "(In saying, “He ascended,” what does it mean but that he had also descended into the lower regions, the earth?",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "He who descended is the one who also ascended far above all the heavens, that he might fill all things.)",
       "verse": 10
     },
     {
-      "texts": [
-        "And he gave the apostles, the prophets, the evangelists, the shepherds and teachers,"
-      ],
+      "text": "And he gave the apostles, the prophets, the evangelists, the shepherds and teachers,",
       "verse": 11
     },
     {
-      "texts": [
-        "to equip the saints for the work of ministry, for building up the body of Christ,"
-      ],
+      "text": "to equip the saints for the work of ministry, for building up the body of Christ,",
       "verse": 12
     },
     {
-      "texts": [
-        "until we all attain to the unity of the faith and of the knowledge of the Son of God, to mature manhood, to the measure of the stature of the fullness of Christ,"
-      ],
+      "text": "until we all attain to the unity of the faith and of the knowledge of the Son of God, to mature manhood, to the measure of the stature of the fullness of Christ,",
       "verse": 13
     },
     {
-      "texts": [
-        "so that we may no longer be children, tossed to and fro by the waves and carried about by every wind of doctrine, by human cunning, by craftiness in deceitful schemes."
-      ],
+      "text": "so that we may no longer be children, tossed to and fro by the waves and carried about by every wind of doctrine, by human cunning, by craftiness in deceitful schemes.",
       "verse": 14
     },
     {
-      "texts": [
-        "Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ,"
-      ],
+      "text": "Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ,",
       "verse": 15
     },
     {
-      "texts": [
-        "from whom the whole body, joined and held together by every joint with which it is equipped, when each part is working properly, makes the body grow so that it builds itself up in love."
-      ],
+      "text": "from whom the whole body, joined and held together by every joint with which it is equipped, when each part is working properly, makes the body grow so that it builds itself up in love.",
       "verse": 16
     },
     {
-      "texts": [
-        "Now this I say and testify in the Lord, that you must no longer walk as the Gentiles do, in the futility of their minds."
-      ],
-      "verse": 17
+      "text": "The New Life",
+      "type": "heading"
     },
     {
-      "texts": [
-        "They are darkened in their understanding, alienated from the life of God because of the ignorance that is in them, due to their hardness of heart."
-      ],
+      "text": "Now this I say and testify in the Lord, that you must no longer walk as the Gentiles do, in the futility of their minds.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "They are darkened in their understanding, alienated from the life of God because of the ignorance that is in them, due to their hardness of heart.",
       "verse": 18
     },
     {
-      "texts": [
-        "They have become callous and have given themselves up to sensuality, greedy to practice every kind of impurity."
-      ],
+      "text": "They have become callous and have given themselves up to sensuality, greedy to practice every kind of impurity.",
       "verse": 19
     },
     {
-      "texts": [
-        "But that is not the way you learned Christ!—"
-      ],
+      "text": "But that is not the way you learned Christ!—",
       "verse": 20
     },
     {
-      "texts": [
-        "assuming that you have heard about him and were taught in him, as the truth is in Jesus,"
-      ],
+      "text": "assuming that you have heard about him and were taught in him, as the truth is in Jesus,",
       "verse": 21
     },
     {
-      "texts": [
-        "to put off your old self, which belongs to your former manner of life and is corrupt through deceitful desires,"
-      ],
+      "text": "to put off your old self, which belongs to your former manner of life and is corrupt through deceitful desires,",
       "verse": 22
     },
     {
-      "texts": [
-        "and to be renewed in the spirit of your minds,"
-      ],
+      "text": "and to be renewed in the spirit of your minds,",
       "verse": 23
     },
     {
-      "texts": [
-        "and to put on the new self, created after the likeness of God in true righteousness and holiness."
-      ],
+      "text": "and to put on the new self, created after the likeness of God in true righteousness and holiness.",
       "verse": 24
     },
     {
-      "texts": [
-        "Therefore, having put away falsehood, let each one of you speak the truth with his neighbor, for we are members one of another."
-      ],
-      "verse": 25
+      "text": "Therefore, having put away falsehood, let each one of you speak the truth with his neighbor, for we are members one of another.",
+      "verse": 25,
+      "type": "newline"
     },
     {
-      "texts": [
-        "Be angry and do not sin; do not let the sun go down on your anger,"
-      ],
+      "text": "Be angry and do not sin; do not let the sun go down on your anger,",
       "verse": 26
     },
     {
-      "texts": [
-        "and give no opportunity to the devil."
-      ],
+      "text": "and give no opportunity to the devil.",
       "verse": 27
     },
     {
-      "texts": [
-        "Let the thief no longer steal, but rather let him labor, doing honest work with his own hands, so that he may have something to share with anyone in need."
-      ],
+      "text": "Let the thief no longer steal, but rather let him labor, doing honest work with his own hands, so that he may have something to share with anyone in need.",
       "verse": 28
     },
     {
-      "texts": [
-        "Let no corrupting talk come out of your mouths, but only such as is good for building up, as fits the occasion, that it may give grace to those who hear."
-      ],
+      "text": "Let no corrupting talk come out of your mouths, but only such as is good for building up, as fits the occasion, that it may give grace to those who hear.",
       "verse": 29
     },
     {
-      "texts": [
-        "And do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption."
-      ],
+      "text": "And do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption.",
       "verse": 30
     },
     {
-      "texts": [
-        "Let all bitterness and wrath and anger and clamor and slander be put away from you, along with all malice."
-      ],
+      "text": "Let all bitterness and wrath and anger and clamor and slander be put away from you, along with all malice.",
       "verse": 31
     },
     {
-      "texts": [
-        "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you."
-      ],
+      "text": "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you.",
       "verse": 32
     }
   ]

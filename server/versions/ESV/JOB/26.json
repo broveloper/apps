@@ -2,104 +2,150 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 26,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Then Job answered and said:"
-      ],
-      "verse": 1
+      "text": "Job Replies: God's Majesty Is Unsearchable",
+      "type": "heading"
     },
     {
-      "texts": [
-        "\"How you have helped him who has no power!",
-        "How you have saved the arm that has no strength!"
-      ],
-      "verse": 2
+      "text": "Then Job answered and said:",
+      "verse": 1,
+      "type": "newline"
     },
     {
-      "texts": [
-        "How you have counseled him who has no wisdom,",
-        "and plentifully declared sound knowledge!"
-      ],
-      "verse": 3
+      "text": "“How you have helped him who has no power!",
+      "verse": 2,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "With whose help have you uttered words,",
-        "and whose breath has come out from you?"
-      ],
-      "verse": 4
+      "text": "How you have saved the arm that has no strength!",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The dead tremble",
-        "under the waters and their inhabitants."
-      ],
-      "verse": 5
+      "text": "How you have counseled him who has no wisdom,",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Sheol is naked before God,",
-        "and Abaddon has no covering."
-      ],
-      "verse": 6
+      "text": "and plentifully declared sound knowledge!",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He stretches out the north over the void",
-        "and hangs the earth on nothing."
-      ],
-      "verse": 7
+      "text": "With whose help have you uttered words,",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He binds up the waters in his thick clouds,",
-        "and the cloud is not split open under them."
-      ],
-      "verse": 8
+      "text": "and whose breath has come out from you?",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He covers the face of the full moon",
-        "and spreads over it his cloud."
-      ],
-      "verse": 9
+      "text": "The dead tremble",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He has inscribed a circle on the face of the waters",
-        "at the boundary between light and darkness."
-      ],
-      "verse": 10
+      "text": "under the waters and their inhabitants.",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The pillars of heaven tremble",
-        "and are astounded at his rebuke."
-      ],
-      "verse": 11
+      "text": "Sheol is naked before God,",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "By his power he stilled the sea;",
-        "by his understanding he shattered Rahab."
-      ],
-      "verse": 12
+      "text": "and Abaddon has no covering.",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "By his wind the heavens were made fair;",
-        "his hand pierced the fleeing serpent."
-      ],
-      "verse": 13
+      "text": "He stretches out the north over the void",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Behold, these are but the outskirts of his ways,",
-        "and how small a whisper do we hear of him!",
-        "But the thunder of his power who can understand?\""
-      ],
-      "verse": 14
+      "text": "and hangs the earth on nothing.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He binds up the waters in his thick clouds,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and the cloud is not split open under them.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He covers the face of the full moon",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and spreads over it his cloud.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He has inscribed a circle on the face of the waters",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "at the boundary between light and darkness.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The pillars of heaven tremble",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and are astounded at his rebuke.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "By his power he stilled the sea;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "by his understanding he shattered Rahab.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "By his wind the heavens were made fair;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "his hand pierced the fleeing serpent.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, these are but the outskirts of his ways,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and how small a whisper do we hear of him!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "But the thunder of his power who can understand?”",
+      "verse": 14,
+      "type": "poetry"
     }
   ]
 }

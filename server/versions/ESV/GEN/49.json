@@ -2,256 +2,438 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 49,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Then Jacob called his sons and said, \"Gather yourselves together, that I may tell you what shall happen to you in days to come."
-      ],
-      "verse": 1
+      "text": "Jacob Blesses His Sons",
+      "type": "heading"
     },
     {
-      "texts": [
-        "\"Assemble and listen, O sons of Jacob,",
-        "listen to Israel your father."
-      ],
-      "verse": 2
+      "text": "Then Jacob called his sons and said, “Gather yourselves together, that I may tell you what shall happen to you in days to come.",
+      "verse": 1,
+      "type": "newline"
     },
     {
-      "texts": [
-        "\"Reuben, you are my firstborn,",
-        "my might, and the firstfruits of my strength,",
-        "preeminent in dignity and preeminent in power."
-      ],
-      "verse": 3
+      "text": "“Assemble and listen, O sons of Jacob,",
+      "verse": 2,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "Unstable as water, you shall not have preeminence,",
-        "because you went up to your father's bed;",
-        "then you defiled it—he went up to my couch!"
-      ],
-      "verse": 4
+      "text": "listen to Israel your father.",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Simeon and Levi are brothers;",
-        "weapons of violence are their swords."
-      ],
-      "verse": 5
+      "text": "“Reuben, you are my firstborn,",
+      "verse": 3,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "Let my soul come not into their council;",
-        "O my glory, be not joined to their company.",
-        "For in their anger they killed men,",
-        "and in their willfulness they hamstrung oxen."
-      ],
-      "verse": 6
+      "text": "my might, and the firstfruits of my strength,",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Cursed be their anger, for it is fierce,",
-        "and their wrath, for it is cruel!",
-        "I will divide them in Jacob",
-        "and scatter them in Israel."
-      ],
-      "verse": 7
+      "text": "preeminent in dignity and preeminent in power.",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Judah, your brothers shall praise you;",
-        "your hand shall be on the neck of your enemies;",
-        "your father's sons shall bow down before you."
-      ],
-      "verse": 8
+      "text": "Unstable as water, you shall not have preeminence,",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Judah is a lion's cub;",
-        "from the prey, my son, you have gone up.",
-        "He stooped down; he crouched as a lion",
-        "and as a lioness; who dares rouse him?"
-      ],
-      "verse": 9
+      "text": "because you went up to your father's bed;",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The scepter shall not depart from Judah,",
-        "nor the ruler's staff from between his feet,",
-        "until tribute comes to him;",
-        "and to him shall be the obedience of the peoples."
-      ],
-      "verse": 10
+      "text": "then you defiled it—he went up to my couch!",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Binding his foal to the vine",
-        "and his donkey's colt to the choice vine,",
-        "he has washed his garments in wine",
-        "and his vesture in the blood of grapes."
-      ],
-      "verse": 11
+      "text": "“Simeon and Levi are brothers;",
+      "verse": 5,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "His eyes are darker than wine,",
-        "and his teeth whiter than milk."
-      ],
-      "verse": 12
+      "text": "weapons of violence are their swords.",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Zebulun shall dwell at the shore of the sea;",
-        "he shall become a haven for ships,",
-        "and his border shall be at Sidon."
-      ],
-      "verse": 13
+      "text": "Let my soul come not into their council;",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Issachar is a strong donkey,",
-        "crouching between the sheepfolds."
-      ],
-      "verse": 14
+      "text": "O my glory, be not joined to their company.",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He saw that a resting place was good,",
-        "and that the land was pleasant,",
-        "so he bowed his shoulder to bear,",
-        "and became a servant at forced labor."
-      ],
-      "verse": 15
+      "text": "For in their anger they killed men,",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Dan shall judge his people",
-        "as one of the tribes of Israel."
-      ],
-      "verse": 16
+      "text": "and in their willfulness they hamstrung oxen.",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Dan shall be a serpent in the way,",
-        "a viper by the path,",
-        "that bites the horse's heels",
-        "so that his rider falls backward."
-      ],
-      "verse": 17
+      "text": "Cursed be their anger, for it is fierce,",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "I wait for your salvation, O Lord."
-      ],
-      "verse": 18
+      "text": "and their wrath, for it is cruel!",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Raiders shall raid Gad,",
-        "but he shall raid at their heels."
-      ],
-      "verse": 19
+      "text": "I will divide them in Jacob",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Asher's food shall be rich,",
-        "and he shall yield royal delicacies."
-      ],
-      "verse": 20
+      "text": "and scatter them in Israel.",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Naphtali is a doe let loose",
-        "that bears beautiful fawns."
-      ],
-      "verse": 21
+      "text": "“Judah, your brothers shall praise you;",
+      "verse": 8,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "\"Joseph is a fruitful bough,",
-        "a fruitful bough by a spring;",
-        "his branches run over the wall."
-      ],
-      "verse": 22
+      "text": "your hand shall be on the neck of your enemies;",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The archers bitterly attacked him,",
-        "shot at him, and harassed him severely,"
-      ],
-      "verse": 23
+      "text": "your father's sons shall bow down before you.",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "yet his bow remained unmoved;",
-        "his arms were made agile",
-        "by the hands of the Mighty One of Jacob",
-        "(from there is the Shepherd, the Stone of Israel),"
-      ],
-      "verse": 24
+      "text": "Judah is a lion's cub;",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "by the God of your father who will help you,",
-        "by the Almighty who will bless you",
-        "with blessings of heaven above,",
-        "blessings of the deep that crouches beneath,",
-        "blessings of the breasts and of the womb."
-      ],
-      "verse": 25
+      "text": "from the prey, my son, you have gone up.",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The blessings of your father",
-        "are mighty beyond the blessings of my parents,",
-        "up to the bounties of the everlasting hills.",
-        "May they be on the head of Joseph,",
-        "and on the brow of him who was set apart from his brothers."
-      ],
-      "verse": 26
+      "text": "He stooped down; he crouched as a lion",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Benjamin is a ravenous wolf,",
-        "in the morning devouring the prey",
-        "and at evening dividing the spoil.\""
-      ],
-      "verse": 27
+      "text": "and as a lioness; who dares rouse him?",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "All these are the twelve tribes of Israel. This is what their father said to them as he blessed them, blessing each with the blessing suitable to him."
-      ],
-      "verse": 28
+      "text": "The scepter shall not depart from Judah,",
+      "verse": 10,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Then he commanded them and said to them, \"I am to be gathered to my people; bury me with my fathers in the cave that is in the field of Ephron the Hittite,"
-      ],
+      "text": "nor the ruler's staff from between his feet,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "until tribute comes to him;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and to him shall be the obedience of the peoples.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Binding his foal to the vine",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and his donkey's colt to the choice vine,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "he has washed his garments in wine",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and his vesture in the blood of grapes.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "His eyes are darker than wine,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and his teeth whiter than milk.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“Zebulun shall dwell at the shore of the sea;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he shall become a haven for ships,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and his border shall be at Sidon.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“Issachar is a strong donkey,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "crouching between the sheepfolds.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He saw that a resting place was good,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and that the land was pleasant,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "so he bowed his shoulder to bear,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and became a servant at forced labor.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“Dan shall judge his people",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "as one of the tribes of Israel.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Dan shall be a serpent in the way,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "a viper by the path,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "that bites the horse's heels",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "so that his rider falls backward.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I wait for your salvation, O .",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "“Raiders shall raid Gad,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but he shall raid at their heels.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“Asher's food shall be rich,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and he shall yield royal delicacies.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "“Naphtali is a doe let loose",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that bears beautiful fawns.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“Joseph is a fruitful bough,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "a fruitful bough by a spring;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "his branches run over the wall.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "The archers bitterly attacked him,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "shot at him, and harassed him severely,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "yet his bow remained unmoved;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "his arms were made agile",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "by the hands of the Mighty One of Jacob",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "(from there is the Shepherd, the Stone of Israel),",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "by the God of your father who will help you,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "by the Almighty who will bless you",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "with blessings of heaven above,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "blessings of the deep that crouches beneath,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "blessings of the breasts and of the womb.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "The blessings of your father",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "are mighty beyond the blessings of my parents,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "up to the bounties of the everlasting hills.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "May they be on the head of Joseph,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and on the brow of him who was set apart from his brothers.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "“Benjamin is a ravenous wolf,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the morning devouring the prey",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and at evening dividing the spoil.”",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Jacob's Death and Burial",
+      "type": "heading"
+    },
+    {
+      "text": "All these are the twelve tribes of Israel. This is what their father said to them as he blessed them, blessing each with the blessing suitable to him.",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "Then he commanded them and said to them, “I am to be gathered to my people; bury me with my fathers in the cave that is in the field of Ephron the Hittite,",
       "verse": 29
     },
     {
-      "texts": [
-        "in the cave that is in the field at Machpelah, to the east of Mamre, in the land of Canaan, which Abraham bought with the field from Ephron the Hittite to possess as a burying place."
-      ],
+      "text": "in the cave that is in the field at Machpelah, to the east of Mamre, in the land of Canaan, which Abraham bought with the field from Ephron the Hittite to possess as a burying place.",
       "verse": 30
     },
     {
-      "texts": [
-        "There they buried Abraham and Sarah his wife. There they buried Isaac and Rebekah his wife, and there I buried Leah—"
-      ],
+      "text": "There they buried Abraham and Sarah his wife. There they buried Isaac and Rebekah his wife, and there I buried Leah—",
       "verse": 31
     },
     {
-      "texts": [
-        "the field and the cave that is in it were bought from the Hittites.\""
-      ],
+      "text": "the field and the cave that is in it were bought from the Hittites.”",
       "verse": 32
     },
     {
-      "texts": [
-        "When Jacob finished commanding his sons, he drew up his feet into the bed and breathed his last and was gathered to his people."
-      ],
+      "text": "When Jacob finished commanding his sons, he drew up his feet into the bed and breathed his last and was gathered to his people.",
       "verse": 33
     }
   ]

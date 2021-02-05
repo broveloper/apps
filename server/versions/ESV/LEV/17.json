@@ -2,101 +2,81 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 17,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "And the Lord spoke to Moses, saying,"
-      ],
-      "verse": 1
+      "text": "The Place of Sacrifice",
+      "type": "heading"
     },
     {
-      "texts": [
-        "\"Speak to Aaron and his sons and to all the people of Israel and say to them, This is the thing that the Lord has commanded."
-      ],
+      "text": "And the  spoke to Moses, saying,",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Speak to Aaron and his sons and to all the people of Israel and say to them, This is the thing that the  has commanded.",
       "verse": 2
     },
     {
-      "texts": [
-        "If any one of the house of Israel kills an ox or a lamb or a goat in the camp, or kills it outside the camp,"
-      ],
+      "text": "If any one of the house of Israel kills an ox or a lamb or a goat in the camp, or kills it outside the camp,",
       "verse": 3
     },
     {
-      "texts": [
-        "and does not bring it to the entrance of the tent of meeting to offer it as a gift to the Lord in front of the tabernacle of the Lord, bloodguilt shall be imputed to that man. He has shed blood, and that man shall be cut off from among his people."
-      ],
+      "text": "and does not bring it to the entrance of the tent of meeting to offer it as a gift to the  in front of the tabernacle of the , bloodguilt shall be imputed to that man. He has shed blood, and that man shall be cut off from among his people.",
       "verse": 4
     },
     {
-      "texts": [
-        "This is to the end that the people of Israel may bring their sacrifices that they sacrifice in the open field, that they may bring them to the Lord, to the priest at the entrance of the tent of meeting, and sacrifice them as sacrifices of peace offerings to the Lord."
-      ],
+      "text": "This is to the end that the people of Israel may bring their sacrifices that they sacrifice in the open field, that they may bring them to the , to the priest at the entrance of the tent of meeting, and sacrifice them as sacrifices of peace offerings to the .",
       "verse": 5
     },
     {
-      "texts": [
-        "And the priest shall throw the blood on the altar of the Lord at the entrance of the tent of meeting and burn the fat for a pleasing aroma to the Lord."
-      ],
+      "text": "And the priest shall throw the blood on the altar of the  at the entrance of the tent of meeting and burn the fat for a pleasing aroma to the .",
       "verse": 6
     },
     {
-      "texts": [
-        "So they shall no more sacrifice their sacrifices to goat demons, after whom they whore. This shall be a statute forever for them throughout their generations."
-      ],
+      "text": "So they shall no more sacrifice their sacrifices to goat demons, after whom they whore. This shall be a statute forever for them throughout their generations.",
       "verse": 7
     },
     {
-      "texts": [
-        "\"And you shall say to them, Any one of the house of Israel, or of the strangers who sojourn among them, who offers a burnt offering or sacrifice"
-      ],
-      "verse": 8
+      "text": "“And you shall say to them, Any one of the house of Israel, or of the strangers who sojourn among them, who offers a burnt offering or sacrifice",
+      "verse": 8,
+      "type": "newline"
     },
     {
-      "texts": [
-        "and does not bring it to the entrance of the tent of meeting to offer it to the Lord, that man shall be cut off from his people."
-      ],
+      "text": "and does not bring it to the entrance of the tent of meeting to offer it to the , that man shall be cut off from his people.",
       "verse": 9
     },
     {
-      "texts": [
-        "\"If any one of the house of Israel or of the strangers who sojourn among them eats any blood, I will set my face against that person who eats blood and will cut him off from among his people."
-      ],
-      "verse": 10
+      "text": "Laws Against Eating Blood",
+      "type": "heading"
     },
     {
-      "texts": [
-        "For the life of the flesh is in the blood, and I have given it for you on the altar to make atonement for your souls, for it is the blood that makes atonement by the life."
-      ],
+      "text": "“If any one of the house of Israel or of the strangers who sojourn among them eats any blood, I will set my face against that person who eats blood and will cut him off from among his people.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "For the life of the flesh is in the blood, and I have given it for you on the altar to make atonement for your souls, for it is the blood that makes atonement by the life.",
       "verse": 11
     },
     {
-      "texts": [
-        "Therefore I have said to the people of Israel, No person among you shall eat blood, neither shall any stranger who sojourns among you eat blood."
-      ],
+      "text": "Therefore I have said to the people of Israel, No person among you shall eat blood, neither shall any stranger who sojourns among you eat blood.",
       "verse": 12
     },
     {
-      "texts": [
-        "\"Any one also of the people of Israel, or of the strangers who sojourn among them, who takes in hunting any beast or bird that may be eaten shall pour out its blood and cover it with earth."
-      ],
-      "verse": 13
+      "text": "“Any one also of the people of Israel, or of the strangers who sojourn among them, who takes in hunting any beast or bird that may be eaten shall pour out its blood and cover it with earth.",
+      "verse": 13,
+      "type": "newline"
     },
     {
-      "texts": [
-        "For the life of every creature is its blood: its blood is its life. Therefore I have said to the people of Israel, You shall not eat the blood of any creature, for the life of every creature is its blood. Whoever eats it shall be cut off."
-      ],
+      "text": "For the life of every creature is its blood: its blood is its life. Therefore I have said to the people of Israel, You shall not eat the blood of any creature, for the life of every creature is its blood. Whoever eats it shall be cut off.",
       "verse": 14
     },
     {
-      "texts": [
-        "And every person who eats what dies of itself or what is torn by beasts, whether he is a native or a sojourner, shall wash his clothes and bathe himself in water and be unclean until the evening; then he shall be clean."
-      ],
+      "text": "And every person who eats what dies of itself or what is torn by beasts, whether he is a native or a sojourner, shall wash his clothes and bathe himself in water and be unclean until the evening; then he shall be clean.",
       "verse": 15
     },
     {
-      "texts": [
-        "But if he does not wash them or bathe his flesh, he shall bear his iniquity.\""
-      ],
+      "text": "But if he does not wash them or bathe his flesh, he shall bear his iniquity.”",
       "verse": 16
     }
   ]

@@ -2,271 +2,410 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 34,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "Then Elihu answered and said:"
-      ],
-      "verse": 1
+      "text": "Elihu Asserts God's Justice",
+      "type": "heading"
     },
     {
-      "texts": [
-        "\"Hear my words, you wise men,",
-        "and give ear to me, you who know;"
-      ],
-      "verse": 2
+      "text": "Then Elihu answered and said:",
+      "verse": 1,
+      "type": "newline"
     },
     {
-      "texts": [
-        "for the ear tests words",
-        "as the palate tastes food."
-      ],
-      "verse": 3
+      "text": "“Hear my words, you wise men,",
+      "verse": 2,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "Let us choose what is right;",
-        "let us know among ourselves what is good."
-      ],
-      "verse": 4
+      "text": "and give ear to me, you who know;",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For Job has said, 'I am in the right,",
-        "and God has taken away my right;"
-      ],
-      "verse": 5
+      "text": "for the ear tests words",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "in spite of my right I am counted a liar;",
-        "my wound is incurable, though I am without transgression.'"
-      ],
-      "verse": 6
+      "text": "as the palate tastes food.",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "What man is like Job,",
-        "who drinks up scoffing like water,"
-      ],
-      "verse": 7
+      "text": "Let us choose what is right;",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "who travels in company with evildoers",
-        "and walks with wicked men?"
-      ],
-      "verse": 8
+      "text": "let us know among ourselves what is good.",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For he has said, 'It profits a man nothing",
-        "that he should take delight in God.'"
-      ],
-      "verse": 9
+      "text": "For Job has said, ‘I am in the right,",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"Therefore, hear me, you men of understanding:",
-        "far be it from God that he should do wickedness,",
-        "and from the Almighty that he should do wrong."
-      ],
-      "verse": 10
+      "text": "and God has taken away my right;",
+      "verse": 5,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For according to the work of a man he will repay him,",
-        "and according to his ways he will make it befall him."
-      ],
-      "verse": 11
+      "text": "in spite of my right I am counted a liar;",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Of a truth, God will not do wickedly,",
-        "and the Almighty will not pervert justice."
-      ],
-      "verse": 12
+      "text": "my wound is incurable, though I am without transgression.’",
+      "verse": 6,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Who gave him charge over the earth,",
-        "and who laid on him the whole world?"
-      ],
-      "verse": 13
+      "text": "What man is like Job,",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "If he should set his heart to it",
-        "and gather to himself his spirit and his breath,"
-      ],
-      "verse": 14
+      "text": "who drinks up scoffing like water,",
+      "verse": 7,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "all flesh would perish together,",
-        "and man would return to dust."
-      ],
-      "verse": 15
+      "text": "who travels in company with evildoers",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"If you have understanding, hear this;",
-        "listen to what I say."
-      ],
-      "verse": 16
+      "text": "and walks with wicked men?",
+      "verse": 8,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Shall one who hates justice govern?",
-        "Will you condemn him who is righteous and mighty,"
-      ],
-      "verse": 17
+      "text": "For he has said, ‘It profits a man nothing",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "who says to a king, 'Worthless one,'",
-        "and to nobles, 'Wicked man,'"
-      ],
-      "verse": 18
+      "text": "that he should take delight in God.’",
+      "verse": 9,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "who shows no partiality to princes,",
-        "nor regards the rich more than the poor,",
-        "for they are all the work of his hands?"
-      ],
-      "verse": 19
+      "text": "“Therefore, hear me, you men of understanding:",
+      "verse": 10,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "In a moment they die;",
-        "at midnight the people are shaken and pass away,",
-        "and the mighty are taken away by no human hand."
-      ],
-      "verse": 20
+      "text": "far be it from God that he should do wickedness,",
+      "verse": 10,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"For his eyes are on the ways of a man,",
-        "and he sees all his steps."
-      ],
-      "verse": 21
+      "text": "and from the Almighty that he should do wrong.",
+      "verse": 10,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "There is no gloom or deep darkness",
-        "where evildoers may hide themselves."
-      ],
-      "verse": 22
+      "text": "For according to the work of a man he will repay him,",
+      "verse": 11,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For God has no need to consider a man further,",
-        "that he should go before God in judgment."
-      ],
-      "verse": 23
+      "text": "and according to his ways he will make it befall him.",
+      "verse": 11,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He shatters the mighty without investigation",
-        "and sets others in their place."
-      ],
-      "verse": 24
+      "text": "Of a truth, God will not do wickedly,",
+      "verse": 12,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Thus, knowing their works,",
-        "he overturns them in the night, and they are crushed."
-      ],
-      "verse": 25
+      "text": "and the Almighty will not pervert justice.",
+      "verse": 12,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "He strikes them for their wickedness",
-        "in a place for all to see,"
-      ],
-      "verse": 26
+      "text": "Who gave him charge over the earth,",
+      "verse": 13,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "because they turned aside from following him",
-        "and had no regard for any of his ways,"
-      ],
-      "verse": 27
+      "text": "and who laid on him the whole world?",
+      "verse": 13,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "so that they caused the cry of the poor to come to him,",
-        "and he heard the cry of the afflicted—"
-      ],
-      "verse": 28
+      "text": "If he should set his heart to it",
+      "verse": 14,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "When he is quiet, who can condemn?",
-        "When he hides his face, who can behold him,",
-        "whether it be a nation or a man?—"
-      ],
-      "verse": 29
+      "text": "and gather to himself his spirit and his breath,",
+      "verse": 14,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "that a godless man should not reign,",
-        "that he should not ensnare the people."
-      ],
-      "verse": 30
+      "text": "all flesh would perish together,",
+      "verse": 15,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "\"For has anyone said to God,",
-        "'I have borne punishment; I will not offend any more;"
-      ],
-      "verse": 31
+      "text": "and man would return to dust.",
+      "verse": 15,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "teach me what I do not see;",
-        "if I have done iniquity, I will do it no more'?"
-      ],
-      "verse": 32
+      "text": "“If you have understanding, hear this;",
+      "verse": 16,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "Will he then make repayment to suit you,",
-        "because you reject it?",
-        "For you must choose, and not I;",
-        "therefore declare what you know."
-      ],
-      "verse": 33
+      "text": "listen to what I say.",
+      "verse": 16,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Men of understanding will say to me,",
-        "and the wise man who hears me will say:"
-      ],
-      "verse": 34
+      "text": "Shall one who hates justice govern?",
+      "verse": 17,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "'Job speaks without knowledge;",
-        "his words are without insight.'"
-      ],
-      "verse": 35
+      "text": "Will you condemn him who is righteous and mighty,",
+      "verse": 17,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Would that Job were tried to the end,",
-        "because he answers like wicked men."
-      ],
-      "verse": 36
+      "text": "who says to a king, ‘Worthless one,’",
+      "verse": 18,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "For he adds rebellion to his sin;",
-        "he claps his hands among us",
-        "and multiplies his words against God.\""
-      ],
-      "verse": 37
+      "text": "and to nobles, ‘Wicked man,’",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "who shows no partiality to princes,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "nor regards the rich more than the poor,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "for they are all the work of his hands?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "In a moment they die;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "at midnight the people are shaken and pass away,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and the mighty are taken away by no human hand.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "“For his eyes are on the ways of a man,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and he sees all his steps.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "There is no gloom or deep darkness",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "where evildoers may hide themselves.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "For God has no need to consider a man further,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "that he should go before God in judgment.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "He shatters the mighty without investigation",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and sets others in their place.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus, knowing their works,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "he overturns them in the night, and they are crushed.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "He strikes them for their wickedness",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "in a place for all to see,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "because they turned aside from following him",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and had no regard for any of his ways,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "so that they caused the cry of the poor to come to him,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "and he heard the cry of the afflicted—",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "When he is quiet, who can condemn?",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "When he hides his face, who can behold him,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "whether it be a nation or a man?—",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "that a godless man should not reign,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "that he should not ensnare the people.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "“For has anyone said to God,",
+      "verse": 31,
+      "type": "poetry newline"
+    },
+    {
+      "text": "‘I have borne punishment; I will not offend any more;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "teach me what I do not see;",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "if I have done iniquity, I will do it no more’?",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Will he then make repayment to suit you,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "because you reject it?",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "For you must choose, and not I;",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "therefore declare what you know.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Men of understanding will say to me,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "and the wise man who hears me will say:",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Job speaks without knowledge;",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "his words are without insight.’",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Would that Job were tried to the end,",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "because he answers like wicked men.",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "For he adds rebellion to his sin;",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "he claps his hands among us",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "and multiplies his words against God.”",
+      "verse": 37,
+      "type": "poetry"
     }
   ]
 }

@@ -2,110 +2,230 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 11,
-  "verses": [
+  "content": [
     {
-      "texts": [
-        "When Israel was a child, I loved him,",
-        "and out of Egypt I called my son."
-      ],
-      "verse": 1
+      "text": "The 's Love for Israel",
+      "type": "heading"
     },
     {
-      "texts": [
-        "The more they were called,",
-        "the more they went away;",
-        "they kept sacrificing to the Baals",
-        "and burning offerings to idols."
-      ],
-      "verse": 2
+      "text": "When Israel was a child, I loved him,",
+      "verse": 1,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "Yet it was I who taught Ephraim to walk;",
-        "I took them up by their arms,",
-        "but they did not know that I healed them."
-      ],
-      "verse": 3
+      "text": "and out of Egypt I called my son.",
+      "verse": 1,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "I led them with cords of kindness,",
-        "with the bands of love,",
-        "and I became to them as one who eases the yoke on their jaws,",
-        "and I bent down to them and fed them."
-      ],
-      "verse": 4
+      "text": "The more they were called,",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "They shall not return to the land of Egypt,",
-        "but Assyria shall be their king,",
-        "because they have refused to return to me."
-      ],
-      "verse": 5
+      "text": "the more they went away;",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "The sword shall rage against their cities,",
-        "consume the bars of their gates,",
-        "and devour them because of their own counsels."
-      ],
-      "verse": 6
+      "text": "they kept sacrificing to the Baals",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "My people are bent on turning away from me,",
-        "and though they call out to the Most High,",
-        "he shall not raise them up at all."
-      ],
-      "verse": 7
+      "text": "and burning offerings to idols.",
+      "verse": 2,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "How can I give you up, O Ephraim?",
-        "How can I hand you over, O Israel?",
-        "How can I make you like Admah?",
-        "How can I treat you like Zeboiim?",
-        "My heart recoils within me;",
-        "my compassion grows warm and tender."
-      ],
-      "verse": 8
+      "text": "Yet it was I who taught Ephraim to walk;",
+      "verse": 3,
+      "type": "poetry newline"
     },
     {
-      "texts": [
-        "I will not execute my burning anger;",
-        "I will not again destroy Ephraim;",
-        "for I am God and not a man,",
-        "the Holy One in your midst,",
-        "and I will not come in wrath."
-      ],
-      "verse": 9
+      "text": "I took them up by their arms,",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "They shall go after the Lord;",
-        "he will roar like a lion;",
-        "when he roars,",
-        "his children shall come trembling from the west;"
-      ],
-      "verse": 10
+      "text": "but they did not know that I healed them.",
+      "verse": 3,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "they shall come trembling like birds from Egypt,",
-        "and like doves from the land of Assyria,",
-        "and I will return them to their homes, declares the Lord."
-      ],
-      "verse": 11
+      "text": "I led them with cords of kindness,",
+      "verse": 4,
+      "type": "poetry"
     },
     {
-      "texts": [
-        "Ephraim has surrounded me with lies,",
-        "and the house of Israel with deceit,",
-        "but Judah still walks with God",
-        "and is faithful to the Holy One."
-      ],
-      "verse": 12
+      "text": "with the bands of love,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and I became to them as one who eases the yoke on their jaws,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and I bent down to them and fed them.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall not return to the land of Egypt,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but Assyria shall be their king,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "because they have refused to return to me.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The sword shall rage against their cities,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "consume the bars of their gates,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and devour them because of their own counsels.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "My people are bent on turning away from me,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and though they call out to the Most High,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "he shall not raise them up at all.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "How can I give you up, O Ephraim?",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How can I hand you over, O Israel?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "How can I make you like Admah?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "How can I treat you like Zeboiim?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart recoils within me;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "my compassion grows warm and tender.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not execute my burning anger;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not again destroy Ephraim;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for I am God and not a man,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the Holy One in your midst,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will not come in wrath.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall go after the ;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he will roar like a lion;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "when he roars,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "his children shall come trembling from the west;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall come trembling like birds from Egypt,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and like doves from the land of Assyria,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will return them to their homes, declares the .",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Ephraim has surrounded me with lies,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and the house of Israel with deceit,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "but Judah still walks with God",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and is faithful to the Holy One.",
+      "verse": 12,
+      "type": "poetry"
     }
   ]
 }
