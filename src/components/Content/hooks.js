@@ -33,7 +33,6 @@ export const useVerses = props => {
 	const editRef = useRef();
 	const mapRef = useRef();
 	const inputRef = useRef();
-	const inputComp = useRef('');
 	const logsRef = useRef([]);
 	const showRef = useRef(false)
 	const starRef = useRef();
@@ -106,9 +105,9 @@ export const useVerses = props => {
 			}
 		};
 		const inputText = (text, options) => { //console.log('inputText', text);
-			if (cursors.current.map?.nodeName !== '#text') return console.warn('input text on non #text node');
-			const remainingText = cursors.current.map.nodeValue.substring(cursors.current.text.length, cursors.current.map.length);
-			if (options?.composition) {
+			if (cursors.current.map?.nodeName !== '#text') {
+				return console.warn('input text on non #text node');
+			} else if (options?.composition) {
 				const [nextText, editText] = wordLookback(cursors.current.text.nodeValue, cursors.current.map.nodeValue);
 				if (areSimilar(nextText, text)) {
 					logsRef.current.log(`append: ${nextText}`);
@@ -125,15 +124,12 @@ export const useVerses = props => {
 					addWrong();
 				}
 			} else {
+				const remainingText = cursors.current.map.nodeValue.substring(cursors.current.text.length, cursors.current.map.length);
 				const [nextText] = remainingText.match(new RegExp(`^${text}`, 'i')) || [];
 				if (nextText) {
 					logsRef.current.log(`append: ${nextText}`);
 					updateText(`${cursors.current.text.nodeValue}${nextText}`);
-					const beforeValue = cursors.current.text.nodeValue;
 					inputSkip();
-					if (beforeValue.length < cursors.current.text.nodeValue.length) {
-						inputComp.current = '';
-					}
 				} else {
 					addWrong();
 				}
@@ -148,7 +144,6 @@ export const useVerses = props => {
 			}
 		};
 		const initialize = () => { //console.log('initiaizing ...');
-			inputComp.current = '';
 			editRef.current.oncontextmenu = e => e.preventDefault();
 			mapRef.current.oncontextmenu = e => e.preventDefault();
 			while (editRef.current.childNodes.length > 1) editRef.current.removeChild(editRef.current.firstChild);
@@ -191,47 +186,26 @@ export const useVerses = props => {
 
 	const inputHandlers = useMemo(() => ({
 		onChange: e => {
-			if (e.nativeEvent.inputType === 'insertText') {
-				if (regex.gap.test(e.nativeEvent.data)) { // console.log('try adding inputComp')
-					logsRef.current.log(`${e.nativeEvent.inputType}-gap: ${inputComp.current} [${e.nativeEvent.data},${inputComp.current}]`);
-					input(inputComp.current, { composition: true });
-					inputComp.current = e.target.value = '';
-				} else if (regex.gaps.test(e.nativeEvent.data)) {
-					logsRef.current.log(`${e.nativeEvent.inputType}-gaps: ${e.nativeEvent.data} [${e.nativeEvent.data},${inputComp.current}]`);
-					input(e.nativeEvent.data, { composition: true });
-					inputComp.current = e.target.value = '';
-				} else { // console.log('inputing single char')
-					logsRef.current.log(`${e.nativeEvent.inputType}: ${e.nativeEvent.data} [${e.nativeEvent.data},${inputComp.current}]`);
-					inputComp.current += e.nativeEvent.data;
-					input(e.nativeEvent.data);
+			const value = e.target.value.trim();
+			if (e.nativeEvent.inputType === 'insertText' || e.nativeEvent.inputType === 'insertCompositionText') {
+				if (value.length === 1) {
+					logsRef.current.log(`${e.nativeEvent.type}-char: ${value} [${e.target.value}]`);
+					input(value);
 					e.target.value = '';
+				} else if (value.length > 1) {
+					logsRef.current.log(`${e.nativeEvent.type}-word: ${value} [${e.target.value}]`);
+					input(value, { composition: true });
+					e.target.value = '';
+				} else {
+					logsRef.current.log(`${e.nativeEvent.type}-abort: ${value} [${e.target.value}]`);
 				}
 			} else if (e.nativeEvent.inputType === 'insertFromPaste') {
-				logsRef.current.log(`${e.nativeEvent.inputType}: ${e.target.value} [null,${inputComp.current}]`);
-				input(e.target.value, { composition: true });
-				inputComp.current = e.target.value = '';
-			} else if (e.nativeEvent.inputType === 'insertCompositionText') {
-				logsRef.current.log(`${e.nativeEvent.inputType}: null [${e.target.value},${e.nativeEvent.data},${inputComp.current}]`);
+				logsRef.current.log(`${e.nativeEvent.inputType}: ${value} [${e.target.value}]`);
+				input(value, { composition: true });
+				e.target.value = '';
 			} else {
-				logsRef.current.log(`${e.nativeEvent.inputType}-aborted: null [${e.target.value},${inputComp.current}]`);
+				logsRef.current.log(`${e.nativeEvent.inputType}-aborted: null [${e.target.value}]`);
 			}
-		},
-		onCompositionStart: e => {
-			logsRef.current.log(`${e.type}: null [${e.data},${inputComp.current}]`);
-			inputComp.current = e.target.value = '';
-		},
-		onCompositionUpdate: e => {
-			const text = e.data.replace(inputComp.current, '').trim();
-			logsRef.current.log(`${e.type}: ${text} [${e.data},${inputComp.current}]`);
-			input(text, { composition: true });
-			inputComp.current = e.data;
-		},
-		onCompositionEnd: e => {
-			if (regex.chars.test(e.data)) {
-				logsRef.current.log(`${e.type}: ${e.data} [${e.data},${inputComp.current}]`);
-				input(e.data, { composition: true });
-			}
-			inputComp.current = e.target.value = '';
 		},
 		onKeyDown: e => e.metaKey && !showRef.current && setShowMeta(true),
 		onKeyUp: e => showRef.current && setShowMeta(false),
