@@ -187,17 +187,17 @@ export const useVerses = props => {
 	const inputHandlers = useMemo(() => ({
 		onChange: e => {
 			const value = e.target.value.trim();
-			if (e.nativeEvent.inputType === 'insertText' || e.nativeEvent.inputType === 'insertCompositionText') {
+			if (e.nativeEvent.inputType === 'insertText') {
 				if (value.length === 1) {
-					logsRef.current.log(`${e.nativeEvent.type}-char: ${value} [${e.target.value}]`);
+					logsRef.current.log(`${e.nativeEvent.inputType}-char: ${value} [${e.target.value}]`);
 					input(value);
 					e.target.value = '';
 				} else if (value.length > 1) {
-					logsRef.current.log(`${e.nativeEvent.type}-word: ${value} [${e.target.value}]`);
+					logsRef.current.log(`${e.nativeEvent.inputType}-word: ${value} [${e.target.value}]`);
 					input(value, { composition: true });
 					e.target.value = '';
 				} else {
-					logsRef.current.log(`${e.nativeEvent.type}-abort: ${value} [${e.target.value}]`);
+					logsRef.current.log(`${e.nativeEvent.inputType}-abort: ${value} [${e.target.value}]`);
 				}
 			} else if (e.nativeEvent.inputType === 'insertFromPaste') {
 				logsRef.current.log(`${e.nativeEvent.inputType}: ${value} [${e.target.value}]`);
@@ -205,6 +205,20 @@ export const useVerses = props => {
 				e.target.value = '';
 			} else {
 				logsRef.current.log(`${e.nativeEvent.inputType}-aborted: null [${e.target.value}]`);
+			}
+		},
+		onCompositionEnd: e => {
+			const value = e.target.value.trim();
+			if (value.length === 1) {
+				logsRef.current.log(`${e.type}-char: ${value} [${e.target.value}]`);
+				input(value);
+				e.target.value = '';
+			} else if (value.length > 1) {
+				logsRef.current.log(`${e.type}-word: ${value} [${e.target.value}]`);
+				input(value, { composition: true });
+				e.target.value = '';
+			} else {
+				logsRef.current.log(`${e.type}-abort: ${value} [${e.target.value}]`);
 			}
 		},
 		onKeyDown: e => e.metaKey && !showRef.current && setShowMeta(true),
