@@ -33,9 +33,9 @@ export const Version = props => {
 		<InputLabel htmlFor={FIELD_NAME}>Version</InputLabel>
 		<Select {...fieldProps}>
 			<option aria-label="Select Version" value="" />
-			<option value={'ESV'}>ESV</option>
 			<option value={'KJV'}>KJV</option>
-			<option value={'NASB'}>NASB</option>
+			<option value={'NIV'}>NIV</option>
+			<option value={'ESV'}>ESV</option>
 		</Select>
 		<FormHelperText></FormHelperText>
 	</FormControl>;

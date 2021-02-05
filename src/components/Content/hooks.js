@@ -79,8 +79,12 @@ export const useVerses = props => {
 				if (cursors.current.map.hasAttribute?.('data-sid')) { //console.log('next: node is verse number.')
 					cursors.current.edit.appendChild(cursors.current.map.cloneNode(true));
 					nextSibling();
+				} else if (cursors.current.map.classList.contains('newline')) { //console.log('next: node is new line.')
+					cursors.current.edit.insertBefore(cursors.current.map.cloneNode(false), cursors.current.edit.lastChild);
+					nextSibling();
 				} else { //console.log('next: node is element.');
-					if (cursors.current.map.parentNode === mapRef.current && cursors.current.map.classList.contains('p')) cursors.current.edit.insertBefore(cursors.current.map.cloneNode(false), cursors.current.edit.lastChild);
+					if (cursors.current.map.parentNode === mapRef.current && cursors.current.map.classList.contains('p'))
+						cursors.current.edit.insertBefore(cursors.current.map.cloneNode(false), cursors.current.edit.lastChild);
 					else cursors.current.edit.appendChild(cursors.current.map.cloneNode(false));
 					nextChild();
 				}
@@ -104,35 +108,45 @@ export const useVerses = props => {
 				next();
 			}
 		};
+
+		const inputChar = char => { //console.log('inputChar', char);
+			const nextChar = cursors.current.map.nodeValue.charAt(cursors.current.text.length);
+			if (new RegExp(nextChar, 'i').test(char)) return `${cursors.current.text.nodeValue}${nextChar}`;
+			return false;
+		};
+
+		const inputNumber = num => { //console.log('inputNumber', num);
+			if (!/^[\d,]+$/.test(num)) return false;
+			const nextNum = converter.toWords(num.replace(',', ''));
+			if (!areSimilar(nextNum, num)) return false;
+			return nextNum;
+		};
+
+		const inputComposition = text => { //console.log('inputComposition', text);
+			const [nextComp, appendTo] = wordLookback(cursors.current.text.nodeValue, cursors.current.map.nodeValue);
+			if (areSimilar(nextComp, text)) return `${appendTo}${nextComp}`;
+			const nextNum = inputNumber(text);
+			if (nextNum) return `${appendTo}${nextNum}`;
+			if (text.length === 1) {
+				const nextUpdate = inputChar(text);
+				if (nextUpdate) return nextUpdate;
+			}
+			return false;
+		};
+
 		const inputText = (text, options) => { //console.log('inputText', text);
-			if (cursors.current.map?.nodeName !== '#text') {
-				return console.warn('input text on non #text node');
-			} else if (options?.composition) {
-				const [nextText, editText] = wordLookback(cursors.current.text.nodeValue, cursors.current.map.nodeValue);
-				if (areSimilar(nextText, text)) {
-					logsRef.current.log(`append: ${nextText}`);
-					updateText(`${editText}${nextText}`);
-					inputSkip();
-				} else if (/^[\d,]+$/.test(text)) {
-					const numberText = converter.toWords(text.replace(',', ''));
-					if (areSimilar(nextText, numberText)) {
-						logsRef.current.log(`append: ${nextText}`);
-						updateText(`${editText}${nextText}`);
-						inputSkip();
-					}
-				} else {
-					addWrong();
-				}
+			if (cursors.current.map?.nodeName !== '#text') return console.warn('input text on non #text node');
+			
+			const next = options?.composition || text.length > 1
+				? inputComposition(text)
+				: inputChar(text);
+
+			if (next) {
+				logsRef.current.log(`appended: ${next}`);
+				updateText(next);
+				inputSkip();
 			} else {
-				const remainingText = cursors.current.map.nodeValue.substring(cursors.current.text.length, cursors.current.map.length);
-				const [nextText] = remainingText.match(new RegExp(`^${text}`, 'i')) || [];
-				if (nextText) {
-					logsRef.current.log(`append: ${nextText}`);
-					updateText(`${cursors.current.text.nodeValue}${nextText}`);
-					inputSkip();
-				} else {
-					addWrong();
-				}
+				addWrong();
 			}
 		};
 		const input = window.inp = (text, options) => {
@@ -147,8 +161,13 @@ export const useVerses = props => {
 			editRef.current.oncontextmenu = e => e.preventDefault();
 			mapRef.current.oncontextmenu = e => e.preventDefault();
 			while (editRef.current.childNodes.length > 1) editRef.current.removeChild(editRef.current.firstChild);
-			mapRef.current.innerHTML = _.reduce(verses, (html, { book_name, chapter, text, verse }) => {
-				return html += `<p class="p"><span data-number="${verse}" data-sid="${book_name} ${chapter}:${verse}" class="v">${verse}</span>${text.trim()}</p>`;
+			mapRef.current.innerHTML = _.reduce(verses, (html, content) => {
+				const { book_name, chapter, text, type, verse } = content;
+				if (/heading/.test(type)) return html;
+				const sid = `${book_name} ${chapter}:${verse}`;
+				if (/newline/.test(type)) html += '<p class="newline"></p>';
+				const versenum = html.indexOf(sid) === -1 ? `<span data-number="${verse}" data-sid="${sid}" class="v">${verse}</span>` : '';
+				return html += `<p class="p">${versenum}${text}</p>`;
 			}, '');
 			Object.assign(cursors.current, {
 				edit: editRef.current,
@@ -187,39 +206,30 @@ export const useVerses = props => {
 	const inputHandlers = useMemo(() => ({
 		onChange: e => {
 			const value = e.target.value.trim();
-			if (e.nativeEvent.inputType === 'insertText') {
-				if (value.length === 1) {
-					logsRef.current.log(`${e.nativeEvent.inputType}-char: ${value} [${e.target.value}]`);
-					input(value);
-					e.target.value = '';
-				} else if (value.length > 1) {
-					logsRef.current.log(`${e.nativeEvent.inputType}-word: ${value} [${e.target.value}]`);
-					input(value, { composition: true });
-					e.target.value = '';
-				} else {
-					logsRef.current.log(`${e.nativeEvent.inputType}-abort: ${value} [${e.target.value}]`);
-				}
-			} else if (e.nativeEvent.inputType === 'insertFromPaste') {
-				logsRef.current.log(`${e.nativeEvent.inputType}: ${value} [${e.target.value}]`);
+			if (value && e.nativeEvent.inputType === 'insertText') {
+				logsRef.current.log(`${e.nativeEvent.inputType}: ${value} [${e.target.value},${value}]`);
+				input(value);
+				e.target.value = '';
+			} else if (value && e.nativeEvent.inputType === 'insertFromPaste') {
+				logsRef.current.log(`${e.nativeEvent.inputType}: ${value} [${e.target.value},${value}]`);
 				input(value, { composition: true });
 				e.target.value = '';
 			} else {
-				logsRef.current.log(`${e.nativeEvent.inputType}-aborted: null [${e.target.value}]`);
+				// logsRef.current.log(`${e.nativeEvent.inputType}-aborted: null [${e.target.value},${e.nativeEvent.data}]`);
+			}
+		},
+		onCompositionUpdate: e => {
+			const value = e.data.substring(e.target.value.length, e.data.length).trim();
+			if (value) {
+				logsRef.current.log(`${e.type}: ${value} [${e.target.value},${e.data}]`);
+				input(value, { composition: true });
+			} else {
+				// logsRef.current.log(`${e.type}-abort: ${value} [${e.target.value},${e.data}]`);
 			}
 		},
 		onCompositionEnd: e => {
-			const value = e.target.value.trim();
-			if (value.length === 1) {
-				logsRef.current.log(`${e.type}-char: ${value} [${e.target.value}]`);
-				input(value);
-				e.target.value = '';
-			} else if (value.length > 1) {
-				logsRef.current.log(`${e.type}-word: ${value} [${e.target.value}]`);
-				input(value, { composition: true });
-				e.target.value = '';
-			} else {
-				logsRef.current.log(`${e.type}-abort: ${value} [${e.target.value}]`);
-			}
+			// logsRef.current.log(`${e.type}: clear e.target.value [${e.target.value},${e.data}]`);
+			e.target.value = '';
 		},
 		onKeyDown: e => e.metaKey && !showRef.current && setShowMeta(true),
 		onKeyUp: e => showRef.current && setShowMeta(false),

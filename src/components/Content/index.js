@@ -12,7 +12,26 @@ const useStyles = makeStyles((theme) => ({
 		margin: theme.spacing(1),
 		position: 'relative',
 	},
-	noselect: {
+	passage: {
+		whiteSpace: 'pre-wrap',
+		color: 'rgba(17,17,17,1)',
+		'& [class^="newline"]': {
+			display: 'block',
+			height: '8px',
+		},
+		'& [class*="newline"] + [class^="p"], & [class^="p"]:first-child': {
+			'& [data-sid]:first-child': {
+				textIndent: '1.4em',
+			},
+		},
+		'& [class^="p"]': {
+			display: 'inline',
+			textIndent: 0,
+		},
+		'& [data-sid]': {
+			display: 'inline-block',
+			textIndent: '.5em',
+		},
 		'-webkit-touch-callout': 'none',
 		'-webkit-user-select': 'none',
 		'-moz-user-select': 'none',
@@ -20,41 +39,21 @@ const useStyles = makeStyles((theme) => ({
 		'user-select': 'none',
 	},
 	map: {
-		whiteSpace: 'pre-wrap',
 		position: 'relative',
 		'& [class^="p"]': {
 			color: 'rgba(17,17,17,0)',
-			textIndent: 0,
 			transition: 'color 300ms',
 		},
-		'& [data-sid]': {
-			color: 'rgba(17,17,17,1)',
-			display: 'inline-block',
-			textIndent: '1.4em',
-		},
+		'& [data-sid]': { color: 'rgba(17,17,17,.7)' },
 	},
 	mapMeta: {
-		'& [class^="p"]': {
-			color: 'rgba(17,17,17,.3)',
-		},
+		'& [class^="p"]': { color: 'rgba(17,17,17,.3)' },
 	},
 	edit: {
-		whiteSpace: 'pre-wrap',
 		position: 'absolute', top: '0', left: '0',
-		width: '100%',
-		height: '100%',
-		outline: 'none',
-		'& [class^="p"]:last-of-type': {
-			display: 'inline',
-		},
-		'& [class^="p"]': {
-			textIndent: 0,
-		},
-		'& [data-sid]': {
-			opacity: 0,
-			display: 'inline-block',
-			textIndent: '1.4em',
-		},
+		width: '100%', height: '100%', outline: 'none',
+		'& [class^="p"]:last-of-type': { display: 'inline' },
+		'& [data-sid]': { opacity: 0 },
 	},
 	input: {
 		display: 'inline-block',
@@ -136,11 +135,11 @@ export const Content = props => {
 			className={clsx('scripture-styles', classes.content)}>
 			<label htmlFor="input">
 				<div
-					className={clsx(classes.noselect, classes.map, { [classes.mapMeta]: showMeta })}
+					className={clsx(classes.passage, classes.map, { [classes.mapMeta]: showMeta })}
 					ref={mapRef}
 					spellCheck={false} />
 				<div
-					className={clsx(classes.noselect, classes.edit)}
+					className={clsx(classes.passage, classes.edit)}
 					ref={editRef}
 					spellCheck={false}>
 					<Input

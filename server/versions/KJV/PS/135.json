@@ -2,5 +2,110 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 135,
-  "content": []
+  "content": [
+    {
+      "text": "Praise ye the . Praise ye the name of the ; praise him, O ye servants of the .",
+      "verse": 1
+    },
+    {
+      "text": "Ye that stand in the house of the , in the courts of the house of our God.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Praise the ; for the  is good: sing praises unto his name; for it is pleasant.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "For the  hath chosen Jacob unto himself, and Israel for his peculiar treasure.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "For I know that the  is great, and that our Lord is above all gods.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "Whatsoever the  pleased, that did he in heaven, and in earth, in the seas, and all deep places.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "He causeth the vapours to ascend from the ends of the earth; he maketh lightnings for the rain; he bringeth the wind out of his treasuries.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Who smote the firstborn of Egypt, both of man and beast.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Who sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "Who smote great nations, and slew mighty kings;",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan:",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "And gave their land for an heritage, an heritage unto Israel his people.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "Thy name, O , endureth for ever; and thy memorial, O , throughout all generations.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "For the  will judge his people, and he will repent himself concerning his servants.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "The idols of the heathen are silver and gold, the work of men's hands.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "They have mouths, but they speak not; eyes have they, but they see not;",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "They have ears, but they hear not; neither is there any breath in their mouths.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "They that make them are like unto them: so is every one that trusteth in them.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "Bless the , O house of Israel: bless the , O house of Aaron:",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "Bless the , O house of Levi: ye that fear the , bless the .",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "Blessed be the  out of Zion, which dwelleth at Jerusalem. Praise ye the .",
+      "verse": 21,
+      "type": "newline"
+    }
+  ]
 }
