@@ -8,6 +8,7 @@ import GradeRoundedIcon from '@material-ui/icons/GradeRounded';
 import ExposureNeg1Icon from '@material-ui/icons/ExposureNeg1';
 // import HelpIcon from '@material-ui/icons/Help';
 import VisibilityIcon from '@material-ui/icons/Visibility';
+import VisibilityOffIcon from '@material-ui/icons/VisibilityOff';
 import { AppContainer, useApp } from 'components/App';
 import 'scripture-styles/dist/css/scripture-styles.css';
 import './styles.css';
@@ -39,20 +40,18 @@ const useStyles = makeStyles((theme) => {
 			'& [class^="text"]:first-child': {
 				display: 'inline-block',
 			},
-			'-webkit-touch-callout': 'none',
-			'-webkit-user-select': 'none',
-			'-moz-user-select': 'none',
-			'-ms-user-select': 'none',
-			'user-select': 'none',
+			// '-webkit-touch-callout': 'none',
+			// '-webkit-user-select': 'none',
+			// '-moz-user-select': 'none',
+			// '-ms-user-select': 'none',
+			// 'user-select': 'none',
 		},
 		map: {
 			position: 'relative',
 			'& [class^="p"]': {
-				color: /test/.test(document.location.search)
-					? theme.palette.text.hint
-					: theme.palette.type === 'light'
-						? 'rgba(0,0,0,0)'
-						: 'rgba(255,255,255,0)',
+				color: theme.palette.type === 'light'
+					? 'rgba(0,0,0,0)'
+					: 'rgba(255,255,255,0)',
 				transition: 'color 300ms',
 			},
 			'& [class^="v"]': {
@@ -67,6 +66,12 @@ const useStyles = makeStyles((theme) => {
 		edit: {
 			'& [class^="p"]:last-of-type': { display: 'inline' },
 			'& [class^="v"]': { opacity: 0 },
+			'& .error': {
+				display: 'inline',
+				color: theme.palette.error.main,
+				position: 'fixed',
+				animation: 'errorholder 800ms ease-out 1 forwards',
+			}
 		},
 		input: {
 			display: 'inline-block',
@@ -80,7 +85,7 @@ const useStyles = makeStyles((theme) => {
 				width: '1px',
 				caretColor: theme.palette.text.secondary,
 				color: 'transparent',
-			}
+			},
 		},
 		assist: {
 			color: theme.palette.success.main,
@@ -222,7 +227,9 @@ export const Read = props => {
 					{...assistHandlers}
 					className={classes.assist}
 					disabled={!passage}>
-					<VisibilityIcon size="large" fontSize="large" />
+					{showMeta
+						? <VisibilityOffIcon color="secondary" size="large" fontSize="large" />
+						: <VisibilityIcon size="large" fontSize="large" />}
 				</IconButton>
 			</Box>
 		</Box>

@@ -37,6 +37,7 @@ export const useVerses = () => {
 	const showRef = useRef(false)
 	const starRef = useRef();
 	const wrongRef = useRef();
+	const errorRef = useRef();
 	const [showMeta, _setShowMeta] = useState(false);
 	const setShowMeta = bool => _setShowMeta(bool) || (showRef.current = bool);
 	logsRef.current.logging = /test/.test(document.location.search);
@@ -50,10 +51,22 @@ export const useVerses = () => {
 			setTimeout(() => inputRef.current.parentNode.removeChild(icon), time);
 		}, 300);
 		const addStar = () => addIcon(starRef.current, 2000);
+		const addError = text => {
+			if (errorRef.current?.parentNode === editRef.current) {
+				clearTimeout(errorRef.current.clearId);
+				editRef.current.removeChild(errorRef.current);
+			}
+			errorRef.current = document.createElement('div');
+			errorRef.current.innerHTML = text;
+			errorRef.current.classList.add('error');
+			editRef.current.insertBefore(errorRef.current, editRef.current.lastChild);
+			errorRef.current.clearId = setTimeout(() => editRef.current.removeChild(errorRef.current), 800);
+		};
 		const addWrong = text => {
 			// console.log('addWrong', text)
 			addIcon(wrongRef.current, 800);
-		}
+			addError(text);
+		};
 		const updateText = text => {
 			cursors.current.text.nodeValue = text;
 			if (regex.gap.test(cursors.current.map.nodeValue.charAt(text.length))) addStar();
@@ -175,29 +188,20 @@ export const useVerses = () => {
 	}, [verses]);
 
 	const contentHandlers = useMemo(() => ({
-		onMouseDown: e => { //console.log('onMouseDown');
-			inputRef.current.focus();
-		},
-		onTouchStart: e => { //console.log('onTouchStart');
+		onClick: e => { //console.log('contentHandlers.onClick');
 			inputRef.current.focus();
 		},
 	}), []);
 
 	const assistHandlers = useMemo(() => ({
-		onMouseDown: e => !showRef.current && setShowMeta(true),
-		onMouseUp: e => {
-			if (showRef.current) {
-				setShowMeta(false);
-				inputRef.current.focus();
-			}
+		onClick: e => { //console.log('assistHandlers.onClick');
+			setShowMeta(!showRef.current);
 		},
-		onTouchEnd: e => {
-			if (showRef.current) {
-				setShowMeta(false);
-				inputRef.current.focus();
-			}
+		onMouseDown: e => { //console.log('assistHandlers.onMouseDown');
+			// prevent potential input blur
+			e.preventDefault();
+			e.stopPropagation();
 		},
-		onTouchStart: e => !showRef.current && setShowMeta(true),
 	}), []);
 
 	const inputHandlers = useMemo(() => ({

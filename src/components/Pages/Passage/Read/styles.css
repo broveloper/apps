@@ -49,3 +49,9 @@
 		transform: translate(12px, -20px);
 	}
 }
+
+@keyframes errorholder {
+	0% { opacity: 1; }
+	75% { opacity: 1; }
+  100% { opacity: 0; }
+}
