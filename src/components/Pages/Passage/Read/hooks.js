@@ -64,7 +64,7 @@ export const useVerses = () => {
 		};
 		const addWrong = text => {
 			// console.log('addWrong', text)
-			addIcon(wrongRef.current, 800);
+			// addIcon(wrongRef.current, 800);
 			addError(text);
 		};
 		const updateText = text => {
