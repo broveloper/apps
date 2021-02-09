@@ -1,8 +1,8 @@
 import _ from 'lodash';
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { useLongPress } from 'react-use';
 import converter from 'number-to-words';
-import { areSimilar } from '@similar';
+import { areSimilar } from '@utils/similar';
+import { useApp } from 'components/App';
 
 const regex = {
 	char: /^[a-zA-Z0-9']$/i,
@@ -27,8 +27,8 @@ const wordLookback = window.wordLookback = (back, whole) => {
 	return [word, whole.substring(0, bi + 1)];
 };
 
-export const useVerses = props => {
-	const { verses } = props;
+export const useVerses = () => {
+	const { verses } = useApp();
 	const cursors = useRef({});
 	const editRef = useRef();
 	const mapRef = useRef();
@@ -50,7 +50,10 @@ export const useVerses = props => {
 			setTimeout(() => inputRef.current.parentNode.removeChild(icon), time);
 		}, 300);
 		const addStar = () => addIcon(starRef.current, 2000);
-		const addWrong = () => addIcon(wrongRef.current, 800);
+		const addWrong = text => {
+			// console.log('addWrong', text)
+			addIcon(wrongRef.current, 800);
+		}
 		const updateText = text => {
 			cursors.current.text.nodeValue = text;
 			if (regex.gap.test(cursors.current.map.nodeValue.charAt(text.length))) addStar();
@@ -76,11 +79,11 @@ export const useVerses = props => {
 		};
 		const next = () => { //console.log('next>', cursors);
 			while (cursors.current.edit != null && cursors.current.map != null && cursors.current.map?.nodeName !== '#text') {
-				if (cursors.current.map.hasAttribute?.('data-sid')) { //console.log('next: node is verse number.')
+				if (cursors.current.map.classList.contains?.('v')) { //console.log('next: node is verse number.')
 					cursors.current.edit.appendChild(cursors.current.map.cloneNode(true));
 					nextSibling();
 				} else if (cursors.current.map.classList.contains('newline')) { //console.log('next: node is new line.')
-					cursors.current.edit.insertBefore(cursors.current.map.cloneNode(false), cursors.current.edit.lastChild);
+					cursors.current.edit.insertBefore(cursors.current.map.cloneNode(true), cursors.current.edit.lastChild);
 					nextSibling();
 				} else { //console.log('next: node is element.');
 					if (cursors.current.map.parentNode === mapRef.current && cursors.current.map.classList.contains('p'))
@@ -138,7 +141,7 @@ export const useVerses = props => {
 				updateText(next);
 				inputSkip();
 			} else {
-				addWrong();
+				addWrong(text);
 			}
 		};
 		const input = (text, options) => { //console.log('input', text)
@@ -157,9 +160,9 @@ export const useVerses = props => {
 				const { book_name, chapter, text, type, verse } = content;
 				if (/heading/.test(type)) return html;
 				const sid = `${book_name} ${chapter}:${verse}`;
-				if (/newline/.test(type)) html += '<p class="newline"></p>';
-				const versenum = html.indexOf(sid) === -1 ? `<span data-number="${verse}" data-sid="${sid}" class="v">${verse}</span>` : '';
-				return html += `<p class="p">${versenum}${text}</p>`;
+				if (/newline/.test(type)) html += '<div class="newline"></div>';
+				const versenum = html.indexOf(sid) === -1 ? `<div class="v" data-sid="${sid}">${verse}</div>` : '';
+				return html += `<div class="p">${versenum}<div class="text">${text} </div></div>`;
 			}, '');
 			Object.assign(cursors.current, {
 				edit: editRef.current,
@@ -171,28 +174,30 @@ export const useVerses = props => {
 		return { initialize, input };
 	}, [verses]);
 
-	const longPress = useLongPress(e => setShowMeta(true));
 	const contentHandlers = useMemo(() => ({
 		onMouseDown: e => { //console.log('onMouseDown');
 			inputRef.current.focus();
-			longPress.onMouseDown(e);
-		},
-		onMouseLeave: e => { //console.log('onMouseLeave');
-			longPress.onMouseLeave(e);
-			if (showRef.current) setShowMeta(false);
-		},
-		onMouseUp: e => { //console.log('onMouseUp');
-			longPress.onMouseUp(e);
-			if (showRef.current) setShowMeta(false);
-		},
-		onTouchEnd: e => { //console.log('onTouchEnd');
-			longPress.onTouchEnd(e);
-			if (showRef.current) setShowMeta(false);
 		},
 		onTouchStart: e => { //console.log('onTouchStart');
 			inputRef.current.focus();
-			longPress.onTouchStart(e);
 		},
+	}), []);
+
+	const assistHandlers = useMemo(() => ({
+		onMouseDown: e => !showRef.current && setShowMeta(true),
+		onMouseUp: e => {
+			if (showRef.current) {
+				setShowMeta(false);
+				inputRef.current.focus();
+			}
+		},
+		onTouchEnd: e => {
+			if (showRef.current) {
+				setShowMeta(false);
+				inputRef.current.focus();
+			}
+		},
+		onTouchStart: e => !showRef.current && setShowMeta(true),
 	}), []);
 
 	const inputHandlers = useMemo(() => ({
@@ -206,8 +211,6 @@ export const useVerses = props => {
 				logsRef.current.log(`${e.nativeEvent.inputType}: ${value} [${e.target.value},${value}]`);
 				input(value, { composition: true });
 				e.target.value = '';
-			} else {
-				// logsRef.current.log(`${e.nativeEvent.inputType}-aborted: null [${e.target.value},${e.nativeEvent.data}]`);
 			}
 		},
 		onCompositionUpdate: e => {
@@ -215,12 +218,9 @@ export const useVerses = props => {
 			if (value) {
 				logsRef.current.log(`${e.type}: ${value} [${e.target.value},${e.data}]`);
 				input(value, { composition: true });
-			} else {
-				// logsRef.current.log(`${e.type}-abort: ${value} [${e.target.value},${e.data}]`);
 			}
 		},
 		onCompositionEnd: e => {
-			// logsRef.current.log(`${e.type}: clear e.target.value [${e.target.value},${e.data}]`);
 			e.target.value = '';
 		},
 		onKeyDown: e => e.metaKey && !showRef.current && setShowMeta(true),
@@ -232,6 +232,7 @@ export const useVerses = props => {
 	}, [verses]);
 
 	return {
+		assistHandlers,
 		contentHandlers,
 		editRef,
 		inputHandlers,

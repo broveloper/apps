@@ -49,12 +49,3 @@
 		transform: translate(12px, -20px);
 	}
 }
-@keyframes wrongspin {
-	0%   { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-@keyframes wrongcolor {
-	0%   { color:rgb(221, 7, 36); }
-	75%  { color:rgb(156, 30, 47); }
-  100% { color:rgb(112, 64, 69); }
-}
