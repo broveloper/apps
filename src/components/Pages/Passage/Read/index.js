@@ -175,10 +175,11 @@ export const Read = props => {
 				left="0"
 				width="100%"
 				height="100%">
-				<AppContainer>
+				<AppContainer style={{ display: 'flex', flexDirection: 'column', flex: 1 }}>
 					<Box
 						{...contentHandlers}
-						my={2}
+						my={3}
+						flex="1"
 						position="relative"
 						className={clsx('scripture-styles')}>
 						<label htmlFor="input">
@@ -202,7 +203,7 @@ export const Read = props => {
 							</Box>
 						</label>
 					</Box>
-					<Box px={3} py={2}>
+					<Box px={3} py={6}>
 						<Typography
 							align="center"
 							component="div"
