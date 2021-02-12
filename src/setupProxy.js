@@ -1,3 +1,3 @@
-const setupProxy = require('../server/routes');
+const setupProxy = require('../server/setup');
 
 module.exports = setupProxy;

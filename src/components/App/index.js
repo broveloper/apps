@@ -1,31 +1,25 @@
+
+import 'scripture-styles/dist/css/scripture-styles.css';
+import './styles.css';
 import Box from '@material-ui/core/Box';
-import CssBaseline from '@material-ui/core/CssBaseline';
 import Divider from '@material-ui/core/Divider';
-import { AppBarBottom } from './AppBars';
-import { AppContext } from './AppContext';
-import { AppPage } from './AppPage';
-import { AppTheme } from './AppTheme';
+import { AppProvider } from '@utils/useApp';
+import { AuthProvider } from '@utils/useAuth';
+import { PassageProvider } from '@utils/usePassage';
+import { ProfileProvider } from '@utils/useProfile';
+import { AppBarBottom } from './AppBarBottom';
+import { AppView } from './AppView';
 
-export { AppBarThemeProvider, AppBarTop } from './AppBars';
+export { AppBarTheme } from 'components/Themes';
+export { AppBarTop } from './AppBarTop';
 export { AppContainer } from './AppContainer';
-export { useApp } from './AppContext';
-
 
 export const App = () => {
-	return <AppContext>
-		<AppTheme>
-			<CssBaseline />
-			<Box
-				display="flex"
-				flexDirection="column"
-				width="100%"
-				height="100%"
-				position="absolute"
-				top="0"
-				left="0">
-				<Box flex="1" position="relative">
+	return <AppProvider>
+		<AuthProvider>
+			<ProfileProvider>
+				<PassageProvider>
 					<Box
-						style={{ overflow: 'scroll' }}
 						display="flex"
 						flexDirection="column"
 						width="100%"
@@ -33,14 +27,26 @@ export const App = () => {
 						position="absolute"
 						top="0"
 						left="0">
-						<AppPage />
+						<Box flex="1" position="relative">
+							<Box
+								style={{ overflow: 'hidden scroll' }}
+								display="flex"
+								flexDirection="column"
+								width="100%"
+								height="100%"
+								position="absolute"
+								top="0"
+								left="0">
+								<AppView />
+							</Box>
+						</Box>
+						<Divider />
+						<Box flex="0">
+							<AppBarBottom />
+						</Box>
 					</Box>
-				</Box>
-				<Divider />
-				<Box flex="0">
-					<AppBarBottom />
-				</Box>
-			</Box>
-		</AppTheme>
-	</AppContext>;
+				</PassageProvider>
+			</ProfileProvider>
+		</AuthProvider>
+	</AppProvider>;
 };

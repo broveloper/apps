@@ -1,16 +1,10 @@
 import clsx from 'clsx';
 import { Children, cloneElement, forwardRef } from 'react';
 import { Transition } from 'react-transition-group';
-import { makeStyles } from '@material-ui/core/styles';
 
 
 const getScale = value => `scale(${value}, ${value ** 2})`;
 const getTransition = duration => `transform ${duration}ms ease-in-out, opacity ${duration}ms ease-in-out`;
-const useModalStyles = makeStyles(theme => ({
-	modal: {
-		backgroundColor: theme.palette.background.paper,
-	}
-}));
 
 const styles = {
 	modal: {
@@ -77,10 +71,9 @@ export const TransitionComponent = forwardRef((props, ref) => {
 });
 
 export const Modal = forwardRef((props, ref) => {
-	const classes = useModalStyles();
 	return <TransitionComponent
 		{...props}
-		className={clsx(classes.modal, props.className)}
+		className={clsx(props.className)}
 		style={{
 			display: 'flex',
 			flexDirection: 'column',
