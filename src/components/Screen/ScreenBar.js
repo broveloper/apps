@@ -4,10 +4,9 @@ import IconButton from '@material-ui/core/IconButton';
 import ArrowBackIcon from '@material-ui/icons/ArrowBack';
 import { AppBarTop } from 'components/App';
 
-export const ModalBar = props => {
+export const ScreenBar = props => {
 	const {
-		defaults = 'default',
-		setUI,
+		hide,
 		title = 'References',
 	} = props;
 	return <AppBarTop>
@@ -16,7 +15,7 @@ export const ModalBar = props => {
 			display="flex">
 			<IconButton
 				edge="start"
-				onClick={() => setUI(defaults)}>
+				onClick={hide}>
 				<ArrowBackIcon />
 			</IconButton>
 			<Typography variant="h6">{title}</Typography>

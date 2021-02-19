@@ -1,13 +1,13 @@
 import { memo } from 'react';
 import { Home } from 'components/Home';
 import { More } from 'components/More';
-import { Passage } from 'components/Passage';
+import { Recall } from 'components/Recall';
 import { useApp } from '@utils/useApp';
 
 const views = {
 	Home,
 	More,
-	Passage,
+	Recall,
 };
 
 export const AppView = memo(() => {

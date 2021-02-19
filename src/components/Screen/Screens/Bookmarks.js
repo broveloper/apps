@@ -1,14 +1,13 @@
 import _ from 'lodash';
-import { useEffect } from 'react';
+import { forwardRef, useEffect } from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import Box from '@material-ui/core/Box';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
 import ListItemText from '@material-ui/core/ListItemText';
-import { useApp } from '@utils/useApp';
-import { usePassage } from '@utils/usePassage';
-import { useProfile } from '@utils/useProfile';
+import { useApp, usePassage, useProfile } from '@utils/useApp';
 import { AppContainer } from 'components/App';
+import { Screen } from '../Screen';
 
 const useStyles = makeStyles({
 	active: {
@@ -21,9 +20,9 @@ const useStyles = makeStyles({
 	}
 })
 
-export const Bookmarks = props => {
+const BookmarksList = props => {
 	const {
-		setUI,
+		hide,
 		transitionState,
 		type,
 	} = props;
@@ -39,8 +38,8 @@ export const Bookmarks = props => {
 	} = usePassage();
 
 	const handleClick = recent => {
-		setView('Passage');
-		setUI('defaults');
+		setView('Recall');
+		hide();
 		setPassageVersion(recent.passage, recent.version);
 	};
 
@@ -49,6 +48,8 @@ export const Bookmarks = props => {
 			getProfile();
 		}
 	}, [transitionState]);
+
+	if (!profile) return null;
 
 	return <Box
 		component={AppContainer}
@@ -68,3 +69,9 @@ export const Bookmarks = props => {
 		</Box>
 	</Box>;
 };
+
+export const Bookmarks = forwardRef((props, ref) => {
+	return <Screen ref={ref}>
+		<BookmarksList {...props} />
+	</Screen>;
+});

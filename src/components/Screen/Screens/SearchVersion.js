@@ -1,4 +1,6 @@
 import _ from 'lodash';
+import { forwardRef } from 'react';
+import { useUpdateEffect } from 'react-use';
 import { makeStyles } from '@material-ui/core/styles';
 import Box from '@material-ui/core/Box';
 import List from '@material-ui/core/List';
@@ -7,8 +9,9 @@ import ListItemText from '@material-ui/core/ListItemText';
 import ListItemSecondaryAction from '@material-ui/core/ListItemSecondaryAction';
 import IconButton from '@material-ui/core/IconButton';
 import MenuBookIcon from '@material-ui/icons/MenuBook';
-import { usePassage } from '@utils/usePassage';
+import { usePassage, useScreen } from '@utils/useApp';
 import { AppContainer } from 'components/App';
+import { Screen } from '../Screen';
 
 const useStyles = makeStyles({
 	active: {
@@ -21,18 +24,27 @@ const useStyles = makeStyles({
 	}
 })
 
-export const Versions = props => {
-	const { setUI } = props;
+const VersionOptions = props => {
 	const classes = useStyles();
 	const {
 		setVersion,
 		version: currentVersion,
 		versions,
 	} = usePassage();
+	const {
+		searchPassage,
+		searchVersion,
+	} = useScreen();
+
 	const selectVersion = version => {
-		setUI('default');
+		searchPassage.show();
 		setVersion(version);
 	};
+
+	useUpdateEffect(() => {
+		searchVersion.hide();
+	}, [currentVersion])
+
 	return <Box
 		component={AppContainer}
 		display="flex"
@@ -58,3 +70,9 @@ export const Versions = props => {
 		</Box>
 	</Box>;
 };
+
+export const SearchVersion = forwardRef((props, ref) => {
+	return <Screen ref={ref}>
+		<VersionOptions />
+	</Screen>;
+});

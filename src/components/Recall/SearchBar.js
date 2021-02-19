@@ -1,11 +1,14 @@
 import Box from '@material-ui/core/Box';
 import Button from '@material-ui/core/Button';
 import ArrowDropDownIcon from '@material-ui/icons/ArrowDropDown';
-import { usePassage } from '@utils/usePassage';
+import { usePassage, useScreen } from '@utils/useApp';
 import { AppBarTheme, AppBarTop } from 'components/App';
 
-export const ReadBar = props => {
-	const { setUI } = props;
+export const SearchBar = () => {
+	const {
+		searchPassage,
+		searchVersion,
+	} = useScreen();
 	const {
 		passage,
 		version,
@@ -16,14 +19,14 @@ export const ReadBar = props => {
 			alignItems="center"
 			display="flex">
 			<AppBarTheme>
-				<Button onClick={() => setUI('search')}>
+				<Button onClick={() => searchPassage.show()}>
 					<Box
 						display="flex"
 						alignItems="center">
 						<span>{passage || 'Search Passage'}</span> <ArrowDropDownIcon fontSize="small" />
 					</Box>
 				</Button>
-				<Button onClick={() => setUI('version')}>
+				<Button onClick={() => searchVersion.show()}>
 					<Box
 						display="flex"
 						alignItems="center">

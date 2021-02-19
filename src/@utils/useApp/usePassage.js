@@ -1,9 +1,8 @@
 import _ from 'lodash';
 import axios from 'axios';
 import fuzzy from 'fuzzy';
-import { createContext, memo, useContext, useEffect, useMemo, useState } from 'react';
-import { useAuth } from '@utils/useAuth';
-import { useProfile } from '@utils/useProfile';
+import { createContext, useContext, useEffect, useMemo, useState } from 'react';
+import { useAuth, useProfile } from '@utils/useApp';
 
 const validregex = /^\s*(\d?\s*[a-zA-Z]+)(?:\s+(\d+))?:?(\d+\s*-?\s*\d*)?\s*$/;
 const matchregex = /^\s*(\d?\s*[a-zA-Z]+)\s+(\d+):?(\d+\s*-?\s*\d*)?\s*$/;
@@ -18,7 +17,7 @@ export const isSearchValid = q => validregex.test(q);
 
 export const usePassage = () => useContext(Context);
 
-export const PassageProvider = memo(props => {
+export const PassageProvider = props => {
 	const { token } = useAuth();
 	const { profile } = useProfile();
 	const [passage, setPassageState] = useState('');
@@ -29,6 +28,7 @@ export const PassageProvider = memo(props => {
 		bible,
 		booknames,
 		getBooksBySearch,
+		getChapter,
 		getPassage,
 		getVersions,
 		setPassage,
@@ -51,6 +51,12 @@ export const PassageProvider = memo(props => {
 			const res = await request.get(`/v1/${v || version}/passage`, { params: { q } })
 			const verses = res.data;
 			return verses;
+		};
+
+		memoized.getChapter = async (b, c, v) => {
+			const res = await request.get(`/v1/${v || version}/${b}/${c}`);
+			const chapter = res.data;
+			return chapter;
 		};
 
 		memoized.setPassage = async q => {
@@ -90,13 +96,14 @@ export const PassageProvider = memo(props => {
 	useEffect(() => {
 		getVersions();
 		if (profile?.recents?.[0]) setPassageVersion(profile.recents[0].passage, profile.recents[0].version);
-		else setPassageVersion('2 Timothy 3:16-17', 'ESV');
+		else setPassageVersion('James 1:1-10', 'ESV');
 	}, []);
 
 	const state = {
 		bible,
 		booknames,
 		getBooksBySearch,
+		getChapter,
 		getPassage,
 		getSearchBookName,
 		getSearchPassageMeta,
@@ -114,4 +121,4 @@ export const PassageProvider = memo(props => {
 	return <Context.Provider value={state}>
 		{versions && props.children}
 	</Context.Provider>
-});
+};

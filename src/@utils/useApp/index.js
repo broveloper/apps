@@ -1,38 +1,29 @@
-import { createContext, memo, useContext, useLayoutEffect, useState } from 'react';
-import useMediaQuery from '@material-ui/core/useMediaQuery';
-import CssBaseline from '@material-ui/core/CssBaseline';
-import { ThemeProvider } from '@material-ui/core/styles';
-import { baseThemes } from 'components/Themes';
+import { AppProvider } from './useApp';
+import { AuthProvider } from './useAuth';
+import { PassageProvider } from './usePassage';
+import { ProfileProvider } from './useProfile';
+import { ScreenProvider } from './useScreen';
+import { WordsProvider } from './useWords';
 
-const Context = createContext(null);
+export { useApp } from './useApp';
+export { useAuth } from './useAuth';
+export { usePassage } from './usePassage';
+export { useProfile } from './useProfile';
+export { useScreen } from './useScreen';
+export { useWords } from './useWords';
 
-export const useApp = () => useContext(Context);
-
-export const AppProvider = memo(props => {
-	const prefersDarkMode = useMediaQuery('(prefers-color-scheme: dark)');
-	const [theme, setTheme] = useState(prefersDarkMode ? 'dark' : 'light');
-	const [maxWidth, setMaxWidth] = useState('sm');
-	const [view, setView] = useState('Home');
-
-	useLayoutEffect(() => {
-		if (prefersDarkMode && theme !== 'dark') {
-			setTheme('dark');
-		}
-	}, [prefersDarkMode]);
-
-	const state = {
-		maxWidth,
-		setMaxWidth,
-		setTheme,
-		setView,
-		theme,
-		view,
-	};
-
-	return <Context.Provider value={state}>
-		<ThemeProvider theme={baseThemes[theme]}>
-			<CssBaseline />
-			{props.children}
-		</ThemeProvider>
-	</Context.Provider>
-});
+export const Provider = props => {
+	return <AppProvider>
+		<AuthProvider>
+			<ProfileProvider>
+				<PassageProvider>
+					<ScreenProvider>
+						<WordsProvider>
+							{props.children}
+						</WordsProvider>
+					</ScreenProvider>
+				</PassageProvider>
+			</ProfileProvider>
+		</AuthProvider>
+	</AppProvider>;
+};

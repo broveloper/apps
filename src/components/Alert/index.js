@@ -1,6 +1,8 @@
 import { createRef, forwardRef, useEffect, useImperativeHandle, useState } from 'react';
+import { createPortal } from 'react-dom';
 import Snackbar from '@material-ui/core/Snackbar';
 import MuiAlert from '@material-ui/lab/Alert';
+import { mountNode } from 'components/App';
 
 export const Alert = forwardRef((props, ref) => {
 	const {
@@ -32,19 +34,17 @@ export const Alert = forwardRef((props, ref) => {
 		}
 	}, [open]);
 
-	return (
-		<Snackbar
-			autoHideDuration={autoHideDuration}
+	return createPortal(<Snackbar
+		autoHideDuration={autoHideDuration}
+		onClose={handleClose}
+		open={open}
+		ref={ref}>
+		<MuiAlert
+			elevation={6}
 			onClose={handleClose}
-			open={open}
-			ref={ref}>
-			<MuiAlert
-				elevation={6}
-				onClose={handleClose}
-				severity={severity}
-				variant={variant}>
-				{message}
-			</MuiAlert>
-		</Snackbar>
-	);
+			severity={severity}
+			variant={variant}>
+			{message}
+		</MuiAlert>
+	</Snackbar>, mountNode);
 });

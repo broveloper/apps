@@ -106,6 +106,20 @@ exports.getBible = (req, res) => {
 	}
 };
 
+exports.getChapter = async (req, res) => {
+	try {
+		const { version, bookname, chapternum } = req.params;
+		const bible = getBible(version);
+		const books = bible.books;
+		const book_name = fuzzy.filter(bookname, Object.keys(books))?.[0]?.string;
+		const book = books[book_name];
+		const { content, ...chapter } = getChapter(version, book.book_id, chapternum);
+		res.status(200).send(chapter);
+	} catch (err) {
+		res.status(500).send({ message: err });
+	}
+};
+
 exports.getPassage = async (req, res) => {
 	try {
 		const { version } = req.params;

@@ -37,7 +37,7 @@ export const AppBarBottom = () => {
 					showLabels
 					value={view}>
 					<BottomNavigationAction label="Home" value="Home" icon={<HomeIcon />} />
-					<BottomNavigationAction label="Recall" value="Passage" icon={<ChromeReaderModeIcon />} />
+					<BottomNavigationAction label="Recall" value="Recall" icon={<ChromeReaderModeIcon />} />
 					<BottomNavigationAction label="More" value="More" icon={<MenuIcon />} />
 					{/* <BottomNavigationAction label="Profile" value="profile" icon={<PersonIcon />} /> */}
 				</BottomNavigation>

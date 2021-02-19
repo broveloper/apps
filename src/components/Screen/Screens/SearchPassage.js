@@ -1,8 +1,11 @@
 import _ from 'lodash';
-import { useEffect, useRef, useState } from 'react';
+import { forwardRef, useEffect, useRef, useState } from 'react';
+import { useAsync, useUpdateEffect } from 'react-use';
 import { makeStyles } from '@material-ui/core/styles';
 import Divider from '@material-ui/core/Divider';
 import Box from '@material-ui/core/Box';
+import Slider from '@material-ui/core/Slider';
+import Typography from '@material-ui/core/Typography';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
 import ListItemText from '@material-ui/core/ListItemText';
@@ -11,8 +14,9 @@ import InputBase from '@material-ui/core/InputBase';
 import IconButton from '@material-ui/core/IconButton';
 import SearchIcon from '@material-ui/icons/Search';
 import CheckCircleIcon from '@material-ui/icons/CheckCircle';
-import { usePassage } from '@utils/usePassage';
+import { usePassage } from '@utils/useApp';
 import { AppContainer } from 'components/App';
+import { Screen } from '../Screen';
 
 const useStyles = makeStyles(theme => ({
 	item: {
@@ -24,9 +28,66 @@ const useStyles = makeStyles(theme => ({
 	},
 }));
 
-export const Search = props => {
+const PassageChapterSlider = props => {
 	const {
-		setUI,
+		book,
+		chapter,
+		onChange,
+	} = props;
+	const [stateValue, setStateValue] = useState(chapter);
+	useUpdateEffect(() => {
+		setStateValue(chapter);
+	}, [chapter]);
+	return <Box px={2} my={2}>
+		<Typography gutterBottom variant="body2">{`Chapter ${stateValue}`}</Typography>
+		<Slider
+			defaultValue={1}
+			onChange={(e, value) => setStateValue(value)}
+			onChangeCommitted={(e, value) => onChange(e, value)}
+			step={1}
+			marks
+			min={1}
+			max={book.chapters}
+			value={stateValue} />
+	</Box>;
+};
+
+const PassageVersesSlider = props => {
+	const {
+		book,
+		chapter,
+		onChange,
+		verses,
+	} = props;
+	const {
+		getChapter,
+	} = usePassage();
+
+	const { value: data } = useAsync(() => getChapter(book.book_name, chapter), [book.book_name, chapter]);
+	const getRange = value => _.chain(value).split('-').filter().map(num => parseInt(num)).reject(isNaN)
+		.thru(range => range.length === 0 ? [1, 1] : range.length === 1 ? [range[0], range[0]] : range)
+		.value();
+	const [stateValue, setStateValue] = useState(getRange(verses));
+	useUpdateEffect(() => {
+		setStateValue(getRange(verses));
+	}, [verses]);
+
+	return <Box px={2}>
+		<Typography gutterBottom variant="body2">{`Verse${stateValue.length > 1 ? 's' : ''} ${_.uniq(stateValue).join('-')}`}</Typography>
+		<Slider
+			defaultValue={[1,1]}
+			onChange={(e, value) => setStateValue(value)}
+			onChangeCommitted={(e, value) => onChange(e, value)}
+			step={1}
+			min={1}
+			max={data?.verses || 10}
+			value={stateValue} />
+	</Box>;
+};
+
+const PassageOptions = props => {
+	const {
+		hide,
 		transitionState,
 	} = props;
 	const {
@@ -41,7 +102,7 @@ export const Search = props => {
 	const classes = useStyles();
 	const [q, setQState] = useState(passage);
 	const books = getBooksBySearch(q);
-	
+
 	const setQ = (q, options) => {
 		if (isSearchValid(q)) {
 			const qbookname = getSearchBookName(q);
@@ -63,7 +124,7 @@ export const Search = props => {
 			const cv = _.filter([c, v]).join(':');
 			setPassage(`${bookname} ${cv}`);
 		}
-		setUI('default');
+		hide();
 	};
 
 	const handleChange = e => {
@@ -83,6 +144,18 @@ export const Search = props => {
 		setQ(`${book_name} `);
 		inputRef.current.focus();
 	};
+
+	const passageMeta = getSearchPassageMeta(q);
+	const chapterValue = passageMeta[1] ? parseInt(passageMeta[1]) : 1;
+	const handleChangeChapter = (e, value) => value !== chapterValue && setQ(`${passageMeta[0]} ${value}`);
+	const handleChangeVerses = (e, value) => {
+		value = _.chain(value).uniq().join('-').value();
+		return value && setQ(`${passageMeta[0]} ${passageMeta[1]}:${value}`);
+	};
+
+	useUpdateEffect(() => {
+		setQState(passage);
+	}, [passage]);
 
 	useEffect(() => {
 		if (transitionState === 'entered') {
@@ -136,6 +209,19 @@ export const Search = props => {
 						})}
 					</List>
 				</AppContainer>
+				{books.length === 1 && <AppContainer>
+					<PassageChapterSlider
+						book={books[0]}
+						chapter={chapterValue}
+						onChange={handleChangeChapter} />
+				</AppContainer>}
+				{books.length === 1 && <AppContainer>
+					<PassageVersesSlider
+						book={books[0]}
+						chapter={chapterValue}
+						onChange={handleChangeVerses}
+						verses={passageMeta[2]} />
+				</AppContainer>}
 			</Box>
 			<Box
 				position="absolute"
@@ -151,3 +237,9 @@ export const Search = props => {
 		</Box>
 	</>;
 };
+
+export const SearchPassage = forwardRef((props, ref) => {
+	return <Screen ref={ref}>
+		<PassageOptions />
+	</Screen>;
+});

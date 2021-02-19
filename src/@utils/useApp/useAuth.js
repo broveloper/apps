@@ -1,6 +1,6 @@
 import axios from 'axios';
 import jwt from 'jsonwebtoken';
-import { createContext, memo, useContext, useMemo } from 'react';
+import { createContext, useContext, useMemo } from 'react';
 import { useLocalStorage } from 'react-use';
 
 const ACCESS_TOKEN_KEY = 'memo.token';
@@ -11,7 +11,7 @@ const Context = createContext(null);
 
 export const useAuth = () => useContext(Context);
 
-export const AuthProvider = memo(props => {
+export const AuthProvider = props => {
 	const [token, setToken, removeToken] = useLocalStorage(ACCESS_TOKEN_KEY, null);
 
 	const {
@@ -33,7 +33,7 @@ export const AuthProvider = memo(props => {
 		memoized.signin = async (email, password) => await sign('/v1/auth/signin', email, password);
 
 		memoized.signup = async (email, password) => await sign('/v1/auth/signup', email, password);
-		
+
 		memoized.signout = () => removeToken();
 
 		memoized.user = token ? jwt.decode(token) : null;
@@ -56,4 +56,4 @@ export const AuthProvider = memo(props => {
 	return <Context.Provider value={state}>
 		{props.children}
 	</Context.Provider>;
-});
+};

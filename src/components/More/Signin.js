@@ -7,7 +7,7 @@ import Container from '@material-ui/core/Container';
 import TextField from '@material-ui/core/TextField';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
-import { useAuth } from '@utils/useAuth';
+import { useAuth } from '@utils/useApp';
 import { Alert } from 'components/Alert';
 
 const useStyles = makeStyles(theme => ({

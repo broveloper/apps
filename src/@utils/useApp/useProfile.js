@@ -1,13 +1,16 @@
 import axios from 'axios';
-import { createContext, memo, useContext, useEffect, useMemo, useState } from 'react';
-import { useAuth } from '@utils/useAuth';
+import { createContext, useContext, useEffect, useMemo, useState } from 'react';
+import { useAuth } from '@utils/useApp';
 
 const Context = createContext(null);
 
 export const useProfile = () => useContext(Context);
 
-export const ProfileProvider = memo(props => {
-	const { token } = useAuth();
+export const ProfileProvider = props => {
+	const {
+		removeToken,
+		token,
+	} = useAuth();
 	const [profile, setProfile] = useState(null);
 
 	const {
@@ -20,8 +23,12 @@ export const ProfileProvider = memo(props => {
 		});
 		const memoized = {};
 		memoized.getProfile = async () => {
-			const res = await request.get('/v1/profile');
-			setProfile(res.data);
+			try {
+				const res = await request.get('/v1/profile');
+				setProfile(res.data);
+			} catch (err) {
+				removeToken();
+			}
 		};
 
 		memoized.bookmarkPassage = async (passage, version) => {
@@ -48,4 +55,4 @@ export const ProfileProvider = memo(props => {
 	return <Context.Provider value={state}>
 		{token && !profile ? null : props.children}
 	</Context.Provider>;
-})
+};
