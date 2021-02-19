@@ -31,13 +31,13 @@ export const AppBarTop = props => {
 				<Box display="flex">
 					{children}
 				</Box>
-				<AppBarTheme>
+				{/* <AppBarTheme>
 					<IconButton
 						color="primary"
 						onClick={handleBrightness} >
 						<BrightnessIcon />
 					</IconButton>
-				</AppBarTheme>
+				</AppBarTheme> */}
 			</Box>
 		</AppContainer>
 		<Divider />
