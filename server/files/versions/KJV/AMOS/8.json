@@ -2,18 +2,19 @@
   "book_id": "AMOS",
   "book_name": "Amos",
   "chapter": 8,
+  "verses": 14,
   "content": [
     {
-      "text": "Thus hath the Lord  shewed unto me: and behold a basket of summer fruit.",
+      "text": "Thus hath the Lord God shewed unto me: and behold a basket of summer fruit.",
       "verse": 1
     },
     {
-      "text": "And he said, Amos, what seest thou? And I said, A basket of summer fruit. Then said the  unto me, The end is come upon my people of Israel; I will not again pass by them any more.",
+      "text": "And he said, Amos, what seest thou? And I said, A basket of summer fruit. Then said the Lord unto me, The end is come upon my people of Israel; I will not again pass by them any more.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "And the songs of the temple shall be howlings in that day, saith the Lord : there shall be many dead bodies in every place; they shall cast them forth with silence.",
+      "text": "And the songs of the temple shall be howlings in that day, saith the Lord God: there shall be many dead bodies in every place; they shall cast them forth with silence.",
       "verse": 3,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "The  hath sworn by the excellency of Jacob, Surely I will never forget any of their works.",
+      "text": "The Lord hath sworn by the excellency of Jacob, Surely I will never forget any of their works.",
       "verse": 7,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "And it shall come to pass in that day, saith the Lord , that I will cause the sun to go down at noon, and I will darken the earth in the clear day:",
+      "text": "And it shall come to pass in that day, saith the Lord God, that I will cause the sun to go down at noon, and I will darken the earth in the clear day:",
       "verse": 9,
       "type": "newline"
     },
@@ -53,12 +54,12 @@
       "type": "newline"
     },
     {
-      "text": "Behold, the days come, saith the Lord , that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the :",
+      "text": "Behold, the days come, saith the Lord God, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the Lord:",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "And they shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the word of the , and shall not find it.",
+      "text": "And they shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the word of the Lord, and shall not find it.",
       "verse": 12,
       "type": "newline"
     },

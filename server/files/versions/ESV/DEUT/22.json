@@ -2,6 +2,7 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 22,
+  "verses": 30,
   "content": [
     {
       "text": "Various Laws",
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "“A woman shall not wear a man's garment, nor shall a man put on a woman's cloak, for whoever does these things is an abomination to the  your God.",
+      "text": "“A woman shall not wear a man's garment, nor shall a man put on a woman's cloak, for whoever does these things is an abomination to the Lord your God.",
       "verse": 5,
       "type": "newline"
     },
@@ -139,7 +140,7 @@
       "verse": 29
     },
     {
-      "text": "“A man shall not take his father's wife, so that he does not uncover his father's nakedness.",
+      "text": " “A man shall not take his father's wife, so that he does not uncover his father's nakedness.",
       "verse": 30,
       "type": "newline"
     }

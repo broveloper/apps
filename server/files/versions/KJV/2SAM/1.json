@@ -2,6 +2,7 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 1,
+  "verses": 27,
   "content": [
     {
       "text": "Now it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had abode two days in Ziklag;",
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "And they mourned, and wept, and fasted until even, for Saul, and for Jonathan his son, and for the people of the , and for the house of Israel; because they were fallen by the sword.",
+      "text": "And they mourned, and wept, and fasted until even, for Saul, and for Jonathan his son, and for the people of the Lord, and for the house of Israel; because they were fallen by the sword.",
       "verse": 12,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "And David said unto him, How wast thou not afraid to stretch forth thine hand to destroy the 's anointed?",
+      "text": "And David said unto him, How wast thou not afraid to stretch forth thine hand to destroy the Lord's anointed?",
       "verse": 14,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "And David said unto him, Thy blood be upon thy head; for thy mouth hath testified against thee, saying, I have slain the 's anointed.",
+      "text": "And David said unto him, Thy blood be upon thy head; for thy mouth hath testified against thee, saying, I have slain the Lord's anointed.",
       "verse": 16,
       "type": "newline"
     },

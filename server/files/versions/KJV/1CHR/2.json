@@ -2,6 +2,7 @@
   "book_id": "1CHR",
   "book_name": "1 Chronicles",
   "chapter": 2,
+  "verses": 55,
   "content": [
     {
       "text": "These are the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun,",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "The sons of Judah; Er, and Onan, and Shelah: which three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the ; and he slew him.",
+      "text": "The sons of Judah; Er, and Onan, and Shelah: which three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the Lord; and he slew him.",
       "verse": 3,
       "type": "newline"
     },

@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 46,
+  "verses": 28,
   "content": [
     {
       "text": "A Message About Egypt",
       "type": "heading"
     },
     {
-      "text": "This is the word of the  that came to Jeremiah the prophet concerning the nations:",
+      "text": "This is the word of the Lord that came to Jeremiah the prophet concerning the nations:",
       "verse": 1,
       "type": "newline"
     },
@@ -98,7 +99,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 5,
       "type": "poetry"
     },
@@ -173,7 +174,7 @@
       "type": "poetry"
     },
     {
-      "text": "But that day belongs to the Lord, the  Almighty—",
+      "text": "But that day belongs to the Lord, the Lord Almighty—",
       "verse": 10,
       "type": "poetry"
     },
@@ -193,7 +194,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the Lord, the  Almighty, will offer sacrifice",
+      "text": "For the Lord, the Lord Almighty, will offer sacrifice",
       "verse": 10,
       "type": "poetry"
     },
@@ -243,7 +244,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is the message the  spoke to Jeremiah the prophet about the coming of Nebuchadnezzar king of Babylon to attack Egypt:",
+      "text": "This is the message the Lord spoke to Jeremiah the prophet about the coming of Nebuchadnezzar king of Babylon to attack Egypt:",
       "verse": 13,
       "type": "newline"
     },
@@ -273,7 +274,7 @@
       "type": "poetry"
     },
     {
-      "text": "They cannot stand, for the  will push them down.",
+      "text": "They cannot stand, for the Lord will push them down.",
       "verse": 15,
       "type": "poetry"
     },
@@ -323,7 +324,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "whose name is the  Almighty,",
+      "text": "whose name is the Lord Almighty,",
       "verse": 18,
       "type": "poetry"
     },
@@ -428,7 +429,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 23,
       "type": "poetry"
     },
@@ -458,12 +459,12 @@
       "type": "poetry"
     },
     {
-      "text": "The  Almighty, the God of Israel, says: “I am about to bring punishment on Amon god of Thebes, on Pharaoh, on Egypt and her gods and her kings, and on those who rely on Pharaoh.",
+      "text": "The Lord Almighty, the God of Israel, says: “I am about to bring punishment on Amon god of Thebes, on Pharaoh, on Egypt and her gods and her kings, and on those who rely on Pharaoh.",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "I will give them into the hands of those who want to kill them—Nebuchadnezzar king of Babylon and his officers. Later, however, Egypt will be inhabited as in times past,” declares the .",
+      "text": "I will give them into the hands of those who want to kill them—Nebuchadnezzar king of Babylon and his officers. Later, however, Egypt will be inhabited as in times past,” declares the Lord.",
       "verse": 26
     },
     {
@@ -502,7 +503,7 @@
       "type": "poetry"
     },
     {
-      "text": "for I am with you,” declares the .",
+      "text": "for I am with you,” declares the Lord.",
       "verse": 28,
       "type": "poetry"
     },

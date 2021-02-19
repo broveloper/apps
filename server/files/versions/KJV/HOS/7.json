@@ -2,6 +2,7 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 7,
+  "verses": 16,
   "content": [
     {
       "text": "When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief cometh in, and the troop of robbers spoileth without.",
@@ -48,7 +49,7 @@
       "type": "newline"
     },
     {
-      "text": "And the pride of Israel testifieth to his face: and they do not return to the  their God, nor seek him for all this.",
+      "text": "And the pride of Israel testifieth to his face: and they do not return to the Lord their God, nor seek him for all this.",
       "verse": 10,
       "type": "newline"
     },

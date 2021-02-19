@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 26,
+  "verses": 32,
   "content": [
     {
       "text": "Paul's Defense Before Agrippa",
@@ -69,23 +70,23 @@
       "verse": 13
     },
     {
-      "text": "And when we had all fallen to the ground, I heard a voice saying to me in the Hebrew language,",
+      "text": "And when we had all fallen to the ground, I heard a voice saying to me in the Hebrew language, ‘Saul, Saul, why are you persecuting me? It is hard for you to kick against the goads.’",
       "verse": 14
     },
     {
-      "text": "And I said, ‘Who are you, Lord?’ And the Lord said,",
+      "text": "And I said, ‘Who are you, Lord?’ And the Lord said, ‘I am Jesus whom you are persecuting.",
       "verse": 15
     },
     {
-      "text": "",
+      "text": "But rise and stand upon your feet, for I have appeared to you for this purpose, to appoint you as a servant and witness to the things in which you have seen me and to those in which I will appear to you,",
       "verse": 16
     },
     {
-      "text": "",
+      "text": "delivering you from your people and from the Gentiles—to whom I am sending you",
       "verse": 17
     },
     {
-      "text": "",
+      "text": "to open their eyes, so that they may turn from darkness to light and from the power of Satan to God, that they may receive forgiveness of sins and a place among those who are sanctified by faith in me.’",
       "verse": 18
     },
     {

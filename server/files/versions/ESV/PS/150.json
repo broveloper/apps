@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 150,
+  "verses": 6,
   "content": [
     {
-      "text": "Let Everything Praise the",
+      "text": "Let Everything Praise the Lord",
       "type": "heading"
     },
     {
-      "text": "Praise the !",
+      "text": "Praise the Lord!",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -63,12 +64,12 @@
       "type": "poetry"
     },
     {
-      "text": "Let everything that has breath praise the !",
+      "text": "Let everything that has breath praise the Lord!",
       "verse": 6,
       "type": "poetry"
     },
     {
-      "text": "Praise the !",
+      "text": "Praise the Lord!",
       "verse": 6,
       "type": "poetry"
     }

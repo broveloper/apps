@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 16,
+  "verses": 11,
   "content": [
     {
       "text": "You Will Not Abandon My Soul",
@@ -9,8 +10,7 @@
     },
     {
       "text": "A Miktam of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Preserve me, O God, for in you I take refuge.",
@@ -18,7 +18,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "I say to the , “You are my Lord;",
+      "text": "I say to the Lord, “You are my Lord;",
       "verse": 2,
       "type": "poetry"
     },
@@ -53,7 +53,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is my chosen portion and my cup;",
+      "text": "The Lord is my chosen portion and my cup;",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -73,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "I bless the  who gives me counsel;",
+      "text": "I bless the Lord who gives me counsel;",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -83,7 +83,7 @@
       "type": "poetry"
     },
     {
-      "text": "I have set the  always before me;",
+      "text": "I have set the Lord always before me;",
       "verse": 8,
       "type": "poetry"
     },

@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 26,
+  "verses": 21,
   "content": [
     {
       "text": "A Prophecy Against Tyre",
       "type": "heading"
     },
     {
-      "text": "In the eleventh month of the twelfth year, on the first day of the month, the word of the  came to me:",
+      "text": "In the eleventh month of the twelfth year, on the first day of the month, the word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "therefore this is what the Sovereign  says: I am against you, Tyre, and I will bring many nations against you, like the sea casting up its waves.",
+      "text": "therefore this is what the Sovereign Lord says: I am against you, Tyre, and I will bring many nations against you, like the sea casting up its waves.",
       "verse": 3
     },
     {
@@ -25,15 +26,15 @@
       "verse": 4
     },
     {
-      "text": "Out in the sea she will become a place to spread fishnets, for I have spoken, declares the Sovereign . She will become plunder for the nations,",
+      "text": "Out in the sea she will become a place to spread fishnets, for I have spoken, declares the Sovereign Lord. She will become plunder for the nations,",
       "verse": 5
     },
     {
-      "text": "and her settlements on the mainland will be ravaged by the sword. Then they will know that I am the .",
+      "text": "and her settlements on the mainland will be ravaged by the sword. Then they will know that I am the Lord.",
       "verse": 6
     },
     {
-      "text": "“For this is what the Sovereign  says: From the north I am going to bring against Tyre Nebuchadnezzar king of Babylon, king of kings, with horses and chariots, with horsemen and a great army.",
+      "text": "“For this is what the Sovereign Lord says: From the north I am going to bring against Tyre Nebuchadnezzar king of Babylon, king of kings, with horses and chariots, with horsemen and a great army.",
       "verse": 7,
       "type": "newline"
     },
@@ -62,11 +63,11 @@
       "verse": 13
     },
     {
-      "text": "I will make you a bare rock, and you will become a place to spread fishnets. You will never be rebuilt, for I the  have spoken, declares the Sovereign .",
+      "text": "I will make you a bare rock, and you will become a place to spread fishnets. You will never be rebuilt, for I the Lord have spoken, declares the Sovereign Lord.",
       "verse": 14
     },
     {
-      "text": "“This is what the Sovereign  says to Tyre: Will not the coastlands tremble at the sound of your fall, when the wounded groan and the slaughter takes place in you?",
+      "text": "“This is what the Sovereign Lord says to Tyre: Will not the coastlands tremble at the sound of your fall, when the wounded groan and the slaughter takes place in you?",
       "verse": 15,
       "type": "newline"
     },
@@ -129,7 +130,7 @@
       "type": "poetry"
     },
     {
-      "text": "“This is what the Sovereign  says: When I make you a desolate city, like cities no longer inhabited, and when I bring the ocean depths over you and its vast waters cover you,",
+      "text": "“This is what the Sovereign Lord says: When I make you a desolate city, like cities no longer inhabited, and when I bring the ocean depths over you and its vast waters cover you,",
       "verse": 19,
       "type": "newline"
     },
@@ -138,7 +139,7 @@
       "verse": 20
     },
     {
-      "text": "I will bring you to a horrible end and you will be no more. You will be sought, but you will never again be found, declares the Sovereign .”",
+      "text": "I will bring you to a horrible end and you will be no more. You will be sought, but you will never again be found, declares the Sovereign Lord.”",
       "verse": 21
     }
   ]

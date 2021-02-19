@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 28,
+  "verses": 25,
   "content": [
     {
       "text": "And it came to pass in those days, that the Philistines gathered their armies together for warfare, to fight with Israel. And Achish said unto David, Know thou assuredly, that thou shalt go out with me to battle, thou and thy men.",
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "And when Saul enquired of the , the  answered him not, neither by dreams, nor by Urim, nor by prophets.",
+      "text": "And when Saul enquired of the Lord, the Lord answered him not, neither by dreams, nor by Urim, nor by prophets.",
       "verse": 6,
       "type": "newline"
     },
@@ -48,7 +49,7 @@
       "type": "newline"
     },
     {
-      "text": "And Saul sware to her by the , saying, As the  liveth, there shall no punishment happen to thee for this thing.",
+      "text": "And Saul sware to her by the Lord, saying, As the Lord liveth, there shall no punishment happen to thee for this thing.",
       "verse": 10,
       "type": "newline"
     },
@@ -78,22 +79,22 @@
       "type": "newline"
     },
     {
-      "text": "Then said Samuel, Wherefore then dost thou ask of me, seeing the  is departed from thee, and is become thine enemy?",
+      "text": "Then said Samuel, Wherefore then dost thou ask of me, seeing the Lord is departed from thee, and is become thine enemy?",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "And the  hath done to him, as he spake by me: for the  hath rent the kingdom out of thine hand, and given it to thy neighbour, even to David:",
+      "text": "And the Lord hath done to him, as he spake by me: for the Lord hath rent the kingdom out of thine hand, and given it to thy neighbour, even to David:",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "Because thou obeyedst not the voice of the , nor executedst his fierce wrath upon Amalek, therefore hath the  done this thing unto thee this day.",
+      "text": "Because thou obeyedst not the voice of the Lord, nor executedst his fierce wrath upon Amalek, therefore hath the Lord done this thing unto thee this day.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "Moreover the  will also deliver Israel with thee into the hand of the Philistines: and to morrow shalt thou and thy sons be with me: the  also shall deliver the host of Israel into the hand of the Philistines.",
+      "text": "Moreover the Lord will also deliver Israel with thee into the hand of the Philistines: and to morrow shalt thou and thy sons be with me: the Lord also shall deliver the host of Israel into the hand of the Philistines.",
       "verse": 19,
       "type": "newline"
     },

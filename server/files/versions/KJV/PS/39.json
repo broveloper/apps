@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 39,
+  "verses": 13,
   "content": [
     {
       "text": "I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me.",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": ", make me to know mine end, and the measure of my days, what it is: that I may know how frail I am.",
+      "text": "Lord, make me to know mine end, and the measure of my days, what it is: that I may know how frail I am.",
       "verse": 4,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "Hear my prayer, O , and give ear unto my cry; hold not thy peace at my tears: for I am a stranger with thee, and a sojourner, as all my fathers were.",
+      "text": "Hear my prayer, O Lord, and give ear unto my cry; hold not thy peace at my tears: for I am a stranger with thee, and a sojourner, as all my fathers were.",
       "verse": 12,
       "type": "newline"
     },

@@ -2,9 +2,10 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 14,
+  "verses": 32,
   "content": [
     {
-      "text": "The  will have compassion on Jacob;",
+      "text": "The Lord will have compassion on Jacob;",
       "verse": 1,
       "type": "poetry"
     },
@@ -44,7 +45,7 @@
       "type": "poetry"
     },
     {
-      "text": "and make them male and female servants in the ’s land.",
+      "text": "and make them male and female servants in the Lord’s land.",
       "verse": 2,
       "type": "poetry"
     },
@@ -59,7 +60,7 @@
       "type": "poetry"
     },
     {
-      "text": "On the day the  gives you relief from your suffering and turmoil and from the harsh labor forced on you,",
+      "text": "On the day the Lord gives you relief from your suffering and turmoil and from the harsh labor forced on you,",
       "verse": 3,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has broken the rod of the wicked,",
+      "text": "The Lord has broken the rod of the wicked,",
       "verse": 5,
       "type": "poetry"
     },
@@ -353,7 +354,7 @@
       "type": "poetry"
     },
     {
-      "text": "you will not join them in burial,",
+      "text": "    you will not join them in burial,",
       "verse": 20,
       "type": "poetry"
     },
@@ -403,7 +404,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "declares the  Almighty.",
+      "text": "declares the Lord Almighty.",
       "verse": 22,
       "type": "poetry"
     },
@@ -418,7 +419,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 22,
       "type": "poetry"
     },
@@ -438,12 +439,12 @@
       "type": "poetry"
     },
     {
-      "text": "declares the  Almighty.",
+      "text": "declares the Lord Almighty.",
       "verse": 23,
       "type": "poetry"
     },
     {
-      "text": "The  Almighty has sworn,",
+      "text": "The Lord Almighty has sworn,",
       "verse": 24,
       "type": "newline"
     },
@@ -488,7 +489,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the  Almighty has purposed, and who can thwart him?",
+      "text": "For the Lord Almighty has purposed, and who can thwart him?",
       "verse": 27,
       "type": "poetry"
     },
@@ -577,7 +578,7 @@
       "type": "poetry"
     },
     {
-      "text": "“The  has established Zion,",
+      "text": "“The Lord has established Zion,",
       "verse": 32,
       "type": "poetry"
     },

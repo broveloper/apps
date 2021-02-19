@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 5,
+  "verses": 39,
   "content": [
     {
       "text": "Jesus Calls the First Disciples",
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "And when he had finished speaking, he said to Simon,",
+      "text": "And when he had finished speaking, he said to Simon, “Put out into the deep and let down your nets for a catch.”",
       "verse": 4
     },
     {
@@ -45,7 +46,7 @@
       "verse": 9
     },
     {
-      "text": "and so also were James and John, sons of Zebedee, who were partners with Simon. And Jesus said to Simon,",
+      "text": "and so also were James and John, sons of Zebedee, who were partners with Simon. And Jesus said to Simon, “Do not be afraid; from now on you will be catching men.”",
       "verse": 10
     },
     {
@@ -62,11 +63,11 @@
       "type": "newline"
     },
     {
-      "text": "And Jesus stretched out his hand and touched him, saying,  And immediately the leprosy left him.",
+      "text": "And Jesus stretched out his hand and touched him, saying, “I will; be clean.” And immediately the leprosy left him.",
       "verse": 13
     },
     {
-      "text": "And he charged him to tell no one, but",
+      "text": "And he charged him to tell no one, but “go and show yourself to the priest, and make an offering for your cleansing, as Moses commanded, for a proof to them.”",
       "verse": 14
     },
     {
@@ -95,7 +96,7 @@
       "verse": 19
     },
     {
-      "text": "And when he saw their faith, he said,",
+      "text": "And when he saw their faith, he said, “Man, your sins are forgiven you.”",
       "verse": 20
     },
     {
@@ -103,15 +104,15 @@
       "verse": 21
     },
     {
-      "text": "When Jesus perceived their thoughts, he answered them,",
+      "text": "When Jesus perceived their thoughts, he answered them, “Why do you question in your hearts?",
       "verse": 22
     },
     {
-      "text": "",
+      "text": "Which is easier, to say, ‘Your sins are forgiven you,’ or to say, ‘Rise and walk’?",
       "verse": 23
     },
     {
-      "text": "—he said to the man who was paralyzed—",
+      "text": "But that you may know that the Son of Man has authority on earth to forgive sins”—he said to the man who was paralyzed—“I say to you, rise, pick up your bed and go home.”",
       "verse": 24
     },
     {
@@ -127,7 +128,7 @@
       "type": "heading"
     },
     {
-      "text": "After this he went out and saw a tax collector named Levi, sitting at the tax booth. And he said to him,",
+      "text": "After this he went out and saw a tax collector named Levi, sitting at the tax booth. And he said to him, “Follow me.”",
       "verse": 27,
       "type": "newline"
     },
@@ -145,11 +146,11 @@
       "verse": 30
     },
     {
-      "text": "And Jesus answered them,",
+      "text": "And Jesus answered them, “Those who are well have no need of a physician, but those who are sick.",
       "verse": 31
     },
     {
-      "text": "",
+      "text": "I have not come to call the righteous but sinners to repentance.”",
       "verse": 32
     },
     {
@@ -162,27 +163,27 @@
       "type": "newline"
     },
     {
-      "text": "And Jesus said to them,",
+      "text": "And Jesus said to them, “Can you make wedding guests fast while the bridegroom is with them?",
       "verse": 34
     },
     {
-      "text": "",
+      "text": "The days will come when the bridegroom is taken away from them, and then they will fast in those days.”",
       "verse": 35
     },
     {
-      "text": "He also told them a parable:",
+      "text": "He also told them a parable: “No one tears a piece from a new garment and puts it on an old garment. If he does, he will tear the new, and the piece from the new will not match the old.",
       "verse": 36
     },
     {
-      "text": "",
+      "text": "And no one puts new wine into old wineskins. If he does, the new wine will burst the skins and it will be spilled, and the skins will be destroyed.",
       "verse": 37
     },
     {
-      "text": "",
+      "text": "But new wine must be put into fresh wineskins.",
       "verse": 38
     },
     {
-      "text": "",
+      "text": "And no one after drinking old wine desires new, for he says, ‘The old is good.’”",
       "verse": 39
     }
   ]

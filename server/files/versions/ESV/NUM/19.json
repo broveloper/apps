@@ -2,18 +2,19 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 19,
+  "verses": 22,
   "content": [
     {
       "text": "Laws for Purification",
       "type": "heading"
     },
     {
-      "text": "Now the  spoke to Moses and to Aaron, saying,",
+      "text": "Now the Lord spoke to Moses and to Aaron, saying,",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“This is the statute of the law that the  has commanded: Tell the people of Israel to bring you a red heifer without defect, in which there is no blemish, and on which a yoke has never come.",
+      "text": "“This is the statute of the law that the Lord has commanded: Tell the people of Israel to bring you a red heifer without defect, in which there is no blemish, and on which a yoke has never come.",
       "verse": 2
     },
     {
@@ -58,7 +59,7 @@
       "verse": 12
     },
     {
-      "text": "Whoever touches a dead person, the body of anyone who has died, and does not cleanse himself, defiles the tabernacle of the , and that person shall be cut off from Israel; because the water for impurity was not thrown on him, he shall be unclean. His uncleanness is still on him.",
+      "text": "Whoever touches a dead person, the body of anyone who has died, and does not cleanse himself, defiles the tabernacle of the Lord, and that person shall be cut off from Israel; because the water for impurity was not thrown on him, he shall be unclean. His uncleanness is still on him.",
       "verse": 13
     },
     {
@@ -87,7 +88,7 @@
       "verse": 19
     },
     {
-      "text": "“If the man who is unclean does not cleanse himself, that person shall be cut off from the midst of the assembly, since he has defiled the sanctuary of the . Because the water for impurity has not been thrown on him, he is unclean.",
+      "text": "“If the man who is unclean does not cleanse himself, that person shall be cut off from the midst of the assembly, since he has defiled the sanctuary of the Lord. Because the water for impurity has not been thrown on him, he is unclean.",
       "verse": 20,
       "type": "newline"
     },

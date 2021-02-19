@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 46,
+  "verses": 11,
   "content": [
     {
       "text": "God Is Our Fortress",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster. Of the Sons of Korah. According to Alamoth. A Song.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "God is our refuge and strength,",
@@ -38,7 +38,7 @@
       "type": "poetry"
     },
     {
-      "text": "though the mountains tremble at its swelling.",
+      "text": "though the mountains tremble at its swelling. Selah",
       "verse": 3,
       "type": "poetry"
     },
@@ -73,17 +73,17 @@
       "type": "poetry"
     },
     {
-      "text": "The  of hosts is with us;",
+      "text": "The Lord of hosts is with us;",
       "verse": 7,
       "type": "poetry"
     },
     {
-      "text": "the God of Jacob is our fortress.",
+      "text": "the God of Jacob is our fortress. Selah",
       "verse": 7,
       "type": "poetry"
     },
     {
-      "text": "Come, behold the works of the ,",
+      "text": "Come, behold the works of the Lord,",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -123,12 +123,12 @@
       "type": "poetry"
     },
     {
-      "text": "The  of hosts is with us;",
+      "text": "The Lord of hosts is with us;",
       "verse": 11,
       "type": "poetry"
     },
     {
-      "text": "the God of Jacob is our fortress.",
+      "text": "the God of Jacob is our fortress. Selah",
       "verse": 11,
       "type": "poetry"
     }

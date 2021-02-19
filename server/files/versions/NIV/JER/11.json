@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 11,
+  "verses": 23,
   "content": [
     {
       "text": "The Covenant Is Broken",
       "type": "heading"
     },
     {
-      "text": "This is the word that came to Jeremiah from the :",
+      "text": "This is the word that came to Jeremiah from the Lord:",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "Tell them that this is what the , the God of Israel, says: ‘Cursed is the one who does not obey the terms of this covenant—",
+      "text": "Tell them that this is what the Lord, the God of Israel, says: ‘Cursed is the one who does not obey the terms of this covenant—",
       "verse": 3
     },
     {
@@ -29,12 +30,12 @@
       "verse": 5
     },
     {
-      "text": "I answered, “Amen, .”",
+      "text": "I answered, “Amen, Lord.”",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "The  said to me, “Proclaim all these words in the towns of Judah and in the streets of Jerusalem: ‘Listen to the terms of this covenant and follow them.",
+      "text": "The Lord said to me, “Proclaim all these words in the towns of Judah and in the streets of Jerusalem: ‘Listen to the terms of this covenant and follow them.",
       "verse": 6,
       "type": "newline"
     },
@@ -47,7 +48,7 @@
       "verse": 8
     },
     {
-      "text": "Then the  said to me, “There is a conspiracy among the people of Judah and those who live in Jerusalem.",
+      "text": "Then the Lord said to me, “There is a conspiracy among the people of Judah and those who live in Jerusalem.",
       "verse": 9,
       "type": "newline"
     },
@@ -56,7 +57,7 @@
       "verse": 10
     },
     {
-      "text": "Therefore this is what the  says: ‘I will bring on them a disaster they cannot escape. Although they cry out to me, I will not listen to them.",
+      "text": "Therefore this is what the Lord says: ‘I will bring on them a disaster they cannot escape. Although they cry out to me, I will not listen to them.",
       "verse": 11
     },
     {
@@ -98,7 +99,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  called you a thriving olive tree",
+      "text": "The Lord called you a thriving olive tree",
       "verse": 16,
       "type": "poetry newline"
     },
@@ -123,7 +124,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  Almighty, who planted you, has decreed disaster for you, because the people of both Israel and Judah have done evil and aroused my anger by burning incense to Baal.",
+      "text": "The Lord Almighty, who planted you, has decreed disaster for you, because the people of both Israel and Judah have done evil and aroused my anger by burning incense to Baal.",
       "verse": 17,
       "type": "newline"
     },
@@ -132,7 +133,7 @@
       "type": "heading"
     },
     {
-      "text": "Because the  revealed their plot to me, I knew it, for at that time he showed me what they were doing.",
+      "text": "Because the Lord revealed their plot to me, I knew it, for at that time he showed me what they were doing.",
       "verse": 18,
       "type": "newline"
     },
@@ -156,7 +157,7 @@
       "type": "poetry"
     },
     {
-      "text": "But you,  Almighty, who judge righteously",
+      "text": "But you, Lord Almighty, who judge righteously",
       "verse": 20,
       "type": "poetry"
     },
@@ -176,12 +177,12 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore this is what the  says about the people of Anathoth who are threatening to kill you, saying, “Do not prophesy in the name of the  or you will die by our hands”—",
+      "text": "Therefore this is what the Lord says about the people of Anathoth who are threatening to kill you, saying, “Do not prophesy in the name of the Lord or you will die by our hands”—",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "therefore this is what the  Almighty says: “I will punish them. Their young men will die by the sword, their sons and daughters by famine.",
+      "text": "therefore this is what the Lord Almighty says: “I will punish them. Their young men will die by the sword, their sons and daughters by famine.",
       "verse": 22
     },
     {

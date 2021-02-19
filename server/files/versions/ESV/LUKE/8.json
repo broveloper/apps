@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 8,
+  "verses": 56,
   "content": [
     {
       "text": "Women Accompanying Jesus",
@@ -30,19 +31,19 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“A sower went out to sow his seed. And as he sowed, some fell along the path and was trampled underfoot, and the birds of the air devoured it.",
       "verse": 5
     },
     {
-      "text": "",
+      "text": "And some fell on the rock, and as it grew up, it withered away, because it had no moisture.",
       "verse": 6
     },
     {
-      "text": "",
+      "text": "And some fell among thorns, and the thorns grew up with it and choked it.",
       "verse": 7
     },
     {
-      "text": "As he said these things, he called out,",
+      "text": "And some fell into good soil and grew and yielded a hundredfold.” As he said these things, he called out, “He who has ears to hear, let him hear.”",
       "verse": 8
     },
     {
@@ -55,27 +56,27 @@
       "type": "newline"
     },
     {
-      "text": "he said,",
+      "text": "he said, “To you it has been given to know the secrets of the kingdom of God, but for others they are in parables, so that ‘seeing they may not see, and hearing they may not understand.’",
       "verse": 10
     },
     {
-      "text": "",
+      "text": "Now the parable is this: The seed is the word of God.",
       "verse": 11
     },
     {
-      "text": "",
+      "text": "The ones along the path are those who have heard; then the devil comes and takes away the word from their hearts, so that they may not believe and be saved.",
       "verse": 12
     },
     {
-      "text": "",
+      "text": "And the ones on the rock are those who, when they hear the word, receive it with joy. But these have no root; they believe for a while, and in time of testing fall away.",
       "verse": 13
     },
     {
-      "text": "",
+      "text": "And as for what fell among the thorns, they are those who hear, but as they go on their way they are choked by the cares and riches and pleasures of life, and their fruit does not mature.",
       "verse": 14
     },
     {
-      "text": "",
+      "text": "As for that in the good soil, they are those who, hearing the word, hold it fast in an honest and good heart, and bear fruit with patience.",
       "verse": 15
     },
     {
@@ -83,16 +84,16 @@
       "type": "heading"
     },
     {
-      "text": "",
+      "text": "“No one after lighting a lamp covers it with a jar or puts it under a bed, but puts it on a stand, so that those who enter may see the light.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "For nothing is hidden that will not be made manifest, nor is anything secret that will not be known and come to light.",
       "verse": 17
     },
     {
-      "text": "",
+      "text": "Take care then how you hear, for to the one who has, more will be given, and from the one who has not, even what he thinks that he has will be taken away.”",
       "verse": 18
     },
     {
@@ -109,7 +110,7 @@
       "verse": 20
     },
     {
-      "text": "But he answered them,",
+      "text": "But he answered them, “My mother and my brothers are those who hear the word of God and do it.”",
       "verse": 21
     },
     {
@@ -117,7 +118,7 @@
       "type": "heading"
     },
     {
-      "text": "One day he got into a boat with his disciples, and he said to them,  So they set out,",
+      "text": "One day he got into a boat with his disciples, and he said to them, “Let us go across to the other side of the lake.” So they set out,",
       "verse": 22,
       "type": "newline"
     },
@@ -130,7 +131,7 @@
       "verse": 24
     },
     {
-      "text": "He said to them,  And they were afraid, and they marveled, saying to one another, “Who then is this, that he commands even winds and water, and they obey him?”",
+      "text": "He said to them, “Where is your faith?” And they were afraid, and they marveled, saying to one another, “Who then is this, that he commands even winds and water, and they obey him?”",
       "verse": 25
     },
     {
@@ -155,7 +156,7 @@
       "verse": 29
     },
     {
-      "text": "Jesus then asked him,  And he said, “Legion,” for many demons had entered him.",
+      "text": "Jesus then asked him, “What is your name?” And he said, “Legion,” for many demons had entered him.",
       "verse": 30
     },
     {
@@ -192,7 +193,7 @@
       "verse": 38
     },
     {
-      "text": "And he went away, proclaiming throughout the whole city how much Jesus had done for him.",
+      "text": "“Return to your home, and declare how much God has done for you.” And he went away, proclaiming throughout the whole city how much Jesus had done for him.",
       "verse": 39
     },
     {
@@ -226,11 +227,11 @@
       "verse": 44
     },
     {
-      "text": "And Jesus said,  When all denied it, Peter said, “Master, the crowds surround you and are pressing in on you!”",
+      "text": "And Jesus said, “Who was it that touched me?” When all denied it, Peter said, “Master, the crowds surround you and are pressing in on you!”",
       "verse": 45
     },
     {
-      "text": "But Jesus said,",
+      "text": "But Jesus said, “Someone touched me, for I perceive that power has gone out from me.”",
       "verse": 46
     },
     {
@@ -238,7 +239,7 @@
       "verse": 47
     },
     {
-      "text": "And he said to her,",
+      "text": "And he said to her, “Daughter, your faith has made you well; go in peace.”",
       "verse": 48
     },
     {
@@ -247,7 +248,7 @@
       "type": "newline"
     },
     {
-      "text": "But Jesus on hearing this answered him,",
+      "text": "But Jesus on hearing this answered him, “Do not fear; only believe, and she will be well.”",
       "verse": 50
     },
     {
@@ -255,7 +256,7 @@
       "verse": 51
     },
     {
-      "text": "And all were weeping and mourning for her, but he said,",
+      "text": "And all were weeping and mourning for her, but he said, “Do not weep, for she is not dead but sleeping.”",
       "verse": 52
     },
     {
@@ -263,7 +264,7 @@
       "verse": 53
     },
     {
-      "text": "But taking her by the hand he called, saying,",
+      "text": "But taking her by the hand he called, saying, “Child, arise.”",
       "verse": 54
     },
     {

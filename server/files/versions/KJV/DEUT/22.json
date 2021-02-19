@@ -2,6 +2,7 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 22,
+  "verses": 30,
   "content": [
     {
       "text": "Thou shalt not see thy brother's ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother.",
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman's garment: for all that do so are abomination unto the  thy God.",
+      "text": "The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman's garment: for all that do so are abomination unto the Lord thy God.",
       "verse": 5,
       "type": "newline"
     },

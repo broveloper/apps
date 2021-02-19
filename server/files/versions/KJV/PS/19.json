@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 19,
+  "verses": 14,
   "content": [
     {
       "text": "The heavens declare the glory of God; and the firmament sheweth his handywork.",
@@ -33,17 +34,17 @@
       "type": "newline"
     },
     {
-      "text": "The law of the  is perfect, converting the soul: the testimony of the  is sure, making wise the simple.",
+      "text": "The law of the Lord is perfect, converting the soul: the testimony of the Lord is sure, making wise the simple.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "The statutes of the  are right, rejoicing the heart: the commandment of the  is pure, enlightening the eyes.",
+      "text": "The statutes of the Lord are right, rejoicing the heart: the commandment of the Lord is pure, enlightening the eyes.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "The fear of the  is clean, enduring for ever: the judgments of the  are true and righteous altogether.",
+      "text": "The fear of the Lord is clean, enduring for ever: the judgments of the Lord are true and righteous altogether.",
       "verse": 9,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O , my strength, and my redeemer.",
+      "text": "Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O Lord, my strength, and my redeemer.",
       "verse": 14,
       "type": "newline"
     }

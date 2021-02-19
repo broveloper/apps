@@ -2,9 +2,10 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 43,
+  "verses": 27,
   "content": [
     {
-      "text": "The Glory of the  Fills the Temple",
+      "text": "The Glory of the Lord Fills the Temple",
       "type": "heading"
     },
     {
@@ -21,11 +22,11 @@
       "verse": 3
     },
     {
-      "text": "As the glory of the  entered the temple by the gate facing east,",
+      "text": "As the glory of the Lord entered the temple by the gate facing east,",
       "verse": 4
     },
     {
-      "text": "the Spirit lifted me up and brought me into the inner court; and behold, the glory of the  filled the temple.",
+      "text": "the Spirit lifted me up and brought me into the inner court; and behold, the glory of the Lord filled the temple.",
       "verse": 5
     },
     {
@@ -84,12 +85,12 @@
       "verse": 17
     },
     {
-      "text": "And he said to me, “Son of man, thus says the Lord : These are the ordinances for the altar: On the day when it is erected for offering burnt offerings upon it and for throwing blood against it,",
+      "text": "And he said to me, “Son of man, thus says the Lord God: These are the ordinances for the altar: On the day when it is erected for offering burnt offerings upon it and for throwing blood against it,",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "you shall give to the Levitical priests of the family of Zadok, who draw near to me to minister to me, declares the Lord , a bull from the herd for a sin offering.",
+      "text": "you shall give to the Levitical priests of the family of Zadok, who draw near to me to minister to me, declares the Lord God, a bull from the herd for a sin offering.",
       "verse": 19
     },
     {
@@ -109,7 +110,7 @@
       "verse": 23
     },
     {
-      "text": "You shall present them before the , and the priests shall sprinkle salt on them and offer them up as a burnt offering to the .",
+      "text": "You shall present them before the Lord, and the priests shall sprinkle salt on them and offer them up as a burnt offering to the Lord.",
       "verse": 24
     },
     {
@@ -121,7 +122,7 @@
       "verse": 26
     },
     {
-      "text": "And when they have completed these days, then from the eighth day onward the priests shall offer on the altar your burnt offerings and your peace offerings, and I will accept you, declares the Lord .”",
+      "text": "And when they have completed these days, then from the eighth day onward the priests shall offer on the altar your burnt offerings and your peace offerings, and I will accept you, declares the Lord God.”",
       "verse": 27
     }
   ]

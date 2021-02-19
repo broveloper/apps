@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 9,
+  "verses": 21,
   "content": [
     {
       "text": "Nevertheless, there will be no more gloom for those who were in distress. In the past he humbled the land of Zebulun and the land of Naphtali, but in the future he will honor Galilee of the nations, by the Way of the Sea, beyond the Jordan—",
@@ -168,7 +169,7 @@
       "type": "poetry"
     },
     {
-      "text": "The zeal of the  Almighty",
+      "text": "The zeal of the Lord Almighty",
       "verse": 7,
       "type": "poetry"
     },
@@ -178,7 +179,7 @@
       "type": "poetry"
     },
     {
-      "text": "The ’s Anger Against Israel",
+      "text": "The Lord’s Anger Against Israel",
       "type": "heading"
     },
     {
@@ -232,7 +233,7 @@
       "type": "poetry"
     },
     {
-      "text": "But the  has strengthened Rezin’s foes against them",
+      "text": "But the Lord has strengthened Rezin’s foes against them",
       "verse": 11,
       "type": "poetry"
     },
@@ -267,12 +268,12 @@
       "type": "poetry newline"
     },
     {
-      "text": "nor have they sought the  Almighty.",
+      "text": "nor have they sought the Lord Almighty.",
       "verse": 13,
       "type": "poetry"
     },
     {
-      "text": "So the  will cut off from Israel both head and tail,",
+      "text": "So the Lord will cut off from Israel both head and tail,",
       "verse": 14,
       "type": "poetry"
     },
@@ -352,7 +353,7 @@
       "type": "poetry"
     },
     {
-      "text": "By the wrath of the  Almighty",
+      "text": "By the wrath of the Lord Almighty",
       "verse": 19,
       "type": "poetry"
     },
@@ -397,7 +398,7 @@
       "type": "poetry"
     },
     {
-      "text": "Manasseh will feed on Ephraim, and Ephraim on Manasseh;",
+      "text": "    Manasseh will feed on Ephraim, and Ephraim on Manasseh;",
       "verse": 21,
       "type": "poetry"
     },

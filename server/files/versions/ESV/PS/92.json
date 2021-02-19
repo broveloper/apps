@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 92,
+  "verses": 15,
   "content": [
     {
       "text": "How Great Are Your Works",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A Psalm. A Song for the Sabbath.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "It is good to give thanks to the ,",
+      "text": "It is good to give thanks to the Lord,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -43,7 +43,7 @@
       "type": "poetry"
     },
     {
-      "text": "For you, O , have made me glad by your work;",
+      "text": "For you, O Lord, have made me glad by your work;",
       "verse": 4,
       "type": "poetry"
     },
@@ -53,7 +53,7 @@
       "type": "poetry"
     },
     {
-      "text": "How great are your works, O !",
+      "text": "How great are your works, O Lord!",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -88,12 +88,12 @@
       "type": "poetry"
     },
     {
-      "text": "but you, O , are on high forever.",
+      "text": "    but you, O Lord, are on high forever.",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "For behold, your enemies, O ,",
+      "text": "For behold, your enemies, O Lord,",
       "verse": 9,
       "type": "poetry"
     },
@@ -138,7 +138,7 @@
       "type": "poetry"
     },
     {
-      "text": "They are planted in the house of the ;",
+      "text": "They are planted in the house of the Lord;",
       "verse": 13,
       "type": "poetry"
     },
@@ -158,7 +158,7 @@
       "type": "poetry"
     },
     {
-      "text": "to declare that the  is upright;",
+      "text": "to declare that the Lord is upright;",
       "verse": 15,
       "type": "poetry"
     },

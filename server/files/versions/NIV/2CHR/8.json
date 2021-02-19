@@ -2,13 +2,14 @@
   "book_id": "2CHR",
   "book_name": "2 Chronicles",
   "chapter": 8,
+  "verses": 18,
   "content": [
     {
       "text": "Solomon’s Other Activities",
       "type": "heading"
     },
     {
-      "text": "At the end of twenty years, during which Solomon built the temple of the  and his own palace,",
+      "text": "At the end of twenty years, during which Solomon built the temple of the Lord and his own palace,",
       "verse": 1,
       "type": "newline"
     },
@@ -50,12 +51,12 @@
       "verse": 10
     },
     {
-      "text": "Solomon brought Pharaoh’s daughter up from the City of David to the palace he had built for her, for he said, “My wife must not live in the palace of David king of Israel, because the places the ark of the  has entered are holy.”",
+      "text": "Solomon brought Pharaoh’s daughter up from the City of David to the palace he had built for her, for he said, “My wife must not live in the palace of David king of Israel, because the places the ark of the Lord has entered are holy.”",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "On the altar of the  that he had built in front of the portico, Solomon sacrificed burnt offerings to the ,",
+      "text": "On the altar of the Lord that he had built in front of the portico, Solomon sacrificed burnt offerings to the Lord,",
       "verse": 12,
       "type": "newline"
     },
@@ -72,7 +73,7 @@
       "verse": 15
     },
     {
-      "text": "All Solomon’s work was carried out, from the day the foundation of the temple of the  was laid until its completion. So the temple of the  was finished.",
+      "text": "All Solomon’s work was carried out, from the day the foundation of the temple of the Lord was laid until its completion. So the temple of the Lord was finished.",
       "verse": 16,
       "type": "newline"
     },

@@ -2,18 +2,19 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 15,
+  "verses": 27,
   "content": [
     {
-      "text": "Then sang Moses and the children of Israel this song unto the , and spake, saying, I will sing unto the , for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea.",
+      "text": "Then sang Moses and the children of Israel this song unto the Lord, and spake, saying, I will sing unto the Lord, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea.",
       "verse": 1
     },
     {
-      "text": "The  is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father's God, and I will exalt him.",
+      "text": "The Lord is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father's God, and I will exalt him.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "The  is a man of war: the  is his name.",
+      "text": "The Lord is a man of war: the Lord is his name.",
       "verse": 3,
       "type": "newline"
     },
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "Thy right hand, O , is become glorious in power: thy right hand, O , hath dashed in pieces the enemy.",
+      "text": "Thy right hand, O Lord, is become glorious in power: thy right hand, O Lord, hath dashed in pieces the enemy.",
       "verse": 6,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "Who is like unto thee, O , among the gods? who is like thee, glorious in holiness, fearful in praises, doing wonders?",
+      "text": "Who is like unto thee, O Lord, among the gods? who is like thee, glorious in holiness, fearful in praises, doing wonders?",
       "verse": 11,
       "type": "newline"
     },
@@ -78,22 +79,22 @@
       "type": "newline"
     },
     {
-      "text": "Fear and dread shall fall upon them; by the greatness of thine arm they shall be as still as a stone; till thy people pass over, O , till the people pass over, which thou hast purchased.",
+      "text": "Fear and dread shall fall upon them; by the greatness of thine arm they shall be as still as a stone; till thy people pass over, O Lord, till the people pass over, which thou hast purchased.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "Thou shalt bring them in, and plant them in the mountain of thine inheritance, in the place, O , which thou hast made for thee to dwell in, in the Sanctuary, O , which thy hands have established.",
+      "text": "Thou shalt bring them in, and plant them in the mountain of thine inheritance, in the place, O Lord, which thou hast made for thee to dwell in, in the Sanctuary, O Lord, which thy hands have established.",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "The  shall reign for ever and ever.",
+      "text": "The Lord shall reign for ever and ever.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "For the horse of Pharaoh went in with his chariots and with his horsemen into the sea, and the  brought again the waters of the sea upon them; but the children of Israel went on dry land in the midst of the sea.",
+      "text": "For the horse of Pharaoh went in with his chariots and with his horsemen into the sea, and the Lord brought again the waters of the sea upon them; but the children of Israel went on dry land in the midst of the sea.",
       "verse": 19,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "And Miriam answered them, Sing ye to the , for he hath triumphed gloriously; the horse and his rider hath he thrown into the sea.",
+      "text": "And Miriam answered them, Sing ye to the Lord, for he hath triumphed gloriously; the horse and his rider hath he thrown into the sea.",
       "verse": 21,
       "type": "newline"
     },
@@ -123,12 +124,12 @@
       "type": "newline"
     },
     {
-      "text": "And he cried unto the ; and the  shewed him a tree, which when he had cast into the waters, the waters were made sweet: there he made for them a statute and an ordinance, and there he proved them,",
+      "text": "And he cried unto the Lord; and the Lord shewed him a tree, which when he had cast into the waters, the waters were made sweet: there he made for them a statute and an ordinance, and there he proved them,",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "And said, If thou wilt diligently hearken to the voice of the  thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I am the  that healeth thee.",
+      "text": "And said, If thou wilt diligently hearken to the voice of the Lord thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I am the Lord that healeth thee.",
       "verse": 26,
       "type": "newline"
     },

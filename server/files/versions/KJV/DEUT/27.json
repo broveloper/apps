@@ -2,18 +2,19 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 27,
+  "verses": 26,
   "content": [
     {
       "text": "And Moses with the elders of Israel commanded the people, saying, Keep all the commandments which I command you this day.",
       "verse": 1
     },
     {
-      "text": "And it shall be on the day when ye shall pass over Jordan unto the land which the  thy God giveth thee, that thou shalt set thee up great stones, and plaister them with plaister:",
+      "text": "And it shall be on the day when ye shall pass over Jordan unto the land which the Lord thy God giveth thee, that thou shalt set thee up great stones, and plaister them with plaister:",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "And thou shalt write upon them all the words of this law, when thou art passed over, that thou mayest go in unto the land which the  thy God giveth thee, a land that floweth with milk and honey; as the  God of thy fathers hath promised thee.",
+      "text": "And thou shalt write upon them all the words of this law, when thou art passed over, that thou mayest go in unto the land which the Lord thy God giveth thee, a land that floweth with milk and honey; as the Lord God of thy fathers hath promised thee.",
       "verse": 3,
       "type": "newline"
     },
@@ -23,17 +24,17 @@
       "type": "newline"
     },
     {
-      "text": "And there shalt thou build an altar unto the  thy God, an altar of stones: thou shalt not lift up any iron tool upon them.",
+      "text": "And there shalt thou build an altar unto the Lord thy God, an altar of stones: thou shalt not lift up any iron tool upon them.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "Thou shalt build the altar of the  thy God of whole stones: and thou shalt offer burnt offerings thereon unto the  thy God:",
+      "text": "Thou shalt build the altar of the Lord thy God of whole stones: and thou shalt offer burnt offerings thereon unto the Lord thy God:",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "And thou shalt offer peace offerings, and shalt eat there, and rejoice before the  thy God.",
+      "text": "And thou shalt offer peace offerings, and shalt eat there, and rejoice before the Lord thy God.",
       "verse": 7,
       "type": "newline"
     },
@@ -43,12 +44,12 @@
       "type": "newline"
     },
     {
-      "text": "And Moses and the priests the Levites spake unto all Israel, saying, Take heed, and hearken, O Israel; this day thou art become the people of the  thy God.",
+      "text": "And Moses and the priests the Levites spake unto all Israel, saying, Take heed, and hearken, O Israel; this day thou art become the people of the Lord thy God.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "Thou shalt therefore obey the voice of the  thy God, and do his commandments and his statutes, which I command thee this day.",
+      "text": "Thou shalt therefore obey the voice of the Lord thy God, and do his commandments and his statutes, which I command thee this day.",
       "verse": 10,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "Cursed be the man that maketh any graven or molten image, an abomination unto the , the work of the hands of the craftsman, and putteth it in a secret place. And all the people shall answer and say, Amen.",
+      "text": "Cursed be the man that maketh any graven or molten image, an abomination unto the Lord, the work of the hands of the craftsman, and putteth it in a secret place. And all the people shall answer and say, Amen.",
       "verse": 15,
       "type": "newline"
     },

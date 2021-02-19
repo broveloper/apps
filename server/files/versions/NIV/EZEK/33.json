@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 33,
+  "verses": 33,
   "content": [
     {
       "text": "Renewal of Ezekiel’s Call as Watchman",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -51,7 +52,7 @@
       "type": "newline"
     },
     {
-      "text": "Say to them, ‘As surely as I live, declares the Sovereign , I take no pleasure in the death of the wicked, but rather that they turn from their ways and live. Turn! Turn from your evil ways! Why will you die, people of Israel?’",
+      "text": "Say to them, ‘As surely as I live, declares the Sovereign Lord, I take no pleasure in the death of the wicked, but rather that they turn from their ways and live. Turn! Turn from your evil ways! Why will you die, people of Israel?’",
       "verse": 11
     },
     {
@@ -102,11 +103,11 @@
       "type": "newline"
     },
     {
-      "text": "Now the evening before the man arrived, the hand of the  was on me, and he opened my mouth before the man came to me in the morning. So my mouth was opened and I was no longer silent.",
+      "text": "Now the evening before the man arrived, the hand of the Lord was on me, and he opened my mouth before the man came to me in the morning. So my mouth was opened and I was no longer silent.",
       "verse": 22
     },
     {
-      "text": "Then the word of the  came to me:",
+      "text": "Then the word of the Lord came to me:",
       "verse": 23,
       "type": "newline"
     },
@@ -115,7 +116,7 @@
       "verse": 24
     },
     {
-      "text": "Therefore say to them, ‘This is what the Sovereign  says: Since you eat meat with the blood still in it and look to your idols and shed blood, should you then possess the land?",
+      "text": "Therefore say to them, ‘This is what the Sovereign Lord says: Since you eat meat with the blood still in it and look to your idols and shed blood, should you then possess the land?",
       "verse": 25
     },
     {
@@ -123,7 +124,7 @@
       "verse": 26
     },
     {
-      "text": "“Say this to them: ‘This is what the Sovereign  says: As surely as I live, those who are left in the ruins will fall by the sword, those out in the country I will give to the wild animals to be devoured, and those in strongholds and caves will die of a plague.",
+      "text": "“Say this to them: ‘This is what the Sovereign Lord says: As surely as I live, those who are left in the ruins will fall by the sword, those out in the country I will give to the wild animals to be devoured, and those in strongholds and caves will die of a plague.",
       "verse": 27,
       "type": "newline"
     },
@@ -132,11 +133,11 @@
       "verse": 28
     },
     {
-      "text": "Then they will know that I am the , when I have made the land a desolate waste because of all the detestable things they have done.’",
+      "text": "Then they will know that I am the Lord, when I have made the land a desolate waste because of all the detestable things they have done.’",
       "verse": 29
     },
     {
-      "text": "“As for you, son of man, your people are talking together about you by the walls and at the doors of the houses, saying to each other, ‘Come and hear the message that has come from the .’",
+      "text": "“As for you, son of man, your people are talking together about you by the walls and at the doors of the houses, saying to each other, ‘Come and hear the message that has come from the Lord.’",
       "verse": 30,
       "type": "newline"
     },

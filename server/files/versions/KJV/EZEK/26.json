@@ -2,9 +2,10 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 26,
+  "verses": 21,
   "content": [
     {
-      "text": "And it came to pass in the eleventh year, in the first day of the month, that the word of the  came unto me, saying,",
+      "text": "And it came to pass in the eleventh year, in the first day of the month, that the word of the Lord came unto me, saying,",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore thus saith the Lord ; Behold, I am against thee, O Tyrus, and will cause many nations to come up against thee, as the sea causeth his waves to come up.",
+      "text": "Therefore thus saith the Lord God; Behold, I am against thee, O Tyrus, and will cause many nations to come up against thee, as the sea causeth his waves to come up.",
       "verse": 3,
       "type": "newline"
     },
@@ -23,17 +24,17 @@
       "type": "newline"
     },
     {
-      "text": "It shall be a place for the spreading of nets in the midst of the sea: for I have spoken it, saith the Lord : and it shall become a spoil to the nations.",
+      "text": "It shall be a place for the spreading of nets in the midst of the sea: for I have spoken it, saith the Lord God: and it shall become a spoil to the nations.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "And her daughters which are in the field shall be slain by the sword; and they shall know that I am the .",
+      "text": "And her daughters which are in the field shall be slain by the sword; and they shall know that I am the Lord.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "For thus saith the Lord ; Behold, I will bring upon Tyrus Nebuchadrezzar king of Babylon, a king of kings, from the north, with horses, and with chariots, and with horsemen, and companies, and much people.",
+      "text": "For thus saith the Lord God; Behold, I will bring upon Tyrus Nebuchadrezzar king of Babylon, a king of kings, from the north, with horses, and with chariots, and with horsemen, and companies, and much people.",
       "verse": 7,
       "type": "newline"
     },
@@ -68,12 +69,12 @@
       "type": "newline"
     },
     {
-      "text": "And I will make thee like the top of a rock: thou shalt be a place to spread nets upon; thou shalt be built no more: for I the  have spoken it, saith the Lord .",
+      "text": "And I will make thee like the top of a rock: thou shalt be a place to spread nets upon; thou shalt be built no more: for I the Lord have spoken it, saith the Lord God.",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "Thus saith the Lord  to Tyrus; Shall not the isles shake at the sound of thy fall, when the wounded cry, when the slaughter is made in the midst of thee?",
+      "text": "Thus saith the Lord God to Tyrus; Shall not the isles shake at the sound of thy fall, when the wounded cry, when the slaughter is made in the midst of thee?",
       "verse": 15,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "For thus saith the Lord ; When I shall make thee a desolate city, like the cities that are not inhabited; when I shall bring up the deep upon thee, and great waters shall cover thee;",
+      "text": "For thus saith the Lord God; When I shall make thee a desolate city, like the cities that are not inhabited; when I shall bring up the deep upon thee, and great waters shall cover thee;",
       "verse": 19,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "I will make thee a terror, and thou shalt be no more: though thou be sought for, yet shalt thou never be found again, saith the Lord .",
+      "text": "I will make thee a terror, and thou shalt be no more: though thou be sought for, yet shalt thou never be found again, saith the Lord God.",
       "verse": 21,
       "type": "newline"
     }

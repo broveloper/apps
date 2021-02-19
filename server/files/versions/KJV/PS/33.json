@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 33,
+  "verses": 22,
   "content": [
     {
-      "text": "Rejoice in the , O ye righteous: for praise is comely for the upright.",
+      "text": "Rejoice in the Lord, O ye righteous: for praise is comely for the upright.",
       "verse": 1
     },
     {
-      "text": "Praise the  with harp: sing unto him with the psaltery and an instrument of ten strings.",
+      "text": "Praise the Lord with harp: sing unto him with the psaltery and an instrument of ten strings.",
       "verse": 2,
       "type": "newline"
     },
@@ -18,17 +19,17 @@
       "type": "newline"
     },
     {
-      "text": "For the word of the  is right; and all his works are done in truth.",
+      "text": "For the word of the Lord is right; and all his works are done in truth.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "He loveth righteousness and judgment: the earth is full of the goodness of the .",
+      "text": "He loveth righteousness and judgment: the earth is full of the goodness of the Lord.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "By the word of the  were the heavens made; and all the host of them by the breath of his mouth.",
+      "text": "By the word of the Lord were the heavens made; and all the host of them by the breath of his mouth.",
       "verse": 6,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "Let all the earth fear the : let all the inhabitants of the world stand in awe of him.",
+      "text": "Let all the earth fear the Lord: let all the inhabitants of the world stand in awe of him.",
       "verse": 8,
       "type": "newline"
     },
@@ -48,22 +49,22 @@
       "type": "newline"
     },
     {
-      "text": "The  bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect.",
+      "text": "The Lord bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "The counsel of the  standeth for ever, the thoughts of his heart to all generations.",
+      "text": "The counsel of the Lord standeth for ever, the thoughts of his heart to all generations.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "Blessed is the nation whose God is the ; and the people whom he hath chosen for his own inheritance.",
+      "text": "Blessed is the nation whose God is the Lord; and the people whom he hath chosen for his own inheritance.",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "The  looketh from heaven; he beholdeth all the sons of men.",
+      "text": "The Lord looketh from heaven; he beholdeth all the sons of men.",
       "verse": 13,
       "type": "newline"
     },
@@ -88,7 +89,7 @@
       "type": "newline"
     },
     {
-      "text": "Behold, the eye of the  is upon them that fear him, upon them that hope in his mercy;",
+      "text": "Behold, the eye of the Lord is upon them that fear him, upon them that hope in his mercy;",
       "verse": 18,
       "type": "newline"
     },
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "Our soul waiteth for the : he is our help and our shield.",
+      "text": "Our soul waiteth for the Lord: he is our help and our shield.",
       "verse": 20,
       "type": "newline"
     },
@@ -108,7 +109,7 @@
       "type": "newline"
     },
     {
-      "text": "Let thy mercy, O , be upon us, according as we hope in thee.",
+      "text": "Let thy mercy, O Lord, be upon us, according as we hope in thee.",
       "verse": 22,
       "type": "newline"
     }

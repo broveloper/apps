@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 70,
+  "verses": 5,
   "content": [
     {
       "text": "Psalm 70",
@@ -9,8 +10,7 @@
     },
     {
       "text": "For the director of music. Of David. A petition.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Hasten, O God, to save me;",
@@ -18,7 +18,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "come quickly, , to help me.",
+      "text": "come quickly, Lord, to help me.",
       "verse": 1,
       "type": "poetry"
     },
@@ -68,7 +68,7 @@
       "type": "poetry"
     },
     {
-      "text": "“The  is great!”",
+      "text": "“The Lord is great!”",
       "verse": 4,
       "type": "poetry"
     },
@@ -88,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": ", do not delay.",
+      "text": "Lord, do not delay.",
       "verse": 5,
       "type": "poetry"
     }

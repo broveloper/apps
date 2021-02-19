@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 44,
+  "verses": 26,
   "content": [
     {
       "text": "Come to Our Help",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster. A Maskil of the Sons of Korah.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "O God, we have heard with our ears,",
@@ -123,7 +123,7 @@
       "type": "poetry"
     },
     {
-      "text": "and we will give thanks to your name forever.",
+      "text": "and we will give thanks to your name forever. Selah",
       "verse": 8,
       "type": "poetry"
     },

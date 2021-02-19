@@ -2,13 +2,14 @@
   "book_id": "2KGS",
   "book_name": "2 Kings",
   "chapter": 8,
+  "verses": 29,
   "content": [
     {
       "text": "The Shunammite’s Land Restored",
       "type": "heading"
     },
     {
-      "text": "Now Elisha had said to the woman whose son he had restored to life, “Go away with your family and stay for a while wherever you can, because the  has decreed a famine in the land that will last seven years.”",
+      "text": "Now Elisha had said to the woman whose son he had restored to life, “Go away with your family and stay for a while wherever you can, because the Lord has decreed a famine in the land that will last seven years.”",
       "verse": 1,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "he said to Hazael, “Take a gift with you and go to meet the man of God. Consult the  through him; ask him, ‘Will I recover from this illness?’”",
+      "text": "he said to Hazael, “Take a gift with you and go to meet the man of God. Consult the Lord through him; ask him, ‘Will I recover from this illness?’”",
       "verse": 8
     },
     {
@@ -62,7 +63,7 @@
       "type": "newline"
     },
     {
-      "text": "Elisha answered, “Go and say to him, ‘You will certainly recover.’ Nevertheless, the  has revealed to me that he will in fact die.”",
+      "text": "Elisha answered, “Go and say to him, ‘You will certainly recover.’ Nevertheless, the Lord has revealed to me that he will in fact die.”",
       "verse": 10,
       "type": "newline"
     },
@@ -86,7 +87,7 @@
       "type": "newline"
     },
     {
-      "text": "“The  has shown me that you will become king of Aram,” answered Elisha.",
+      "text": "“The Lord has shown me that you will become king of Aram,” answered Elisha.",
       "verse": 13,
       "type": "newline"
     },
@@ -113,11 +114,11 @@
       "verse": 17
     },
     {
-      "text": "He followed the ways of the kings of Israel, as the house of Ahab had done, for he married a daughter of Ahab. He did evil in the eyes of the .",
+      "text": "He followed the ways of the kings of Israel, as the house of Ahab had done, for he married a daughter of Ahab. He did evil in the eyes of the Lord.",
       "verse": 18
     },
     {
-      "text": "Nevertheless, for the sake of his servant David, the  was not willing to destroy Judah. He had promised to maintain a lamp for David and his descendants forever.",
+      "text": "Nevertheless, for the sake of his servant David, the Lord was not willing to destroy Judah. He had promised to maintain a lamp for David and his descendants forever.",
       "verse": 19
     },
     {
@@ -156,7 +157,7 @@
       "verse": 26
     },
     {
-      "text": "He followed the ways of the house of Ahab and did evil in the eyes of the , as the house of Ahab had done, for he was related by marriage to Ahab’s family.",
+      "text": "He followed the ways of the house of Ahab and did evil in the eyes of the Lord, as the house of Ahab had done, for he was related by marriage to Ahab’s family.",
       "verse": 27
     },
     {

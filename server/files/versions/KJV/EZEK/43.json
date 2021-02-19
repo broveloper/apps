@@ -2,6 +2,7 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 43,
+  "verses": 27,
   "content": [
     {
       "text": "Afterward he brought me to the gate, even the gate that looketh toward the east:",
@@ -18,12 +19,12 @@
       "type": "newline"
     },
     {
-      "text": "And the glory of the  came into the house by the way of the gate whose prospect is toward the east.",
+      "text": "And the glory of the Lord came into the house by the way of the gate whose prospect is toward the east.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "So the spirit took me up, and brought me into the inner court; and, behold, the glory of the  filled the house.",
+      "text": "So the spirit took me up, and brought me into the inner court; and, behold, the glory of the Lord filled the house.",
       "verse": 5,
       "type": "newline"
     },
@@ -88,12 +89,12 @@
       "type": "newline"
     },
     {
-      "text": "And he said unto me, Son of man, thus saith the Lord ; These are the ordinances of the altar in the day when they shall make it, to offer burnt offerings thereon, and to sprinkle blood thereon.",
+      "text": "And he said unto me, Son of man, thus saith the Lord God; These are the ordinances of the altar in the day when they shall make it, to offer burnt offerings thereon, and to sprinkle blood thereon.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "And thou shalt give to the priests the Levites that be of the seed of Zadok, which approach unto me, to minister unto me, saith the Lord , a young bullock for a sin offering.",
+      "text": "And thou shalt give to the priests the Levites that be of the seed of Zadok, which approach unto me, to minister unto me, saith the Lord God, a young bullock for a sin offering.",
       "verse": 19,
       "type": "newline"
     },
@@ -118,7 +119,7 @@
       "type": "newline"
     },
     {
-      "text": "And thou shalt offer them before the , and the priests shall cast salt upon them, and they shall offer them up for a burnt offering unto the .",
+      "text": "And thou shalt offer them before the Lord, and the priests shall cast salt upon them, and they shall offer them up for a burnt offering unto the Lord.",
       "verse": 24,
       "type": "newline"
     },
@@ -133,7 +134,7 @@
       "type": "newline"
     },
     {
-      "text": "And when these days are expired, it shall be, that upon the eighth day, and so forward, the priests shall make your burnt offerings upon the altar, and your peace offerings; and I will accept you, saith the Lord .",
+      "text": "And when these days are expired, it shall be, that upon the eighth day, and so forward, the priests shall make your burnt offerings upon the altar, and your peace offerings; and I will accept you, saith the Lord God.",
       "verse": 27,
       "type": "newline"
     }

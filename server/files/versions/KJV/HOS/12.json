@@ -2,13 +2,14 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 12,
+  "verses": 14,
   "content": [
     {
       "text": "Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt.",
       "verse": 1
     },
     {
-      "text": "The  hath also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he recompense him.",
+      "text": "The Lord hath also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he recompense him.",
       "verse": 2,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "Even the  God of hosts; the  is his memorial.",
+      "text": "Even the Lord God of hosts; the Lord is his memorial.",
       "verse": 5,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "And I that am the  thy God from the land of Egypt will yet make thee to dwell in tabernacles, as in the days of the solemn feast.",
+      "text": "And I that am the Lord thy God from the land of Egypt will yet make thee to dwell in tabernacles, as in the days of the solemn feast.",
       "verse": 9,
       "type": "newline"
     },
@@ -63,12 +64,12 @@
       "type": "newline"
     },
     {
-      "text": "And by a prophet the  brought Israel out of Egypt, and by a prophet was he preserved.",
+      "text": "And by a prophet the Lord brought Israel out of Egypt, and by a prophet was he preserved.",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "Ephraim provoked him to anger most bitterly: therefore shall he leave his blood upon him, and his reproach shall his  return unto him.",
+      "text": "Ephraim provoked him to anger most bitterly: therefore shall he leave his blood upon him, and his reproach shall his Lord return unto him.",
       "verse": 14,
       "type": "newline"
     }

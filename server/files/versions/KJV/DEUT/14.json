@@ -2,13 +2,14 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 14,
+  "verses": 29,
   "content": [
     {
-      "text": "Ye are the children of the  your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.",
+      "text": "Ye are the children of the Lord your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.",
       "verse": 1
     },
     {
-      "text": "For thou art an holy people unto the  thy God, and the  hath chosen thee to be a peculiar people unto himself, above all the nations that are upon the earth.",
+      "text": "For thou art an holy people unto the Lord thy God, and the Lord hath chosen thee to be a peculiar people unto himself, above all the nations that are upon the earth.",
       "verse": 2,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "Ye shall not eat of anything that dieth of itself: thou shalt give it unto the stranger that is in thy gates, that he may eat it; or thou mayest sell it unto an alien: for thou art an holy people unto the  thy God. Thou shalt not seethe a kid in his mother's milk.",
+      "text": "Ye shall not eat of anything that dieth of itself: thou shalt give it unto the stranger that is in thy gates, that he may eat it; or thou mayest sell it unto an alien: for thou art an holy people unto the Lord thy God. Thou shalt not seethe a kid in his mother's milk.",
       "verse": 21,
       "type": "newline"
     },
@@ -113,22 +114,22 @@
       "type": "newline"
     },
     {
-      "text": "And thou shalt eat before the  thy God, in the place which he shall choose to place his name there, the tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds and of thy flocks; that thou mayest learn to fear the  thy God always.",
+      "text": "And thou shalt eat before the Lord thy God, in the place which he shall choose to place his name there, the tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds and of thy flocks; that thou mayest learn to fear the Lord thy God always.",
       "verse": 23,
       "type": "newline"
     },
     {
-      "text": "And if the way be too long for thee, so that thou art not able to carry it; or if the place be too far from thee, which the  thy God shall choose to set his name there, when the  thy God hath blessed thee:",
+      "text": "And if the way be too long for thee, so that thou art not able to carry it; or if the place be too far from thee, which the Lord thy God shall choose to set his name there, when the Lord thy God hath blessed thee:",
       "verse": 24,
       "type": "newline"
     },
     {
-      "text": "Then shalt thou turn it into money, and bind up the money in thine hand, and shalt go unto the place which the  thy God shall choose:",
+      "text": "Then shalt thou turn it into money, and bind up the money in thine hand, and shalt go unto the place which the Lord thy God shall choose:",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "And thou shalt bestow that money for whatsoever thy soul lusteth after, for oxen, or for sheep, or for wine, or for strong drink, or for whatsoever thy soul desireth: and thou shalt eat there before the  thy God, and thou shalt rejoice, thou, and thine household,",
+      "text": "And thou shalt bestow that money for whatsoever thy soul lusteth after, for oxen, or for sheep, or for wine, or for strong drink, or for whatsoever thy soul desireth: and thou shalt eat there before the Lord thy God, and thou shalt rejoice, thou, and thine household,",
       "verse": 26,
       "type": "newline"
     },
@@ -143,7 +144,7 @@
       "type": "newline"
     },
     {
-      "text": "And the Levite, (because he hath no part nor inheritance with thee,) and the stranger, and the fatherless, and the widow, which are within thy gates, shall come, and shall eat and be satisfied; that the  thy God may bless thee in all the work of thine hand which thou doest.",
+      "text": "And the Levite, (because he hath no part nor inheritance with thee,) and the stranger, and the fatherless, and the widow, which are within thy gates, shall come, and shall eat and be satisfied; that the Lord thy God may bless thee in all the work of thine hand which thou doest.",
       "verse": 29,
       "type": "newline"
     }

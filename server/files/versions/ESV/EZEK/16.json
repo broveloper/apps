@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 16,
+  "verses": 63,
   "content": [
     {
-      "text": "The 's Faithless Bride",
+      "text": "The Lord's Faithless Bride",
       "type": "heading"
     },
     {
-      "text": "Again the word of the  came to me:",
+      "text": "Again the word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "and say, Thus says the Lord  to Jerusalem: Your origin and your birth are of the land of the Canaanites; your father was an Amorite and your mother a Hittite.",
+      "text": "and say, Thus says the Lord God to Jerusalem: Your origin and your birth are of the land of the Canaanites; your father was an Amorite and your mother a Hittite.",
       "verse": 3
     },
     {
@@ -38,7 +39,7 @@
       "verse": 7
     },
     {
-      "text": "“When I passed by you again and saw you, behold, you were at the age for love, and I spread the corner of my garment over you and covered your nakedness; I made my vow to you and entered into a covenant with you, declares the Lord , and you became mine.",
+      "text": "“When I passed by you again and saw you, behold, you were at the age for love, and I spread the corner of my garment over you and covered your nakedness; I made my vow to you and entered into a covenant with you, declares the Lord God, and you became mine.",
       "verse": 8,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "verse": 13
     },
     {
-      "text": "And your renown went forth among the nations because of your beauty, for it was perfect through the splendor that I had bestowed on you, declares the Lord .",
+      "text": "And your renown went forth among the nations because of your beauty, for it was perfect through the splendor that I had bestowed on you, declares the Lord God.",
       "verse": 14
     },
     {
@@ -84,7 +85,7 @@
       "verse": 18
     },
     {
-      "text": "Also my bread that I gave you—I fed you with fine flour and oil and honey—you set before them for a pleasing aroma; and so it was, declares the Lord .",
+      "text": "Also my bread that I gave you—I fed you with fine flour and oil and honey—you set before them for a pleasing aroma; and so it was, declares the Lord God.",
       "verse": 19
     },
     {
@@ -100,7 +101,7 @@
       "verse": 22
     },
     {
-      "text": "“And after all your wickedness (woe, woe to you! declares the Lord ),",
+      "text": "“And after all your wickedness (woe, woe to you! declares the Lord God),",
       "verse": 23,
       "type": "newline"
     },
@@ -129,7 +130,7 @@
       "verse": 29
     },
     {
-      "text": "“How sick is your heart, declares the Lord , because you did all these things, the deeds of a brazen prostitute,",
+      "text": "“How sick is your heart, declares the Lord God, because you did all these things, the deeds of a brazen prostitute,",
       "verse": 30,
       "type": "newline"
     },
@@ -150,12 +151,12 @@
       "verse": 34
     },
     {
-      "text": "“Therefore, O prostitute, hear the word of the :",
+      "text": "“Therefore, O prostitute, hear the word of the Lord:",
       "verse": 35,
       "type": "newline"
     },
     {
-      "text": "Thus says the Lord , Because your lust was poured out and your nakedness uncovered in your whorings with your lovers, and with all your abominable idols, and because of the blood of your children that you gave to them,",
+      "text": "Thus says the Lord God, Because your lust was poured out and your nakedness uncovered in your whorings with your lovers, and with all your abominable idols, and because of the blood of your children that you gave to them,",
       "verse": 36
     },
     {
@@ -183,7 +184,7 @@
       "verse": 42
     },
     {
-      "text": "Because you have not remembered the days of your youth, but have enraged me with all these things, therefore, behold, I have returned your deeds upon your head, declares the Lord . Have you not committed lewdness in addition to all your abominations?",
+      "text": "Because you have not remembered the days of your youth, but have enraged me with all these things, therefore, behold, I have returned your deeds upon your head, declares the Lord God. Have you not committed lewdness in addition to all your abominations?",
       "verse": 43
     },
     {
@@ -204,7 +205,7 @@
       "verse": 47
     },
     {
-      "text": "As I live, declares the Lord , your sister Sodom and her daughters have not done as you and your daughters have done.",
+      "text": "As I live, declares the Lord God, your sister Sodom and her daughters have not done as you and your daughters have done.",
       "verse": 48
     },
     {
@@ -245,15 +246,15 @@
       "verse": 57
     },
     {
-      "text": "You bear the penalty of your lewdness and your abominations, declares the .",
+      "text": "You bear the penalty of your lewdness and your abominations, declares the Lord.",
       "verse": 58
     },
     {
-      "text": "The 's Everlasting Covenant",
+      "text": "The Lord's Everlasting Covenant",
       "type": "heading"
     },
     {
-      "text": "“For thus says the Lord : I will deal with you as you have done, you who have despised the oath in breaking the covenant,",
+      "text": "“For thus says the Lord God: I will deal with you as you have done, you who have despised the oath in breaking the covenant,",
       "verse": 59,
       "type": "newline"
     },
@@ -266,11 +267,11 @@
       "verse": 61
     },
     {
-      "text": "I will establish my covenant with you, and you shall know that I am the ,",
+      "text": "I will establish my covenant with you, and you shall know that I am the Lord,",
       "verse": 62
     },
     {
-      "text": "that you may remember and be confounded, and never open your mouth again because of your shame, when I atone for you for all that you have done, declares the Lord .”",
+      "text": "that you may remember and be confounded, and never open your mouth again because of your shame, when I atone for you for all that you have done, declares the Lord God.”",
       "verse": 63
     }
   ]

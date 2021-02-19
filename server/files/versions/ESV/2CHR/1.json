@@ -2,13 +2,14 @@
   "book_id": "2CHR",
   "book_name": "2 Chronicles",
   "chapter": 1,
+  "verses": 17,
   "content": [
     {
       "text": "Solomon Worships at Gibeon",
       "type": "heading"
     },
     {
-      "text": "Solomon the son of David established himself in his kingdom, and the  his God was with him and made him exceedingly great.",
+      "text": "Solomon the son of David established himself in his kingdom, and the Lord his God was with him and made him exceedingly great.",
       "verse": 1,
       "type": "newline"
     },
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "And Solomon, and all the assembly with him, went to the high place that was at Gibeon, for the tent of meeting of God, which Moses the servant of the  had made in the wilderness, was there.",
+      "text": "And Solomon, and all the assembly with him, went to the high place that was at Gibeon, for the tent of meeting of God, which Moses the servant of the Lord had made in the wilderness, was there.",
       "verse": 3
     },
     {
@@ -26,11 +27,11 @@
       "verse": 4
     },
     {
-      "text": "Moreover, the bronze altar that Bezalel the son of Uri, son of Hur, had made, was there before the tabernacle of the . And Solomon and the assembly sought it out.",
+      "text": "Moreover, the bronze altar that Bezalel the son of Uri, son of Hur, had made, was there before the tabernacle of the Lord. And Solomon and the assembly sought it out.",
       "verse": 5
     },
     {
-      "text": "And Solomon went up there to the bronze altar before the , which was at the tent of meeting, and offered a thousand burnt offerings on it.",
+      "text": "And Solomon went up there to the bronze altar before the Lord, which was at the tent of meeting, and offered a thousand burnt offerings on it.",
       "verse": 6
     },
     {
@@ -47,7 +48,7 @@
       "verse": 8
     },
     {
-      "text": "O  God, let your word to David my father be now fulfilled, for you have made me king over a people as numerous as the dust of the earth.",
+      "text": "O Lord God, let your word to David my father be now fulfilled, for you have made me king over a people as numerous as the dust of the earth.",
       "verse": 9
     },
     {

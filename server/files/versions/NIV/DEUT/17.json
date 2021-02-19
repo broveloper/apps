@@ -2,13 +2,14 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 17,
+  "verses": 20,
   "content": [
     {
-      "text": "Do not sacrifice to the  your God an ox or a sheep that has any defect or flaw in it, for that would be detestable to him.",
+      "text": "Do not sacrifice to the Lord your God an ox or a sheep that has any defect or flaw in it, for that would be detestable to him.",
       "verse": 1
     },
     {
-      "text": "If a man or woman living among you in one of the towns the  gives you is found doing evil in the eyes of the  your God in violation of his covenant,",
+      "text": "If a man or woman living among you in one of the towns the Lord gives you is found doing evil in the eyes of the Lord your God in violation of his covenant,",
       "verse": 2,
       "type": "newline"
     },
@@ -37,7 +38,7 @@
       "type": "heading"
     },
     {
-      "text": "If cases come before your courts that are too difficult for you to judge—whether bloodshed, lawsuits or assaults—take them to the place the  your God will choose.",
+      "text": "If cases come before your courts that are too difficult for you to judge—whether bloodshed, lawsuits or assaults—take them to the place the Lord your God will choose.",
       "verse": 8,
       "type": "newline"
     },
@@ -46,7 +47,7 @@
       "verse": 9
     },
     {
-      "text": "You must act according to the decisions they give you at the place the  will choose. Be careful to do everything they instruct you to do.",
+      "text": "You must act according to the decisions they give you at the place the Lord will choose. Be careful to do everything they instruct you to do.",
       "verse": 10
     },
     {
@@ -54,7 +55,7 @@
       "verse": 11
     },
     {
-      "text": "Anyone who shows contempt for the judge or for the priest who stands ministering there to the  your God is to be put to death. You must purge the evil from Israel.",
+      "text": "Anyone who shows contempt for the judge or for the priest who stands ministering there to the Lord your God is to be put to death. You must purge the evil from Israel.",
       "verse": 12
     },
     {
@@ -66,16 +67,16 @@
       "type": "heading"
     },
     {
-      "text": "When you enter the land the  your God is giving you and have taken possession of it and settled in it, and you say, “Let us set a king over us like all the nations around us,”",
+      "text": "When you enter the land the Lord your God is giving you and have taken possession of it and settled in it, and you say, “Let us set a king over us like all the nations around us,”",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "be sure to appoint over you a king the  your God chooses. He must be from among your fellow Israelites. Do not place a foreigner over you, one who is not an Israelite.",
+      "text": "be sure to appoint over you a king the Lord your God chooses. He must be from among your fellow Israelites. Do not place a foreigner over you, one who is not an Israelite.",
       "verse": 15
     },
     {
-      "text": "The king, moreover, must not acquire great numbers of horses for himself or make the people return to Egypt to get more of them, for the  has told you, “You are not to go back that way again.”",
+      "text": "The king, moreover, must not acquire great numbers of horses for himself or make the people return to Egypt to get more of them, for the Lord has told you, “You are not to go back that way again.”",
       "verse": 16
     },
     {
@@ -88,7 +89,7 @@
       "type": "newline"
     },
     {
-      "text": "It is to be with him, and he is to read it all the days of his life so that he may learn to revere the  his God and follow carefully all the words of this law and these decrees",
+      "text": "It is to be with him, and he is to read it all the days of his life so that he may learn to revere the Lord his God and follow carefully all the words of this law and these decrees",
       "verse": 19
     },
     {

@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 26,
+  "verses": 75,
   "content": [
     {
       "text": "The Plot Against Jesus",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“As you know, the Passover is two days away—and the Son of Man will be handed over to be crucified.”",
       "verse": 2
     },
     {
@@ -52,20 +53,20 @@
       "verse": 9
     },
     {
-      "text": "Aware of this, Jesus said to them,",
+      "text": "Aware of this, Jesus said to them, “Why are you bothering this woman? She has done a beautiful thing to me.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "The poor you will always have with you, but you will not always have me.",
       "verse": 11
     },
     {
-      "text": "",
+      "text": "When she poured this perfume on my body, she did it to prepare me for burial.",
       "verse": 12
     },
     {
-      "text": "",
+      "text": "Truly I tell you, wherever this gospel is preached throughout the world, what she has done will also be told, in memory of her.”",
       "verse": 13
     },
     {
@@ -95,7 +96,7 @@
       "type": "newline"
     },
     {
-      "text": "He replied,",
+      "text": "He replied, “Go into the city to a certain man and tell him, ‘The Teacher says: My appointed time is near. I am going to celebrate the Passover with my disciples at your house.’”",
       "verse": 18,
       "type": "newline"
     },
@@ -109,7 +110,7 @@
       "type": "newline"
     },
     {
-      "text": "And while they were eating, he said,",
+      "text": "And while they were eating, he said, “Truly I tell you, one of you will betray me.”",
       "verse": 21
     },
     {
@@ -118,12 +119,12 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “The one who has dipped his hand into the bowl with me will betray me.",
       "verse": 23,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "The Son of Man will go just as it is written about him. But woe to that man who betrays the Son of Man! It would be better for him if he had not been born.”",
       "verse": 24
     },
     {
@@ -132,26 +133,26 @@
       "type": "newline"
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “You have said so.”",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying,",
+      "text": "While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take and eat; this is my body.”",
       "verse": 26,
       "type": "newline"
     },
     {
-      "text": "Then he took a cup, and when he had given thanks, he gave it to them, saying,",
+      "text": "Then he took a cup, and when he had given thanks, he gave it to them, saying, “Drink from it, all of you.",
       "verse": 27,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "This is my blood of the covenant, which is poured out for many for the forgiveness of sins.",
       "verse": 28
     },
     {
-      "text": "",
+      "text": "I tell you, I will not drink from this fruit of the vine from now on until that day when I drink it new with you in my Father’s kingdom.”",
       "verse": 29
     },
     {
@@ -164,22 +165,22 @@
       "type": "heading"
     },
     {
-      "text": "Then Jesus told them,",
+      "text": "Then Jesus told them, “This very night you will all fall away on account of me, for it is written:",
       "verse": 31,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“‘I will strike the shepherd,",
       "verse": 31,
       "type": "poetry newline"
     },
     {
-      "text": "",
+      "text": "and the sheep of the flock will be scattered.’",
       "verse": 31,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "But after I have risen, I will go ahead of you into Galilee.”",
       "verse": 32,
       "type": "newline"
     },
@@ -189,7 +190,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus answered,",
+      "text": "“Truly I tell you,” Jesus answered, “this very night, before the rooster crows, you will disown me three times.”",
       "verse": 34,
       "type": "newline"
     },
@@ -203,7 +204,7 @@
       "type": "heading"
     },
     {
-      "text": "Then Jesus went with his disciples to a place called Gethsemane, and he said to them,",
+      "text": "Then Jesus went with his disciples to a place called Gethsemane, and he said to them, “Sit here while I go over there and pray.”",
       "verse": 36,
       "type": "newline"
     },
@@ -212,25 +213,25 @@
       "verse": 37
     },
     {
-      "text": "Then he said to them,",
+      "text": "Then he said to them, “My soul is overwhelmed with sorrow to the point of death. Stay here and keep watch with me.”",
       "verse": 38
     },
     {
-      "text": "Going a little farther, he fell with his face to the ground and prayed,",
+      "text": "Going a little farther, he fell with his face to the ground and prayed, “My Father, if it is possible, may this cup be taken from me. Yet not as I will, but as you will.”",
       "verse": 39,
       "type": "newline"
     },
     {
-      "text": "Then he returned to his disciples and found them sleeping.  he asked Peter.",
+      "text": "Then he returned to his disciples and found them sleeping. “Couldn’t you men keep watch with me for one hour?” he asked Peter.",
       "verse": 40,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“Watch and pray so that you will not fall into temptation. The spirit is willing, but the flesh is weak.”",
       "verse": 41
     },
     {
-      "text": "He went away a second time and prayed,",
+      "text": "He went away a second time and prayed, “My Father, if it is not possible for this cup to be taken away unless I drink it, may your will be done.”",
       "verse": 42,
       "type": "newline"
     },
@@ -244,12 +245,12 @@
       "verse": 44
     },
     {
-      "text": "Then he returned to the disciples and said to them,",
+      "text": "Then he returned to the disciples and said to them, “Are you still sleeping and resting? Look, the hour has come, and the Son of Man is delivered into the hands of sinners.",
       "verse": 45,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Rise! Let us go! Here comes my betrayer!”",
       "verse": 46
     },
     {
@@ -270,7 +271,7 @@
       "verse": 49
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “Do what you came for, friend.”",
       "verse": 50,
       "type": "newline"
     },
@@ -284,25 +285,25 @@
       "verse": 51
     },
     {
-      "text": "Jesus said to him,",
+      "text": "“Put your sword back in its place,” Jesus said to him, “for all who draw the sword will die by the sword.",
       "verse": 52,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Do you think I cannot call on my Father, and he will at once put at my disposal more than twelve legions of angels?",
       "verse": 53
     },
     {
-      "text": "",
+      "text": "But how then would the Scriptures be fulfilled that say it must happen in this way?”",
       "verse": 54
     },
     {
-      "text": "In that hour Jesus said to the crowd,",
+      "text": "In that hour Jesus said to the crowd, “Am I leading a rebellion, that you have come out with swords and clubs to capture me? Every day I sat in the temple courts teaching, and you did not arrest me.",
       "verse": 55,
       "type": "newline"
     },
     {
-      "text": "Then all the disciples deserted him and fled.",
+      "text": "But this has all taken place that the writings of the prophets might be fulfilled.” Then all the disciples deserted him and fled.",
       "verse": 56
     },
     {
@@ -351,7 +352,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied.",
+      "text": "“You have said so,” Jesus replied. “But I say to all of you: From now on you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.”",
       "verse": 64,
       "type": "newline"
     },
@@ -418,7 +419,7 @@
       "type": "newline"
     },
     {
-      "text": "Then Peter remembered the word Jesus had spoken:  And he went outside and wept bitterly.",
+      "text": "Then Peter remembered the word Jesus had spoken: “Before the rooster crows, you will disown me three times.” And he went outside and wept bitterly.",
       "verse": 75
     }
   ]

@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 104,
+  "verses": 35,
   "content": [
     {
-      "text": "Bless the , O my soul. O  my God, thou art very great; thou art clothed with honour and majesty.",
+      "text": "Bless the Lord, O my soul. O Lord my God, thou art very great; thou art clothed with honour and majesty.",
       "verse": 1
     },
     {
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "The trees of the  are full of sap; the cedars of Lebanon, which he hath planted;",
+      "text": "The trees of the Lord are full of sap; the cedars of Lebanon, which he hath planted;",
       "verse": 16,
       "type": "newline"
     },
@@ -118,7 +119,7 @@
       "type": "newline"
     },
     {
-      "text": "O , how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.",
+      "text": "O Lord, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.",
       "verse": 24,
       "type": "newline"
     },
@@ -153,7 +154,7 @@
       "type": "newline"
     },
     {
-      "text": "The glory of the  shall endure for ever: the  shall rejoice in his works.",
+      "text": "The glory of the Lord shall endure for ever: the Lord shall rejoice in his works.",
       "verse": 31,
       "type": "newline"
     },
@@ -163,17 +164,17 @@
       "type": "newline"
     },
     {
-      "text": "I will sing unto the  as long as I live: I will sing praise to my God while I have my being.",
+      "text": "I will sing unto the Lord as long as I live: I will sing praise to my God while I have my being.",
       "verse": 33,
       "type": "newline"
     },
     {
-      "text": "My meditation of him shall be sweet: I will be glad in the .",
+      "text": "My meditation of him shall be sweet: I will be glad in the Lord.",
       "verse": 34,
       "type": "newline"
     },
     {
-      "text": "Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the , O my soul. Praise ye the .",
+      "text": "Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the Lord, O my soul. Praise ye the Lord.",
       "verse": 35,
       "type": "newline"
     }

@@ -2,6 +2,7 @@
   "book_id": "AMOS",
   "book_name": "Amos",
   "chapter": 1,
+  "verses": 15,
   "content": [
     {
       "text": "The words of Amos, who was among the shepherds of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah and in the days of Jeroboam the son of Joash, king of Israel, two years before the earthquake.",
@@ -17,7 +18,7 @@
       "type": "newline"
     },
     {
-      "text": "“The  roars from Zion",
+      "text": "“The Lord roars from Zion",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -37,7 +38,7 @@
       "type": "poetry"
     },
     {
-      "text": "Thus says the :",
+      "text": "Thus says the Lord:",
       "verse": 3,
       "type": "newline"
     },
@@ -92,12 +93,12 @@
       "type": "poetry"
     },
     {
-      "text": "says the .",
+      "text": "says the Lord.",
       "verse": 5,
       "type": "poetry"
     },
     {
-      "text": "Thus says the :",
+      "text": "Thus says the Lord:",
       "verse": 6,
       "type": "newline"
     },
@@ -152,12 +153,12 @@
       "type": "poetry"
     },
     {
-      "text": "says the Lord .",
+      "text": "says the Lord God.",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "Thus says the :",
+      "text": "Thus says the Lord:",
       "verse": 9,
       "type": "newline"
     },
@@ -192,7 +193,7 @@
       "type": "poetry"
     },
     {
-      "text": "Thus says the :",
+      "text": "Thus says the Lord:",
       "verse": 11,
       "type": "newline"
     },
@@ -237,7 +238,7 @@
       "type": "poetry"
     },
     {
-      "text": "Thus says the :",
+      "text": "Thus says the Lord:",
       "verse": 13,
       "type": "newline"
     },
@@ -292,7 +293,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the .",
+      "text": "says the Lord.",
       "verse": 15,
       "type": "poetry"
     }

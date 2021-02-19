@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 28,
+  "verses": 22,
   "content": [
     {
       "text": "So Isaac called for Jacob and blessed him. Then he commanded him: “Do not marry a Canaanite woman.",
@@ -58,7 +59,7 @@
       "verse": 12
     },
     {
-      "text": "There above it stood the , and he said: “I am the , the God of your father Abraham and the God of Isaac. I will give you and your descendants the land on which you are lying.",
+      "text": "There above it stood the Lord, and he said: “I am the Lord, the God of your father Abraham and the God of Isaac. I will give you and your descendants the land on which you are lying.",
       "verse": 13
     },
     {
@@ -70,7 +71,7 @@
       "verse": 15
     },
     {
-      "text": "When Jacob awoke from his sleep, he thought, “Surely the  is in this place, and I was not aware of it.”",
+      "text": "When Jacob awoke from his sleep, he thought, “Surely the Lord is in this place, and I was not aware of it.”",
       "verse": 16,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "so that I return safely to my father’s household, then the  will be my God",
+      "text": "so that I return safely to my father’s household, then the Lord will be my God",
       "verse": 21
     },
     {

@@ -2,6 +2,7 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 9,
+  "verses": 11,
   "content": [
     {
       "text": "Judgment on the Idolaters",
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "Now the glory of the God of Israel went up from above the cherubim, where it had been, and moved to the threshold of the temple. Then the  called to the man clothed in linen who had the writing kit at his side",
+      "text": "Now the glory of the God of Israel went up from above the cherubim, where it had been, and moved to the threshold of the temple. Then the Lord called to the man clothed in linen who had the writing kit at his side",
       "verse": 3,
       "type": "newline"
     },
@@ -40,11 +41,11 @@
       "type": "newline"
     },
     {
-      "text": "While they were killing and I was left alone, I fell facedown, crying out, “Alas, Sovereign ! Are you going to destroy the entire remnant of Israel in this outpouring of your wrath on Jerusalem?”",
+      "text": "While they were killing and I was left alone, I fell facedown, crying out, “Alas, Sovereign Lord! Are you going to destroy the entire remnant of Israel in this outpouring of your wrath on Jerusalem?”",
       "verse": 8
     },
     {
-      "text": "He answered me, “The sin of the people of Israel and Judah is exceedingly great; the land is full of bloodshed and the city is full of injustice. They say, ‘The  has forsaken the land; the  does not see.’",
+      "text": "He answered me, “The sin of the people of Israel and Judah is exceedingly great; the land is full of bloodshed and the city is full of injustice. They say, ‘The Lord has forsaken the land; the Lord does not see.’",
       "verse": 9,
       "type": "newline"
     },

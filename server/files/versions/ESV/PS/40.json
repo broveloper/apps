@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 40,
+  "verses": 17,
   "content": [
     {
       "text": "My Help and My Deliverer",
@@ -9,11 +10,10 @@
     },
     {
       "text": "To the choirmaster. A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "I waited patiently for the ;",
+      "text": "I waited patiently for the Lord;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -58,7 +58,7 @@
       "type": "poetry"
     },
     {
-      "text": "and put their trust in the .",
+      "text": "and put their trust in the Lord.",
       "verse": 3,
       "type": "poetry"
     },
@@ -68,7 +68,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "the  his trust,",
+      "text": "the Lord his trust,",
       "verse": 4,
       "type": "poetry"
     },
@@ -83,7 +83,7 @@
       "type": "poetry"
     },
     {
-      "text": "You have multiplied, O  my God,",
+      "text": "You have multiplied, O Lord my God,",
       "verse": 5,
       "type": "poetry"
     },
@@ -163,7 +163,7 @@
       "type": "poetry"
     },
     {
-      "text": "as you know, O .",
+      "text": "as you know, O Lord.",
       "verse": 9,
       "type": "poetry"
     },
@@ -188,7 +188,7 @@
       "type": "poetry"
     },
     {
-      "text": "As for you, O , you will not restrain",
+      "text": "As for you, O Lord, you will not restrain",
       "verse": 11,
       "type": "poetry newline"
     },
@@ -238,12 +238,12 @@
       "type": "poetry"
     },
     {
-      "text": "Be pleased, O , to deliver me!",
+      "text": "Be pleased, O Lord, to deliver me!",
       "verse": 13,
       "type": "poetry newline"
     },
     {
-      "text": "O , make haste to help me!",
+      "text": "O Lord, make haste to help me!",
       "verse": 13,
       "type": "poetry"
     },
@@ -293,7 +293,7 @@
       "type": "poetry"
     },
     {
-      "text": "say continually, “Great is the !”",
+      "text": "say continually, “Great is the Lord!”",
       "verse": 16,
       "type": "poetry"
     },

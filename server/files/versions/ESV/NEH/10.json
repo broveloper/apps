@@ -2,13 +2,14 @@
   "book_id": "NEH",
   "book_name": "Nehemiah",
   "chapter": 10,
+  "verses": 39,
   "content": [
     {
       "text": "The People Who Sealed the Covenant",
       "type": "heading"
     },
     {
-      "text": "“On the seals are the names of Nehemiah the governor, the son of Hacaliah, Zedekiah,",
+      "text": " “On the seals are the names of Nehemiah the governor, the son of Hacaliah, Zedekiah,",
       "verse": 1,
       "type": "newline"
     },
@@ -126,7 +127,7 @@
       "type": "newline"
     },
     {
-      "text": "join with their brothers, their nobles, and enter into a curse and an oath to walk in God's Law that was given by Moses the servant of God, and to observe and do all the commandments of the  our Lord and his rules and his statutes.",
+      "text": "join with their brothers, their nobles, and enter into a curse and an oath to walk in God's Law that was given by Moses the servant of God, and to observe and do all the commandments of the Lord our Lord and his rules and his statutes.",
       "verse": 29
     },
     {
@@ -147,11 +148,11 @@
       "verse": 33
     },
     {
-      "text": "We, the priests, the Levites, and the people, have likewise cast lots for the wood offering, to bring it into the house of our God, according to our fathers' houses, at times appointed, year by year, to burn on the altar of the  our God, as it is written in the Law.",
+      "text": "We, the priests, the Levites, and the people, have likewise cast lots for the wood offering, to bring it into the house of our God, according to our fathers' houses, at times appointed, year by year, to burn on the altar of the Lord our God, as it is written in the Law.",
       "verse": 34
     },
     {
-      "text": "We obligate ourselves to bring the firstfruits of our ground and the firstfruits of all fruit of every tree, year by year, to the house of the ;",
+      "text": "We obligate ourselves to bring the firstfruits of our ground and the firstfruits of all fruit of every tree, year by year, to the house of the Lord;",
       "verse": 35
     },
     {

@@ -2,6 +2,7 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 1,
+  "verses": 28,
   "content": [
     {
       "text": "Ezekiel in Babylon",
@@ -17,11 +18,11 @@
       "verse": 2
     },
     {
-      "text": "the word of the  came to Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the Chebar canal, and the hand of the  was upon him there.",
+      "text": "the word of the Lord came to Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the Chebar canal, and the hand of the Lord was upon him there.",
       "verse": 3
     },
     {
-      "text": "The Glory of the",
+      "text": "The Glory of the Lord",
       "type": "heading"
     },
     {
@@ -129,7 +130,7 @@
       "verse": 28
     },
     {
-      "text": "Such was the appearance of the likeness of the glory of the . And when I saw it, I fell on my face, and I heard the voice of one speaking.",
+      "text": "Such was the appearance of the likeness of the glory of the Lord. And when I saw it, I fell on my face, and I heard the voice of one speaking.",
       "verse": 28,
       "type": "newline"
     }

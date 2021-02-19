@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 18,
+  "verses": 43,
   "content": [
     {
       "text": "The Parable of the Persistent Widow",
@@ -13,31 +14,31 @@
       "type": "newline"
     },
     {
-      "text": "He said,",
+      "text": "He said, “In a certain city there was a judge who neither feared God nor respected man.",
       "verse": 2
     },
     {
-      "text": "",
+      "text": "And there was a widow in that city who kept coming to him and saying, ‘Give me justice against my adversary.’",
       "verse": 3
     },
     {
-      "text": "",
+      "text": "For a while he refused, but afterward he said to himself, ‘Though I neither fear God nor respect man,",
       "verse": 4
     },
     {
-      "text": "",
+      "text": "yet because this widow keeps bothering me, I will give her justice, so that she will not beat me down by her continual coming.’”",
       "verse": 5
     },
     {
-      "text": "And the Lord said,",
+      "text": "And the Lord said, “Hear what the unrighteous judge says.",
       "verse": 6
     },
     {
-      "text": "",
+      "text": "And will not God give justice to his elect, who cry to him day and night? Will he delay long over them?",
       "verse": 7
     },
     {
-      "text": "",
+      "text": "I tell you, he will give justice to them speedily. Nevertheless, when the Son of Man comes, will he find faith on earth?”",
       "verse": 8
     },
     {
@@ -50,23 +51,23 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“Two men went up into the temple to pray, one a Pharisee and the other a tax collector.",
       "verse": 10
     },
     {
-      "text": "",
+      "text": "The Pharisee, standing by himself, prayed thus: ‘God, I thank you that I am not like other men, extortioners, unjust, adulterers, or even like this tax collector.",
       "verse": 11
     },
     {
-      "text": "",
+      "text": "I fast twice a week; I give tithes of all that I get.’",
       "verse": 12
     },
     {
-      "text": "",
+      "text": "But the tax collector, standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, ‘God, be merciful to me, a sinner!’",
       "verse": 13
     },
     {
-      "text": "",
+      "text": "I tell you, this man went down to his house justified, rather than the other. For everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.”",
       "verse": 14
     },
     {
@@ -79,11 +80,11 @@
       "type": "newline"
     },
     {
-      "text": "But Jesus called them to him, saying,",
+      "text": "But Jesus called them to him, saying, “Let the children come to me, and do not hinder them, for to such belongs the kingdom of God.",
       "verse": 16
     },
     {
-      "text": "",
+      "text": "Truly, I say to you, whoever does not receive the kingdom of God like a child shall not enter it.”",
       "verse": 17
     },
     {
@@ -96,11 +97,11 @@
       "type": "newline"
     },
     {
-      "text": "And Jesus said to him,",
+      "text": "And Jesus said to him, “Why do you call me good? No one is good except God alone.",
       "verse": 19
     },
     {
-      "text": "",
+      "text": "You know the commandments: ‘Do not commit adultery, Do not murder, Do not steal, Do not bear false witness, Honor your father and mother.’”",
       "verse": 20
     },
     {
@@ -108,7 +109,7 @@
       "verse": 21
     },
     {
-      "text": "When Jesus heard this, he said to him,",
+      "text": "When Jesus heard this, he said to him, “One thing you still lack. Sell all that you have and distribute to the poor, and you will have treasure in heaven; and come, follow me.”",
       "verse": 22
     },
     {
@@ -116,11 +117,11 @@
       "verse": 23
     },
     {
-      "text": "Jesus, seeing that he had become sad, said,",
+      "text": "Jesus, seeing that he had become sad, said, “How difficult it is for those who have wealth to enter the kingdom of God!",
       "verse": 24
     },
     {
-      "text": "",
+      "text": "For it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.”",
       "verse": 25
     },
     {
@@ -128,7 +129,7 @@
       "verse": 26
     },
     {
-      "text": "But he said,",
+      "text": "But he said, “What is impossible with man is possible with God.”",
       "verse": 27
     },
     {
@@ -136,11 +137,11 @@
       "verse": 28
     },
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “Truly, I say to you, there is no one who has left house or wife or brothers or parents or children, for the sake of the kingdom of God,",
       "verse": 29
     },
     {
-      "text": "",
+      "text": "who will not receive many times more in this time, and in the age to come eternal life.”",
       "verse": 30
     },
     {
@@ -148,16 +149,16 @@
       "type": "heading"
     },
     {
-      "text": "And taking the twelve, he said to them,",
+      "text": "And taking the twelve, he said to them, “See, we are going up to Jerusalem, and everything that is written about the Son of Man by the prophets will be accomplished.",
       "verse": 31,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "For he will be delivered over to the Gentiles and will be mocked and shamefully treated and spit upon.",
       "verse": 32
     },
     {
-      "text": "",
+      "text": "And after flogging him, they will kill him, and on the third day he will rise.”",
       "verse": 33
     },
     {
@@ -194,11 +195,11 @@
       "verse": 40
     },
     {
-      "text": "He said, “Lord, let me recover my sight.”",
+      "text": "“What do you want me to do for you?” He said, “Lord, let me recover my sight.”",
       "verse": 41
     },
     {
-      "text": "And Jesus said to him,",
+      "text": "And Jesus said to him, “Recover your sight; your faith has made you well.”",
       "verse": 42
     },
     {

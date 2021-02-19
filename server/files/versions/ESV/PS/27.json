@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 27,
+  "verses": 14,
   "content": [
     {
-      "text": "The  Is My Light and My Salvation",
+      "text": "The Lord Is My Light and My Salvation",
       "type": "heading"
     },
     {
       "text": "Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "The  is my light and my salvation;",
+      "text": "The Lord is my light and my salvation;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,7 +23,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is the stronghold of my life;",
+      "text": "The Lord is the stronghold of my life;",
       "verse": 1,
       "type": "poetry"
     },
@@ -73,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "One thing have I asked of the ,",
+      "text": "One thing have I asked of the Lord,",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -83,7 +83,7 @@
       "type": "poetry"
     },
     {
-      "text": "that I may dwell in the house of the",
+      "text": "that I may dwell in the house of the Lord",
       "verse": 4,
       "type": "poetry"
     },
@@ -93,7 +93,7 @@
       "type": "poetry"
     },
     {
-      "text": "to gaze upon the beauty of the",
+      "text": "to gaze upon the beauty of the Lord",
       "verse": 4,
       "type": "poetry"
     },
@@ -143,12 +143,12 @@
       "type": "poetry"
     },
     {
-      "text": "I will sing and make melody to the .",
+      "text": "I will sing and make melody to the Lord.",
       "verse": 6,
       "type": "poetry"
     },
     {
-      "text": "Hear, O , when I cry aloud;",
+      "text": "Hear, O Lord, when I cry aloud;",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -168,12 +168,12 @@
       "type": "poetry"
     },
     {
-      "text": "“Your face, , do I seek.”",
+      "text": "“Your face, Lord, do I seek.”",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "Hide not your face from me.",
+      "text": "    Hide not your face from me.",
       "verse": 9,
       "type": "poetry"
     },
@@ -203,12 +203,12 @@
       "type": "poetry"
     },
     {
-      "text": "but the  will take me in.",
+      "text": "but the Lord will take me in.",
       "verse": 10,
       "type": "poetry"
     },
     {
-      "text": "Teach me your way, O ,",
+      "text": "Teach me your way, O Lord,",
       "verse": 11,
       "type": "poetry newline"
     },
@@ -238,7 +238,7 @@
       "type": "poetry"
     },
     {
-      "text": "I believe that I shall look upon the goodness of the",
+      "text": "I believe that I shall look upon the goodness of the Lord",
       "verse": 13,
       "type": "poetry newline"
     },
@@ -248,7 +248,7 @@
       "type": "poetry"
     },
     {
-      "text": "Wait for the ;",
+      "text": "Wait for the Lord;",
       "verse": 14,
       "type": "poetry"
     },
@@ -258,7 +258,7 @@
       "type": "poetry"
     },
     {
-      "text": "wait for the !",
+      "text": "wait for the Lord!",
       "verse": 14,
       "type": "poetry"
     }

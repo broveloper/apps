@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 1,
+  "verses": 6,
   "content": [
     {
       "text": "Book One",
@@ -32,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "but his delight is in the law of the ,",
+      "text": "but his delight is in the law of the Lord,",
       "verse": 2,
       "type": "poetry"
     },
@@ -87,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  knows the way of the righteous,",
+      "text": "for the Lord knows the way of the righteous,",
       "verse": 6,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 4,
+  "verses": 22,
   "content": [
     {
       "text": "And Samuel’s word came to all Israel.",
@@ -21,16 +22,16 @@
       "verse": 2
     },
     {
-      "text": "When the soldiers returned to camp, the elders of Israel asked, “Why did the  bring defeat on us today before the Philistines? Let us bring the ark of the ’s covenant from Shiloh, so that he may go with us and save us from the hand of our enemies.”",
+      "text": "When the soldiers returned to camp, the elders of Israel asked, “Why did the Lord bring defeat on us today before the Philistines? Let us bring the ark of the Lord’s covenant from Shiloh, so that he may go with us and save us from the hand of our enemies.”",
       "verse": 3
     },
     {
-      "text": "So the people sent men to Shiloh, and they brought back the ark of the covenant of the  Almighty, who is enthroned between the cherubim. And Eli’s two sons, Hophni and Phinehas, were there with the ark of the covenant of God.",
+      "text": "So the people sent men to Shiloh, and they brought back the ark of the covenant of the Lord Almighty, who is enthroned between the cherubim. And Eli’s two sons, Hophni and Phinehas, were there with the ark of the covenant of God.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "When the ark of the ’s covenant came into the camp, all Israel raised such a great shout that the ground shook.",
+      "text": "When the ark of the Lord’s covenant came into the camp, all Israel raised such a great shout that the ground shook.",
       "verse": 5,
       "type": "newline"
     },
@@ -39,7 +40,7 @@
       "verse": 6
     },
     {
-      "text": "When they learned that the ark of the  had come into the camp,",
+      "text": "When they learned that the ark of the Lord had come into the camp,",
       "verse": 6,
       "type": "newline"
     },

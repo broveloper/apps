@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 29,
+  "verses": 11,
   "content": [
     {
       "text": "Now the Philistines gathered together all their armies to Aphek: and the Israelites pitched by a fountain which is in Jezreel.",
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "Then Achish called David, and said unto him, Surely, as the  liveth, thou hast been upright, and thy going out and thy coming in with me in the host is good in my sight: for I have not found evil in thee since the day of thy coming unto me unto this day: nevertheless the lords favour thee not.",
+      "text": "Then Achish called David, and said unto him, Surely, as the Lord liveth, thou hast been upright, and thy going out and thy coming in with me in the host is good in my sight: for I have not found evil in thee since the day of thy coming unto me unto this day: nevertheless the lords favour thee not.",
       "verse": 6,
       "type": "newline"
     },

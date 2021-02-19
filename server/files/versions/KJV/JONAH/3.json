@@ -2,9 +2,10 @@
   "book_id": "JONAH",
   "book_name": "Jonah",
   "chapter": 3,
+  "verses": 10,
   "content": [
     {
-      "text": "And the word of the  came unto Jonah the second time, saying,",
+      "text": "And the word of the Lord came unto Jonah the second time, saying,",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "So Jonah arose, and went unto Nineveh, according to the word of the . Now Nineveh was an exceeding great city of three days' journey.",
+      "text": "So Jonah arose, and went unto Nineveh, according to the word of the Lord. Now Nineveh was an exceeding great city of three days' journey.",
       "verse": 3,
       "type": "newline"
     },

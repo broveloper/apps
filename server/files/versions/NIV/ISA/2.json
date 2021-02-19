@@ -2,9 +2,10 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 2,
+  "verses": 22,
   "content": [
     {
-      "text": "The Mountain of the",
+      "text": "The Mountain of the Lord",
       "type": "heading"
     },
     {
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "the mountain of the ’s temple will be established",
+      "text": "the mountain of the Lord’s temple will be established",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "“Come, let us go up to the mountain of the ,",
+      "text": "“Come, let us go up to the mountain of the Lord,",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "the word of the  from Jerusalem.",
+      "text": "the word of the Lord from Jerusalem.",
       "verse": 3,
       "type": "poetry"
     },
@@ -108,16 +109,16 @@
       "type": "poetry newline"
     },
     {
-      "text": "let us walk in the light of the .",
+      "text": "let us walk in the light of the Lord.",
       "verse": 5,
       "type": "poetry"
     },
     {
-      "text": "The Day of the",
+      "text": "The Day of the Lord",
       "type": "heading"
     },
     {
-      "text": "You, , have abandoned your people,",
+      "text": "You, Lord, have abandoned your people,",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -197,7 +198,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "from the fearful presence of the",
+      "text": "from the fearful presence of the Lord",
       "verse": 10,
       "type": "poetry"
     },
@@ -217,12 +218,12 @@
       "type": "poetry"
     },
     {
-      "text": "the  alone will be exalted in that day.",
+      "text": "the Lord alone will be exalted in that day.",
       "verse": 11,
       "type": "poetry"
     },
     {
-      "text": "The  Almighty has a day in store",
+      "text": "The Lord Almighty has a day in store",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -292,12 +293,12 @@
       "type": "poetry"
     },
     {
-      "text": "the  alone will be exalted in that day,",
+      "text": "the Lord alone will be exalted in that day,",
       "verse": 17,
       "type": "poetry"
     },
     {
-      "text": "and the idols will totally disappear.",
+      "text": "    and the idols will totally disappear.",
       "verse": 18,
       "type": "poetry"
     },
@@ -312,7 +313,7 @@
       "type": "poetry"
     },
     {
-      "text": "from the fearful presence of the",
+      "text": "from the fearful presence of the Lord",
       "verse": 19,
       "type": "poetry"
     },
@@ -357,7 +358,7 @@
       "type": "poetry"
     },
     {
-      "text": "from the fearful presence of the",
+      "text": "from the fearful presence of the Lord",
       "verse": 21,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 49,
+  "verses": 20,
   "content": [
     {
       "text": "Psalm 49",
@@ -9,8 +10,7 @@
     },
     {
       "text": "For the director of music. Of the Sons of Korah. A psalm.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Hear this, all you peoples;",

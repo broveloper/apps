@@ -2,9 +2,10 @@
   "book_id": "MIC",
   "book_name": "Micah",
   "chapter": 4,
+  "verses": 13,
   "content": [
     {
-      "text": "The Mountain of the",
+      "text": "The Mountain of the Lord",
       "type": "heading"
     },
     {
@@ -13,7 +14,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "that the mountain of the house of the",
+      "text": "that the mountain of the house of the Lord",
       "verse": 1,
       "type": "poetry"
     },
@@ -33,12 +34,12 @@
       "type": "poetry"
     },
     {
-      "text": "and many nations shall come, and say:",
+      "text": "    and many nations shall come, and say:",
       "verse": 2,
       "type": "poetry"
     },
     {
-      "text": "“Come, let us go up to the mountain of the ,",
+      "text": "“Come, let us go up to the mountain of the Lord,",
       "verse": 2,
       "type": "poetry"
     },
@@ -63,7 +64,7 @@
       "type": "poetry"
     },
     {
-      "text": "and the word of the  from Jerusalem.",
+      "text": "and the word of the Lord from Jerusalem.",
       "verse": 2,
       "type": "poetry"
     },
@@ -108,7 +109,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the mouth of the  of hosts has spoken.",
+      "text": "for the mouth of the Lord of hosts has spoken.",
       "verse": 4,
       "type": "poetry"
     },
@@ -123,7 +124,7 @@
       "type": "poetry"
     },
     {
-      "text": "but we will walk in the name of the  our God",
+      "text": "but we will walk in the name of the Lord our God",
       "verse": 5,
       "type": "poetry"
     },
@@ -133,11 +134,11 @@
       "type": "poetry"
     },
     {
-      "text": "The  Shall Rescue Zion",
+      "text": "The Lord Shall Rescue Zion",
       "type": "heading"
     },
     {
-      "text": "In that day, declares the ,",
+      "text": "In that day, declares the Lord,",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -167,7 +168,7 @@
       "type": "poetry"
     },
     {
-      "text": "and the  will reign over them in Mount Zion",
+      "text": "and the Lord will reign over them in Mount Zion",
       "verse": 7,
       "type": "poetry"
     },
@@ -252,7 +253,7 @@
       "type": "poetry"
     },
     {
-      "text": "there the  will redeem you",
+      "text": "there the Lord will redeem you",
       "verse": 10,
       "type": "poetry"
     },
@@ -287,7 +288,7 @@
       "type": "poetry"
     },
     {
-      "text": "the thoughts of the ;",
+      "text": "the thoughts of the Lord;",
       "verse": 12,
       "type": "poetry"
     },
@@ -327,7 +328,7 @@
       "type": "poetry"
     },
     {
-      "text": "and shall devote their gain to the ,",
+      "text": "and shall devote their gain to the Lord,",
       "verse": 13,
       "type": "poetry"
     },

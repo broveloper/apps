@@ -2,6 +2,7 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 4,
+  "verses": 31,
   "content": [
     {
       "text": "“If you, Israel, will return,",
@@ -14,7 +15,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 1,
       "type": "poetry"
     },
@@ -34,7 +35,7 @@
       "type": "poetry"
     },
     {
-      "text": "you swear, ‘As surely as the  lives,’",
+      "text": "you swear, ‘As surely as the Lord lives,’",
       "verse": 2,
       "type": "poetry"
     },
@@ -49,7 +50,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the  says to the people of Judah and to Jerusalem:",
+      "text": "This is what the Lord says to the people of Judah and to Jerusalem:",
       "verse": 3,
       "type": "newline"
     },
@@ -64,7 +65,7 @@
       "type": "poetry"
     },
     {
-      "text": "Circumcise yourselves to the ,",
+      "text": "Circumcise yourselves to the Lord,",
       "verse": 4,
       "type": "poetry"
     },
@@ -183,7 +184,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the fierce anger of the",
+      "text": "for the fierce anger of the Lord",
       "verse": 8,
       "type": "poetry"
     },
@@ -193,7 +194,7 @@
       "type": "poetry"
     },
     {
-      "text": "“In that day,” declares the ,",
+      "text": "“In that day,” declares the Lord,",
       "verse": 9,
       "type": "poetry newline"
     },
@@ -213,7 +214,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then I said, “Alas, Sovereign ! How completely you have deceived this people and Jerusalem by saying, ‘You will have peace,’ when the sword is at our throats!”",
+      "text": "Then I said, “Alas, Sovereign Lord! How completely you have deceived this people and Jerusalem by saying, ‘You will have peace,’ when the sword is at our throats!”",
       "verse": 10,
       "type": "newline"
     },
@@ -297,7 +298,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 17,
       "type": "poetry"
     },
@@ -477,12 +478,12 @@
       "type": "poetry"
     },
     {
-      "text": "before the , before his fierce anger.",
+      "text": "before the Lord, before his fierce anger.",
       "verse": 26,
       "type": "poetry"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 27,
       "type": "newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 120,
+  "verses": 7,
   "content": [
     {
       "text": "Psalm 120",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A song of ascents.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "I call on the  in my distress,",
+      "text": "I call on the Lord in my distress,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,7 +23,7 @@
       "type": "poetry"
     },
     {
-      "text": "Save me, ,",
+      "text": "Save me, Lord,",
       "verse": 2,
       "type": "poetry"
     },

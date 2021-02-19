@@ -2,22 +2,23 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 1,
+  "verses": 17,
   "content": [
     {
       "text": "The Burnt Offering",
       "type": "heading"
     },
     {
-      "text": "The  called to Moses and spoke to him from the tent of meeting. He said,",
+      "text": "The Lord called to Moses and spoke to him from the tent of meeting. He said,",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Speak to the Israelites and say to them: ‘When anyone among you brings an offering to the , bring as your offering an animal from either the herd or the flock.",
+      "text": "“Speak to the Israelites and say to them: ‘When anyone among you brings an offering to the Lord, bring as your offering an animal from either the herd or the flock.",
       "verse": 2
     },
     {
-      "text": "“‘If the offering is a burnt offering from the herd, you are to offer a male without defect. You must present it at the entrance to the tent of meeting so that it will be acceptable to the .",
+      "text": "“‘If the offering is a burnt offering from the herd, you are to offer a male without defect. You must present it at the entrance to the tent of meeting so that it will be acceptable to the Lord.",
       "verse": 3,
       "type": "newline"
     },
@@ -26,7 +27,7 @@
       "verse": 4
     },
     {
-      "text": "You are to slaughter the young bull before the , and then Aaron’s sons the priests shall bring the blood and splash it against the sides of the altar at the entrance to the tent of meeting.",
+      "text": "You are to slaughter the young bull before the Lord, and then Aaron’s sons the priests shall bring the blood and splash it against the sides of the altar at the entrance to the tent of meeting.",
       "verse": 5
     },
     {
@@ -42,7 +43,7 @@
       "verse": 8
     },
     {
-      "text": "You are to wash the internal organs and the legs with water, and the priest is to burn all of it on the altar. It is a burnt offering, a food offering, an aroma pleasing to the .",
+      "text": "You are to wash the internal organs and the legs with water, and the priest is to burn all of it on the altar. It is a burnt offering, a food offering, an aroma pleasing to the Lord.",
       "verse": 9
     },
     {
@@ -51,7 +52,7 @@
       "type": "newline"
     },
     {
-      "text": "You are to slaughter it at the north side of the altar before the , and Aaron’s sons the priests shall splash its blood against the sides of the altar.",
+      "text": "You are to slaughter it at the north side of the altar before the Lord, and Aaron’s sons the priests shall splash its blood against the sides of the altar.",
       "verse": 11
     },
     {
@@ -59,11 +60,11 @@
       "verse": 12
     },
     {
-      "text": "You are to wash the internal organs and the legs with water, and the priest is to bring all of them and burn them on the altar. It is a burnt offering, a food offering, an aroma pleasing to the .",
+      "text": "You are to wash the internal organs and the legs with water, and the priest is to bring all of them and burn them on the altar. It is a burnt offering, a food offering, an aroma pleasing to the Lord.",
       "verse": 13
     },
     {
-      "text": "“‘If the offering to the  is a burnt offering of birds, you are to offer a dove or a young pigeon.",
+      "text": "“‘If the offering to the Lord is a burnt offering of birds, you are to offer a dove or a young pigeon.",
       "verse": 14,
       "type": "newline"
     },
@@ -76,7 +77,7 @@
       "verse": 16
     },
     {
-      "text": "He shall tear it open by the wings, not dividing it completely, and then the priest shall burn it on the wood that is burning on the altar. It is a burnt offering, a food offering, an aroma pleasing to the .",
+      "text": "He shall tear it open by the wings, not dividing it completely, and then the priest shall burn it on the wood that is burning on the altar. It is a burnt offering, a food offering, an aroma pleasing to the Lord.",
       "verse": 17
     }
   ]

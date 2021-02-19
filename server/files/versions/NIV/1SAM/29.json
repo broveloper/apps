@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 29,
+  "verses": 11,
   "content": [
     {
       "text": "Achish Sends David Back to Ziklag",
@@ -45,7 +46,7 @@
       "type": "poetry"
     },
     {
-      "text": "So Achish called David and said to him, “As surely as the  lives, you have been reliable, and I would be pleased to have you serve with me in the army. From the day you came to me until today, I have found no fault in you, but the rulers don’t approve of you.",
+      "text": "So Achish called David and said to him, “As surely as the Lord lives, you have been reliable, and I would be pleased to have you serve with me in the army. From the day you came to me until today, I have found no fault in you, but the rulers don’t approve of you.",
       "verse": 6,
       "type": "newline"
     },

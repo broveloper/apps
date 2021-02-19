@@ -2,9 +2,10 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 6,
+  "verses": 13,
   "content": [
     {
-      "text": "In the year that king Uzziah died I saw also the  sitting upon a throne, high and lifted up, and his train filled the temple.",
+      "text": "In the year that king Uzziah died I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple.",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "And one cried unto another, and said, Holy, holy, holy, is the  of hosts: the whole earth is full of his glory.",
+      "text": "And one cried unto another, and said, Holy, holy, holy, is the Lord of hosts: the whole earth is full of his glory.",
       "verse": 3,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "Then said I, Woe is me! for I am undone; because I am a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, the  of hosts.",
+      "text": "Then said I, Woe is me! for I am undone; because I am a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, the Lord of hosts.",
       "verse": 5,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  have removed men far away, and there be a great forsaking in the midst of the land.",
+      "text": "And the Lord have removed men far away, and there be a great forsaking in the midst of the land.",
       "verse": 12,
       "type": "newline"
     },

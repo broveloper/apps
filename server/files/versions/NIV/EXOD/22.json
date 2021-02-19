@@ -2,6 +2,7 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 22,
+  "verses": 31,
   "content": [
     {
       "text": "Protection of Property",
@@ -59,7 +60,7 @@
       "type": "newline"
     },
     {
-      "text": "the issue between them will be settled by the taking of an oath before the  that the neighbor did not lay hands on the other person’s property. The owner is to accept this, and no restitution is required.",
+      "text": "the issue between them will be settled by the taking of an oath before the Lord that the neighbor did not lay hands on the other person’s property. The owner is to accept this, and no restitution is required.",
       "verse": 11
     },
     {
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "“Whoever sacrifices to any god other than the  must be destroyed.",
+      "text": "“Whoever sacrifices to any god other than the Lord must be destroyed.",
       "verse": 20,
       "type": "newline"
     },

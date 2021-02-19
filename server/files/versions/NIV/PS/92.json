@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 92,
+  "verses": 15,
   "content": [
     {
       "text": "Psalm 92",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A psalm. A song. For the Sabbath day.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "It is good to praise the",
+      "text": "It is good to praise the Lord",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -43,7 +43,7 @@
       "type": "poetry"
     },
     {
-      "text": "For you make me glad by your deeds, ;",
+      "text": "For you make me glad by your deeds, Lord;",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -53,7 +53,7 @@
       "type": "poetry"
     },
     {
-      "text": "How great are your works, ,",
+      "text": "How great are your works, Lord,",
       "verse": 5,
       "type": "poetry"
     },
@@ -88,12 +88,12 @@
       "type": "poetry"
     },
     {
-      "text": "But you, , are forever exalted.",
+      "text": "But you, Lord, are forever exalted.",
       "verse": 8,
       "type": "poetry newline"
     },
     {
-      "text": "For surely your enemies, ,",
+      "text": "For surely your enemies, Lord,",
       "verse": 9,
       "type": "poetry newline"
     },
@@ -138,7 +138,7 @@
       "type": "poetry"
     },
     {
-      "text": "planted in the house of the ,",
+      "text": "planted in the house of the Lord,",
       "verse": 13,
       "type": "poetry"
     },
@@ -158,7 +158,7 @@
       "type": "poetry"
     },
     {
-      "text": "proclaiming, “The  is upright;",
+      "text": "proclaiming, “The Lord is upright;",
       "verse": 15,
       "type": "poetry"
     },

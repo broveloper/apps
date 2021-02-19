@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 6,
+  "verses": 35,
   "content": [
     {
       "text": "Warnings Against Folly",
@@ -138,7 +139,7 @@
       "type": "poetry"
     },
     {
-      "text": "who winks maliciously with his eye,",
+      "text": "    who winks maliciously with his eye,",
       "verse": 13,
       "type": "poetry"
     },
@@ -153,7 +154,7 @@
       "type": "poetry"
     },
     {
-      "text": "who plots evil with deceit in his heart—",
+      "text": "    who plots evil with deceit in his heart—",
       "verse": 14,
       "type": "poetry"
     },
@@ -173,7 +174,7 @@
       "type": "poetry"
     },
     {
-      "text": "There are six things the  hates,",
+      "text": "There are six things the Lord hates,",
       "verse": 16,
       "type": "poetry newline"
     },
@@ -183,7 +184,7 @@
       "type": "poetry"
     },
     {
-      "text": "haughty eyes,",
+      "text": "        haughty eyes,",
       "verse": 17,
       "type": "poetry"
     },
@@ -198,7 +199,7 @@
       "type": "poetry"
     },
     {
-      "text": "a heart that devises wicked schemes,",
+      "text": "        a heart that devises wicked schemes,",
       "verse": 18,
       "type": "poetry"
     },
@@ -208,7 +209,7 @@
       "type": "poetry"
     },
     {
-      "text": "a false witness who pours out lies",
+      "text": "        a false witness who pours out lies",
       "verse": 19,
       "type": "poetry"
     },

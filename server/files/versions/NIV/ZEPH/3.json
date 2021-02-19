@@ -2,10 +2,11 @@
   "book_id": "ZEPH",
   "book_name": "Zephaniah",
   "chapter": 3,
+  "verses": 20,
   "content": [
     {
       "text": "Jerusalem",
-      "verse": 1
+      "type": "title"
     },
     {
       "text": "Woe to the city of oppressors,",
@@ -28,7 +29,7 @@
       "type": "poetry"
     },
     {
-      "text": "She does not trust in the ,",
+      "text": "She does not trust in the Lord,",
       "verse": 2,
       "type": "poetry"
     },
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  within her is righteous;",
+      "text": "The Lord within her is righteous;",
       "verse": 5,
       "type": "poetry"
     },
@@ -104,8 +105,7 @@
     },
     {
       "text": "Jerusalem Remains Unrepentant",
-      "verse": 6,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "“I have destroyed nations;",
@@ -178,7 +178,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 8,
       "type": "poetry"
     },
@@ -227,7 +227,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "that all of them may call on the name of the",
+      "text": "that all of them may call on the name of the Lord",
       "verse": 9,
       "type": "poetry"
     },
@@ -297,7 +297,7 @@
       "type": "poetry"
     },
     {
-      "text": "will trust in the name of the .",
+      "text": "will trust in the name of the Lord.",
       "verse": 12,
       "type": "poetry"
     },
@@ -352,7 +352,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has taken away your punishment,",
+      "text": "The Lord has taken away your punishment,",
       "verse": 15,
       "type": "poetry"
     },
@@ -362,7 +362,7 @@
       "type": "poetry"
     },
     {
-      "text": "The , the King of Israel, is with you;",
+      "text": "The Lord, the King of Israel, is with you;",
       "verse": 15,
       "type": "poetry"
     },
@@ -392,7 +392,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  your God is with you,",
+      "text": "The Lord your God is with you,",
       "verse": 17,
       "type": "poetry"
     },
@@ -492,7 +492,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the .",
+      "text": "says the Lord.",
       "verse": 20,
       "type": "poetry"
     }

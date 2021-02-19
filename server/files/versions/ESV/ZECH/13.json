@@ -2,6 +2,7 @@
   "book_id": "ZECH",
   "book_name": "Zechariah",
   "chapter": 13,
+  "verses": 9,
   "content": [
     {
       "text": "“On that day there shall be a fountain opened for the house of David and the inhabitants of Jerusalem, to cleanse them from sin and uncleanness.",
@@ -12,12 +13,12 @@
       "type": "heading"
     },
     {
-      "text": "“And on that day, declares the  of hosts, I will cut off the names of the idols from the land, so that they shall be remembered no more. And also I will remove from the land the prophets and the spirit of uncleanness.",
+      "text": "“And on that day, declares the Lord of hosts, I will cut off the names of the idols from the land, so that they shall be remembered no more. And also I will remove from the land the prophets and the spirit of uncleanness.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "And if anyone again prophesies, his father and mother who bore him will say to him, ‘You shall not live, for you speak lies in the name of the .’ And his father and mother who bore him shall pierce him through when he prophesies.",
+      "text": "And if anyone again prophesies, his father and mother who bore him will say to him, ‘You shall not live, for you speak lies in the name of the Lord.’ And his father and mother who bore him shall pierce him through when he prophesies.",
       "verse": 3
     },
     {
@@ -48,7 +49,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the  of hosts.",
+      "text": "declares the Lord of hosts.",
       "verse": 7,
       "type": "poetry"
     },
@@ -63,7 +64,7 @@
       "type": "poetry"
     },
     {
-      "text": "In the whole land, declares the ,",
+      "text": "In the whole land, declares the Lord,",
       "verse": 8,
       "type": "poetry"
     },
@@ -108,7 +109,7 @@
       "type": "poetry"
     },
     {
-      "text": "and they will say, ‘The  is my God.’”",
+      "text": "and they will say, ‘The Lord is my God.’”",
       "verse": 9,
       "type": "poetry"
     }

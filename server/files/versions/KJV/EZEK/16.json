@@ -2,9 +2,10 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 16,
+  "verses": 63,
   "content": [
     {
-      "text": "Again the word of the  came unto me, saying,",
+      "text": "Again the word of the Lord came unto me, saying,",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "And say, Thus saith the Lord  unto Jerusalem; Thy birth and thy nativity is of the land of Canaan; thy father was an Amorite, and thy mother an Hittite.",
+      "text": "And say, Thus saith the Lord God unto Jerusalem; Thy birth and thy nativity is of the land of Canaan; thy father was an Amorite, and thy mother an Hittite.",
       "verse": 3,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "Now when I passed by thee, and looked upon thee, behold, thy time was the time of love; and I spread my skirt over thee, and covered thy nakedness: yea, I sware unto thee, and entered into a covenant with thee, saith the Lord , and thou becamest mine.",
+      "text": "Now when I passed by thee, and looked upon thee, behold, thy time was the time of love; and I spread my skirt over thee, and covered thy nakedness: yea, I sware unto thee, and entered into a covenant with thee, saith the Lord God, and thou becamest mine.",
       "verse": 8,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "And thy renown went forth among the heathen for thy beauty: for it was perfect through my comeliness, which I had put upon thee, saith the Lord .",
+      "text": "And thy renown went forth among the heathen for thy beauty: for it was perfect through my comeliness, which I had put upon thee, saith the Lord God.",
       "verse": 14,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "My meat also which I gave thee, fine flour, and oil, and honey, wherewith I fed thee, thou hast even set it before them for a sweet savour: and thus it was, saith the Lord .",
+      "text": "My meat also which I gave thee, fine flour, and oil, and honey, wherewith I fed thee, thou hast even set it before them for a sweet savour: and thus it was, saith the Lord God.",
       "verse": 19,
       "type": "newline"
     },
@@ -113,7 +114,7 @@
       "type": "newline"
     },
     {
-      "text": "And it came to pass after all thy wickedness, (woe, woe unto thee! saith the ;)",
+      "text": "And it came to pass after all thy wickedness, (woe, woe unto thee! saith the Lord God;)",
       "verse": 23,
       "type": "newline"
     },
@@ -148,7 +149,7 @@
       "type": "newline"
     },
     {
-      "text": "How weak is thine heart, saith the , seeing thou doest all these things, the work of an imperious whorish woman;",
+      "text": "How weak is thine heart, saith the Lord God, seeing thou doest all these things, the work of an imperious whorish woman;",
       "verse": 30,
       "type": "newline"
     },
@@ -173,12 +174,12 @@
       "type": "newline"
     },
     {
-      "text": "Wherefore, O harlot, hear the word of the :",
+      "text": "Wherefore, O harlot, hear the word of the Lord:",
       "verse": 35,
       "type": "newline"
     },
     {
-      "text": "Thus saith the Lord ; Because thy filthiness was poured out, and thy nakedness discovered through thy whoredoms with thy lovers, and with all the idols of thy abominations, and by the blood of thy children, which thou didst give unto them;",
+      "text": "Thus saith the Lord God; Because thy filthiness was poured out, and thy nakedness discovered through thy whoredoms with thy lovers, and with all the idols of thy abominations, and by the blood of thy children, which thou didst give unto them;",
       "verse": 36,
       "type": "newline"
     },
@@ -213,7 +214,7 @@
       "type": "newline"
     },
     {
-      "text": "Because thou hast not remembered the days of thy youth, but hast fretted me in all these things; behold, therefore I also will recompense thy way upon thine head, saith the Lord : and thou shalt not commit this lewdness above all thine abominations.",
+      "text": "Because thou hast not remembered the days of thy youth, but hast fretted me in all these things; behold, therefore I also will recompense thy way upon thine head, saith the Lord God: and thou shalt not commit this lewdness above all thine abominations.",
       "verse": 43,
       "type": "newline"
     },
@@ -238,7 +239,7 @@
       "type": "newline"
     },
     {
-      "text": "As I live, saith the Lord , Sodom thy sister hath not done, she nor her daughters, as thou hast done, thou and thy daughters.",
+      "text": "As I live, saith the Lord God, Sodom thy sister hath not done, she nor her daughters, as thou hast done, thou and thy daughters.",
       "verse": 48,
       "type": "newline"
     },
@@ -288,12 +289,12 @@
       "type": "newline"
     },
     {
-      "text": "Thou hast borne thy lewdness and thine abominations, saith the .",
+      "text": "Thou hast borne thy lewdness and thine abominations, saith the Lord.",
       "verse": 58,
       "type": "newline"
     },
     {
-      "text": "For thus saith the Lord ; I will even deal with thee as thou hast done, which hast despised the oath in breaking the covenant.",
+      "text": "For thus saith the Lord God; I will even deal with thee as thou hast done, which hast despised the oath in breaking the covenant.",
       "verse": 59,
       "type": "newline"
     },
@@ -308,12 +309,12 @@
       "type": "newline"
     },
     {
-      "text": "And I will establish my covenant with thee; and thou shalt know that I am the :",
+      "text": "And I will establish my covenant with thee; and thou shalt know that I am the Lord:",
       "verse": 62,
       "type": "newline"
     },
     {
-      "text": "That thou mayest remember, and be confounded, and never open thy mouth any more because of thy shame, when I am pacified toward thee for all that thou hast done, saith the Lord .",
+      "text": "That thou mayest remember, and be confounded, and never open thy mouth any more because of thy shame, when I am pacified toward thee for all that thou hast done, saith the Lord God.",
       "verse": 63,
       "type": "newline"
     }

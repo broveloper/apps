@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 31,
+  "verses": 31,
   "content": [
     {
       "text": "Sayings of King Lemuel",
@@ -312,7 +313,7 @@
       "type": "poetry"
     },
     {
-      "text": "but a woman who fears the  is to be praised.",
+      "text": "but a woman who fears the Lord is to be praised.",
       "verse": 30,
       "type": "poetry"
     },

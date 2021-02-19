@@ -2,61 +2,62 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 8,
+  "verses": 59,
   "content": [
     {
-      "text": "",
+      "text": "but Jesus went to the Mount of Olives.",
       "verse": 1
     },
     {
-      "text": "",
+      "text": "At dawn he appeared again in the temple courts, where all the people gathered around him, and he sat down to teach them.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "The teachers of the law and the Pharisees brought in a woman caught in adultery. They made her stand before the group",
       "verse": 3
     },
     {
-      "text": "",
+      "text": "and said to Jesus, “Teacher, this woman was caught in the act of adultery.",
       "verse": 4
     },
     {
-      "text": "",
+      "text": "In the Law Moses commanded us to stone such women. Now what do you say?”",
       "verse": 5
     },
     {
-      "text": "",
+      "text": "They were using this question as a trap, in order to have a basis for accusing him.",
       "verse": 6
     },
     {
-      "text": "",
+      "text": "But Jesus bent down and started to write on the ground with his finger.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "When they kept on questioning him, he straightened up and said to them, “Let any one of you who is without sin be the first to throw a stone at her.”",
       "verse": 7
     },
     {
-      "text": "",
+      "text": "Again he stooped down and wrote on the ground.",
       "verse": 8
     },
     {
-      "text": "",
+      "text": "At this, those who heard began to go away one at a time, the older ones first, until only Jesus was left, with the woman still standing there.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Jesus straightened up and asked her, “Woman, where are they? Has no one condemned you?”",
       "verse": 10
     },
     {
-      "text": "",
+      "text": "“No one, sir,” she said.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“Then neither do I condemn you,” Jesus declared. “Go now and leave your life of sin.”",
       "verse": 11,
       "type": "newline"
     },
@@ -65,7 +66,7 @@
       "type": "heading"
     },
     {
-      "text": "When Jesus spoke again to the people, he said,",
+      "text": "When Jesus spoke again to the people, he said, “I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.”",
       "verse": 12,
       "type": "newline"
     },
@@ -75,24 +76,24 @@
       "type": "newline"
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “Even if I testify on my own behalf, my testimony is valid, for I know where I came from and where I am going. But you have no idea where I come from or where I am going.",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "You judge by human standards; I pass judgment on no one.",
       "verse": 15
     },
     {
-      "text": "",
+      "text": "But if I do judge, my decisions are true, because I am not alone. I stand with the Father, who sent me.",
       "verse": 16
     },
     {
-      "text": "",
+      "text": "In your own Law it is written that the testimony of two witnesses is true.",
       "verse": 17
     },
     {
-      "text": "",
+      "text": "I am one who testifies for myself; my other witness is the Father, who sent me.”",
       "verse": 18
     },
     {
@@ -101,7 +102,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied.",
+      "text": "“You do not know me or my Father,” Jesus replied. “If you knew me, you would know my Father also.”",
       "verse": 19,
       "type": "newline"
     },
@@ -114,22 +115,22 @@
       "type": "heading"
     },
     {
-      "text": "Once more Jesus said to them,",
+      "text": "Once more Jesus said to them, “I am going away, and you will look for me, and you will die in your sin. Where I go, you cannot come.”",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "This made the Jews ask, “Will he kill himself? Is that why he says, ?”",
+      "text": "This made the Jews ask, “Will he kill himself? Is that why he says, ‘Where I go, you cannot come’?”",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "But he continued,",
+      "text": "But he continued, “You are from below; I am from above. You are of this world; I am not of this world.",
       "verse": 23,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "I told you that you would die in your sins; if you do not believe that I am he, you will indeed die in your sins.”",
       "verse": 24
     },
     {
@@ -138,12 +139,12 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied.",
+      "text": "“Just what I have been telling you from the beginning,” Jesus replied.",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“I have much to say in judgment of you. But he who sent me is trustworthy, and what I have heard from him I tell the world.”",
       "verse": 26
     },
     {
@@ -152,11 +153,11 @@
       "type": "newline"
     },
     {
-      "text": "So Jesus said,",
+      "text": "So Jesus said, “When you have lifted up the Son of Man, then you will know that I am he and that I do nothing on my own but speak just what the Father has taught me.",
       "verse": 28
     },
     {
-      "text": "",
+      "text": "The one who sent me is with me; he has not left me alone, for I always do what pleases him.”",
       "verse": 29
     },
     {
@@ -168,12 +169,12 @@
       "type": "heading"
     },
     {
-      "text": "To the Jews who had believed him, Jesus said,",
+      "text": "To the Jews who had believed him, Jesus said, “If you hold to my teaching, you are really my disciples.",
       "verse": 31,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Then you will know the truth, and the truth will set you free.”",
       "verse": 32
     },
     {
@@ -182,24 +183,24 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “Very truly I tell you, everyone who sins is a slave to sin.",
       "verse": 34,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Now a slave has no permanent place in the family, but a son belongs to it forever.",
       "verse": 35
     },
     {
-      "text": "",
+      "text": "So if the Son sets you free, you will be free indeed.",
       "verse": 36
     },
     {
-      "text": "",
+      "text": "I know that you are Abraham’s descendants. Yet you are looking for a way to kill me, because you have no room for my word.",
       "verse": 37
     },
     {
-      "text": "",
+      "text": "I am telling you what I have seen in the Father’s presence, and you are doing what you have heard from your father.”",
       "verse": 38
     },
     {
@@ -208,16 +209,16 @@
       "type": "newline"
     },
     {
-      "text": "said Jesus,",
+      "text": "“If you were Abraham’s children,” said Jesus, “then you would do what Abraham did.",
       "verse": 39,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "As it is, you are looking for a way to kill me, a man who has told you the truth that I heard from God. Abraham did not do such things.",
       "verse": 40
     },
     {
-      "text": "",
+      "text": "You are doing the works of your own father.”",
       "verse": 41
     },
     {
@@ -226,28 +227,28 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said to them,",
+      "text": "Jesus said to them, “If God were your Father, you would love me, for I have come here from God. I have not come on my own; God sent me.",
       "verse": 42,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Why is my language not clear to you? Because you are unable to hear what I say.",
       "verse": 43
     },
     {
-      "text": "",
+      "text": "You belong to your father, the devil, and you want to carry out your father’s desires. He was a murderer from the beginning, not holding to the truth, for there is no truth in him. When he lies, he speaks his native language, for he is a liar and the father of lies.",
       "verse": 44
     },
     {
-      "text": "",
+      "text": "Yet because I tell the truth, you do not believe me!",
       "verse": 45
     },
     {
-      "text": "",
+      "text": "Can any of you prove me guilty of sin? If I am telling the truth, why don’t you believe me?",
       "verse": 46
     },
     {
-      "text": "",
+      "text": "Whoever belongs to God hears what God says. The reason you do not hear is that you do not belong to God.”",
       "verse": 47
     },
     {
@@ -260,16 +261,16 @@
       "type": "newline"
     },
     {
-      "text": "said Jesus,",
+      "text": "“I am not possessed by a demon,” said Jesus, “but I honor my Father and you dishonor me.",
       "verse": 49,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "I am not seeking glory for myself; but there is one who seeks it, and he is the judge.",
       "verse": 50
     },
     {
-      "text": "",
+      "text": "Very truly I tell you, whoever obeys my word will never see death.”",
       "verse": 51
     },
     {
@@ -282,16 +283,16 @@
       "verse": 53
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “If I glorify myself, my glory means nothing. My Father, whom you claim as your God, is the one who glorifies me.",
       "verse": 54,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Though you do not know him, I know him. If I said I did not, I would be a liar like you, but I do know him and obey his word.",
       "verse": 55
     },
     {
-      "text": "",
+      "text": "Your father Abraham rejoiced at the thought of seeing my day; he saw it and was glad.”",
       "verse": 56
     },
     {
@@ -300,7 +301,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus answered,",
+      "text": "“Very truly I tell you,” Jesus answered, “before Abraham was born, I am!”",
       "verse": 58,
       "type": "newline"
     },

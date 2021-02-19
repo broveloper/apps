@@ -2,6 +2,7 @@
   "book_id": "ROM",
   "book_name": "Romans",
   "chapter": 8,
+  "verses": 39,
   "content": [
     {
       "text": "Life Through the Spirit",
@@ -69,7 +70,7 @@
       "type": "newline"
     },
     {
-      "text": "The Spirit you received does not make you slaves, so that you live in fear again; rather, the Spirit you received brought about your adoption to sonship. And by him we cry,  Father.”",
+      "text": "The Spirit you received does not make you slaves, so that you live in fear again; rather, the Spirit you received brought about your adoption to sonship. And by him we cry, “Abba, Father.”",
       "verse": 15
     },
     {

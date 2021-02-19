@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 19,
+  "verses": 48,
   "content": [
     {
       "text": "Zacchaeus the Tax Collector",
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "When Jesus reached the spot, he looked up and said to him,",
+      "text": "When Jesus reached the spot, he looked up and said to him, “Zacchaeus, come down immediately. I must stay at your house today.”",
       "verse": 5,
       "type": "newline"
     },
@@ -44,12 +45,12 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said to him,",
+      "text": "Jesus said to him, “Today salvation has come to this house, because this man, too, is a son of Abraham.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "For the Son of Man came to seek and to save the lost.”",
       "verse": 10
     },
     {
@@ -62,78 +63,78 @@
       "type": "newline"
     },
     {
-      "text": "He said:",
+      "text": "He said: “A man of noble birth went to a distant country to have himself appointed king and then to return.",
       "verse": 12
     },
     {
-      "text": "",
+      "text": "So he called ten of his servants and gave them ten minas. ‘Put this money to work,’ he said, ‘until I come back.’",
       "verse": 13
     },
     {
-      "text": "",
+      "text": "“But his subjects hated him and sent a delegation after him to say, ‘We don’t want this man to be our king.’",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“He was made king, however, and returned home. Then he sent for the servants to whom he had given the money, in order to find out what they had gained with it.",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“The first one came and said, ‘Sir, your mina has earned ten more.’",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“‘Well done, my good servant!’ his master replied. ‘Because you have been trustworthy in a very small matter, take charge of ten cities.’",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“The second came and said, ‘Sir, your mina has earned five more.’",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“His master answered, ‘You take charge of five cities.’",
       "verse": 19,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“Then another servant came and said, ‘Sir, here is your mina; I have kept it laid away in a piece of cloth.",
       "verse": 20,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "I was afraid of you, because you are a hard man. You take out what you did not put in and reap what you did not sow.’",
       "verse": 21
     },
     {
-      "text": "",
+      "text": "“His master replied, ‘I will judge you by your own words, you wicked servant! You knew, did you, that I am a hard man, taking out what I did not put in, and reaping what I did not sow?",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Why then didn’t you put my money on deposit, so that when I came back, I could have collected it with interest?’",
       "verse": 23
     },
     {
-      "text": "",
+      "text": "“Then he said to those standing by, ‘Take his mina away from him and give it to the one who has ten minas.’",
       "verse": 24,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“‘Sir,’ they said, ‘he already has ten!’",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“He replied, ‘I tell you that to everyone who has, more will be given, but as for the one who has nothing, even what they have will be taken away.",
       "verse": 26,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "But those enemies of mine who did not want me to be king over them—bring them here and kill them in front of me.’”",
       "verse": 27
     },
     {
@@ -150,11 +151,11 @@
       "verse": 29
     },
     {
-      "text": "",
+      "text": "“Go to the village ahead of you, and as you enter it, you will find a colt tied there, which no one has ever ridden. Untie it and bring it here.",
       "verse": 30
     },
     {
-      "text": "",
+      "text": "If anyone asks you, ‘Why are you untying it?’ say, ‘The Lord needs it.’”",
       "verse": 31
     },
     {
@@ -201,7 +202,7 @@
       "type": "newline"
     },
     {
-      "text": "he replied,",
+      "text": "“I tell you,” he replied, “if they keep quiet, the stones will cry out.”",
       "verse": 40,
       "type": "newline"
     },
@@ -211,15 +212,15 @@
       "type": "newline"
     },
     {
-      "text": "and said,",
+      "text": "and said, “If you, even you, had only known on this day what would bring you peace—but now it is hidden from your eyes.",
       "verse": 42
     },
     {
-      "text": "",
+      "text": "The days will come upon you when your enemies will build an embankment against you and encircle you and hem you in on every side.",
       "verse": 43
     },
     {
-      "text": "",
+      "text": "They will dash you to the ground, you and the children within your walls. They will not leave one stone on another, because you did not recognize the time of God’s coming to you.”",
       "verse": 44
     },
     {
@@ -232,7 +233,7 @@
       "type": "newline"
     },
     {
-      "text": "he said to them,",
+      "text": "“It is written,” he said to them, “‘My house will be a house of prayer’; but you have made it ‘a den of robbers.’”",
       "verse": 46
     },
     {

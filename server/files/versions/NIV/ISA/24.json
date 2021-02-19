@@ -2,13 +2,14 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 24,
+  "verses": 23,
   "content": [
     {
-      "text": "The ’s Devastation of the Earth",
+      "text": "The Lord’s Devastation of the Earth",
       "type": "heading"
     },
     {
-      "text": "See, the  is going to lay waste the earth",
+      "text": "See, the Lord is going to lay waste the earth",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -73,7 +74,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has spoken this word.",
+      "text": "The Lord has spoken this word.",
       "verse": 3,
       "type": "poetry"
     },
@@ -228,17 +229,17 @@
       "type": "poetry newline"
     },
     {
-      "text": "from the west they acclaim the ’s majesty.",
+      "text": "from the west they acclaim the Lord’s majesty.",
       "verse": 14,
       "type": "poetry"
     },
     {
-      "text": "Therefore in the east give glory to the ;",
+      "text": "Therefore in the east give glory to the Lord;",
       "verse": 15,
       "type": "poetry"
     },
     {
-      "text": "exalt the name of the , the God of Israel,",
+      "text": "exalt the name of the Lord, the God of Israel,",
       "verse": 15,
       "type": "poetry"
     },
@@ -353,7 +354,7 @@
       "type": "poetry"
     },
     {
-      "text": "In that day the  will punish",
+      "text": "In that day the Lord will punish",
       "verse": 21,
       "type": "poetry newline"
     },
@@ -398,7 +399,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  Almighty will reign",
+      "text": "for the Lord Almighty will reign",
       "verse": 23,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 13,
+  "verses": 35,
   "content": [
     {
       "text": "Repent or Perish",
@@ -13,19 +14,19 @@
       "type": "newline"
     },
     {
-      "text": "And he answered them,",
+      "text": "And he answered them, “Do you think that these Galileans were worse sinners than all the other Galileans, because they suffered in this way?",
       "verse": 2
     },
     {
-      "text": "",
+      "text": "No, I tell you; but unless you repent, you will all likewise perish.",
       "verse": 3
     },
     {
-      "text": "",
+      "text": "Or those eighteen on whom the tower in Siloam fell and killed them: do you think that they were worse offenders than all the others who lived in Jerusalem?",
       "verse": 4
     },
     {
-      "text": "",
+      "text": "No, I tell you; but unless you repent, you will all likewise perish.”",
       "verse": 5
     },
     {
@@ -33,20 +34,20 @@
       "type": "heading"
     },
     {
-      "text": "And he told this parable:",
+      "text": "And he told this parable: “A man had a fig tree planted in his vineyard, and he came seeking fruit on it and found none.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "And he said to the vinedresser, ‘Look, for three years now I have come seeking fruit on this fig tree, and I find none. Cut it down. Why should it use up the ground?’",
       "verse": 7
     },
     {
-      "text": "",
+      "text": "And he answered him, ‘Sir, let it alone this year also, until I dig around it and put on manure.",
       "verse": 8
     },
     {
-      "text": "",
+      "text": "Then if it should bear fruit next year, well and good; but if not, you can cut it down.’”",
       "verse": 9
     },
     {
@@ -63,7 +64,7 @@
       "verse": 11
     },
     {
-      "text": "When Jesus saw her, he called her over and said to her,",
+      "text": "When Jesus saw her, he called her over and said to her, “Woman, you are freed from your disability.”",
       "verse": 12
     },
     {
@@ -75,11 +76,11 @@
       "verse": 14
     },
     {
-      "text": "Then the Lord answered him,",
+      "text": "Then the Lord answered him, “You hypocrites! Does not each of you on the Sabbath untie his ox or his donkey from the manger and lead it away to water it?",
       "verse": 15
     },
     {
-      "text": "",
+      "text": "And ought not this woman, a daughter of Abraham whom Satan bound for eighteen years, be loosed from this bond on the Sabbath day?”",
       "verse": 16
     },
     {
@@ -91,21 +92,21 @@
       "type": "heading"
     },
     {
-      "text": "He said therefore,",
+      "text": "He said therefore, “What is the kingdom of God like? And to what shall I compare it?",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "It is like a grain of mustard seed that a man took and sowed in his garden, and it grew and became a tree, and the birds of the air made nests in its branches.”",
       "verse": 19
     },
     {
-      "text": "And again he said,",
+      "text": "And again he said, “To what shall I compare the kingdom of God?",
       "verse": 20,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "It is like leaven that a woman took and hid in three measures of flour, until it was all leavened.”",
       "verse": 21
     },
     {
@@ -122,31 +123,31 @@
       "verse": 23
     },
     {
-      "text": "",
+      "text": "“Strive to enter through the narrow door. For many, I tell you, will seek to enter and will not be able.",
       "verse": 24
     },
     {
-      "text": "",
+      "text": "When once the master of the house has risen and shut the door, and you begin to stand outside and to knock at the door, saying, ‘Lord, open to us,’ then he will answer you, ‘I do not know where you come from.’",
       "verse": 25
     },
     {
-      "text": "",
+      "text": "Then you will begin to say, ‘We ate and drank in your presence, and you taught in our streets.’",
       "verse": 26
     },
     {
-      "text": "",
+      "text": "But he will say, ‘I tell you, I do not know where you come from. Depart from me, all you workers of evil!’",
       "verse": 27
     },
     {
-      "text": "",
+      "text": "In that place there will be weeping and gnashing of teeth, when you see Abraham and Isaac and Jacob and all the prophets in the kingdom of God but you yourselves cast out.",
       "verse": 28
     },
     {
-      "text": "",
+      "text": "And people will come from east and west, and from north and south, and recline at table in the kingdom of God.",
       "verse": 29
     },
     {
-      "text": "",
+      "text": "And behold, some are last who will be first, and some are first who will be last.”",
       "verse": 30
     },
     {
@@ -159,19 +160,19 @@
       "type": "newline"
     },
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “Go and tell that fox, ‘Behold, I cast out demons and perform cures today and tomorrow, and the third day I finish my course.",
       "verse": 32
     },
     {
-      "text": "",
+      "text": "Nevertheless, I must go on my way today and tomorrow and the day following, for it cannot be that a prophet should perish away from Jerusalem.’",
       "verse": 33
     },
     {
-      "text": "",
+      "text": "O Jerusalem, Jerusalem, the city that kills the prophets and stones those who are sent to it! How often would I have gathered your children together as a hen gathers her brood under her wings, and you were not willing!",
       "verse": 34
     },
     {
-      "text": "",
+      "text": "Behold, your house is forsaken. And I tell you, you will not see me until you say, ‘Blessed is he who comes in the name of the Lord!’”",
       "verse": 35
     }
   ]

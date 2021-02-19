@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 27,
+  "verses": 66,
   "content": [
     {
       "text": "When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:",
@@ -183,7 +184,7 @@
       "type": "newline"
     },
     {
-      "text": "And set up over his head his accusation written, .",
+      "text": "And set up over his head his accusation written, This Is Jesus The King Of The Jews.",
       "verse": 37,
       "type": "newline"
     },

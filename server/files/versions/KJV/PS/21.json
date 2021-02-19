@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 21,
+  "verses": 13,
   "content": [
     {
-      "text": "The king shall joy in thy strength, O ; and in thy salvation how greatly shall he rejoice!",
+      "text": "The king shall joy in thy strength, O Lord; and in thy salvation how greatly shall he rejoice!",
       "verse": 1
     },
     {
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "For the king trusteth in the , and through the mercy of the most High he shall not be moved.",
+      "text": "For the king trusteth in the Lord, and through the mercy of the most High he shall not be moved.",
       "verse": 7,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "Thou shalt make them as a fiery oven in the time of thine anger: the  shall swallow them up in his wrath, and the fire shall devour them.",
+      "text": "Thou shalt make them as a fiery oven in the time of thine anger: the Lord shall swallow them up in his wrath, and the fire shall devour them.",
       "verse": 9,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "Be thou exalted, , in thine own strength: so will we sing and praise thy power.",
+      "text": "Be thou exalted, Lord, in thine own strength: so will we sing and praise thy power.",
       "verse": 13,
       "type": "newline"
     }

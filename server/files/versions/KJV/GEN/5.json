@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 5,
+  "verses": 32,
   "content": [
     {
       "text": "This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;",
@@ -143,7 +144,7 @@
       "type": "newline"
     },
     {
-      "text": "And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the  hath cursed.",
+      "text": "And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the Lord hath cursed.",
       "verse": 29,
       "type": "newline"
     },

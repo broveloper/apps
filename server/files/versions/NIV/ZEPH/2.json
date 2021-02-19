@@ -2,6 +2,7 @@
   "book_id": "ZEPH",
   "book_name": "Zephaniah",
   "chapter": 2,
+  "verses": 15,
   "content": [
     {
       "text": "Judah and Jerusalem Judged Along With the Nations",
@@ -9,8 +10,7 @@
     },
     {
       "text": "Judah Summoned to Repent",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Gather together, gather yourselves together,",
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "before the ’s fierce anger",
+      "text": "before the Lord’s fierce anger",
       "verse": 2,
       "type": "poetry"
     },
@@ -43,7 +43,7 @@
       "type": "poetry"
     },
     {
-      "text": "before the day of the ’s wrath",
+      "text": "before the day of the Lord’s wrath",
       "verse": 2,
       "type": "poetry"
     },
@@ -53,7 +53,7 @@
       "type": "poetry"
     },
     {
-      "text": "Seek the , all you humble of the land,",
+      "text": "Seek the Lord, all you humble of the land,",
       "verse": 3,
       "type": "poetry"
     },
@@ -73,14 +73,13 @@
       "type": "poetry"
     },
     {
-      "text": "on the day of the ’s anger.",
+      "text": "on the day of the Lord’s anger.",
       "verse": 3,
       "type": "poetry"
     },
     {
       "text": "Philistia",
-      "verse": 4,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Gaza will be abandoned",
@@ -113,7 +112,7 @@
       "type": "poetry"
     },
     {
-      "text": "the word of the  is against you,",
+      "text": "the word of the Lord is against you,",
       "verse": 5,
       "type": "poetry"
     },
@@ -173,7 +172,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  their God will care for them;",
+      "text": "The Lord their God will care for them;",
       "verse": 7,
       "type": "poetry"
     },
@@ -184,8 +183,7 @@
     },
     {
       "text": "Moab and Ammon",
-      "verse": 8,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "“I have heard the insults of Moab",
@@ -213,7 +211,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the  Almighty,",
+      "text": "declares the Lord Almighty,",
       "verse": 9,
       "type": "poetry"
     },
@@ -263,12 +261,12 @@
       "type": "poetry"
     },
     {
-      "text": "the people of the  Almighty.",
+      "text": "the people of the Lord Almighty.",
       "verse": 10,
       "type": "poetry"
     },
     {
-      "text": "The  will be awesome to them",
+      "text": "The Lord will be awesome to them",
       "verse": 11,
       "type": "poetry"
     },
@@ -289,8 +287,7 @@
     },
     {
       "text": "Cush",
-      "verse": 12,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "“You Cushites, too,",
@@ -304,8 +301,7 @@
     },
     {
       "text": "Assyria",
-      "verse": 13,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "He will stretch out his hand against the north",

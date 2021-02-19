@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 23,
+  "verses": 56,
   "content": [
     {
       "text": "And the whole multitude of them arose, and led him unto Pilate.",
@@ -188,7 +189,7 @@
       "type": "newline"
     },
     {
-      "text": "And a superscription also was written over him in letters of Greek, and Latin, and Hebrew, .",
+      "text": "And a superscription also was written over him in letters of Greek, and Latin, and Hebrew, This Is The King Of The Jews.",
       "verse": 38,
       "type": "newline"
     },

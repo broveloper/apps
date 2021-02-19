@@ -2,6 +2,7 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 5,
+  "verses": 19,
   "content": [
     {
       "text": "And if a soul sin, and hear the voice of swearing, and is a witness, whether he hath seen or known of it; if he do not utter it, then he shall bear his iniquity.",
@@ -28,12 +29,12 @@
       "type": "newline"
     },
     {
-      "text": "And he shall bring his trespass offering unto the  for his sin which he hath sinned, a female from the flock, a lamb or a kid of the goats, for a sin offering; and the priest shall make an atonement for him concerning his sin.",
+      "text": "And he shall bring his trespass offering unto the Lord for his sin which he hath sinned, a female from the flock, a lamb or a kid of the goats, for a sin offering; and the priest shall make an atonement for him concerning his sin.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "And if he be not able to bring a lamb, then he shall bring for his trespass, which he hath committed, two turtledoves, or two young pigeons, unto the ; one for a sin offering, and the other for a burnt offering.",
+      "text": "And if he be not able to bring a lamb, then he shall bring for his trespass, which he hath committed, two turtledoves, or two young pigeons, unto the Lord; one for a sin offering, and the other for a burnt offering.",
       "verse": 7,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "Then shall he bring it to the priest, and the priest shall take his handful of it, even a memorial thereof, and burn it on the altar, according to the offerings made by fire unto the : it is a sin offering.",
+      "text": "Then shall he bring it to the priest, and the priest shall take his handful of it, even a memorial thereof, and burn it on the altar, according to the offerings made by fire unto the Lord: it is a sin offering.",
       "verse": 12,
       "type": "newline"
     },
@@ -68,12 +69,12 @@
       "type": "newline"
     },
     {
-      "text": "And the  spake unto Moses, saying,",
+      "text": "And the Lord spake unto Moses, saying,",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "If a soul commit a trespass, and sin through ignorance, in the holy things of the ; then he shall bring for his trespass unto the  a ram without blemish out of the flocks, with thy estimation by shekels of silver, after the shekel of the sanctuary, for a trespass offering.",
+      "text": "If a soul commit a trespass, and sin through ignorance, in the holy things of the Lord; then he shall bring for his trespass unto the Lord a ram without blemish out of the flocks, with thy estimation by shekels of silver, after the shekel of the sanctuary, for a trespass offering.",
       "verse": 15,
       "type": "newline"
     },
@@ -83,7 +84,7 @@
       "type": "newline"
     },
     {
-      "text": "And if a soul sin, and commit any of these things which are forbidden to be done by the commandments of the ; though he wist it not, yet is he guilty, and shall bear his iniquity.",
+      "text": "And if a soul sin, and commit any of these things which are forbidden to be done by the commandments of the Lord; though he wist it not, yet is he guilty, and shall bear his iniquity.",
       "verse": 17,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "It is a trespass offering: he hath certainly trespassed against the .",
+      "text": "It is a trespass offering: he hath certainly trespassed against the Lord.",
       "verse": 19,
       "type": "newline"
     }

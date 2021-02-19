@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 105,
+  "verses": 45,
   "content": [
     {
-      "text": "O give thanks unto the ; call upon his name: make known his deeds among the people.",
+      "text": "O give thanks unto the Lord; call upon his name: make known his deeds among the people.",
       "verse": 1
     },
     {
@@ -13,12 +14,12 @@
       "type": "newline"
     },
     {
-      "text": "Glory ye in his holy name: let the heart of them rejoice that seek the .",
+      "text": "Glory ye in his holy name: let the heart of them rejoice that seek the Lord.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "Seek the , and his strength: seek his face evermore.",
+      "text": "Seek the Lord, and his strength: seek his face evermore.",
       "verse": 4,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "He is the  our God: his judgments are in all the earth.",
+      "text": "He is the Lord our God: his judgments are in all the earth.",
       "verse": 7,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "Until the time that his word came: the word of the  tried him.",
+      "text": "Until the time that his word came: the word of the Lord tried him.",
       "verse": 19,
       "type": "newline"
     },
@@ -223,7 +224,7 @@
       "type": "newline"
     },
     {
-      "text": "That they might observe his statutes, and keep his laws. Praise ye the .",
+      "text": "That they might observe his statutes, and keep his laws. Praise ye the Lord.",
       "verse": 45,
       "type": "newline"
     }

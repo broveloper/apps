@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 38,
+  "verses": 23,
   "content": [
     {
-      "text": "The ’s Great Victory Over the Nations",
+      "text": "The Lord’s Great Victory Over the Nations",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "and say: ‘This is what the Sovereign  says: I am against you, Gog, chief prince of Meshek and Tubal.",
+      "text": "and say: ‘This is what the Sovereign Lord says: I am against you, Gog, chief prince of Meshek and Tubal.",
       "verse": 3
     },
     {
@@ -46,7 +47,7 @@
       "verse": 9
     },
     {
-      "text": "“‘This is what the Sovereign  says: On that day thoughts will come into your mind and you will devise an evil scheme.",
+      "text": "“‘This is what the Sovereign Lord says: On that day thoughts will come into your mind and you will devise an evil scheme.",
       "verse": 10,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "verse": 13
     },
     {
-      "text": "“Therefore, son of man, prophesy and say to Gog: ‘This is what the Sovereign  says: In that day, when my people Israel are living in safety, will you not take notice of it?",
+      "text": "“Therefore, son of man, prophesy and say to Gog: ‘This is what the Sovereign Lord says: In that day, when my people Israel are living in safety, will you not take notice of it?",
       "verse": 14,
       "type": "newline"
     },
@@ -76,12 +77,12 @@
       "verse": 16
     },
     {
-      "text": "“‘This is what the Sovereign  says: You are the one I spoke of in former days by my servants the prophets of Israel. At that time they prophesied for years that I would bring you against them.",
+      "text": "“‘This is what the Sovereign Lord says: You are the one I spoke of in former days by my servants the prophets of Israel. At that time they prophesied for years that I would bring you against them.",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "This is what will happen in that day: When Gog attacks the land of Israel, my hot anger will be aroused, declares the Sovereign .",
+      "text": "This is what will happen in that day: When Gog attacks the land of Israel, my hot anger will be aroused, declares the Sovereign Lord.",
       "verse": 18
     },
     {
@@ -93,7 +94,7 @@
       "verse": 20
     },
     {
-      "text": "I will summon a sword against Gog on all my mountains, declares the Sovereign . Every man’s sword will be against his brother.",
+      "text": "I will summon a sword against Gog on all my mountains, declares the Sovereign Lord. Every man’s sword will be against his brother.",
       "verse": 21
     },
     {
@@ -101,7 +102,7 @@
       "verse": 22
     },
     {
-      "text": "And so I will show my greatness and my holiness, and I will make myself known in the sight of many nations. Then they will know that I am the .’",
+      "text": "And so I will show my greatness and my holiness, and I will make myself known in the sight of many nations. Then they will know that I am the Lord.’",
       "verse": 23
     }
   ]

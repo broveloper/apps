@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 19,
+  "verses": 24,
   "content": [
     {
       "text": "Saul Tries to Kill David",
@@ -26,11 +27,11 @@
       "type": "newline"
     },
     {
-      "text": "He took his life in his hands when he killed the Philistine. The  won a great victory for all Israel, and you saw it and were glad. Why then would you do wrong to an innocent man like David by killing him for no reason?”",
+      "text": "He took his life in his hands when he killed the Philistine. The Lord won a great victory for all Israel, and you saw it and were glad. Why then would you do wrong to an innocent man like David by killing him for no reason?”",
       "verse": 5
     },
     {
-      "text": "Saul listened to Jonathan and took this oath: “As surely as the  lives, David will not be put to death.”",
+      "text": "Saul listened to Jonathan and took this oath: “As surely as the Lord lives, David will not be put to death.”",
       "verse": 6,
       "type": "newline"
     },
@@ -45,7 +46,7 @@
       "type": "newline"
     },
     {
-      "text": "But an evil spirit from the  came on Saul as he was sitting in his house with his spear in his hand. While David was playing the lyre,",
+      "text": "But an evil spirit from the Lord came on Saul as he was sitting in his house with his spear in his hand. While David was playing the lyre,",
       "verse": 9,
       "type": "newline"
     },

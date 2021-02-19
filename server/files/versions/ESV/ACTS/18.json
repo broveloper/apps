@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 18,
+  "verses": 28,
   "content": [
     {
       "text": "Paul in Corinth",
@@ -42,11 +43,11 @@
       "verse": 8
     },
     {
-      "text": "And the Lord said to Paul one night in a vision,",
+      "text": "And the Lord said to Paul one night in a vision, “Do not be afraid, but go on speaking and do not be silent,",
       "verse": 9
     },
     {
-      "text": "",
+      "text": "for I am with you, and no one will attack you to harm you, for I have many in this city who are my people.”",
       "verse": 10
     },
     {

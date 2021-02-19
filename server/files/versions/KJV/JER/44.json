@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 44,
+  "verses": 30,
   "content": [
     {
       "text": "The word that came to Jeremiah concerning all the Jews which dwell in the land of Egypt, which dwell at Migdol, and at Tahpanhes, and at Noph, and in the country of Pathros, saying,",
       "verse": 1
     },
     {
-      "text": "Thus saith the  of hosts, the God of Israel; Ye have seen all the evil that I have brought upon Jerusalem, and upon all the cities of Judah; and, behold, this day they are a desolation, and no man dwelleth therein,",
+      "text": "Thus saith the Lord of hosts, the God of Israel; Ye have seen all the evil that I have brought upon Jerusalem, and upon all the cities of Judah; and, behold, this day they are a desolation, and no man dwelleth therein,",
       "verse": 2,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore now thus saith the , the God of hosts, the God of Israel; Wherefore commit ye this great evil against your souls, to cut off from you man and woman, child and suckling, out of Judah, to leave you none to remain;",
+      "text": "Therefore now thus saith the Lord, the God of hosts, the God of Israel; Wherefore commit ye this great evil against your souls, to cut off from you man and woman, child and suckling, out of Judah, to leave you none to remain;",
       "verse": 7,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore thus saith the  of hosts, the God of Israel; Behold, I will set my face against you for evil, and to cut off all Judah.",
+      "text": "Therefore thus saith the Lord of hosts, the God of Israel; Behold, I will set my face against you for evil, and to cut off all Judah.",
       "verse": 11,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "As for the word that thou hast spoken unto us in the name of the , we will not hearken unto thee.",
+      "text": "As for the word that thou hast spoken unto us in the name of the Lord, we will not hearken unto thee.",
       "verse": 16,
       "type": "newline"
     },
@@ -103,32 +104,32 @@
       "type": "newline"
     },
     {
-      "text": "The incense that ye burned in the cities of Judah, and in the streets of Jerusalem, ye, and your fathers, your kings, and your princes, and the people of the land, did not the  remember them, and came it not into his mind?",
+      "text": "The incense that ye burned in the cities of Judah, and in the streets of Jerusalem, ye, and your fathers, your kings, and your princes, and the people of the land, did not the Lord remember them, and came it not into his mind?",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "So that the  could no longer bear, because of the evil of your doings, and because of the abominations which ye have committed; therefore is your land a desolation, and an astonishment, and a curse, without an inhabitant, as at this day.",
+      "text": "So that the Lord could no longer bear, because of the evil of your doings, and because of the abominations which ye have committed; therefore is your land a desolation, and an astonishment, and a curse, without an inhabitant, as at this day.",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "Because ye have burned incense, and because ye have sinned against the , and have not obeyed the voice of the , nor walked in his law, nor in his statutes, nor in his testimonies; therefore this evil is happened unto you, as at this day.",
+      "text": "Because ye have burned incense, and because ye have sinned against the Lord, and have not obeyed the voice of the Lord, nor walked in his law, nor in his statutes, nor in his testimonies; therefore this evil is happened unto you, as at this day.",
       "verse": 23,
       "type": "newline"
     },
     {
-      "text": "Moreover Jeremiah said unto all the people, and to all the women, Hear the word of the , all Judah that are in the land of Egypt:",
+      "text": "Moreover Jeremiah said unto all the people, and to all the women, Hear the word of the Lord, all Judah that are in the land of Egypt:",
       "verse": 24,
       "type": "newline"
     },
     {
-      "text": "Thus saith the  of hosts, the God of Israel, saying; Ye and your wives have both spoken with your mouths, and fulfilled with your hand, saying, We will surely perform our vows that we have vowed, to burn incense to the queen of heaven, and to pour out drink offerings unto her: ye will surely accomplish your vows, and surely perform your vows.",
+      "text": "Thus saith the Lord of hosts, the God of Israel, saying; Ye and your wives have both spoken with your mouths, and fulfilled with your hand, saying, We will surely perform our vows that we have vowed, to burn incense to the queen of heaven, and to pour out drink offerings unto her: ye will surely accomplish your vows, and surely perform your vows.",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "Therefore hear ye the word of the , all Judah that dwell in the land of Egypt; Behold, I have sworn by my great name, saith the , that my name shall no more be named in the mouth of any man of Judah in all the land of Egypt, saying, The Lord  liveth.",
+      "text": "Therefore hear ye the word of the Lord, all Judah that dwell in the land of Egypt; Behold, I have sworn by my great name, saith the Lord, that my name shall no more be named in the mouth of any man of Judah in all the land of Egypt, saying, The Lord God liveth.",
       "verse": 26,
       "type": "newline"
     },
@@ -143,12 +144,12 @@
       "type": "newline"
     },
     {
-      "text": "And this shall be a sign unto you, saith the , that I will punish you in this place, that ye may know that my words shall surely stand against you for evil:",
+      "text": "And this shall be a sign unto you, saith the Lord, that I will punish you in this place, that ye may know that my words shall surely stand against you for evil:",
       "verse": 29,
       "type": "newline"
     },
     {
-      "text": "Thus saith the ; Behold, I will give Pharaohhophra king of Egypt into the hand of his enemies, and into the hand of them that seek his life; as I gave Zedekiah king of Judah into the hand of Nebuchadrezzar king of Babylon, his enemy, and that sought his life.",
+      "text": "Thus saith the Lord; Behold, I will give Pharaohhophra king of Egypt into the hand of his enemies, and into the hand of them that seek his life; as I gave Zedekiah king of Judah into the hand of Nebuchadrezzar king of Babylon, his enemy, and that sought his life.",
       "verse": 30,
       "type": "newline"
     }

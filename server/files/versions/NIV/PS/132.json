@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 132,
+  "verses": 18,
   "content": [
     {
       "text": "Psalm 132",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A song of ascents.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": ", remember David",
+      "text": "Lord, remember David",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,7 +23,7 @@
       "type": "poetry"
     },
     {
-      "text": "He swore an oath to the ,",
+      "text": "He swore an oath to the Lord,",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -53,7 +53,7 @@
       "type": "poetry"
     },
     {
-      "text": "till I find a place for the ,",
+      "text": "till I find a place for the Lord,",
       "verse": 5,
       "type": "poetry"
     },
@@ -83,7 +83,7 @@
       "type": "poetry"
     },
     {
-      "text": "‘Arise, , and come to your resting place,",
+      "text": "‘Arise, Lord, and come to your resting place,",
       "verse": 8,
       "type": "poetry"
     },
@@ -113,7 +113,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  swore an oath to David,",
+      "text": "The Lord swore an oath to David,",
       "verse": 11,
       "type": "poetry newline"
     },
@@ -153,7 +153,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the  has chosen Zion,",
+      "text": "For the Lord has chosen Zion,",
       "verse": 13,
       "type": "poetry newline"
     },

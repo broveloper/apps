@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 110,
+  "verses": 7,
   "content": [
     {
       "text": "Psalm 110",
@@ -9,11 +10,10 @@
     },
     {
       "text": "Of David. A psalm.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "The  says to my lord:",
+      "text": "The Lord says to my lord:",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  will extend your mighty scepter from Zion, saying,",
+      "text": "The Lord will extend your mighty scepter from Zion, saying,",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -68,7 +68,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has sworn",
+      "text": "The Lord has sworn",
       "verse": 4,
       "type": "poetry newline"
     },

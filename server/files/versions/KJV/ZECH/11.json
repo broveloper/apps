@@ -2,6 +2,7 @@
   "book_id": "ZECH",
   "book_name": "Zechariah",
   "chapter": 11,
+  "verses": 17,
   "content": [
     {
       "text": "Open thy doors, O Lebanon, that the fire may devour thy cedars.",
@@ -18,17 +19,17 @@
       "type": "newline"
     },
     {
-      "text": "Thus saith the  my God; Feed the flock of the slaughter;",
+      "text": "Thus saith the Lord my God; Feed the flock of the slaughter;",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "Whose possessors slay them, and hold themselves not guilty: and they that sell them say, Blessed be the ; for I am rich: and their own shepherds pity them not.",
+      "text": "Whose possessors slay them, and hold themselves not guilty: and they that sell them say, Blessed be the Lord; for I am rich: and their own shepherds pity them not.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "For I will no more pity the inhabitants of the land, saith the : but, lo, I will deliver the men every one into his neighbour's hand, and into the hand of his king: and they shall smite the land, and out of their hand I will not deliver them.",
+      "text": "For I will no more pity the inhabitants of the land, saith the Lord: but, lo, I will deliver the men every one into his neighbour's hand, and into the hand of his king: and they shall smite the land, and out of their hand I will not deliver them.",
       "verse": 6,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "And it was broken in that day: and so the poor of the flock that waited upon me knew that it was the word of the .",
+      "text": "And it was broken in that day: and so the poor of the flock that waited upon me knew that it was the word of the Lord.",
       "verse": 11,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  said unto me, Cast it unto the potter: a goodly price that I was prised at of them. And I took the thirty pieces of silver, and cast them to the potter in the house of the .",
+      "text": "And the Lord said unto me, Cast it unto the potter: a goodly price that I was prised at of them. And I took the thirty pieces of silver, and cast them to the potter in the house of the Lord.",
       "verse": 13,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  said unto me, Take unto thee yet the instruments of a foolish shepherd.",
+      "text": "And the Lord said unto me, Take unto thee yet the instruments of a foolish shepherd.",
       "verse": 15,
       "type": "newline"
     },

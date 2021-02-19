@@ -2,6 +2,7 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 36,
+  "verses": 13,
   "content": [
     {
       "text": "Marriage of Female Heirs",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "They said, “The  commanded my lord to give the land for inheritance by lot to the people of Israel, and my lord was commanded by the  to give the inheritance of Zelophehad our brother to his daughters.",
+      "text": "They said, “The Lord commanded my lord to give the land for inheritance by lot to the people of Israel, and my lord was commanded by the Lord to give the inheritance of Zelophehad our brother to his daughters.",
       "verse": 2
     },
     {
@@ -25,12 +26,12 @@
       "verse": 4
     },
     {
-      "text": "And Moses commanded the people of Israel according to the word of the , saying, “The tribe of the people of Joseph is right.",
+      "text": "And Moses commanded the people of Israel according to the word of the Lord, saying, “The tribe of the people of Joseph is right.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "This is what the  commands concerning the daughters of Zelophehad: ‘Let them marry whom they think best, only they shall marry within the clan of the tribe of their father.",
+      "text": "This is what the Lord commands concerning the daughters of Zelophehad: ‘Let them marry whom they think best, only they shall marry within the clan of the tribe of their father.",
       "verse": 6
     },
     {
@@ -46,7 +47,7 @@
       "verse": 9
     },
     {
-      "text": "The daughters of Zelophehad did as the  commanded Moses,",
+      "text": "The daughters of Zelophehad did as the Lord commanded Moses,",
       "verse": 10,
       "type": "newline"
     },
@@ -59,7 +60,7 @@
       "verse": 12
     },
     {
-      "text": "These are the commandments and the rules that the  commanded through Moses to the people of Israel in the plains of Moab by the Jordan at Jericho.",
+      "text": "These are the commandments and the rules that the Lord commanded through Moses to the people of Israel in the plains of Moab by the Jordan at Jericho.",
       "verse": 13,
       "type": "newline"
     }

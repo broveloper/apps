@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 1,
+  "verses": 33,
   "content": [
     {
       "text": "Purpose and Theme",
@@ -63,7 +64,7 @@
       "type": "poetry"
     },
     {
-      "text": "The fear of the  is the beginning of knowledge,",
+      "text": "The fear of the Lord is the beginning of knowledge,",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -320,7 +321,7 @@
       "type": "poetry"
     },
     {
-      "text": "and did not choose to fear the .",
+      "text": "and did not choose to fear the Lord.",
       "verse": 29,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 8,
+  "verses": 14,
   "content": [
     {
       "text": "Israel to Reap the Whirlwind",
@@ -13,7 +14,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "An eagle is over the house of the",
+      "text": "An eagle is over the house of the Lord",
       "verse": 1,
       "type": "poetry"
     },
@@ -88,7 +89,7 @@
       "type": "poetry"
     },
     {
-      "text": "They are from Israel!",
+      "text": "    They are from Israel!",
       "verse": 6,
       "type": "poetry"
     },
@@ -223,7 +224,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  is not pleased with them.",
+      "text": "the Lord is not pleased with them.",
       "verse": 13,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 5,
+  "verses": 19,
   "content": [
     {
       "text": "“‘If anyone sins because they do not speak up when they hear a public charge to testify regarding something they have seen or learned about, they will be held responsible.",
@@ -25,11 +26,11 @@
       "verse": 5
     },
     {
-      "text": "As a penalty for the sin they have committed, they must bring to the  a female lamb or goat from the flock as a sin offering; and the priest shall make atonement for them for their sin.",
+      "text": "As a penalty for the sin they have committed, they must bring to the Lord a female lamb or goat from the flock as a sin offering; and the priest shall make atonement for them for their sin.",
       "verse": 6
     },
     {
-      "text": "“‘Anyone who cannot afford a lamb is to bring two doves or two young pigeons to the  as a penalty for their sin—one for a sin offering and the other for a burnt offering.",
+      "text": "“‘Anyone who cannot afford a lamb is to bring two doves or two young pigeons to the Lord as a penalty for their sin—one for a sin offering and the other for a burnt offering.",
       "verse": 7,
       "type": "newline"
     },
@@ -51,7 +52,7 @@
       "type": "newline"
     },
     {
-      "text": "They are to bring it to the priest, who shall take a handful of it as a memorial portion and burn it on the altar on top of the food offerings presented to the . It is a sin offering.",
+      "text": "They are to bring it to the priest, who shall take a handful of it as a memorial portion and burn it on the altar on top of the food offerings presented to the Lord. It is a sin offering.",
       "verse": 12
     },
     {
@@ -63,12 +64,12 @@
       "type": "heading"
     },
     {
-      "text": "The  said to Moses:",
+      "text": "The Lord said to Moses:",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "“When anyone is unfaithful to the  by sinning unintentionally in regard to any of the ’s holy things, they are to bring to the  as a penalty a ram from the flock, one without defect and of the proper value in silver, according to the sanctuary shekel. It is a guilt offering.",
+      "text": "“When anyone is unfaithful to the Lord by sinning unintentionally in regard to any of the Lord’s holy things, they are to bring to the Lord as a penalty a ram from the flock, one without defect and of the proper value in silver, according to the sanctuary shekel. It is a guilt offering.",
       "verse": 15
     },
     {
@@ -76,7 +77,7 @@
       "verse": 16
     },
     {
-      "text": "“If anyone sins and does what is forbidden in any of the ’s commands, even though they do not know it, they are guilty and will be held responsible.",
+      "text": "“If anyone sins and does what is forbidden in any of the Lord’s commands, even though they do not know it, they are guilty and will be held responsible.",
       "verse": 17,
       "type": "newline"
     },
@@ -85,7 +86,7 @@
       "verse": 18
     },
     {
-      "text": "It is a guilt offering; they have been guilty of wrongdoing against the .”",
+      "text": "It is a guilt offering; they have been guilty of wrongdoing against the Lord.”",
       "verse": 19
     }
   ]

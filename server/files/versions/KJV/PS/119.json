@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 119,
+  "verses": 176,
   "content": [
     {
-      "text": "Blessed are the undefiled in the way, who walk in the law of the .",
+      "text": "Blessed are the undefiled in the way, who walk in the law of the Lord.",
       "verse": 1
     },
     {
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "Blessed art thou, O : teach me thy statutes.",
+      "text": "Blessed art thou, O Lord: teach me thy statutes.",
       "verse": 12,
       "type": "newline"
     },
@@ -153,7 +154,7 @@
       "type": "newline"
     },
     {
-      "text": "I have stuck unto thy testimonies: O , put me not to shame.",
+      "text": "I have stuck unto thy testimonies: O Lord, put me not to shame.",
       "verse": 31,
       "type": "newline"
     },
@@ -163,7 +164,7 @@
       "type": "newline"
     },
     {
-      "text": "Teach me, O , the way of thy statutes; and I shall keep it unto the end.",
+      "text": "Teach me, O Lord, the way of thy statutes; and I shall keep it unto the end.",
       "verse": 33,
       "type": "newline"
     },
@@ -203,7 +204,7 @@
       "type": "newline"
     },
     {
-      "text": "Let thy mercies come also unto me, O , even thy salvation, according to thy word.",
+      "text": "Let thy mercies come also unto me, O Lord, even thy salvation, according to thy word.",
       "verse": 41,
       "type": "newline"
     },
@@ -258,7 +259,7 @@
       "type": "newline"
     },
     {
-      "text": "I remembered thy judgments of old, O ; and have comforted myself.",
+      "text": "I remembered thy judgments of old, O Lord; and have comforted myself.",
       "verse": 52,
       "type": "newline"
     },
@@ -273,7 +274,7 @@
       "type": "newline"
     },
     {
-      "text": "I have remembered thy name, O , in the night, and have kept thy law.",
+      "text": "I have remembered thy name, O Lord, in the night, and have kept thy law.",
       "verse": 55,
       "type": "newline"
     },
@@ -283,7 +284,7 @@
       "type": "newline"
     },
     {
-      "text": "Thou art my portion, O : I have said that I would keep thy words.",
+      "text": "Thou art my portion, O Lord: I have said that I would keep thy words.",
       "verse": 57,
       "type": "newline"
     },
@@ -318,12 +319,12 @@
       "type": "newline"
     },
     {
-      "text": "The earth, O , is full of thy mercy: teach me thy statutes.",
+      "text": "The earth, O Lord, is full of thy mercy: teach me thy statutes.",
       "verse": 64,
       "type": "newline"
     },
     {
-      "text": "Thou hast dealt well with thy servant, O , according unto thy word.",
+      "text": "Thou hast dealt well with thy servant, O Lord, according unto thy word.",
       "verse": 65,
       "type": "newline"
     },
@@ -373,7 +374,7 @@
       "type": "newline"
     },
     {
-      "text": "I know, O , that thy judgments are right, and that thou in faithfulness hast afflicted me.",
+      "text": "I know, O Lord, that thy judgments are right, and that thou in faithfulness hast afflicted me.",
       "verse": 75,
       "type": "newline"
     },
@@ -443,7 +444,7 @@
       "type": "newline"
     },
     {
-      "text": "For ever, O , thy word is settled in heaven.",
+      "text": "For ever, O Lord, thy word is settled in heaven.",
       "verse": 89,
       "type": "newline"
     },
@@ -533,12 +534,12 @@
       "type": "newline"
     },
     {
-      "text": "I am afflicted very much: quicken me, O , according unto thy word.",
+      "text": "I am afflicted very much: quicken me, O Lord, according unto thy word.",
       "verse": 107,
       "type": "newline"
     },
     {
-      "text": "Accept, I beseech thee, the freewill offerings of my mouth, O , and teach me thy judgments.",
+      "text": "Accept, I beseech thee, the freewill offerings of my mouth, O Lord, and teach me thy judgments.",
       "verse": 108,
       "type": "newline"
     },
@@ -628,7 +629,7 @@
       "type": "newline"
     },
     {
-      "text": "It is time for thee, , to work: for they have made void thy law.",
+      "text": "It is time for thee, Lord, to work: for they have made void thy law.",
       "verse": 126,
       "type": "newline"
     },
@@ -683,7 +684,7 @@
       "type": "newline"
     },
     {
-      "text": "Righteous art thou, O , and upright are thy judgments.",
+      "text": "Righteous art thou, O Lord, and upright are thy judgments.",
       "verse": 137,
       "type": "newline"
     },
@@ -723,7 +724,7 @@
       "type": "newline"
     },
     {
-      "text": "I cried with my whole heart; hear me, O : I will keep thy statutes.",
+      "text": "I cried with my whole heart; hear me, O Lord: I will keep thy statutes.",
       "verse": 145,
       "type": "newline"
     },
@@ -743,7 +744,7 @@
       "type": "newline"
     },
     {
-      "text": "Hear my voice according unto thy lovingkindness: O , quicken me according to thy judgment.",
+      "text": "Hear my voice according unto thy lovingkindness: O Lord, quicken me according to thy judgment.",
       "verse": 149,
       "type": "newline"
     },
@@ -753,7 +754,7 @@
       "type": "newline"
     },
     {
-      "text": "Thou art near, O ; and all thy commandments are truth.",
+      "text": "Thou art near, O Lord; and all thy commandments are truth.",
       "verse": 151,
       "type": "newline"
     },
@@ -778,7 +779,7 @@
       "type": "newline"
     },
     {
-      "text": "Great are thy tender mercies, O : quicken me according to thy judgments.",
+      "text": "Great are thy tender mercies, O Lord: quicken me according to thy judgments.",
       "verse": 156,
       "type": "newline"
     },
@@ -793,7 +794,7 @@
       "type": "newline"
     },
     {
-      "text": "Consider how I love thy precepts: quicken me, O , according to thy lovingkindness.",
+      "text": "Consider how I love thy precepts: quicken me, O Lord, according to thy lovingkindness.",
       "verse": 159,
       "type": "newline"
     },
@@ -828,7 +829,7 @@
       "type": "newline"
     },
     {
-      "text": ", I have hoped for thy salvation, and done thy commandments.",
+      "text": "Lord, I have hoped for thy salvation, and done thy commandments.",
       "verse": 166,
       "type": "newline"
     },
@@ -843,7 +844,7 @@
       "type": "newline"
     },
     {
-      "text": "Let my cry come near before thee, O : give me understanding according to thy word.",
+      "text": "Let my cry come near before thee, O Lord: give me understanding according to thy word.",
       "verse": 169,
       "type": "newline"
     },
@@ -868,7 +869,7 @@
       "type": "newline"
     },
     {
-      "text": "I have longed for thy salvation, O ; and thy law is my delight.",
+      "text": "I have longed for thy salvation, O Lord; and thy law is my delight.",
       "verse": 174,
       "type": "newline"
     },

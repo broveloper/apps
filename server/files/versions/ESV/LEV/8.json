@@ -2,13 +2,14 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 8,
+  "verses": 36,
   "content": [
     {
       "text": "Consecration of Aaron and His Sons",
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses, saying,",
+      "text": "The Lord spoke to Moses, saying,",
       "verse": 1,
       "type": "newline"
     },
@@ -21,11 +22,11 @@
       "verse": 3
     },
     {
-      "text": "And Moses did as the  commanded him, and the congregation was assembled at the entrance of the tent of meeting.",
+      "text": "And Moses did as the Lord commanded him, and the congregation was assembled at the entrance of the tent of meeting.",
       "verse": 4
     },
     {
-      "text": "And Moses said to the congregation, “This is the thing that the  has commanded to be done.”",
+      "text": "And Moses said to the congregation, “This is the thing that the Lord has commanded to be done.”",
       "verse": 5,
       "type": "newline"
     },
@@ -42,7 +43,7 @@
       "verse": 8
     },
     {
-      "text": "And he set the turban on his head, and on the turban, in front, he set the golden plate, the holy crown, as the  commanded Moses.",
+      "text": "And he set the turban on his head, and on the turban, in front, he set the golden plate, the holy crown, as the Lord commanded Moses.",
       "verse": 9
     },
     {
@@ -59,7 +60,7 @@
       "verse": 12
     },
     {
-      "text": "And Moses brought Aaron's sons and clothed them with coats and tied sashes around their waists and bound caps on them, as the  commanded Moses.",
+      "text": "And Moses brought Aaron's sons and clothed them with coats and tied sashes around their waists and bound caps on them, as the Lord commanded Moses.",
       "verse": 13
     },
     {
@@ -76,7 +77,7 @@
       "verse": 16
     },
     {
-      "text": "But the bull and its skin and its flesh and its dung he burned up with fire outside the camp, as the  commanded Moses.",
+      "text": "But the bull and its skin and its flesh and its dung he burned up with fire outside the camp, as the Lord commanded Moses.",
       "verse": 17
     },
     {
@@ -93,7 +94,7 @@
       "verse": 20
     },
     {
-      "text": "He washed the entrails and the legs with water, and Moses burned the whole ram on the altar. It was a burnt offering with a pleasing aroma, a food offering for the , as the  commanded Moses.",
+      "text": "He washed the entrails and the legs with water, and Moses burned the whole ram on the altar. It was a burnt offering with a pleasing aroma, a food offering for the Lord, as the Lord commanded Moses.",
       "verse": 21
     },
     {
@@ -114,19 +115,19 @@
       "verse": 25
     },
     {
-      "text": "and out of the basket of unleavened bread that was before the  he took one unleavened loaf and one loaf of bread with oil and one wafer and placed them on the pieces of fat and on the right thigh.",
+      "text": "and out of the basket of unleavened bread that was before the Lord he took one unleavened loaf and one loaf of bread with oil and one wafer and placed them on the pieces of fat and on the right thigh.",
       "verse": 26
     },
     {
-      "text": "And he put all these in the hands of Aaron and in the hands of his sons and waved them as a wave offering before the .",
+      "text": "And he put all these in the hands of Aaron and in the hands of his sons and waved them as a wave offering before the Lord.",
       "verse": 27
     },
     {
-      "text": "Then Moses took them from their hands and burned them on the altar with the burnt offering. This was an ordination offering with a pleasing aroma, a food offering to the .",
+      "text": "Then Moses took them from their hands and burned them on the altar with the burnt offering. This was an ordination offering with a pleasing aroma, a food offering to the Lord.",
       "verse": 28
     },
     {
-      "text": "And Moses took the breast and waved it for a wave offering before the . It was Moses' portion of the ram of ordination, as the  commanded Moses.",
+      "text": "And Moses took the breast and waved it for a wave offering before the Lord. It was Moses' portion of the ram of ordination, as the Lord commanded Moses.",
       "verse": 29
     },
     {
@@ -148,15 +149,15 @@
       "verse": 33
     },
     {
-      "text": "As has been done today, the  has commanded to be done to make atonement for you.",
+      "text": "As has been done today, the Lord has commanded to be done to make atonement for you.",
       "verse": 34
     },
     {
-      "text": "At the entrance of the tent of meeting you shall remain day and night for seven days, performing what the  has charged, so that you do not die, for so I have been commanded.”",
+      "text": "At the entrance of the tent of meeting you shall remain day and night for seven days, performing what the Lord has charged, so that you do not die, for so I have been commanded.”",
       "verse": 35
     },
     {
-      "text": "And Aaron and his sons did all the things that the  commanded by Moses.",
+      "text": "And Aaron and his sons did all the things that the Lord commanded by Moses.",
       "verse": 36
     }
   ]

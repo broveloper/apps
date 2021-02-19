@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 47,
+  "verses": 15,
   "content": [
     {
       "text": "The Humiliation of Babylon",
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "Our Redeemer—the  of hosts is his name—",
+      "text": "Our Redeemer—the Lord of hosts is his name—",
       "verse": 4,
       "type": "poetry"
     },

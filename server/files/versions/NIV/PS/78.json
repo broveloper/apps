@@ -2,15 +2,15 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 78,
+  "verses": 72,
   "content": [
     {
       "text": "Psalm 78",
       "type": "heading"
     },
     {
-      "text": "A  of Asaph.",
-      "verse": 1,
-      "type": "newline"
+      "text": "A maskil of Asaph.",
+      "type": "title"
     },
     {
       "text": "My people, hear my teaching;",
@@ -53,7 +53,7 @@
       "type": "poetry"
     },
     {
-      "text": "the praiseworthy deeds of the ,",
+      "text": "the praiseworthy deeds of the Lord,",
       "verse": 4,
       "type": "poetry"
     },
@@ -273,7 +273,7 @@
       "type": "poetry"
     },
     {
-      "text": "When the  heard them, he was furious;",
+      "text": "When the Lord heard them, he was furious;",
       "verse": 21,
       "type": "poetry"
     },

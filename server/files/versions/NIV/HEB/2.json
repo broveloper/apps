@@ -2,6 +2,7 @@
   "book_id": "HEB",
   "book_name": "Hebrews",
   "chapter": 2,
+  "verses": 18,
   "content": [
     {
       "text": "Warning to Pay Attention",
@@ -58,7 +59,7 @@
       "type": "poetry"
     },
     {
-      "text": "and put everything under their feet.”",
+      "text": "    and put everything under their feet.”",
       "verse": 8,
       "type": "poetry"
     },

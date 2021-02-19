@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 20,
+  "verses": 18,
   "content": [
     {
       "text": "Abraham and Abimelech",
@@ -79,7 +80,7 @@
       "verse": 17
     },
     {
-      "text": "For the  had closed all the wombs of the house of Abimelech because of Sarah, Abraham's wife.",
+      "text": "For the Lord had closed all the wombs of the house of Abimelech because of Sarah, Abraham's wife.",
       "verse": 18
     }
   ]

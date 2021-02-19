@@ -2,18 +2,19 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 14,
+  "verses": 29,
   "content": [
     {
       "text": "Clean and Unclean Food",
       "type": "heading"
     },
     {
-      "text": "“You are the sons of the  your God. You shall not cut yourselves or make any baldness on your foreheads for the dead.",
+      "text": "“You are the sons of the Lord your God. You shall not cut yourselves or make any baldness on your foreheads for the dead.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "For you are a people holy to the  your God, and the  has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth.",
+      "text": "For you are a people holy to the Lord your God, and the Lord has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth.",
       "verse": 2
     },
     {
@@ -92,7 +93,7 @@
       "verse": 20
     },
     {
-      "text": "“You shall not eat anything that has died naturally. You may give it to the sojourner who is within your towns, that he may eat it, or you may sell it to a foreigner. For you are a people holy to the  your God.",
+      "text": "“You shall not eat anything that has died naturally. You may give it to the sojourner who is within your towns, that he may eat it, or you may sell it to a foreigner. For you are a people holy to the Lord your God.",
       "verse": 21,
       "type": "newline"
     },
@@ -111,19 +112,19 @@
       "type": "newline"
     },
     {
-      "text": "And before the  your God, in the place that he will choose, to make his name dwell there, you shall eat the tithe of your grain, of your wine, and of your oil, and the firstborn of your herd and flock, that you may learn to fear the  your God always.",
+      "text": "And before the Lord your God, in the place that he will choose, to make his name dwell there, you shall eat the tithe of your grain, of your wine, and of your oil, and the firstborn of your herd and flock, that you may learn to fear the Lord your God always.",
       "verse": 23
     },
     {
-      "text": "And if the way is too long for you, so that you are not able to carry the tithe, when the  your God blesses you, because the place is too far from you, which the  your God chooses, to set his name there,",
+      "text": "And if the way is too long for you, so that you are not able to carry the tithe, when the Lord your God blesses you, because the place is too far from you, which the Lord your God chooses, to set his name there,",
       "verse": 24
     },
     {
-      "text": "then you shall turn it into money and bind up the money in your hand and go to the place that the  your God chooses",
+      "text": "then you shall turn it into money and bind up the money in your hand and go to the place that the Lord your God chooses",
       "verse": 25
     },
     {
-      "text": "and spend the money for whatever you desire—oxen or sheep or wine or strong drink, whatever your appetite craves. And you shall eat there before the  your God and rejoice, you and your household.",
+      "text": "and spend the money for whatever you desire—oxen or sheep or wine or strong drink, whatever your appetite craves. And you shall eat there before the Lord your God and rejoice, you and your household.",
       "verse": 26
     },
     {
@@ -136,7 +137,7 @@
       "type": "newline"
     },
     {
-      "text": "And the Levite, because he has no portion or inheritance with you, and the sojourner, the fatherless, and the widow, who are within your towns, shall come and eat and be filled, that the  your God may bless you in all the work of your hands that you do.",
+      "text": "And the Levite, because he has no portion or inheritance with you, and the sojourner, the fatherless, and the widow, who are within your towns, shall come and eat and be filled, that the Lord your God may bless you in all the work of your hands that you do.",
       "verse": 29
     }
   ]

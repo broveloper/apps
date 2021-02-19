@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 23,
+  "verses": 6,
   "content": [
     {
-      "text": "The  is my shepherd; I shall not want.",
+      "text": "The Lord is my shepherd; I shall not want.",
       "verse": 1
     },
     {
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the  for ever.",
+      "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the Lord for ever.",
       "verse": 6,
       "type": "newline"
     }

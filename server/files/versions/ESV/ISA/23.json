@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 23,
+  "verses": 18,
   "content": [
     {
       "text": "An Oracle Concerning Tyre and Sidon",
@@ -148,7 +149,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  of hosts has purposed it,",
+      "text": "The Lord of hosts has purposed it,",
       "verse": 9,
       "type": "poetry"
     },
@@ -188,7 +189,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  has given command concerning Canaan",
+      "text": "the Lord has given command concerning Canaan",
       "verse": 11,
       "type": "poetry"
     },
@@ -273,12 +274,12 @@
       "type": "poetry"
     },
     {
-      "text": "At the end of seventy years, the  will visit Tyre, and she will return to her wages and will prostitute herself with all the kingdoms of the world on the face of the earth.",
+      "text": "At the end of seventy years, the Lord will visit Tyre, and she will return to her wages and will prostitute herself with all the kingdoms of the world on the face of the earth.",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "Her merchandise and her wages will be holy to the . It will not be stored or hoarded, but her merchandise will supply abundant food and fine clothing for those who dwell before the .",
+      "text": "Her merchandise and her wages will be holy to the Lord. It will not be stored or hoarded, but her merchandise will supply abundant food and fine clothing for those who dwell before the Lord.",
       "verse": 18
     }
   ]

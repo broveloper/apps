@@ -2,18 +2,19 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 30,
+  "verses": 16,
   "content": [
     {
       "text": "Men and Vows",
       "type": "heading"
     },
     {
-      "text": "Moses spoke to the heads of the tribes of the people of Israel, saying, “This is what the  has commanded.",
+      "text": "Moses spoke to the heads of the tribes of the people of Israel, saying, “This is what the Lord has commanded.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "If a man vows a vow to the , or swears an oath to bind himself by a pledge, he shall not break his word. He shall do according to all that proceeds out of his mouth.",
+      "text": "If a man vows a vow to the Lord, or swears an oath to bind himself by a pledge, he shall not break his word. He shall do according to all that proceeds out of his mouth.",
       "verse": 2
     },
     {
@@ -21,7 +22,7 @@
       "type": "heading"
     },
     {
-      "text": "“If a woman vows a vow to the  and binds herself by a pledge, while within her father's house in her youth,",
+      "text": "“If a woman vows a vow to the Lord and binds herself by a pledge, while within her father's house in her youth,",
       "verse": 3,
       "type": "newline"
     },
@@ -30,7 +31,7 @@
       "verse": 4
     },
     {
-      "text": "But if her father opposes her on the day that he hears of it, no vow of hers, no pledge by which she has bound herself shall stand. And the  will forgive her, because her father opposed her.",
+      "text": "But if her father opposes her on the day that he hears of it, no vow of hers, no pledge by which she has bound herself shall stand. And the Lord will forgive her, because her father opposed her.",
       "verse": 5
     },
     {
@@ -43,7 +44,7 @@
       "verse": 7
     },
     {
-      "text": "But if, on the day that her husband comes to hear of it, he opposes her, then he makes void her vow that was on her, and the thoughtless utterance of her lips by which she bound herself. And the  will forgive her.",
+      "text": "But if, on the day that her husband comes to hear of it, he opposes her, then he makes void her vow that was on her, and the thoughtless utterance of her lips by which she bound herself. And the Lord will forgive her.",
       "verse": 8
     },
     {
@@ -59,7 +60,7 @@
       "verse": 11
     },
     {
-      "text": "But if her husband makes them null and void on the day that he hears them, then whatever proceeds out of her lips concerning her vows or concerning her pledge of herself shall not stand. Her husband has made them void, and the  will forgive her.",
+      "text": "But if her husband makes them null and void on the day that he hears them, then whatever proceeds out of her lips concerning her vows or concerning her pledge of herself shall not stand. Her husband has made them void, and the Lord will forgive her.",
       "verse": 12
     },
     {
@@ -75,7 +76,7 @@
       "verse": 15
     },
     {
-      "text": "These are the statutes that the  commanded Moses about a man and his wife and about a father and his daughter while she is in her youth within her father's house.",
+      "text": "These are the statutes that the Lord commanded Moses about a man and his wife and about a father and his daughter while she is in her youth within her father's house.",
       "verse": 16,
       "type": "newline"
     }

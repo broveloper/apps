@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 35,
+  "verses": 28,
   "content": [
     {
-      "text": "Great Is the",
+      "text": "Great Is the Lord",
       "type": "heading"
     },
     {
       "text": "Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Contend, O , with those who contend with me;",
+      "text": "Contend, O Lord, with those who contend with me;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -78,7 +78,7 @@
       "type": "poetry"
     },
     {
-      "text": "with the angel of the  driving them away!",
+      "text": "with the angel of the Lord driving them away!",
       "verse": 5,
       "type": "poetry"
     },
@@ -88,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "with the angel of the  pursuing them!",
+      "text": "with the angel of the Lord pursuing them!",
       "verse": 6,
       "type": "poetry"
     },
@@ -118,7 +118,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then my soul will rejoice in the ,",
+      "text": "Then my soul will rejoice in the Lord,",
       "verse": 9,
       "type": "poetry newline"
     },
@@ -133,7 +133,7 @@
       "type": "poetry"
     },
     {
-      "text": "“O , who is like you,",
+      "text": "“O Lord, who is like you,",
       "verse": 10,
       "type": "poetry"
     },
@@ -193,7 +193,7 @@
       "type": "poetry"
     },
     {
-      "text": "I went about as though I grieved for my friend or my brother;",
+      "text": "    I went about as though I grieved for my friend or my brother;",
       "verse": 14,
       "type": "poetry"
     },
@@ -313,7 +313,7 @@
       "type": "poetry"
     },
     {
-      "text": "You have seen, O ; be not silent!",
+      "text": "You have seen, O Lord; be not silent!",
       "verse": 22,
       "type": "poetry newline"
     },
@@ -333,7 +333,7 @@
       "type": "poetry"
     },
     {
-      "text": "Vindicate me, O , my God,",
+      "text": "Vindicate me, O Lord, my God,",
       "verse": 24,
       "type": "poetry"
     },
@@ -398,7 +398,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Great is the ,",
+      "text": "“Great is the Lord,",
       "verse": 27,
       "type": "poetry"
     },

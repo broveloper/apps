@@ -2,9 +2,10 @@
   "book_id": "MARK",
   "book_name": "Mark",
   "chapter": 9,
+  "verses": 50,
   "content": [
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “Truly I tell you, some who are standing here will not taste death before they see that the kingdom of God has come with power.”",
       "verse": 1
     },
     {
@@ -58,12 +59,12 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “To be sure, Elijah does come first, and restores all things. Why then is it written that the Son of Man must suffer much and be rejected?",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "But I tell you, Elijah has come, and they have done to him everything they wished, just as it is written about him.”",
       "verse": 13
     },
     {
@@ -80,7 +81,7 @@
       "verse": 15
     },
     {
-      "text": "he asked.",
+      "text": "“What are you arguing with them about?” he asked.",
       "verse": 16,
       "type": "newline"
     },
@@ -94,7 +95,7 @@
       "verse": 18
     },
     {
-      "text": "Jesus replied,",
+      "text": "“You unbelieving generation,” Jesus replied, “how long shall I stay with you? How long shall I put up with you? Bring the boy to me.”",
       "verse": 19,
       "type": "newline"
     },
@@ -104,7 +105,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus asked the boy’s father,",
+      "text": "Jesus asked the boy’s father, “How long has he been like this?”",
       "verse": 21,
       "type": "newline"
     },
@@ -118,7 +119,7 @@
       "verse": 22
     },
     {
-      "text": "said Jesus.",
+      "text": "“‘If you can’?” said Jesus. “Everything is possible for one who believes.”",
       "verse": 23,
       "type": "newline"
     },
@@ -128,7 +129,7 @@
       "type": "newline"
     },
     {
-      "text": "When Jesus saw that a crowd was running to the scene, he rebuked the impure spirit.  he said,",
+      "text": "When Jesus saw that a crowd was running to the scene, he rebuked the impure spirit. “You deaf and mute spirit,” he said, “I command you, come out of him and never enter him again.”",
       "verse": 25,
       "type": "newline"
     },
@@ -147,7 +148,7 @@
       "type": "newline"
     },
     {
-      "text": "He replied,",
+      "text": "He replied, “This kind can come out only by prayer.”",
       "verse": 29,
       "type": "newline"
     },
@@ -161,7 +162,7 @@
       "type": "newline"
     },
     {
-      "text": "because he was teaching his disciples. He said to them,",
+      "text": "because he was teaching his disciples. He said to them, “The Son of Man is going to be delivered into the hands of men. They will kill him, and after three days he will rise.”",
       "verse": 31
     },
     {
@@ -169,7 +170,7 @@
       "verse": 32
     },
     {
-      "text": "They came to Capernaum. When he was in the house, he asked them,",
+      "text": "They came to Capernaum. When he was in the house, he asked them, “What were you arguing about on the road?”",
       "verse": 33,
       "type": "newline"
     },
@@ -178,7 +179,7 @@
       "verse": 34
     },
     {
-      "text": "Sitting down, Jesus called the Twelve and said,",
+      "text": "Sitting down, Jesus called the Twelve and said, “Anyone who wants to be first must be the very last, and the servant of all.”",
       "verse": 35,
       "type": "newline"
     },
@@ -188,7 +189,7 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“Whoever welcomes one of these little children in my name welcomes me; and whoever welcomes me does not welcome me but the one who sent me.”",
       "verse": 37
     },
     {
@@ -201,16 +202,16 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said.",
+      "text": "“Do not stop him,” Jesus said. “For no one who does a miracle in my name can in the next moment say anything bad about me,",
       "verse": 39,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "for whoever is not against us is for us.",
       "verse": 40
     },
     {
-      "text": "",
+      "text": "Truly I tell you, anyone who gives you a cup of water in my name because you belong to the Messiah will certainly not lose their reward.",
       "verse": 41
     },
     {
@@ -218,12 +219,12 @@
       "type": "heading"
     },
     {
-      "text": "",
+      "text": "“If anyone causes one of these little ones—those who believe in me—to stumble, it would be better for them if a large millstone were hung around their neck and they were thrown into the sea.",
       "verse": 42,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "If your hand causes you to stumble, cut it off. It is better for you to enter life maimed than with two hands to go into hell, where the fire never goes out.",
       "verse": 43
     },
     {
@@ -231,7 +232,7 @@
       "verse": 44
     },
     {
-      "text": "",
+      "text": "And if your foot causes you to stumble, cut it off. It is better for you to enter life crippled than to have two feet and be thrown into hell.",
       "verse": 45
     },
     {
@@ -239,30 +240,30 @@
       "verse": 46
     },
     {
-      "text": "",
+      "text": "And if your eye causes you to stumble, pluck it out. It is better for you to enter the kingdom of God with one eye than to have two eyes and be thrown into hell,",
       "verse": 47
     },
     {
-      "text": "",
+      "text": "where",
       "verse": 48
     },
     {
-      "text": "",
+      "text": "“‘the worms that eat them do not die,",
       "verse": 48,
       "type": "poetry newline"
     },
     {
-      "text": "",
+      "text": "and the fire is not quenched.’",
       "verse": 48,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "Everyone will be salted with fire.",
       "verse": 49,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“Salt is good, but if it loses its saltiness, how can you make it salty again? Have salt among yourselves, and be at peace with each other.”",
       "verse": 50,
       "type": "newline"
     }

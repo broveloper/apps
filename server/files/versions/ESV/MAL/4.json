@@ -2,13 +2,14 @@
   "book_id": "MAL",
   "book_name": "Malachi",
   "chapter": 4,
+  "verses": 6,
   "content": [
     {
-      "text": "The Great Day of the",
+      "text": "The Great Day of the Lord",
       "type": "heading"
     },
     {
-      "text": "“For behold, the day is coming, burning like an oven, when all the arrogant and all evildoers will be stubble. The day that is coming shall set them ablaze, says the  of hosts, so that it will leave them neither root nor branch.",
+      "text": " “For behold, the day is coming, burning like an oven, when all the arrogant and all evildoers will be stubble. The day that is coming shall set them ablaze, says the Lord of hosts, so that it will leave them neither root nor branch.",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "And you shall tread down the wicked, for they will be ashes under the soles of your feet, on the day when I act, says the  of hosts.",
+      "text": "And you shall tread down the wicked, for they will be ashes under the soles of your feet, on the day when I act, says the Lord of hosts.",
       "verse": 3
     },
     {
@@ -26,7 +27,7 @@
       "type": "newline"
     },
     {
-      "text": "“Behold, I will send you Elijah the prophet before the great and awesome day of the  comes.",
+      "text": "“Behold, I will send you Elijah the prophet before the great and awesome day of the Lord comes.",
       "verse": 5,
       "type": "newline"
     },

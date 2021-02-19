@@ -2,6 +2,7 @@
   "book_id": "1CHR",
   "book_name": "1 Chronicles",
   "chapter": 25,
+  "verses": 31,
   "content": [
     {
       "text": "The Musicians",
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah and Mattithiah, six in all, under the supervision of their father Jeduthun, who prophesied, using the harp in thanking and praising the .",
+      "text": "Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah and Mattithiah, six in all, under the supervision of their father Jeduthun, who prophesied, using the harp in thanking and praising the Lord.",
       "verse": 3,
       "type": "newline"
     },
@@ -47,7 +48,7 @@
       "verse": 5
     },
     {
-      "text": "All these men were under the supervision of their father for the music of the temple of the , with cymbals, lyres and harps, for the ministry at the house of God.",
+      "text": "All these men were under the supervision of their father for the music of the temple of the Lord, with cymbals, lyres and harps, for the ministry at the house of God.",
       "verse": 6,
       "type": "newline"
     },
@@ -57,7 +58,7 @@
       "type": "newline"
     },
     {
-      "text": "Along with their relatives—all of them trained and skilled in music for the —they numbered 288.",
+      "text": "Along with their relatives—all of them trained and skilled in music for the Lord—they numbered 288.",
       "verse": 7
     },
     {

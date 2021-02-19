@@ -2,9 +2,10 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 27,
+  "verses": 13,
   "content": [
     {
-      "text": "In that day the  with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea.",
+      "text": "In that day the Lord with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea.",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "I the  do keep it; I will water it every moment: lest any hurt it, I will keep it night and day.",
+      "text": "I the Lord do keep it; I will water it every moment: lest any hurt it, I will keep it night and day.",
       "verse": 3,
       "type": "newline"
     },
@@ -58,12 +59,12 @@
       "type": "newline"
     },
     {
-      "text": "And it shall come to pass in that day, that the  shall beat off from the channel of the river unto the stream of Egypt, and ye shall be gathered one by one, O ye children of Israel.",
+      "text": "And it shall come to pass in that day, that the Lord shall beat off from the channel of the river unto the stream of Egypt, and ye shall be gathered one by one, O ye children of Israel.",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "And it shall come to pass in that day, that the great trumpet shall be blown, and they shall come which were ready to perish in the land of Assyria, and the outcasts in the land of Egypt, and shall worship the  in the holy mount at Jerusalem.",
+      "text": "And it shall come to pass in that day, that the great trumpet shall be blown, and they shall come which were ready to perish in the land of Assyria, and the outcasts in the land of Egypt, and shall worship the Lord in the holy mount at Jerusalem.",
       "verse": 13,
       "type": "newline"
     }

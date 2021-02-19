@@ -2,6 +2,7 @@
   "book_id": "RUTH",
   "book_name": "Ruth",
   "chapter": 2,
+  "verses": 23,
   "content": [
     {
       "text": "Ruth Meets Boaz in the Grain Field",
@@ -27,12 +28,12 @@
       "verse": 3
     },
     {
-      "text": "Just then Boaz arrived from Bethlehem and greeted the harvesters, “The  be with you!”",
+      "text": "Just then Boaz arrived from Bethlehem and greeted the harvesters, “The Lord be with you!”",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "“The  bless you!” they answered.",
+      "text": "“The Lord bless you!” they answered.",
       "verse": 4,
       "type": "newline"
     },
@@ -70,7 +71,7 @@
       "type": "newline"
     },
     {
-      "text": "May the  repay you for what you have done. May you be richly rewarded by the , the God of Israel, under whose wings you have come to take refuge.”",
+      "text": "May the Lord repay you for what you have done. May you be richly rewarded by the Lord, the God of Israel, under whose wings you have come to take refuge.”",
       "verse": 12
     },
     {
@@ -116,7 +117,7 @@
       "type": "newline"
     },
     {
-      "text": "“The  bless him!” Naomi said to her daughter-in-law. “He has not stopped showing his kindness to the living and the dead.” She added, “That man is our close relative; he is one of our guardian-redeemers.”",
+      "text": "“The Lord bless him!” Naomi said to her daughter-in-law. “He has not stopped showing his kindness to the living and the dead.” She added, “That man is our close relative; he is one of our guardian-redeemers.”",
       "verse": 20,
       "type": "newline"
     },

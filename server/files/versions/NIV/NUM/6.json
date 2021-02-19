@@ -2,18 +2,19 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 6,
+  "verses": 27,
   "content": [
     {
       "text": "The Nazirite",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Speak to the Israelites and say to them: ‘If a man or woman wants to make a special vow, a vow of dedication to the  as a Nazirite,",
+      "text": "“Speak to the Israelites and say to them: ‘If a man or woman wants to make a special vow, a vow of dedication to the Lord as a Nazirite,",
       "verse": 2
     },
     {
@@ -25,12 +26,12 @@
       "verse": 4
     },
     {
-      "text": "“‘During the entire period of their Nazirite vow, no razor may be used on their head. They must be holy until the period of their dedication to the  is over; they must let their hair grow long.",
+      "text": "“‘During the entire period of their Nazirite vow, no razor may be used on their head. They must be holy until the period of their dedication to the Lord is over; they must let their hair grow long.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "“‘Throughout the period of their dedication to the , the Nazirite must not go near a dead body.",
+      "text": "“‘Throughout the period of their dedication to the Lord, the Nazirite must not go near a dead body.",
       "verse": 6,
       "type": "newline"
     },
@@ -39,7 +40,7 @@
       "verse": 7
     },
     {
-      "text": "Throughout the period of their dedication, they are consecrated to the .",
+      "text": "Throughout the period of their dedication, they are consecrated to the Lord.",
       "verse": 8
     },
     {
@@ -56,7 +57,7 @@
       "verse": 11
     },
     {
-      "text": "They must rededicate themselves to the  for the same period of dedication and must bring a year-old male lamb as a guilt offering. The previous days do not count, because they became defiled during their period of dedication.",
+      "text": "They must rededicate themselves to the Lord for the same period of dedication and must bring a year-old male lamb as a guilt offering. The previous days do not count, because they became defiled during their period of dedication.",
       "verse": 12
     },
     {
@@ -65,7 +66,7 @@
       "type": "newline"
     },
     {
-      "text": "There they are to present their offerings to the : a year-old male lamb without defect for a burnt offering, a year-old ewe lamb without defect for a sin offering, a ram without defect for a fellowship offering,",
+      "text": "There they are to present their offerings to the Lord: a year-old male lamb without defect for a burnt offering, a year-old ewe lamb without defect for a sin offering, a ram without defect for a fellowship offering,",
       "verse": 14
     },
     {
@@ -73,12 +74,12 @@
       "verse": 15
     },
     {
-      "text": "“‘The priest is to present all these before the  and make the sin offering and the burnt offering.",
+      "text": "“‘The priest is to present all these before the Lord and make the sin offering and the burnt offering.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "He is to present the basket of unleavened bread and is to sacrifice the ram as a fellowship offering to the , together with its grain offering and drink offering.",
+      "text": "He is to present the basket of unleavened bread and is to sacrifice the ram as a fellowship offering to the Lord, together with its grain offering and drink offering.",
       "verse": 17
     },
     {
@@ -92,11 +93,11 @@
       "type": "newline"
     },
     {
-      "text": "The priest shall then wave these before the  as a wave offering; they are holy and belong to the priest, together with the breast that was waved and the thigh that was presented. After that, the Nazirite may drink wine.",
+      "text": "The priest shall then wave these before the Lord as a wave offering; they are holy and belong to the priest, together with the breast that was waved and the thigh that was presented. After that, the Nazirite may drink wine.",
       "verse": 20
     },
     {
-      "text": "“‘This is the law of the Nazirite who vows offerings to the  in accordance with their dedication, in addition to whatever else they can afford. They must fulfill the vows they have made, according to the law of the Nazirite.’”",
+      "text": "“‘This is the law of the Nazirite who vows offerings to the Lord in accordance with their dedication, in addition to whatever else they can afford. They must fulfill the vows they have made, according to the law of the Nazirite.’”",
       "verse": 21,
       "type": "newline"
     },
@@ -105,7 +106,7 @@
       "type": "heading"
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 22,
       "type": "newline"
     },
@@ -114,7 +115,7 @@
       "verse": 23
     },
     {
-      "text": "“‘“The  bless you",
+      "text": "“‘“The Lord bless you",
       "verse": 24,
       "type": "poetry newline"
     },
@@ -124,7 +125,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  make his face shine on you",
+      "text": "the Lord make his face shine on you",
       "verse": 25,
       "type": "poetry"
     },
@@ -134,7 +135,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  turn his face toward you",
+      "text": "the Lord turn his face toward you",
       "verse": 26,
       "type": "poetry"
     },

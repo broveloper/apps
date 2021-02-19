@@ -2,9 +2,10 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 24,
+  "verses": 27,
   "content": [
     {
-      "text": "Again in the ninth year, in the tenth month, in the tenth day of the month, the word of the  came unto me, saying,",
+      "text": "Again in the ninth year, in the tenth month, in the tenth day of the month, the word of the Lord came unto me, saying,",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "And utter a parable unto the rebellious house, and say unto them, Thus saith the Lord ; Set on a pot, set it on, and also pour water into it:",
+      "text": "And utter a parable unto the rebellious house, and say unto them, Thus saith the Lord God; Set on a pot, set it on, and also pour water into it:",
       "verse": 3,
       "type": "newline"
     },
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "Wherefore thus saith the Lord ; Woe to the bloody city, to the pot whose scum is therein, and whose scum is not gone out of it! bring it out piece by piece; let no lot fall upon it.",
+      "text": "Wherefore thus saith the Lord God; Woe to the bloody city, to the pot whose scum is therein, and whose scum is not gone out of it! bring it out piece by piece; let no lot fall upon it.",
       "verse": 6,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore thus saith the Lord ; Woe to the bloody city! I will even make the pile for fire great.",
+      "text": "Therefore thus saith the Lord God; Woe to the bloody city! I will even make the pile for fire great.",
       "verse": 9,
       "type": "newline"
     },
@@ -68,12 +69,12 @@
       "type": "newline"
     },
     {
-      "text": "I the  have spoken it: it shall come to pass, and I will do it; I will not go back, neither will I spare, neither will I repent; according to thy ways, and according to thy doings, shall they judge thee, saith the Lord .",
+      "text": "I the Lord have spoken it: it shall come to pass, and I will do it; I will not go back, neither will I spare, neither will I repent; according to thy ways, and according to thy doings, shall they judge thee, saith the Lord God.",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "Also the word of the  came unto me, saying,",
+      "text": "Also the word of the Lord came unto me, saying,",
       "verse": 15,
       "type": "newline"
     },
@@ -98,12 +99,12 @@
       "type": "newline"
     },
     {
-      "text": "Then I answered them, The word of the  came unto me, saying,",
+      "text": "Then I answered them, The word of the Lord came unto me, saying,",
       "verse": 20,
       "type": "newline"
     },
     {
-      "text": "Speak unto the house of Israel, Thus saith the Lord ; Behold, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitieth; and your sons and your daughters whom ye have left shall fall by the sword.",
+      "text": "Speak unto the house of Israel, Thus saith the Lord God; Behold, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitieth; and your sons and your daughters whom ye have left shall fall by the sword.",
       "verse": 21,
       "type": "newline"
     },
@@ -118,7 +119,7 @@
       "type": "newline"
     },
     {
-      "text": "Thus Ezekiel is unto you a sign: according to all that he hath done shall ye do: and when this cometh, ye shall know that I am the Lord .",
+      "text": "Thus Ezekiel is unto you a sign: according to all that he hath done shall ye do: and when this cometh, ye shall know that I am the Lord God.",
       "verse": 24,
       "type": "newline"
     },
@@ -133,7 +134,7 @@
       "type": "newline"
     },
     {
-      "text": "In that day shall thy mouth be opened to him which is escaped, and thou shalt speak, and be no more dumb: and thou shalt be a sign unto them; and they shall know that I am the .",
+      "text": "In that day shall thy mouth be opened to him which is escaped, and thou shalt speak, and be no more dumb: and thou shalt be a sign unto them; and they shall know that I am the Lord.",
       "verse": 27,
       "type": "newline"
     }

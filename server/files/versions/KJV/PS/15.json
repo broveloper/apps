@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 15,
+  "verses": 5,
   "content": [
     {
       "text": "Lord, who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "In whose eyes a vile person is contemned; but he honoureth them that fear the . He that sweareth to his own hurt, and changeth not.",
+      "text": "In whose eyes a vile person is contemned; but he honoureth them that fear the Lord. He that sweareth to his own hurt, and changeth not.",
       "verse": 4,
       "type": "newline"
     },

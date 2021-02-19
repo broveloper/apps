@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 14,
+  "verses": 36,
   "content": [
     {
       "text": "The Death of John the Baptist",
@@ -74,7 +75,7 @@
       "verse": 15
     },
     {
-      "text": "But Jesus said,",
+      "text": "But Jesus said, “They need not go away; you give them something to eat.”",
       "verse": 16
     },
     {
@@ -82,7 +83,7 @@
       "verse": 17
     },
     {
-      "text": "And he said,",
+      "text": "And he said, “Bring them here to me.”",
       "verse": 18
     },
     {
@@ -123,7 +124,7 @@
       "verse": 26
     },
     {
-      "text": "But immediately Jesus spoke to them, saying,",
+      "text": "But immediately Jesus spoke to them, saying, “Take heart; it is I. Do not be afraid.”",
       "verse": 27
     },
     {
@@ -132,7 +133,7 @@
       "type": "newline"
     },
     {
-      "text": "He said,  So Peter got out of the boat and walked on the water and came to Jesus.",
+      "text": "He said, “Come.” So Peter got out of the boat and walked on the water and came to Jesus.",
       "verse": 29
     },
     {
@@ -140,7 +141,7 @@
       "verse": 30
     },
     {
-      "text": "Jesus immediately reached out his hand and took hold of him, saying to him,",
+      "text": "Jesus immediately reached out his hand and took hold of him, saying to him, “O you of little faith, why did you doubt?”",
       "verse": 31
     },
     {

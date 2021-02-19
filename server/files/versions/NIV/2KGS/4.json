@@ -2,13 +2,14 @@
   "book_id": "2KGS",
   "book_name": "2 Kings",
   "chapter": 4,
+  "verses": 44,
   "content": [
     {
       "text": "The Widow’s Olive Oil",
       "type": "heading"
     },
     {
-      "text": "The wife of a man from the company of the prophets cried out to Elisha, “Your servant my husband is dead, and you know that he revered the . But now his creditor is coming to take my two boys as his slaves.”",
+      "text": "The wife of a man from the company of the prophets cried out to Elisha, “Your servant my husband is dead, and you know that he revered the Lord. But now his creditor is coming to take my two boys as his slaves.”",
       "verse": 1,
       "type": "newline"
     },
@@ -175,7 +176,7 @@
       "type": "newline"
     },
     {
-      "text": "When she reached the man of God at the mountain, she took hold of his feet. Gehazi came over to push her away, but the man of God said, “Leave her alone! She is in bitter distress, but the  has hidden it from me and has not told me why.”",
+      "text": "When she reached the man of God at the mountain, she took hold of his feet. Gehazi came over to push her away, but the man of God said, “Leave her alone! She is in bitter distress, but the Lord has hidden it from me and has not told me why.”",
       "verse": 27,
       "type": "newline"
     },
@@ -190,7 +191,7 @@
       "type": "newline"
     },
     {
-      "text": "But the child’s mother said, “As surely as the  lives and as you live, I will not leave you.” So he got up and followed her.",
+      "text": "But the child’s mother said, “As surely as the Lord lives and as you live, I will not leave you.” So he got up and followed her.",
       "verse": 30,
       "type": "newline"
     },
@@ -205,7 +206,7 @@
       "type": "newline"
     },
     {
-      "text": "He went in, shut the door on the two of them and prayed to the .",
+      "text": "He went in, shut the door on the two of them and prayed to the Lord.",
       "verse": 33
     },
     {
@@ -263,12 +264,12 @@
       "type": "newline"
     },
     {
-      "text": "But Elisha answered, “Give it to the people to eat. For this is what the  says: ‘They will eat and have some left over.’”",
+      "text": "But Elisha answered, “Give it to the people to eat. For this is what the Lord says: ‘They will eat and have some left over.’”",
       "verse": 43,
       "type": "newline"
     },
     {
-      "text": "Then he set it before them, and they ate and had some left over, according to the word of the .",
+      "text": "Then he set it before them, and they ate and had some left over, according to the word of the Lord.",
       "verse": 44
     }
   ]

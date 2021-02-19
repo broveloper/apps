@@ -2,50 +2,51 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 30,
+  "verses": 20,
   "content": [
     {
       "text": "Repentance and Forgiveness",
       "type": "heading"
     },
     {
-      "text": "“And when all these things come upon you, the blessing and the curse, which I have set before you, and you call them to mind among all the nations where the  your God has driven you,",
+      "text": "“And when all these things come upon you, the blessing and the curse, which I have set before you, and you call them to mind among all the nations where the Lord your God has driven you,",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "and return to the  your God, you and your children, and obey his voice in all that I command you today, with all your heart and with all your soul,",
+      "text": "and return to the Lord your God, you and your children, and obey his voice in all that I command you today, with all your heart and with all your soul,",
       "verse": 2
     },
     {
-      "text": "then the  your God will restore your fortunes and have mercy on you, and he will gather you again from all the peoples where the  your God has scattered you.",
+      "text": "then the Lord your God will restore your fortunes and have mercy on you, and he will gather you again from all the peoples where the Lord your God has scattered you.",
       "verse": 3
     },
     {
-      "text": "If your outcasts are in the uttermost parts of heaven, from there the  your God will gather you, and from there he will take you.",
+      "text": "If your outcasts are in the uttermost parts of heaven, from there the Lord your God will gather you, and from there he will take you.",
       "verse": 4
     },
     {
-      "text": "And the  your God will bring you into the land that your fathers possessed, that you may possess it. And he will make you more prosperous and numerous than your fathers.",
+      "text": "And the Lord your God will bring you into the land that your fathers possessed, that you may possess it. And he will make you more prosperous and numerous than your fathers.",
       "verse": 5
     },
     {
-      "text": "And the  your God will circumcise your heart and the heart of your offspring, so that you will love the  your God with all your heart and with all your soul, that you may live.",
+      "text": "And the Lord your God will circumcise your heart and the heart of your offspring, so that you will love the Lord your God with all your heart and with all your soul, that you may live.",
       "verse": 6
     },
     {
-      "text": "And the  your God will put all these curses on your foes and enemies who persecuted you.",
+      "text": "And the Lord your God will put all these curses on your foes and enemies who persecuted you.",
       "verse": 7
     },
     {
-      "text": "And you shall again obey the voice of the  and keep all his commandments that I command you today.",
+      "text": "And you shall again obey the voice of the Lord and keep all his commandments that I command you today.",
       "verse": 8
     },
     {
-      "text": "The  your God will make you abundantly prosperous in all the work of your hand, in the fruit of your womb and in the fruit of your cattle and in the fruit of your ground. For the  will again take delight in prospering you, as he took delight in your fathers,",
+      "text": "The Lord your God will make you abundantly prosperous in all the work of your hand, in the fruit of your womb and in the fruit of your cattle and in the fruit of your ground. For the Lord will again take delight in prospering you, as he took delight in your fathers,",
       "verse": 9
     },
     {
-      "text": "when you obey the voice of the  your God, to keep his commandments and his statutes that are written in this Book of the Law, when you turn to the  your God with all your heart and with all your soul.",
+      "text": "when you obey the voice of the Lord your God, to keep his commandments and his statutes that are written in this Book of the Law, when you turn to the Lord your God with all your heart and with all your soul.",
       "verse": 10
     },
     {
@@ -75,7 +76,7 @@
       "type": "newline"
     },
     {
-      "text": "If you obey the commandments of the  your God that I command you today, by loving the  your God, by walking in his ways, and by keeping his commandments and his statutes and his rules, then you shall live and multiply, and the  your God will bless you in the land that you are entering to take possession of it.",
+      "text": "If you obey the commandments of the Lord your God that I command you today, by loving the Lord your God, by walking in his ways, and by keeping his commandments and his statutes and his rules, then you shall live and multiply, and the Lord your God will bless you in the land that you are entering to take possession of it.",
       "verse": 16
     },
     {
@@ -91,7 +92,7 @@
       "verse": 19
     },
     {
-      "text": "loving the  your God, obeying his voice and holding fast to him, for he is your life and length of days, that you may dwell in the land that the  swore to your fathers, to Abraham, to Isaac, and to Jacob, to give them.”",
+      "text": "loving the Lord your God, obeying his voice and holding fast to him, for he is your life and length of days, that you may dwell in the land that the Lord swore to your fathers, to Abraham, to Isaac, and to Jacob, to give them.”",
       "verse": 20
     }
   ]

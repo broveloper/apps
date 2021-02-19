@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 50,
+  "verses": 23,
   "content": [
     {
       "text": "Psalm 50",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A psalm of Asaph.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "The Mighty One, God, the ,",
+      "text": "The Mighty One, God, the Lord,",
       "verse": 1,
       "type": "poetry newline"
     },

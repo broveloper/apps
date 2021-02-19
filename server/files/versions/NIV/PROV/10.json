@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 10,
+  "verses": 32,
   "content": [
     {
       "text": "Proverbs of Solomon",
@@ -33,7 +34,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  does not let the righteous go hungry,",
+      "text": "The Lord does not let the righteous go hungry,",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -223,7 +224,7 @@
       "type": "poetry"
     },
     {
-      "text": "The blessing of the  brings wealth,",
+      "text": "The blessing of the Lord brings wealth,",
       "verse": 22,
       "type": "poetry newline"
     },
@@ -273,7 +274,7 @@
       "type": "poetry"
     },
     {
-      "text": "The fear of the  adds length to life,",
+      "text": "The fear of the Lord adds length to life,",
       "verse": 27,
       "type": "poetry newline"
     },
@@ -293,7 +294,7 @@
       "type": "poetry"
     },
     {
-      "text": "The way of the  is a refuge for the blameless,",
+      "text": "The way of the Lord is a refuge for the blameless,",
       "verse": 29,
       "type": "poetry newline"
     },

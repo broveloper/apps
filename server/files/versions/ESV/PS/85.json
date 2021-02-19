@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 85,
+  "verses": 13,
   "content": [
     {
       "text": "Revive Us Again",
@@ -9,11 +10,10 @@
     },
     {
       "text": "To the choirmaster. A Psalm of the Sons of Korah.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": ", you were favorable to your land;",
+      "text": "Lord, you were favorable to your land;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -28,7 +28,7 @@
       "type": "poetry"
     },
     {
-      "text": "you covered all their sin.",
+      "text": "you covered all their sin. Selah",
       "verse": 2,
       "type": "poetry"
     },
@@ -73,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "Show us your steadfast love, O ,",
+      "text": "Show us your steadfast love, O Lord,",
       "verse": 7,
       "type": "poetry"
     },
@@ -83,7 +83,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let me hear what God the  will speak,",
+      "text": "Let me hear what God the Lord will speak,",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -128,7 +128,7 @@
       "type": "poetry"
     },
     {
-      "text": "Yes, the  will give what is good,",
+      "text": "Yes, the Lord will give what is good,",
       "verse": 12,
       "type": "poetry"
     },

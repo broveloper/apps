@@ -2,18 +2,19 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 52,
+  "verses": 34,
   "content": [
     {
       "text": "Zedekiah was one and twenty years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother's name was Hamutal the daughter of Jeremiah of Libnah.",
       "verse": 1
     },
     {
-      "text": "And he did that which was evil in the eyes of the , according to all that Jehoiakim had done.",
+      "text": "And he did that which was evil in the eyes of the Lord, according to all that Jehoiakim had done.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "For through the anger of the  it came to pass in Jerusalem and Judah, till he had cast them out from his presence, that Zedekiah rebelled against the king of Babylon.",
+      "text": "For through the anger of the Lord it came to pass in Jerusalem and Judah, till he had cast them out from his presence, that Zedekiah rebelled against the king of Babylon.",
       "verse": 3,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "And burned the house of the , and the king's house; and all the houses of Jerusalem, and all the houses of the great men, burned he with fire:",
+      "text": "And burned the house of the Lord, and the king's house; and all the houses of Jerusalem, and all the houses of the great men, burned he with fire:",
       "verse": 13,
       "type": "newline"
     },
@@ -83,7 +84,7 @@
       "type": "newline"
     },
     {
-      "text": "Also the pillars of brass that were in the house of the , and the bases, and the brasen sea that was in the house of the , the Chaldeans brake, and carried all the brass of them to Babylon.",
+      "text": "Also the pillars of brass that were in the house of the Lord, and the bases, and the brasen sea that was in the house of the Lord, the Chaldeans brake, and carried all the brass of them to Babylon.",
       "verse": 17,
       "type": "newline"
     },
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "The two pillars, one sea, and twelve brasen bulls that were under the bases, which king Solomon had made in the house of the : the brass of all these vessels was without weight.",
+      "text": "The two pillars, one sea, and twelve brasen bulls that were under the bases, which king Solomon had made in the house of the Lord: the brass of all these vessels was without weight.",
       "verse": 20,
       "type": "newline"
     },

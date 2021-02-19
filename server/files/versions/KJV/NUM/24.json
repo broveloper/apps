@@ -2,9 +2,10 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 24,
+  "verses": 25,
   "content": [
     {
-      "text": "And when Balaam saw that it pleased the  to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.",
+      "text": "And when Balaam saw that it pleased the Lord to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.",
       "verse": 1
     },
     {
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "As the valleys are they spread forth, as gardens by the river's side, as the trees of lign aloes which the  hath planted, and as cedar trees beside the waters.",
+      "text": "As the valleys are they spread forth, as gardens by the river's side, as the trees of lign aloes which the Lord hath planted, and as cedar trees beside the waters.",
       "verse": 6,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore now flee thou to thy place: I thought to promote thee unto great honour; but, lo, the  hath kept thee back from honour.",
+      "text": "Therefore now flee thou to thy place: I thought to promote thee unto great honour; but, lo, the Lord hath kept thee back from honour.",
       "verse": 11,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the , to do either good or bad of mine own mind; but what the  saith, that will I speak?",
+      "text": "If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the Lord, to do either good or bad of mine own mind; but what the Lord saith, that will I speak?",
       "verse": 13,
       "type": "newline"
     },

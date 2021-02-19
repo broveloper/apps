@@ -2,6 +2,7 @@
   "book_id": "JOSH",
   "book_name": "Joshua",
   "chapter": 3,
+  "verses": 17,
   "content": [
     {
       "text": "Israel Crosses the Jordan",
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "and commanded the people, “As soon as you see the ark of the covenant of the  your God being carried by the Levitical priests, then you shall set out from your place and follow it.",
+      "text": "and commanded the people, “As soon as you see the ark of the covenant of the Lord your God being carried by the Levitical priests, then you shall set out from your place and follow it.",
       "verse": 3
     },
     {
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "Then Joshua said to the people, “Consecrate yourselves, for tomorrow the  will do wonders among you.”",
+      "text": "Then Joshua said to the people, “Consecrate yourselves, for tomorrow the Lord will do wonders among you.”",
       "verse": 5
     },
     {
@@ -33,7 +34,7 @@
       "verse": 6
     },
     {
-      "text": "The  said to Joshua, “Today I will begin to exalt you in the sight of all Israel, that they may know that, as I was with Moses, so I will be with you.",
+      "text": "The Lord said to Joshua, “Today I will begin to exalt you in the sight of all Israel, that they may know that, as I was with Moses, so I will be with you.",
       "verse": 7,
       "type": "newline"
     },
@@ -42,7 +43,7 @@
       "verse": 8
     },
     {
-      "text": "And Joshua said to the people of Israel, “Come here and listen to the words of the  your God.”",
+      "text": "And Joshua said to the people of Israel, “Come here and listen to the words of the Lord your God.”",
       "verse": 9
     },
     {
@@ -58,7 +59,7 @@
       "verse": 12
     },
     {
-      "text": "And when the soles of the feet of the priests bearing the ark of the , the Lord of all the earth, shall rest in the waters of the Jordan, the waters of the Jordan shall be cut off from flowing, and the waters coming down from above shall stand in one heap.”",
+      "text": "And when the soles of the feet of the priests bearing the ark of the Lord, the Lord of all the earth, shall rest in the waters of the Jordan, the waters of the Jordan shall be cut off from flowing, and the waters coming down from above shall stand in one heap.”",
       "verse": 13
     },
     {
@@ -75,7 +76,7 @@
       "verse": 16
     },
     {
-      "text": "Now the priests bearing the ark of the covenant of the  stood firmly on dry ground in the midst of the Jordan, and all Israel was passing over on dry ground until all the nation finished passing over the Jordan.",
+      "text": "Now the priests bearing the ark of the covenant of the Lord stood firmly on dry ground in the midst of the Jordan, and all Israel was passing over on dry ground until all the nation finished passing over the Jordan.",
       "verse": 17
     }
   ]

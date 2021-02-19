@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 10,
+  "verses": 36,
   "content": [
     {
       "text": "The Silver Trumpets",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses:",
+      "text": "The Lord said to Moses:",
       "verse": 1,
       "type": "newline"
     },
@@ -42,11 +43,11 @@
       "type": "newline"
     },
     {
-      "text": "When you go into battle in your own land against an enemy who is oppressing you, sound a blast on the trumpets. Then you will be remembered by the  your God and rescued from your enemies.",
+      "text": "When you go into battle in your own land against an enemy who is oppressing you, sound a blast on the trumpets. Then you will be remembered by the Lord your God and rescued from your enemies.",
       "verse": 9
     },
     {
-      "text": "Also at your times of rejoicing—your appointed festivals and New Moon feasts—you are to sound the trumpets over your burnt offerings and fellowship offerings, and they will be a memorial for you before your God. I am the  your God.”",
+      "text": "Also at your times of rejoicing—your appointed festivals and New Moon feasts—you are to sound the trumpets over your burnt offerings and fellowship offerings, and they will be a memorial for you before your God. I am the Lord your God.”",
       "verse": 10
     },
     {
@@ -63,7 +64,7 @@
       "verse": 12
     },
     {
-      "text": "They set out, this first time, at the ’s command through Moses.",
+      "text": "They set out, this first time, at the Lord’s command through Moses.",
       "verse": 13
     },
     {
@@ -131,7 +132,7 @@
       "verse": 28
     },
     {
-      "text": "Now Moses said to Hobab son of Reuel the Midianite, Moses’ father-in-law, “We are setting out for the place about which the  said, ‘I will give it to you.’ Come with us and we will treat you well, for the  has promised good things to Israel.”",
+      "text": "Now Moses said to Hobab son of Reuel the Midianite, Moses’ father-in-law, “We are setting out for the place about which the Lord said, ‘I will give it to you.’ Come with us and we will treat you well, for the Lord has promised good things to Israel.”",
       "verse": 29,
       "type": "newline"
     },
@@ -146,16 +147,16 @@
       "type": "newline"
     },
     {
-      "text": "If you come with us, we will share with you whatever good things the  gives us.”",
+      "text": "If you come with us, we will share with you whatever good things the Lord gives us.”",
       "verse": 32
     },
     {
-      "text": "So they set out from the mountain of the  and traveled for three days. The ark of the covenant of the  went before them during those three days to find them a place to rest.",
+      "text": "So they set out from the mountain of the Lord and traveled for three days. The ark of the covenant of the Lord went before them during those three days to find them a place to rest.",
       "verse": 33,
       "type": "newline"
     },
     {
-      "text": "The cloud of the  was over them by day when they set out from the camp.",
+      "text": "The cloud of the Lord was over them by day when they set out from the camp.",
       "verse": 34
     },
     {
@@ -164,7 +165,7 @@
       "type": "newline"
     },
     {
-      "text": "“Rise up, !",
+      "text": "“Rise up, Lord!",
       "verse": 35,
       "type": "poetry newline"
     },
@@ -184,7 +185,7 @@
       "type": "newline"
     },
     {
-      "text": "“Return, ,",
+      "text": "“Return, Lord,",
       "verse": 36,
       "type": "poetry newline"
     },

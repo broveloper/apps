@@ -2,18 +2,19 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 25,
+  "verses": 55,
   "content": [
     {
       "text": "The Sabbath Year",
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses on Mount Sinai, saying,",
+      "text": "The Lord spoke to Moses on Mount Sinai, saying,",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Speak to the people of Israel and say to them, When you come into the land that I give you, the land shall keep a Sabbath to the .",
+      "text": "“Speak to the people of Israel and say to them, When you come into the land that I give you, the land shall keep a Sabbath to the Lord.",
       "verse": 2
     },
     {
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "but in the seventh year there shall be a Sabbath of solemn rest for the land, a Sabbath to the . You shall not sow your field or prune your vineyard.",
+      "text": "but in the seventh year there shall be a Sabbath of solemn rest for the land, a Sabbath to the Lord. You shall not sow your field or prune your vineyard.",
       "verse": 4
     },
     {
@@ -79,7 +80,7 @@
       "verse": 16
     },
     {
-      "text": "You shall not wrong one another, but you shall fear your God, for I am the  your God.",
+      "text": "You shall not wrong one another, but you shall fear your God, for I am the Lord your God.",
       "verse": 17
     },
     {
@@ -176,7 +177,7 @@
       "verse": 37
     },
     {
-      "text": "I am the  your God, who brought you out of the land of Egypt to give you the land of Canaan, and to be your God.",
+      "text": "I am the Lord your God, who brought you out of the land of Egypt to give you the land of Canaan, and to be your God.",
       "verse": 38
     },
     {
@@ -250,7 +251,7 @@
       "verse": 54
     },
     {
-      "text": "For it is to me that the people of Israel are servants. They are my servants whom I brought out of the land of Egypt: I am the  your God.",
+      "text": "For it is to me that the people of Israel are servants. They are my servants whom I brought out of the land of Egypt: I am the Lord your God.",
       "verse": 55
     }
   ]

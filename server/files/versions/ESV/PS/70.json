@@ -2,15 +2,15 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 70,
+  "verses": 5,
   "content": [
     {
-      "text": "O , Do Not Delay",
+      "text": "O Lord, Do Not Delay",
       "type": "heading"
     },
     {
       "text": "To the choirmaster. Of David, for the memorial offering.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Make haste, O God, to deliver me!",
@@ -18,7 +18,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "O , make haste to help me!",
+      "text": "O Lord, make haste to help me!",
       "verse": 1,
       "type": "poetry"
     },
@@ -88,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , do not delay!",
+      "text": "O Lord, do not delay!",
       "verse": 5,
       "type": "poetry"
     }

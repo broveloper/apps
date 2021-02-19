@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 2,
+  "verses": 47,
   "content": [
     {
       "text": "And when the day of Pentecost was fully come, they were all with one accord in one place.",
@@ -193,7 +194,7 @@
       "type": "newline"
     },
     {
-      "text": "For the promise is unto you, and to your children, and to all that are afar off, even as many as the  our God shall call.",
+      "text": "For the promise is unto you, and to your children, and to all that are afar off, even as many as the Lord our God shall call.",
       "verse": 39,
       "type": "newline"
     },

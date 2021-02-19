@@ -2,18 +2,19 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 104,
+  "verses": 35,
   "content": [
     {
-      "text": "O  My God, You Are Very Great",
+      "text": "O Lord My God, You Are Very Great",
       "type": "heading"
     },
     {
-      "text": "Bless the , O my soul!",
+      "text": "Bless the Lord, O my soul!",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "O  my God, you are very great!",
+      "text": "O Lord my God, you are very great!",
       "verse": 1,
       "type": "poetry"
     },
@@ -23,7 +24,7 @@
       "type": "poetry"
     },
     {
-      "text": "covering yourself with light as with a garment,",
+      "text": "    covering yourself with light as with a garment,",
       "verse": 2,
       "type": "poetry"
     },
@@ -163,7 +164,7 @@
       "type": "poetry"
     },
     {
-      "text": "and wine to gladden the heart of man,",
+      "text": "    and wine to gladden the heart of man,",
       "verse": 15,
       "type": "poetry"
     },
@@ -178,7 +179,7 @@
       "type": "poetry"
     },
     {
-      "text": "The trees of the  are watered abundantly,",
+      "text": "The trees of the Lord are watered abundantly,",
       "verse": 16,
       "type": "poetry newline"
     },
@@ -258,7 +259,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , how manifold are your works!",
+      "text": "O Lord, how manifold are your works!",
       "verse": 24,
       "type": "poetry newline"
     },
@@ -343,12 +344,12 @@
       "type": "poetry"
     },
     {
-      "text": "May the glory of the  endure forever;",
+      "text": "May the glory of the Lord endure forever;",
       "verse": 31,
       "type": "poetry newline"
     },
     {
-      "text": "may the  rejoice in his works,",
+      "text": "may the Lord rejoice in his works,",
       "verse": 31,
       "type": "poetry"
     },
@@ -363,7 +364,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will sing to the  as long as I live;",
+      "text": "I will sing to the Lord as long as I live;",
       "verse": 33,
       "type": "poetry"
     },
@@ -378,7 +379,7 @@
       "type": "poetry"
     },
     {
-      "text": "for I rejoice in the .",
+      "text": "for I rejoice in the Lord.",
       "verse": 34,
       "type": "poetry"
     },
@@ -393,12 +394,12 @@
       "type": "poetry"
     },
     {
-      "text": "Bless the , O my soul!",
+      "text": "Bless the Lord, O my soul!",
       "verse": 35,
       "type": "poetry"
     },
     {
-      "text": "Praise the !",
+      "text": "Praise the Lord!",
       "verse": 35,
       "type": "poetry"
     }

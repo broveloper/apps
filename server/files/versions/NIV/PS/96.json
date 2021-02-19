@@ -2,23 +2,24 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 96,
+  "verses": 13,
   "content": [
     {
       "text": "Psalm 96",
       "type": "heading"
     },
     {
-      "text": "Sing to the  a new song;",
+      "text": "Sing to the Lord a new song;",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "sing to the , all the earth.",
+      "text": "sing to the Lord, all the earth.",
       "verse": 1,
       "type": "poetry"
     },
     {
-      "text": "Sing to the , praise his name;",
+      "text": "Sing to the Lord, praise his name;",
       "verse": 2,
       "type": "poetry"
     },
@@ -38,7 +39,7 @@
       "type": "poetry"
     },
     {
-      "text": "For great is the  and most worthy of praise;",
+      "text": "For great is the Lord and most worthy of praise;",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -53,7 +54,7 @@
       "type": "poetry"
     },
     {
-      "text": "but the  made the heavens.",
+      "text": "but the Lord made the heavens.",
       "verse": 5,
       "type": "poetry"
     },
@@ -68,17 +69,17 @@
       "type": "poetry"
     },
     {
-      "text": "Ascribe to the , all you families of nations,",
+      "text": "Ascribe to the Lord, all you families of nations,",
       "verse": 7,
       "type": "poetry newline"
     },
     {
-      "text": "ascribe to the  glory and strength.",
+      "text": "ascribe to the Lord glory and strength.",
       "verse": 7,
       "type": "poetry"
     },
     {
-      "text": "Ascribe to the  the glory due his name;",
+      "text": "Ascribe to the Lord the glory due his name;",
       "verse": 8,
       "type": "poetry"
     },
@@ -88,7 +89,7 @@
       "type": "poetry"
     },
     {
-      "text": "Worship the  in the splendor of his holiness;",
+      "text": "Worship the Lord in the splendor of his holiness;",
       "verse": 9,
       "type": "poetry"
     },
@@ -98,7 +99,7 @@
       "type": "poetry"
     },
     {
-      "text": "Say among the nations, “The  reigns.”",
+      "text": "Say among the nations, “The Lord reigns.”",
       "verse": 10,
       "type": "poetry"
     },
@@ -133,7 +134,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let all creation rejoice before the , for he comes,",
+      "text": "Let all creation rejoice before the Lord, for he comes,",
       "verse": 13,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 72,
+  "verses": 20,
   "content": [
     {
       "text": "Give the king thy judgments, O God, and thy righteousness unto the king's son.",
@@ -88,7 +89,7 @@
       "type": "newline"
     },
     {
-      "text": "Blessed be the  God, the God of Israel, who only doeth wondrous things.",
+      "text": "Blessed be the Lord God, the God of Israel, who only doeth wondrous things.",
       "verse": 18,
       "type": "newline"
     },

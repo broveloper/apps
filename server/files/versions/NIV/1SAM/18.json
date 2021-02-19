@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 18,
+  "verses": 30,
   "content": [
     {
       "text": "Saul’s Growing Fear of David",
@@ -67,7 +68,7 @@
       "verse": 11
     },
     {
-      "text": "Saul was afraid of David, because the  was with David but had departed from Saul.",
+      "text": "Saul was afraid of David, because the Lord was with David but had departed from Saul.",
       "verse": 12,
       "type": "newline"
     },
@@ -76,7 +77,7 @@
       "verse": 13
     },
     {
-      "text": "In everything he did he had great success, because the  was with him.",
+      "text": "In everything he did he had great success, because the Lord was with him.",
       "verse": 14
     },
     {
@@ -88,7 +89,7 @@
       "verse": 16
     },
     {
-      "text": "Saul said to David, “Here is my older daughter Merab. I will give her to you in marriage; only serve me bravely and fight the battles of the .” For Saul said to himself, “I will not raise a hand against him. Let the Philistines do that!”",
+      "text": "Saul said to David, “Here is my older daughter Merab. I will give her to you in marriage; only serve me bravely and fight the battles of the Lord.” For Saul said to himself, “I will not raise a hand against him. Let the Philistines do that!”",
       "verse": 17,
       "type": "newline"
     },
@@ -139,7 +140,7 @@
       "verse": 27
     },
     {
-      "text": "When Saul realized that the  was with David and that his daughter Michal loved David,",
+      "text": "When Saul realized that the Lord was with David and that his daughter Michal loved David,",
       "verse": 28,
       "type": "newline"
     },

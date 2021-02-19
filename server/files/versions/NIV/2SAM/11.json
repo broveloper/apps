@@ -2,6 +2,7 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 11,
+  "verses": 27,
   "content": [
     {
       "text": "David and Bathsheba",
@@ -124,7 +125,7 @@
       "type": "newline"
     },
     {
-      "text": "After the time of mourning was over, David had her brought to his house, and she became his wife and bore him a son. But the thing David had done displeased the .",
+      "text": "After the time of mourning was over, David had her brought to his house, and she became his wife and bore him a son. But the thing David had done displeased the Lord.",
       "verse": 27
     }
   ]

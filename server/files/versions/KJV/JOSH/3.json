@@ -2,6 +2,7 @@
   "book_id": "JOSH",
   "book_name": "Joshua",
   "chapter": 3,
+  "verses": 17,
   "content": [
     {
       "text": "And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over.",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "And they commanded the people, saying, When ye see the ark of the covenant of the  your God, and the priests the Levites bearing it, then ye shall remove from your place, and go after it.",
+      "text": "And they commanded the people, saying, When ye see the ark of the covenant of the Lord your God, and the priests the Levites bearing it, then ye shall remove from your place, and go after it.",
       "verse": 3,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "And Joshua said unto the people, Sanctify yourselves: for to morrow the  will do wonders among you.",
+      "text": "And Joshua said unto the people, Sanctify yourselves: for to morrow the Lord will do wonders among you.",
       "verse": 5,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  said unto Joshua, This day will I begin to magnify thee in the sight of all Israel, that they may know that, as I was with Moses, so I will be with thee.",
+      "text": "And the Lord said unto Joshua, This day will I begin to magnify thee in the sight of all Israel, that they may know that, as I was with Moses, so I will be with thee.",
       "verse": 7,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "And Joshua said unto the children of Israel, Come hither, and hear the words of the  your God.",
+      "text": "And Joshua said unto the children of Israel, Come hither, and hear the words of the Lord your God.",
       "verse": 9,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "Behold, the ark of the covenant of the  of all the earth passeth over before you into Jordan.",
+      "text": "Behold, the ark of the covenant of the Lord of all the earth passeth over before you into Jordan.",
       "verse": 11,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "And it shall come to pass, as soon as the soles of the feet of the priests that bear the ark of the , the  of all the earth, shall rest in the waters of Jordan, that the waters of Jordan shall be cut off from the waters that come down from above; and they shall stand upon an heap.",
+      "text": "And it shall come to pass, as soon as the soles of the feet of the priests that bear the ark of the Lord, the Lord of all the earth, shall rest in the waters of Jordan, that the waters of Jordan shall be cut off from the waters that come down from above; and they shall stand upon an heap.",
       "verse": 13,
       "type": "newline"
     },
@@ -83,7 +84,7 @@
       "type": "newline"
     },
     {
-      "text": "And the priests that bare the ark of the covenant of the  stood firm on dry ground in the midst of Jordan, and all the Israelites passed over on dry ground, until all the people were passed clean over Jordan.",
+      "text": "And the priests that bare the ark of the covenant of the Lord stood firm on dry ground in the midst of Jordan, and all the Israelites passed over on dry ground, until all the people were passed clean over Jordan.",
       "verse": 17,
       "type": "newline"
     }

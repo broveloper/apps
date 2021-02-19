@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 70,
+  "verses": 5,
   "content": [
     {
-      "text": "Make haste, o God, to deliver me; make haste to help me, O .",
+      "text": "Make haste, o God, to deliver me; make haste to help me, O Lord.",
       "verse": 1
     },
     {
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "But I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; O , make no tarrying.",
+      "text": "But I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; O Lord, make no tarrying.",
       "verse": 5,
       "type": "newline"
     }

@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 22,
+  "verses": 25,
   "content": [
     {
       "text": "A Prophecy About Jerusalem",
@@ -83,7 +84,7 @@
       "type": "poetry"
     },
     {
-      "text": "The Lord, the  Almighty, has a day",
+      "text": "The Lord, the Lord Almighty, has a day",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -198,7 +199,7 @@
       "type": "poetry"
     },
     {
-      "text": "The Lord, the  Almighty,",
+      "text": "The Lord, the Lord Almighty,",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -243,12 +244,12 @@
       "type": "poetry"
     },
     {
-      "text": "The  Almighty has revealed this in my hearing: “Till your dying day this sin will not be atoned for,” says the Lord, the  Almighty.",
+      "text": "The Lord Almighty has revealed this in my hearing: “Till your dying day this sin will not be atoned for,” says the Lord, the Lord Almighty.",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "This is what the Lord, the  Almighty, says:",
+      "text": "This is what the Lord, the Lord Almighty, says:",
       "verse": 15,
       "type": "newline"
     },
@@ -283,7 +284,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Beware, the  is about to take firm hold of you",
+      "text": "“Beware, the Lord is about to take firm hold of you",
       "verse": 17,
       "type": "poetry newline"
     },
@@ -349,7 +350,7 @@
       "verse": 24
     },
     {
-      "text": "“In that day,” declares the  Almighty, “the peg driven into the firm place will give way; it will be sheared off and will fall, and the load hanging on it will be cut down.” The  has spoken.",
+      "text": "“In that day,” declares the Lord Almighty, “the peg driven into the firm place will give way; it will be sheared off and will fall, and the load hanging on it will be cut down.” The Lord has spoken.",
       "verse": 25,
       "type": "newline"
     }

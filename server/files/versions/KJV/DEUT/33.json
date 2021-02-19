@@ -2,13 +2,14 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 33,
+  "verses": 29,
   "content": [
     {
       "text": "And this is the blessing, wherewith Moses the man of God blessed the children of Israel before his death.",
       "verse": 1
     },
     {
-      "text": "And he said, The  came from Sinai, and rose up from Seir unto them; he shined forth from mount Paran, and he came with ten thousands of saints: from his right hand went a fiery law for them.",
+      "text": "And he said, The Lord came from Sinai, and rose up from Seir unto them; he shined forth from mount Paran, and he came with ten thousands of saints: from his right hand went a fiery law for them.",
       "verse": 2,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "And this is the blessing of Judah: and he said, Hear, , the voice of Judah, and bring him unto his people: let his hands be sufficient for him; and be thou an help to him from his enemies.",
+      "text": "And this is the blessing of Judah: and he said, Hear, Lord, the voice of Judah, and bring him unto his people: let his hands be sufficient for him; and be thou an help to him from his enemies.",
       "verse": 7,
       "type": "newline"
     },
@@ -53,17 +54,17 @@
       "type": "newline"
     },
     {
-      "text": "Bless, , his substance, and accept the work of his hands; smite through the loins of them that rise against him, and of them that hate him, that they rise not again.",
+      "text": "Bless, Lord, his substance, and accept the work of his hands; smite through the loins of them that rise against him, and of them that hate him, that they rise not again.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "And of Benjamin he said, The beloved of the  shall dwell in safety by him; and the Lord shall cover him all the day long, and he shall dwell between his shoulders.",
+      "text": "And of Benjamin he said, The beloved of the Lord shall dwell in safety by him; and the Lord shall cover him all the day long, and he shall dwell between his shoulders.",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "And of Joseph he said, Blessed of the  be his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath,",
+      "text": "And of Joseph he said, Blessed of the Lord be his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath,",
       "verse": 13,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "And he provided the first part for himself, because there, in a portion of the lawgiver, was he seated; and he came with the heads of the people, he executed the justice of the , and his judgments with Israel.",
+      "text": "And he provided the first part for himself, because there, in a portion of the lawgiver, was he seated; and he came with the heads of the people, he executed the justice of the Lord, and his judgments with Israel.",
       "verse": 21,
       "type": "newline"
     },
@@ -113,7 +114,7 @@
       "type": "newline"
     },
     {
-      "text": "And of Naphtali he said, O Naphtali, satisfied with favour, and full with the blessing of the : possess thou the west and the south.",
+      "text": "And of Naphtali he said, O Naphtali, satisfied with favour, and full with the blessing of the Lord: possess thou the west and the south.",
       "verse": 23,
       "type": "newline"
     },
@@ -143,7 +144,7 @@
       "type": "newline"
     },
     {
-      "text": "Happy art thou, O Israel: who is like unto thee, O people saved by the , the shield of thy help, and who is the sword of thy excellency! and thine enemies shall be found liars unto thee; and thou shalt tread upon their high places.",
+      "text": "Happy art thou, O Israel: who is like unto thee, O people saved by the Lord, the shield of thy help, and who is the sword of thy excellency! and thine enemies shall be found liars unto thee; and thou shalt tread upon their high places.",
       "verse": 29,
       "type": "newline"
     }

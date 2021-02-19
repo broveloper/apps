@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 54,
+  "verses": 17,
   "content": [
     {
       "text": "The Future Glory of Zion",
@@ -38,7 +39,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the .",
+      "text": "says the Lord.",
       "verse": 1,
       "type": "poetry"
     },
@@ -108,7 +109,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  Almighty is his name—",
+      "text": "the Lord Almighty is his name—",
       "verse": 5,
       "type": "poetry"
     },
@@ -123,7 +124,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  will call you back",
+      "text": "The Lord will call you back",
       "verse": 6,
       "type": "poetry"
     },
@@ -173,7 +174,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the  your Redeemer.",
+      "text": "says the Lord your Redeemer.",
       "verse": 8,
       "type": "poetry"
     },
@@ -218,7 +219,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the , who has compassion on you.",
+      "text": "says the Lord, who has compassion on you.",
       "verse": 10,
       "type": "poetry"
     },
@@ -253,7 +254,7 @@
       "type": "poetry"
     },
     {
-      "text": "All your children will be taught by the ,",
+      "text": "All your children will be taught by the Lord,",
       "verse": 13,
       "type": "poetry"
     },
@@ -318,7 +319,7 @@
       "type": "poetry"
     },
     {
-      "text": "no weapon forged against you will prevail,",
+      "text": "    no weapon forged against you will prevail,",
       "verse": 17,
       "type": "poetry"
     },
@@ -328,7 +329,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is the heritage of the servants of the ,",
+      "text": "This is the heritage of the servants of the Lord,",
       "verse": 17,
       "type": "poetry"
     },
@@ -338,7 +339,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 17,
       "type": "poetry"
     }

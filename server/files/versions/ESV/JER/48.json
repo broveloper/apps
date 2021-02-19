@@ -2,6 +2,7 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 48,
+  "verses": 47,
   "content": [
     {
       "text": "Judgment on Moab",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "Thus says the  of hosts, the God of Israel:",
+      "text": "Thus says the Lord of hosts, the God of Israel:",
       "verse": 1,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "poetry"
     },
     {
-      "text": "the renown of Moab is no more.",
+      "text": "    the renown of Moab is no more.",
       "verse": 2,
       "type": "poetry"
     },
@@ -148,7 +149,7 @@
       "type": "poetry"
     },
     {
-      "text": "as the  has spoken.",
+      "text": "as the Lord has spoken.",
       "verse": 8,
       "type": "poetry"
     },
@@ -173,7 +174,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Cursed is he who does the work of the  with slackness, and cursed is he who keeps back his sword from bloodshed.",
+      "text": "“Cursed is he who does the work of the Lord with slackness, and cursed is he who keeps back his sword from bloodshed.",
       "verse": 10,
       "type": "newline"
     },
@@ -208,7 +209,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Therefore, behold, the days are coming, declares the , when I shall send to him pourers who will pour him, and empty his vessels and break his jars in pieces.",
+      "text": "“Therefore, behold, the days are coming, declares the Lord, when I shall send to him pourers who will pour him, and empty his vessels and break his jars in pieces.",
       "verse": 12,
       "type": "newline"
     },
@@ -237,7 +238,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the King, whose name is the  of hosts.",
+      "text": "declares the King, whose name is the Lord of hosts.",
       "verse": 15,
       "type": "poetry"
     },
@@ -354,11 +355,11 @@
       "verse": 24
     },
     {
-      "text": "The horn of Moab is cut off, and his arm is broken, declares the .",
+      "text": "The horn of Moab is cut off, and his arm is broken, declares the Lord.",
       "verse": 25
     },
     {
-      "text": "“Make him drunk, because he magnified himself against the , so that Moab shall wallow in his vomit, and he too shall be held in derision.",
+      "text": "“Make him drunk, because he magnified himself against the Lord, so that Moab shall wallow in his vomit, and he too shall be held in derision.",
       "verse": 26,
       "type": "newline"
     },
@@ -407,7 +408,7 @@
       "type": "poetry"
     },
     {
-      "text": "I know his insolence, declares the ;",
+      "text": "I know his insolence, declares the Lord;",
       "verse": 30,
       "type": "poetry"
     },
@@ -497,7 +498,7 @@
       "type": "newline"
     },
     {
-      "text": "And I will bring to an end in Moab, declares the , him who offers sacrifice in the high place and makes offerings to his god.",
+      "text": "And I will bring to an end in Moab, declares the Lord, him who offers sacrifice in the high place and makes offerings to his god.",
       "verse": 35
     },
     {
@@ -510,7 +511,7 @@
       "type": "newline"
     },
     {
-      "text": "On all the housetops of Moab and in the squares there is nothing but lamentation, for I have broken Moab like a vessel for which no one cares, declares the .",
+      "text": "On all the housetops of Moab and in the squares there is nothing but lamentation, for I have broken Moab like a vessel for which no one cares, declares the Lord.",
       "verse": 38
     },
     {
@@ -518,7 +519,7 @@
       "verse": 39
     },
     {
-      "text": "For thus says the :",
+      "text": "For thus says the Lord:",
       "verse": 40,
       "type": "poetry newline"
     },
@@ -558,7 +559,7 @@
       "type": "poetry"
     },
     {
-      "text": "because he magnified himself against the .",
+      "text": "because he magnified himself against the Lord.",
       "verse": 42,
       "type": "poetry"
     },
@@ -573,7 +574,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 43,
       "type": "poetry"
     },
@@ -608,7 +609,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 44,
       "type": "poetry"
     },
@@ -668,7 +669,7 @@
       "type": "poetry"
     },
     {
-      "text": "in the latter days, declares the .”",
+      "text": "in the latter days, declares the Lord.”",
       "verse": 47,
       "type": "poetry"
     },

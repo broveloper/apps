@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 11,
+  "verses": 7,
   "content": [
     {
-      "text": "In the  put I my trust: how say ye to my soul, Flee as a bird to your mountain?",
+      "text": "In the Lord put I my trust: how say ye to my soul, Flee as a bird to your mountain?",
       "verse": 1
     },
     {
@@ -18,12 +19,12 @@
       "type": "newline"
     },
     {
-      "text": "The  is in his holy temple, the 's throne is in heaven: his eyes behold, his eyelids try, the children of men.",
+      "text": "The Lord is in his holy temple, the Lord's throne is in heaven: his eyes behold, his eyelids try, the children of men.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "The  trieth the righteous: but the wicked and him that loveth violence his soul hateth.",
+      "text": "The Lord trieth the righteous: but the wicked and him that loveth violence his soul hateth.",
       "verse": 5,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "For the righteous  loveth righteousness; his countenance doth behold the upright.",
+      "text": "For the righteous Lord loveth righteousness; his countenance doth behold the upright.",
       "verse": 7,
       "type": "newline"
     }

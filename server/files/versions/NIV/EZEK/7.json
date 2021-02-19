@@ -2,18 +2,19 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 7,
+  "verses": 27,
   "content": [
     {
       "text": "The End Has Come",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Son of man, this is what the Sovereign  says to the land of Israel:",
+      "text": "“Son of man, this is what the Sovereign Lord says to the land of Israel:",
       "verse": 2
     },
     {
@@ -67,12 +68,12 @@
       "type": "poetry"
     },
     {
-      "text": "“‘Then you will know that I am the .’",
+      "text": "“‘Then you will know that I am the Lord.’",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "“This is what the Sovereign  says:",
+      "text": "“This is what the Sovereign Lord says:",
       "verse": 5,
       "type": "newline"
     },
@@ -167,7 +168,7 @@
       "type": "poetry"
     },
     {
-      "text": "“‘Then you will know that it is I the  who strikes you.",
+      "text": "“‘Then you will know that it is I the Lord who strikes you.",
       "verse": 9,
       "type": "newline"
     },
@@ -412,7 +413,7 @@
       "type": "poetry"
     },
     {
-      "text": "in the day of the ’s wrath.",
+      "text": "in the day of the Lord’s wrath.",
       "verse": 19,
       "type": "poetry"
     },
@@ -582,7 +583,7 @@
       "type": "poetry"
     },
     {
-      "text": "“‘Then they will know that I am the .’”",
+      "text": "“‘Then they will know that I am the Lord.’”",
       "verse": 27,
       "type": "newline"
     }

@@ -2,13 +2,14 @@
   "book_id": "NAH",
   "book_name": "Nahum",
   "chapter": 2,
+  "verses": 13,
   "content": [
     {
       "text": "He that dasheth in pieces is come up before thy face: keep the munition, watch the way, make thy loins strong, fortify thy power mightily.",
       "verse": 1
     },
     {
-      "text": "For the  hath turned away the excellency of Jacob, as the excellency of Israel: for the emptiers have emptied them out, and marred their vine branches.",
+      "text": "For the Lord hath turned away the excellency of Jacob, as the excellency of Israel: for the emptiers have emptied them out, and marred their vine branches.",
       "verse": 2,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "Behold, I am against thee, saith the  of hosts, and I will burn her chariots in the smoke, and the sword shall devour thy young lions: and I will cut off thy prey from the earth, and the voice of thy messengers shall no more be heard.",
+      "text": "Behold, I am against thee, saith the Lord of hosts, and I will burn her chariots in the smoke, and the sword shall devour thy young lions: and I will cut off thy prey from the earth, and the voice of thy messengers shall no more be heard.",
       "verse": 13,
       "type": "newline"
     }

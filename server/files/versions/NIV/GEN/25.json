@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 25,
+  "verses": 34,
   "content": [
     {
       "text": "The Death of Abraham",
@@ -107,16 +108,16 @@
       "verse": 20
     },
     {
-      "text": "Isaac prayed to the  on behalf of his wife, because she was childless. The  answered his prayer, and his wife Rebekah became pregnant.",
+      "text": "Isaac prayed to the Lord on behalf of his wife, because she was childless. The Lord answered his prayer, and his wife Rebekah became pregnant.",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "The babies jostled each other within her, and she said, “Why is this happening to me?” So she went to inquire of the .",
+      "text": "The babies jostled each other within her, and she said, “Why is this happening to me?” So she went to inquire of the Lord.",
       "verse": 22
     },
     {
-      "text": "The  said to her,",
+      "text": "The Lord said to her,",
       "verse": 23,
       "type": "newline"
     },

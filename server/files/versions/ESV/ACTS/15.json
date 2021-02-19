@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 15,
+  "verses": 40,
   "content": [
     {
       "text": "The Jerusalem Council",
@@ -86,7 +87,7 @@
       "type": "poetry"
     },
     {
-      "text": "and I will restore it,",
+      "text": " and I will restore it,",
       "verse": 16,
       "type": "poetry"
     },
@@ -101,7 +102,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the Lord, who makes these things",
+      "text": " says the Lord, who makes these things",
       "verse": 17,
       "type": "poetry"
     },

@@ -2,13 +2,14 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 31,
+  "verses": 18,
   "content": [
     {
       "text": "Bezalel and Oholiab",
       "type": "heading"
     },
     {
-      "text": "Then the  said to Moses,",
+      "text": "Then the Lord said to Moses,",
       "verse": 1,
       "type": "newline"
     },
@@ -57,12 +58,12 @@
       "type": "heading"
     },
     {
-      "text": "Then the  said to Moses,",
+      "text": "Then the Lord said to Moses,",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "“Say to the Israelites, ‘You must observe my Sabbaths. This will be a sign between me and you for the generations to come, so you may know that I am the , who makes you holy.",
+      "text": "“Say to the Israelites, ‘You must observe my Sabbaths. This will be a sign between me and you for the generations to come, so you may know that I am the Lord, who makes you holy.",
       "verse": 13
     },
     {
@@ -71,7 +72,7 @@
       "type": "newline"
     },
     {
-      "text": "For six days work is to be done, but the seventh day is a day of sabbath rest, holy to the . Whoever does any work on the Sabbath day is to be put to death.",
+      "text": "For six days work is to be done, but the seventh day is a day of sabbath rest, holy to the Lord. Whoever does any work on the Sabbath day is to be put to death.",
       "verse": 15
     },
     {
@@ -79,11 +80,11 @@
       "verse": 16
     },
     {
-      "text": "It will be a sign between me and the Israelites forever, for in six days the  made the heavens and the earth, and on the seventh day he rested and was refreshed.’”",
+      "text": "It will be a sign between me and the Israelites forever, for in six days the Lord made the heavens and the earth, and on the seventh day he rested and was refreshed.’”",
       "verse": 17
     },
     {
-      "text": "When the  finished speaking to Moses on Mount Sinai, he gave him the two tablets of the covenant law, the tablets of stone inscribed by the finger of God.",
+      "text": "When the Lord finished speaking to Moses on Mount Sinai, he gave him the two tablets of the covenant law, the tablets of stone inscribed by the finger of God.",
       "verse": 18,
       "type": "newline"
     }

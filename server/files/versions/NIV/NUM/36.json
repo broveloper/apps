@@ -2,6 +2,7 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 36,
+  "verses": 13,
   "content": [
     {
       "text": "Inheritance of Zelophehad’s Daughters",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "They said, “When the  commanded my lord to give the land as an inheritance to the Israelites by lot, he ordered you to give the inheritance of our brother Zelophehad to his daughters.",
+      "text": "They said, “When the Lord commanded my lord to give the land as an inheritance to the Israelites by lot, he ordered you to give the inheritance of our brother Zelophehad to his daughters.",
       "verse": 2
     },
     {
@@ -25,12 +26,12 @@
       "verse": 4
     },
     {
-      "text": "Then at the ’s command Moses gave this order to the Israelites: “What the tribe of the descendants of Joseph is saying is right.",
+      "text": "Then at the Lord’s command Moses gave this order to the Israelites: “What the tribe of the descendants of Joseph is saying is right.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "This is what the  commands for Zelophehad’s daughters: They may marry anyone they please as long as they marry within their father’s tribal clan.",
+      "text": "This is what the Lord commands for Zelophehad’s daughters: They may marry anyone they please as long as they marry within their father’s tribal clan.",
       "verse": 6
     },
     {
@@ -46,7 +47,7 @@
       "verse": 9
     },
     {
-      "text": "So Zelophehad’s daughters did as the  commanded Moses.",
+      "text": "So Zelophehad’s daughters did as the Lord commanded Moses.",
       "verse": 10,
       "type": "newline"
     },
@@ -59,7 +60,7 @@
       "verse": 12
     },
     {
-      "text": "These are the commands and regulations the  gave through Moses to the Israelites on the plains of Moab by the Jordan across from Jericho.",
+      "text": "These are the commands and regulations the Lord gave through Moses to the Israelites on the plains of Moab by the Jordan across from Jericho.",
       "verse": 13,
       "type": "newline"
     }

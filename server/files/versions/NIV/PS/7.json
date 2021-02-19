@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 7,
+  "verses": 17,
   "content": [
     {
       "text": "Psalm 7",
       "type": "heading"
     },
     {
-      "text": "A  of David, which he sang to the  concerning Cush, a Benjamite.",
-      "verse": 1,
-      "type": "newline"
+      "text": "A shiggaion of David, which he sang to the Lord concerning Cush, a Benjamite.",
+      "type": "title"
     },
     {
-      "text": "my God, I take refuge in you;",
+      "text": "Lord my God, I take refuge in you;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "my God, if I have done this",
+      "text": "Lord my God, if I have done this",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -68,7 +68,7 @@
       "type": "poetry"
     },
     {
-      "text": "Arise, , in your anger;",
+      "text": "Arise, Lord, in your anger;",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -93,12 +93,12 @@
       "type": "poetry"
     },
     {
-      "text": "Let the  judge the peoples.",
+      "text": "    Let the Lord judge the peoples.",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "Vindicate me, , according to my righteousness,",
+      "text": "Vindicate me, Lord, according to my righteousness,",
       "verse": 8,
       "type": "poetry"
     },
@@ -203,12 +203,12 @@
       "type": "poetry"
     },
     {
-      "text": "I will give thanks to the  because of his righteousness;",
+      "text": "I will give thanks to the Lord because of his righteousness;",
       "verse": 17,
       "type": "poetry newline"
     },
     {
-      "text": "I will sing the praises of the name of the  Most High.",
+      "text": "I will sing the praises of the name of the Lord Most High.",
       "verse": 17,
       "type": "poetry"
     }

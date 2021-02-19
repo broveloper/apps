@@ -2,6 +2,7 @@
   "book_id": "JOEL",
   "book_name": "Joel",
   "chapter": 2,
+  "verses": 32,
   "content": [
     {
       "text": "An Army of Locusts",
@@ -23,7 +24,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "for the day of the  is coming.",
+      "text": "for the day of the Lord is coming.",
       "verse": 1,
       "type": "poetry"
     },
@@ -33,7 +34,7 @@
       "type": "poetry"
     },
     {
-      "text": "a day of darkness and gloom,",
+      "text": "    a day of darkness and gloom,",
       "verse": 2,
       "type": "poetry"
     },
@@ -208,7 +209,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  thunders",
+      "text": "The Lord thunders",
       "verse": 11,
       "type": "poetry"
     },
@@ -228,7 +229,7 @@
       "type": "poetry"
     },
     {
-      "text": "The day of the  is great;",
+      "text": "The day of the Lord is great;",
       "verse": 11,
       "type": "poetry"
     },
@@ -247,7 +248,7 @@
       "type": "heading"
     },
     {
-      "text": "“Even now,” declares the ,",
+      "text": "“Even now,” declares the Lord,",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -272,7 +273,7 @@
       "type": "poetry"
     },
     {
-      "text": "Return to the  your God,",
+      "text": "Return to the Lord your God,",
       "verse": 13,
       "type": "poetry"
     },
@@ -307,7 +308,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  your God.",
+      "text": "for the Lord your God.",
       "verse": 14,
       "type": "poetry"
     },
@@ -362,7 +363,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let the priests, who minister before the ,",
+      "text": "Let the priests, who minister before the Lord,",
       "verse": 17,
       "type": "poetry"
     },
@@ -372,7 +373,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let them say, “Spare your people, .",
+      "text": "Let them say, “Spare your people, Lord.",
       "verse": 17,
       "type": "poetry"
     },
@@ -397,11 +398,11 @@
       "type": "poetry"
     },
     {
-      "text": "The ’s Answer",
+      "text": "The Lord’s Answer",
       "type": "heading"
     },
     {
-      "text": "Then the  was jealous for his land",
+      "text": "Then the Lord was jealous for his land",
       "verse": 18,
       "type": "poetry newline"
     },
@@ -411,7 +412,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  replied to them:",
+      "text": "The Lord replied to them:",
       "verse": 19,
       "type": "newline"
     },
@@ -471,7 +472,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "Do not be afraid, land of Judah;",
+      "text": "    Do not be afraid, land of Judah;",
       "verse": 21,
       "type": "poetry"
     },
@@ -481,12 +482,12 @@
       "type": "poetry"
     },
     {
-      "text": "Surely the  has done great things!",
+      "text": "Surely the Lord has done great things!",
       "verse": 21,
       "type": "poetry"
     },
     {
-      "text": "Do not be afraid, you wild animals,",
+      "text": "    Do not be afraid, you wild animals,",
       "verse": 22,
       "type": "poetry"
     },
@@ -511,7 +512,7 @@
       "type": "poetry"
     },
     {
-      "text": "rejoice in the  your God,",
+      "text": "rejoice in the Lord your God,",
       "verse": 23,
       "type": "poetry"
     },
@@ -571,7 +572,7 @@
       "type": "poetry"
     },
     {
-      "text": "and you will praise the name of the  your God,",
+      "text": "and you will praise the name of the Lord your God,",
       "verse": 26,
       "type": "poetry"
     },
@@ -591,7 +592,7 @@
       "type": "poetry"
     },
     {
-      "text": "that I am the  your God,",
+      "text": "that I am the Lord your God,",
       "verse": 27,
       "type": "poetry"
     },
@@ -606,7 +607,7 @@
       "type": "poetry"
     },
     {
-      "text": "The Day of the",
+      "text": "The Day of the Lord",
       "type": "heading"
     },
     {
@@ -670,7 +671,7 @@
       "type": "poetry"
     },
     {
-      "text": "before the coming of the great and dreadful day of the .",
+      "text": "before the coming of the great and dreadful day of the Lord.",
       "verse": 31,
       "type": "poetry"
     },
@@ -680,7 +681,7 @@
       "type": "poetry"
     },
     {
-      "text": "on the name of the  will be saved;",
+      "text": "on the name of the Lord will be saved;",
       "verse": 32,
       "type": "poetry"
     },
@@ -695,7 +696,7 @@
       "type": "poetry"
     },
     {
-      "text": "as the  has said,",
+      "text": "as the Lord has said,",
       "verse": 32,
       "type": "poetry"
     },
@@ -705,7 +706,7 @@
       "type": "poetry"
     },
     {
-      "text": "whom the  calls.",
+      "text": "whom the Lord calls.",
       "verse": 32,
       "type": "poetry"
     }

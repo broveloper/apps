@@ -2,6 +2,7 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 5,
+  "verses": 15,
   "content": [
     {
       "text": "Punishment Coming for Israel and Judah",
@@ -83,7 +84,7 @@
       "type": "poetry"
     },
     {
-      "text": "and they know not the .",
+      "text": "and they know not the Lord.",
       "verse": 4,
       "type": "poetry"
     },
@@ -108,7 +109,7 @@
       "type": "poetry"
     },
     {
-      "text": "to seek the ,",
+      "text": "to seek the Lord,",
       "verse": 6,
       "type": "poetry"
     },
@@ -123,7 +124,7 @@
       "type": "poetry"
     },
     {
-      "text": "They have dealt faithlessly with the ;",
+      "text": "They have dealt faithlessly with the Lord;",
       "verse": 7,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 49,
+  "verses": 33,
   "content": [
     {
       "text": "And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.",
@@ -88,7 +89,7 @@
       "type": "newline"
     },
     {
-      "text": "I have waited for thy salvation, O .",
+      "text": "I have waited for thy salvation, O Lord.",
       "verse": 18,
       "type": "newline"
     },

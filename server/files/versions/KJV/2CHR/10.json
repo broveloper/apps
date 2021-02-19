@@ -2,6 +2,7 @@
   "book_id": "2CHR",
   "book_name": "2 Chronicles",
   "chapter": 10,
+  "verses": 19,
   "content": [
     {
       "text": "And Rehoboam went to Shechem: for to Shechem were all Israel come to make him king.",
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "So the king hearkened not unto the people: for the cause was of God, that the  might perform his word, which he spake by the hand of Ahijah the Shilonite to Jeroboam the son of Nebat.",
+      "text": "So the king hearkened not unto the people: for the cause was of God, that the Lord might perform his word, which he spake by the hand of Ahijah the Shilonite to Jeroboam the son of Nebat.",
       "verse": 15,
       "type": "newline"
     },

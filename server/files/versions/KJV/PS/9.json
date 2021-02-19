@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 9,
+  "verses": 20,
   "content": [
     {
-      "text": "I will praise thee, O , with my whole heart; I will shew forth all thy marvellous works.",
+      "text": "I will praise thee, O Lord, with my whole heart; I will shew forth all thy marvellous works.",
       "verse": 1
     },
     {
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "But the  shall endure for ever: he hath prepared his throne for judgment.",
+      "text": "But the Lord shall endure for ever: he hath prepared his throne for judgment.",
       "verse": 7,
       "type": "newline"
     },
@@ -43,17 +44,17 @@
       "type": "newline"
     },
     {
-      "text": "The  also will be a refuge for the oppressed, a refuge in times of trouble.",
+      "text": "The Lord also will be a refuge for the oppressed, a refuge in times of trouble.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "And they that know thy name will put their trust in thee: for thou, , hast not forsaken them that seek thee.",
+      "text": "And they that know thy name will put their trust in thee: for thou, Lord, hast not forsaken them that seek thee.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "Sing praises to the , which dwelleth in Zion: declare among the people his doings.",
+      "text": "Sing praises to the Lord, which dwelleth in Zion: declare among the people his doings.",
       "verse": 11,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "Have mercy upon me, O ; consider my trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:",
+      "text": "Have mercy upon me, O Lord; consider my trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:",
       "verse": 13,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "The  is known by the judgment which he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah.",
+      "text": "The Lord is known by the judgment which he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah.",
       "verse": 16,
       "type": "newline"
     },
@@ -93,12 +94,12 @@
       "type": "newline"
     },
     {
-      "text": "Arise, O ; let not man prevail: let the heathen be judged in thy sight.",
+      "text": "Arise, O Lord; let not man prevail: let the heathen be judged in thy sight.",
       "verse": 19,
       "type": "newline"
     },
     {
-      "text": "Put them in fear, O : that the nations may know themselves to be but men. Selah.",
+      "text": "Put them in fear, O Lord: that the nations may know themselves to be but men. Selah.",
       "verse": 20,
       "type": "newline"
     }

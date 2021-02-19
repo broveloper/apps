@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 52,
+  "verses": 9,
   "content": [
     {
       "text": "The Steadfast Love of God Endures",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster. A Maskil of David, when Doeg, the Edomite, came and told Saul, “David has come to the house of Ahimelech.”",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Why do you boast of evil, O mighty man?",
@@ -38,7 +38,7 @@
       "type": "poetry"
     },
     {
-      "text": "and lying more than speaking what is right.",
+      "text": "and lying more than speaking what is right. Selah",
       "verse": 3,
       "type": "poetry"
     },
@@ -63,7 +63,7 @@
       "type": "poetry"
     },
     {
-      "text": "he will uproot you from the land of the living.",
+      "text": "he will uproot you from the land of the living. Selah",
       "verse": 5,
       "type": "poetry"
     },

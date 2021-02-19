@@ -2,9 +2,10 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 3,
+  "verses": 5,
   "content": [
     {
-      "text": "Then said the  unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the  toward the children of Israel, who look to other gods, and love flagons of wine.",
+      "text": "Then said the Lord unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the Lord toward the children of Israel, who look to other gods, and love flagons of wine.",
       "verse": 1
     },
     {
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "Afterward shall the children of Israel return, and seek the  their God, and David their king; and shall fear the  and his goodness in the latter days.",
+      "text": "Afterward shall the children of Israel return, and seek the Lord their God, and David their king; and shall fear the Lord and his goodness in the latter days.",
       "verse": 5,
       "type": "newline"
     }

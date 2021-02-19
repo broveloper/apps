@@ -2,13 +2,14 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 3,
+  "verses": 26,
   "content": [
     {
       "text": "Judgment on Judah and Jerusalem",
       "type": "heading"
     },
     {
-      "text": "For behold, the Lord  of hosts",
+      "text": "For behold, the Lord God of hosts",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -168,7 +169,7 @@
       "type": "poetry"
     },
     {
-      "text": "because their speech and their deeds are against the ,",
+      "text": "because their speech and their deeds are against the Lord,",
       "verse": 8,
       "type": "poetry"
     },
@@ -243,7 +244,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has taken his place to contend;",
+      "text": "The Lord has taken his place to contend;",
       "verse": 13,
       "type": "poetry newline"
     },
@@ -253,7 +254,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  will enter into judgment",
+      "text": "The Lord will enter into judgment",
       "verse": 14,
       "type": "poetry"
     },
@@ -283,12 +284,12 @@
       "type": "poetry"
     },
     {
-      "text": "declares the Lord  of hosts.",
+      "text": "declares the Lord God of hosts.",
       "verse": 15,
       "type": "poetry"
     },
     {
-      "text": "The  said:",
+      "text": "The Lord said:",
       "verse": 16,
       "type": "poetry newline"
     },
@@ -328,7 +329,7 @@
       "type": "poetry"
     },
     {
-      "text": "and the  will lay bare their secret parts.",
+      "text": "and the Lord will lay bare their secret parts.",
       "verse": 17,
       "type": "poetry"
     },

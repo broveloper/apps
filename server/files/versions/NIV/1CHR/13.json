@@ -2,6 +2,7 @@
   "book_id": "1CHR",
   "book_name": "1 Chronicles",
   "chapter": 13,
+  "verses": 14,
   "content": [
     {
       "text": "Bringing Back the Ark",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "He then said to the whole assembly of Israel, “If it seems good to you and if it is the will of the  our God, let us send word far and wide to the rest of our people throughout the territories of Israel, and also to the priests and Levites who are with them in their towns and pasturelands, to come and join us.",
+      "text": "He then said to the whole assembly of Israel, “If it seems good to you and if it is the will of the Lord our God, let us send word far and wide to the rest of our people throughout the territories of Israel, and also to the priests and Levites who are with them in their towns and pasturelands, to come and join us.",
       "verse": 2
     },
     {
@@ -30,7 +31,7 @@
       "type": "newline"
     },
     {
-      "text": "David and all Israel went to Baalah of Judah (Kiriath Jearim) to bring up from there the ark of God the , who is enthroned between the cherubim—the ark that is called by the Name.",
+      "text": "David and all Israel went to Baalah of Judah (Kiriath Jearim) to bring up from there the ark of God the Lord, who is enthroned between the cherubim—the ark that is called by the Name.",
       "verse": 6
     },
     {
@@ -48,11 +49,11 @@
       "type": "newline"
     },
     {
-      "text": "The ’s anger burned against Uzzah, and he struck him down because he had put his hand on the ark. So he died there before God.",
+      "text": "The Lord’s anger burned against Uzzah, and he struck him down because he had put his hand on the ark. So he died there before God.",
       "verse": 10
     },
     {
-      "text": "Then David was angry because the ’s wrath had broken out against Uzzah, and to this day that place is called Perez Uzzah.",
+      "text": "Then David was angry because the Lord’s wrath had broken out against Uzzah, and to this day that place is called Perez Uzzah.",
       "verse": 11,
       "type": "newline"
     },
@@ -66,7 +67,7 @@
       "verse": 13
     },
     {
-      "text": "The ark of God remained with the family of Obed-Edom in his house for three months, and the  blessed his household and everything he had.",
+      "text": "The ark of God remained with the family of Obed-Edom in his house for three months, and the Lord blessed his household and everything he had.",
       "verse": 14
     }
   ]

@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 10,
+  "verses": 34,
   "content": [
     {
       "text": "Woe to those who decree iniquitous decrees,",
@@ -257,7 +258,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore the Lord  of hosts",
+      "text": "Therefore the Lord God of hosts",
       "verse": 16,
       "type": "poetry"
     },
@@ -302,7 +303,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  will destroy, both soul and body,",
+      "text": "the Lord will destroy, both soul and body,",
       "verse": 18,
       "type": "poetry"
     },
@@ -326,7 +327,7 @@
       "type": "heading"
     },
     {
-      "text": "In that day the remnant of Israel and the survivors of the house of Jacob will no more lean on him who struck them, but will lean on the , the Holy One of Israel, in truth.",
+      "text": "In that day the remnant of Israel and the survivors of the house of Jacob will no more lean on him who struck them, but will lean on the Lord, the Holy One of Israel, in truth.",
       "verse": 20,
       "type": "newline"
     },
@@ -339,11 +340,11 @@
       "verse": 22
     },
     {
-      "text": "For the Lord  of hosts will make a full end, as decreed, in the midst of all the earth.",
+      "text": "For the Lord God of hosts will make a full end, as decreed, in the midst of all the earth.",
       "verse": 23
     },
     {
-      "text": "Therefore thus says the Lord  of hosts: “O my people, who dwell in Zion, be not afraid of the Assyrians when they strike with the rod and lift up their staff against you as the Egyptians did.",
+      "text": "Therefore thus says the Lord God of hosts: “O my people, who dwell in Zion, be not afraid of the Assyrians when they strike with the rod and lift up their staff against you as the Egyptians did.",
       "verse": 24,
       "type": "newline"
     },
@@ -352,7 +353,7 @@
       "verse": 25
     },
     {
-      "text": "And the  of hosts will wield against them a whip, as when he struck Midian at the rock of Oreb. And his staff will be over the sea, and he will lift it as he did in Egypt.",
+      "text": "And the Lord of hosts will wield against them a whip, as when he struck Midian at the rock of Oreb. And his staff will be over the sea, and he will lift it as he did in Egypt.",
       "verse": 26
     },
     {
@@ -440,7 +441,7 @@
       "type": "poetry"
     },
     {
-      "text": "Behold, the Lord  of hosts",
+      "text": "Behold, the Lord God of hosts",
       "verse": 33,
       "type": "poetry newline"
     },

@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 112,
+  "verses": 10,
   "content": [
     {
-      "text": "Praise ye the . Blessed is the man that feareth the , that delighteth greatly in his commandments.",
+      "text": "Praise ye the Lord. Blessed is the man that feareth the Lord, that delighteth greatly in his commandments.",
       "verse": 1
     },
     {
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "He shall not be afraid of evil tidings: his heart is fixed, trusting in the .",
+      "text": "He shall not be afraid of evil tidings: his heart is fixed, trusting in the Lord.",
       "verse": 7,
       "type": "newline"
     },

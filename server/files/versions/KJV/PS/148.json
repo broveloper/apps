@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 148,
+  "verses": 14,
   "content": [
     {
-      "text": "Praise ye the . Praise ye the  from the heavens: praise him in the heights.",
+      "text": "Praise ye the Lord. Praise ye the Lord from the heavens: praise him in the heights.",
       "verse": 1
     },
     {
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "Let them praise the name of the : for he commanded, and they were created.",
+      "text": "Let them praise the name of the Lord: for he commanded, and they were created.",
       "verse": 5,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "Praise the  from the earth, ye dragons, and all deeps:",
+      "text": "Praise the Lord from the earth, ye dragons, and all deeps:",
       "verse": 7,
       "type": "newline"
     },
@@ -63,12 +64,12 @@
       "type": "newline"
     },
     {
-      "text": "Let them praise the name of the : for his name alone is excellent; his glory is above the earth and heaven.",
+      "text": "Let them praise the name of the Lord: for his name alone is excellent; his glory is above the earth and heaven.",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Praise ye the .",
+      "text": "He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Praise ye the Lord.",
       "verse": 14,
       "type": "newline"
     }

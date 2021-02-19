@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 27,
+  "verses": 66,
   "content": [
     {
       "text": "Judas Hangs Himself",
@@ -66,7 +67,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied.",
+      "text": "“You have said so,” Jesus replied.",
       "verse": 11,
       "type": "newline"
     },
@@ -206,7 +207,7 @@
       "verse": 36
     },
     {
-      "text": "Above his head they placed the written charge against him: .",
+      "text": "Above his head they placed the written charge against him: this is jesus, the king of the jews.",
       "verse": 37
     },
     {
@@ -248,7 +249,7 @@
       "type": "newline"
     },
     {
-      "text": "About three in the afternoon Jesus cried out in a loud voice,  (which means ).",
+      "text": "About three in the afternoon Jesus cried out in a loud voice, “Eli, Eli, lema sabachthani?” (which means “My God, my God, why have you forsaken me?”).",
       "verse": 46
     },
     {

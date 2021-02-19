@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 13,
+  "verses": 23,
   "content": [
     {
       "text": "Samuel Rebukes Saul",
@@ -67,16 +68,16 @@
       "type": "newline"
     },
     {
-      "text": "I thought, ‘Now the Philistines will come down against me at Gilgal, and I have not sought the ’s favor.’ So I felt compelled to offer the burnt offering.”",
+      "text": "I thought, ‘Now the Philistines will come down against me at Gilgal, and I have not sought the Lord’s favor.’ So I felt compelled to offer the burnt offering.”",
       "verse": 12
     },
     {
-      "text": "“You have done a foolish thing,” Samuel said. “You have not kept the command the  your God gave you; if you had, he would have established your kingdom over Israel for all time.",
+      "text": "“You have done a foolish thing,” Samuel said. “You have not kept the command the Lord your God gave you; if you had, he would have established your kingdom over Israel for all time.",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "But now your kingdom will not endure; the  has sought out a man after his own heart and appointed him ruler of his people, because you have not kept the ’s command.”",
+      "text": "But now your kingdom will not endure; the Lord has sought out a man after his own heart and appointed him ruler of his people, because you have not kept the Lord’s command.”",
       "verse": 14
     },
     {

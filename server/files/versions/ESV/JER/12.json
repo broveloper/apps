@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 12,
+  "verses": 17,
   "content": [
     {
       "text": "Jeremiah's Complaint",
       "type": "heading"
     },
     {
-      "text": "Righteous are you, O ,",
+      "text": "Righteous are you, O Lord,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -53,7 +54,7 @@
       "type": "poetry"
     },
     {
-      "text": "But you, O , know me;",
+      "text": "But you, O Lord, know me;",
       "verse": 3,
       "type": "poetry"
     },
@@ -98,7 +99,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  Answers Jeremiah",
+      "text": "The Lord Answers Jeremiah",
       "type": "heading"
     },
     {
@@ -257,7 +258,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the sword of the  devours",
+      "text": "for the sword of the Lord devours",
       "verse": 12,
       "type": "poetry"
     },
@@ -287,12 +288,12 @@
       "type": "poetry"
     },
     {
-      "text": "because of the fierce anger of the .”",
+      "text": "because of the fierce anger of the Lord.”",
       "verse": 13,
       "type": "poetry"
     },
     {
-      "text": "Thus says the  concerning all my evil neighbors who touch the heritage that I have given my people Israel to inherit: “Behold, I will pluck them up from their land, and I will pluck up the house of Judah from among them.",
+      "text": "Thus says the Lord concerning all my evil neighbors who touch the heritage that I have given my people Israel to inherit: “Behold, I will pluck them up from their land, and I will pluck up the house of Judah from among them.",
       "verse": 14,
       "type": "newline"
     },
@@ -301,11 +302,11 @@
       "verse": 15
     },
     {
-      "text": "And it shall come to pass, if they will diligently learn the ways of my people, to swear by my name, ‘As the  lives,’ even as they taught my people to swear by Baal, then they shall be built up in the midst of my people.",
+      "text": "And it shall come to pass, if they will diligently learn the ways of my people, to swear by my name, ‘As the Lord lives,’ even as they taught my people to swear by Baal, then they shall be built up in the midst of my people.",
       "verse": 16
     },
     {
-      "text": "But if any nation will not listen, then I will utterly pluck it up and destroy it, declares the .”",
+      "text": "But if any nation will not listen, then I will utterly pluck it up and destroy it, declares the Lord.”",
       "verse": 17
     }
   ]

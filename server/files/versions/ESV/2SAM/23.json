@@ -2,6 +2,7 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 23,
+  "verses": 39,
   "content": [
     {
       "text": "The Last Words of David",
@@ -33,7 +34,7 @@
       "type": "poetry"
     },
     {
-      "text": "“The Spirit of the  speaks by me;",
+      "text": "“The Spirit of the Lord speaks by me;",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -142,7 +143,7 @@
       "type": "newline"
     },
     {
-      "text": "He rose and struck down the Philistines until his hand was weary, and his hand clung to the sword. And the  brought about a great victory that day, and the men returned after him only to strip the slain.",
+      "text": "He rose and struck down the Philistines until his hand was weary, and his hand clung to the sword. And the Lord brought about a great victory that day, and the men returned after him only to strip the slain.",
       "verse": 10
     },
     {
@@ -151,7 +152,7 @@
       "type": "newline"
     },
     {
-      "text": "But he took his stand in the midst of the plot and defended it and struck down the Philistines, and the  worked a great victory.",
+      "text": "But he took his stand in the midst of the plot and defended it and struck down the Philistines, and the Lord worked a great victory.",
       "verse": 12
     },
     {
@@ -168,11 +169,11 @@
       "verse": 15
     },
     {
-      "text": "Then the three mighty men broke through the camp of the Philistines and drew water out of the well of Bethlehem that was by the gate and carried and brought it to David. But he would not drink of it. He poured it out to the",
+      "text": "Then the three mighty men broke through the camp of the Philistines and drew water out of the well of Bethlehem that was by the gate and carried and brought it to David. But he would not drink of it. He poured it out to the Lord",
       "verse": 16
     },
     {
-      "text": "and said, “Far be it from me, O , that I should do this. Shall I drink the blood of the men who went at the risk of their lives?” Therefore he would not drink it. These things the three mighty men did.",
+      "text": "and said, “Far be it from me, O Lord, that I should do this. Shall I drink the blood of the men who went at the risk of their lives?” Therefore he would not drink it. These things the three mighty men did.",
       "verse": 17
     },
     {

@@ -2,6 +2,7 @@
   "book_id": "HAB",
   "book_name": "Habakkuk",
   "chapter": 2,
+  "verses": 20,
   "content": [
     {
       "text": "I will take my stand at my watchpost",
@@ -28,7 +29,7 @@
       "type": "heading"
     },
     {
-      "text": "And the  answered me:",
+      "text": "And the Lord answered me:",
       "verse": 2,
       "type": "newline"
     },
@@ -217,7 +218,7 @@
       "type": "poetry"
     },
     {
-      "text": "Behold, is it not from the  of hosts",
+      "text": "Behold, is it not from the Lord of hosts",
       "verse": 13,
       "type": "poetry"
     },
@@ -237,7 +238,7 @@
       "type": "poetry"
     },
     {
-      "text": "with the knowledge of the glory of the",
+      "text": "with the knowledge of the glory of the Lord",
       "verse": 14,
       "type": "poetry"
     },
@@ -272,7 +273,7 @@
       "type": "poetry"
     },
     {
-      "text": "The cup in the 's right hand",
+      "text": "The cup in the Lord's right hand",
       "verse": 16,
       "type": "poetry"
     },
@@ -357,7 +358,7 @@
       "type": "poetry"
     },
     {
-      "text": "But the  is in his holy temple;",
+      "text": "But the Lord is in his holy temple;",
       "verse": 20,
       "type": "poetry"
     },

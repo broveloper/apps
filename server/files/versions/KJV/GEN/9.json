@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 9,
+  "verses": 29,
   "content": [
     {
       "text": "And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.",
@@ -128,7 +129,7 @@
       "type": "newline"
     },
     {
-      "text": "And he said, Blessed be the  God of Shem; and Canaan shall be his servant.",
+      "text": "And he said, Blessed be the Lord God of Shem; and Canaan shall be his servant.",
       "verse": 26,
       "type": "newline"
     },

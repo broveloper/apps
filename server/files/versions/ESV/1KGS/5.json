@@ -2,13 +2,14 @@
   "book_id": "1KGS",
   "book_name": "1 Kings",
   "chapter": 5,
+  "verses": 18,
   "content": [
     {
       "text": "Preparations for Building the Temple",
       "type": "heading"
     },
     {
-      "text": "Now Hiram king of Tyre sent his servants to Solomon when he heard that they had anointed him king in place of his father, for Hiram always loved David.",
+      "text": " Now Hiram king of Tyre sent his servants to Solomon when he heard that they had anointed him king in place of his father, for Hiram always loved David.",
       "verse": 1,
       "type": "newline"
     },
@@ -17,15 +18,15 @@
       "verse": 2
     },
     {
-      "text": "“You know that David my father could not build a house for the name of the  his God because of the warfare with which his enemies surrounded him, until the  put them under the soles of his feet.",
+      "text": "“You know that David my father could not build a house for the name of the Lord his God because of the warfare with which his enemies surrounded him, until the Lord put them under the soles of his feet.",
       "verse": 3
     },
     {
-      "text": "But now the  my God has given me rest on every side. There is neither adversary nor misfortune.",
+      "text": "But now the Lord my God has given me rest on every side. There is neither adversary nor misfortune.",
       "verse": 4
     },
     {
-      "text": "And so I intend to build a house for the name of the  my God, as the  said to David my father, ‘Your son, whom I will set on your throne in your place, shall build the house for my name.’",
+      "text": "And so I intend to build a house for the name of the Lord my God, as the Lord said to David my father, ‘Your son, whom I will set on your throne in your place, shall build the house for my name.’",
       "verse": 5
     },
     {
@@ -33,7 +34,7 @@
       "verse": 6
     },
     {
-      "text": "As soon as Hiram heard the words of Solomon, he rejoiced greatly and said, “Blessed be the  this day, who has given to David a wise son to be over this great people.”",
+      "text": "As soon as Hiram heard the words of Solomon, he rejoiced greatly and said, “Blessed be the Lord this day, who has given to David a wise son to be over this great people.”",
       "verse": 7,
       "type": "newline"
     },
@@ -54,7 +55,7 @@
       "verse": 11
     },
     {
-      "text": "And the  gave Solomon wisdom, as he promised him. And there was peace between Hiram and Solomon, and the two of them made a treaty.",
+      "text": "And the Lord gave Solomon wisdom, as he promised him. And there was peace between Hiram and Solomon, and the two of them made a treaty.",
       "verse": 12
     },
     {

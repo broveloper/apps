@@ -2,9 +2,10 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 3,
+  "verses": 35,
   "content": [
     {
-      "text": "Trust in the  with All Your Heart",
+      "text": "Trust in the Lord with All Your Heart",
       "type": "heading"
     },
     {
@@ -53,7 +54,7 @@
       "type": "poetry"
     },
     {
-      "text": "Trust in the  with all your heart,",
+      "text": "Trust in the Lord with all your heart,",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "fear the , and turn away from evil.",
+      "text": "fear the Lord, and turn away from evil.",
       "verse": 7,
       "type": "poetry"
     },
@@ -93,7 +94,7 @@
       "type": "poetry"
     },
     {
-      "text": "Honor the  with your wealth",
+      "text": "Honor the Lord with your wealth",
       "verse": 9,
       "type": "poetry newline"
     },
@@ -113,7 +114,7 @@
       "type": "poetry"
     },
     {
-      "text": "My son, do not despise the 's discipline",
+      "text": "My son, do not despise the Lord's discipline",
       "verse": 11,
       "type": "poetry newline"
     },
@@ -123,7 +124,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  reproves him whom he loves,",
+      "text": "for the Lord reproves him whom he loves,",
       "verse": 12,
       "type": "poetry"
     },
@@ -197,7 +198,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  by wisdom founded the earth;",
+      "text": "The Lord by wisdom founded the earth;",
       "verse": 19,
       "type": "poetry newline"
     },
@@ -267,7 +268,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  will be your confidence",
+      "text": "for the Lord will be your confidence",
       "verse": 26,
       "type": "poetry"
     },
@@ -327,7 +328,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the devious person is an abomination to the ,",
+      "text": "for the devious person is an abomination to the Lord,",
       "verse": 32,
       "type": "poetry"
     },
@@ -337,7 +338,7 @@
       "type": "poetry"
     },
     {
-      "text": "The 's curse is on the house of the wicked,",
+      "text": "The Lord's curse is on the house of the wicked,",
       "verse": 33,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 14,
+  "verses": 7,
   "content": [
     {
       "text": "Psalm 14",
@@ -9,8 +10,7 @@
     },
     {
       "text": "For the director of music. Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "The fool says in his heart,",
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  looks down from heaven",
+      "text": "The Lord looks down from heaven",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -78,7 +78,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "they never call on the .",
+      "text": "they never call on the Lord.",
       "verse": 4,
       "type": "poetry"
     },
@@ -98,7 +98,7 @@
       "type": "poetry"
     },
     {
-      "text": "but the  is their refuge.",
+      "text": "but the Lord is their refuge.",
       "verse": 6,
       "type": "poetry"
     },
@@ -108,7 +108,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "When the  restores his people,",
+      "text": "When the Lord restores his people,",
       "verse": 7,
       "type": "poetry"
     },

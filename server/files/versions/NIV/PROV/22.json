@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 22,
+  "verses": 29,
   "content": [
     {
       "text": "A good name is more desirable than great riches;",
@@ -19,7 +20,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "The  is the Maker of them all.",
+      "text": "The Lord is the Maker of them all.",
       "verse": 2,
       "type": "poetry"
     },
@@ -34,7 +35,7 @@
       "type": "poetry"
     },
     {
-      "text": "Humility is the fear of the ;",
+      "text": "Humility is the fear of the Lord;",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -114,7 +115,7 @@
       "type": "poetry"
     },
     {
-      "text": "The eyes of the  keep watch over knowledge,",
+      "text": "The eyes of the Lord keep watch over knowledge,",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -139,7 +140,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "a man who is under the ’s wrath falls into it.",
+      "text": "a man who is under the Lord’s wrath falls into it.",
       "verse": 14,
       "type": "poetry"
     },
@@ -169,8 +170,7 @@
     },
     {
       "text": "Saying 1",
-      "verse": 17,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Pay attention and turn your ear to the sayings of the wise;",
@@ -193,7 +193,7 @@
       "type": "poetry"
     },
     {
-      "text": "So that your trust may be in the ,",
+      "text": "So that your trust may be in the Lord,",
       "verse": 19,
       "type": "poetry"
     },
@@ -229,8 +229,7 @@
     },
     {
       "text": "Saying 2",
-      "verse": 22,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Do not exploit the poor because they are poor",
@@ -243,7 +242,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  will take up their case",
+      "text": "for the Lord will take up their case",
       "verse": 23,
       "type": "poetry"
     },
@@ -254,8 +253,7 @@
     },
     {
       "text": "Saying 3",
-      "verse": 24,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Do not make friends with a hot-tempered person,",
@@ -279,8 +277,7 @@
     },
     {
       "text": "Saying 4",
-      "verse": 26,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Do not be one who shakes hands in pledge",
@@ -304,8 +301,7 @@
     },
     {
       "text": "Saying 5",
-      "verse": 28,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Do not move an ancient boundary stone",
@@ -319,8 +315,7 @@
     },
     {
       "text": "Saying 6",
-      "verse": 29,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Do you see someone skilled in their work?",

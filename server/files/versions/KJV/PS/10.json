@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 10,
+  "verses": 18,
   "content": [
     {
-      "text": "Why standest thou afar off, O ? why hidest thou thyself in times of trouble?",
+      "text": "Why standest thou afar off, O Lord? why hidest thou thyself in times of trouble?",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "For the wicked boasteth of his heart's desire, and blesseth the covetous, whom the  abhorreth.",
+      "text": "For the wicked boasteth of his heart's desire, and blesseth the covetous, whom the Lord abhorreth.",
       "verse": 3,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "Arise, O ; O God, lift up thine hand: forget not the humble.",
+      "text": "Arise, O Lord; O God, lift up thine hand: forget not the humble.",
       "verse": 12,
       "type": "newline"
     },
@@ -78,12 +79,12 @@
       "type": "newline"
     },
     {
-      "text": "The  is King for ever and ever: the heathen are perished out of his land.",
+      "text": "The Lord is King for ever and ever: the heathen are perished out of his land.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": ", thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:",
+      "text": "Lord, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:",
       "verse": 17,
       "type": "newline"
     },

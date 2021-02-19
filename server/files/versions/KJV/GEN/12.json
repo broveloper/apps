@@ -2,9 +2,10 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 12,
+  "verses": 20,
   "content": [
     {
-      "text": "Now the  had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee:",
+      "text": "Now the Lord had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee:",
       "verse": 1
     },
     {
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "So Abram departed, as the  had spoken unto him; and Lot went with him: and Abram was seventy and five years old when he departed out of Haran.",
+      "text": "So Abram departed, as the Lord had spoken unto him; and Lot went with him: and Abram was seventy and five years old when he departed out of Haran.",
       "verse": 4,
       "type": "newline"
     },
@@ -33,12 +34,12 @@
       "type": "newline"
     },
     {
-      "text": "And the  appeared unto Abram, and said, Unto thy seed will I give this land: and there builded he an altar unto the , who appeared unto him.",
+      "text": "And the Lord appeared unto Abram, and said, Unto thy seed will I give this land: and there builded he an altar unto the Lord, who appeared unto him.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "And he removed from thence unto a mountain on the east of Bethel, and pitched his tent, having Bethel on the west, and Hai on the east: and there he builded an altar unto the , and called upon the name of the .",
+      "text": "And he removed from thence unto a mountain on the east of Bethel, and pitched his tent, having Bethel on the west, and Hai on the east: and there he builded an altar unto the Lord, and called upon the name of the Lord.",
       "verse": 8,
       "type": "newline"
     },
@@ -83,7 +84,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  plagued Pharaoh and his house with great plagues because of Sarai Abram's wife.",
+      "text": "And the Lord plagued Pharaoh and his house with great plagues because of Sarai Abram's wife.",
       "verse": 17,
       "type": "newline"
     },

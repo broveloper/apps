@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 29,
+  "verses": 35,
   "content": [
     {
       "text": "Jacob Arrives in Paddan Aram",
@@ -171,16 +172,16 @@
       "type": "heading"
     },
     {
-      "text": "When the  saw that Leah was not loved, he enabled her to conceive, but Rachel remained childless.",
+      "text": "When the Lord saw that Leah was not loved, he enabled her to conceive, but Rachel remained childless.",
       "verse": 31,
       "type": "newline"
     },
     {
-      "text": "Leah became pregnant and gave birth to a son. She named him Reuben, for she said, “It is because the  has seen my misery. Surely my husband will love me now.”",
+      "text": "Leah became pregnant and gave birth to a son. She named him Reuben, for she said, “It is because the Lord has seen my misery. Surely my husband will love me now.”",
       "verse": 32
     },
     {
-      "text": "She conceived again, and when she gave birth to a son she said, “Because the  heard that I am not loved, he gave me this one too.” So she named him Simeon.",
+      "text": "She conceived again, and when she gave birth to a son she said, “Because the Lord heard that I am not loved, he gave me this one too.” So she named him Simeon.",
       "verse": 33,
       "type": "newline"
     },
@@ -190,7 +191,7 @@
       "type": "newline"
     },
     {
-      "text": "She conceived again, and when she gave birth to a son she said, “This time I will praise the .” So she named him Judah. Then she stopped having children.",
+      "text": "She conceived again, and when she gave birth to a son she said, “This time I will praise the Lord.” So she named him Judah. Then she stopped having children.",
       "verse": 35,
       "type": "newline"
     }

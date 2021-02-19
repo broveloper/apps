@@ -2,6 +2,7 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 11,
+  "verses": 27,
   "content": [
     {
       "text": "And it came to pass, after the year was expired, at the time when kings go forth to battle, that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah. But David tarried still at Jerusalem.",
@@ -133,7 +134,7 @@
       "type": "newline"
     },
     {
-      "text": "And when the mourning was past, David sent and fetched her to his house, and she became his wife, and bare him a son. But the thing that David had done displeased the .",
+      "text": "And when the mourning was past, David sent and fetched her to his house, and she became his wife, and bare him a son. But the thing that David had done displeased the Lord.",
       "verse": 27,
       "type": "newline"
     }

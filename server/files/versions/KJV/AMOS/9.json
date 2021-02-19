@@ -2,9 +2,10 @@
   "book_id": "AMOS",
   "book_name": "Amos",
   "chapter": 9,
+  "verses": 15,
   "content": [
     {
-      "text": "I saw the  standing upon the altar: and he said, Smite the lintel of the door, that the posts may shake: and cut them in the head, all of them; and I will slay the last of them with the sword: he that fleeth of them shall not flee away, and he that escapeth of them shall not be delivered.",
+      "text": "I saw the Lord standing upon the altar: and he said, Smite the lintel of the door, that the posts may shake: and cut them in the head, all of them; and I will slay the last of them with the sword: he that fleeth of them shall not flee away, and he that escapeth of them shall not be delivered.",
       "verse": 1
     },
     {
@@ -23,22 +24,22 @@
       "type": "newline"
     },
     {
-      "text": "And the Lord  of hosts is he that toucheth the land, and it shall melt, and all that dwell therein shall mourn: and it shall rise up wholly like a flood; and shall be drowned, as by the flood of Egypt.",
+      "text": "And the Lord God of hosts is he that toucheth the land, and it shall melt, and all that dwell therein shall mourn: and it shall rise up wholly like a flood; and shall be drowned, as by the flood of Egypt.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "It is he that buildeth his stories in the heaven, and hath founded his troop in the earth; he that calleth for the waters of the sea, and poureth them out upon the face of the earth: The  is his name.",
+      "text": "It is he that buildeth his stories in the heaven, and hath founded his troop in the earth; he that calleth for the waters of the sea, and poureth them out upon the face of the earth: The Lord is his name.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "Are ye not as children of the Ethiopians unto me, O children of Israel? saith the . Have not I brought up Israel out of the land of Egypt? and the Philistines from Caphtor, and the Syrians from Kir?",
+      "text": "Are ye not as children of the Ethiopians unto me, O children of Israel? saith the Lord. Have not I brought up Israel out of the land of Egypt? and the Philistines from Caphtor, and the Syrians from Kir?",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "Behold, the eyes of the Lord  are upon the sinful kingdom, and I will destroy it from off the face of the earth; saving that I will not utterly destroy the house of Jacob, saith the .",
+      "text": "Behold, the eyes of the Lord God are upon the sinful kingdom, and I will destroy it from off the face of the earth; saving that I will not utterly destroy the house of Jacob, saith the Lord.",
       "verse": 8,
       "type": "newline"
     },
@@ -58,12 +59,12 @@
       "type": "newline"
     },
     {
-      "text": "That they may possess the remnant of Edom, and of all the heathen, which are called by my name, saith the  that doeth this.",
+      "text": "That they may possess the remnant of Edom, and of all the heathen, which are called by my name, saith the Lord that doeth this.",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "Behold, the days come, saith the , that the plowman shall overtake the reaper, and the treader of grapes him that soweth seed; and the mountains shall drop sweet wine, and all the hills shall melt.",
+      "text": "Behold, the days come, saith the Lord, that the plowman shall overtake the reaper, and the treader of grapes him that soweth seed; and the mountains shall drop sweet wine, and all the hills shall melt.",
       "verse": 13,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "And I will plant them upon their land, and they shall no more be pulled up out of their land which I have given them, saith the  thy God.",
+      "text": "And I will plant them upon their land, and they shall no more be pulled up out of their land which I have given them, saith the Lord thy God.",
       "verse": 15,
       "type": "newline"
     }

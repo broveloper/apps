@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 17,
+  "verses": 14,
   "content": [
     {
       "text": "A Prophecy Against Damascus",
@@ -58,7 +59,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the  Almighty.",
+      "text": "declares the Lord Almighty.",
       "verse": 3,
       "type": "poetry"
     },
@@ -113,7 +114,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the , the God of Israel.",
+      "text": "declares the Lord, the God of Israel.",
       "verse": 6,
       "type": "poetry"
     },

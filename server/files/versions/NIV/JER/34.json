@@ -2,18 +2,19 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 34,
+  "verses": 22,
   "content": [
     {
       "text": "Warning to Zedekiah",
       "type": "heading"
     },
     {
-      "text": "While Nebuchadnezzar king of Babylon and all his army and all the kingdoms and peoples in the empire he ruled were fighting against Jerusalem and all its surrounding towns, this word came to Jeremiah from the :",
+      "text": "While Nebuchadnezzar king of Babylon and all his army and all the kingdoms and peoples in the empire he ruled were fighting against Jerusalem and all its surrounding towns, this word came to Jeremiah from the Lord:",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“This is what the , the God of Israel, says: Go to Zedekiah king of Judah and tell him, ‘This is what the  says: I am about to give this city into the hands of the king of Babylon, and he will burn it down.",
+      "text": "“This is what the Lord, the God of Israel, says: Go to Zedekiah king of Judah and tell him, ‘This is what the Lord says: I am about to give this city into the hands of the king of Babylon, and he will burn it down.",
       "verse": 2
     },
     {
@@ -21,12 +22,12 @@
       "verse": 3
     },
     {
-      "text": "“‘Yet hear the ’s promise to you, Zedekiah king of Judah. This is what the  says concerning you: You will not die by the sword;",
+      "text": "“‘Yet hear the Lord’s promise to you, Zedekiah king of Judah. This is what the Lord says concerning you: You will not die by the sword;",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "you will die peacefully. As people made a funeral fire in honor of your predecessors, the kings who ruled before you, so they will make a fire in your honor and lament, “Alas, master!” I myself make this promise, declares the .’”",
+      "text": "you will die peacefully. As people made a funeral fire in honor of your predecessors, the kings who ruled before you, so they will make a fire in your honor and lament, “Alas, master!” I myself make this promise, declares the Lord.’”",
       "verse": 5
     },
     {
@@ -43,7 +44,7 @@
       "type": "heading"
     },
     {
-      "text": "The word came to Jeremiah from the  after King Zedekiah had made a covenant with all the people in Jerusalem to proclaim freedom for the slaves.",
+      "text": "The word came to Jeremiah from the Lord after King Zedekiah had made a covenant with all the people in Jerusalem to proclaim freedom for the slaves.",
       "verse": 8,
       "type": "newline"
     },
@@ -60,12 +61,12 @@
       "verse": 11
     },
     {
-      "text": "Then the word of the  came to Jeremiah:",
+      "text": "Then the word of the Lord came to Jeremiah:",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "“This is what the , the God of Israel, says: I made a covenant with your ancestors when I brought them out of Egypt, out of the land of slavery. I said,",
+      "text": "“This is what the Lord, the God of Israel, says: I made a covenant with your ancestors when I brought them out of Egypt, out of the land of slavery. I said,",
       "verse": 13
     },
     {
@@ -81,7 +82,7 @@
       "verse": 16
     },
     {
-      "text": "“Therefore this is what the  says: You have not obeyed me; you have not proclaimed freedom to your own people. So I now proclaim ‘freedom’ for you, declares the —‘freedom’ to fall by the sword, plague and famine. I will make you abhorrent to all the kingdoms of the earth.",
+      "text": "“Therefore this is what the Lord says: You have not obeyed me; you have not proclaimed freedom to your own people. So I now proclaim ‘freedom’ for you, declares the Lord—‘freedom’ to fall by the sword, plague and famine. I will make you abhorrent to all the kingdoms of the earth.",
       "verse": 17,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "I am going to give the order, declares the , and I will bring them back to this city. They will fight against it, take it and burn it down. And I will lay waste the towns of Judah so no one can live there.”",
+      "text": "I am going to give the order, declares the Lord, and I will bring them back to this city. They will fight against it, take it and burn it down. And I will lay waste the towns of Judah so no one can live there.”",
       "verse": 22
     }
   ]

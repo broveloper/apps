@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 21,
+  "verses": 46,
   "content": [
     {
       "text": "The Triumphal Entry",
@@ -13,11 +14,11 @@
       "type": "newline"
     },
     {
-      "text": "saying to them,",
+      "text": "saying to them, “Go into the village in front of you, and immediately you will find a donkey tied, and a colt with her. Untie them and bring them to me.",
       "verse": 2
     },
     {
-      "text": "",
+      "text": "If anyone says anything to you, you shall say, ‘The Lord needs them,’ and he will send them at once.”",
       "verse": 3
     },
     {
@@ -79,7 +80,7 @@
       "type": "newline"
     },
     {
-      "text": "He said to them,",
+      "text": "He said to them, “It is written, ‘My house shall be called a house of prayer,’ but you make it a den of robbers.”",
       "verse": 13
     },
     {
@@ -92,16 +93,16 @@
       "verse": 15
     },
     {
-      "text": "and they said to him, “Do you hear what these are saying?” And Jesus said to them,",
+      "text": "and they said to him, “Do you hear what these are saying?” And Jesus said to them, “Yes; have you never read,",
       "verse": 16
     },
     {
-      "text": "",
+      "text": "“‘Out of the mouth of infants and nursing babies",
       "verse": 16,
       "type": "poetry newline"
     },
     {
-      "text": "",
+      "text": "you have prepared praise’?”",
       "verse": 16,
       "type": "poetry"
     },
@@ -120,7 +121,7 @@
       "type": "newline"
     },
     {
-      "text": "And seeing a fig tree by the wayside, he went to it and found nothing on it but only leaves. And he said to it,  And the fig tree withered at once.",
+      "text": "And seeing a fig tree by the wayside, he went to it and found nothing on it but only leaves. And he said to it, “May no fruit ever come from you again!” And the fig tree withered at once.",
       "verse": 19
     },
     {
@@ -129,11 +130,11 @@
       "type": "newline"
     },
     {
-      "text": "And Jesus answered them,",
+      "text": "And Jesus answered them, “Truly, I say to you, if you have faith and do not doubt, you will not only do what has been done to the fig tree, but even if you say to this mountain, ‘Be taken up and thrown into the sea,’ it will happen.",
       "verse": 21
     },
     {
-      "text": "",
+      "text": "And whatever you ask in prayer, you will receive, if you have faith.”",
       "verse": 22
     },
     {
@@ -146,11 +147,11 @@
       "type": "newline"
     },
     {
-      "text": "Jesus answered them,",
+      "text": "Jesus answered them, “I also will ask you one question, and if you tell me the answer, then I also will tell you by what authority I do these things.",
       "verse": 24
     },
     {
-      "text": "And they discussed it among themselves, saying, “If we say, ‘From heaven,’ he will say to us, ‘Why then did you not believe him?’",
+      "text": "The baptism of John, from where did it come? From heaven or from man?” And they discussed it among themselves, saying, “If we say, ‘From heaven,’ he will say to us, ‘Why then did you not believe him?’",
       "verse": 25
     },
     {
@@ -158,7 +159,7 @@
       "verse": 26
     },
     {
-      "text": "So they answered Jesus, “We do not know.” And he said to them,",
+      "text": "So they answered Jesus, “We do not know.” And he said to them, “Neither will I tell you by what authority I do these things.",
       "verse": 27
     },
     {
@@ -166,24 +167,24 @@
       "type": "heading"
     },
     {
-      "text": "",
+      "text": "“What do you think? A man had two sons. And he went to the first and said, ‘Son, go and work in the vineyard today.’",
       "verse": 28,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "And he answered, ‘I will not,’ but afterward he changed his mind and went.",
       "verse": 29
     },
     {
-      "text": "",
+      "text": "And he went to the other son and said the same. And he answered, ‘I go, sir,’ but did not go.",
       "verse": 30
     },
     {
-      "text": "They said, “The first.” Jesus said to them,",
+      "text": "Which of the two did the will of his father?” They said, “The first.” Jesus said to them, “Truly, I say to you, the tax collectors and the prostitutes go into the kingdom of God before you.",
       "verse": 31
     },
     {
-      "text": "",
+      "text": "For John came to you in the way of righteousness, and you did not believe him, but the tax collectors and the prostitutes believed him. And even when you saw it, you did not afterward change your minds and believe him.",
       "verse": 32
     },
     {
@@ -191,36 +192,36 @@
       "type": "heading"
     },
     {
-      "text": "",
+      "text": "“Hear another parable. There was a master of a house who planted a vineyard and put a fence around it and dug a winepress in it and built a tower and leased it to tenants, and went into another country.",
       "verse": 33,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "When the season for fruit drew near, he sent his servants to the tenants to get his fruit.",
       "verse": 34
     },
     {
-      "text": "",
+      "text": "And the tenants took his servants and beat one, killed another, and stoned another.",
       "verse": 35
     },
     {
-      "text": "",
+      "text": "Again he sent other servants, more than the first. And they did the same to them.",
       "verse": 36
     },
     {
-      "text": "",
+      "text": "Finally he sent his son to them, saying, ‘They will respect my son.’",
       "verse": 37
     },
     {
-      "text": "",
+      "text": "But when the tenants saw the son, they said to themselves, ‘This is the heir. Come, let us kill him and have his inheritance.’",
       "verse": 38
     },
     {
-      "text": "",
+      "text": "And they took him and threw him out of the vineyard and killed him.",
       "verse": 39
     },
     {
-      "text": "",
+      "text": "When therefore the owner of the vineyard comes, what will he do to those tenants?”",
       "verse": 40
     },
     {
@@ -228,37 +229,37 @@
       "verse": 41
     },
     {
-      "text": "Jesus said to them,",
+      "text": "Jesus said to them, “Have you never read in the Scriptures:",
       "verse": 42,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“‘The stone that the builders rejected",
       "verse": 42,
       "type": "poetry newline"
     },
     {
-      "text": "",
+      "text": "has become the cornerstone;",
       "verse": 42,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "this was the Lord's doing,",
       "verse": 42,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "and it is marvelous in our eyes’?",
       "verse": 42,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "Therefore I tell you, the kingdom of God will be taken away from you and given to a people producing its fruits.",
       "verse": 43,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "And the one who falls on this stone will be broken to pieces; and when it falls on anyone, it will crush him.”",
       "verse": 44
     },
     {

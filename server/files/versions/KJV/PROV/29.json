@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 29,
+  "verses": 27,
   "content": [
     {
       "text": "He, that being often reproved hardeneth his neck, shall suddenly be destroyed, and that without remedy.",
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "The poor and the deceitful man meet together: the  lighteneth both their eyes.",
+      "text": "The poor and the deceitful man meet together: the Lord lighteneth both their eyes.",
       "verse": 13,
       "type": "newline"
     },
@@ -123,12 +124,12 @@
       "type": "newline"
     },
     {
-      "text": "The fear of man bringeth a snare: but whoso putteth his trust in the  shall be safe.",
+      "text": "The fear of man bringeth a snare: but whoso putteth his trust in the Lord shall be safe.",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "Many seek the ruler's favour; but every man's judgment cometh from the .",
+      "text": "Many seek the ruler's favour; but every man's judgment cometh from the Lord.",
       "verse": 26,
       "type": "newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 41,
+  "verses": 13,
   "content": [
     {
       "text": "Psalm 41",
@@ -9,8 +10,7 @@
     },
     {
       "text": "For the director of music. A psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Blessed are those who have regard for the weak;",
@@ -18,12 +18,12 @@
       "type": "poetry newline"
     },
     {
-      "text": "the  delivers them in times of trouble.",
+      "text": "the Lord delivers them in times of trouble.",
       "verse": 1,
       "type": "poetry"
     },
     {
-      "text": "The  protects and preserves them—",
+      "text": "The Lord protects and preserves them—",
       "verse": 2,
       "type": "poetry"
     },
@@ -38,7 +38,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  sustains them on their sickbed",
+      "text": "The Lord sustains them on their sickbed",
       "verse": 3,
       "type": "poetry"
     },
@@ -48,7 +48,7 @@
       "type": "poetry"
     },
     {
-      "text": "I said, “Have mercy on me, ;",
+      "text": "I said, “Have mercy on me, Lord;",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -123,7 +123,7 @@
       "type": "poetry"
     },
     {
-      "text": "But may you have mercy on me, ;",
+      "text": "But may you have mercy on me, Lord;",
       "verse": 10,
       "type": "poetry newline"
     },
@@ -153,7 +153,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise be to the , the God of Israel,",
+      "text": "Praise be to the Lord, the God of Israel,",
       "verse": 13,
       "type": "poetry newline"
     },

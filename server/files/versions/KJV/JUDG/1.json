@@ -2,13 +2,14 @@
   "book_id": "JUDG",
   "book_name": "Judges",
   "chapter": 1,
+  "verses": 36,
   "content": [
     {
-      "text": "Now after the death of Joshua it came to pass, that the children of Israel asked the , saying, Who shall go up for us against the Canaanites first, to fight against them?",
+      "text": "Now after the death of Joshua it came to pass, that the children of Israel asked the Lord, saying, Who shall go up for us against the Canaanites first, to fight against them?",
       "verse": 1
     },
     {
-      "text": "And the  said, Judah shall go up: behold, I have delivered the land into his hand.",
+      "text": "And the Lord said, Judah shall go up: behold, I have delivered the land into his hand.",
       "verse": 2,
       "type": "newline"
     },
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "And Judah went up; and the  delivered the Canaanites and the Perizzites into their hand: and they slew of them in Bezek ten thousand men.",
+      "text": "And Judah went up; and the Lord delivered the Canaanites and the Perizzites into their hand: and they slew of them in Bezek ten thousand men.",
       "verse": 4,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  was with Judah; and he drave out the inhabitants of the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron.",
+      "text": "And the Lord was with Judah; and he drave out the inhabitants of the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron.",
       "verse": 19,
       "type": "newline"
     },
@@ -108,7 +109,7 @@
       "type": "newline"
     },
     {
-      "text": "And the house of Joseph, they also went up against Bethel: and the  was with them.",
+      "text": "And the house of Joseph, they also went up against Bethel: and the Lord was with them.",
       "verse": 22,
       "type": "newline"
     },

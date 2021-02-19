@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 38,
+  "verses": 22,
   "content": [
     {
-      "text": "Do Not Forsake Me, O",
+      "text": "Do Not Forsake Me, O Lord",
       "type": "heading"
     },
     {
       "text": "A Psalm of David, for the memorial offering.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "O , rebuke me not in your anger,",
+      "text": "O Lord, rebuke me not in your anger,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -168,7 +168,7 @@
       "type": "poetry"
     },
     {
-      "text": "But for you, O , do I wait;",
+      "text": "But for you, O Lord, do I wait;",
       "verse": 15,
       "type": "poetry newline"
     },
@@ -228,7 +228,7 @@
       "type": "poetry"
     },
     {
-      "text": "Do not forsake me, O !",
+      "text": "Do not forsake me, O Lord!",
       "verse": 21,
       "type": "poetry newline"
     },

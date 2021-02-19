@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 83,
+  "verses": 18,
   "content": [
     {
       "text": "Keep not thou silence, O God: hold not thy peace, and be not still, O God.",
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "Fill their faces with shame; that they may seek thy name, O .",
+      "text": "Fill their faces with shame; that they may seek thy name, O Lord.",
       "verse": 16,
       "type": "newline"
     },
@@ -88,7 +89,7 @@
       "type": "newline"
     },
     {
-      "text": "That men may know that thou, whose name alone is , art the most high over all the earth.",
+      "text": "That men may know that thou, whose name alone is Jehovah, art the most high over all the earth.",
       "verse": 18,
       "type": "newline"
     }

@@ -2,9 +2,10 @@
   "book_id": "AMOS",
   "book_name": "Amos",
   "chapter": 3,
+  "verses": 15,
   "content": [
     {
-      "text": "Hear this word that the  hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying,",
+      "text": "Hear this word that the Lord hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying,",
       "verse": 1
     },
     {
@@ -28,17 +29,17 @@
       "type": "newline"
     },
     {
-      "text": "Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the  hath not done it?",
+      "text": "Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the Lord hath not done it?",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "Surely the Lord  will do nothing, but he revealeth his secret unto his servants the prophets.",
+      "text": "Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "The lion hath roared, who will not fear? the Lord  hath spoken, who can but prophesy?",
+      "text": "The lion hath roared, who will not fear? the Lord God hath spoken, who can but prophesy?",
       "verse": 8,
       "type": "newline"
     },
@@ -48,22 +49,22 @@
       "type": "newline"
     },
     {
-      "text": "For they know not to do right, saith the , who store up violence and robbery in their palaces.",
+      "text": "For they know not to do right, saith the Lord, who store up violence and robbery in their palaces.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "Therefore thus saith the Lord ; An adversary there shall be even round about the land; and he shall bring down thy strength from thee, and thy palaces shall be spoiled.",
+      "text": "Therefore thus saith the Lord God; An adversary there shall be even round about the land; and he shall bring down thy strength from thee, and thy palaces shall be spoiled.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "Thus saith the ; As the shepherd taketh out of the mouth of the lion two legs, or a piece of an ear; so shall the children of Israel be taken out that dwell in Samaria in the corner of a bed, and in Damascus in a couch.",
+      "text": "Thus saith the Lord; As the shepherd taketh out of the mouth of the lion two legs, or a piece of an ear; so shall the children of Israel be taken out that dwell in Samaria in the corner of a bed, and in Damascus in a couch.",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "Hear ye, and testify in the house of Jacob, saith the Lord , the God of hosts,",
+      "text": "Hear ye, and testify in the house of Jacob, saith the Lord God, the God of hosts,",
       "verse": 13,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "And I will smite the winter house with the summer house; and the houses of ivory shall perish, and the great houses shall have an end, saith the .",
+      "text": "And I will smite the winter house with the summer house; and the houses of ivory shall perish, and the great houses shall have an end, saith the Lord.",
       "verse": 15,
       "type": "newline"
     }

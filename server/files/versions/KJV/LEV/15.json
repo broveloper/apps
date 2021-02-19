@@ -2,9 +2,10 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 15,
+  "verses": 33,
   "content": [
     {
-      "text": "And the  spake unto Moses and to Aaron, saying,",
+      "text": "And the Lord spake unto Moses and to Aaron, saying,",
       "verse": 1
     },
     {
@@ -68,12 +69,12 @@
       "type": "newline"
     },
     {
-      "text": "And on the eighth day he shall take to him two turtledoves, or two young pigeons, and come before the  unto the door of the tabernacle of the congregation, and give them unto the priest:",
+      "text": "And on the eighth day he shall take to him two turtledoves, or two young pigeons, and come before the Lord unto the door of the tabernacle of the congregation, and give them unto the priest:",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "And the priest shall offer them, the one for a sin offering, and the other for a burnt offering; and the priest shall make an atonement for him before the  for his issue.",
+      "text": "And the priest shall offer them, the one for a sin offering, and the other for a burnt offering; and the priest shall make an atonement for him before the Lord for his issue.",
       "verse": 15,
       "type": "newline"
     },
@@ -148,7 +149,7 @@
       "type": "newline"
     },
     {
-      "text": "And the priest shall offer the one for a sin offering, and the other for a burnt offering; and the priest shall make an atonement for her before the  for the issue of her uncleanness.",
+      "text": "And the priest shall offer the one for a sin offering, and the other for a burnt offering; and the priest shall make an atonement for her before the Lord for the issue of her uncleanness.",
       "verse": 30,
       "type": "newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 12,
+  "verses": 8,
   "content": [
     {
       "text": "The Faithful Have Vanished",
@@ -9,11 +10,10 @@
     },
     {
       "text": "To the choirmaster: according to The Sheminith. A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Save, O , for the godly one is gone;",
+      "text": "Save, O Lord, for the godly one is gone;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "May the  cut off all flattering lips,",
+      "text": "May the Lord cut off all flattering lips,",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -58,7 +58,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "I will now arise,” says the ;",
+      "text": "I will now arise,” says the Lord;",
       "verse": 5,
       "type": "poetry"
     },
@@ -68,7 +68,7 @@
       "type": "poetry"
     },
     {
-      "text": "The words of the  are pure words,",
+      "text": "The words of the Lord are pure words,",
       "verse": 6,
       "type": "poetry"
     },
@@ -83,7 +83,7 @@
       "type": "poetry"
     },
     {
-      "text": "You, O , will keep them;",
+      "text": "You, O Lord, will keep them;",
       "verse": 7,
       "type": "poetry newline"
     },

@@ -2,9 +2,10 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 18,
+  "verses": 23,
   "content": [
     {
-      "text": "The word which came to Jeremiah from the , saying,",
+      "text": "The word which came to Jeremiah from the Lord, saying,",
       "verse": 1
     },
     {
@@ -23,12 +24,12 @@
       "type": "newline"
     },
     {
-      "text": "Then the word of the  came to me, saying,",
+      "text": "Then the word of the Lord came to me, saying,",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "O house of Israel, cannot I do with you as this potter? saith the . Behold, as the clay is in the potter's hand, so are ye in mine hand, O house of Israel.",
+      "text": "O house of Israel, cannot I do with you as this potter? saith the Lord. Behold, as the clay is in the potter's hand, so are ye in mine hand, O house of Israel.",
       "verse": 6,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "Now therefore go to, speak to the men of Judah, and to the inhabitants of Jerusalem, saying, Thus saith the ; Behold, I frame evil against you, and devise a device against you: return ye now every one from his evil way, and make your ways and your doings good.",
+      "text": "Now therefore go to, speak to the men of Judah, and to the inhabitants of Jerusalem, saying, Thus saith the Lord; Behold, I frame evil against you, and devise a device against you: return ye now every one from his evil way, and make your ways and your doings good.",
       "verse": 11,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore thus saith the ; Ask ye now among the heathen, who hath heard such things: the virgin of Israel hath done a very horrible thing.",
+      "text": "Therefore thus saith the Lord; Ask ye now among the heathen, who hath heard such things: the virgin of Israel hath done a very horrible thing.",
       "verse": 13,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "Give heed to me, O , and hearken to the voice of them that contend with me.",
+      "text": "Give heed to me, O Lord, and hearken to the voice of them that contend with me.",
       "verse": 19,
       "type": "newline"
     },
@@ -113,7 +114,7 @@
       "type": "newline"
     },
     {
-      "text": "Yet, , thou knowest all their counsel against me to slay me: forgive not their iniquity, neither blot out their sin from thy sight, but let them be overthrown before thee; deal thus with them in the time of thine anger.",
+      "text": "Yet, Lord, thou knowest all their counsel against me to slay me: forgive not their iniquity, neither blot out their sin from thy sight, but let them be overthrown before thee; deal thus with them in the time of thine anger.",
       "verse": 23,
       "type": "newline"
     }

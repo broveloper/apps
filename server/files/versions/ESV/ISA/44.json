@@ -2,9 +2,10 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 44,
+  "verses": 28,
   "content": [
     {
-      "text": "Israel the 's Chosen",
+      "text": "Israel the Lord's Chosen",
       "type": "heading"
     },
     {
@@ -18,7 +19,7 @@
       "type": "poetry"
     },
     {
-      "text": "Thus says the  who made you,",
+      "text": "Thus says the Lord who made you,",
       "verse": 2,
       "type": "poetry"
     },
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "This one will say, ‘I am the 's,’",
+      "text": "This one will say, ‘I am the Lord's,’",
       "verse": 5,
       "type": "poetry"
     },
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "and another will write on his hand, ‘The 's,’",
+      "text": "and another will write on his hand, ‘The Lord's,’",
       "verse": 5,
       "type": "poetry"
     },
@@ -92,12 +93,12 @@
       "type": "heading"
     },
     {
-      "text": "Thus says the , the King of Israel",
+      "text": "Thus says the Lord, the King of Israel",
       "verse": 6,
       "type": "poetry newline"
     },
     {
-      "text": "and his Redeemer, the  of hosts:",
+      "text": "and his Redeemer, the Lord of hosts:",
       "verse": 6,
       "type": "poetry"
     },
@@ -212,7 +213,7 @@
       "verse": 20
     },
     {
-      "text": "The  Redeems Israel",
+      "text": "The Lord Redeems Israel",
       "type": "heading"
     },
     {
@@ -251,7 +252,7 @@
       "type": "poetry"
     },
     {
-      "text": "Sing, O heavens, for the  has done it;",
+      "text": "Sing, O heavens, for the Lord has done it;",
       "verse": 23,
       "type": "poetry newline"
     },
@@ -271,7 +272,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the  has redeemed Jacob,",
+      "text": "For the Lord has redeemed Jacob,",
       "verse": 23,
       "type": "poetry"
     },
@@ -281,7 +282,7 @@
       "type": "poetry"
     },
     {
-      "text": "Thus says the , your Redeemer,",
+      "text": "Thus says the Lord, your Redeemer,",
       "verse": 24,
       "type": "poetry newline"
     },
@@ -291,7 +292,7 @@
       "type": "poetry"
     },
     {
-      "text": "“I am the , who made all things,",
+      "text": "“I am the Lord, who made all things,",
       "verse": 24,
       "type": "poetry"
     },

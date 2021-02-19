@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 24,
+  "verses": 53,
   "content": [
     {
       "text": "The Resurrection",
@@ -78,7 +79,7 @@
       "verse": 16
     },
     {
-      "text": "And he said to them,  And they stood still, looking sad.",
+      "text": "And he said to them, “What is this conversation that you are holding with each other as you walk?” And they stood still, looking sad.",
       "verse": 17
     },
     {
@@ -86,7 +87,7 @@
       "verse": 18
     },
     {
-      "text": "And he said to them,  And they said to him, “Concerning Jesus of Nazareth, a man who was a prophet mighty in deed and word before God and all the people,",
+      "text": "And he said to them, “What things?” And they said to him, “Concerning Jesus of Nazareth, a man who was a prophet mighty in deed and word before God and all the people,",
       "verse": 19
     },
     {
@@ -110,11 +111,11 @@
       "verse": 24
     },
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “O foolish ones, and slow of heart to believe all that the prophets have spoken!",
       "verse": 25
     },
     {
-      "text": "",
+      "text": "Was it not necessary that the Christ should suffer these things and enter into his glory?”",
       "verse": 26
     },
     {
@@ -159,7 +160,7 @@
       "type": "heading"
     },
     {
-      "text": "As they were talking about these things, Jesus himself stood among them, and said to them,",
+      "text": "As they were talking about these things, Jesus himself stood among them, and said to them, “Peace to you!”",
       "verse": 36,
       "type": "newline"
     },
@@ -168,11 +169,11 @@
       "verse": 37
     },
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “Why are you troubled, and why do doubts arise in your hearts?",
       "verse": 38
     },
     {
-      "text": "",
+      "text": "See my hands and my feet, that it is I myself. Touch me, and see. For a spirit does not have flesh and bones as you see that I have.”",
       "verse": 39
     },
     {
@@ -180,7 +181,7 @@
       "verse": 40
     },
     {
-      "text": "And while they still disbelieved for joy and were marveling, he said to them,",
+      "text": "And while they still disbelieved for joy and were marveling, he said to them, “Have you anything here to eat?”",
       "verse": 41
     },
     {
@@ -192,7 +193,7 @@
       "verse": 43
     },
     {
-      "text": "Then he said to them,",
+      "text": "Then he said to them, “These are my words that I spoke to you while I was still with you, that everything written about me in the Law of Moses and the Prophets and the Psalms must be fulfilled.”",
       "verse": 44,
       "type": "newline"
     },
@@ -201,19 +202,19 @@
       "verse": 45
     },
     {
-      "text": "and said to them,",
+      "text": "and said to them, “Thus it is written, that the Christ should suffer and on the third day rise from the dead,",
       "verse": 46
     },
     {
-      "text": "",
+      "text": "and that repentance for the forgiveness of sins should be proclaimed in his name to all nations, beginning from Jerusalem.",
       "verse": 47
     },
     {
-      "text": "",
+      "text": "You are witnesses of these things.",
       "verse": 48
     },
     {
-      "text": "",
+      "text": "And behold, I am sending the promise of my Father upon you. But stay in the city until you are clothed with power from on high.”",
       "verse": 49
     },
     {

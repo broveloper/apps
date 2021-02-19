@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 18,
+  "verses": 32,
   "content": [
     {
       "text": "The Soul Who Sins Shall Die",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "As I live, declares the Lord , this proverb shall no more be used by you in Israel.",
+      "text": "As I live, declares the Lord God, this proverb shall no more be used by you in Israel.",
       "verse": 3
     },
     {
@@ -42,7 +43,7 @@
       "verse": 8
     },
     {
-      "text": "walks in my statutes, and keeps my rules by acting faithfully—he is righteous; he shall surely live, declares the Lord .",
+      "text": "walks in my statutes, and keeps my rules by acting faithfully—he is righteous; he shall surely live, declares the Lord God.",
       "verse": 9
     },
     {
@@ -102,7 +103,7 @@
       "verse": 22
     },
     {
-      "text": "Have I any pleasure in the death of the wicked, declares the Lord , and not rather that he should turn from his way and live?",
+      "text": "Have I any pleasure in the death of the wicked, declares the Lord God, and not rather that he should turn from his way and live?",
       "verse": 23
     },
     {
@@ -131,7 +132,7 @@
       "verse": 29
     },
     {
-      "text": "“Therefore I will judge you, O house of Israel, every one according to his ways, declares the Lord . Repent and turn from all your transgressions, lest iniquity be your ruin.",
+      "text": "“Therefore I will judge you, O house of Israel, every one according to his ways, declares the Lord God. Repent and turn from all your transgressions, lest iniquity be your ruin.",
       "verse": 30,
       "type": "newline"
     },
@@ -140,7 +141,7 @@
       "verse": 31
     },
     {
-      "text": "For I have no pleasure in the death of anyone, declares the Lord ; so turn, and live.”",
+      "text": "For I have no pleasure in the death of anyone, declares the Lord God; so turn, and live.”",
       "verse": 32
     }
   ]

@@ -2,9 +2,10 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 35,
+  "verses": 15,
   "content": [
     {
-      "text": "Moreover the word of the  came unto me, saying,",
+      "text": "Moreover the word of the Lord came unto me, saying,",
       "verse": 1
     },
     {
@@ -13,12 +14,12 @@
       "type": "newline"
     },
     {
-      "text": "And say unto it, Thus saith the Lord ; Behold, O mount Seir, I am against thee, and I will stretch out mine hand against thee, and I will make thee most desolate.",
+      "text": "And say unto it, Thus saith the Lord God; Behold, O mount Seir, I am against thee, and I will stretch out mine hand against thee, and I will make thee most desolate.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "I will lay thy cities waste, and thou shalt be desolate, and thou shalt know that I am the .",
+      "text": "I will lay thy cities waste, and thou shalt be desolate, and thou shalt know that I am the Lord.",
       "verse": 4,
       "type": "newline"
     },
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore, as I live, saith the Lord , I will prepare thee unto blood, and blood shall pursue thee: sith thou hast not hated blood, even blood shall pursue thee.",
+      "text": "Therefore, as I live, saith the Lord God, I will prepare thee unto blood, and blood shall pursue thee: sith thou hast not hated blood, even blood shall pursue thee.",
       "verse": 6,
       "type": "newline"
     },
@@ -43,22 +44,22 @@
       "type": "newline"
     },
     {
-      "text": "I will make thee perpetual desolations, and thy cities shall not return: and ye shall know that I am the .",
+      "text": "I will make thee perpetual desolations, and thy cities shall not return: and ye shall know that I am the Lord.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "Because thou hast said, These two nations and these two countries shall be mine, and we will possess it; whereas the  was there:",
+      "text": "Because thou hast said, These two nations and these two countries shall be mine, and we will possess it; whereas the Lord was there:",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "Therefore, as I live, saith the Lord , I will even do according to thine anger, and according to thine envy which thou hast used out of thy hatred against them; and I will make myself known among them, when I have judged thee.",
+      "text": "Therefore, as I live, saith the Lord God, I will even do according to thine anger, and according to thine envy which thou hast used out of thy hatred against them; and I will make myself known among them, when I have judged thee.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "And thou shalt know that I am the , and that I have heard all thy blasphemies which thou hast spoken against the mountains of Israel, saying, They are laid desolate, they are given us to consume.",
+      "text": "And thou shalt know that I am the Lord, and that I have heard all thy blasphemies which thou hast spoken against the mountains of Israel, saying, They are laid desolate, they are given us to consume.",
       "verse": 12,
       "type": "newline"
     },
@@ -68,12 +69,12 @@
       "type": "newline"
     },
     {
-      "text": "Thus saith the Lord ; When the whole earth rejoiceth, I will make thee desolate.",
+      "text": "Thus saith the Lord God; When the whole earth rejoiceth, I will make thee desolate.",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "As thou didst rejoice at the inheritance of the house of Israel, because it was desolate, so will I do unto thee: thou shalt be desolate, O mount Seir, and all Idumea, even all of it: and they shall know that I am the .",
+      "text": "As thou didst rejoice at the inheritance of the house of Israel, because it was desolate, so will I do unto thee: thou shalt be desolate, O mount Seir, and all Idumea, even all of it: and they shall know that I am the Lord.",
       "verse": 15,
       "type": "newline"
     }

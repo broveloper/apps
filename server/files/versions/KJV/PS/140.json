@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 140,
+  "verses": 13,
   "content": [
     {
-      "text": "Deliver me, O , from the evil man: preserve me from the violent man;",
+      "text": "Deliver me, O Lord, from the evil man: preserve me from the violent man;",
       "verse": 1
     },
     {
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "Keep me, O , from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.",
+      "text": "Keep me, O Lord, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.",
       "verse": 4,
       "type": "newline"
     },
@@ -28,17 +29,17 @@
       "type": "newline"
     },
     {
-      "text": "I said unto the , Thou art my God: hear the voice of my supplications, O .",
+      "text": "I said unto the Lord, Thou art my God: hear the voice of my supplications, O Lord.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "O  the Lord, the strength of my salvation, thou hast covered my head in the day of battle.",
+      "text": "O God the Lord, the strength of my salvation, thou hast covered my head in the day of battle.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "Grant not, O , the desires of the wicked: further not his wicked device; lest they exalt themselves. Selah.",
+      "text": "Grant not, O Lord, the desires of the wicked: further not his wicked device; lest they exalt themselves. Selah.",
       "verse": 8,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "I know that the  will maintain the cause of the afflicted, and the right of the poor.",
+      "text": "I know that the Lord will maintain the cause of the afflicted, and the right of the poor.",
       "verse": 12,
       "type": "newline"
     },

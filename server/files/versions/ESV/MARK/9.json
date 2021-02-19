@@ -2,9 +2,10 @@
   "book_id": "MARK",
   "book_name": "Mark",
   "chapter": 9,
+  "verses": 48,
   "content": [
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “Truly, I say to you, there are some standing here who will not taste death until they see the kingdom of God after it has come with power.”",
       "verse": 1
     },
     {
@@ -54,11 +55,11 @@
       "verse": 11
     },
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “Elijah does come first to restore all things. And how is it written of the Son of Man that he should suffer many things and be treated with contempt?",
       "verse": 12
     },
     {
-      "text": "",
+      "text": "But I tell you that Elijah has come, and they did to him whatever they pleased, as it is written of him.”",
       "verse": 13
     },
     {
@@ -75,7 +76,7 @@
       "verse": 15
     },
     {
-      "text": "And he asked them,",
+      "text": "And he asked them, “What are you arguing about with them?”",
       "verse": 16
     },
     {
@@ -87,7 +88,7 @@
       "verse": 18
     },
     {
-      "text": "And he answered them,",
+      "text": "And he answered them, “O faithless generation, how long am I to be with you? How long am I to bear with you? Bring him to me.”",
       "verse": 19
     },
     {
@@ -95,7 +96,7 @@
       "verse": 20
     },
     {
-      "text": "And Jesus asked his father,  And he said, “From childhood.",
+      "text": "And Jesus asked his father, “How long has this been happening to him?” And he said, “From childhood.",
       "verse": 21
     },
     {
@@ -103,7 +104,7 @@
       "verse": 22
     },
     {
-      "text": "And Jesus said to him,",
+      "text": "And Jesus said to him, “‘If you can’! All things are possible for one who believes.”",
       "verse": 23
     },
     {
@@ -111,7 +112,7 @@
       "verse": 24
     },
     {
-      "text": "And when Jesus saw that a crowd came running together, he rebuked the unclean spirit, saying to it,",
+      "text": "And when Jesus saw that a crowd came running together, he rebuked the unclean spirit, saying to it, “You mute and deaf spirit, I command you, come out of him and never enter him again.”",
       "verse": 25
     },
     {
@@ -127,7 +128,7 @@
       "verse": 28
     },
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “This kind cannot be driven out by anything but prayer.”",
       "verse": 29
     },
     {
@@ -140,7 +141,7 @@
       "type": "newline"
     },
     {
-      "text": "for he was teaching his disciples, saying to them,",
+      "text": "for he was teaching his disciples, saying to them, “The Son of Man is going to be delivered into the hands of men, and they will kill him. And when he is killed, after three days he will rise.”",
       "verse": 31
     },
     {
@@ -152,7 +153,7 @@
       "type": "heading"
     },
     {
-      "text": "And they came to Capernaum. And when he was in the house he asked them,",
+      "text": "And they came to Capernaum. And when he was in the house he asked them, “What were you discussing on the way?”",
       "verse": 33,
       "type": "newline"
     },
@@ -161,7 +162,7 @@
       "verse": 34
     },
     {
-      "text": "And he sat down and called the twelve. And he said to them,",
+      "text": "And he sat down and called the twelve. And he said to them, “If anyone would be first, he must be last of all and servant of all.”",
       "verse": 35
     },
     {
@@ -169,7 +170,7 @@
       "verse": 36
     },
     {
-      "text": "",
+      "text": "“Whoever receives one such child in my name receives me, and whoever receives me, receives not me but him who sent me.”",
       "verse": 37
     },
     {
@@ -182,15 +183,15 @@
       "type": "newline"
     },
     {
-      "text": "But Jesus said,",
+      "text": "But Jesus said, “Do not stop him, for no one who does a mighty work in my name will be able soon afterward to speak evil of me.",
       "verse": 39
     },
     {
-      "text": "",
+      "text": "For the one who is not against us is for us.",
       "verse": 40
     },
     {
-      "text": "",
+      "text": "For truly, I say to you, whoever gives you a cup of water to drink because you belong to Christ will by no means lose his reward.",
       "verse": 41
     },
     {
@@ -198,32 +199,32 @@
       "type": "heading"
     },
     {
-      "text": "",
+      "text": "“Whoever causes one of these little ones who believe in me to sin, it would be better for him if a great millstone were hung around his neck and he were thrown into the sea.",
       "verse": 42,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "And if your hand causes you to sin, cut it off. It is better for you to enter life crippled than with two hands to go to hell, to the unquenchable fire.",
       "verse": 43
     },
     {
-      "text": "",
+      "text": "And if your foot causes you to sin, cut it off. It is better for you to enter life lame than with two feet to be thrown into hell.",
       "verse": 45
     },
     {
-      "text": "",
+      "text": "And if your eye causes you to sin, tear it out. It is better for you to enter the kingdom of God with one eye than with two eyes to be thrown into hell,",
       "verse": 47
     },
     {
-      "text": "",
+      "text": "‘where their worm does not die and the fire is not quenched.’",
       "verse": 48
     },
     {
-      "text": "",
+      "text": "For everyone will be salted with fire.",
       "verse": 49
     },
     {
-      "text": "",
+      "text": "Salt is good, but if the salt has lost its saltiness, how will you make it salty again? Have salt in yourselves, and be at peace with one another.”",
       "verse": 50
     }
   ]

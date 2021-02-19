@@ -2,6 +2,7 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 23,
+  "verses": 30,
   "content": [
     {
       "text": "Balaam’s First Message",
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "Then Balaam said to Balak, “Stay here beside your offering while I go aside. Perhaps the  will come to meet with me. Whatever he reveals to me I will tell you.” Then he went off to a barren height.",
+      "text": "Then Balaam said to Balak, “Stay here beside your offering while I go aside. Perhaps the Lord will come to meet with me. Whatever he reveals to me I will tell you.” Then he went off to a barren height.",
       "verse": 3,
       "type": "newline"
     },
@@ -27,7 +28,7 @@
       "type": "newline"
     },
     {
-      "text": "The  put a word in Balaam’s mouth and said, “Go back to Balak and give him this word.”",
+      "text": "The Lord put a word in Balaam’s mouth and said, “Go back to Balak and give him this word.”",
       "verse": 5,
       "type": "newline"
     },
@@ -76,7 +77,7 @@
       "type": "poetry"
     },
     {
-      "text": "those whom the  has not denounced?",
+      "text": "those whom the Lord has not denounced?",
       "verse": 8,
       "type": "poetry"
     },
@@ -126,7 +127,7 @@
       "type": "newline"
     },
     {
-      "text": "He answered, “Must I not speak what the  puts in my mouth?”",
+      "text": "He answered, “Must I not speak what the Lord puts in my mouth?”",
       "verse": 12,
       "type": "newline"
     },
@@ -149,12 +150,12 @@
       "type": "newline"
     },
     {
-      "text": "The  met with Balaam and put a word in his mouth and said, “Go back to Balak and give him this word.”",
+      "text": "The Lord met with Balaam and put a word in his mouth and said, “Go back to Balak and give him this word.”",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "So he went to him and found him standing beside his offering, with the Moabite officials. Balak asked him, “What did the  say?”",
+      "text": "So he went to him and found him standing beside his offering, with the Moabite officials. Balak asked him, “What did the Lord say?”",
       "verse": 17,
       "type": "newline"
     },
@@ -214,7 +215,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  their God is with them;",
+      "text": "The Lord their God is with them;",
       "verse": 21,
       "type": "poetry"
     },
@@ -279,7 +280,7 @@
       "type": "newline"
     },
     {
-      "text": "Balaam answered, “Did I not tell you I must do whatever the  says?”",
+      "text": "Balaam answered, “Did I not tell you I must do whatever the Lord says?”",
       "verse": 26,
       "type": "newline"
     },

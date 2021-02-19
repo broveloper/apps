@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 1,
+  "verses": 51,
   "content": [
     {
       "text": "The Word Became Flesh",
@@ -199,7 +200,7 @@
       "type": "newline"
     },
     {
-      "text": "Turning around, Jesus saw them following and asked,",
+      "text": "Turning around, Jesus saw them following and asked, “What do you want?”",
       "verse": 38
     },
     {
@@ -208,7 +209,7 @@
       "type": "newline"
     },
     {
-      "text": "he replied,",
+      "text": "“Come,” he replied, “and you will see.”",
       "verse": 39,
       "type": "newline"
     },
@@ -231,7 +232,7 @@
       "verse": 42
     },
     {
-      "text": "Jesus looked at him and said,  (which, when translated, is Peter).",
+      "text": "Jesus looked at him and said, “You are Simon son of John. You will be called Cephas” (which, when translated, is Peter).",
       "verse": 42,
       "type": "newline"
     },
@@ -240,7 +241,7 @@
       "type": "heading"
     },
     {
-      "text": "The next day Jesus decided to leave for Galilee. Finding Philip, he said to him,",
+      "text": "The next day Jesus decided to leave for Galilee. Finding Philip, he said to him, “Follow me.”",
       "verse": 43,
       "type": "newline"
     },
@@ -264,7 +265,7 @@
       "type": "newline"
     },
     {
-      "text": "When Jesus saw Nathanael approaching, he said of him,",
+      "text": "When Jesus saw Nathanael approaching, he said of him, “Here truly is an Israelite in whom there is no deceit.”",
       "verse": 47,
       "type": "newline"
     },
@@ -274,7 +275,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “I saw you while you were still under the fig tree before Philip called you.”",
       "verse": 48,
       "type": "newline"
     },
@@ -284,12 +285,12 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said,",
+      "text": "Jesus said, “You believe because I told you I saw you under the fig tree. You will see greater things than that.”",
       "verse": 50,
       "type": "newline"
     },
     {
-      "text": "He then added,",
+      "text": "He then added, “Very truly I tell you, you will see ‘heaven open, and the angels of God ascending and descending on’ the Son of Man.”",
       "verse": 51
     }
   ]

@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 2,
+  "verses": 12,
   "content": [
     {
       "text": "Why do the heathen rage, and the people imagine a vain thing?",
       "verse": 1
     },
     {
-      "text": "The kings of the earth set themselves, and the rulers take counsel together, against the , and against his anointed, saying,",
+      "text": "The kings of the earth set themselves, and the rulers take counsel together, against the Lord, and against his anointed, saying,",
       "verse": 2,
       "type": "newline"
     },
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "He that sitteth in the heavens shall laugh: the  shall have them in derision.",
+      "text": "He that sitteth in the heavens shall laugh: the Lord shall have them in derision.",
       "verse": 4,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "I will declare the decree: the  hath said unto me, Thou art my Son; this day have I begotten thee.",
+      "text": "I will declare the decree: the Lord hath said unto me, Thou art my Son; this day have I begotten thee.",
       "verse": 7,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "Serve the  with fear, and rejoice with trembling.",
+      "text": "Serve the Lord with fear, and rejoice with trembling.",
       "verse": 11,
       "type": "newline"
     },

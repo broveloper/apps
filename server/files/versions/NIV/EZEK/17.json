@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 17,
+  "verses": 24,
   "content": [
     {
       "text": "Two Eagles and a Vine",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "Say to them, ‘This is what the Sovereign  says: A great eagle with powerful wings, long feathers and full plumage of varied colors came to Lebanon. Taking hold of the top of a cedar,",
+      "text": "Say to them, ‘This is what the Sovereign Lord says: A great eagle with powerful wings, long feathers and full plumage of varied colors came to Lebanon. Taking hold of the top of a cedar,",
       "verse": 3
     },
     {
@@ -43,7 +44,7 @@
       "verse": 8
     },
     {
-      "text": "“Say to them, ‘This is what the Sovereign  says: Will it thrive? Will it not be uprooted and stripped of its fruit so that it withers? All its new growth will wither. It will not take a strong arm or many people to pull it up by the roots.",
+      "text": "“Say to them, ‘This is what the Sovereign Lord says: Will it thrive? Will it not be uprooted and stripped of its fruit so that it withers? All its new growth will wither. It will not take a strong arm or many people to pull it up by the roots.",
       "verse": 9,
       "type": "newline"
     },
@@ -52,7 +53,7 @@
       "verse": 10
     },
     {
-      "text": "Then the word of the  came to me:",
+      "text": "Then the word of the Lord came to me:",
       "verse": 11,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "verse": 15
     },
     {
-      "text": "“‘As surely as I live, declares the Sovereign , he shall die in Babylon, in the land of the king who put him on the throne, whose oath he despised and whose treaty he broke.",
+      "text": "“‘As surely as I live, declares the Sovereign Lord, he shall die in Babylon, in the land of the king who put him on the throne, whose oath he despised and whose treaty he broke.",
       "verse": 16,
       "type": "newline"
     },
@@ -86,7 +87,7 @@
       "verse": 18
     },
     {
-      "text": "“‘Therefore this is what the Sovereign  says: As surely as I live, I will repay him for despising my oath and breaking my covenant.",
+      "text": "“‘Therefore this is what the Sovereign Lord says: As surely as I live, I will repay him for despising my oath and breaking my covenant.",
       "verse": 19,
       "type": "newline"
     },
@@ -95,11 +96,11 @@
       "verse": 20
     },
     {
-      "text": "All his choice troops will fall by the sword, and the survivors will be scattered to the winds. Then you will know that I the  have spoken.",
+      "text": "All his choice troops will fall by the sword, and the survivors will be scattered to the winds. Then you will know that I the Lord have spoken.",
       "verse": 21
     },
     {
-      "text": "“‘This is what the Sovereign  says: I myself will take a shoot from the very top of a cedar and plant it; I will break off a tender sprig from its topmost shoots and plant it on a high and lofty mountain.",
+      "text": "“‘This is what the Sovereign Lord says: I myself will take a shoot from the very top of a cedar and plant it; I will break off a tender sprig from its topmost shoots and plant it on a high and lofty mountain.",
       "verse": 22,
       "type": "newline"
     },
@@ -108,11 +109,11 @@
       "verse": 23
     },
     {
-      "text": "All the trees of the forest will know that I the  bring down the tall tree and make the low tree grow tall. I dry up the green tree and make the dry tree flourish.",
+      "text": "All the trees of the forest will know that I the Lord bring down the tall tree and make the low tree grow tall. I dry up the green tree and make the dry tree flourish.",
       "verse": 24
     },
     {
-      "text": "“‘I the  have spoken, and I will do it.’”",
+      "text": "“‘I the Lord have spoken, and I will do it.’”",
       "verse": 24,
       "type": "newline"
     }

@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 20,
+  "verses": 47,
   "content": [
     {
       "text": "The Authority of Jesus Challenged",
@@ -17,11 +18,11 @@
       "verse": 2
     },
     {
-      "text": "He answered them,",
+      "text": "He answered them, “I also will ask you a question. Now tell me,",
       "verse": 3
     },
     {
-      "text": "",
+      "text": "was the baptism of John from heaven or from man?”",
       "verse": 4
     },
     {
@@ -37,7 +38,7 @@
       "verse": 7
     },
     {
-      "text": "And Jesus said to them,",
+      "text": "And Jesus said to them, “Neither will I tell you by what authority I do these things.”",
       "verse": 8
     },
     {
@@ -45,54 +46,54 @@
       "type": "heading"
     },
     {
-      "text": "And he began to tell the people this parable:",
+      "text": "And he began to tell the people this parable: “A man planted a vineyard and let it out to tenants and went into another country for a long while.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "When the time came, he sent a servant to the tenants, so that they would give him some of the fruit of the vineyard. But the tenants beat him and sent him away empty-handed.",
       "verse": 10
     },
     {
-      "text": "",
+      "text": "And he sent another servant. But they also beat and treated him shamefully, and sent him away empty-handed.",
       "verse": 11
     },
     {
-      "text": "",
+      "text": "And he sent yet a third. This one also they wounded and cast out.",
       "verse": 12
     },
     {
-      "text": "",
+      "text": "Then the owner of the vineyard said, ‘What shall I do? I will send my beloved son; perhaps they will respect him.’",
       "verse": 13
     },
     {
-      "text": "",
+      "text": "But when the tenants saw him, they said to themselves, ‘This is the heir. Let us kill him, so that the inheritance may be ours.’",
       "verse": 14
     },
     {
-      "text": "",
+      "text": "And they threw him out of the vineyard and killed him. What then will the owner of the vineyard do to them?",
       "verse": 15
     },
     {
-      "text": "When they heard this, they said, “Surely not!”",
+      "text": "He will come and destroy those tenants and give the vineyard to others.” When they heard this, they said, “Surely not!”",
       "verse": 16
     },
     {
-      "text": "But he looked directly at them and said,",
+      "text": "But he looked directly at them and said, “What then is this that is written:",
       "verse": 17
     },
     {
-      "text": "",
+      "text": "“‘The stone that the builders rejected",
       "verse": 17,
       "type": "poetry newline"
     },
     {
-      "text": "",
+      "text": "has become the cornerstone’?",
       "verse": 17,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "Everyone who falls on that stone will be broken to pieces, and when it falls on anyone, it will crush him.”",
       "verse": 18,
       "type": "newline"
     },
@@ -122,11 +123,11 @@
       "verse": 23
     },
     {
-      "text": "They said, “Caesar's.”",
+      "text": "“Show me a denarius. Whose likeness and inscription does it have?” They said, “Caesar's.”",
       "verse": 24
     },
     {
-      "text": "He said to them,",
+      "text": "He said to them, “Then render to Caesar the things that are Caesar's, and to God the things that are God's.”",
       "verse": 25
     },
     {
@@ -167,24 +168,24 @@
       "verse": 33
     },
     {
-      "text": "And Jesus said to them,",
+      "text": "And Jesus said to them, “The sons of this age marry and are given in marriage,",
       "verse": 34,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "but those who are considered worthy to attain to that age and to the resurrection from the dead neither marry nor are given in marriage,",
       "verse": 35
     },
     {
-      "text": "",
+      "text": "for they cannot die anymore, because they are equal to angels and are sons of God, being sons of the resurrection.",
       "verse": 36
     },
     {
-      "text": "",
+      "text": "But that the dead are raised, even Moses showed, in the passage about the bush, where he calls the Lord the God of Abraham and the God of Isaac and the God of Jacob.",
       "verse": 37
     },
     {
-      "text": "",
+      "text": "Now he is not God of the dead, but of the living, for all live to him.”",
       "verse": 38
     },
     {
@@ -200,31 +201,31 @@
       "type": "heading"
     },
     {
-      "text": "But he said to them,",
+      "text": "But he said to them, “How can they say that the Christ is David's son?",
       "verse": 41,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "For David himself says in the Book of Psalms,",
       "verse": 42
     },
     {
-      "text": "",
+      "text": "“‘The Lord said to my Lord,",
       "verse": 42,
       "type": "poetry newline"
     },
     {
-      "text": "",
+      "text": "“Sit at my right hand,",
       "verse": 42,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "    until I make your enemies your footstool.”’",
       "verse": 43,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "David thus calls him Lord, so how is he his son?”",
       "verse": 44,
       "type": "newline"
     },
@@ -238,11 +239,11 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“Beware of the scribes, who like to walk around in long robes, and love greetings in the marketplaces and the best seats in the synagogues and the places of honor at feasts,",
       "verse": 46
     },
     {
-      "text": "",
+      "text": "who devour widows' houses and for a pretense make long prayers. They will receive the greater condemnation.”",
       "verse": 47
     }
   ]

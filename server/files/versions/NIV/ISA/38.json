@@ -2,32 +2,33 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 38,
+  "verses": 22,
   "content": [
     {
       "text": "Hezekiah’s Illness",
       "type": "heading"
     },
     {
-      "text": "In those days Hezekiah became ill and was at the point of death. The prophet Isaiah son of Amoz went to him and said, “This is what the  says: Put your house in order, because you are going to die; you will not recover.”",
+      "text": "In those days Hezekiah became ill and was at the point of death. The prophet Isaiah son of Amoz went to him and said, “This is what the Lord says: Put your house in order, because you are going to die; you will not recover.”",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "Hezekiah turned his face to the wall and prayed to the ,",
+      "text": "Hezekiah turned his face to the wall and prayed to the Lord,",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "“Remember, , how I have walked before you faithfully and with wholehearted devotion and have done what is good in your eyes.” And Hezekiah wept bitterly.",
+      "text": "“Remember, Lord, how I have walked before you faithfully and with wholehearted devotion and have done what is good in your eyes.” And Hezekiah wept bitterly.",
       "verse": 3
     },
     {
-      "text": "Then the word of the  came to Isaiah:",
+      "text": "Then the word of the Lord came to Isaiah:",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "“Go and tell Hezekiah, ‘This is what the , the God of your father David, says: I have heard your prayer and seen your tears; I will add fifteen years to your life.",
+      "text": "“Go and tell Hezekiah, ‘This is what the Lord, the God of your father David, says: I have heard your prayer and seen your tears; I will add fifteen years to your life.",
       "verse": 5
     },
     {
@@ -35,7 +36,7 @@
       "verse": 6
     },
     {
-      "text": "“‘This is the ’s sign to you that the  will do what he has promised:",
+      "text": "“‘This is the Lord’s sign to you that the Lord will do what he has promised:",
       "verse": 7,
       "type": "newline"
     },
@@ -64,7 +65,7 @@
       "type": "poetry"
     },
     {
-      "text": "I said, “I will not again see the  himself",
+      "text": "I said, “I will not again see the Lord himself",
       "verse": 11,
       "type": "poetry"
     },
@@ -254,7 +255,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  will save me,",
+      "text": "The Lord will save me,",
       "verse": 20,
       "type": "poetry newline"
     },
@@ -269,7 +270,7 @@
       "type": "poetry"
     },
     {
-      "text": "in the temple of the .",
+      "text": "in the temple of the Lord.",
       "verse": 20,
       "type": "poetry"
     },
@@ -279,7 +280,7 @@
       "type": "newline"
     },
     {
-      "text": "Hezekiah had asked, “What will be the sign that I will go up to the temple of the ?”",
+      "text": "Hezekiah had asked, “What will be the sign that I will go up to the temple of the Lord?”",
       "verse": 22,
       "type": "newline"
     }

@@ -2,13 +2,14 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 35,
+  "verses": 35,
   "content": [
     {
-      "text": "And Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the  hath commanded, that ye should do them.",
+      "text": "And Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the Lord hath commanded, that ye should do them.",
       "verse": 1
     },
     {
-      "text": "Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the : whosoever doeth work therein shall be put to death.",
+      "text": "Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the Lord: whosoever doeth work therein shall be put to death.",
       "verse": 2,
       "type": "newline"
     },
@@ -18,12 +19,12 @@
       "type": "newline"
     },
     {
-      "text": "And Moses spake unto all the congregation of the children of Israel, saying, This is the thing which the  commanded, saying,",
+      "text": "And Moses spake unto all the congregation of the children of Israel, saying, This is the thing which the Lord commanded, saying,",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "Take ye from among you an offering unto the : whosoever is of a willing heart, let him bring it, an offering of the ; gold, and silver, and brass,",
+      "text": "Take ye from among you an offering unto the Lord: whosoever is of a willing heart, let him bring it, an offering of the Lord; gold, and silver, and brass,",
       "verse": 5,
       "type": "newline"
     },
@@ -48,7 +49,7 @@
       "type": "newline"
     },
     {
-      "text": "And every wise hearted among you shall come, and make all that the  hath commanded;",
+      "text": "And every wise hearted among you shall come, and make all that the Lord hath commanded;",
       "verse": 10,
       "type": "newline"
     },
@@ -103,12 +104,12 @@
       "type": "newline"
     },
     {
-      "text": "And they came, every one whose heart stirred him up, and every one whom his spirit made willing, and they brought the 's offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments.",
+      "text": "And they came, every one whose heart stirred him up, and every one whom his spirit made willing, and they brought the Lord's offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments.",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "And they came, both men and women, as many as were willing hearted, and brought bracelets, and earrings, and rings, and tablets, all jewels of gold: and every man that offered offered an offering of gold unto the .",
+      "text": "And they came, both men and women, as many as were willing hearted, and brought bracelets, and earrings, and rings, and tablets, all jewels of gold: and every man that offered offered an offering of gold unto the Lord.",
       "verse": 22,
       "type": "newline"
     },
@@ -118,7 +119,7 @@
       "type": "newline"
     },
     {
-      "text": "Every one that did offer an offering of silver and brass brought the 's offering: and every man, with whom was found shittim wood for any work of the service, brought it.",
+      "text": "Every one that did offer an offering of silver and brass brought the Lord's offering: and every man, with whom was found shittim wood for any work of the service, brought it.",
       "verse": 24,
       "type": "newline"
     },
@@ -143,12 +144,12 @@
       "type": "newline"
     },
     {
-      "text": "The children of Israel brought a willing offering unto the , every man and woman, whose heart made them willing to bring for all manner of work, which the  had commanded to be made by the hand of Moses.",
+      "text": "The children of Israel brought a willing offering unto the Lord, every man and woman, whose heart made them willing to bring for all manner of work, which the Lord had commanded to be made by the hand of Moses.",
       "verse": 29,
       "type": "newline"
     },
     {
-      "text": "And Moses said unto the children of Israel, See, the  hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah;",
+      "text": "And Moses said unto the children of Israel, See, the Lord hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah;",
       "verse": 30,
       "type": "newline"
     },

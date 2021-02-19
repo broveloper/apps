@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 32,
+  "verses": 11,
   "content": [
     {
       "text": "Blessed Are the Forgiven",
@@ -9,8 +10,7 @@
     },
     {
       "text": "A Maskil of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Blessed is the one whose transgression is forgiven,",
@@ -23,7 +23,7 @@
       "type": "poetry"
     },
     {
-      "text": "Blessed is the man against whom the  counts no iniquity,",
+      "text": "Blessed is the man against whom the Lord counts no iniquity,",
       "verse": 2,
       "type": "poetry"
     },
@@ -48,7 +48,7 @@
       "type": "poetry"
     },
     {
-      "text": "my strength was dried up as by the heat of summer.",
+      "text": "my strength was dried up as by the heat of summer. Selah",
       "verse": 4,
       "type": "poetry"
     },
@@ -63,12 +63,12 @@
       "type": "poetry"
     },
     {
-      "text": "I said, “I will confess my transgressions to the ,”",
+      "text": "I said, “I will confess my transgressions to the Lord,”",
       "verse": 5,
       "type": "poetry"
     },
     {
-      "text": "and you forgave the iniquity of my sin.",
+      "text": "and you forgave the iniquity of my sin. Selah",
       "verse": 5,
       "type": "poetry"
     },
@@ -103,7 +103,7 @@
       "type": "poetry"
     },
     {
-      "text": "you surround me with shouts of deliverance.",
+      "text": "you surround me with shouts of deliverance. Selah",
       "verse": 7,
       "type": "poetry"
     },
@@ -138,12 +138,12 @@
       "type": "poetry newline"
     },
     {
-      "text": "but steadfast love surrounds the one who trusts in the .",
+      "text": "but steadfast love surrounds the one who trusts in the Lord.",
       "verse": 10,
       "type": "poetry"
     },
     {
-      "text": "Be glad in the , and rejoice, O righteous,",
+      "text": "Be glad in the Lord, and rejoice, O righteous,",
       "verse": 11,
       "type": "poetry"
     },

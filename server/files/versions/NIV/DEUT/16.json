@@ -2,18 +2,19 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 16,
+  "verses": 22,
   "content": [
     {
       "text": "The Passover",
       "type": "heading"
     },
     {
-      "text": "Observe the month of Aviv and celebrate the Passover of the  your God, because in the month of Aviv he brought you out of Egypt by night.",
+      "text": "Observe the month of Aviv and celebrate the Passover of the Lord your God, because in the month of Aviv he brought you out of Egypt by night.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "Sacrifice as the Passover to the  your God an animal from your flock or herd at the place the  will choose as a dwelling for his Name.",
+      "text": "Sacrifice as the Passover to the Lord your God an animal from your flock or herd at the place the Lord will choose as a dwelling for his Name.",
       "verse": 2
     },
     {
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "You must not sacrifice the Passover in any town the  your God gives you",
+      "text": "You must not sacrifice the Passover in any town the Lord your God gives you",
       "verse": 5,
       "type": "newline"
     },
@@ -34,11 +35,11 @@
       "verse": 6
     },
     {
-      "text": "Roast it and eat it at the place the  your God will choose. Then in the morning return to your tents.",
+      "text": "Roast it and eat it at the place the Lord your God will choose. Then in the morning return to your tents.",
       "verse": 7
     },
     {
-      "text": "For six days eat unleavened bread and on the seventh day hold an assembly to the  your God and do no work.",
+      "text": "For six days eat unleavened bread and on the seventh day hold an assembly to the Lord your God and do no work.",
       "verse": 8
     },
     {
@@ -51,11 +52,11 @@
       "type": "newline"
     },
     {
-      "text": "Then celebrate the Festival of Weeks to the  your God by giving a freewill offering in proportion to the blessings the  your God has given you.",
+      "text": "Then celebrate the Festival of Weeks to the Lord your God by giving a freewill offering in proportion to the blessings the Lord your God has given you.",
       "verse": 10
     },
     {
-      "text": "And rejoice before the  your God at the place he will choose as a dwelling for his Name—you, your sons and daughters, your male and female servants, the Levites in your towns, and the foreigners, the fatherless and the widows living among you.",
+      "text": "And rejoice before the Lord your God at the place he will choose as a dwelling for his Name—you, your sons and daughters, your male and female servants, the Levites in your towns, and the foreigners, the fatherless and the widows living among you.",
       "verse": 11
     },
     {
@@ -76,16 +77,16 @@
       "verse": 14
     },
     {
-      "text": "For seven days celebrate the festival to the  your God at the place the  will choose. For the  your God will bless you in all your harvest and in all the work of your hands, and your joy will be complete.",
+      "text": "For seven days celebrate the festival to the Lord your God at the place the Lord will choose. For the Lord your God will bless you in all your harvest and in all the work of your hands, and your joy will be complete.",
       "verse": 15
     },
     {
-      "text": "Three times a year all your men must appear before the  your God at the place he will choose: at the Festival of Unleavened Bread, the Festival of Weeks and the Festival of Tabernacles. No one should appear before the  empty-handed:",
+      "text": "Three times a year all your men must appear before the Lord your God at the place he will choose: at the Festival of Unleavened Bread, the Festival of Weeks and the Festival of Tabernacles. No one should appear before the Lord empty-handed:",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "Each of you must bring a gift in proportion to the way the  your God has blessed you.",
+      "text": "Each of you must bring a gift in proportion to the way the Lord your God has blessed you.",
       "verse": 17
     },
     {
@@ -93,7 +94,7 @@
       "type": "heading"
     },
     {
-      "text": "Appoint judges and officials for each of your tribes in every town the  your God is giving you, and they shall judge the people fairly.",
+      "text": "Appoint judges and officials for each of your tribes in every town the Lord your God is giving you, and they shall judge the people fairly.",
       "verse": 18,
       "type": "newline"
     },
@@ -102,7 +103,7 @@
       "verse": 19
     },
     {
-      "text": "Follow justice and justice alone, so that you may live and possess the land the  your God is giving you.",
+      "text": "Follow justice and justice alone, so that you may live and possess the land the Lord your God is giving you.",
       "verse": 20
     },
     {
@@ -110,12 +111,12 @@
       "type": "heading"
     },
     {
-      "text": "Do not set up any wooden Asherah pole beside the altar you build to the  your God,",
+      "text": "Do not set up any wooden Asherah pole beside the altar you build to the Lord your God,",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "and do not erect a sacred stone, for these the  your God hates.",
+      "text": "and do not erect a sacred stone, for these the Lord your God hates.",
       "verse": 22
     }
   ]

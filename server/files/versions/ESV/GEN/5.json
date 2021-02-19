@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 5,
+  "verses": 32,
   "content": [
     {
       "text": "Adam's Descendants to Noah",
@@ -129,7 +130,7 @@
       "type": "newline"
     },
     {
-      "text": "and called his name Noah, saying, “Out of the ground that the  has cursed, this one shall bring us relief from our work and from the painful toil of our hands.”",
+      "text": "and called his name Noah, saying, “Out of the ground that the Lord has cursed, this one shall bring us relief from our work and from the painful toil of our hands.”",
       "verse": 29
     },
     {

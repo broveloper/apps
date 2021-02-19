@@ -2,9 +2,10 @@
   "book_id": "LAM",
   "book_name": "Lamentations",
   "chapter": 5,
+  "verses": 22,
   "content": [
     {
-      "text": "Remember, O , what is come upon us: consider, and behold our reproach.",
+      "text": "Remember, O Lord, what is come upon us: consider, and behold our reproach.",
       "verse": 1
     },
     {
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "Thou, O , remainest for ever; thy throne from generation to generation.",
+      "text": "Thou, O Lord, remainest for ever; thy throne from generation to generation.",
       "verse": 19,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "Turn thou us unto thee, O , and we shall be turned; renew our days as of old.",
+      "text": "Turn thou us unto thee, O Lord, and we shall be turned; renew our days as of old.",
       "verse": 21,
       "type": "newline"
     },

@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 6,
+  "verses": 10,
   "content": [
     {
       "text": "Psalm 6",
       "type": "heading"
     },
     {
-      "text": "For the director of music. With stringed instruments. According to  A psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "text": "For the director of music. With stringed instruments. According to sheminith. A psalm of David.",
+      "type": "title"
     },
     {
-      "text": ", do not rebuke me in your anger",
+      "text": "Lord, do not rebuke me in your anger",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,12 +23,12 @@
       "type": "poetry"
     },
     {
-      "text": "Have mercy on me, , for I am faint;",
+      "text": "Have mercy on me, Lord, for I am faint;",
       "verse": 2,
       "type": "poetry"
     },
     {
-      "text": "heal me, , for my bones are in agony.",
+      "text": "heal me, Lord, for my bones are in agony.",
       "verse": 2,
       "type": "poetry"
     },
@@ -38,12 +38,12 @@
       "type": "poetry"
     },
     {
-      "text": "How long, , how long?",
+      "text": "How long, Lord, how long?",
       "verse": 3,
       "type": "poetry"
     },
     {
-      "text": "Turn, , and deliver me;",
+      "text": "Turn, Lord, and deliver me;",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -93,17 +93,17 @@
       "type": "poetry newline"
     },
     {
-      "text": "for the  has heard my weeping.",
+      "text": "for the Lord has heard my weeping.",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "The  has heard my cry for mercy;",
+      "text": "The Lord has heard my cry for mercy;",
       "verse": 9,
       "type": "poetry"
     },
     {
-      "text": "the  accepts my prayer.",
+      "text": "the Lord accepts my prayer.",
       "verse": 9,
       "type": "poetry"
     },

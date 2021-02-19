@@ -2,18 +2,19 @@
   "book_id": "AMOS",
   "book_name": "Amos",
   "chapter": 8,
+  "verses": 14,
   "content": [
     {
       "text": "The Coming Day of Bitter Mourning",
       "type": "heading"
     },
     {
-      "text": "This is what the Lord  showed me: behold, a basket of summer fruit.",
+      "text": "This is what the Lord God showed me: behold, a basket of summer fruit.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "And he said, “Amos, what do you see?” And I said, “A basket of summer fruit.” Then the  said to me,",
+      "text": "And he said, “Amos, what do you see?” And I said, “A basket of summer fruit.” Then the Lord said to me,",
       "verse": 2
     },
     {
@@ -32,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the Lord .",
+      "text": "declares the Lord God.",
       "verse": 3,
       "type": "poetry"
     },
@@ -107,7 +108,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has sworn by the pride of Jacob:",
+      "text": "The Lord has sworn by the pride of Jacob:",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -137,7 +138,7 @@
       "type": "poetry"
     },
     {
-      "text": "“And on that day,” declares the Lord ,",
+      "text": "“And on that day,” declares the Lord God,",
       "verse": 9,
       "type": "poetry newline"
     },
@@ -182,7 +183,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Behold, the days are coming,” declares the Lord ,",
+      "text": "“Behold, the days are coming,” declares the Lord God,",
       "verse": 11,
       "type": "poetry newline"
     },
@@ -197,7 +198,7 @@
       "type": "poetry"
     },
     {
-      "text": "but of hearing the words of the .",
+      "text": "but of hearing the words of the Lord.",
       "verse": 11,
       "type": "poetry"
     },
@@ -212,7 +213,7 @@
       "type": "poetry"
     },
     {
-      "text": "they shall run to and fro, to seek the word of the ,",
+      "text": "they shall run to and fro, to seek the word of the Lord,",
       "verse": 12,
       "type": "poetry"
     },

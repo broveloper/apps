@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 18,
+  "verses": 40,
   "content": [
     {
       "text": "Jesus Arrested",
@@ -22,7 +23,7 @@
       "verse": 3
     },
     {
-      "text": "Jesus, knowing all that was going to happen to him, went out and asked them,",
+      "text": "Jesus, knowing all that was going to happen to him, went out and asked them, “Who is it you want?”",
       "verse": 4,
       "type": "newline"
     },
@@ -32,16 +33,16 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said. (And Judas the traitor was standing there with them.)",
+      "text": "“I am he,” Jesus said. (And Judas the traitor was standing there with them.)",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "When Jesus said,  they drew back and fell to the ground.",
+      "text": "When Jesus said, “I am he,” they drew back and fell to the ground.",
       "verse": 6
     },
     {
-      "text": "Again he asked them,",
+      "text": "Again he asked them, “Who is it you want?”",
       "verse": 7,
       "type": "newline"
     },
@@ -51,12 +52,12 @@
       "type": "newline"
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “I told you that I am he. If you are looking for me, then let these men go.”",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "This happened so that the words he had spoken would be fulfilled:",
+      "text": "This happened so that the words he had spoken would be fulfilled: “I have not lost one of those you gave me.”",
       "verse": 9
     },
     {
@@ -65,7 +66,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus commanded Peter,",
+      "text": "Jesus commanded Peter, “Put your sword away! Shall I not drink the cup the Father has given me?”",
       "verse": 11,
       "type": "newline"
     },
@@ -120,12 +121,12 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied.",
+      "text": "“I have spoken openly to the world,” Jesus replied. “I always taught in synagogues or at the temple, where all the Jews come together. I said nothing in secret.",
       "verse": 20,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Why question me? Ask those who heard me. Surely they know what I said.”",
       "verse": 21
     },
     {
@@ -134,7 +135,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied,",
+      "text": "“If I said something wrong,” Jesus replied, “testify as to what is wrong. But if I spoke the truth, why did you strike me?”",
       "verse": 23,
       "type": "newline"
     },
@@ -203,7 +204,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus asked,",
+      "text": "“Is that your own idea,” Jesus asked, “or did others talk to you about me?”",
       "verse": 34,
       "type": "newline"
     },
@@ -213,7 +214,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said,",
+      "text": "Jesus said, “My kingdom is not of this world. If it were, my servants would fight to prevent my arrest by the Jewish leaders. But now my kingdom is from another place.”",
       "verse": 36,
       "type": "newline"
     },
@@ -223,7 +224,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “You say that I am a king. In fact, the reason I was born and came into the world is to testify to the truth. Everyone on the side of truth listens to me.”",
       "verse": 37,
       "type": "newline"
     },

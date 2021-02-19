@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 57,
+  "verses": 21,
   "content": [
     {
       "text": "Israel's Futile Idolatry",
@@ -33,7 +34,7 @@
       "type": "poetry"
     },
     {
-      "text": "he enters into peace;",
+      "text": "    he enters into peace;",
       "verse": 2,
       "type": "poetry"
     },
@@ -387,12 +388,12 @@
       "type": "poetry"
     },
     {
-      "text": "creating the fruit of the lips.",
+      "text": "    creating the fruit of the lips.",
       "verse": 19,
       "type": "poetry"
     },
     {
-      "text": "Peace, peace, to the far and to the near,” says the ,",
+      "text": "Peace, peace, to the far and to the near,” says the Lord,",
       "verse": 19,
       "type": "poetry"
     },

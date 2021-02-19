@@ -2,18 +2,19 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 43,
+  "verses": 13,
   "content": [
     {
       "text": "Jeremiah Taken to Egypt",
       "type": "heading"
     },
     {
-      "text": "When Jeremiah finished speaking to all the people all these words of the  their God, with which the  their God had sent him to them,",
+      "text": "When Jeremiah finished speaking to all the people all these words of the Lord their God, with which the Lord their God had sent him to them,",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "Azariah the son of Hoshaiah and Johanan the son of Kareah and all the insolent men said to Jeremiah, “You are telling a lie. The  our God did not send you to say, ‘Do not go to Egypt to live there,’",
+      "text": "Azariah the son of Hoshaiah and Johanan the son of Kareah and all the insolent men said to Jeremiah, “You are telling a lie. The Lord our God did not send you to say, ‘Do not go to Egypt to live there,’",
       "verse": 2
     },
     {
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "So Johanan the son of Kareah and all the commanders of the forces and all the people did not obey the voice of the , to remain in the land of Judah.",
+      "text": "So Johanan the son of Kareah and all the commanders of the forces and all the people did not obey the voice of the Lord, to remain in the land of Judah.",
       "verse": 4
     },
     {
@@ -33,11 +34,11 @@
       "verse": 6
     },
     {
-      "text": "And they came into the land of Egypt, for they did not obey the voice of the . And they arrived at Tahpanhes.",
+      "text": "And they came into the land of Egypt, for they did not obey the voice of the Lord. And they arrived at Tahpanhes.",
       "verse": 7
     },
     {
-      "text": "Then the word of the  came to Jeremiah in Tahpanhes:",
+      "text": "Then the word of the Lord came to Jeremiah in Tahpanhes:",
       "verse": 8,
       "type": "newline"
     },
@@ -46,7 +47,7 @@
       "verse": 9
     },
     {
-      "text": "and say to them, ‘Thus says the  of hosts, the God of Israel: Behold, I will send and take Nebuchadnezzar the king of Babylon, my servant, and I will set his throne above these stones that I have hidden, and he will spread his royal canopy over them.",
+      "text": "and say to them, ‘Thus says the Lord of hosts, the God of Israel: Behold, I will send and take Nebuchadnezzar the king of Babylon, my servant, and I will set his throne above these stones that I have hidden, and he will spread his royal canopy over them.",
       "verse": 10
     },
     {

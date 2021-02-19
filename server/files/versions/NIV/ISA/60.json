@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 60,
+  "verses": 22,
   "content": [
     {
       "text": "The Glory of Zion",
@@ -13,7 +14,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "and the glory of the  rises upon you.",
+      "text": "and the glory of the Lord rises upon you.",
       "verse": 1,
       "type": "poetry"
     },
@@ -28,7 +29,7 @@
       "type": "poetry"
     },
     {
-      "text": "but the  rises upon you",
+      "text": "but the Lord rises upon you",
       "verse": 2,
       "type": "poetry"
     },
@@ -108,7 +109,7 @@
       "type": "poetry"
     },
     {
-      "text": "and proclaiming the praise of the .",
+      "text": "and proclaiming the praise of the Lord.",
       "verse": 6,
       "type": "poetry"
     },
@@ -163,7 +164,7 @@
       "type": "poetry"
     },
     {
-      "text": "to the honor of the  your God,",
+      "text": "to the honor of the Lord your God,",
       "verse": 9,
       "type": "poetry"
     },
@@ -258,7 +259,7 @@
       "type": "poetry"
     },
     {
-      "text": "and will call you the City of the ,",
+      "text": "and will call you the City of the Lord,",
       "verse": 14,
       "type": "poetry"
     },
@@ -298,7 +299,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then you will know that I, the , am your Savior,",
+      "text": "Then you will know that I, the Lord, am your Savior,",
       "verse": 16,
       "type": "poetry"
     },
@@ -368,7 +369,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  will be your everlasting light,",
+      "text": "for the Lord will be your everlasting light,",
       "verse": 19,
       "type": "poetry"
     },
@@ -388,7 +389,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  will be your everlasting light,",
+      "text": "the Lord will be your everlasting light,",
       "verse": 20,
       "type": "poetry"
     },
@@ -433,7 +434,7 @@
       "type": "poetry"
     },
     {
-      "text": "I am the ;",
+      "text": "I am the Lord;",
       "verse": 22,
       "type": "poetry"
     },

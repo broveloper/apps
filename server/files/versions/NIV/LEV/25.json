@@ -2,18 +2,19 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 25,
+  "verses": 55,
   "content": [
     {
       "text": "The Sabbath Year",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses at Mount Sinai,",
+      "text": "The Lord said to Moses at Mount Sinai,",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Speak to the Israelites and say to them: ‘When you enter the land I am going to give you, the land itself must observe a sabbath to the .",
+      "text": "“Speak to the Israelites and say to them: ‘When you enter the land I am going to give you, the land itself must observe a sabbath to the Lord.",
       "verse": 2
     },
     {
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "But in the seventh year the land is to have a year of sabbath rest, a sabbath to the . Do not sow your fields or prune your vineyards.",
+      "text": "But in the seventh year the land is to have a year of sabbath rest, a sabbath to the Lord. Do not sow your fields or prune your vineyards.",
       "verse": 4
     },
     {
@@ -80,7 +81,7 @@
       "verse": 16
     },
     {
-      "text": "Do not take advantage of each other, but fear your God. I am the  your God.",
+      "text": "Do not take advantage of each other, but fear your God. I am the Lord your God.",
       "verse": 17
     },
     {
@@ -170,7 +171,7 @@
       "verse": 37
     },
     {
-      "text": "I am the  your God, who brought you out of Egypt to give you the land of Canaan and to be your God.",
+      "text": "I am the Lord your God, who brought you out of Egypt to give you the land of Canaan and to be your God.",
       "verse": 38
     },
     {
@@ -242,7 +243,7 @@
       "type": "newline"
     },
     {
-      "text": "for the Israelites belong to me as servants. They are my servants, whom I brought out of Egypt. I am the  your God.",
+      "text": "for the Israelites belong to me as servants. They are my servants, whom I brought out of Egypt. I am the Lord your God.",
       "verse": 55
     }
   ]

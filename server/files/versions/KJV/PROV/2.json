@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 2,
+  "verses": 22,
   "content": [
     {
       "text": "My son, if thou wilt receive my words, and hide my commandments with thee;",
@@ -23,12 +24,12 @@
       "type": "newline"
     },
     {
-      "text": "Then shalt thou understand the fear of the , and find the knowledge of God.",
+      "text": "Then shalt thou understand the fear of the Lord, and find the knowledge of God.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "For the  giveth wisdom: out of his mouth cometh knowledge and understanding.",
+      "text": "For the Lord giveth wisdom: out of his mouth cometh knowledge and understanding.",
       "verse": 6,
       "type": "newline"
     },

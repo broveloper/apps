@@ -2,18 +2,19 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 26,
+  "verses": 24,
   "content": [
     {
       "text": "Jeremiah Threatened With Death",
       "type": "heading"
     },
     {
-      "text": "Early in the reign of Jehoiakim son of Josiah king of Judah, this word came from the :",
+      "text": "Early in the reign of Jehoiakim son of Josiah king of Judah, this word came from the Lord:",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“This is what the  says: Stand in the courtyard of the ’s house and speak to all the people of the towns of Judah who come to worship in the house of the . Tell them everything I command you; do not omit a word.",
+      "text": "“This is what the Lord says: Stand in the courtyard of the Lord’s house and speak to all the people of the towns of Judah who come to worship in the house of the Lord. Tell them everything I command you; do not omit a word.",
       "verse": 2
     },
     {
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "Say to them, ‘This is what the  says: If you do not listen to me and follow my law, which I have set before you,",
+      "text": "Say to them, ‘This is what the Lord says: If you do not listen to me and follow my law, which I have set before you,",
       "verse": 4
     },
     {
@@ -33,20 +34,20 @@
       "verse": 6
     },
     {
-      "text": "The priests, the prophets and all the people heard Jeremiah speak these words in the house of the .",
+      "text": "The priests, the prophets and all the people heard Jeremiah speak these words in the house of the Lord.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "But as soon as Jeremiah finished telling all the people everything the  had commanded him to say, the priests, the prophets and all the people seized him and said, “You must die!",
+      "text": "But as soon as Jeremiah finished telling all the people everything the Lord had commanded him to say, the priests, the prophets and all the people seized him and said, “You must die!",
       "verse": 8
     },
     {
-      "text": "Why do you prophesy in the ’s name that this house will be like Shiloh and this city will be desolate and deserted?” And all the people crowded around Jeremiah in the house of the .",
+      "text": "Why do you prophesy in the Lord’s name that this house will be like Shiloh and this city will be desolate and deserted?” And all the people crowded around Jeremiah in the house of the Lord.",
       "verse": 9
     },
     {
-      "text": "When the officials of Judah heard about these things, they went up from the royal palace to the house of the  and took their places at the entrance of the New Gate of the ’s house.",
+      "text": "When the officials of Judah heard about these things, they went up from the royal palace to the house of the Lord and took their places at the entrance of the New Gate of the Lord’s house.",
       "verse": 10,
       "type": "newline"
     },
@@ -55,12 +56,12 @@
       "verse": 11
     },
     {
-      "text": "Then Jeremiah said to all the officials and all the people: “The  sent me to prophesy against this house and this city all the things you have heard.",
+      "text": "Then Jeremiah said to all the officials and all the people: “The Lord sent me to prophesy against this house and this city all the things you have heard.",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "Now reform your ways and your actions and obey the  your God. Then the  will relent and not bring the disaster he has pronounced against you.",
+      "text": "Now reform your ways and your actions and obey the Lord your God. Then the Lord will relent and not bring the disaster he has pronounced against you.",
       "verse": 13
     },
     {
@@ -68,11 +69,11 @@
       "verse": 14
     },
     {
-      "text": "Be assured, however, that if you put me to death, you will bring the guilt of innocent blood on yourselves and on this city and on those who live in it, for in truth the  has sent me to you to speak all these words in your hearing.”",
+      "text": "Be assured, however, that if you put me to death, you will bring the guilt of innocent blood on yourselves and on this city and on those who live in it, for in truth the Lord has sent me to you to speak all these words in your hearing.”",
       "verse": 15
     },
     {
-      "text": "Then the officials and all the people said to the priests and the prophets, “This man should not be sentenced to death! He has spoken to us in the name of the  our God.”",
+      "text": "Then the officials and all the people said to the priests and the prophets, “This man should not be sentenced to death! He has spoken to us in the name of the Lord our God.”",
       "verse": 16,
       "type": "newline"
     },
@@ -82,7 +83,7 @@
       "type": "newline"
     },
     {
-      "text": "“Micah of Moresheth prophesied in the days of Hezekiah king of Judah. He told all the people of Judah, ‘This is what the  Almighty says:",
+      "text": "“Micah of Moresheth prophesied in the days of Hezekiah king of Judah. He told all the people of Judah, ‘This is what the Lord Almighty says:",
       "verse": 18
     },
     {
@@ -101,12 +102,12 @@
       "type": "poetry"
     },
     {
-      "text": "“Did Hezekiah king of Judah or anyone else in Judah put him to death? Did not Hezekiah fear the  and seek his favor? And did not the  relent, so that he did not bring the disaster he pronounced against them? We are about to bring a terrible disaster on ourselves!”",
+      "text": "“Did Hezekiah king of Judah or anyone else in Judah put him to death? Did not Hezekiah fear the Lord and seek his favor? And did not the Lord relent, so that he did not bring the disaster he pronounced against them? We are about to bring a terrible disaster on ourselves!”",
       "verse": 19,
       "type": "newline"
     },
     {
-      "text": "(Now Uriah son of Shemaiah from Kiriath Jearim was another man who prophesied in the name of the ; he prophesied the same things against this city and this land as Jeremiah did.",
+      "text": "(Now Uriah son of Shemaiah from Kiriath Jearim was another man who prophesied in the name of the Lord; he prophesied the same things against this city and this land as Jeremiah did.",
       "verse": 20,
       "type": "newline"
     },

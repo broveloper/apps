@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 40,
+  "verses": 17,
   "content": [
     {
       "text": "Psalm 40",
@@ -9,11 +10,10 @@
     },
     {
       "text": "For the director of music. Of David. A psalm.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "I waited patiently for the ;",
+      "text": "I waited patiently for the Lord;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -53,7 +53,7 @@
       "type": "poetry"
     },
     {
-      "text": "Many will see and fear the",
+      "text": "Many will see and fear the Lord",
       "verse": 3,
       "type": "poetry"
     },
@@ -68,7 +68,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "who trusts in the ,",
+      "text": "who trusts in the Lord,",
       "verse": 4,
       "type": "poetry"
     },
@@ -83,7 +83,7 @@
       "type": "poetry"
     },
     {
-      "text": "Many,  my God,",
+      "text": "Many, Lord my God,",
       "verse": 5,
       "type": "poetry"
     },
@@ -153,7 +153,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "I do not seal my lips, ,",
+      "text": "I do not seal my lips, Lord,",
       "verse": 9,
       "type": "poetry"
     },
@@ -183,7 +183,7 @@
       "type": "poetry"
     },
     {
-      "text": "Do not withhold your mercy from me, ;",
+      "text": "Do not withhold your mercy from me, Lord;",
       "verse": 11,
       "type": "poetry newline"
     },
@@ -213,12 +213,12 @@
       "type": "poetry"
     },
     {
-      "text": "Be pleased to save me, ;",
+      "text": "Be pleased to save me, Lord;",
       "verse": 13,
       "type": "poetry"
     },
     {
-      "text": "come quickly, , to help me.",
+      "text": "come quickly, Lord, to help me.",
       "verse": 13,
       "type": "poetry"
     },
@@ -268,7 +268,7 @@
       "type": "poetry"
     },
     {
-      "text": "“The  is great!”",
+      "text": "“The Lord is great!”",
       "verse": 16,
       "type": "poetry"
     },

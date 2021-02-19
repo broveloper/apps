@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 127,
+  "verses": 5,
   "content": [
     {
-      "text": "Unless the  Builds the House",
+      "text": "Unless the Lord Builds the House",
       "type": "heading"
     },
     {
       "text": "A Song of Ascents. Of Solomon.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Unless the  builds the house,",
+      "text": "Unless the Lord builds the house,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,7 +23,7 @@
       "type": "poetry"
     },
     {
-      "text": "Unless the  watches over the city,",
+      "text": "Unless the Lord watches over the city,",
       "verse": 1,
       "type": "poetry"
     },
@@ -53,7 +53,7 @@
       "type": "poetry"
     },
     {
-      "text": "Behold, children are a heritage from the ,",
+      "text": "Behold, children are a heritage from the Lord,",
       "verse": 3,
       "type": "poetry newline"
     },

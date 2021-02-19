@@ -2,9 +2,10 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 13,
+  "verses": 16,
   "content": [
     {
-      "text": "The ’s Anger Against Israel",
+      "text": "The Lord’s Anger Against Israel",
       "type": "heading"
     },
     {
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "“But I have been the  your God",
+      "text": "“But I have been the Lord your God",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -248,12 +249,12 @@
       "type": "poetry newline"
     },
     {
-      "text": "even though he thrives among his brothers.",
+      "text": "    even though he thrives among his brothers.",
       "verse": 15,
       "type": "poetry"
     },
     {
-      "text": "An east wind from the  will come,",
+      "text": "An east wind from the Lord will come,",
       "verse": 15,
       "type": "poetry"
     },

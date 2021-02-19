@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 18,
+  "verses": 23,
   "content": [
     {
       "text": "At the Potter’s House",
       "type": "heading"
     },
     {
-      "text": "This is the word that came to Jeremiah from the :",
+      "text": "This is the word that came to Jeremiah from the Lord:",
       "verse": 1,
       "type": "newline"
     },
@@ -25,12 +26,12 @@
       "verse": 4
     },
     {
-      "text": "Then the word of the  came to me.",
+      "text": "Then the word of the Lord came to me.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "He said, “Can I not do with you, Israel, as this potter does?” declares the . “Like clay in the hand of the potter, so are you in my hand, Israel.",
+      "text": "He said, “Can I not do with you, Israel, as this potter does?” declares the Lord. “Like clay in the hand of the potter, so are you in my hand, Israel.",
       "verse": 6
     },
     {
@@ -50,7 +51,7 @@
       "verse": 10
     },
     {
-      "text": "“Now therefore say to the people of Judah and those living in Jerusalem, ‘This is what the  says: Look! I am preparing a disaster for you and devising a plan against you. So turn from your evil ways, each one of you, and reform your ways and your actions.’",
+      "text": "“Now therefore say to the people of Judah and those living in Jerusalem, ‘This is what the Lord says: Look! I am preparing a disaster for you and devising a plan against you. So turn from your evil ways, each one of you, and reform your ways and your actions.’",
       "verse": 11,
       "type": "newline"
     },
@@ -59,7 +60,7 @@
       "verse": 12
     },
     {
-      "text": "Therefore this is what the  says:",
+      "text": "Therefore this is what the Lord says:",
       "verse": 13,
       "type": "newline"
     },
@@ -179,7 +180,7 @@
       "type": "newline"
     },
     {
-      "text": "Listen to me, ;",
+      "text": "Listen to me, Lord;",
       "verse": 19,
       "type": "poetry newline"
     },
@@ -259,7 +260,7 @@
       "type": "poetry"
     },
     {
-      "text": "But you, , know",
+      "text": "But you, Lord, know",
       "verse": 23,
       "type": "poetry"
     },

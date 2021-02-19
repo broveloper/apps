@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 66,
+  "verses": 20,
   "content": [
     {
       "text": "How Awesome Are Your Deeds",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster. A Song. A Psalm.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Shout for joy to God, all the earth;",
@@ -18,7 +18,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "sing the glory of his name;",
+      "text": "    sing the glory of his name;",
       "verse": 2,
       "type": "poetry"
     },
@@ -48,7 +48,7 @@
       "type": "poetry"
     },
     {
-      "text": "they sing praises to your name.”",
+      "text": "they sing praises to your name.” Selah",
       "verse": 4,
       "type": "poetry"
     },
@@ -78,7 +78,7 @@
       "type": "poetry"
     },
     {
-      "text": "who rules by his might forever,",
+      "text": "    who rules by his might forever,",
       "verse": 7,
       "type": "poetry"
     },
@@ -88,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "let not the rebellious exalt themselves.",
+      "text": "let not the rebellious exalt themselves. Selah",
       "verse": 7,
       "type": "poetry"
     },
@@ -178,7 +178,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will make an offering of bulls and goats.",
+      "text": "I will make an offering of bulls and goats. Selah",
       "verse": 15,
       "type": "poetry"
     },

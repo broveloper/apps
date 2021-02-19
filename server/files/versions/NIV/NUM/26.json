@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 26,
+  "verses": 65,
   "content": [
     {
       "text": "The Second Census",
       "type": "heading"
     },
     {
-      "text": "After the plague the  said to Moses and Eleazar son of Aaron, the priest,",
+      "text": "After the plague the Lord said to Moses and Eleazar son of Aaron, the priest,",
       "verse": 1,
       "type": "newline"
     },
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "“Take a census of the men twenty years old or more, as the  commanded Moses.”",
+      "text": "“Take a census of the men twenty years old or more, as the Lord commanded Moses.”",
       "verse": 4
     },
     {
@@ -62,7 +63,7 @@
       "type": "newline"
     },
     {
-      "text": "and the sons of Eliab were Nemuel, Dathan and Abiram. The same Dathan and Abiram were the community officials who rebelled against Moses and Aaron and were among Korah’s followers when they rebelled against the .",
+      "text": "and the sons of Eliab were Nemuel, Dathan and Abiram. The same Dathan and Abiram were the community officials who rebelled against Moses and Aaron and were among Korah’s followers when they rebelled against the Lord.",
       "verse": 9
     },
     {
@@ -459,7 +460,7 @@
       "type": "newline"
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 52,
       "type": "newline"
     },
@@ -535,7 +536,7 @@
       "verse": 60
     },
     {
-      "text": "But Nadab and Abihu died when they made an offering before the  with unauthorized fire.)",
+      "text": "But Nadab and Abihu died when they made an offering before the Lord with unauthorized fire.)",
       "verse": 61
     },
     {
@@ -553,7 +554,7 @@
       "verse": 64
     },
     {
-      "text": "For the  had told those Israelites they would surely die in the wilderness, and not one of them was left except Caleb son of Jephunneh and Joshua son of Nun.",
+      "text": "For the Lord had told those Israelites they would surely die in the wilderness, and not one of them was left except Caleb son of Jephunneh and Joshua son of Nun.",
       "verse": 65
     }
   ]

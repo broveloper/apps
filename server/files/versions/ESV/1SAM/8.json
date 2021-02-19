@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 8,
+  "verses": 22,
   "content": [
     {
       "text": "Israel Demands a King",
@@ -30,11 +31,11 @@
       "verse": 5
     },
     {
-      "text": "But the thing displeased Samuel when they said, “Give us a king to judge us.” And Samuel prayed to the .",
+      "text": "But the thing displeased Samuel when they said, “Give us a king to judge us.” And Samuel prayed to the Lord.",
       "verse": 6
     },
     {
-      "text": "And the  said to Samuel, “Obey the voice of the people in all that they say to you, for they have not rejected you, but they have rejected me from being king over them.",
+      "text": "And the Lord said to Samuel, “Obey the voice of the people in all that they say to you, for they have not rejected you, but they have rejected me from being king over them.",
       "verse": 7
     },
     {
@@ -50,7 +51,7 @@
       "type": "heading"
     },
     {
-      "text": "So Samuel told all the words of the  to the people who were asking for a king from him.",
+      "text": "So Samuel told all the words of the Lord to the people who were asking for a king from him.",
       "verse": 10,
       "type": "newline"
     },
@@ -83,11 +84,11 @@
       "verse": 17
     },
     {
-      "text": "And in that day you will cry out because of your king, whom you have chosen for yourselves, but the  will not answer you in that day.”",
+      "text": "And in that day you will cry out because of your king, whom you have chosen for yourselves, but the Lord will not answer you in that day.”",
       "verse": 18
     },
     {
-      "text": "The  Grants Israel's Request",
+      "text": "The Lord Grants Israel's Request",
       "type": "heading"
     },
     {
@@ -100,11 +101,11 @@
       "verse": 20
     },
     {
-      "text": "And when Samuel had heard all the words of the people, he repeated them in the ears of the .",
+      "text": "And when Samuel had heard all the words of the people, he repeated them in the ears of the Lord.",
       "verse": 21
     },
     {
-      "text": "And the  said to Samuel, “Obey their voice and make them a king.” Samuel then said to the men of Israel, “Go every man to his city.”",
+      "text": "And the Lord said to Samuel, “Obey their voice and make them a king.” Samuel then said to the men of Israel, “Go every man to his city.”",
       "verse": 22
     }
   ]

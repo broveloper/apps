@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 21,
+  "verses": 32,
   "content": [
     {
       "text": "Babylon as God’s Sword of Judgment",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "and say to her: ‘This is what the  says: I am against you. I will draw my sword from its sheath and cut off from you both the righteous and the wicked.",
+      "text": "and say to her: ‘This is what the Lord says: I am against you. I will draw my sword from its sheath and cut off from you both the righteous and the wicked.",
       "verse": 3
     },
     {
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "Then all people will know that I the  have drawn my sword from its sheath; it will not return again.’",
+      "text": "Then all people will know that I the Lord have drawn my sword from its sheath; it will not return again.’",
       "verse": 5
     },
     {
@@ -34,11 +35,11 @@
       "type": "newline"
     },
     {
-      "text": "And when they ask you, ‘Why are you groaning?’ you shall say, ‘Because of the news that is coming. Every heart will melt with fear and every hand go limp; every spirit will become faint and every leg will be wet with urine.’ It is coming! It will surely take place, declares the Sovereign .”",
+      "text": "And when they ask you, ‘Why are you groaning?’ you shall say, ‘Because of the news that is coming. Every heart will melt with fear and every hand go limp; every spirit will become faint and every leg will be wet with urine.’ It is coming! It will surely take place, declares the Sovereign Lord.”",
       "verse": 7
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 8,
       "type": "newline"
     },
@@ -122,7 +123,7 @@
       "type": "poetry"
     },
     {
-      "text": "“‘Testing will surely come. And what if even the scepter, which the sword despises, does not continue? declares the Sovereign .’",
+      "text": "“‘Testing will surely come. And what if even the scepter, which the sword despises, does not continue? declares the Sovereign Lord.’",
       "verse": 13,
       "type": "newline"
     },
@@ -217,12 +218,12 @@
       "type": "poetry"
     },
     {
-      "text": "I the  have spoken.”",
+      "text": "I the Lord have spoken.”",
       "verse": 17,
       "type": "poetry"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 18,
       "type": "newline"
     },
@@ -247,7 +248,7 @@
       "verse": 23
     },
     {
-      "text": "“Therefore this is what the Sovereign  says: ‘Because you people have brought to mind your guilt by your open rebellion, revealing your sins in all that you do—because you have done this, you will be taken captive.",
+      "text": "“Therefore this is what the Sovereign Lord says: ‘Because you people have brought to mind your guilt by your open rebellion, revealing your sins in all that you do—because you have done this, you will be taken captive.",
       "verse": 24,
       "type": "newline"
     },
@@ -257,7 +258,7 @@
       "type": "newline"
     },
     {
-      "text": "this is what the Sovereign  says: Take off the turban, remove the crown. It will not be as it was: The lowly will be exalted and the exalted will be brought low.",
+      "text": "this is what the Sovereign Lord says: Take off the turban, remove the crown. It will not be as it was: The lowly will be exalted and the exalted will be brought low.",
       "verse": 26
     },
     {
@@ -265,7 +266,7 @@
       "verse": 27
     },
     {
-      "text": "“And you, son of man, prophesy and say, ‘This is what the Sovereign  says about the Ammonites and their insults:",
+      "text": "“And you, son of man, prophesy and say, ‘This is what the Sovereign Lord says about the Ammonites and their insults:",
       "verse": 28,
       "type": "newline"
     },
@@ -375,7 +376,7 @@
       "type": "poetry"
     },
     {
-      "text": "for I the  have spoken.’”",
+      "text": "for I the Lord have spoken.’”",
       "verse": 32,
       "type": "poetry"
     }

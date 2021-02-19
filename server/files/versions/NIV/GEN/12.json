@@ -2,13 +2,14 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 12,
+  "verses": 20,
   "content": [
     {
       "text": "The Call of Abram",
       "type": "heading"
     },
     {
-      "text": "The  had said to Abram, “Go from your country, your people and your father’s household to the land I will show you.",
+      "text": "The Lord had said to Abram, “Go from your country, your people and your father’s household to the land I will show you.",
       "verse": 1,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "poetry"
     },
     {
-      "text": "So Abram went, as the  had told him; and Lot went with him. Abram was seventy-five years old when he set out from Harran.",
+      "text": "So Abram went, as the Lord had told him; and Lot went with him. Abram was seventy-five years old when he set out from Harran.",
       "verse": 4,
       "type": "newline"
     },
@@ -67,11 +68,11 @@
       "type": "newline"
     },
     {
-      "text": "The  appeared to Abram and said, “To your offspring I will give this land.” So he built an altar there to the , who had appeared to him.",
+      "text": "The Lord appeared to Abram and said, “To your offspring I will give this land.” So he built an altar there to the Lord, who had appeared to him.",
       "verse": 7
     },
     {
-      "text": "From there he went on toward the hills east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. There he built an altar to the  and called on the name of the .",
+      "text": "From there he went on toward the hills east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. There he built an altar to the Lord and called on the name of the Lord.",
       "verse": 8,
       "type": "newline"
     },
@@ -115,7 +116,7 @@
       "verse": 16
     },
     {
-      "text": "But the  inflicted serious diseases on Pharaoh and his household because of Abram’s wife Sarai.",
+      "text": "But the Lord inflicted serious diseases on Pharaoh and his household because of Abram’s wife Sarai.",
       "verse": 17,
       "type": "newline"
     },

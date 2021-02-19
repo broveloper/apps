@@ -2,6 +2,7 @@
   "book_id": "ECCL",
   "book_name": "Ecclesiastes",
   "chapter": 5,
+  "verses": 20,
   "content": [
     {
       "text": "Fulfill Your Vow to God",
@@ -148,7 +149,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "or wealth lost through some misfortune,",
+      "text": "    or wealth lost through some misfortune,",
       "verse": 14,
       "type": "poetry"
     },

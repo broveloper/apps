@@ -2,13 +2,14 @@
   "book_id": "1KGS",
   "book_name": "1 Kings",
   "chapter": 8,
+  "verses": 66,
   "content": [
     {
       "text": "The Ark Brought into the Temple",
       "type": "heading"
     },
     {
-      "text": "Then Solomon assembled the elders of Israel and all the heads of the tribes, the leaders of the fathers' houses of the people of Israel, before King Solomon in Jerusalem, to bring up the ark of the covenant of the  out of the city of David, which is Zion.",
+      "text": "Then Solomon assembled the elders of Israel and all the heads of the tribes, the leaders of the fathers' houses of the people of Israel, before King Solomon in Jerusalem, to bring up the ark of the covenant of the Lord out of the city of David, which is Zion.",
       "verse": 1,
       "type": "newline"
     },
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "And they brought up the ark of the , the tent of meeting, and all the holy vessels that were in the tent; the priests and the Levites brought them up.",
+      "text": "And they brought up the ark of the Lord, the tent of meeting, and all the holy vessels that were in the tent; the priests and the Levites brought them up.",
       "verse": 4
     },
     {
@@ -29,7 +30,7 @@
       "verse": 5
     },
     {
-      "text": "Then the priests brought the ark of the covenant of the  to its place in the inner sanctuary of the house, in the Most Holy Place, underneath the wings of the cherubim.",
+      "text": "Then the priests brought the ark of the covenant of the Lord to its place in the inner sanctuary of the house, in the Most Holy Place, underneath the wings of the cherubim.",
       "verse": 6
     },
     {
@@ -41,23 +42,23 @@
       "verse": 8
     },
     {
-      "text": "There was nothing in the ark except the two tablets of stone that Moses put there at Horeb, where the  made a covenant with the people of Israel, when they came out of the land of Egypt.",
+      "text": "There was nothing in the ark except the two tablets of stone that Moses put there at Horeb, where the Lord made a covenant with the people of Israel, when they came out of the land of Egypt.",
       "verse": 9
     },
     {
-      "text": "And when the priests came out of the Holy Place, a cloud filled the house of the ,",
+      "text": "And when the priests came out of the Holy Place, a cloud filled the house of the Lord,",
       "verse": 10
     },
     {
-      "text": "so that the priests could not stand to minister because of the cloud, for the glory of the  filled the house of the .",
+      "text": "so that the priests could not stand to minister because of the cloud, for the glory of the Lord filled the house of the Lord.",
       "verse": 11
     },
     {
-      "text": "Solomon Blesses the",
+      "text": "Solomon Blesses the Lord",
       "type": "heading"
     },
     {
-      "text": "Then Solomon said, “The  has said that he would dwell in thick darkness.",
+      "text": "Then Solomon said, “The Lord has said that he would dwell in thick darkness.",
       "verse": 12,
       "type": "newline"
     },
@@ -70,7 +71,7 @@
       "verse": 14
     },
     {
-      "text": "And he said, “Blessed be the , the God of Israel, who with his hand has fulfilled what he promised with his mouth to David my father, saying,",
+      "text": "And he said, “Blessed be the Lord, the God of Israel, who with his hand has fulfilled what he promised with his mouth to David my father, saying,",
       "verse": 15
     },
     {
@@ -78,11 +79,11 @@
       "verse": 16
     },
     {
-      "text": "Now it was in the heart of David my father to build a house for the name of the , the God of Israel.",
+      "text": "Now it was in the heart of David my father to build a house for the name of the Lord, the God of Israel.",
       "verse": 17
     },
     {
-      "text": "But the  said to David my father, ‘Whereas it was in your heart to build a house for my name, you did well that it was in your heart.",
+      "text": "But the Lord said to David my father, ‘Whereas it was in your heart to build a house for my name, you did well that it was in your heart.",
       "verse": 18
     },
     {
@@ -90,11 +91,11 @@
       "verse": 19
     },
     {
-      "text": "Now the  has fulfilled his promise that he made. For I have risen in the place of David my father, and sit on the throne of Israel, as the  promised, and I have built the house for the name of the , the God of Israel.",
+      "text": "Now the Lord has fulfilled his promise that he made. For I have risen in the place of David my father, and sit on the throne of Israel, as the Lord promised, and I have built the house for the name of the Lord, the God of Israel.",
       "verse": 20
     },
     {
-      "text": "And there I have provided a place for the ark, in which is the covenant of the  that he made with our fathers, when he brought them out of the land of Egypt.”",
+      "text": "And there I have provided a place for the ark, in which is the covenant of the Lord that he made with our fathers, when he brought them out of the land of Egypt.”",
       "verse": 21
     },
     {
@@ -102,12 +103,12 @@
       "type": "heading"
     },
     {
-      "text": "Then Solomon stood before the altar of the  in the presence of all the assembly of Israel and spread out his hands toward heaven,",
+      "text": "Then Solomon stood before the altar of the Lord in the presence of all the assembly of Israel and spread out his hands toward heaven,",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "and said, “O , God of Israel, there is no God like you, in heaven above or on earth beneath, keeping covenant and showing steadfast love to your servants who walk before you with all their heart;",
+      "text": "and said, “O Lord, God of Israel, there is no God like you, in heaven above or on earth beneath, keeping covenant and showing steadfast love to your servants who walk before you with all their heart;",
       "verse": 23
     },
     {
@@ -115,7 +116,7 @@
       "verse": 24
     },
     {
-      "text": "Now therefore, O , God of Israel, keep for your servant David my father what you have promised him, saying, ‘You shall not lack a man to sit before me on the throne of Israel, if only your sons pay close attention to their way, to walk before me as you have walked before me.’",
+      "text": "Now therefore, O Lord, God of Israel, keep for your servant David my father what you have promised him, saying, ‘You shall not lack a man to sit before me on the throne of Israel, if only your sons pay close attention to their way, to walk before me as you have walked before me.’",
       "verse": 25
     },
     {
@@ -128,7 +129,7 @@
       "type": "newline"
     },
     {
-      "text": "Yet have regard to the prayer of your servant and to his plea, O  my God, listening to the cry and to the prayer that your servant prays before you this day,",
+      "text": "Yet have regard to the prayer of your servant and to his plea, O Lord my God, listening to the cry and to the prayer that your servant prays before you this day,",
       "verse": 28
     },
     {
@@ -197,7 +198,7 @@
       "verse": 43
     },
     {
-      "text": "“If your people go out to battle against their enemy, by whatever way you shall send them, and they pray to the  toward the city that you have chosen and the house that I have built for your name,",
+      "text": "“If your people go out to battle against their enemy, by whatever way you shall send them, and they pray to the Lord toward the city that you have chosen and the house that I have built for your name,",
       "verse": 44,
       "type": "newline"
     },
@@ -235,7 +236,7 @@
       "verse": 52
     },
     {
-      "text": "For you separated them from among all the peoples of the earth to be your heritage, as you declared through Moses your servant, when you brought our fathers out of Egypt, O Lord .”",
+      "text": "For you separated them from among all the peoples of the earth to be your heritage, as you declared through Moses your servant, when you brought our fathers out of Egypt, O Lord God.”",
       "verse": 53
     },
     {
@@ -243,7 +244,7 @@
       "type": "heading"
     },
     {
-      "text": "Now as Solomon finished offering all this prayer and plea to the , he arose from before the altar of the , where he had knelt with hands outstretched toward heaven.",
+      "text": "Now as Solomon finished offering all this prayer and plea to the Lord, he arose from before the altar of the Lord, where he had knelt with hands outstretched toward heaven.",
       "verse": 54,
       "type": "newline"
     },
@@ -252,11 +253,11 @@
       "verse": 55
     },
     {
-      "text": "“Blessed be the  who has given rest to his people Israel, according to all that he promised. Not one word has failed of all his good promise, which he spoke by Moses his servant.",
+      "text": "“Blessed be the Lord who has given rest to his people Israel, according to all that he promised. Not one word has failed of all his good promise, which he spoke by Moses his servant.",
       "verse": 56
     },
     {
-      "text": "The  our God be with us, as he was with our fathers. May he not leave us or forsake us,",
+      "text": "The Lord our God be with us, as he was with our fathers. May he not leave us or forsake us,",
       "verse": 57
     },
     {
@@ -264,15 +265,15 @@
       "verse": 58
     },
     {
-      "text": "Let these words of mine, with which I have pleaded before the , be near to the  our God day and night, and may he maintain the cause of his servant and the cause of his people Israel, as each day requires,",
+      "text": "Let these words of mine, with which I have pleaded before the Lord, be near to the Lord our God day and night, and may he maintain the cause of his servant and the cause of his people Israel, as each day requires,",
       "verse": 59
     },
     {
-      "text": "that all the peoples of the earth may know that the  is God; there is no other.",
+      "text": "that all the peoples of the earth may know that the Lord is God; there is no other.",
       "verse": 60
     },
     {
-      "text": "Let your heart therefore be wholly true to the  our God, walking in his statutes and keeping his commandments, as at this day.”",
+      "text": "Let your heart therefore be wholly true to the Lord our God, walking in his statutes and keeping his commandments, as at this day.”",
       "verse": 61
     },
     {
@@ -280,25 +281,25 @@
       "type": "heading"
     },
     {
-      "text": "Then the king, and all Israel with him, offered sacrifice before the .",
+      "text": "Then the king, and all Israel with him, offered sacrifice before the Lord.",
       "verse": 62,
       "type": "newline"
     },
     {
-      "text": "Solomon offered as peace offerings to the  22,000 oxen and 120,000 sheep. So the king and all the people of Israel dedicated the house of the .",
+      "text": "Solomon offered as peace offerings to the Lord 22,000 oxen and 120,000 sheep. So the king and all the people of Israel dedicated the house of the Lord.",
       "verse": 63
     },
     {
-      "text": "The same day the king consecrated the middle of the court that was before the house of the , for there he offered the burnt offering and the grain offering and the fat pieces of the peace offerings, because the bronze altar that was before the  was too small to receive the burnt offering and the grain offering and the fat pieces of the peace offerings.",
+      "text": "The same day the king consecrated the middle of the court that was before the house of the Lord, for there he offered the burnt offering and the grain offering and the fat pieces of the peace offerings, because the bronze altar that was before the Lord was too small to receive the burnt offering and the grain offering and the fat pieces of the peace offerings.",
       "verse": 64
     },
     {
-      "text": "So Solomon held the feast at that time, and all Israel with him, a great assembly, from Lebo-hamath to the Brook of Egypt, before the  our God, seven days.",
+      "text": "So Solomon held the feast at that time, and all Israel with him, a great assembly, from Lebo-hamath to the Brook of Egypt, before the Lord our God, seven days.",
       "verse": 65,
       "type": "newline"
     },
     {
-      "text": "On the eighth day he sent the people away, and they blessed the king and went to their homes joyful and glad of heart for all the goodness that the  had shown to David his servant and to Israel his people.",
+      "text": "On the eighth day he sent the people away, and they blessed the king and went to their homes joyful and glad of heart for all the goodness that the Lord had shown to David his servant and to Israel his people.",
       "verse": 66
     }
   ]

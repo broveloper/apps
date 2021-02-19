@@ -2,18 +2,19 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 14,
+  "verses": 32,
   "content": [
     {
-      "text": "For the  will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.",
+      "text": "For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.",
       "verse": 1
     },
     {
-      "text": "And the people shall take them, and bring them to their place: and the house of Israel shall possess them in the land of the  for servants and handmaids: and they shall take them captives, whose captives they were; and they shall rule over their oppressors.",
+      "text": "And the people shall take them, and bring them to their place: and the house of Israel shall possess them in the land of the Lord for servants and handmaids: and they shall take them captives, whose captives they were; and they shall rule over their oppressors.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "And it shall come to pass in the day that the  shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve,",
+      "text": "And it shall come to pass in the day that the Lord shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve,",
       "verse": 3,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "The  hath broken the staff of the wicked, and the sceptre of the rulers.",
+      "text": "The Lord hath broken the staff of the wicked, and the sceptre of the rulers.",
       "verse": 5,
       "type": "newline"
     },
@@ -108,17 +109,17 @@
       "type": "newline"
     },
     {
-      "text": "For I will rise up against them, saith the  of hosts, and cut off from Babylon the name, and remnant, and son, and nephew, saith the .",
+      "text": "For I will rise up against them, saith the Lord of hosts, and cut off from Babylon the name, and remnant, and son, and nephew, saith the Lord.",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "I will also make it a possession for the bittern, and pools of water: and I will sweep it with the besom of destruction, saith the  of hosts.",
+      "text": "I will also make it a possession for the bittern, and pools of water: and I will sweep it with the besom of destruction, saith the Lord of hosts.",
       "verse": 23,
       "type": "newline"
     },
     {
-      "text": "The  of hosts hath sworn, saying, Surely as I have thought, so shall it come to pass; and as I have purposed, so shall it stand:",
+      "text": "The Lord of hosts hath sworn, saying, Surely as I have thought, so shall it come to pass; and as I have purposed, so shall it stand:",
       "verse": 24,
       "type": "newline"
     },
@@ -133,7 +134,7 @@
       "type": "newline"
     },
     {
-      "text": "For the  of hosts hath purposed, and who shall disannul it? and his hand is stretched out, and who shall turn it back?",
+      "text": "For the Lord of hosts hath purposed, and who shall disannul it? and his hand is stretched out, and who shall turn it back?",
       "verse": 27,
       "type": "newline"
     },
@@ -158,7 +159,7 @@
       "type": "newline"
     },
     {
-      "text": "What shall one then answer the messengers of the nation? That the  hath founded Zion, and the poor of his people shall trust in it.",
+      "text": "What shall one then answer the messengers of the nation? That the Lord hath founded Zion, and the poor of his people shall trust in it.",
       "verse": 32,
       "type": "newline"
     }

@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 61,
+  "verses": 8,
   "content": [
     {
       "text": "Psalm 61",
@@ -9,8 +10,7 @@
     },
     {
       "text": "For the director of music. With stringed instruments. Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Hear my cry, O God;",

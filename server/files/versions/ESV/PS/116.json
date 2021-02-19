@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 116,
+  "verses": 19,
   "content": [
     {
-      "text": "I Love the",
+      "text": "I Love the Lord",
       "type": "heading"
     },
     {
-      "text": "I love the , because he has heard",
+      "text": "I love the Lord, because he has heard",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -43,17 +44,17 @@
       "type": "poetry"
     },
     {
-      "text": "Then I called on the name of the :",
+      "text": "Then I called on the name of the Lord:",
       "verse": 4,
       "type": "poetry"
     },
     {
-      "text": "“O , I pray, deliver my soul!”",
+      "text": "“O Lord, I pray, deliver my soul!”",
       "verse": 4,
       "type": "poetry"
     },
     {
-      "text": "Gracious is the , and righteous;",
+      "text": "Gracious is the Lord, and righteous;",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -63,7 +64,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  preserves the simple;",
+      "text": "The Lord preserves the simple;",
       "verse": 6,
       "type": "poetry"
     },
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  has dealt bountifully with you.",
+      "text": "for the Lord has dealt bountifully with you.",
       "verse": 7,
       "type": "poetry"
     },
@@ -98,7 +99,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will walk before the",
+      "text": "I will walk before the Lord",
       "verse": 9,
       "type": "poetry"
     },
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "What shall I render to the",
+      "text": "What shall I render to the Lord",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -143,12 +144,12 @@
       "type": "poetry"
     },
     {
-      "text": "and call on the name of the ,",
+      "text": "and call on the name of the Lord,",
       "verse": 13,
       "type": "poetry"
     },
     {
-      "text": "I will pay my vows to the",
+      "text": "I will pay my vows to the Lord",
       "verse": 14,
       "type": "poetry"
     },
@@ -158,7 +159,7 @@
       "type": "poetry"
     },
     {
-      "text": "Precious in the sight of the",
+      "text": "Precious in the sight of the Lord",
       "verse": 15,
       "type": "poetry newline"
     },
@@ -168,7 +169,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , I am your servant;",
+      "text": "O Lord, I am your servant;",
       "verse": 16,
       "type": "poetry"
     },
@@ -188,12 +189,12 @@
       "type": "poetry"
     },
     {
-      "text": "and call on the name of the .",
+      "text": "and call on the name of the Lord.",
       "verse": 17,
       "type": "poetry"
     },
     {
-      "text": "I will pay my vows to the",
+      "text": "I will pay my vows to the Lord",
       "verse": 18,
       "type": "poetry"
     },
@@ -203,7 +204,7 @@
       "type": "poetry"
     },
     {
-      "text": "in the courts of the house of the ,",
+      "text": "in the courts of the house of the Lord,",
       "verse": 19,
       "type": "poetry"
     },
@@ -213,7 +214,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the !",
+      "text": "Praise the Lord!",
       "verse": 19,
       "type": "poetry"
     }

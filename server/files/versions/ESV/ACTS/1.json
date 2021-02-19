@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 1,
+  "verses": 26,
   "content": [
     {
       "text": "The Promise of the Holy Spirit",
@@ -21,12 +22,12 @@
       "verse": 3
     },
     {
-      "text": "And while staying with them he ordered them not to depart from Jerusalem, but to wait for the promise of the Father, which, he said,",
+      "text": "And while staying with them he ordered them not to depart from Jerusalem, but to wait for the promise of the Father, which, he said, “you heard from me;",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "for John baptized with water, but you will be baptized with the Holy Spirit not many days from now.”",
       "verse": 5
     },
     {
@@ -39,11 +40,11 @@
       "type": "newline"
     },
     {
-      "text": "He said to them,",
+      "text": "He said to them, “It is not for you to know times or seasons that the Father has fixed by his own authority.",
       "verse": 7
     },
     {
-      "text": "",
+      "text": "But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth.”",
       "verse": 8
     },
     {

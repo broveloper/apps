@@ -2,13 +2,14 @@
   "book_id": "2CHR",
   "book_name": "2 Chronicles",
   "chapter": 11,
+  "verses": 23,
   "content": [
     {
       "text": "And when Rehoboam was come to Jerusalem, he gathered of the house of Judah and Benjamin an hundred and fourscore thousand chosen men, which were warriors, to fight against Israel, that he might bring the kingdom again to Rehoboam.",
       "verse": 1
     },
     {
-      "text": "But the word of the  came to Shemaiah the man of God, saying,",
+      "text": "But the word of the Lord came to Shemaiah the man of God, saying,",
       "verse": 2,
       "type": "newline"
     },
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "Thus saith the , Ye shall not go up, nor fight against your brethren: return every man to his house: for this thing is done of me. And they obeyed the words of the , and returned from going against Jeroboam.",
+      "text": "Thus saith the Lord, Ye shall not go up, nor fight against your brethren: return every man to his house: for this thing is done of me. And they obeyed the words of the Lord, and returned from going against Jeroboam.",
       "verse": 4,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "For the Levites left their suburbs and their possession, and came to Judah and Jerusalem: for Jeroboam and his sons had cast them off from executing the priest's office unto the :",
+      "text": "For the Levites left their suburbs and their possession, and came to Judah and Jerusalem: for Jeroboam and his sons had cast them off from executing the priest's office unto the Lord:",
       "verse": 14,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "And after them out of all the tribes of Israel such as set their hearts to seek the  God of Israel came to Jerusalem, to sacrifice unto the  God of their fathers.",
+      "text": "And after them out of all the tribes of Israel such as set their hearts to seek the Lord God of Israel came to Jerusalem, to sacrifice unto the Lord God of their fathers.",
       "verse": 16,
       "type": "newline"
     },

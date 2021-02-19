@@ -2,13 +2,14 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 4,
+  "verses": 26,
   "content": [
     {
       "text": "Cain and Abel",
       "type": "heading"
     },
     {
-      "text": "Now Adam knew Eve his wife, and she conceived and bore Cain, saying, “I have gotten a man with the help of the .”",
+      "text": "Now Adam knew Eve his wife, and she conceived and bore Cain, saying, “I have gotten a man with the help of the Lord.”",
       "verse": 1,
       "type": "newline"
     },
@@ -17,11 +18,11 @@
       "verse": 2
     },
     {
-      "text": "In the course of time Cain brought to the  an offering of the fruit of the ground,",
+      "text": "In the course of time Cain brought to the Lord an offering of the fruit of the ground,",
       "verse": 3
     },
     {
-      "text": "and Abel also brought of the firstborn of his flock and of their fat portions. And the  had regard for Abel and his offering,",
+      "text": "and Abel also brought of the firstborn of his flock and of their fat portions. And the Lord had regard for Abel and his offering,",
       "verse": 4
     },
     {
@@ -29,7 +30,7 @@
       "verse": 5
     },
     {
-      "text": "The  said to Cain, “Why are you angry, and why has your face fallen?",
+      "text": "The Lord said to Cain, “Why are you angry, and why has your face fallen?",
       "verse": 6
     },
     {
@@ -42,11 +43,11 @@
       "type": "newline"
     },
     {
-      "text": "Then the  said to Cain, “Where is Abel your brother?” He said, “I do not know; am I my brother's keeper?”",
+      "text": "Then the Lord said to Cain, “Where is Abel your brother?” He said, “I do not know; am I my brother's keeper?”",
       "verse": 9
     },
     {
-      "text": "And the  said, “What have you done? The voice of your brother's blood is crying to me from the ground.",
+      "text": "And the Lord said, “What have you done? The voice of your brother's blood is crying to me from the ground.",
       "verse": 10
     },
     {
@@ -58,7 +59,7 @@
       "verse": 12
     },
     {
-      "text": "Cain said to the , “My punishment is greater than I can bear.",
+      "text": "Cain said to the Lord, “My punishment is greater than I can bear.",
       "verse": 13
     },
     {
@@ -66,11 +67,11 @@
       "verse": 14
     },
     {
-      "text": "Then the  said to him, “Not so! If anyone kills Cain, vengeance shall be taken on him sevenfold.” And the  put a mark on Cain, lest any who found him should attack him.",
+      "text": "Then the Lord said to him, “Not so! If anyone kills Cain, vengeance shall be taken on him sevenfold.” And the Lord put a mark on Cain, lest any who found him should attack him.",
       "verse": 15
     },
     {
-      "text": "Then Cain went away from the presence of the  and settled in the land of Nod, east of Eden.",
+      "text": "Then Cain went away from the presence of the Lord and settled in the land of Nod, east of Eden.",
       "verse": 16
     },
     {
@@ -139,7 +140,7 @@
       "type": "newline"
     },
     {
-      "text": "To Seth also a son was born, and he called his name Enosh. At that time people began to call upon the name of the .",
+      "text": "To Seth also a son was born, and he called his name Enosh. At that time people began to call upon the name of the Lord.",
       "verse": 26
     }
   ]

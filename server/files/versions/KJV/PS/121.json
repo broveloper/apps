@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 121,
+  "verses": 8,
   "content": [
     {
       "text": "I will lift up mine eyes unto the hills, from whence cometh my help.",
       "verse": 1
     },
     {
-      "text": "My help cometh from the , which made heaven and earth.",
+      "text": "My help cometh from the Lord, which made heaven and earth.",
       "verse": 2,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "The  is thy keeper: the  is thy shade upon thy right hand.",
+      "text": "The Lord is thy keeper: the Lord is thy shade upon thy right hand.",
       "verse": 5,
       "type": "newline"
     },
@@ -33,12 +34,12 @@
       "type": "newline"
     },
     {
-      "text": "The  shall preserve thee from all evil: he shall preserve thy soul.",
+      "text": "The Lord shall preserve thee from all evil: he shall preserve thy soul.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "The  shall preserve thy going out and thy coming in from this time forth, and even for evermore.",
+      "text": "The Lord shall preserve thy going out and thy coming in from this time forth, and even for evermore.",
       "verse": 8,
       "type": "newline"
     }

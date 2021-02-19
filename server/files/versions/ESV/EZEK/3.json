@@ -2,6 +2,7 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 3,
+  "verses": 27,
   "content": [
     {
       "text": "And he said to me, “Son of man, eat whatever you find here. Eat this scroll, and go, speak to the house of Israel.”",
@@ -45,11 +46,11 @@
       "verse": 10
     },
     {
-      "text": "And go to the exiles, to your people, and speak to them and say to them, ‘Thus says the Lord ,’ whether they hear or refuse to hear.”",
+      "text": "And go to the exiles, to your people, and speak to them and say to them, ‘Thus says the Lord God,’ whether they hear or refuse to hear.”",
       "verse": 11
     },
     {
-      "text": "Then the Spirit lifted me up, and I heard behind me the voice of a great earthquake: “Blessed be the glory of the  from its place!”",
+      "text": "Then the Spirit lifted me up, and I heard behind me the voice of a great earthquake: “Blessed be the glory of the Lord from its place!”",
       "verse": 12,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "verse": 13
     },
     {
-      "text": "The Spirit lifted me up and took me away, and I went in bitterness in the heat of my spirit, the hand of the  being strong upon me.",
+      "text": "The Spirit lifted me up and took me away, and I went in bitterness in the heat of my spirit, the hand of the Lord being strong upon me.",
       "verse": 14
     },
     {
@@ -70,7 +71,7 @@
       "type": "heading"
     },
     {
-      "text": "And at the end of seven days, the word of the  came to me:",
+      "text": "And at the end of seven days, the word of the Lord came to me:",
       "verse": 16,
       "type": "newline"
     },
@@ -95,12 +96,12 @@
       "verse": 21
     },
     {
-      "text": "And the hand of the  was upon me there. And he said to me, “Arise, go out into the valley, and there I will speak with you.”",
+      "text": "And the hand of the Lord was upon me there. And he said to me, “Arise, go out into the valley, and there I will speak with you.”",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "So I arose and went out into the valley, and behold, the glory of the  stood there, like the glory that I had seen by the Chebar canal, and I fell on my face.",
+      "text": "So I arose and went out into the valley, and behold, the glory of the Lord stood there, like the glory that I had seen by the Chebar canal, and I fell on my face.",
       "verse": 23
     },
     {
@@ -116,7 +117,7 @@
       "verse": 26
     },
     {
-      "text": "But when I speak with you, I will open your mouth, and you shall say to them, ‘Thus says the Lord .’ He who will hear, let him hear; and he who will refuse to hear, let him refuse, for they are a rebellious house.",
+      "text": "But when I speak with you, I will open your mouth, and you shall say to them, ‘Thus says the Lord God.’ He who will hear, let him hear; and he who will refuse to hear, let him refuse, for they are a rebellious house.",
       "verse": 27
     }
   ]

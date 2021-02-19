@@ -2,6 +2,7 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 4,
+  "verses": 31,
   "content": [
     {
       "text": "“If you return, O Israel,",
@@ -9,7 +10,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 1,
       "type": "poetry"
     },
@@ -29,7 +30,7 @@
       "type": "poetry"
     },
     {
-      "text": "and if you swear, ‘As the  lives,’",
+      "text": "and if you swear, ‘As the Lord lives,’",
       "verse": 2,
       "type": "poetry"
     },
@@ -49,7 +50,7 @@
       "type": "poetry"
     },
     {
-      "text": "For thus says the  to the men of Judah and Jerusalem:",
+      "text": "For thus says the Lord to the men of Judah and Jerusalem:",
       "verse": 3,
       "type": "newline"
     },
@@ -64,7 +65,7 @@
       "type": "poetry"
     },
     {
-      "text": "Circumcise yourselves to the ;",
+      "text": "Circumcise yourselves to the Lord;",
       "verse": 4,
       "type": "poetry"
     },
@@ -183,7 +184,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the fierce anger of the",
+      "text": "for the fierce anger of the Lord",
       "verse": 8,
       "type": "poetry"
     },
@@ -193,12 +194,12 @@
       "type": "poetry"
     },
     {
-      "text": "“In that day, declares the , courage shall fail both king and officials. The priests shall be appalled and the prophets astounded.”",
+      "text": "“In that day, declares the Lord, courage shall fail both king and officials. The priests shall be appalled and the prophets astounded.”",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "Then I said, “Ah, Lord , surely you have utterly deceived this people and Jerusalem, saying, ‘It shall be well with you,’ whereas the sword has reached their very life.”",
+      "text": "Then I said, “Ah, Lord God, surely you have utterly deceived this people and Jerusalem, saying, ‘It shall be well with you,’ whereas the sword has reached their very life.”",
       "verse": 10
     },
     {
@@ -291,7 +292,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 17,
       "type": "poetry"
     },
@@ -450,12 +451,12 @@
       "type": "poetry"
     },
     {
-      "text": "before the , before his fierce anger.",
+      "text": "before the Lord, before his fierce anger.",
       "verse": 26,
       "type": "poetry"
     },
     {
-      "text": "For thus says the , “The whole land shall be a desolation; yet I will not make a full end.",
+      "text": "For thus says the Lord, “The whole land shall be a desolation; yet I will not make a full end.",
       "verse": 27,
       "type": "newline"
     },

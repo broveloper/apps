@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 3,
+  "verses": 8,
   "content": [
     {
       "text": "Psalm 3",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A psalm of David. When he fled from his son Absalom.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": ", how many are my foes!",
+      "text": "Lord, how many are my foes!",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "But you, , are a shield around me,",
+      "text": "But you, Lord, are a shield around me,",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -43,7 +43,7 @@
       "type": "poetry"
     },
     {
-      "text": "I call out to the ,",
+      "text": "I call out to the Lord,",
       "verse": 4,
       "type": "poetry"
     },
@@ -58,7 +58,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "I wake again, because the  sustains me.",
+      "text": "I wake again, because the Lord sustains me.",
       "verse": 5,
       "type": "poetry"
     },
@@ -73,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "Arise, !",
+      "text": "Arise, Lord!",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -93,7 +93,7 @@
       "type": "poetry"
     },
     {
-      "text": "From the  comes deliverance.",
+      "text": "From the Lord comes deliverance.",
       "verse": 8,
       "type": "poetry newline"
     },

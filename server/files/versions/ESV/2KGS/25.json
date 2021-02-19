@@ -2,6 +2,7 @@
   "book_id": "2KGS",
   "book_name": "2 Kings",
   "chapter": 25,
+  "verses": 30,
   "content": [
     {
       "text": "Fall and Captivity of Judah",
@@ -42,7 +43,7 @@
       "type": "newline"
     },
     {
-      "text": "And he burned the house of the  and the king's house and all the houses of Jerusalem; every great house he burned down.",
+      "text": "And he burned the house of the Lord and the king's house and all the houses of Jerusalem; every great house he burned down.",
       "verse": 9
     },
     {
@@ -58,7 +59,7 @@
       "verse": 12
     },
     {
-      "text": "And the pillars of bronze that were in the house of the , and the stands and the bronze sea that were in the house of the , the Chaldeans broke in pieces and carried the bronze to Babylon.",
+      "text": "And the pillars of bronze that were in the house of the Lord, and the stands and the bronze sea that were in the house of the Lord, the Chaldeans broke in pieces and carried the bronze to Babylon.",
       "verse": 13,
       "type": "newline"
     },
@@ -71,7 +72,7 @@
       "verse": 15
     },
     {
-      "text": "As for the two pillars, the one sea, and the stands that Solomon had made for the house of the , the bronze of all these vessels was beyond weight.",
+      "text": "As for the two pillars, the one sea, and the stands that Solomon had made for the house of the Lord, the bronze of all these vessels was beyond weight.",
       "verse": 16
     },
     {

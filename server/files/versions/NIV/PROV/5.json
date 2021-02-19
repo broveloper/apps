@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 5,
+  "verses": 23,
   "content": [
     {
       "text": "Warning Against Adultery",
@@ -213,7 +214,7 @@
       "type": "poetry"
     },
     {
-      "text": "For your ways are in full view of the ,",
+      "text": "For your ways are in full view of the Lord,",
       "verse": 21,
       "type": "poetry newline"
     },

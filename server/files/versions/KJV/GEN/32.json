@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 32,
+  "verses": 32,
   "content": [
     {
       "text": "And Jacob went on his way, and the angels of God met him.",
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "And Jacob said, O God of my father Abraham, and God of my father Isaac, the  which saidst unto me, Return unto thy country, and to thy kindred, and I will deal well with thee:",
+      "text": "And Jacob said, O God of my father Abraham, and God of my father Isaac, the Lord which saidst unto me, Return unto thy country, and to thy kindred, and I will deal well with thee:",
       "verse": 9,
       "type": "newline"
     },

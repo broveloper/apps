@@ -2,13 +2,14 @@
   "book_id": "MIC",
   "book_name": "Micah",
   "chapter": 6,
+  "verses": 16,
   "content": [
     {
-      "text": "The ’s Case Against Israel",
+      "text": "The Lord’s Case Against Israel",
       "type": "heading"
     },
     {
-      "text": "Listen to what the  says:",
+      "text": "Listen to what the Lord says:",
       "verse": 1,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Hear, you mountains, the ’s accusation;",
+      "text": "“Hear, you mountains, the Lord’s accusation;",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -33,7 +34,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the  has a case against his people;",
+      "text": "For the Lord has a case against his people;",
       "verse": 2,
       "type": "poetry"
     },
@@ -93,12 +94,12 @@
       "type": "poetry"
     },
     {
-      "text": "that you may know the righteous acts of the .”",
+      "text": "that you may know the righteous acts of the Lord.”",
       "verse": 5,
       "type": "poetry"
     },
     {
-      "text": "With what shall I come before the",
+      "text": "With what shall I come before the Lord",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -118,7 +119,7 @@
       "type": "poetry"
     },
     {
-      "text": "Will the  be pleased with thousands of rams,",
+      "text": "Will the Lord be pleased with thousands of rams,",
       "verse": 7,
       "type": "poetry"
     },
@@ -143,7 +144,7 @@
       "type": "poetry"
     },
     {
-      "text": "And what does the  require of you?",
+      "text": "And what does the Lord require of you?",
       "verse": 8,
       "type": "poetry"
     },
@@ -162,7 +163,7 @@
       "type": "heading"
     },
     {
-      "text": "Listen! The  is calling to the city—",
+      "text": "Listen! The Lord is calling to the city—",
       "verse": 9,
       "type": "poetry newline"
     },

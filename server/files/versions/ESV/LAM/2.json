@@ -2,6 +2,7 @@
   "book_id": "LAM",
   "book_name": "Lamentations",
   "chapter": 2,
+  "verses": 22,
   "content": [
     {
       "text": "The Lord Has Destroyed Without Pity",
@@ -163,7 +164,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  has made Zion forget",
+      "text": "the Lord has made Zion forget",
       "verse": 6,
       "type": "poetry"
     },
@@ -198,7 +199,7 @@
       "type": "poetry"
     },
     {
-      "text": "they raised a clamor in the house of the",
+      "text": "they raised a clamor in the house of the Lord",
       "verse": 7,
       "type": "poetry"
     },
@@ -208,7 +209,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  determined to lay in ruins",
+      "text": "The Lord determined to lay in ruins",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -263,7 +264,7 @@
       "type": "poetry"
     },
     {
-      "text": "no vision from the .",
+      "text": "no vision from the Lord.",
       "verse": 9,
       "type": "poetry"
     },
@@ -483,7 +484,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has done what he purposed;",
+      "text": "The Lord has done what he purposed;",
       "verse": 17,
       "type": "poetry newline"
     },
@@ -583,7 +584,7 @@
       "type": "poetry"
     },
     {
-      "text": "Look, O , and see!",
+      "text": "Look, O Lord, and see!",
       "verse": 20,
       "type": "poetry newline"
     },
@@ -653,7 +654,7 @@
       "type": "poetry"
     },
     {
-      "text": "and on the day of the anger of the",
+      "text": "and on the day of the anger of the Lord",
       "verse": 22,
       "type": "poetry"
     },

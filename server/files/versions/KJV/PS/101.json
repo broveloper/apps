@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 101,
+  "verses": 8,
   "content": [
     {
-      "text": "I will sing of mercy and judgment: unto thee, O , will I sing.",
+      "text": "I will sing of mercy and judgment: unto thee, O Lord, will I sing.",
       "verse": 1
     },
     {
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the .",
+      "text": "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the Lord.",
       "verse": 8,
       "type": "newline"
     }

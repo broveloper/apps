@@ -2,18 +2,19 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 106,
+  "verses": 48,
   "content": [
     {
-      "text": "Give Thanks to the , for He Is Good",
+      "text": "Give Thanks to the Lord, for He Is Good",
       "type": "heading"
     },
     {
-      "text": "Praise the !",
+      "text": "Praise the Lord!",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "Oh give thanks to the , for he is good,",
+      "text": "Oh give thanks to the Lord, for he is good,",
       "verse": 1,
       "type": "poetry"
     },
@@ -23,7 +24,7 @@
       "type": "poetry"
     },
     {
-      "text": "Who can utter the mighty deeds of the ,",
+      "text": "Who can utter the mighty deeds of the Lord,",
       "verse": 2,
       "type": "poetry"
     },
@@ -43,7 +44,7 @@
       "type": "poetry"
     },
     {
-      "text": "Remember me, O , when you show favor to your people;",
+      "text": "Remember me, O Lord, when you show favor to your people;",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -183,7 +184,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "and Aaron, the holy one of the ,",
+      "text": "and Aaron, the holy one of the Lord,",
       "verse": 16,
       "type": "poetry"
     },
@@ -283,7 +284,7 @@
       "type": "poetry"
     },
     {
-      "text": "and did not obey the voice of the .",
+      "text": "and did not obey the voice of the Lord.",
       "verse": 25,
       "type": "poetry"
     },
@@ -318,7 +319,7 @@
       "type": "poetry"
     },
     {
-      "text": "they provoked the  to anger with their deeds,",
+      "text": "they provoked the Lord to anger with their deeds,",
       "verse": 29,
       "type": "poetry"
     },
@@ -373,7 +374,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "as the  commanded them,",
+      "text": "as the Lord commanded them,",
       "verse": 34,
       "type": "poetry"
     },
@@ -438,7 +439,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then the anger of the  was kindled against his people,",
+      "text": "Then the anger of the Lord was kindled against his people,",
       "verse": 40,
       "type": "poetry newline"
     },
@@ -513,7 +514,7 @@
       "type": "poetry"
     },
     {
-      "text": "Save us, O  our God,",
+      "text": "Save us, O Lord our God,",
       "verse": 47,
       "type": "poetry newline"
     },
@@ -533,7 +534,7 @@
       "type": "poetry"
     },
     {
-      "text": "Blessed be the , the God of Israel,",
+      "text": "Blessed be the Lord, the God of Israel,",
       "verse": 48,
       "type": "poetry newline"
     },
@@ -548,7 +549,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the !",
+      "text": "Praise the Lord!",
       "verse": 48,
       "type": "poetry"
     }

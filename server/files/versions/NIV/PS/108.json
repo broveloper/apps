@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 108,
+  "verses": 13,
   "content": [
     {
       "text": "Psalm 108",
@@ -9,8 +10,7 @@
     },
     {
       "text": "A song. A psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "My heart, O God, is steadfast;",
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will praise you, , among the nations;",
+      "text": "I will praise you, Lord, among the nations;",
       "verse": 3,
       "type": "poetry"
     },

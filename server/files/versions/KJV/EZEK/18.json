@@ -2,9 +2,10 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 18,
+  "verses": 32,
   "content": [
     {
-      "text": "The word of the  came unto me again, saying,",
+      "text": "The word of the Lord came unto me again, saying,",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "As I live, saith the Lord , ye shall not have occasion any more to use this proverb in Israel.",
+      "text": "As I live, saith the Lord God, ye shall not have occasion any more to use this proverb in Israel.",
       "verse": 3,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "Hath walked in my statutes, and hath kept my judgments, to deal truly; he is just, he shall surely live, saith the Lord .",
+      "text": "Hath walked in my statutes, and hath kept my judgments, to deal truly; he is just, he shall surely live, saith the Lord God.",
       "verse": 9,
       "type": "newline"
     },
@@ -113,7 +114,7 @@
       "type": "newline"
     },
     {
-      "text": "Have I any pleasure at all that the wicked should die? saith the Lord : and not that he should return from his ways, and live?",
+      "text": "Have I any pleasure at all that the wicked should die? saith the Lord God: and not that he should return from his ways, and live?",
       "verse": 23,
       "type": "newline"
     },
@@ -123,7 +124,7 @@
       "type": "newline"
     },
     {
-      "text": "Yet ye say, The way of the  is not equal. Hear now, O house of Israel; Is not my way equal? are not your ways unequal?",
+      "text": "Yet ye say, The way of the Lord is not equal. Hear now, O house of Israel; Is not my way equal? are not your ways unequal?",
       "verse": 25,
       "type": "newline"
     },
@@ -143,12 +144,12 @@
       "type": "newline"
     },
     {
-      "text": "Yet saith the house of Israel, The way of the  is not equal. O house of Israel, are not my ways equal? are not your ways unequal?",
+      "text": "Yet saith the house of Israel, The way of the Lord is not equal. O house of Israel, are not my ways equal? are not your ways unequal?",
       "verse": 29,
       "type": "newline"
     },
     {
-      "text": "Therefore I will judge you, O house of Israel, every one according to his ways, saith the Lord . Repent, and turn yourselves from all your transgressions; so iniquity shall not be your ruin.",
+      "text": "Therefore I will judge you, O house of Israel, every one according to his ways, saith the Lord God. Repent, and turn yourselves from all your transgressions; so iniquity shall not be your ruin.",
       "verse": 30,
       "type": "newline"
     },
@@ -158,7 +159,7 @@
       "type": "newline"
     },
     {
-      "text": "For I have no pleasure in the death of him that dieth, saith the Lord : wherefore turn yourselves, and live ye.",
+      "text": "For I have no pleasure in the death of him that dieth, saith the Lord God: wherefore turn yourselves, and live ye.",
       "verse": 32,
       "type": "newline"
     }

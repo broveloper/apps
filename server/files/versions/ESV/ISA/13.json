@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 13,
+  "verses": 22,
   "content": [
     {
       "text": "The Judgment of Babylon",
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  of hosts is mustering",
+      "text": "The Lord of hosts is mustering",
       "verse": 4,
       "type": "poetry"
     },
@@ -88,7 +89,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  and the weapons of his indignation,",
+      "text": "the Lord and the weapons of his indignation,",
       "verse": 5,
       "type": "poetry"
     },
@@ -98,7 +99,7 @@
       "type": "poetry"
     },
     {
-      "text": "Wail, for the day of the  is near;",
+      "text": "Wail, for the day of the Lord is near;",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -143,7 +144,7 @@
       "type": "poetry"
     },
     {
-      "text": "Behold, the day of the  comes,",
+      "text": "Behold, the day of the Lord comes,",
       "verse": 9,
       "type": "poetry newline"
     },
@@ -223,7 +224,7 @@
       "type": "poetry"
     },
     {
-      "text": "at the wrath of the  of hosts",
+      "text": "at the wrath of the Lord of hosts",
       "verse": 13,
       "type": "poetry"
     },

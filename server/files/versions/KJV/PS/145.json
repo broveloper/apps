@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 145,
+  "verses": 21,
   "content": [
     {
       "text": "I will extol thee, my God, O king; and I will bless thy name for ever and ever.",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "Great is the , and greatly to be praised; and his greatness is unsearchable.",
+      "text": "Great is the Lord, and greatly to be praised; and his greatness is unsearchable.",
       "verse": 3,
       "type": "newline"
     },
@@ -38,17 +39,17 @@
       "type": "newline"
     },
     {
-      "text": "The  is gracious, and full of compassion; slow to anger, and of great mercy.",
+      "text": "The Lord is gracious, and full of compassion; slow to anger, and of great mercy.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "The  is good to all: and his tender mercies are over all his works.",
+      "text": "The Lord is good to all: and his tender mercies are over all his works.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "All thy works shall praise thee, O ; and thy saints shall bless thee.",
+      "text": "All thy works shall praise thee, O Lord; and thy saints shall bless thee.",
       "verse": 10,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "The  upholdeth all that fall, and raiseth up all those that be bowed down.",
+      "text": "The Lord upholdeth all that fall, and raiseth up all those that be bowed down.",
       "verse": 14,
       "type": "newline"
     },
@@ -83,12 +84,12 @@
       "type": "newline"
     },
     {
-      "text": "The  is righteous in all his ways, and holy in all his works.",
+      "text": "The Lord is righteous in all his ways, and holy in all his works.",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "The  is nigh unto all them that call upon him, to all that call upon him in truth.",
+      "text": "The Lord is nigh unto all them that call upon him, to all that call upon him in truth.",
       "verse": 18,
       "type": "newline"
     },
@@ -98,12 +99,12 @@
       "type": "newline"
     },
     {
-      "text": "The  preserveth all them that love him: but all the wicked will he destroy.",
+      "text": "The Lord preserveth all them that love him: but all the wicked will he destroy.",
       "verse": 20,
       "type": "newline"
     },
     {
-      "text": "My mouth shall speak the praise of the : and let all flesh bless his holy name for ever and ever.",
+      "text": "My mouth shall speak the praise of the Lord: and let all flesh bless his holy name for ever and ever.",
       "verse": 21,
       "type": "newline"
     }

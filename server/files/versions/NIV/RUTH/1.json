@@ -2,6 +2,7 @@
   "book_id": "RUTH",
   "book_name": "Ruth",
   "chapter": 1,
+  "verses": 22,
   "content": [
     {
       "text": "Naomi Loses Her Husband and Sons",
@@ -34,7 +35,7 @@
       "type": "heading"
     },
     {
-      "text": "When Naomi heard in Moab that the  had come to the aid of his people by providing food for them, she and her daughters-in-law prepared to return home from there.",
+      "text": "When Naomi heard in Moab that the Lord had come to the aid of his people by providing food for them, she and her daughters-in-law prepared to return home from there.",
       "verse": 6,
       "type": "newline"
     },
@@ -43,12 +44,12 @@
       "verse": 7
     },
     {
-      "text": "Then Naomi said to her two daughters-in-law, “Go back, each of you, to your mother’s home. May the  show you kindness, as you have shown kindness to your dead husbands and to me.",
+      "text": "Then Naomi said to her two daughters-in-law, “Go back, each of you, to your mother’s home. May the Lord show you kindness, as you have shown kindness to your dead husbands and to me.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "May the  grant that each of you will find rest in the home of another husband.”",
+      "text": "May the Lord grant that each of you will find rest in the home of another husband.”",
       "verse": 9
     },
     {
@@ -70,7 +71,7 @@
       "verse": 12
     },
     {
-      "text": "would you wait until they grew up? Would you remain unmarried for them? No, my daughters. It is more bitter for me than for you, because the ’s hand has turned against me!”",
+      "text": "would you wait until they grew up? Would you remain unmarried for them? No, my daughters. It is more bitter for me than for you, because the Lord’s hand has turned against me!”",
       "verse": 13
     },
     {
@@ -89,7 +90,7 @@
       "type": "newline"
     },
     {
-      "text": "Where you die I will die, and there I will be buried. May the  deal with me, be it ever so severely, if even death separates you and me.”",
+      "text": "Where you die I will die, and there I will be buried. May the Lord deal with me, be it ever so severely, if even death separates you and me.”",
       "verse": 17
     },
     {
@@ -107,7 +108,7 @@
       "type": "newline"
     },
     {
-      "text": "I went away full, but the  has brought me back empty. Why call me Naomi? The  has afflicted me; the Almighty has brought misfortune upon me.”",
+      "text": "I went away full, but the Lord has brought me back empty. Why call me Naomi? The Lord has afflicted me; the Almighty has brought misfortune upon me.”",
       "verse": 21
     },
     {

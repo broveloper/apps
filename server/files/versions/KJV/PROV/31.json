@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 31,
+  "verses": 31,
   "content": [
     {
       "text": "The words of king Lemuel, the prophecy that his mother taught him.",
@@ -148,7 +149,7 @@
       "type": "newline"
     },
     {
-      "text": "Favour is deceitful, and beauty is vain: but a woman that feareth the , she shall be praised.",
+      "text": "Favour is deceitful, and beauty is vain: but a woman that feareth the Lord, she shall be praised.",
       "verse": 30,
       "type": "newline"
     },

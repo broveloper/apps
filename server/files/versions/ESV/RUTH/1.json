@@ -2,6 +2,7 @@
   "book_id": "RUTH",
   "book_name": "Ruth",
   "chapter": 1,
+  "verses": 22,
   "content": [
     {
       "text": "Naomi Widowed",
@@ -33,7 +34,7 @@
       "type": "heading"
     },
     {
-      "text": "Then she arose with her daughters-in-law to return from the country of Moab, for she had heard in the fields of Moab that the  had visited his people and given them food.",
+      "text": "Then she arose with her daughters-in-law to return from the country of Moab, for she had heard in the fields of Moab that the Lord had visited his people and given them food.",
       "verse": 6,
       "type": "newline"
     },
@@ -42,11 +43,11 @@
       "verse": 7
     },
     {
-      "text": "But Naomi said to her two daughters-in-law, “Go, return each of you to her mother's house. May the  deal kindly with you, as you have dealt with the dead and with me.",
+      "text": "But Naomi said to her two daughters-in-law, “Go, return each of you to her mother's house. May the Lord deal kindly with you, as you have dealt with the dead and with me.",
       "verse": 8
     },
     {
-      "text": "The  grant that you may find rest, each of you in the house of her husband!” Then she kissed them, and they lifted up their voices and wept.",
+      "text": "The Lord grant that you may find rest, each of you in the house of her husband!” Then she kissed them, and they lifted up their voices and wept.",
       "verse": 9
     },
     {
@@ -62,7 +63,7 @@
       "verse": 12
     },
     {
-      "text": "would you therefore wait till they were grown? Would you therefore refrain from marrying? No, my daughters, for it is exceedingly bitter to me for your sake that the hand of the  has gone out against me.”",
+      "text": "would you therefore wait till they were grown? Would you therefore refrain from marrying? No, my daughters, for it is exceedingly bitter to me for your sake that the hand of the Lord has gone out against me.”",
       "verse": 13
     },
     {
@@ -79,7 +80,7 @@
       "verse": 16
     },
     {
-      "text": "Where you die I will die, and there will I be buried. May the  do so to me and more also if anything but death parts me from you.”",
+      "text": "Where you die I will die, and there will I be buried. May the Lord do so to me and more also if anything but death parts me from you.”",
       "verse": 17
     },
     {
@@ -100,7 +101,7 @@
       "verse": 20
     },
     {
-      "text": "I went away full, and the  has brought me back empty. Why call me Naomi, when the  has testified against me and the Almighty has brought calamity upon me?”",
+      "text": "I went away full, and the Lord has brought me back empty. Why call me Naomi, when the Lord has testified against me and the Almighty has brought calamity upon me?”",
       "verse": 21
     },
     {

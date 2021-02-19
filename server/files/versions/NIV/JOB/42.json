@@ -2,13 +2,14 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 42,
+  "verses": 17,
   "content": [
     {
       "text": "Job",
       "type": "heading"
     },
     {
-      "text": "Then Job replied to the :",
+      "text": "Then Job replied to the Lord:",
       "verse": 1,
       "type": "newline"
     },
@@ -77,7 +78,7 @@
       "type": "heading"
     },
     {
-      "text": "After the  had said these things to Job, he said to Eliphaz the Temanite, “I am angry with you and your two friends, because you have not spoken the truth about me, as my servant Job has.",
+      "text": "After the Lord had said these things to Job, he said to Eliphaz the Temanite, “I am angry with you and your two friends, because you have not spoken the truth about me, as my servant Job has.",
       "verse": 7,
       "type": "newline"
     },
@@ -86,20 +87,20 @@
       "verse": 8
     },
     {
-      "text": "So Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite did what the  told them; and the  accepted Job’s prayer.",
+      "text": "So Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite did what the Lord told them; and the Lord accepted Job’s prayer.",
       "verse": 9
     },
     {
-      "text": "After Job had prayed for his friends, the  restored his fortunes and gave him twice as much as he had before.",
+      "text": "After Job had prayed for his friends, the Lord restored his fortunes and gave him twice as much as he had before.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "All his brothers and sisters and everyone who had known him before came and ate with him in his house. They comforted and consoled him over all the trouble the  had brought on him, and each one gave him a piece of silver and a gold ring.",
+      "text": "All his brothers and sisters and everyone who had known him before came and ate with him in his house. They comforted and consoled him over all the trouble the Lord had brought on him, and each one gave him a piece of silver and a gold ring.",
       "verse": 11
     },
     {
-      "text": "The  blessed the latter part of Job’s life more than the former part. He had fourteen thousand sheep, six thousand camels, a thousand yoke of oxen and a thousand donkeys.",
+      "text": "The Lord blessed the latter part of Job’s life more than the former part. He had fourteen thousand sheep, six thousand camels, a thousand yoke of oxen and a thousand donkeys.",
       "verse": 12,
       "type": "newline"
     },

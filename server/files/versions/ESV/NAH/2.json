@@ -2,6 +2,7 @@
   "book_id": "NAH",
   "book_name": "Nahum",
   "chapter": 2,
+  "verses": 13,
   "content": [
     {
       "text": "The Destruction of Nineveh",
@@ -33,7 +34,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the  is restoring the majesty of Jacob",
+      "text": "For the Lord is restoring the majesty of Jacob",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -248,7 +249,7 @@
       "type": "poetry"
     },
     {
-      "text": "Behold, I am against you, declares the  of hosts, and I will burn your chariots in smoke, and the sword shall devour your young lions. I will cut off your prey from the earth, and the voice of your messengers shall no longer be heard.",
+      "text": "Behold, I am against you, declares the Lord of hosts, and I will burn your chariots in smoke, and the sword shall devour your young lions. I will cut off your prey from the earth, and the voice of your messengers shall no longer be heard.",
       "verse": 13,
       "type": "newline"
     }

@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 35,
+  "verses": 10,
   "content": [
     {
       "text": "The Ransomed Shall Return",
@@ -38,7 +39,7 @@
       "type": "poetry"
     },
     {
-      "text": "They shall see the glory of the ,",
+      "text": "They shall see the glory of the Lord,",
       "verse": 2,
       "type": "poetry"
     },
@@ -183,7 +184,7 @@
       "type": "poetry"
     },
     {
-      "text": "And the ransomed of the  shall return",
+      "text": "And the ransomed of the Lord shall return",
       "verse": 10,
       "type": "poetry"
     },

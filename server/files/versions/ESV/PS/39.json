@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 39,
+  "verses": 13,
   "content": [
     {
       "text": "What Is the Measure of My Days?",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster: to Jeduthun. A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "I said, “I will guard my ways,",
@@ -48,7 +48,7 @@
       "type": "poetry"
     },
     {
-      "text": "My heart became hot within me.",
+      "text": "    My heart became hot within me.",
       "verse": 3,
       "type": "poetry"
     },
@@ -63,7 +63,7 @@
       "type": "poetry"
     },
     {
-      "text": "“O , make me know my end",
+      "text": "“O Lord, make me know my end",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -88,12 +88,12 @@
       "type": "poetry"
     },
     {
-      "text": "Surely all mankind stands as a mere breath!",
+      "text": "Surely all mankind stands as a mere breath! Selah",
       "verse": 5,
       "type": "poetry"
     },
     {
-      "text": "Surely a man goes about as a shadow!",
+      "text": "    Surely a man goes about as a shadow!",
       "verse": 6,
       "type": "poetry"
     },
@@ -163,12 +163,12 @@
       "type": "poetry"
     },
     {
-      "text": "surely all mankind is a mere breath!",
+      "text": "surely all mankind is a mere breath! Selah",
       "verse": 11,
       "type": "poetry"
     },
     {
-      "text": "“Hear my prayer, O ,",
+      "text": "“Hear my prayer, O Lord,",
       "verse": 12,
       "type": "poetry newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "2CHR",
   "book_name": "2 Chronicles",
   "chapter": 4,
+  "verses": 22,
   "content": [
     {
       "text": "The Temple’s Furnishings",
@@ -93,7 +94,7 @@
       "verse": 16
     },
     {
-      "text": "All the objects that Huram-Abi made for King Solomon for the temple of the  were of polished bronze.",
+      "text": "All the objects that Huram-Abi made for King Solomon for the temple of the Lord were of polished bronze.",
       "verse": 16,
       "type": "newline"
     },

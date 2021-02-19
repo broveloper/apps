@@ -2,9 +2,10 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 50,
+  "verses": 11,
   "content": [
     {
-      "text": "Thus saith the , Where is the bill of your mother's divorcement, whom I have put away? or which of my creditors is it to whom I have sold you? Behold, for your iniquities have ye sold yourselves, and for your transgressions is your mother put away.",
+      "text": "Thus saith the Lord, Where is the bill of your mother's divorcement, whom I have put away? or which of my creditors is it to whom I have sold you? Behold, for your iniquities have ye sold yourselves, and for your transgressions is your mother put away.",
       "verse": 1
     },
     {
@@ -18,12 +19,12 @@
       "type": "newline"
     },
     {
-      "text": "The Lord  hath given me the tongue of the learned, that I should know how to speak a word in season to him that is weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned.",
+      "text": "The Lord God hath given me the tongue of the learned, that I should know how to speak a word in season to him that is weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "The Lord  hath opened mine ear, and I was not rebellious, neither turned away back.",
+      "text": "The Lord God hath opened mine ear, and I was not rebellious, neither turned away back.",
       "verse": 5,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "For the Lord  will help me; therefore shall I not be confounded: therefore have I set my face like a flint, and I know that I shall not be ashamed.",
+      "text": "For the Lord God will help me; therefore shall I not be confounded: therefore have I set my face like a flint, and I know that I shall not be ashamed.",
       "verse": 7,
       "type": "newline"
     },
@@ -43,12 +44,12 @@
       "type": "newline"
     },
     {
-      "text": "Behold, the Lord  will help me; who is he that shall condemn me? lo, they all shall wax old as a garment; the moth shall eat them up.",
+      "text": "Behold, the Lord God will help me; who is he that shall condemn me? lo, they all shall wax old as a garment; the moth shall eat them up.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "Who is among you that feareth the , that obeyeth the voice of his servant, that walketh in darkness, and hath no light? let him trust in the name of the , and stay upon his God.",
+      "text": "Who is among you that feareth the Lord, that obeyeth the voice of his servant, that walketh in darkness, and hath no light? let him trust in the name of the Lord, and stay upon his God.",
       "verse": 10,
       "type": "newline"
     },

@@ -2,13 +2,14 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 21,
+  "verses": 23,
   "content": [
     {
       "text": "Atonement for an Unsolved Murder",
       "type": "heading"
     },
     {
-      "text": "If someone is found slain, lying in a field in the land the  your God is giving you to possess, and it is not known who the killer was,",
+      "text": "If someone is found slain, lying in a field in the land the Lord your God is giving you to possess, and it is not known who the killer was,",
       "verse": 1,
       "type": "newline"
     },
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "The Levitical priests shall step forward, for the  your God has chosen them to minister and to pronounce blessings in the name of the  and to decide all cases of dispute and assault.",
+      "text": "The Levitical priests shall step forward, for the Lord your God has chosen them to minister and to pronounce blessings in the name of the Lord and to decide all cases of dispute and assault.",
       "verse": 5
     },
     {
@@ -37,11 +38,11 @@
       "verse": 7
     },
     {
-      "text": "Accept this atonement for your people Israel, whom you have redeemed, , and do not hold your people guilty of the blood of an innocent person.” Then the bloodshed will be atoned for,",
+      "text": "Accept this atonement for your people Israel, whom you have redeemed, Lord, and do not hold your people guilty of the blood of an innocent person.” Then the bloodshed will be atoned for,",
       "verse": 8
     },
     {
-      "text": "and you will have purged from yourselves the guilt of shedding innocent blood, since you have done what is right in the eyes of the .",
+      "text": "and you will have purged from yourselves the guilt of shedding innocent blood, since you have done what is right in the eyes of the Lord.",
       "verse": 9
     },
     {
@@ -49,7 +50,7 @@
       "type": "heading"
     },
     {
-      "text": "When you go to war against your enemies and the  your God delivers them into your hands and you take captives,",
+      "text": "When you go to war against your enemies and the Lord your God delivers them into your hands and you take captives,",
       "verse": 10,
       "type": "newline"
     },
@@ -117,7 +118,7 @@
       "type": "newline"
     },
     {
-      "text": "you must not leave the body hanging on the pole overnight. Be sure to bury it that same day, because anyone who is hung on a pole is under God’s curse. You must not desecrate the land the  your God is giving you as an inheritance.",
+      "text": "you must not leave the body hanging on the pole overnight. Be sure to bury it that same day, because anyone who is hung on a pole is under God’s curse. You must not desecrate the land the Lord your God is giving you as an inheritance.",
       "verse": 23
     }
   ]

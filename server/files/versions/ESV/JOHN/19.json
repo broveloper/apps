@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 19,
+  "verses": 42,
   "content": [
     {
       "text": "Jesus Delivered to Be Crucified",
@@ -49,7 +50,7 @@
       "verse": 10
     },
     {
-      "text": "Jesus answered him,",
+      "text": "Jesus answered him, “You would have no authority over me at all unless it had been given you from above. Therefore he who delivered me over to you has the greater sin.”",
       "verse": 11
     },
     {
@@ -135,11 +136,11 @@
       "verse": 25
     },
     {
-      "text": "When Jesus saw his mother and the disciple whom he loved standing nearby, he said to his mother,",
+      "text": "When Jesus saw his mother and the disciple whom he loved standing nearby, he said to his mother, “Woman, behold, your son!”",
       "verse": 26
     },
     {
-      "text": "Then he said to the disciple,  And from that hour the disciple took her to his own home.",
+      "text": "Then he said to the disciple, “Behold, your mother!” And from that hour the disciple took her to his own home.",
       "verse": 27
     },
     {
@@ -147,7 +148,7 @@
       "type": "heading"
     },
     {
-      "text": "After this, Jesus, knowing that all was now finished, said (to fulfill the Scripture),",
+      "text": "After this, Jesus, knowing that all was now finished, said (to fulfill the Scripture), “I thirst.”",
       "verse": 28,
       "type": "newline"
     },
@@ -156,7 +157,7 @@
       "verse": 29
     },
     {
-      "text": "When Jesus had received the sour wine, he said,  and he bowed his head and gave up his spirit.",
+      "text": "When Jesus had received the sour wine, he said, “It is finished,” and he bowed his head and gave up his spirit.",
       "verse": 30
     },
     {

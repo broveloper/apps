@@ -2,6 +2,7 @@
   "book_id": "1CHR",
   "book_name": "1 Chronicles",
   "chapter": 12,
+  "verses": 40,
   "content": [
     {
       "text": "Warriors Join David",
@@ -142,7 +143,7 @@
       "type": "heading"
     },
     {
-      "text": "These are the numbers of the men armed for battle who came to David at Hebron to turn Saul’s kingdom over to him, as the  had said:",
+      "text": "These are the numbers of the men armed for battle who came to David at Hebron to turn Saul’s kingdom over to him, as the Lord had said:",
       "verse": 23,
       "type": "newline"
     },

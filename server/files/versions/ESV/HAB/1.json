@@ -2,6 +2,7 @@
   "book_id": "HAB",
   "book_name": "Habakkuk",
   "chapter": 1,
+  "verses": 17,
   "content": [
     {
       "text": "The oracle that Habakkuk the prophet saw.",
@@ -12,7 +13,7 @@
       "type": "heading"
     },
     {
-      "text": "O , how long shall I cry for help,",
+      "text": "O Lord, how long shall I cry for help,",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -72,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "The 's Answer",
+      "text": "The Lord's Answer",
       "type": "heading"
     },
     {
@@ -205,7 +206,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "O  my God, my Holy One?",
+      "text": "O Lord my God, my Holy One?",
       "verse": 12,
       "type": "poetry"
     },
@@ -215,7 +216,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , you have ordained them as a judgment,",
+      "text": "O Lord, you have ordained them as a judgment,",
       "verse": 12,
       "type": "poetry"
     },

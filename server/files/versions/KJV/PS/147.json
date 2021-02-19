@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 147,
+  "verses": 20,
   "content": [
     {
-      "text": "Praise ye the : for it is good to sing praises unto our God; for it is pleasant; and praise is comely.",
+      "text": "Praise ye the Lord: for it is good to sing praises unto our God; for it is pleasant; and praise is comely.",
       "verse": 1
     },
     {
-      "text": "The  doth build up Jerusalem: he gathereth together the outcasts of Israel.",
+      "text": "The Lord doth build up Jerusalem: he gathereth together the outcasts of Israel.",
       "verse": 2,
       "type": "newline"
     },
@@ -28,12 +29,12 @@
       "type": "newline"
     },
     {
-      "text": "The  lifteth up the meek: he casteth the wicked down to the ground.",
+      "text": "The Lord lifteth up the meek: he casteth the wicked down to the ground.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "Sing unto the  with thanksgiving; sing praise upon the harp unto our God:",
+      "text": "Sing unto the Lord with thanksgiving; sing praise upon the harp unto our God:",
       "verse": 7,
       "type": "newline"
     },
@@ -53,12 +54,12 @@
       "type": "newline"
     },
     {
-      "text": "The  taketh pleasure in them that fear him, in those that hope in his mercy.",
+      "text": "The Lord taketh pleasure in them that fear him, in those that hope in his mercy.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "Praise the , O Jerusalem; praise thy God, O Zion.",
+      "text": "Praise the Lord, O Jerusalem; praise thy God, O Zion.",
       "verse": 12,
       "type": "newline"
     },
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the .",
+      "text": "He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the Lord.",
       "verse": 20,
       "type": "newline"
     }

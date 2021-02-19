@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 13,
+  "verses": 33,
   "content": [
     {
       "text": "Exploring Canaan",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "So at the ’s command Moses sent them out from the Desert of Paran. All of them were leaders of the Israelites.",
+      "text": "So at the Lord’s command Moses sent them out from the Desert of Paran. All of them were leaders of the Israelites.",
       "verse": 3,
       "type": "newline"
     },

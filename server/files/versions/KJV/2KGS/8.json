@@ -2,9 +2,10 @@
   "book_id": "2KGS",
   "book_name": "2 Kings",
   "chapter": 8,
+  "verses": 29,
   "content": [
     {
-      "text": "Then spake Elisha unto the woman, whose son he had restored to life, saying, Arise, and go thou and thine household, and sojourn wheresoever thou canst sojourn: for the  hath called for a famine; and it shall also come upon the land seven years.",
+      "text": "Then spake Elisha unto the woman, whose son he had restored to life, saying, Arise, and go thou and thine household, and sojourn wheresoever thou canst sojourn: for the Lord hath called for a famine; and it shall also come upon the land seven years.",
       "verse": 1
     },
     {
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "And the king said unto Hazael, Take a present in thine hand, and go, meet the man of God, and enquire of the  by him, saying, Shall I recover of this disease?",
+      "text": "And the king said unto Hazael, Take a present in thine hand, and go, meet the man of God, and enquire of the Lord by him, saying, Shall I recover of this disease?",
       "verse": 8,
       "type": "newline"
     },
@@ -48,7 +49,7 @@
       "type": "newline"
     },
     {
-      "text": "And Elisha said unto him, Go, say unto him, Thou mayest certainly recover: howbeit the  hath shewed me that he shall surely die.",
+      "text": "And Elisha said unto him, Go, say unto him, Thou mayest certainly recover: howbeit the Lord hath shewed me that he shall surely die.",
       "verse": 10,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "And Hazael said, But what, is thy servant a dog, that he should do this great thing? And Elisha answered, The  hath shewed me that thou shalt be king over Syria.",
+      "text": "And Hazael said, But what, is thy servant a dog, that he should do this great thing? And Elisha answered, The Lord hath shewed me that thou shalt be king over Syria.",
       "verse": 13,
       "type": "newline"
     },
@@ -88,12 +89,12 @@
       "type": "newline"
     },
     {
-      "text": "And he walked in the way of the kings of Israel, as did the house of Ahab: for the daughter of Ahab was his wife: and he did evil in the sight of the .",
+      "text": "And he walked in the way of the kings of Israel, as did the house of Ahab: for the daughter of Ahab was his wife: and he did evil in the sight of the Lord.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "Yet the  would not destroy Judah for David his servant's sake, as he promised him to give him alway a light, and to his children.",
+      "text": "Yet the Lord would not destroy Judah for David his servant's sake, as he promised him to give him alway a light, and to his children.",
       "verse": 19,
       "type": "newline"
     },
@@ -133,7 +134,7 @@
       "type": "newline"
     },
     {
-      "text": "And he walked in the way of the house of Ahab, and did evil in the sight of the , as did the house of Ahab: for he was the son in law of the house of Ahab.",
+      "text": "And he walked in the way of the house of Ahab, and did evil in the sight of the Lord, as did the house of Ahab: for he was the son in law of the house of Ahab.",
       "verse": 27,
       "type": "newline"
     },

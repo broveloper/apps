@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 22,
+  "verses": 30,
   "content": [
     {
       "text": "“Brothers and fathers, listen now to my defense.”",
@@ -35,7 +36,7 @@
       "type": "newline"
     },
     {
-      "text": "I fell to the ground and heard a voice say to me,",
+      "text": "I fell to the ground and heard a voice say to me, ‘Saul! Saul! Why do you persecute me?’",
       "verse": 7
     },
     {
@@ -44,7 +45,7 @@
       "type": "newline"
     },
     {
-      "text": "“  he replied.",
+      "text": "“ ‘I am Jesus of Nazareth, whom you are persecuting,’ he replied.",
       "verse": 8,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "“  the Lord said,",
+      "text": "“ ‘Get up,’ the Lord said, ‘and go into Damascus. There you will be told all that you have been assigned to do.’",
       "verse": 10,
       "type": "newline"
     },
@@ -94,7 +95,7 @@
       "type": "newline"
     },
     {
-      "text": "and saw the Lord speaking to me.  he said.",
+      "text": "and saw the Lord speaking to me. ‘Quick!’ he said. ‘Leave Jerusalem immediately, because the people here will not accept your testimony about me.’",
       "verse": 18
     },
     {
@@ -107,7 +108,7 @@
       "verse": 20
     },
     {
-      "text": "“Then the Lord said to me, ”",
+      "text": "“Then the Lord said to me, ‘Go; I will send you far away to the Gentiles.’ ”",
       "verse": 21,
       "type": "newline"
     },

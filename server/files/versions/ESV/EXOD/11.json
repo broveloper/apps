@@ -2,13 +2,14 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 11,
+  "verses": 10,
   "content": [
     {
       "text": "A Final Plague Threatened",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses, “Yet one plague more I will bring upon Pharaoh and upon Egypt. Afterward he will let you go from here. When he lets you go, he will drive you away completely.",
+      "text": "The Lord said to Moses, “Yet one plague more I will bring upon Pharaoh and upon Egypt. Afterward he will let you go from here. When he lets you go, he will drive you away completely.",
       "verse": 1,
       "type": "newline"
     },
@@ -17,11 +18,11 @@
       "verse": 2
     },
     {
-      "text": "And the  gave the people favor in the sight of the Egyptians. Moreover, the man Moses was very great in the land of Egypt, in the sight of Pharaoh's servants and in the sight of the people.",
+      "text": "And the Lord gave the people favor in the sight of the Egyptians. Moreover, the man Moses was very great in the land of Egypt, in the sight of Pharaoh's servants and in the sight of the people.",
       "verse": 3
     },
     {
-      "text": "So Moses said, “Thus says the : ‘About midnight I will go out in the midst of Egypt,",
+      "text": "So Moses said, “Thus says the Lord: ‘About midnight I will go out in the midst of Egypt,",
       "verse": 4,
       "type": "newline"
     },
@@ -34,7 +35,7 @@
       "verse": 6
     },
     {
-      "text": "But not a dog shall growl against any of the people of Israel, either man or beast, that you may know that the  makes a distinction between Egypt and Israel.’",
+      "text": "But not a dog shall growl against any of the people of Israel, either man or beast, that you may know that the Lord makes a distinction between Egypt and Israel.’",
       "verse": 7
     },
     {
@@ -42,11 +43,11 @@
       "verse": 8
     },
     {
-      "text": "Then the  said to Moses, “Pharaoh will not listen to you, that my wonders may be multiplied in the land of Egypt.”",
+      "text": "Then the Lord said to Moses, “Pharaoh will not listen to you, that my wonders may be multiplied in the land of Egypt.”",
       "verse": 9
     },
     {
-      "text": "Moses and Aaron did all these wonders before Pharaoh, and the  hardened Pharaoh's heart, and he did not let the people of Israel go out of his land.",
+      "text": "Moses and Aaron did all these wonders before Pharaoh, and the Lord hardened Pharaoh's heart, and he did not let the people of Israel go out of his land.",
       "verse": 10,
       "type": "newline"
     }

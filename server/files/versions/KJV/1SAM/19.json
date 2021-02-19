@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 19,
+  "verses": 24,
   "content": [
     {
       "text": "And Saul spake to Jonathan his son, and to all his servants, that they should kill David.",
@@ -23,12 +24,12 @@
       "type": "newline"
     },
     {
-      "text": "For he did put his life in his hand, and slew the Philistine, and the  wrought a great salvation for all Israel: thou sawest it, and didst rejoice: wherefore then wilt thou sin against innocent blood, to slay David without a cause?",
+      "text": "For he did put his life in his hand, and slew the Philistine, and the Lord wrought a great salvation for all Israel: thou sawest it, and didst rejoice: wherefore then wilt thou sin against innocent blood, to slay David without a cause?",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "And Saul hearkened unto the voice of Jonathan: and Saul sware, As the  liveth, he shall not be slain.",
+      "text": "And Saul hearkened unto the voice of Jonathan: and Saul sware, As the Lord liveth, he shall not be slain.",
       "verse": 6,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "And the evil spirit from the  was upon Saul, as he sat in his house with his javelin in his hand: and David played with his hand.",
+      "text": "And the evil spirit from the Lord was upon Saul, as he sat in his house with his javelin in his hand: and David played with his hand.",
       "verse": 9,
       "type": "newline"
     },

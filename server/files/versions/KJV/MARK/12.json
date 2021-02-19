@@ -2,6 +2,7 @@
   "book_id": "MARK",
   "book_name": "Mark",
   "chapter": 12,
+  "verses": 44,
   "content": [
     {
       "text": "And he began to speak unto them by parables. A certain man planted a vineyard, and set an hedge about it, and digged a place for the winefat, and built a tower, and let it out to husbandmen, and went into a far country.",
@@ -178,7 +179,7 @@
       "type": "newline"
     },
     {
-      "text": "For David himself said by the Holy Ghost, The  said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool.",
+      "text": "For David himself said by the Holy Ghost, The Lord said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool.",
       "verse": 36,
       "type": "newline"
     },

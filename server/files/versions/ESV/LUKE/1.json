@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 1,
+  "verses": 80,
   "content": [
     {
       "text": "Dedication to Theophilus",
@@ -223,7 +224,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "and my spirit rejoices in God my Savior,",
+      "text": "    and my spirit rejoices in God my Savior,",
       "verse": 47,
       "type": "poetry"
     },
@@ -417,7 +418,7 @@
       "type": "poetry"
     },
     {
-      "text": "that we, being delivered from the hand of our enemies,",
+      "text": "    that we, being delivered from the hand of our enemies,",
       "verse": 74,
       "type": "poetry"
     },
@@ -427,7 +428,7 @@
       "type": "poetry"
     },
     {
-      "text": "in holiness and righteousness before him all our days.",
+      "text": "    in holiness and righteousness before him all our days.",
       "verse": 75,
       "type": "poetry"
     },

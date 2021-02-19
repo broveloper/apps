@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 5,
+  "verses": 12,
   "content": [
     {
-      "text": "Give ear to my words, O , consider my meditation.",
+      "text": "Give ear to my words, O Lord, consider my meditation.",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "My voice shalt thou hear in the morning, O ; in the morning will I direct my prayer unto thee, and will look up.",
+      "text": "My voice shalt thou hear in the morning, O Lord; in the morning will I direct my prayer unto thee, and will look up.",
       "verse": 3,
       "type": "newline"
     },
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "Thou shalt destroy them that speak leasing: the  will abhor the bloody and deceitful man.",
+      "text": "Thou shalt destroy them that speak leasing: the Lord will abhor the bloody and deceitful man.",
       "verse": 6,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "Lead me, O , in thy righteousness because of mine enemies; make thy way straight before my face.",
+      "text": "Lead me, O Lord, in thy righteousness because of mine enemies; make thy way straight before my face.",
       "verse": 8,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "For thou, , wilt bless the righteous; with favour wilt thou compass him as with a shield.",
+      "text": "For thou, Lord, wilt bless the righteous; with favour wilt thou compass him as with a shield.",
       "verse": 12,
       "type": "newline"
     }

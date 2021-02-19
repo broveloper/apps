@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 22,
+  "verses": 23,
   "content": [
     {
       "text": "David at Adullam and Mizpah",
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "Ahimelek inquired of the  for him; he also gave him provisions and the sword of Goliath the Philistine.”",
+      "text": "Ahimelek inquired of the Lord for him; he also gave him provisions and the sword of Goliath the Philistine.”",
       "verse": 10
     },
     {
@@ -90,12 +91,12 @@
       "type": "newline"
     },
     {
-      "text": "Then the king ordered the guards at his side: “Turn and kill the priests of the , because they too have sided with David. They knew he was fleeing, yet they did not tell me.”",
+      "text": "Then the king ordered the guards at his side: “Turn and kill the priests of the Lord, because they too have sided with David. They knew he was fleeing, yet they did not tell me.”",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "But the king’s officials were unwilling to raise a hand to strike the priests of the .",
+      "text": "But the king’s officials were unwilling to raise a hand to strike the priests of the Lord.",
       "verse": 17,
       "type": "newline"
     },
@@ -114,7 +115,7 @@
       "type": "newline"
     },
     {
-      "text": "He told David that Saul had killed the priests of the .",
+      "text": "He told David that Saul had killed the priests of the Lord.",
       "verse": 21
     },
     {

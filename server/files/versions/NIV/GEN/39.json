@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 39,
+  "verses": 23,
   "content": [
     {
       "text": "Joseph and Potiphar’s Wife",
@@ -13,12 +14,12 @@
       "type": "newline"
     },
     {
-      "text": "The  was with Joseph so that he prospered, and he lived in the house of his Egyptian master.",
+      "text": "The Lord was with Joseph so that he prospered, and he lived in the house of his Egyptian master.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "When his master saw that the  was with him and that the  gave him success in everything he did,",
+      "text": "When his master saw that the Lord was with him and that the Lord gave him success in everything he did,",
       "verse": 3
     },
     {
@@ -26,7 +27,7 @@
       "verse": 4
     },
     {
-      "text": "From the time he put him in charge of his household and of all that he owned, the  blessed the household of the Egyptian because of Joseph. The blessing of the  was on everything Potiphar had, both in the house and in the field.",
+      "text": "From the time he put him in charge of his household and of all that he owned, the Lord blessed the household of the Egyptian because of Joseph. The blessing of the Lord was on everything Potiphar had, both in the house and in the field.",
       "verse": 5
     },
     {
@@ -105,7 +106,7 @@
       "type": "newline"
     },
     {
-      "text": "the  was with him; he showed him kindness and granted him favor in the eyes of the prison warden.",
+      "text": "the Lord was with him; he showed him kindness and granted him favor in the eyes of the prison warden.",
       "verse": 21
     },
     {
@@ -113,7 +114,7 @@
       "verse": 22
     },
     {
-      "text": "The warden paid no attention to anything under Joseph’s care, because the  was with Joseph and gave him success in whatever he did.",
+      "text": "The warden paid no attention to anything under Joseph’s care, because the Lord was with Joseph and gave him success in whatever he did.",
       "verse": 23
     }
   ]

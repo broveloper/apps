@@ -2,6 +2,7 @@
   "book_id": "ECCL",
   "book_name": "Ecclesiastes",
   "chapter": 7,
+  "verses": 29,
   "content": [
     {
       "text": "Wisdom",
@@ -383,7 +384,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "while I was still searching",
+      "text": "    while I was still searching",
       "verse": 28,
       "type": "poetry"
     },

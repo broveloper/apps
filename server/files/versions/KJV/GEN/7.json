@@ -2,9 +2,10 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 7,
+  "verses": 24,
   "content": [
     {
-      "text": "And the  said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.",
+      "text": "And the Lord said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.",
       "verse": 1
     },
     {
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "And Noah did according unto all that the  commanded him.",
+      "text": "And Noah did according unto all that the Lord commanded him.",
       "verse": 5,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "And they that went in, went in male and female of all flesh, as God had commanded him: and the  shut him in.",
+      "text": "And they that went in, went in male and female of all flesh, as God had commanded him: and the Lord shut him in.",
       "verse": 16,
       "type": "newline"
     },

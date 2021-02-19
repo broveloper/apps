@@ -2,6 +2,7 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 49,
+  "verses": 39,
   "content": [
     {
       "text": "Judgment on Ammon",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "Thus says the :",
+      "text": "Thus says the Lord:",
       "verse": 1,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 2,
       "type": "poetry"
     },
@@ -73,7 +74,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the .",
+      "text": "says the Lord.",
       "verse": 2,
       "type": "poetry"
     },
@@ -133,7 +134,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the Lord  of hosts,",
+      "text": "declares the Lord God of hosts,",
       "verse": 5,
       "type": "poetry"
     },
@@ -153,7 +154,7 @@
       "type": "poetry"
     },
     {
-      "text": "“But afterward I will restore the fortunes of the Ammonites, declares the .”",
+      "text": "“But afterward I will restore the fortunes of the Ammonites, declares the Lord.”",
       "verse": 6,
       "type": "newline"
     },
@@ -167,7 +168,7 @@
       "type": "newline"
     },
     {
-      "text": "Thus says the  of hosts:",
+      "text": "Thus says the Lord of hosts:",
       "verse": 7,
       "type": "newline"
     },
@@ -262,16 +263,16 @@
       "type": "poetry"
     },
     {
-      "text": "For thus says the : “If those who did not deserve to drink the cup must drink it, will you go unpunished? You shall not go unpunished, but you must drink.",
+      "text": "For thus says the Lord: “If those who did not deserve to drink the cup must drink it, will you go unpunished? You shall not go unpunished, but you must drink.",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "For I have sworn by myself, declares the , that Bozrah shall become a horror, a taunt, a waste, and a curse, and all her cities shall be perpetual wastes.”",
+      "text": "For I have sworn by myself, declares the Lord, that Bozrah shall become a horror, a taunt, a waste, and a curse, and all her cities shall be perpetual wastes.”",
       "verse": 13
     },
     {
-      "text": "I have heard a message from the ,",
+      "text": "I have heard a message from the Lord,",
       "verse": 14,
       "type": "poetry newline"
     },
@@ -331,7 +332,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 16,
       "type": "poetry"
     },
@@ -341,7 +342,7 @@
       "type": "newline"
     },
     {
-      "text": "As when Sodom and Gomorrah and their neighboring cities were overthrown, says the , no man shall dwell there, no man shall sojourn in her.",
+      "text": "As when Sodom and Gomorrah and their neighboring cities were overthrown, says the Lord, no man shall dwell there, no man shall sojourn in her.",
       "verse": 18
     },
     {
@@ -349,7 +350,7 @@
       "verse": 19
     },
     {
-      "text": "Therefore hear the plan that the  has made against Edom and the purposes that he has formed against the inhabitants of Teman: Even the little ones of the flock shall be dragged away. Surely their fold shall be appalled at their fate.",
+      "text": "Therefore hear the plan that the Lord has made against Edom and the purposes that he has formed against the inhabitants of Teman: Even the little ones of the flock shall be dragged away. Surely their fold shall be appalled at their fate.",
       "verse": 20
     },
     {
@@ -430,7 +431,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the  of hosts.",
+      "text": "declares the Lord of hosts.",
       "verse": 26,
       "type": "poetry"
     },
@@ -454,7 +455,7 @@
       "type": "newline"
     },
     {
-      "text": "Thus says the :",
+      "text": "Thus says the Lord:",
       "verse": 28,
       "type": "poetry newline"
     },
@@ -499,7 +500,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 30,
       "type": "poetry"
     },
@@ -529,7 +530,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 31,
       "type": "poetry"
     },
@@ -574,7 +575,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 32,
       "type": "poetry"
     },
@@ -603,12 +604,12 @@
       "type": "heading"
     },
     {
-      "text": "The word of the  that came to Jeremiah the prophet concerning Elam, in the beginning of the reign of Zedekiah king of Judah.",
+      "text": "The word of the Lord that came to Jeremiah the prophet concerning Elam, in the beginning of the reign of Zedekiah king of Judah.",
       "verse": 34,
       "type": "newline"
     },
     {
-      "text": "Thus says the  of hosts: “Behold, I will break the bow of Elam, the mainstay of their might.",
+      "text": "Thus says the Lord of hosts: “Behold, I will break the bow of Elam, the mainstay of their might.",
       "verse": 35,
       "type": "newline"
     },
@@ -617,15 +618,15 @@
       "verse": 36
     },
     {
-      "text": "I will terrify Elam before their enemies and before those who seek their life. I will bring disaster upon them, my fierce anger, declares the . I will send the sword after them, until I have consumed them,",
+      "text": "I will terrify Elam before their enemies and before those who seek their life. I will bring disaster upon them, my fierce anger, declares the Lord. I will send the sword after them, until I have consumed them,",
       "verse": 37
     },
     {
-      "text": "and I will set my throne in Elam and destroy their king and officials, declares the .",
+      "text": "and I will set my throne in Elam and destroy their king and officials, declares the Lord.",
       "verse": 38
     },
     {
-      "text": "“But in the latter days I will restore the fortunes of Elam, declares the .”",
+      "text": "“But in the latter days I will restore the fortunes of Elam, declares the Lord.”",
       "verse": 39,
       "type": "newline"
     }

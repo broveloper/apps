@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 24,
+  "verses": 34,
   "content": [
     {
       "text": "Be not envious of evil men,",
@@ -189,7 +190,7 @@
       "type": "poetry"
     },
     {
-      "text": "lest the  see it and be displeased,",
+      "text": "lest the Lord see it and be displeased,",
       "verse": 18,
       "type": "poetry"
     },
@@ -219,7 +220,7 @@
       "type": "poetry"
     },
     {
-      "text": "My son, fear the  and the king,",
+      "text": "My son, fear the Lord and the king,",
       "verse": 21,
       "type": "poetry newline"
     },

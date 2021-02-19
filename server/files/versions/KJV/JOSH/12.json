@@ -2,6 +2,7 @@
   "book_id": "JOSH",
   "book_name": "Joshua",
   "chapter": 12,
+  "verses": 24,
   "content": [
     {
       "text": "Now these are the kings of the land, which the children of Israel smote, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east:",
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "Them did Moses the servant of the  and the children of Israel smite: and Moses the servant of the  gave it for a possession unto the Reubenites, and the Gadites, and the half tribe of Manasseh.",
+      "text": "Them did Moses the servant of the Lord and the children of Israel smite: and Moses the servant of the Lord gave it for a possession unto the Reubenites, and the Gadites, and the half tribe of Manasseh.",
       "verse": 6,
       "type": "newline"
     },

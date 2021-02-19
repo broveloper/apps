@@ -2,18 +2,19 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 30,
+  "verses": 16,
   "content": [
     {
-      "text": "And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This is the thing which the  hath commanded.",
+      "text": "And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This is the thing which the Lord hath commanded.",
       "verse": 1
     },
     {
-      "text": "If a man vow a vow unto the , or swear an oath to bind his soul with a bond; he shall not break his word, he shall do according to all that proceedeth out of his mouth.",
+      "text": "If a man vow a vow unto the Lord, or swear an oath to bind his soul with a bond; he shall not break his word, he shall do according to all that proceedeth out of his mouth.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "If a woman also vow a vow unto the , and bind herself by a bond, being in her father's house in her youth;",
+      "text": "If a woman also vow a vow unto the Lord, and bind herself by a bond, being in her father's house in her youth;",
       "verse": 3,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "But if her father disallow her in the day that he heareth; not any of her vows, or of her bonds wherewith she hath bound her soul, shall stand: and the  shall forgive her, because her father disallowed her.",
+      "text": "But if her father disallow her in the day that he heareth; not any of her vows, or of her bonds wherewith she hath bound her soul, shall stand: and the Lord shall forgive her, because her father disallowed her.",
       "verse": 5,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "But if her husband disallowed her on the day that he heard it; then he shall make her vow which she vowed, and that which she uttered with her lips, wherewith she bound her soul, of none effect: and the  shall forgive her.",
+      "text": "But if her husband disallowed her on the day that he heard it; then he shall make her vow which she vowed, and that which she uttered with her lips, wherewith she bound her soul, of none effect: and the Lord shall forgive her.",
       "verse": 8,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "But if her husband hath utterly made them void on the day he heard them; then whatsoever proceeded out of her lips concerning her vows, or concerning the bond of her soul, shall not stand: her husband hath made them void; and the  shall forgive her.",
+      "text": "But if her husband hath utterly made them void on the day he heard them; then whatsoever proceeded out of her lips concerning her vows, or concerning the bond of her soul, shall not stand: her husband hath made them void; and the Lord shall forgive her.",
       "verse": 12,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "These are the statutes, which the  commanded Moses, between a man and his wife, between the father and his daughter, being yet in her youth in her father's house.",
+      "text": "These are the statutes, which the Lord commanded Moses, between a man and his wife, between the father and his daughter, being yet in her youth in her father's house.",
       "verse": 16,
       "type": "newline"
     }

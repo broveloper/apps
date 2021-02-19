@@ -2,13 +2,14 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 6,
+  "verses": 11,
   "content": [
     {
       "text": "Israel and Judah Are Unrepentant",
       "type": "heading"
     },
     {
-      "text": "“Come, let us return to the ;",
+      "text": "“Come, let us return to the Lord;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -38,7 +39,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let us know; let us press on to know the ;",
+      "text": "Let us know; let us press on to know the Lord;",
       "verse": 3,
       "type": "poetry"
     },

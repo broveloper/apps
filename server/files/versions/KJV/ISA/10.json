@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 10,
+  "verses": 34,
   "content": [
     {
       "text": "Woe unto them that decree unrighteous decrees, and that write grievousness which they have prescribed;",
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "And it shall come to pass in that day, that the remnant of Israel, and such as are escaped of the house of Jacob, shall no more again stay upon him that smote them; but shall stay upon the , the Holy One of Israel, in truth.",
+      "text": "And it shall come to pass in that day, that the remnant of Israel, and such as are escaped of the house of Jacob, shall no more again stay upon him that smote them; but shall stay upon the Lord, the Holy One of Israel, in truth.",
       "verse": 20,
       "type": "newline"
     },
@@ -113,12 +114,12 @@
       "type": "newline"
     },
     {
-      "text": "For the Lord  of hosts shall make a consumption, even determined, in the midst of all the land.",
+      "text": "For the Lord God of hosts shall make a consumption, even determined, in the midst of all the land.",
       "verse": 23,
       "type": "newline"
     },
     {
-      "text": "Therefore thus saith the Lord  of hosts, O my people that dwellest in Zion, be not afraid of the Assyrian: he shall smite thee with a rod, and shall lift up his staff against thee, after the manner of Egypt.",
+      "text": "Therefore thus saith the Lord God of hosts, O my people that dwellest in Zion, be not afraid of the Assyrian: he shall smite thee with a rod, and shall lift up his staff against thee, after the manner of Egypt.",
       "verse": 24,
       "type": "newline"
     },
@@ -128,7 +129,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  of hosts shall stir up a scourge for him according to the slaughter of Midian at the rock of Oreb: and as his rod was upon the sea, so shall he lift it up after the manner of Egypt.",
+      "text": "And the Lord of hosts shall stir up a scourge for him according to the slaughter of Midian at the rock of Oreb: and as his rod was upon the sea, so shall he lift it up after the manner of Egypt.",
       "verse": 26,
       "type": "newline"
     },
@@ -163,7 +164,7 @@
       "type": "newline"
     },
     {
-      "text": "Behold, the Lord, the  of hosts, shall lop the bough with terror: and the high ones of stature shall be hewn down, and the haughty shall be humbled.",
+      "text": "Behold, the Lord, the Lord of hosts, shall lop the bough with terror: and the high ones of stature shall be hewn down, and the haughty shall be humbled.",
       "verse": 33,
       "type": "newline"
     },

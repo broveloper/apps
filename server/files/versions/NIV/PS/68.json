@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 68,
+  "verses": 35,
   "content": [
     {
       "text": "Psalm 68",
@@ -9,8 +10,7 @@
     },
     {
       "text": "For the director of music. Of David. A psalm. A song.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "May God arise, may his enemies be scattered;",
@@ -63,7 +63,7 @@
       "type": "poetry"
     },
     {
-      "text": "rejoice before him—his name is the .",
+      "text": "rejoice before him—his name is the Lord.",
       "verse": 4,
       "type": "poetry"
     },
@@ -203,7 +203,7 @@
       "type": "poetry"
     },
     {
-      "text": "where the  himself will dwell forever?",
+      "text": "where the Lord himself will dwell forever?",
       "verse": 16,
       "type": "poetry"
     },
@@ -243,7 +243,7 @@
       "type": "poetry"
     },
     {
-      "text": "that you,  God, might dwell there.",
+      "text": "that you, Lord God, might dwell there.",
       "verse": 18,
       "type": "poetry"
     },
@@ -263,7 +263,7 @@
       "type": "poetry"
     },
     {
-      "text": "from the Sovereign  comes escape from death.",
+      "text": "from the Sovereign Lord comes escape from death.",
       "verse": 20,
       "type": "poetry"
     },
@@ -323,7 +323,7 @@
       "type": "poetry"
     },
     {
-      "text": "praise the  in the assembly of Israel.",
+      "text": "praise the Lord in the assembly of Israel.",
       "verse": 26,
       "type": "poetry"
     },

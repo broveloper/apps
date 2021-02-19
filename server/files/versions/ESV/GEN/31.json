@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 31,
+  "verses": 55,
   "content": [
     {
       "text": "Jacob Flees from Laban",
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "Then the  said to Jacob, “Return to the land of your fathers and to your kindred, and I will be with you.”",
+      "text": "Then the Lord said to Jacob, “Return to the land of your fathers and to your kindred, and I will be with you.”",
       "verse": 3
     },
     {
@@ -208,7 +209,7 @@
       "verse": 48
     },
     {
-      "text": "and Mizpah, for he said, “The  watch between you and me, when we are out of one another's sight.",
+      "text": "and Mizpah, for he said, “The Lord watch between you and me, when we are out of one another's sight.",
       "verse": 49
     },
     {
@@ -233,7 +234,7 @@
       "verse": 54
     },
     {
-      "text": "Early in the morning Laban arose and kissed his grandchildren and his daughters and blessed them. Then Laban departed and returned home.",
+      "text": " Early in the morning Laban arose and kissed his grandchildren and his daughters and blessed them. Then Laban departed and returned home.",
       "verse": 55,
       "type": "newline"
     }

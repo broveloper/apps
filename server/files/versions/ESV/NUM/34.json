@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 34,
+  "verses": 29,
   "content": [
     {
       "text": "Boundaries of the Land",
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses, saying,",
+      "text": "The Lord spoke to Moses, saying,",
       "verse": 1,
       "type": "newline"
     },
@@ -60,7 +61,7 @@
       "verse": 12
     },
     {
-      "text": "Moses commanded the people of Israel, saying, “This is the land that you shall inherit by lot, which the  has commanded to give to the nine tribes and to the half-tribe.",
+      "text": "Moses commanded the people of Israel, saying, “This is the land that you shall inherit by lot, which the Lord has commanded to give to the nine tribes and to the half-tribe.",
       "verse": 13,
       "type": "newline"
     },
@@ -77,7 +78,7 @@
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses, saying,",
+      "text": "The Lord spoke to Moses, saying,",
       "verse": 16,
       "type": "newline"
     },
@@ -130,7 +131,7 @@
       "verse": 28
     },
     {
-      "text": "These are the men whom the  commanded to divide the inheritance for the people of Israel in the land of Canaan.",
+      "text": "These are the men whom the Lord commanded to divide the inheritance for the people of Israel in the land of Canaan.",
       "verse": 29
     }
   ]

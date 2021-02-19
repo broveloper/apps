@@ -2,6 +2,7 @@
   "book_id": "1CHR",
   "book_name": "1 Chronicles",
   "chapter": 10,
+  "verses": 14,
   "content": [
     {
       "text": "Saul Takes His Life",
@@ -66,12 +67,12 @@
       "verse": 12
     },
     {
-      "text": "Saul died because he was unfaithful to the ; he did not keep the word of the  and even consulted a medium for guidance,",
+      "text": "Saul died because he was unfaithful to the Lord; he did not keep the word of the Lord and even consulted a medium for guidance,",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "and did not inquire of the . So the  put him to death and turned the kingdom over to David son of Jesse.",
+      "text": "and did not inquire of the Lord. So the Lord put him to death and turned the kingdom over to David son of Jesse.",
       "verse": 14
     }
   ]

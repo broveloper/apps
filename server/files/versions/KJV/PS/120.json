@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 120,
+  "verses": 7,
   "content": [
     {
-      "text": "In my distress I cried unto the , and he heard me.",
+      "text": "In my distress I cried unto the Lord, and he heard me.",
       "verse": 1
     },
     {
-      "text": "Deliver my soul, O , from lying lips, and from a deceitful tongue.",
+      "text": "Deliver my soul, O Lord, from lying lips, and from a deceitful tongue.",
       "verse": 2,
       "type": "newline"
     },

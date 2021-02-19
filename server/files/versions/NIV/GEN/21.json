@@ -2,13 +2,14 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 21,
+  "verses": 34,
   "content": [
     {
       "text": "The Birth of Isaac",
       "type": "heading"
     },
     {
-      "text": "Now the  was gracious to Sarah as he had said, and the  did for Sarah what he had promised.",
+      "text": "Now the Lord was gracious to Sarah as he had said, and the Lord did for Sarah what he had promised.",
       "verse": 1,
       "type": "newline"
     },
@@ -160,7 +161,7 @@
       "type": "newline"
     },
     {
-      "text": "Abraham planted a tamarisk tree in Beersheba, and there he called on the name of the , the Eternal God.",
+      "text": "Abraham planted a tamarisk tree in Beersheba, and there he called on the name of the Lord, the Eternal God.",
       "verse": 33
     },
     {

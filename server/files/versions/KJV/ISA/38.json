@@ -2,28 +2,29 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 38,
+  "verses": 22,
   "content": [
     {
-      "text": "In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the , Set thine house in order: for thou shalt die, and not live.",
+      "text": "In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the Lord, Set thine house in order: for thou shalt die, and not live.",
       "verse": 1
     },
     {
-      "text": "Then Hezekiah turned his face toward the wall, and prayed unto the ,",
+      "text": "Then Hezekiah turned his face toward the wall, and prayed unto the Lord,",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "And said, Remember now, O , I beseech thee, how I have walked before thee in truth and with a perfect heart, and have done that which is good in thy sight. And Hezekiah wept sore.",
+      "text": "And said, Remember now, O Lord, I beseech thee, how I have walked before thee in truth and with a perfect heart, and have done that which is good in thy sight. And Hezekiah wept sore.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "Then came the word of the  to Isaiah, saying,",
+      "text": "Then came the word of the Lord to Isaiah, saying,",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "Go, and say to Hezekiah, Thus saith the , the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will add unto thy days fifteen years.",
+      "text": "Go, and say to Hezekiah, Thus saith the Lord, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will add unto thy days fifteen years.",
       "verse": 5,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "And this shall be a sign unto thee from the , that the  will do this thing that he hath spoken;",
+      "text": "And this shall be a sign unto thee from the Lord, that the Lord will do this thing that he hath spoken;",
       "verse": 7,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "I said, I shall not see the , even the , in the land of the living: I shall behold man no more with the inhabitants of the world.",
+      "text": "I said, I shall not see the Lord, even the Lord, in the land of the living: I shall behold man no more with the inhabitants of the world.",
       "verse": 11,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "Like a crane or a swallow, so did I chatter: I did mourn as a dove: mine eyes fail with looking upward: O , I am oppressed; undertake for me.",
+      "text": "Like a crane or a swallow, so did I chatter: I did mourn as a dove: mine eyes fail with looking upward: O Lord, I am oppressed; undertake for me.",
       "verse": 14,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "O , by these things men live, and in all these things is the life of my spirit: so wilt thou recover me, and make me to live.",
+      "text": "O Lord, by these things men live, and in all these things is the life of my spirit: so wilt thou recover me, and make me to live.",
       "verse": 16,
       "type": "newline"
     },
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "The  was ready to save me: therefore we will sing my songs to the stringed instruments all the days of our life in the house of the .",
+      "text": "The Lord was ready to save me: therefore we will sing my songs to the stringed instruments all the days of our life in the house of the Lord.",
       "verse": 20,
       "type": "newline"
     },
@@ -108,7 +109,7 @@
       "type": "newline"
     },
     {
-      "text": "Hezekiah also had said, What is the sign that I shall go up to the house of the ?",
+      "text": "Hezekiah also had said, What is the sign that I shall go up to the house of the Lord?",
       "verse": 22,
       "type": "newline"
     }

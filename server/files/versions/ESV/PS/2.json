@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 2,
+  "verses": 12,
   "content": [
     {
-      "text": "The Reign of the 's Anointed",
+      "text": "The Reign of the Lord's Anointed",
       "type": "heading"
     },
     {
@@ -28,7 +29,7 @@
       "type": "poetry"
     },
     {
-      "text": "against the  and against his Anointed, saying,",
+      "text": "against the Lord and against his Anointed, saying,",
       "verse": 2,
       "type": "poetry"
     },
@@ -78,7 +79,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "The  said to me, “You are my Son;",
+      "text": "The Lord said to me, “You are my Son;",
       "verse": 7,
       "type": "poetry"
     },
@@ -118,7 +119,7 @@
       "type": "poetry"
     },
     {
-      "text": "Serve the  with fear,",
+      "text": "Serve the Lord with fear,",
       "verse": 11,
       "type": "poetry"
     },

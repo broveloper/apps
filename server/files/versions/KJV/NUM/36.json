@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 36,
+  "verses": 13,
   "content": [
     {
       "text": "And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel:",
       "verse": 1
     },
     {
-      "text": "And they said, The  commanded my lord to give the land for an inheritance by lot to the children of Israel: and my lord was commanded by the  to give the inheritance of Zelophehad our brother unto his daughters.",
+      "text": "And they said, The Lord commanded my lord to give the land for an inheritance by lot to the children of Israel: and my lord was commanded by the Lord to give the inheritance of Zelophehad our brother unto his daughters.",
       "verse": 2,
       "type": "newline"
     },
@@ -23,12 +24,12 @@
       "type": "newline"
     },
     {
-      "text": "And Moses commanded the children of Israel according to the word of the , saying, The tribe of the sons of Joseph hath said well.",
+      "text": "And Moses commanded the children of Israel according to the word of the Lord, saying, The tribe of the sons of Joseph hath said well.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "This is the thing which the  doth command concerning the daughters of Zelophehad, saying, Let them marry to whom they think best; only to the family of the tribe of their father shall they marry.",
+      "text": "This is the thing which the Lord doth command concerning the daughters of Zelophehad, saying, Let them marry to whom they think best; only to the family of the tribe of their father shall they marry.",
       "verse": 6,
       "type": "newline"
     },
@@ -48,7 +49,7 @@
       "type": "newline"
     },
     {
-      "text": "Even as the  commanded Moses, so did the daughters of Zelophehad:",
+      "text": "Even as the Lord commanded Moses, so did the daughters of Zelophehad:",
       "verse": 10,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "These are the commandments and the judgments, which the  commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan near Jericho.",
+      "text": "These are the commandments and the judgments, which the Lord commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan near Jericho.",
       "verse": 13,
       "type": "newline"
     }

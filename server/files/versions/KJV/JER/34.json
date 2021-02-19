@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 34,
+  "verses": 22,
   "content": [
     {
-      "text": "The word which came unto Jeremiah from the , when Nebuchadnezzar king of Babylon, and all his army, and all the kingdoms of the earth of his dominion, and all the people, fought against Jerusalem, and against all the cities thereof, saying,",
+      "text": "The word which came unto Jeremiah from the Lord, when Nebuchadnezzar king of Babylon, and all his army, and all the kingdoms of the earth of his dominion, and all the people, fought against Jerusalem, and against all the cities thereof, saying,",
       "verse": 1
     },
     {
-      "text": "Thus saith the , the God of Israel; Go and speak to Zedekiah king of Judah, and tell him, Thus saith the ; Behold, I will give this city into the hand of the king of Babylon, and he shall burn it with fire:",
+      "text": "Thus saith the Lord, the God of Israel; Go and speak to Zedekiah king of Judah, and tell him, Thus saith the Lord; Behold, I will give this city into the hand of the king of Babylon, and he shall burn it with fire:",
       "verse": 2,
       "type": "newline"
     },
@@ -18,12 +19,12 @@
       "type": "newline"
     },
     {
-      "text": "Yet hear the word of the , O Zedekiah king of Judah; Thus saith the  of thee, Thou shalt not die by the sword:",
+      "text": "Yet hear the word of the Lord, O Zedekiah king of Judah; Thus saith the Lord of thee, Thou shalt not die by the sword:",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "But thou shalt die in peace: and with the burnings of thy fathers, the former kings which were before thee, so shall they burn odours for thee; and they will lament thee, saying, Ah lord! for I have pronounced the word, saith the .",
+      "text": "But thou shalt die in peace: and with the burnings of thy fathers, the former kings which were before thee, so shall they burn odours for thee; and they will lament thee, saying, Ah lord! for I have pronounced the word, saith the Lord.",
       "verse": 5,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "This is the word that came unto Jeremiah from the , after that the king Zedekiah had made a covenant with all the people which were at Jerusalem, to proclaim liberty unto them;",
+      "text": "This is the word that came unto Jeremiah from the Lord, after that the king Zedekiah had made a covenant with all the people which were at Jerusalem, to proclaim liberty unto them;",
       "verse": 8,
       "type": "newline"
     },
@@ -58,12 +59,12 @@
       "type": "newline"
     },
     {
-      "text": "Therefore the word of the  came to Jeremiah from the , saying,",
+      "text": "Therefore the word of the Lord came to Jeremiah from the Lord, saying,",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "Thus saith the , the God of Israel; I made a covenant with your fathers in the day that I brought them forth out of the land of Egypt, out of the house of bondmen, saying,",
+      "text": "Thus saith the Lord, the God of Israel; I made a covenant with your fathers in the day that I brought them forth out of the land of Egypt, out of the house of bondmen, saying,",
       "verse": 13,
       "type": "newline"
     },
@@ -83,7 +84,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore thus saith the ; Ye have not hearkened unto me, in proclaiming liberty, every one to his brother, and every man to his neighbour: behold, I proclaim a liberty for you, saith the , to the sword, to the pestilence, and to the famine; and I will make you to be removed into all the kingdoms of the earth.",
+      "text": "Therefore thus saith the Lord; Ye have not hearkened unto me, in proclaiming liberty, every one to his brother, and every man to his neighbour: behold, I proclaim a liberty for you, saith the Lord, to the sword, to the pestilence, and to the famine; and I will make you to be removed into all the kingdoms of the earth.",
       "verse": 17,
       "type": "newline"
     },
@@ -108,7 +109,7 @@
       "type": "newline"
     },
     {
-      "text": "Behold, I will command, saith the , and cause them to return to this city; and they shall fight against it, and take it, and burn it with fire: and I will make the cities of Judah a desolation without an inhabitant.",
+      "text": "Behold, I will command, saith the Lord, and cause them to return to this city; and they shall fight against it, and take it, and burn it with fire: and I will make the cities of Judah a desolation without an inhabitant.",
       "verse": 22,
       "type": "newline"
     }

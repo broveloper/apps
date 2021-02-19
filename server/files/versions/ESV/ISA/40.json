@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 40,
+  "verses": 31,
   "content": [
     {
       "text": "Comfort for God's People",
@@ -33,7 +34,7 @@
       "type": "poetry"
     },
     {
-      "text": "that she has received from the 's hand",
+      "text": "that she has received from the Lord's hand",
       "verse": 2,
       "type": "poetry"
     },
@@ -48,7 +49,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "“In the wilderness prepare the way of the ;",
+      "text": "“In the wilderness prepare the way of the Lord;",
       "verse": 3,
       "type": "poetry"
     },
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "And the glory of the  shall be revealed,",
+      "text": "And the glory of the Lord shall be revealed,",
       "verse": 5,
       "type": "poetry"
     },
@@ -88,7 +89,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the mouth of the  has spoken.”",
+      "text": "for the mouth of the Lord has spoken.”",
       "verse": 5,
       "type": "poetry"
     },
@@ -122,7 +123,7 @@
       "type": "poetry"
     },
     {
-      "text": "when the breath of the  blows on it;",
+      "text": "when the breath of the Lord blows on it;",
       "verse": 7,
       "type": "poetry"
     },
@@ -181,7 +182,7 @@
       "type": "poetry"
     },
     {
-      "text": "Behold, the Lord  comes with might,",
+      "text": "Behold, the Lord God comes with might,",
       "verse": 10,
       "type": "poetry"
     },
@@ -246,7 +247,7 @@
       "type": "poetry"
     },
     {
-      "text": "Who has measured the Spirit of the ,",
+      "text": "Who has measured the Spirit of the Lord,",
       "verse": 13,
       "type": "poetry"
     },
@@ -481,7 +482,7 @@
       "type": "poetry"
     },
     {
-      "text": "“My way is hidden from the ,",
+      "text": "“My way is hidden from the Lord,",
       "verse": 27,
       "type": "poetry"
     },
@@ -496,7 +497,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is the everlasting God,",
+      "text": "The Lord is the everlasting God,",
       "verse": 28,
       "type": "poetry"
     },
@@ -536,7 +537,7 @@
       "type": "poetry"
     },
     {
-      "text": "but they who wait for the  shall renew their strength;",
+      "text": "but they who wait for the Lord shall renew their strength;",
       "verse": 31,
       "type": "poetry"
     },

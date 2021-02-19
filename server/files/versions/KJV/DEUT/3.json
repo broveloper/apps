@@ -2,18 +2,19 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 3,
+  "verses": 29,
   "content": [
     {
       "text": "Then we turned, and went up the way to Bashan: and Og the king of Bashan came out against us, he and all his people, to battle at Edrei.",
       "verse": 1
     },
     {
-      "text": "And the  said unto me, Fear him not: for I will deliver him, and all his people, and his land, into thy hand; and thou shalt do unto him as thou didst unto Sihon king of the Amorites, which dwelt at Heshbon.",
+      "text": "And the Lord said unto me, Fear him not: for I will deliver him, and all his people, and his land, into thy hand; and thou shalt do unto him as thou didst unto Sihon king of the Amorites, which dwelt at Heshbon.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "So the  our God delivered into our hands Og also, the king of Bashan, and all his people: and we smote him until none was left to him remaining.",
+      "text": "So the Lord our God delivered into our hands Og also, the king of Bashan, and all his people: and we smote him until none was left to him remaining.",
       "verse": 3,
       "type": "newline"
     },
@@ -88,7 +89,7 @@
       "type": "newline"
     },
     {
-      "text": "And I commanded you at that time, saying, The  your God hath given you this land to possess it: ye shall pass over armed before your brethren the children of Israel, all that are meet for the war.",
+      "text": "And I commanded you at that time, saying, The Lord your God hath given you this land to possess it: ye shall pass over armed before your brethren the children of Israel, all that are meet for the war.",
       "verse": 18,
       "type": "newline"
     },
@@ -98,27 +99,27 @@
       "type": "newline"
     },
     {
-      "text": "Until the  have given rest unto your brethren, as well as unto you, and until they also possess the land which the  your God hath given them beyond Jordan: and then shall ye return every man unto his possession, which I have given you.",
+      "text": "Until the Lord have given rest unto your brethren, as well as unto you, and until they also possess the land which the Lord your God hath given them beyond Jordan: and then shall ye return every man unto his possession, which I have given you.",
       "verse": 20,
       "type": "newline"
     },
     {
-      "text": "And I commanded Joshua at that time, saying, Thine eyes have seen all that the  your God hath done unto these two kings: so shall the  do unto all the kingdoms whither thou passest.",
+      "text": "And I commanded Joshua at that time, saying, Thine eyes have seen all that the Lord your God hath done unto these two kings: so shall the Lord do unto all the kingdoms whither thou passest.",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "Ye shall not fear them: for the  your God he shall fight for you.",
+      "text": "Ye shall not fear them: for the Lord your God he shall fight for you.",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "And I besought the  at that time, saying,",
+      "text": "And I besought the Lord at that time, saying,",
       "verse": 23,
       "type": "newline"
     },
     {
-      "text": "O Lord , thou hast begun to shew thy servant thy greatness, and thy mighty hand: for what God is there in heaven or in earth, that can do according to thy works, and according to thy might?",
+      "text": "O Lord God, thou hast begun to shew thy servant thy greatness, and thy mighty hand: for what God is there in heaven or in earth, that can do according to thy works, and according to thy might?",
       "verse": 24,
       "type": "newline"
     },
@@ -128,7 +129,7 @@
       "type": "newline"
     },
     {
-      "text": "But the  was wroth with me for your sakes, and would not hear me: and the  said unto me, Let it suffice thee; speak no more unto me of this matter.",
+      "text": "But the Lord was wroth with me for your sakes, and would not hear me: and the Lord said unto me, Let it suffice thee; speak no more unto me of this matter.",
       "verse": 26,
       "type": "newline"
     },

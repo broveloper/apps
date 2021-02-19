@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 28,
+  "verses": 25,
   "content": [
     {
       "text": "Saul and the Medium of En-dor",
@@ -30,7 +31,7 @@
       "verse": 5
     },
     {
-      "text": "And when Saul inquired of the , the  did not answer him, either by dreams, or by Urim, or by prophets.",
+      "text": "And when Saul inquired of the Lord, the Lord did not answer him, either by dreams, or by Urim, or by prophets.",
       "verse": 6
     },
     {
@@ -47,7 +48,7 @@
       "verse": 9
     },
     {
-      "text": "But Saul swore to her by the , “As the  lives, no punishment shall come upon you for this thing.”",
+      "text": "But Saul swore to her by the Lord, “As the Lord lives, no punishment shall come upon you for this thing.”",
       "verse": 10
     },
     {
@@ -72,19 +73,19 @@
       "type": "newline"
     },
     {
-      "text": "And Samuel said, “Why then do you ask me, since the  has turned from you and become your enemy?",
+      "text": "And Samuel said, “Why then do you ask me, since the Lord has turned from you and become your enemy?",
       "verse": 16
     },
     {
-      "text": "The  has done to you as he spoke by me, for the  has torn the kingdom out of your hand and given it to your neighbor, David.",
+      "text": "The Lord has done to you as he spoke by me, for the Lord has torn the kingdom out of your hand and given it to your neighbor, David.",
       "verse": 17
     },
     {
-      "text": "Because you did not obey the voice of the  and did not carry out his fierce wrath against Amalek, therefore the  has done this thing to you this day.",
+      "text": "Because you did not obey the voice of the Lord and did not carry out his fierce wrath against Amalek, therefore the Lord has done this thing to you this day.",
       "verse": 18
     },
     {
-      "text": "Moreover, the  will give Israel also with you into the hand of the Philistines, and tomorrow you and your sons shall be with me. The  will give the army of Israel also into the hand of the Philistines.”",
+      "text": "Moreover, the Lord will give Israel also with you into the hand of the Philistines, and tomorrow you and your sons shall be with me. The Lord will give the army of Israel also into the hand of the Philistines.”",
       "verse": 19
     },
     {

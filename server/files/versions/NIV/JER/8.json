@@ -2,9 +2,10 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 8,
+  "verses": 22,
   "content": [
     {
-      "text": "“‘At that time, declares the , the bones of the kings and officials of Judah, the bones of the priests and prophets, and the bones of the people of Jerusalem will be removed from their graves.",
+      "text": "“‘At that time, declares the Lord, the bones of the kings and officials of Judah, the bones of the priests and prophets, and the bones of the people of Jerusalem will be removed from their graves.",
       "verse": 1
     },
     {
@@ -12,7 +13,7 @@
       "verse": 2
     },
     {
-      "text": "Wherever I banish them, all the survivors of this evil nation will prefer death to life, declares the  Almighty.’",
+      "text": "Wherever I banish them, all the survivors of this evil nation will prefer death to life, declares the Lord Almighty.’",
       "verse": 3
     },
     {
@@ -20,7 +21,7 @@
       "type": "heading"
     },
     {
-      "text": "“Say to them, ‘This is what the  says:",
+      "text": "“Say to them, ‘This is what the Lord says:",
       "verse": 4,
       "type": "newline"
     },
@@ -110,7 +111,7 @@
       "type": "poetry"
     },
     {
-      "text": "the requirements of the .",
+      "text": "the requirements of the Lord.",
       "verse": 7,
       "type": "poetry"
     },
@@ -120,7 +121,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "for we have the law of the ,”",
+      "text": "for we have the law of the Lord,”",
       "verse": 8,
       "type": "poetry"
     },
@@ -145,7 +146,7 @@
       "type": "poetry"
     },
     {
-      "text": "Since they have rejected the word of the ,",
+      "text": "Since they have rejected the word of the Lord,",
       "verse": 9,
       "type": "poetry"
     },
@@ -230,7 +231,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the .",
+      "text": "says the Lord.",
       "verse": 12,
       "type": "poetry"
     },
@@ -240,7 +241,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 13,
       "type": "poetry"
     },
@@ -290,7 +291,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the  our God has doomed us to perish",
+      "text": "For the Lord our God has doomed us to perish",
       "verse": 14,
       "type": "poetry"
     },
@@ -375,7 +376,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 17,
       "type": "poetry"
     },
@@ -400,7 +401,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Is the  not in Zion?",
+      "text": "“Is the Lord not in Zion?",
       "verse": 19,
       "type": "poetry"
     },

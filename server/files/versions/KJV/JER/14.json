@@ -2,9 +2,10 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 14,
+  "verses": 22,
   "content": [
     {
-      "text": "The word of the  that came to Jeremiah concerning the dearth.",
+      "text": "The word of the Lord that came to Jeremiah concerning the dearth.",
       "verse": 1
     },
     {
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "O , though our iniquities testify against us, do thou it for thy name's sake: for our backslidings are many; we have sinned against thee.",
+      "text": "O Lord, though our iniquities testify against us, do thou it for thy name's sake: for our backslidings are many; we have sinned against thee.",
       "verse": 7,
       "type": "newline"
     },
@@ -43,17 +44,17 @@
       "type": "newline"
     },
     {
-      "text": "Why shouldest thou be as a man astonied, as a mighty man that cannot save? yet thou, O , art in the midst of us, and we are called by thy name; leave us not.",
+      "text": "Why shouldest thou be as a man astonied, as a mighty man that cannot save? yet thou, O Lord, art in the midst of us, and we are called by thy name; leave us not.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "Thus saith the  unto this people, Thus have they loved to wander, they have not refrained their feet, therefore the  doth not accept them; he will now remember their iniquity, and visit their sins.",
+      "text": "Thus saith the Lord unto this people, Thus have they loved to wander, they have not refrained their feet, therefore the Lord doth not accept them; he will now remember their iniquity, and visit their sins.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "Then said the  unto me, Pray not for this people for their good.",
+      "text": "Then said the Lord unto me, Pray not for this people for their good.",
       "verse": 11,
       "type": "newline"
     },
@@ -63,17 +64,17 @@
       "type": "newline"
     },
     {
-      "text": "Then said I, Ah, Lord ! behold, the prophets say unto them, Ye shall not see the sword, neither shall ye have famine; but I will give you assured peace in this place.",
+      "text": "Then said I, Ah, Lord God! behold, the prophets say unto them, Ye shall not see the sword, neither shall ye have famine; but I will give you assured peace in this place.",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "Then the  said unto me, The prophets prophesy lies in my name: I sent them not, neither have I commanded them, neither spake unto them: they prophesy unto you a false vision and divination, and a thing of nought, and the deceit of their heart.",
+      "text": "Then the Lord said unto me, The prophets prophesy lies in my name: I sent them not, neither have I commanded them, neither spake unto them: they prophesy unto you a false vision and divination, and a thing of nought, and the deceit of their heart.",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "Therefore thus saith the  concerning the prophets that prophesy in my name, and I sent them not, yet they say, Sword and famine shall not be in this land; By sword and famine shall those prophets be consumed.",
+      "text": "Therefore thus saith the Lord concerning the prophets that prophesy in my name, and I sent them not, yet they say, Sword and famine shall not be in this land; By sword and famine shall those prophets be consumed.",
       "verse": 15,
       "type": "newline"
     },
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "We acknowledge, O , our wickedness, and the iniquity of our fathers: for we have sinned against thee.",
+      "text": "We acknowledge, O Lord, our wickedness, and the iniquity of our fathers: for we have sinned against thee.",
       "verse": 20,
       "type": "newline"
     },
@@ -108,7 +109,7 @@
       "type": "newline"
     },
     {
-      "text": "Are there any among the vanities of the Gentiles that can cause rain? or can the heavens give showers? art not thou he, O  our God? therefore we will wait upon thee: for thou hast made all these things.",
+      "text": "Are there any among the vanities of the Gentiles that can cause rain? or can the heavens give showers? art not thou he, O Lord our God? therefore we will wait upon thee: for thou hast made all these things.",
       "verse": 22,
       "type": "newline"
     }

@@ -2,6 +2,7 @@
   "book_id": "1KGS",
   "book_name": "1 Kings",
   "chapter": 1,
+  "verses": 53,
   "content": [
     {
       "text": "Now king David was old and stricken in years; and they covered him with clothes, but he gat no heat.",
@@ -83,7 +84,7 @@
       "type": "newline"
     },
     {
-      "text": "And she said unto him, My lord, thou swarest by the  thy God unto thine handmaid, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne.",
+      "text": "And she said unto him, My lord, thou swarest by the Lord thy God unto thine handmaid, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne.",
       "verse": 17,
       "type": "newline"
     },
@@ -143,12 +144,12 @@
       "type": "newline"
     },
     {
-      "text": "And the king sware, and said, As the  liveth, that hath redeemed my soul out of all distress,",
+      "text": "And the king sware, and said, As the Lord liveth, that hath redeemed my soul out of all distress,",
       "verse": 29,
       "type": "newline"
     },
     {
-      "text": "Even as I sware unto thee by the  God of Israel, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne in my stead; even so will I certainly do this day.",
+      "text": "Even as I sware unto thee by the Lord God of Israel, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne in my stead; even so will I certainly do this day.",
       "verse": 30,
       "type": "newline"
     },
@@ -178,12 +179,12 @@
       "type": "newline"
     },
     {
-      "text": "And Benaiah the son of Jehoiada answered the king, and said, Amen: the  God of my lord the king say so too.",
+      "text": "And Benaiah the son of Jehoiada answered the king, and said, Amen: the Lord God of my lord the king say so too.",
       "verse": 36,
       "type": "newline"
     },
     {
-      "text": "As the  hath been with my lord the king, even so be he with Solomon, and make his throne greater than the throne of my lord king David.",
+      "text": "As the Lord hath been with my lord the king, even so be he with Solomon, and make his throne greater than the throne of my lord king David.",
       "verse": 37,
       "type": "newline"
     },
@@ -238,7 +239,7 @@
       "type": "newline"
     },
     {
-      "text": "And also thus said the king, Blessed be the  God of Israel, which hath given one to sit on my throne this day, mine eyes even seeing it.",
+      "text": "And also thus said the king, Blessed be the Lord God of Israel, which hath given one to sit on my throne this day, mine eyes even seeing it.",
       "verse": 48,
       "type": "newline"
     },

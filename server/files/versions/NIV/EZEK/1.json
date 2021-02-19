@@ -2,6 +2,7 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 1,
+  "verses": 28,
   "content": [
     {
       "text": "Ezekiel’s Inaugural Vision",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "the word of the  came to Ezekiel the priest, the son of Buzi, by the Kebar River in the land of the Babylonians. There the hand of the  was on him.",
+      "text": "the word of the Lord came to Ezekiel the priest, the son of Buzi, by the Kebar River in the land of the Babylonians. There the hand of the Lord was on him.",
       "verse": 3
     },
     {
@@ -128,7 +129,7 @@
       "verse": 28
     },
     {
-      "text": "This was the appearance of the likeness of the glory of the . When I saw it, I fell facedown, and I heard the voice of one speaking.",
+      "text": "This was the appearance of the likeness of the glory of the Lord. When I saw it, I fell facedown, and I heard the voice of one speaking.",
       "verse": 28,
       "type": "newline"
     }

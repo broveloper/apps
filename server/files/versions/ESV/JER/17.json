@@ -2,6 +2,7 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 17,
+  "verses": 27,
   "content": [
     {
       "text": "The Sin of Judah",
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "Thus says the :",
+      "text": "Thus says the Lord:",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -40,7 +41,7 @@
       "type": "poetry"
     },
     {
-      "text": "whose heart turns away from the .",
+      "text": "whose heart turns away from the Lord.",
       "verse": 5,
       "type": "poetry"
     },
@@ -65,12 +66,12 @@
       "type": "poetry"
     },
     {
-      "text": "“Blessed is the man who trusts in the ,",
+      "text": "“Blessed is the man who trusts in the Lord,",
       "verse": 7,
       "type": "poetry newline"
     },
     {
-      "text": "whose trust is the .",
+      "text": "whose trust is the Lord.",
       "verse": 7,
       "type": "poetry"
     },
@@ -120,7 +121,7 @@
       "type": "poetry"
     },
     {
-      "text": "“I the  search the heart",
+      "text": "“I the Lord search the heart",
       "verse": 10,
       "type": "poetry"
     },
@@ -170,7 +171,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , the hope of Israel,",
+      "text": "O Lord, the hope of Israel,",
       "verse": 13,
       "type": "poetry"
     },
@@ -185,7 +186,7 @@
       "type": "poetry"
     },
     {
-      "text": "for they have forsaken the , the fountain of living water.",
+      "text": "for they have forsaken the Lord, the fountain of living water.",
       "verse": 13,
       "type": "poetry"
     },
@@ -194,7 +195,7 @@
       "type": "heading"
     },
     {
-      "text": "Heal me, O , and I shall be healed;",
+      "text": "Heal me, O Lord, and I shall be healed;",
       "verse": 14,
       "type": "poetry newline"
     },
@@ -214,7 +215,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Where is the word of the ?",
+      "text": "“Where is the word of the Lord?",
       "verse": 15,
       "type": "poetry"
     },
@@ -288,16 +289,16 @@
       "type": "heading"
     },
     {
-      "text": "Thus said the  to me: “Go and stand in the People's Gate, by which the kings of Judah enter and by which they go out, and in all the gates of Jerusalem,",
+      "text": "Thus said the Lord to me: “Go and stand in the People's Gate, by which the kings of Judah enter and by which they go out, and in all the gates of Jerusalem,",
       "verse": 19,
       "type": "newline"
     },
     {
-      "text": "and say: ‘Hear the word of the , you kings of Judah, and all Judah, and all the inhabitants of Jerusalem, who enter by these gates.",
+      "text": "and say: ‘Hear the word of the Lord, you kings of Judah, and all Judah, and all the inhabitants of Jerusalem, who enter by these gates.",
       "verse": 20
     },
     {
-      "text": "Thus says the : Take care for the sake of your lives, and do not bear a burden on the Sabbath day or bring it in by the gates of Jerusalem.",
+      "text": "Thus says the Lord: Take care for the sake of your lives, and do not bear a burden on the Sabbath day or bring it in by the gates of Jerusalem.",
       "verse": 21
     },
     {
@@ -309,7 +310,7 @@
       "verse": 23
     },
     {
-      "text": "“‘But if you listen to me, declares the , and bring in no burden by the gates of this city on the Sabbath day, but keep the Sabbath day holy and do no work on it,",
+      "text": "“‘But if you listen to me, declares the Lord, and bring in no burden by the gates of this city on the Sabbath day, but keep the Sabbath day holy and do no work on it,",
       "verse": 24,
       "type": "newline"
     },
@@ -318,7 +319,7 @@
       "verse": 25
     },
     {
-      "text": "And people shall come from the cities of Judah and the places around Jerusalem, from the land of Benjamin, from the Shephelah, from the hill country, and from the Negeb, bringing burnt offerings and sacrifices, grain offerings and frankincense, and bringing thank offerings to the house of the .",
+      "text": "And people shall come from the cities of Judah and the places around Jerusalem, from the land of Benjamin, from the Shephelah, from the hill country, and from the Negeb, bringing burnt offerings and sacrifices, grain offerings and frankincense, and bringing thank offerings to the house of the Lord.",
       "verse": 26
     },
     {

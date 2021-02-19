@@ -2,18 +2,19 @@
   "book_id": "ZECH",
   "book_name": "Zechariah",
   "chapter": 10,
+  "verses": 12,
   "content": [
     {
-      "text": "The  Will Care for Judah",
+      "text": "The Lord Will Care for Judah",
       "type": "heading"
     },
     {
-      "text": "Ask the  for rain in the springtime;",
+      "text": "Ask the Lord for rain in the springtime;",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "it is the  who sends the thunderstorms.",
+      "text": "it is the Lord who sends the thunderstorms.",
       "verse": 1,
       "type": "poetry"
     },
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  Almighty will care",
+      "text": "for the Lord Almighty will care",
       "verse": 3,
       "type": "poetry"
     },
@@ -113,7 +114,7 @@
       "type": "poetry"
     },
     {
-      "text": "They will fight because the  is with them,",
+      "text": "They will fight because the Lord is with them,",
       "verse": 5,
       "type": "poetry"
     },
@@ -153,7 +154,7 @@
       "type": "poetry"
     },
     {
-      "text": "for I am the  their God",
+      "text": "for I am the Lord their God",
       "verse": 6,
       "type": "poetry"
     },
@@ -178,7 +179,7 @@
       "type": "poetry"
     },
     {
-      "text": "their hearts will rejoice in the .",
+      "text": "their hearts will rejoice in the Lord.",
       "verse": 7,
       "type": "poetry"
     },
@@ -268,7 +269,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will strengthen them in the",
+      "text": "I will strengthen them in the Lord",
       "verse": 12,
       "type": "poetry"
     },
@@ -278,7 +279,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 12,
       "type": "poetry"
     }

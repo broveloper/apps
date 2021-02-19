@@ -2,18 +2,19 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 104,
+  "verses": 35,
   "content": [
     {
       "text": "Psalm 104",
       "type": "heading"
     },
     {
-      "text": "Praise the , my soul.",
+      "text": "Praise the Lord, my soul.",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "my God, you are very great;",
+      "text": "Lord my God, you are very great;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,7 +24,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  wraps himself in light as with a garment;",
+      "text": "The Lord wraps himself in light as with a garment;",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -33,7 +34,7 @@
       "type": "poetry"
     },
     {
-      "text": "and lays the beams of his upper chambers on their waters.",
+      "text": "    and lays the beams of his upper chambers on their waters.",
       "verse": 3,
       "type": "poetry"
     },
@@ -183,7 +184,7 @@
       "type": "poetry"
     },
     {
-      "text": "The trees of the  are well watered,",
+      "text": "The trees of the Lord are well watered,",
       "verse": 16,
       "type": "poetry"
     },
@@ -263,7 +264,7 @@
       "type": "poetry"
     },
     {
-      "text": "How many are your works, !",
+      "text": "How many are your works, Lord!",
       "verse": 24,
       "type": "poetry newline"
     },
@@ -368,12 +369,12 @@
       "type": "poetry"
     },
     {
-      "text": "May the glory of the  endure forever;",
+      "text": "May the glory of the Lord endure forever;",
       "verse": 31,
       "type": "poetry newline"
     },
     {
-      "text": "may the  rejoice in his works—",
+      "text": "may the Lord rejoice in his works—",
       "verse": 31,
       "type": "poetry"
     },
@@ -388,7 +389,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will sing to the  all my life;",
+      "text": "I will sing to the Lord all my life;",
       "verse": 33,
       "type": "poetry newline"
     },
@@ -403,7 +404,7 @@
       "type": "poetry"
     },
     {
-      "text": "as I rejoice in the .",
+      "text": "as I rejoice in the Lord.",
       "verse": 34,
       "type": "poetry"
     },
@@ -418,12 +419,12 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the , my soul.",
+      "text": "Praise the Lord, my soul.",
       "verse": 35,
       "type": "poetry newline"
     },
     {
-      "text": "Praise the .",
+      "text": "Praise the Lord.",
       "verse": 35,
       "type": "poetry newline"
     }

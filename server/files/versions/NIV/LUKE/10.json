@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 10,
+  "verses": 42,
   "content": [
     {
       "text": "Jesus Sends Out the Seventy-Two",
@@ -13,66 +14,66 @@
       "type": "newline"
     },
     {
-      "text": "He told them,",
+      "text": "He told them, “The harvest is plentiful, but the workers are few. Ask the Lord of the harvest, therefore, to send out workers into his harvest field.",
       "verse": 2
     },
     {
-      "text": "",
+      "text": "Go! I am sending you out like lambs among wolves.",
       "verse": 3
     },
     {
-      "text": "",
+      "text": "Do not take a purse or bag or sandals; and do not greet anyone on the road.",
       "verse": 4
     },
     {
-      "text": "",
+      "text": "“When you enter a house, first say, ‘Peace to this house.’",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "If someone who promotes peace is there, your peace will rest on them; if not, it will return to you.",
       "verse": 6
     },
     {
-      "text": "",
+      "text": "Stay there, eating and drinking whatever they give you, for the worker deserves his wages. Do not move around from house to house.",
       "verse": 7
     },
     {
-      "text": "",
+      "text": "“When you enter a town and are welcomed, eat what is offered to you.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Heal the sick who are there and tell them, ‘The kingdom of God has come near to you.’",
       "verse": 9
     },
     {
-      "text": "",
+      "text": "But when you enter a town and are not welcomed, go into its streets and say,",
       "verse": 10
     },
     {
-      "text": "",
+      "text": "‘Even the dust of your town we wipe from our feet as a warning to you. Yet be sure of this: The kingdom of God has come near.’",
       "verse": 11
     },
     {
-      "text": "",
+      "text": "I tell you, it will be more bearable on that day for Sodom than for that town.",
       "verse": 12
     },
     {
-      "text": "",
+      "text": "“Woe to you, Chorazin! Woe to you, Bethsaida! For if the miracles that were performed in you had been performed in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes.",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "But it will be more bearable for Tyre and Sidon at the judgment than for you.",
       "verse": 14
     },
     {
-      "text": "",
+      "text": "And you, Capernaum, will you be lifted to the heavens? No, you will go down to Hades.",
       "verse": 15
     },
     {
-      "text": "",
+      "text": "“Whoever listens to you listens to me; whoever rejects you rejects me; but whoever rejects me rejects him who sent me.”",
       "verse": 16,
       "type": "newline"
     },
@@ -82,35 +83,35 @@
       "type": "newline"
     },
     {
-      "text": "He replied,",
+      "text": "He replied, “I saw Satan fall like lightning from heaven.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "I have given you authority to trample on snakes and scorpions and to overcome all the power of the enemy; nothing will harm you.",
       "verse": 19
     },
     {
-      "text": "",
+      "text": "However, do not rejoice that the spirits submit to you, but rejoice that your names are written in heaven.”",
       "verse": 20
     },
     {
-      "text": "At that time Jesus, full of joy through the Holy Spirit, said,",
+      "text": "At that time Jesus, full of joy through the Holy Spirit, said, “I praise you, Father, Lord of heaven and earth, because you have hidden these things from the wise and learned, and revealed them to little children. Yes, Father, for this is what you were pleased to do.",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“All things have been committed to me by my Father. No one knows who the Son is except the Father, and no one knows who the Father is except the Son and those to whom the Son chooses to reveal him.”",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "Then he turned to his disciples and said privately,",
+      "text": "Then he turned to his disciples and said privately, “Blessed are the eyes that see what you see.",
       "verse": 23,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "For I tell you that many prophets and kings wanted to see what you see but did not see it, and to hear what you hear but did not hear it.”",
       "verse": 24
     },
     {
@@ -123,7 +124,7 @@
       "type": "newline"
     },
     {
-      "text": "he replied.",
+      "text": "“What is written in the Law?” he replied. “How do you read it?”",
       "verse": 26,
       "type": "newline"
     },
@@ -133,7 +134,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied.",
+      "text": "“You have answered correctly,” Jesus replied. “Do this and you will live.”",
       "verse": 28,
       "type": "newline"
     },
@@ -143,32 +144,32 @@
       "type": "newline"
     },
     {
-      "text": "In reply Jesus said:",
+      "text": "In reply Jesus said: “A man was going down from Jerusalem to Jericho, when he was attacked by robbers. They stripped him of his clothes, beat him and went away, leaving him half dead.",
       "verse": 30,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "A priest happened to be going down the same road, and when he saw the man, he passed by on the other side.",
       "verse": 31
     },
     {
-      "text": "",
+      "text": "So too, a Levite, when he came to the place and saw him, passed by on the other side.",
       "verse": 32
     },
     {
-      "text": "",
+      "text": "But a Samaritan, as he traveled, came where the man was; and when he saw him, he took pity on him.",
       "verse": 33
     },
     {
-      "text": "",
+      "text": "He went to him and bandaged his wounds, pouring on oil and wine. Then he put the man on his own donkey, brought him to an inn and took care of him.",
       "verse": 34
     },
     {
-      "text": "",
+      "text": "The next day he took out two denarii and gave them to the innkeeper. ‘Look after him,’ he said, ‘and when I return, I will reimburse you for any extra expense you may have.’",
       "verse": 35
     },
     {
-      "text": "",
+      "text": "“Which of these three do you think was a neighbor to the man who fell into the hands of robbers?”",
       "verse": 36,
       "type": "newline"
     },
@@ -178,7 +179,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus told him,",
+      "text": "Jesus told him, “Go and do likewise.”",
       "verse": 37,
       "type": "newline"
     },
@@ -200,12 +201,12 @@
       "verse": 40
     },
     {
-      "text": "the Lord answered,",
+      "text": "“Martha, Martha,” the Lord answered, “you are worried and upset about many things,",
       "verse": 41,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "but few things are needed—or indeed only one. Mary has chosen what is better, and it will not be taken away from her.”",
       "verse": 42
     }
   ]

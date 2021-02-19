@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 60,
+  "verses": 22,
   "content": [
     {
       "text": "The Future Glory of Israel",
@@ -13,7 +14,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "and the glory of the  has risen upon you.",
+      "text": "and the glory of the Lord has risen upon you.",
       "verse": 1,
       "type": "poetry"
     },
@@ -28,7 +29,7 @@
       "type": "poetry"
     },
     {
-      "text": "but the  will arise upon you,",
+      "text": "but the Lord will arise upon you,",
       "verse": 2,
       "type": "poetry"
     },
@@ -108,7 +109,7 @@
       "type": "poetry"
     },
     {
-      "text": "and shall bring good news, the praises of the .",
+      "text": "and shall bring good news, the praises of the Lord.",
       "verse": 6,
       "type": "poetry"
     },
@@ -163,7 +164,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the name of the  your God,",
+      "text": "for the name of the Lord your God,",
       "verse": 9,
       "type": "poetry"
     },
@@ -273,7 +274,7 @@
       "type": "poetry"
     },
     {
-      "text": "they shall call you the City of the ,",
+      "text": "they shall call you the City of the Lord,",
       "verse": 14,
       "type": "poetry"
     },
@@ -313,7 +314,7 @@
       "type": "poetry"
     },
     {
-      "text": "and you shall know that I, the , am your Savior",
+      "text": "and you shall know that I, the Lord, am your Savior",
       "verse": 16,
       "type": "poetry"
     },
@@ -393,7 +394,7 @@
       "type": "poetry"
     },
     {
-      "text": "but the  will be your everlasting light,",
+      "text": "but the Lord will be your everlasting light,",
       "verse": 19,
       "type": "poetry"
     },
@@ -413,7 +414,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  will be your everlasting light,",
+      "text": "for the Lord will be your everlasting light,",
       "verse": 20,
       "type": "poetry"
     },
@@ -453,7 +454,7 @@
       "type": "poetry"
     },
     {
-      "text": "I am the ;",
+      "text": "I am the Lord;",
       "verse": 22,
       "type": "poetry"
     },

@@ -2,9 +2,10 @@
   "book_id": "2KGS",
   "book_name": "2 Kings",
   "chapter": 5,
+  "verses": 27,
   "content": [
     {
-      "text": "Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the  had given deliverance unto Syria: he was also a mighty man in valour, but he was a leper.",
+      "text": "Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the Lord had given deliverance unto Syria: he was also a mighty man in valour, but he was a leper.",
       "verse": 1
     },
     {
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the  his God, and strike his hand over the place, and recover the leper.",
+      "text": "But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the Lord his God, and strike his hand over the place, and recover the leper.",
       "verse": 11,
       "type": "newline"
     },
@@ -78,17 +79,17 @@
       "type": "newline"
     },
     {
-      "text": "But he said, As the  liveth, before whom I stand, I will receive none. And he urged him to take it; but he refused.",
+      "text": "But he said, As the Lord liveth, before whom I stand, I will receive none. And he urged him to take it; but he refused.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "And Naaman said, Shall there not then, I pray thee, be given to thy servant two mules' burden of earth? for thy servant will henceforth offer neither burnt offering nor sacrifice unto other gods, but unto the .",
+      "text": "And Naaman said, Shall there not then, I pray thee, be given to thy servant two mules' burden of earth? for thy servant will henceforth offer neither burnt offering nor sacrifice unto other gods, but unto the Lord.",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "In this thing the  pardon thy servant, that when my master goeth into the house of Rimmon to worship there, and he leaneth on my hand, and I bow myself in the house of Rimmon: when I bow down myself in the house of Rimmon, the  pardon thy servant in this thing.",
+      "text": "In this thing the Lord pardon thy servant, that when my master goeth into the house of Rimmon to worship there, and he leaneth on my hand, and I bow myself in the house of Rimmon: when I bow down myself in the house of Rimmon, the Lord pardon thy servant in this thing.",
       "verse": 18,
       "type": "newline"
     },
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but, as the  liveth, I will run after him, and take somewhat of him.",
+      "text": "But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but, as the Lord liveth, I will run after him, and take somewhat of him.",
       "verse": 20,
       "type": "newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 6,
+  "verses": 71,
   "content": [
     {
       "text": "Jesus Feeds the Five Thousand",
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "Lifting up his eyes, then, and seeing that a large crowd was coming toward him, Jesus said to Philip,",
+      "text": "Lifting up his eyes, then, and seeing that a large crowd was coming toward him, Jesus said to Philip, “Where are we to buy bread, so that these people may eat?”",
       "verse": 5
     },
     {
@@ -45,7 +46,7 @@
       "verse": 9
     },
     {
-      "text": "Jesus said,  Now there was much grass in the place. So the men sat down, about five thousand in number.",
+      "text": "Jesus said, “Have the people sit down.” Now there was much grass in the place. So the men sat down, about five thousand in number.",
       "verse": 10
     },
     {
@@ -53,7 +54,7 @@
       "verse": 11
     },
     {
-      "text": "And when they had eaten their fill, he told his disciples,",
+      "text": "And when they had eaten their fill, he told his disciples, “Gather up the leftover fragments, that nothing may be lost.”",
       "verse": 12
     },
     {
@@ -91,7 +92,7 @@
       "verse": 19
     },
     {
-      "text": "But he said to them,",
+      "text": "But he said to them, “It is I; do not be afraid.”",
       "verse": 20
     },
     {
@@ -121,11 +122,11 @@
       "type": "newline"
     },
     {
-      "text": "Jesus answered them,",
+      "text": "Jesus answered them, “Truly, truly, I say to you, you are seeking me, not because you saw signs, but because you ate your fill of the loaves.",
       "verse": 26
     },
     {
-      "text": "",
+      "text": "Do not work for the food that perishes, but for the food that endures to eternal life, which the Son of Man will give to you. For on him God the Father has set his seal.”",
       "verse": 27
     },
     {
@@ -133,7 +134,7 @@
       "verse": 28
     },
     {
-      "text": "Jesus answered them,",
+      "text": "Jesus answered them, “This is the work of God, that you believe in him whom he has sent.”",
       "verse": 29
     },
     {
@@ -145,11 +146,11 @@
       "verse": 31
     },
     {
-      "text": "Jesus then said to them,",
+      "text": "Jesus then said to them, “Truly, truly, I say to you, it was not Moses who gave you the bread from heaven, but my Father gives you the true bread from heaven.",
       "verse": 32
     },
     {
-      "text": "",
+      "text": "For the bread of God is he who comes down from heaven and gives life to the world.”",
       "verse": 33
     },
     {
@@ -157,73 +158,73 @@
       "verse": 34
     },
     {
-      "text": "Jesus said to them,",
+      "text": "Jesus said to them, “I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst.",
       "verse": 35,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "But I said to you that you have seen me and yet do not believe.",
       "verse": 36
     },
     {
-      "text": "",
+      "text": "All that the Father gives me will come to me, and whoever comes to me I will never cast out.",
       "verse": 37
     },
     {
-      "text": "",
+      "text": "For I have come down from heaven, not to do my own will but the will of him who sent me.",
       "verse": 38
     },
     {
-      "text": "",
+      "text": "And this is the will of him who sent me, that I should lose nothing of all that he has given me, but raise it up on the last day.",
       "verse": 39
     },
     {
-      "text": "",
+      "text": "For this is the will of my Father, that everyone who looks on the Son and believes in him should have eternal life, and I will raise him up on the last day.”",
       "verse": 40
     },
     {
-      "text": "So the Jews grumbled about him, because he said,",
+      "text": "So the Jews grumbled about him, because he said, “I am the bread that came down from heaven.”",
       "verse": 41,
       "type": "newline"
     },
     {
-      "text": "They said, “Is not this Jesus, the son of Joseph, whose father and mother we know? How does he now say, ?”",
+      "text": "They said, “Is not this Jesus, the son of Joseph, whose father and mother we know? How does he now say, ‘I have come down from heaven’?”",
       "verse": 42
     },
     {
-      "text": "Jesus answered them,",
+      "text": "Jesus answered them, “Do not grumble among yourselves.",
       "verse": 43
     },
     {
-      "text": "",
+      "text": "No one can come to me unless the Father who sent me draws him. And I will raise him up on the last day.",
       "verse": 44
     },
     {
-      "text": "",
+      "text": "It is written in the Prophets, ‘And they will all be taught by God.’ Everyone who has heard and learned from the Father comes to me—",
       "verse": 45
     },
     {
-      "text": "",
+      "text": "not that anyone has seen the Father except he who is from God; he has seen the Father.",
       "verse": 46
     },
     {
-      "text": "",
+      "text": "Truly, truly, I say to you, whoever believes has eternal life.",
       "verse": 47
     },
     {
-      "text": "",
+      "text": "I am the bread of life.",
       "verse": 48
     },
     {
-      "text": "",
+      "text": "Your fathers ate the manna in the wilderness, and they died.",
       "verse": 49
     },
     {
-      "text": "",
+      "text": "This is the bread that comes down from heaven, so that one may eat of it and not die.",
       "verse": 50
     },
     {
-      "text": "",
+      "text": "I am the living bread that came down from heaven. If anyone eats of this bread, he will live forever. And the bread that I will give for the life of the world is my flesh.”",
       "verse": 51
     },
     {
@@ -232,27 +233,27 @@
       "type": "newline"
     },
     {
-      "text": "So Jesus said to them,",
+      "text": "So Jesus said to them, “Truly, truly, I say to you, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you.",
       "verse": 53
     },
     {
-      "text": "",
+      "text": "Whoever feeds on my flesh and drinks my blood has eternal life, and I will raise him up on the last day.",
       "verse": 54
     },
     {
-      "text": "",
+      "text": "For my flesh is true food, and my blood is true drink.",
       "verse": 55
     },
     {
-      "text": "",
+      "text": "Whoever feeds on my flesh and drinks my blood abides in me, and I in him.",
       "verse": 56
     },
     {
-      "text": "",
+      "text": "As the living Father sent me, and I live because of the Father, so whoever feeds on me, he also will live because of me.",
       "verse": 57
     },
     {
-      "text": "",
+      "text": "This is the bread that came down from heaven, not like the bread the fathers ate, and died. Whoever feeds on this bread will live forever.”",
       "verse": 58
     },
     {
@@ -269,23 +270,23 @@
       "type": "newline"
     },
     {
-      "text": "But Jesus, knowing in himself that his disciples were grumbling about this, said to them,",
+      "text": "But Jesus, knowing in himself that his disciples were grumbling about this, said to them, “Do you take offense at this?",
       "verse": 61
     },
     {
-      "text": "",
+      "text": "Then what if you were to see the Son of Man ascending to where he was before?",
       "verse": 62
     },
     {
-      "text": "",
+      "text": "It is the Spirit who gives life; the flesh is no help at all. The words that I have spoken to you are spirit and life.",
       "verse": 63
     },
     {
-      "text": "(For Jesus knew from the beginning who those were who did not believe, and who it was who would betray him.)",
+      "text": "But there are some of you who do not believe.” (For Jesus knew from the beginning who those were who did not believe, and who it was who would betray him.)",
       "verse": 64
     },
     {
-      "text": "And he said,",
+      "text": "And he said, “This is why I told you that no one can come to me unless it is granted him by the Father.”",
       "verse": 65
     },
     {
@@ -294,7 +295,7 @@
       "type": "newline"
     },
     {
-      "text": "So Jesus said to the twelve,",
+      "text": "So Jesus said to the twelve, “Do you want to go away as well?”",
       "verse": 67
     },
     {
@@ -306,7 +307,7 @@
       "verse": 69
     },
     {
-      "text": "Jesus answered them,",
+      "text": "Jesus answered them, “Did I not choose you, the twelve? And yet one of you is a devil.”",
       "verse": 70
     },
     {

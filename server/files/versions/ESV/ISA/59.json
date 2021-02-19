@@ -2,13 +2,14 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 59,
+  "verses": 21,
   "content": [
     {
       "text": "Evil and Oppression",
       "type": "heading"
     },
     {
-      "text": "Behold, the 's hand is not shortened, that it cannot save,",
+      "text": "Behold, the Lord's hand is not shortened, that it cannot save,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -238,7 +239,7 @@
       "type": "poetry"
     },
     {
-      "text": "transgressing, and denying the ,",
+      "text": "transgressing, and denying the Lord,",
       "verse": 13,
       "type": "poetry"
     },
@@ -292,7 +293,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  saw it, and it displeased him",
+      "text": "The Lord saw it, and it displeased him",
       "verse": 15,
       "type": "poetry newline"
     },
@@ -357,7 +358,7 @@
       "type": "poetry"
     },
     {
-      "text": "So they shall fear the name of the  from the west,",
+      "text": "So they shall fear the name of the Lord from the west,",
       "verse": 19,
       "type": "poetry"
     },
@@ -372,7 +373,7 @@
       "type": "poetry"
     },
     {
-      "text": "which the wind of the  drives.",
+      "text": "which the wind of the Lord drives.",
       "verse": 19,
       "type": "poetry"
     },
@@ -382,12 +383,12 @@
       "type": "poetry newline"
     },
     {
-      "text": "to those in Jacob who turn from transgression,” declares the .",
+      "text": "to those in Jacob who turn from transgression,” declares the Lord.",
       "verse": 20,
       "type": "poetry"
     },
     {
-      "text": "“And as for me, this is my covenant with them,” says the : “My Spirit that is upon you, and my words that I have put in your mouth, shall not depart out of your mouth, or out of the mouth of your offspring, or out of the mouth of your children's offspring,” says the , “from this time forth and forevermore.”",
+      "text": "“And as for me, this is my covenant with them,” says the Lord: “My Spirit that is upon you, and my words that I have put in your mouth, shall not depart out of your mouth, or out of the mouth of your offspring, or out of the mouth of your children's offspring,” says the Lord, “from this time forth and forevermore.”",
       "verse": 21,
       "type": "newline"
     }

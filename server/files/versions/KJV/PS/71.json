@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 71,
+  "verses": 24,
   "content": [
     {
-      "text": "In thee, O , do I put my trust: let me never be put to confusion.",
+      "text": "In thee, O Lord, do I put my trust: let me never be put to confusion.",
       "verse": 1
     },
     {
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "For thou art my hope, O Lord : thou art my trust from my youth.",
+      "text": "For thou art my hope, O Lord God: thou art my trust from my youth.",
       "verse": 5,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "I will go in the strength of the Lord : I will make mention of thy righteousness, even of thine only.",
+      "text": "I will go in the strength of the Lord God: I will make mention of thy righteousness, even of thine only.",
       "verse": 16,
       "type": "newline"
     },

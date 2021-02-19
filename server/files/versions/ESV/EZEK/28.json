@@ -2,18 +2,19 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 28,
+  "verses": 26,
   "content": [
     {
       "text": "Prophecy Against the Prince of Tyre",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Son of man, say to the prince of Tyre, Thus says the Lord :",
+      "text": "“Son of man, say to the prince of Tyre, Thus says the Lord God:",
       "verse": 2
     },
     {
@@ -92,7 +93,7 @@
       "type": "poetry"
     },
     {
-      "text": "therefore thus says the Lord :",
+      "text": "therefore thus says the Lord God:",
       "verse": 6,
       "type": "poetry"
     },
@@ -172,7 +173,7 @@
       "type": "poetry"
     },
     {
-      "text": "for I have spoken, declares the Lord .”",
+      "text": "for I have spoken, declares the Lord God.”",
       "verse": 10,
       "type": "poetry"
     },
@@ -181,12 +182,12 @@
       "type": "heading"
     },
     {
-      "text": "Moreover, the word of the  came to me:",
+      "text": "Moreover, the word of the Lord came to me:",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "“Son of man, raise a lamentation over the king of Tyre, and say to him, Thus says the Lord :",
+      "text": "“Son of man, raise a lamentation over the king of Tyre, and say to him, Thus says the Lord God:",
       "verse": 12
     },
     {
@@ -384,7 +385,7 @@
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 20,
       "type": "newline"
     },
@@ -393,7 +394,7 @@
       "verse": 21
     },
     {
-      "text": "and say, Thus says the Lord :",
+      "text": "and say, Thus says the Lord God:",
       "verse": 22
     },
     {
@@ -407,7 +408,7 @@
       "type": "poetry"
     },
     {
-      "text": "And they shall know that I am the",
+      "text": "And they shall know that I am the Lord",
       "verse": 22,
       "type": "poetry"
     },
@@ -442,12 +443,12 @@
       "type": "poetry"
     },
     {
-      "text": "Then they will know that I am the .",
+      "text": "Then they will know that I am the Lord.",
       "verse": 23,
       "type": "poetry"
     },
     {
-      "text": "“And for the house of Israel there shall be no more a brier to prick or a thorn to hurt them among all their neighbors who have treated them with contempt. Then they will know that I am the Lord .",
+      "text": "“And for the house of Israel there shall be no more a brier to prick or a thorn to hurt them among all their neighbors who have treated them with contempt. Then they will know that I am the Lord God.",
       "verse": 24,
       "type": "newline"
     },
@@ -456,12 +457,12 @@
       "type": "heading"
     },
     {
-      "text": "“Thus says the Lord : When I gather the house of Israel from the peoples among whom they are scattered, and manifest my holiness in them in the sight of the nations, then they shall dwell in their own land that I gave to my servant Jacob.",
+      "text": "“Thus says the Lord God: When I gather the house of Israel from the peoples among whom they are scattered, and manifest my holiness in them in the sight of the nations, then they shall dwell in their own land that I gave to my servant Jacob.",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "And they shall dwell securely in it, and they shall build houses and plant vineyards. They shall dwell securely, when I execute judgments upon all their neighbors who have treated them with contempt. Then they will know that I am the  their God.”",
+      "text": "And they shall dwell securely in it, and they shall build houses and plant vineyards. They shall dwell securely, when I execute judgments upon all their neighbors who have treated them with contempt. Then they will know that I am the Lord their God.”",
       "verse": 26
     }
   ]

@@ -2,9 +2,10 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 33,
+  "verses": 24,
   "content": [
     {
-      "text": "O , Be Gracious to Us",
+      "text": "O Lord, Be Gracious to Us",
       "type": "heading"
     },
     {
@@ -48,7 +49,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , be gracious to us; we wait for you.",
+      "text": "O Lord, be gracious to us; we wait for you.",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -83,7 +84,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is exalted, for he dwells on high;",
+      "text": "The Lord is exalted, for he dwells on high;",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -103,7 +104,7 @@
       "type": "poetry"
     },
     {
-      "text": "the fear of the  is Zion's treasure.",
+      "text": "the fear of the Lord is Zion's treasure.",
       "verse": 6,
       "type": "poetry"
     },
@@ -163,7 +164,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Now I will arise,” says the ,",
+      "text": "“Now I will arise,” says the Lord,",
       "verse": 10,
       "type": "poetry newline"
     },
@@ -333,7 +334,7 @@
       "type": "poetry"
     },
     {
-      "text": "But there the  in majesty will be for us",
+      "text": "But there the Lord in majesty will be for us",
       "verse": 21,
       "type": "poetry"
     },
@@ -353,12 +354,12 @@
       "type": "poetry"
     },
     {
-      "text": "For the  is our judge; the  is our lawgiver;",
+      "text": "For the Lord is our judge; the Lord is our lawgiver;",
       "verse": 22,
       "type": "poetry"
     },
     {
-      "text": "the  is our king; he will save us.",
+      "text": "the Lord is our king; he will save us.",
       "verse": 22,
       "type": "poetry"
     },

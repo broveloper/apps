@@ -2,13 +2,14 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 26,
+  "verses": 46,
   "content": [
     {
-      "text": "Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up any image of stone in your land, to bow down unto it: for I am the  your God.",
+      "text": "Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up any image of stone in your land, to bow down unto it: for I am the Lord your God.",
       "verse": 1
     },
     {
-      "text": "Ye shall keep my sabbaths, and reverence my sanctuary: I am the .",
+      "text": "Ye shall keep my sabbaths, and reverence my sanctuary: I am the Lord.",
       "verse": 2,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "I am the  your God, which brought you forth out of the land of Egypt, that ye should not be their bondmen; and I have broken the bands of your yoke, and made you go upright.",
+      "text": "I am the Lord your God, which brought you forth out of the land of Egypt, that ye should not be their bondmen; and I have broken the bands of your yoke, and made you go upright.",
       "verse": 13,
       "type": "newline"
     },
@@ -218,17 +219,17 @@
       "type": "newline"
     },
     {
-      "text": "And yet for all that, when they be in the land of their enemies, I will not cast them away, neither will I abhor them, to destroy them utterly, and to break my covenant with them: for I am the  their God.",
+      "text": "And yet for all that, when they be in the land of their enemies, I will not cast them away, neither will I abhor them, to destroy them utterly, and to break my covenant with them: for I am the Lord their God.",
       "verse": 44,
       "type": "newline"
     },
     {
-      "text": "But I will for their sakes remember the covenant of their ancestors, whom I brought forth out of the land of Egypt in the sight of the heathen, that I might be their God: I am the .",
+      "text": "But I will for their sakes remember the covenant of their ancestors, whom I brought forth out of the land of Egypt in the sight of the heathen, that I might be their God: I am the Lord.",
       "verse": 45,
       "type": "newline"
     },
     {
-      "text": "These are the statutes and judgments and laws, which the  made between him and the children of Israel in mount Sinai by the hand of Moses.",
+      "text": "These are the statutes and judgments and laws, which the Lord made between him and the children of Israel in mount Sinai by the hand of Moses.",
       "verse": 46,
       "type": "newline"
     }

@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 10,
+  "verses": 18,
   "content": [
     {
       "text": "Psalm 10",
       "type": "heading"
     },
     {
-      "text": "Why, , do you stand far off?",
+      "text": "Why, Lord, do you stand far off?",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -33,7 +34,7 @@
       "type": "poetry"
     },
     {
-      "text": "he blesses the greedy and reviles the .",
+      "text": "he blesses the greedy and reviles the Lord.",
       "verse": 3,
       "type": "poetry"
     },
@@ -98,7 +99,7 @@
       "type": "poetry"
     },
     {
-      "text": "like a lion in cover he lies in wait.",
+      "text": "    like a lion in cover he lies in wait.",
       "verse": 9,
       "type": "poetry"
     },
@@ -133,7 +134,7 @@
       "type": "poetry"
     },
     {
-      "text": "Arise, ! Lift up your hand, O God.",
+      "text": "Arise, Lord! Lift up your hand, O God.",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -193,7 +194,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is King for ever and ever;",
+      "text": "The Lord is King for ever and ever;",
       "verse": 16,
       "type": "poetry newline"
     },
@@ -203,7 +204,7 @@
       "type": "poetry"
     },
     {
-      "text": "You, , hear the desire of the afflicted;",
+      "text": "You, Lord, hear the desire of the afflicted;",
       "verse": 17,
       "type": "poetry"
     },

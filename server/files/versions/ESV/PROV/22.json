@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 22,
+  "verses": 29,
   "content": [
     {
       "text": "A good name is to be chosen rather than great riches,",
@@ -19,7 +20,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  is the Maker of them all.",
+      "text": "the Lord is the Maker of them all.",
       "verse": 2,
       "type": "poetry"
     },
@@ -34,7 +35,7 @@
       "type": "poetry"
     },
     {
-      "text": "The reward for humility and fear of the",
+      "text": "The reward for humility and fear of the Lord",
       "verse": 4,
       "type": "poetry"
     },
@@ -114,7 +115,7 @@
       "type": "poetry"
     },
     {
-      "text": "The eyes of the  keep watch over knowledge,",
+      "text": "The eyes of the Lord keep watch over knowledge,",
       "verse": 12,
       "type": "poetry"
     },
@@ -139,7 +140,7 @@
       "type": "poetry"
     },
     {
-      "text": "he with whom the  is angry will fall into it.",
+      "text": "he with whom the Lord is angry will fall into it.",
       "verse": 14,
       "type": "poetry"
     },
@@ -188,7 +189,7 @@
       "type": "poetry"
     },
     {
-      "text": "That your trust may be in the ,",
+      "text": "That your trust may be in the Lord,",
       "verse": 19,
       "type": "poetry"
     },
@@ -228,7 +229,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  will plead their cause",
+      "text": "for the Lord will plead their cause",
       "verse": 23,
       "type": "poetry"
     },

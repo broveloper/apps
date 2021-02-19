@@ -2,6 +2,7 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 19,
+  "verses": 43,
   "content": [
     {
       "text": "Joab was told, “The king is weeping and mourning for Absalom.”",
@@ -29,7 +30,7 @@
       "verse": 6
     },
     {
-      "text": "Now go out and encourage your men. I swear by the  that if you don’t go out, not a man will be left with you by nightfall. This will be worse for you than all the calamities that have come on you from your youth till now.”",
+      "text": "Now go out and encourage your men. I swear by the Lord that if you don’t go out, not a man will be left with you by nightfall. This will be worse for you than all the calamities that have come on you from your youth till now.”",
       "verse": 7
     },
     {
@@ -108,7 +109,7 @@
       "verse": 20
     },
     {
-      "text": "Then Abishai son of Zeruiah said, “Shouldn’t Shimei be put to death for this? He cursed the ’s anointed.”",
+      "text": "Then Abishai son of Zeruiah said, “Shouldn’t Shimei be put to death for this? He cursed the Lord’s anointed.”",
       "verse": 21,
       "type": "newline"
     },

@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 117,
+  "verses": 2,
   "content": [
     {
-      "text": "O praise the , all ye nations: praise him, all ye people.",
+      "text": "O praise the Lord, all ye nations: praise him, all ye people.",
       "verse": 1
     },
     {
-      "text": "For his merciful kindness is great toward us: and the truth of the  endureth for ever. Praise ye the .",
+      "text": "For his merciful kindness is great toward us: and the truth of the Lord endureth for ever. Praise ye the Lord.",
       "verse": 2,
       "type": "newline"
     }

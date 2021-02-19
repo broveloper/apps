@@ -2,13 +2,14 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 14,
+  "verses": 9,
   "content": [
     {
-      "text": "O israel, return unto the  thy God; for thou hast fallen by thine iniquity.",
+      "text": "O israel, return unto the Lord thy God; for thou hast fallen by thine iniquity.",
       "verse": 1
     },
     {
-      "text": "Take with you words, and turn to the : say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips.",
+      "text": "Take with you words, and turn to the Lord: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips.",
       "verse": 2,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the  are right, and the just shall walk in them: but the transgressors shall fall therein.",
+      "text": "Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the Lord are right, and the just shall walk in them: but the transgressors shall fall therein.",
       "verse": 9,
       "type": "newline"
     }

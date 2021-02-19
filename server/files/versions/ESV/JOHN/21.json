@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 21,
+  "verses": 25,
   "content": [
     {
       "text": "Jesus Appears to Seven Disciples",
@@ -26,11 +27,11 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said to them,  They answered him, “No.”",
+      "text": "Jesus said to them, “Children, do you have any fish?” They answered him, “No.”",
       "verse": 5
     },
     {
-      "text": "He said to them,  So they cast it, and now they were not able to haul it in, because of the quantity of fish.",
+      "text": "He said to them, “Cast the net on the right side of the boat, and you will find some.” So they cast it, and now they were not able to haul it in, because of the quantity of fish.",
       "verse": 6
     },
     {
@@ -47,7 +48,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said to them,",
+      "text": "Jesus said to them, “Bring some of the fish that you have just caught.”",
       "verse": 10
     },
     {
@@ -55,7 +56,7 @@
       "verse": 11
     },
     {
-      "text": "Jesus said to them,  Now none of the disciples dared ask him, “Who are you?” They knew it was the Lord.",
+      "text": "Jesus said to them, “Come and have breakfast.” Now none of the disciples dared ask him, “Who are you?” They knew it was the Lord.",
       "verse": 12
     },
     {
@@ -71,24 +72,24 @@
       "type": "heading"
     },
     {
-      "text": "When they had finished breakfast, Jesus said to Simon Peter,  He said to him, “Yes, Lord; you know that I love you.” He said to him,",
+      "text": "When they had finished breakfast, Jesus said to Simon Peter, “Simon, son of John, do you love me more than these?” He said to him, “Yes, Lord; you know that I love you.” He said to him, “Feed my lambs.”",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "He said to him a second time,  He said to him, “Yes, Lord; you know that I love you.” He said to him,",
+      "text": "He said to him a second time, “Simon, son of John, do you love me?” He said to him, “Yes, Lord; you know that I love you.” He said to him, “Tend my sheep.”",
       "verse": 16
     },
     {
-      "text": "He said to him the third time,  Peter was grieved because he said to him the third time,  and he said to him, “Lord, you know everything; you know that I love you.” Jesus said to him,",
+      "text": "He said to him the third time, “Simon, son of John, do you love me?” Peter was grieved because he said to him the third time, “Do you love me?” and he said to him, “Lord, you know everything; you know that I love you.” Jesus said to him, “Feed my sheep.",
       "verse": 17
     },
     {
-      "text": "",
+      "text": "Truly, truly, I say to you, when you were young, you used to dress yourself and walk wherever you wanted, but when you are old, you will stretch out your hands, and another will dress you and carry you where you do not want to go.”",
       "verse": 18
     },
     {
-      "text": "(This he said to show by what kind of death he was to glorify God.) And after saying this he said to him,",
+      "text": "(This he said to show by what kind of death he was to glorify God.) And after saying this he said to him, “Follow me.”",
       "verse": 19
     },
     {
@@ -105,11 +106,11 @@
       "verse": 21
     },
     {
-      "text": "Jesus said to him,",
+      "text": "Jesus said to him, “If it is my will that he remain until I come, what is that to you? You follow me!”",
       "verse": 22
     },
     {
-      "text": "So the saying spread abroad among the brothers that this disciple was not to die; yet Jesus did not say to him that he was not to die, but,",
+      "text": "So the saying spread abroad among the brothers that this disciple was not to die; yet Jesus did not say to him that he was not to die, but, “If it is my will that he remain until I come, what is that to you?”",
       "verse": 23
     },
     {

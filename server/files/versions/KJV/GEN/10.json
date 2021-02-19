@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 10,
+  "verses": 32,
   "content": [
     {
       "text": "Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.",
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "He was a mighty hunter before the : wherefore it is said, Even as Nimrod the mighty hunter before the .",
+      "text": "He was a mighty hunter before the Lord: wherefore it is said, Even as Nimrod the mighty hunter before the Lord.",
       "verse": 9,
       "type": "newline"
     },

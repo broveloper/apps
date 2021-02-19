@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 3,
+  "verses": 35,
   "content": [
     {
       "text": "Wisdom Bestows Well-Being",
@@ -53,7 +54,7 @@
       "type": "poetry"
     },
     {
-      "text": "Trust in the  with all your heart",
+      "text": "Trust in the Lord with all your heart",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -78,7 +79,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "fear the  and shun evil.",
+      "text": "fear the Lord and shun evil.",
       "verse": 7,
       "type": "poetry"
     },
@@ -93,7 +94,7 @@
       "type": "poetry"
     },
     {
-      "text": "Honor the  with your wealth,",
+      "text": "Honor the Lord with your wealth,",
       "verse": 9,
       "type": "poetry newline"
     },
@@ -113,7 +114,7 @@
       "type": "poetry"
     },
     {
-      "text": "My son, do not despise the ’s discipline,",
+      "text": "My son, do not despise the Lord’s discipline,",
       "verse": 11,
       "type": "poetry newline"
     },
@@ -123,7 +124,7 @@
       "type": "poetry"
     },
     {
-      "text": "because the  disciplines those he loves,",
+      "text": "because the Lord disciplines those he loves,",
       "verse": 12,
       "type": "poetry"
     },
@@ -193,7 +194,7 @@
       "type": "poetry"
     },
     {
-      "text": "By wisdom the  laid the earth’s foundations,",
+      "text": "By wisdom the Lord laid the earth’s foundations,",
       "verse": 19,
       "type": "poetry newline"
     },
@@ -263,7 +264,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  will be at your side",
+      "text": "for the Lord will be at your side",
       "verse": 26,
       "type": "poetry"
     },
@@ -328,7 +329,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the  detests the perverse",
+      "text": "For the Lord detests the perverse",
       "verse": 32,
       "type": "poetry newline"
     },
@@ -338,7 +339,7 @@
       "type": "poetry"
     },
     {
-      "text": "The ’s curse is on the house of the wicked,",
+      "text": "The Lord’s curse is on the house of the wicked,",
       "verse": 33,
       "type": "poetry"
     },

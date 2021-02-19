@@ -2,6 +2,7 @@
   "book_id": "1CHR",
   "book_name": "1 Chronicles",
   "chapter": 24,
+  "verses": 31,
   "content": [
     {
       "text": "The Divisions of Priests",
@@ -136,7 +137,7 @@
       "verse": 18
     },
     {
-      "text": "This was their appointed order of ministering when they entered the temple of the , according to the regulations prescribed for them by their ancestor Aaron, as the , the God of Israel, had commanded him.",
+      "text": "This was their appointed order of ministering when they entered the temple of the Lord, according to the regulations prescribed for them by their ancestor Aaron, as the Lord, the God of Israel, had commanded him.",
       "verse": 19,
       "type": "newline"
     },

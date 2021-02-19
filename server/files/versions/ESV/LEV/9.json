@@ -2,9 +2,10 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 9,
+  "verses": 24,
   "content": [
     {
-      "text": "The  Accepts Aaron's Offering",
+      "text": "The Lord Accepts Aaron's Offering",
       "type": "heading"
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "and he said to Aaron, “Take for yourself a bull calf for a sin offering and a ram for a burnt offering, both without blemish, and offer them before the .",
+      "text": "and he said to Aaron, “Take for yourself a bull calf for a sin offering and a ram for a burnt offering, both without blemish, and offer them before the Lord.",
       "verse": 2
     },
     {
@@ -21,19 +22,19 @@
       "verse": 3
     },
     {
-      "text": "and an ox and a ram for peace offerings, to sacrifice before the , and a grain offering mixed with oil, for today the  will appear to you.’”",
+      "text": "and an ox and a ram for peace offerings, to sacrifice before the Lord, and a grain offering mixed with oil, for today the Lord will appear to you.’”",
       "verse": 4
     },
     {
-      "text": "And they brought what Moses commanded in front of the tent of meeting, and all the congregation drew near and stood before the .",
+      "text": "And they brought what Moses commanded in front of the tent of meeting, and all the congregation drew near and stood before the Lord.",
       "verse": 5
     },
     {
-      "text": "And Moses said, “This is the thing that the  commanded you to do, that the glory of the  may appear to you.”",
+      "text": "And Moses said, “This is the thing that the Lord commanded you to do, that the glory of the Lord may appear to you.”",
       "verse": 6
     },
     {
-      "text": "Then Moses said to Aaron, “Draw near to the altar and offer your sin offering and your burnt offering and make atonement for yourself and for the people, and bring the offering of the people and make atonement for them, as the  has commanded.”",
+      "text": "Then Moses said to Aaron, “Draw near to the altar and offer your sin offering and your burnt offering and make atonement for yourself and for the people, and bring the offering of the people and make atonement for them, as the Lord has commanded.”",
       "verse": 7
     },
     {
@@ -46,7 +47,7 @@
       "verse": 9
     },
     {
-      "text": "But the fat and the kidneys and the long lobe of the liver from the sin offering he burned on the altar, as the  commanded Moses.",
+      "text": "But the fat and the kidneys and the long lobe of the liver from the sin offering he burned on the altar, as the Lord commanded Moses.",
       "verse": 10
     },
     {
@@ -93,7 +94,7 @@
       "verse": 20
     },
     {
-      "text": "but the breasts and the right thigh Aaron waved for a wave offering before the , as Moses commanded.",
+      "text": "but the breasts and the right thigh Aaron waved for a wave offering before the Lord, as Moses commanded.",
       "verse": 21
     },
     {
@@ -102,11 +103,11 @@
       "type": "newline"
     },
     {
-      "text": "And Moses and Aaron went into the tent of meeting, and when they came out they blessed the people, and the glory of the  appeared to all the people.",
+      "text": "And Moses and Aaron went into the tent of meeting, and when they came out they blessed the people, and the glory of the Lord appeared to all the people.",
       "verse": 23
     },
     {
-      "text": "And fire came out from before the  and consumed the burnt offering and the pieces of fat on the altar, and when all the people saw it, they shouted and fell on their faces.",
+      "text": "And fire came out from before the Lord and consumed the burnt offering and the pieces of fat on the altar, and when all the people saw it, they shouted and fell on their faces.",
       "verse": 24
     }
   ]

@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 28,
+  "verses": 28,
   "content": [
     {
       "text": "The wicked flee when no man pursueth: but the righteous are bold as a lion.",
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "Evil men understand not judgment: but they that seek the  understand all things.",
+      "text": "Evil men understand not judgment: but they that seek the Lord understand all things.",
       "verse": 5,
       "type": "newline"
     },
@@ -123,7 +124,7 @@
       "type": "newline"
     },
     {
-      "text": "He that is of a proud heart stirreth up strife: but he that putteth his trust in the  shall be made fat.",
+      "text": "He that is of a proud heart stirreth up strife: but he that putteth his trust in the Lord shall be made fat.",
       "verse": 25,
       "type": "newline"
     },

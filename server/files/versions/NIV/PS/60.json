@@ -2,15 +2,15 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 60,
+  "verses": 12,
   "content": [
     {
       "text": "Psalm 60",
       "type": "heading"
     },
     {
-      "text": "For the director of music. To the tune of “The Lily of the Covenant.” A  of David. For teaching. When he fought Aram Naharaim and Aram Zobah, and when Joab returned and struck down twelve thousand Edomites in the Valley of Salt.",
-      "verse": 1,
-      "type": "newline"
+      "text": "For the director of music. To the tune of “The Lily of the Covenant.” A miktam of David. For teaching. When he fought Aram Naharaim and Aram Zobah, and when Joab returned and struck down twelve thousand Edomites in the Valley of Salt.",
+      "type": "title"
     },
     {
       "text": "You have rejected us, God, and burst upon us;",

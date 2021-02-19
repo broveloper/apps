@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 32,
+  "verses": 11,
   "content": [
     {
       "text": "Blessed is he whose transgression is forgiven, whose sin is covered.",
       "verse": 1
     },
     {
-      "text": "Blessed is the man unto whom the  imputeth not iniquity, and in whose spirit there is no guile.",
+      "text": "Blessed is the man unto whom the Lord imputeth not iniquity, and in whose spirit there is no guile.",
       "verse": 2,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "I acknowledge my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the ; and thou forgavest the iniquity of my sin. Selah.",
+      "text": "I acknowledge my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the Lord; and thou forgavest the iniquity of my sin. Selah.",
       "verse": 5,
       "type": "newline"
     },
@@ -48,12 +49,12 @@
       "type": "newline"
     },
     {
-      "text": "Many sorrows shall be to the wicked: but he that trusteth in the , mercy shall compass him about.",
+      "text": "Many sorrows shall be to the wicked: but he that trusteth in the Lord, mercy shall compass him about.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "Be glad in the , and rejoice, ye righteous: and shout for joy, all ye that are upright in heart.",
+      "text": "Be glad in the Lord, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart.",
       "verse": 11,
       "type": "newline"
     }

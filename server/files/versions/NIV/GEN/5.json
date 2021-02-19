@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 5,
+  "verses": 32,
   "content": [
     {
       "text": "From Adam to Noah",
@@ -135,7 +136,7 @@
       "type": "newline"
     },
     {
-      "text": "He named him Noah and said, “He will comfort us in the labor and painful toil of our hands caused by the ground the  has cursed.”",
+      "text": "He named him Noah and said, “He will comfort us in the labor and painful toil of our hands caused by the ground the Lord has cursed.”",
       "verse": 29
     },
     {

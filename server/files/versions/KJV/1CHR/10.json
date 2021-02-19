@@ -2,6 +2,7 @@
   "book_id": "1CHR",
   "book_name": "1 Chronicles",
   "chapter": 10,
+  "verses": 14,
   "content": [
     {
       "text": "Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa.",
@@ -63,12 +64,12 @@
       "type": "newline"
     },
     {
-      "text": "So Saul died for his transgression which he committed against the , even against the word of the , which he kept not, and also for asking counsel of one that had a familiar spirit, to enquire of it;",
+      "text": "So Saul died for his transgression which he committed against the Lord, even against the word of the Lord, which he kept not, and also for asking counsel of one that had a familiar spirit, to enquire of it;",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "And enquired not of the : therefore he slew him, and turned the kingdom unto David the son of Jesse.",
+      "text": "And enquired not of the Lord: therefore he slew him, and turned the kingdom unto David the son of Jesse.",
       "verse": 14,
       "type": "newline"
     }

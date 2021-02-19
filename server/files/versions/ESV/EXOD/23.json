@@ -2,6 +2,7 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 23,
+  "verses": 33,
   "content": [
     {
       "text": "“You shall not spread a false report. You shall not join hands with a wicked man to be a malicious witness.",
@@ -79,7 +80,7 @@
       "verse": 16
     },
     {
-      "text": "Three times in the year shall all your males appear before the Lord .",
+      "text": "Three times in the year shall all your males appear before the Lord God.",
       "verse": 17
     },
     {
@@ -88,7 +89,7 @@
       "type": "newline"
     },
     {
-      "text": "“The best of the firstfruits of your ground you shall bring into the house of the  your God.",
+      "text": "“The best of the firstfruits of your ground you shall bring into the house of the Lord your God.",
       "verse": 19,
       "type": "newline"
     },
@@ -125,7 +126,7 @@
       "verse": 24
     },
     {
-      "text": "You shall serve the  your God, and he will bless your bread and your water, and I will take sickness away from among you.",
+      "text": "You shall serve the Lord your God, and he will bless your bread and your water, and I will take sickness away from among you.",
       "verse": 25
     },
     {

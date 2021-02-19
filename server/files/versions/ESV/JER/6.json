@@ -2,6 +2,7 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 6,
+  "verses": 30,
   "content": [
     {
       "text": "Impending Disaster for Jerusalem",
@@ -93,7 +94,7 @@
       "type": "poetry"
     },
     {
-      "text": "For thus says the  of hosts:",
+      "text": "For thus says the Lord of hosts:",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -158,7 +159,7 @@
       "type": "poetry"
     },
     {
-      "text": "Thus says the  of hosts:",
+      "text": "Thus says the Lord of hosts:",
       "verse": 9,
       "type": "poetry newline"
     },
@@ -203,7 +204,7 @@
       "type": "poetry"
     },
     {
-      "text": "behold, the word of the  is to them an object of scorn;",
+      "text": "behold, the word of the Lord is to them an object of scorn;",
       "verse": 10,
       "type": "poetry"
     },
@@ -213,7 +214,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore I am full of the wrath of the ;",
+      "text": "Therefore I am full of the wrath of the Lord;",
       "verse": 11,
       "type": "poetry"
     },
@@ -263,7 +264,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 12,
       "type": "poetry"
     },
@@ -328,12 +329,12 @@
       "type": "poetry"
     },
     {
-      "text": "says the .",
+      "text": "says the Lord.",
       "verse": 15,
       "type": "poetry"
     },
     {
-      "text": "Thus says the :",
+      "text": "Thus says the Lord:",
       "verse": 16,
       "type": "poetry newline"
     },
@@ -428,7 +429,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore thus says the :",
+      "text": "Therefore thus says the Lord:",
       "verse": 21,
       "type": "poetry"
     },
@@ -453,7 +454,7 @@
       "type": "poetry"
     },
     {
-      "text": "Thus says the :",
+      "text": "Thus says the Lord:",
       "verse": 22,
       "type": "poetry newline"
     },
@@ -623,7 +624,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  has rejected them.”",
+      "text": "for the Lord has rejected them.”",
       "verse": 30,
       "type": "poetry"
     }

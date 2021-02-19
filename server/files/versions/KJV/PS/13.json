@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 13,
+  "verses": 6,
   "content": [
     {
-      "text": "How long wilt thou forget me, O ? for ever? how long wilt thou hide thy face from me?",
+      "text": "How long wilt thou forget me, O Lord? for ever? how long wilt thou hide thy face from me?",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "Consider and hear me, O  my God: lighten mine eyes, lest I sleep the sleep of death;",
+      "text": "Consider and hear me, O Lord my God: lighten mine eyes, lest I sleep the sleep of death;",
       "verse": 3,
       "type": "newline"
     },
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "I will sing unto the , because he hath dealt bountifully with me.",
+      "text": "I will sing unto the Lord, because he hath dealt bountifully with me.",
       "verse": 6,
       "type": "newline"
     }

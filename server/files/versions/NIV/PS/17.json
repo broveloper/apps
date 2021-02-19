@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 17,
+  "verses": 15,
   "content": [
     {
       "text": "Psalm 17",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A prayer of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Hear me, , my plea is just;",
+      "text": "Hear me, Lord, my plea is just;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -163,7 +163,7 @@
       "type": "poetry"
     },
     {
-      "text": "Rise up, , confront them, bring them down;",
+      "text": "Rise up, Lord, confront them, bring them down;",
       "verse": 13,
       "type": "poetry newline"
     },
@@ -173,7 +173,7 @@
       "type": "poetry"
     },
     {
-      "text": "By your hand save me from such people, ,",
+      "text": "By your hand save me from such people, Lord,",
       "verse": 14,
       "type": "poetry"
     },

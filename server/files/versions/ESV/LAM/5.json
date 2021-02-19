@@ -2,13 +2,14 @@
   "book_id": "LAM",
   "book_name": "Lamentations",
   "chapter": 5,
+  "verses": 22,
   "content": [
     {
-      "text": "Restore Us to Yourself, O",
+      "text": "Restore Us to Yourself, O Lord",
       "type": "heading"
     },
     {
-      "text": "Remember, O , what has befallen us;",
+      "text": "Remember, O Lord, what has befallen us;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -188,7 +189,7 @@
       "type": "poetry"
     },
     {
-      "text": "But you, O , reign forever;",
+      "text": "But you, O Lord, reign forever;",
       "verse": 19,
       "type": "poetry"
     },
@@ -208,7 +209,7 @@
       "type": "poetry"
     },
     {
-      "text": "Restore us to yourself, O , that we may be restored!",
+      "text": "Restore us to yourself, O Lord, that we may be restored!",
       "verse": 21,
       "type": "poetry"
     },

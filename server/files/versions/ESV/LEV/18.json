@@ -2,18 +2,19 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 18,
+  "verses": 30,
   "content": [
     {
       "text": "Unlawful Sexual Relations",
       "type": "heading"
     },
     {
-      "text": "And the  spoke to Moses, saying,",
+      "text": "And the Lord spoke to Moses, saying,",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Speak to the people of Israel and say to them, I am the  your God.",
+      "text": "“Speak to the people of Israel and say to them, I am the Lord your God.",
       "verse": 2
     },
     {
@@ -21,15 +22,15 @@
       "verse": 3
     },
     {
-      "text": "You shall follow my rules and keep my statutes and walk in them. I am the  your God.",
+      "text": "You shall follow my rules and keep my statutes and walk in them. I am the Lord your God.",
       "verse": 4
     },
     {
-      "text": "You shall therefore keep my statutes and my rules; if a person does them, he shall live by them: I am the .",
+      "text": "You shall therefore keep my statutes and my rules; if a person does them, he shall live by them: I am the Lord.",
       "verse": 5
     },
     {
-      "text": "“None of you shall approach any one of his close relatives to uncover nakedness. I am the .",
+      "text": "“None of you shall approach any one of his close relatives to uncover nakedness. I am the Lord.",
       "verse": 6,
       "type": "newline"
     },
@@ -91,7 +92,7 @@
       "verse": 20
     },
     {
-      "text": "You shall not give any of your children to offer them to Molech, and so profane the name of your God: I am the .",
+      "text": "You shall not give any of your children to offer them to Molech, and so profane the name of your God: I am the Lord.",
       "verse": 21
     },
     {
@@ -128,7 +129,7 @@
       "verse": 29
     },
     {
-      "text": "So keep my charge never to practice any of these abominable customs that were practiced before you, and never to make yourselves unclean by them: I am the  your God.”",
+      "text": "So keep my charge never to practice any of these abominable customs that were practiced before you, and never to make yourselves unclean by them: I am the Lord your God.”",
       "verse": 30
     }
   ]

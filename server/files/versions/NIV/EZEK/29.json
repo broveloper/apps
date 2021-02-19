@@ -2,6 +2,7 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 29,
+  "verses": 21,
   "content": [
     {
       "text": "A Prophecy Against Egypt",
@@ -9,11 +10,10 @@
     },
     {
       "text": "Judgment on Pharaoh",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "In the tenth year, in the tenth month on the twelfth day, the word of the  came to me:",
+      "text": "In the tenth year, in the tenth month on the twelfth day, the word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -22,7 +22,7 @@
       "verse": 2
     },
     {
-      "text": "Speak to him and say: ‘This is what the Sovereign  says:",
+      "text": "Speak to him and say: ‘This is what the Sovereign Lord says:",
       "verse": 3
     },
     {
@@ -96,7 +96,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then all who live in Egypt will know that I am the .",
+      "text": "Then all who live in Egypt will know that I am the Lord.",
       "verse": 6,
       "type": "newline"
     },
@@ -110,12 +110,12 @@
       "verse": 7
     },
     {
-      "text": "“‘Therefore this is what the Sovereign  says: I will bring a sword against you and kill both man and beast.",
+      "text": "“‘Therefore this is what the Sovereign Lord says: I will bring a sword against you and kill both man and beast.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "Egypt will become a desolate wasteland. Then they will know that I am the .",
+      "text": "Egypt will become a desolate wasteland. Then they will know that I am the Lord.",
       "verse": 9
     },
     {
@@ -136,7 +136,7 @@
       "verse": 12
     },
     {
-      "text": "“‘Yet this is what the Sovereign  says: At the end of forty years I will gather the Egyptians from the nations where they were scattered.",
+      "text": "“‘Yet this is what the Sovereign Lord says: At the end of forty years I will gather the Egyptians from the nations where they were scattered.",
       "verse": 13,
       "type": "newline"
     },
@@ -149,16 +149,15 @@
       "verse": 15
     },
     {
-      "text": "Egypt will no longer be a source of confidence for the people of Israel but will be a reminder of their sin in turning to her for help. Then they will know that I am the Sovereign .’”",
+      "text": "Egypt will no longer be a source of confidence for the people of Israel but will be a reminder of their sin in turning to her for help. Then they will know that I am the Sovereign Lord.’”",
       "verse": 16
     },
     {
       "text": "Nebuchadnezzar’s Reward",
-      "verse": 17,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "In the twenty-seventh year, in the first month on the first day, the word of the  came to me:",
+      "text": "In the twenty-seventh year, in the first month on the first day, the word of the Lord came to me:",
       "verse": 17,
       "type": "newline"
     },
@@ -167,15 +166,15 @@
       "verse": 18
     },
     {
-      "text": "Therefore this is what the Sovereign  says: I am going to give Egypt to Nebuchadnezzar king of Babylon, and he will carry off its wealth. He will loot and plunder the land as pay for his army.",
+      "text": "Therefore this is what the Sovereign Lord says: I am going to give Egypt to Nebuchadnezzar king of Babylon, and he will carry off its wealth. He will loot and plunder the land as pay for his army.",
       "verse": 19
     },
     {
-      "text": "I have given him Egypt as a reward for his efforts because he and his army did it for me, declares the Sovereign .",
+      "text": "I have given him Egypt as a reward for his efforts because he and his army did it for me, declares the Sovereign Lord.",
       "verse": 20
     },
     {
-      "text": "“On that day I will make a horn grow for the Israelites, and I will open your mouth among them. Then they will know that I am the .”",
+      "text": "“On that day I will make a horn grow for the Israelites, and I will open your mouth among them. Then they will know that I am the Lord.”",
       "verse": 21,
       "type": "newline"
     }

@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 17,
+  "verses": 34,
   "content": [
     {
       "text": "Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where was a synagogue of the Jews:",
@@ -113,7 +114,7 @@
       "type": "newline"
     },
     {
-      "text": "For as I passed by, and beheld your devotions, I found an altar with this inscription, . Whom therefore ye ignorantly worship, him declare I unto you.",
+      "text": "For as I passed by, and beheld your devotions, I found an altar with this inscription, To The Unknown God. Whom therefore ye ignorantly worship, him declare I unto you.",
       "verse": 23,
       "type": "newline"
     },

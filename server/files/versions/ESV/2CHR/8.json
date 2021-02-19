@@ -2,13 +2,14 @@
   "book_id": "2CHR",
   "book_name": "2 Chronicles",
   "chapter": 8,
+  "verses": 18,
   "content": [
     {
       "text": "Solomon's Accomplishments",
       "type": "heading"
     },
     {
-      "text": "At the end of twenty years, in which Solomon had built the house of the  and his own house,",
+      "text": "At the end of twenty years, in which Solomon had built the house of the Lord and his own house,",
       "verse": 1,
       "type": "newline"
     },
@@ -50,12 +51,12 @@
       "verse": 10
     },
     {
-      "text": "Solomon brought Pharaoh's daughter up from the city of David to the house that he had built for her, for he said, “My wife shall not live in the house of David king of Israel, for the places to which the ark of the  has come are holy.”",
+      "text": "Solomon brought Pharaoh's daughter up from the city of David to the house that he had built for her, for he said, “My wife shall not live in the house of David king of Israel, for the places to which the ark of the Lord has come are holy.”",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "Then Solomon offered up burnt offerings to the  on the altar of the  that he had built before the vestibule,",
+      "text": "Then Solomon offered up burnt offerings to the Lord on the altar of the Lord that he had built before the vestibule,",
       "verse": 12,
       "type": "newline"
     },
@@ -72,7 +73,7 @@
       "verse": 15
     },
     {
-      "text": "Thus was accomplished all the work of Solomon from the day the foundation of the house of the  was laid until it was finished. So the house of the  was completed.",
+      "text": "Thus was accomplished all the work of Solomon from the day the foundation of the house of the Lord was laid until it was finished. So the house of the Lord was completed.",
       "verse": 16,
       "type": "newline"
     },

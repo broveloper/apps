@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 139,
+  "verses": 24,
   "content": [
     {
       "text": "O lord, thou hast searched me, and known me.",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "For there is not a word in my tongue, but, lo, O , thou knowest it altogether.",
+      "text": "For there is not a word in my tongue, but, lo, O Lord, thou knowest it altogether.",
       "verse": 4,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "Do not I hate them, O , that hate thee? and am not I grieved with those that rise up against thee?",
+      "text": "Do not I hate them, O Lord, that hate thee? and am not I grieved with those that rise up against thee?",
       "verse": 21,
       "type": "newline"
     },

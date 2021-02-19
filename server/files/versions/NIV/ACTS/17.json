@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 17,
+  "verses": 34,
   "content": [
     {
       "text": "In Thessalonica",
@@ -110,7 +111,7 @@
       "type": "newline"
     },
     {
-      "text": "For as I walked around and looked carefully at your objects of worship, I even found an altar with this inscription: . So you are ignorant of the very thing you worship—and this is what I am going to proclaim to you.",
+      "text": "For as I walked around and looked carefully at your objects of worship, I even found an altar with this inscription: to an unknown god. So you are ignorant of the very thing you worship—and this is what I am going to proclaim to you.",
       "verse": 23
     },
     {

@@ -2,9 +2,10 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 23,
+  "verses": 49,
   "content": [
     {
-      "text": "The word of the  came again unto me, saying,",
+      "text": "The word of the Lord came again unto me, saying,",
       "verse": 1
     },
     {
@@ -108,7 +109,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore, O Aholibah, thus saith the Lord ; Behold, I will raise up thy lovers against thee, from whom thy mind is alienated, and I will bring them against thee on every side;",
+      "text": "Therefore, O Aholibah, thus saith the Lord God; Behold, I will raise up thy lovers against thee, from whom thy mind is alienated, and I will bring them against thee on every side;",
       "verse": 22,
       "type": "newline"
     },
@@ -138,7 +139,7 @@
       "type": "newline"
     },
     {
-      "text": "For thus saith the Lord ; Behold, I will deliver thee into the hand of them whom thou hatest, into the hand of them from whom thy mind is alienated:",
+      "text": "For thus saith the Lord God; Behold, I will deliver thee into the hand of them whom thou hatest, into the hand of them from whom thy mind is alienated:",
       "verse": 28,
       "type": "newline"
     },
@@ -158,7 +159,7 @@
       "type": "newline"
     },
     {
-      "text": "Thus saith the Lord ; Thou shalt drink of thy sister's cup deep and large: thou shalt be laughed to scorn and had in derision; it containeth much.",
+      "text": "Thus saith the Lord God; Thou shalt drink of thy sister's cup deep and large: thou shalt be laughed to scorn and had in derision; it containeth much.",
       "verse": 32,
       "type": "newline"
     },
@@ -168,17 +169,17 @@
       "type": "newline"
     },
     {
-      "text": "Thou shalt even drink it and suck it out, and thou shalt break the sherds thereof, and pluck off thine own breasts: for I have spoken it, saith the Lord .",
+      "text": "Thou shalt even drink it and suck it out, and thou shalt break the sherds thereof, and pluck off thine own breasts: for I have spoken it, saith the Lord God.",
       "verse": 34,
       "type": "newline"
     },
     {
-      "text": "Therefore thus saith the Lord ; Because thou hast forgotten me, and cast me behind thy back, therefore bear thou also thy lewdness and thy whoredoms.",
+      "text": "Therefore thus saith the Lord God; Because thou hast forgotten me, and cast me behind thy back, therefore bear thou also thy lewdness and thy whoredoms.",
       "verse": 35,
       "type": "newline"
     },
     {
-      "text": "The  said moreover unto me; Son of man, wilt thou judge Aholah and Aholibah? yea, declare unto them their abominations;",
+      "text": "The Lord said moreover unto me; Son of man, wilt thou judge Aholah and Aholibah? yea, declare unto them their abominations;",
       "verse": 36,
       "type": "newline"
     },
@@ -228,7 +229,7 @@
       "type": "newline"
     },
     {
-      "text": "For thus saith the Lord ; I will bring up a company upon them, and will give them to be removed and spoiled.",
+      "text": "For thus saith the Lord God; I will bring up a company upon them, and will give them to be removed and spoiled.",
       "verse": 46,
       "type": "newline"
     },
@@ -243,7 +244,7 @@
       "type": "newline"
     },
     {
-      "text": "And they shall recompense your lewdness upon you, and ye shall bear the sins of your idols: and ye shall know that I am the Lord .",
+      "text": "And they shall recompense your lewdness upon you, and ye shall bear the sins of your idols: and ye shall know that I am the Lord God.",
       "verse": 49,
       "type": "newline"
     }

@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 42,
+  "verses": 11,
   "content": [
     {
       "text": "Book Two",
@@ -13,8 +14,7 @@
     },
     {
       "text": "To the choirmaster. A Maskil of the Sons of Korah.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "As a deer pants for flowing streams,",
@@ -157,7 +157,7 @@
       "type": "poetry"
     },
     {
-      "text": "By day the  commands his steadfast love,",
+      "text": "By day the Lord commands his steadfast love,",
       "verse": 8,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "SONG",
   "book_name": "Song of Solomon",
   "chapter": 8,
+  "verses": 14,
   "content": [
     {
       "text": "Longing for Her Beloved",
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "the very flame of the .",
+      "text": "the very flame of the Lord.",
       "verse": 6,
       "type": "poetry"
     },
@@ -163,8 +164,7 @@
     },
     {
       "text": "Others",
-      "verse": 8,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "We have a little sister,",
@@ -208,8 +208,7 @@
     },
     {
       "text": "She",
-      "verse": 10,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "I was a wall,",
@@ -263,8 +262,7 @@
     },
     {
       "text": "He",
-      "verse": 13,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "O you who dwell in the gardens,",
@@ -283,8 +281,7 @@
     },
     {
       "text": "She",
-      "verse": 14,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Make haste, my beloved,",

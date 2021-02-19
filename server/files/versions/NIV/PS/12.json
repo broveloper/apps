@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 12,
+  "verses": 8,
   "content": [
     {
       "text": "Psalm 12",
       "type": "heading"
     },
     {
-      "text": "For the director of music. According to  A psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "text": "For the director of music. According to sheminith. A psalm of David.",
+      "type": "title"
     },
     {
-      "text": "Help, , for no one is faithful anymore;",
+      "text": "Help, Lord, for no one is faithful anymore;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -38,7 +38,7 @@
       "type": "poetry"
     },
     {
-      "text": "May the  silence all flattering lips",
+      "text": "May the Lord silence all flattering lips",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -68,7 +68,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "I will now arise,” says the .",
+      "text": "I will now arise,” says the Lord.",
       "verse": 5,
       "type": "poetry"
     },
@@ -78,7 +78,7 @@
       "type": "poetry"
     },
     {
-      "text": "And the words of the  are flawless,",
+      "text": "And the words of the Lord are flawless,",
       "verse": 6,
       "type": "poetry"
     },
@@ -93,7 +93,7 @@
       "type": "poetry"
     },
     {
-      "text": "You, , will keep the needy safe",
+      "text": "You, Lord, will keep the needy safe",
       "verse": 7,
       "type": "poetry newline"
     },

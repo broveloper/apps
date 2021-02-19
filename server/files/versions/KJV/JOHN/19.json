@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 19,
+  "verses": 42,
   "content": [
     {
       "text": "Then Pilate therefore took Jesus, and scourged him.",
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "And Pilate wrote a title, and put it on the cross. And the writing was .",
+      "text": "And Pilate wrote a title, and put it on the cross. And the writing was Jesus Of Nazareth The King Of The Jews.",
       "verse": 19,
       "type": "newline"
     },

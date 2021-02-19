@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 22,
+  "verses": 24,
   "content": [
     {
       "text": "And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.",
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "And the angel of the  called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I.",
+      "text": "And the angel of the Lord called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I.",
       "verse": 11,
       "type": "newline"
     },
@@ -68,17 +69,17 @@
       "type": "newline"
     },
     {
-      "text": "And Abraham called the name of that place Jehovahjireh: as it is said to this day, In the mount of the  it shall be seen.",
+      "text": "And Abraham called the name of that place Jehovahjireh: as it is said to this day, In the mount of the Lord it shall be seen.",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "And the angel of the  called unto Abraham out of heaven the second time,",
+      "text": "And the angel of the Lord called unto Abraham out of heaven the second time,",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "And said, By myself have I sworn, saith the , for because thou hast done this thing, and hast not withheld thy son, thine only son:",
+      "text": "And said, By myself have I sworn, saith the Lord, for because thou hast done this thing, and hast not withheld thy son, thine only son:",
       "verse": 16,
       "type": "newline"
     },

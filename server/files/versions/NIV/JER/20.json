@@ -2,26 +2,27 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 20,
+  "verses": 18,
   "content": [
     {
       "text": "Jeremiah and Pashhur",
       "type": "heading"
     },
     {
-      "text": "When the priest Pashhur son of Immer, the official in charge of the temple of the , heard Jeremiah prophesying these things,",
+      "text": "When the priest Pashhur son of Immer, the official in charge of the temple of the Lord, heard Jeremiah prophesying these things,",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "he had Jeremiah the prophet beaten and put in the stocks at the Upper Gate of Benjamin at the ’s temple.",
+      "text": "he had Jeremiah the prophet beaten and put in the stocks at the Upper Gate of Benjamin at the Lord’s temple.",
       "verse": 2
     },
     {
-      "text": "The next day, when Pashhur released him from the stocks, Jeremiah said to him, “The ’s name for you is not Pashhur, but Terror on Every Side.",
+      "text": "The next day, when Pashhur released him from the stocks, Jeremiah said to him, “The Lord’s name for you is not Pashhur, but Terror on Every Side.",
       "verse": 3
     },
     {
-      "text": "For this is what the  says: ‘I will make you a terror to yourself and to all your friends; with your own eyes you will see them fall by the sword of their enemies. I will give all Judah into the hands of the king of Babylon, who will carry them away to Babylon or put them to the sword.",
+      "text": "For this is what the Lord says: ‘I will make you a terror to yourself and to all your friends; with your own eyes you will see them fall by the sword of their enemies. I will give all Judah into the hands of the king of Babylon, who will carry them away to Babylon or put them to the sword.",
       "verse": 4
     },
     {
@@ -37,7 +38,7 @@
       "type": "heading"
     },
     {
-      "text": "You deceived me, , and I was deceived;",
+      "text": "You deceived me, Lord, and I was deceived;",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -67,7 +68,7 @@
       "type": "poetry"
     },
     {
-      "text": "So the word of the  has brought me",
+      "text": "So the word of the Lord has brought me",
       "verse": 8,
       "type": "poetry"
     },
@@ -147,7 +148,7 @@
       "type": "poetry"
     },
     {
-      "text": "But the  is with me like a mighty warrior;",
+      "text": "But the Lord is with me like a mighty warrior;",
       "verse": 11,
       "type": "poetry newline"
     },
@@ -167,7 +168,7 @@
       "type": "poetry"
     },
     {
-      "text": "Almighty, you who examine the righteous",
+      "text": "Lord Almighty, you who examine the righteous",
       "verse": 12,
       "type": "poetry"
     },
@@ -187,12 +188,12 @@
       "type": "poetry"
     },
     {
-      "text": "Sing to the !",
+      "text": "Sing to the Lord!",
       "verse": 13,
       "type": "poetry newline"
     },
     {
-      "text": "Give praise to the !",
+      "text": "Give praise to the Lord!",
       "verse": 13,
       "type": "poetry"
     },
@@ -237,7 +238,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  overthrew without pity.",
+      "text": "the Lord overthrew without pity.",
       "verse": 16,
       "type": "poetry"
     },

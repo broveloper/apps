@@ -2,9 +2,10 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 18,
+  "verses": 27,
   "content": [
     {
-      "text": "When Jethro, the priest of Midian, Moses' father in law, heard of all that God had done for Moses, and for Israel his people, and that the  had brought Israel out of Egypt;",
+      "text": "When Jethro, the priest of Midian, Moses' father in law, heard of all that God had done for Moses, and for Israel his people, and that the Lord had brought Israel out of Egypt;",
       "verse": 1
     },
     {
@@ -38,22 +39,22 @@
       "type": "newline"
     },
     {
-      "text": "And Moses told his father in law all that the  had done unto Pharaoh and to the Egyptians for Israel's sake, and all the travail that had come upon them by the way, and how the  delivered them.",
+      "text": "And Moses told his father in law all that the Lord had done unto Pharaoh and to the Egyptians for Israel's sake, and all the travail that had come upon them by the way, and how the Lord delivered them.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "And Jethro rejoiced for all the goodness which the  had done to Israel, whom he had delivered out of the hand of the Egyptians.",
+      "text": "And Jethro rejoiced for all the goodness which the Lord had done to Israel, whom he had delivered out of the hand of the Egyptians.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "And Jethro said, Blessed be the , who hath delivered you out of the hand of the Egyptians, and out of the hand of Pharaoh, who hath delivered the people from under the hand of the Egyptians.",
+      "text": "And Jethro said, Blessed be the Lord, who hath delivered you out of the hand of the Egyptians, and out of the hand of Pharaoh, who hath delivered the people from under the hand of the Egyptians.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "Now I know that the  is greater than all gods: for in the thing wherein they dealt proudly he was above them.",
+      "text": "Now I know that the Lord is greater than all gods: for in the thing wherein they dealt proudly he was above them.",
       "verse": 11,
       "type": "newline"
     },

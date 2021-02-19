@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 85,
+  "verses": 13,
   "content": [
     {
       "text": "Lord, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.",
@@ -33,12 +34,12 @@
       "type": "newline"
     },
     {
-      "text": "Shew us thy mercy, O , and grant us thy salvation.",
+      "text": "Shew us thy mercy, O Lord, and grant us thy salvation.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "I will hear what God the  will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly.",
+      "text": "I will hear what God the Lord will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly.",
       "verse": 8,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "Yea, the  shall give that which is good; and our land shall yield her increase.",
+      "text": "Yea, the Lord shall give that which is good; and our land shall yield her increase.",
       "verse": 12,
       "type": "newline"
     },

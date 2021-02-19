@@ -2,6 +2,7 @@
   "book_id": "JOSH",
   "book_name": "Joshua",
   "chapter": 15,
+  "verses": 63,
   "content": [
     {
       "text": "The Allotment for Judah",
@@ -57,7 +58,7 @@
       "verse": 12
     },
     {
-      "text": "According to the commandment of the  to Joshua, he gave to Caleb the son of Jephunneh a portion among the people of Judah, Kiriath-arba, that is, Hebron (Arba was the father of Anak).",
+      "text": "According to the commandment of the Lord to Joshua, he gave to Caleb the son of Jephunneh a portion among the people of Judah, Kiriath-arba, that is, Hebron (Arba was the father of Anak).",
       "verse": 13,
       "type": "newline"
     },

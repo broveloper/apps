@@ -2,26 +2,27 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 7,
+  "verses": 34,
   "content": [
     {
       "text": "Evil in the Land",
       "type": "heading"
     },
     {
-      "text": "The word that came to Jeremiah from the :",
+      "text": "The word that came to Jeremiah from the Lord:",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Stand in the gate of the 's house, and proclaim there this word, and say, Hear the word of the , all you men of Judah who enter these gates to worship the .",
+      "text": "“Stand in the gate of the Lord's house, and proclaim there this word, and say, Hear the word of the Lord, all you men of Judah who enter these gates to worship the Lord.",
       "verse": 2
     },
     {
-      "text": "Thus says the  of hosts, the God of Israel: Amend your ways and your deeds, and I will let you dwell in this place.",
+      "text": "Thus says the Lord of hosts, the God of Israel: Amend your ways and your deeds, and I will let you dwell in this place.",
       "verse": 3
     },
     {
-      "text": "Do not trust in these deceptive words: ‘This is the temple of the , the temple of the , the temple of the .’",
+      "text": "Do not trust in these deceptive words: ‘This is the temple of the Lord, the temple of the Lord, the temple of the Lord.’",
       "verse": 4
     },
     {
@@ -51,7 +52,7 @@
       "verse": 10
     },
     {
-      "text": "Has this house, which is called by my name, become a den of robbers in your eyes? Behold, I myself have seen it, declares the .",
+      "text": "Has this house, which is called by my name, become a den of robbers in your eyes? Behold, I myself have seen it, declares the Lord.",
       "verse": 11
     },
     {
@@ -59,7 +60,7 @@
       "verse": 12
     },
     {
-      "text": "And now, because you have done all these things, declares the , and when I spoke to you persistently you did not listen, and when I called you, you did not answer,",
+      "text": "And now, because you have done all these things, declares the Lord, and when I spoke to you persistently you did not listen, and when I called you, you did not answer,",
       "verse": 13
     },
     {
@@ -84,15 +85,15 @@
       "verse": 18
     },
     {
-      "text": "Is it I whom they provoke? declares the . Is it not themselves, to their own shame?",
+      "text": "Is it I whom they provoke? declares the Lord. Is it not themselves, to their own shame?",
       "verse": 19
     },
     {
-      "text": "Therefore thus says the Lord : Behold, my anger and my wrath will be poured out on this place, upon man and beast, upon the trees of the field and the fruit of the ground; it will burn and not be quenched.”",
+      "text": "Therefore thus says the Lord God: Behold, my anger and my wrath will be poured out on this place, upon man and beast, upon the trees of the field and the fruit of the ground; it will burn and not be quenched.”",
       "verse": 20
     },
     {
-      "text": "Thus says the  of hosts, the God of Israel: “Add your burnt offerings to your sacrifices, and eat the flesh.",
+      "text": "Thus says the Lord of hosts, the God of Israel: “Add your burnt offerings to your sacrifices, and eat the flesh.",
       "verse": 21,
       "type": "newline"
     },
@@ -122,7 +123,7 @@
       "type": "newline"
     },
     {
-      "text": "And you shall say to them, ‘This is the nation that did not obey the voice of the  their God, and did not accept discipline; truth has perished; it is cut off from their lips.",
+      "text": "And you shall say to them, ‘This is the nation that did not obey the voice of the Lord their God, and did not accept discipline; truth has perished; it is cut off from their lips.",
       "verse": 28
     },
     {
@@ -136,7 +137,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  has rejected and forsaken",
+      "text": "for the Lord has rejected and forsaken",
       "verse": 29,
       "type": "poetry"
     },
@@ -150,7 +151,7 @@
       "type": "heading"
     },
     {
-      "text": "“For the sons of Judah have done evil in my sight, declares the . They have set their detestable things in the house that is called by my name, to defile it.",
+      "text": "“For the sons of Judah have done evil in my sight, declares the Lord. They have set their detestable things in the house that is called by my name, to defile it.",
       "verse": 30,
       "type": "newline"
     },
@@ -159,7 +160,7 @@
       "verse": 31
     },
     {
-      "text": "Therefore, behold, the days are coming, declares the , when it will no more be called Topheth, or the Valley of the Son of Hinnom, but the Valley of Slaughter; for they will bury in Topheth, because there is no room elsewhere.",
+      "text": "Therefore, behold, the days are coming, declares the Lord, when it will no more be called Topheth, or the Valley of the Son of Hinnom, but the Valley of Slaughter; for they will bury in Topheth, because there is no room elsewhere.",
       "verse": 32
     },
     {

@@ -2,13 +2,14 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 20,
+  "verses": 27,
   "content": [
     {
       "text": "Punishment for Child Sacrifice",
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses, saying,",
+      "text": "The Lord spoke to Moses, saying,",
       "verse": 1,
       "type": "newline"
     },
@@ -34,11 +35,11 @@
       "type": "newline"
     },
     {
-      "text": "Consecrate yourselves, therefore, and be holy, for I am the  your God.",
+      "text": "Consecrate yourselves, therefore, and be holy, for I am the Lord your God.",
       "verse": 7
     },
     {
-      "text": "Keep my statutes and do them; I am the  who sanctifies you.",
+      "text": "Keep my statutes and do them; I am the Lord who sanctifies you.",
       "verse": 8
     },
     {
@@ -113,7 +114,7 @@
       "verse": 23
     },
     {
-      "text": "But I have said to you, ‘You shall inherit their land, and I will give it to you to possess, a land flowing with milk and honey.’ I am the  your God, who has separated you from the peoples.",
+      "text": "But I have said to you, ‘You shall inherit their land, and I will give it to you to possess, a land flowing with milk and honey.’ I am the Lord your God, who has separated you from the peoples.",
       "verse": 24
     },
     {
@@ -121,7 +122,7 @@
       "verse": 25
     },
     {
-      "text": "You shall be holy to me, for I the  am holy and have separated you from the peoples, that you should be mine.",
+      "text": "You shall be holy to me, for I the Lord am holy and have separated you from the peoples, that you should be mine.",
       "verse": 26
     },
     {

@@ -2,6 +2,7 @@
   "book_id": "JUDG",
   "book_name": "Judges",
   "chapter": 5,
+  "verses": 31,
   "content": [
     {
       "text": "The Song of Deborah",
@@ -23,7 +24,7 @@
       "type": "poetry"
     },
     {
-      "text": "praise the !",
+      "text": "praise the Lord!",
       "verse": 2,
       "type": "poetry"
     },
@@ -33,17 +34,17 @@
       "type": "poetry newline"
     },
     {
-      "text": "I, even I, will sing to the ;",
+      "text": "I, even I, will sing to the Lord;",
       "verse": 3,
       "type": "poetry"
     },
     {
-      "text": "I will praise the , the God of Israel, in song.",
+      "text": "I will praise the Lord, the God of Israel, in song.",
       "verse": 3,
       "type": "poetry"
     },
     {
-      "text": "“When you, , went out from Seir,",
+      "text": "“When you, Lord, went out from Seir,",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -63,12 +64,12 @@
       "type": "poetry"
     },
     {
-      "text": "The mountains quaked before the , the One of Sinai,",
+      "text": "The mountains quaked before the Lord, the One of Sinai,",
       "verse": 5,
       "type": "poetry"
     },
     {
-      "text": "before the , the God of Israel.",
+      "text": "before the Lord, the God of Israel.",
       "verse": 5,
       "type": "poetry"
     },
@@ -133,7 +134,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the !",
+      "text": "Praise the Lord!",
       "verse": 9,
       "type": "poetry"
     },
@@ -163,7 +164,7 @@
       "type": "poetry"
     },
     {
-      "text": "They recite the victories of the ,",
+      "text": "They recite the victories of the Lord,",
       "verse": 11,
       "type": "poetry"
     },
@@ -173,7 +174,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Then the people of the",
+      "text": "“Then the people of the Lord",
       "verse": 11,
       "type": "poetry newline"
     },
@@ -208,7 +209,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "the people of the  came down to me against the mighty.",
+      "text": "the people of the Lord came down to me against the mighty.",
       "verse": 13,
       "type": "poetry"
     },
@@ -363,7 +364,7 @@
       "type": "poetry"
     },
     {
-      "text": "‘Curse Meroz,’ said the angel of the .",
+      "text": "‘Curse Meroz,’ said the angel of the Lord.",
       "verse": 23,
       "type": "poetry"
     },
@@ -373,12 +374,12 @@
       "type": "poetry"
     },
     {
-      "text": "because they did not come to help the ,",
+      "text": "because they did not come to help the Lord,",
       "verse": 23,
       "type": "poetry"
     },
     {
-      "text": "to help the  against the mighty.’",
+      "text": "to help the Lord against the mighty.’",
       "verse": 23,
       "type": "poetry"
     },
@@ -508,7 +509,7 @@
       "type": "poetry"
     },
     {
-      "text": "“So may all your enemies perish, !",
+      "text": "“So may all your enemies perish, Lord!",
       "verse": 31,
       "type": "poetry newline"
     },

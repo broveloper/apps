@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 142,
+  "verses": 7,
   "content": [
     {
       "text": "You Are My Refuge",
@@ -9,16 +10,15 @@
     },
     {
       "text": "A Maskil of David, when he was in the cave. A Prayer.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "With my voice I cry out to the ;",
+      "text": "With my voice I cry out to the Lord;",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "with my voice I plead for mercy to the .",
+      "text": "with my voice I plead for mercy to the Lord.",
       "verse": 1,
       "type": "poetry"
     },
@@ -73,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "I cry to you, O ;",
+      "text": "I cry to you, O Lord;",
       "verse": 5,
       "type": "poetry newline"
     },

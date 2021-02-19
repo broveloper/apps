@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 75,
+  "verses": 10,
   "content": [
     {
       "text": "Unto thee, O God, do we give thanks, unto thee do we give thanks: for that thy name is near thy wondrous works declare.",
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "For in the hand of the  there is a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring them out, and drink them.",
+      "text": "For in the hand of the Lord there is a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring them out, and drink them.",
       "verse": 8,
       "type": "newline"
     },

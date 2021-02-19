@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 21,
+  "verses": 17,
   "content": [
     {
       "text": "A Prophecy Against Babylon",
@@ -213,7 +214,7 @@
       "type": "poetry"
     },
     {
-      "text": "from the  Almighty,",
+      "text": "from the Lord Almighty,",
       "verse": 10,
       "type": "poetry"
     },
@@ -286,7 +287,7 @@
       "type": "poetry"
     },
     {
-      "text": "bring water for the thirsty;",
+      "text": "    bring water for the thirsty;",
       "verse": 14,
       "type": "poetry"
     },
@@ -326,7 +327,7 @@
       "type": "newline"
     },
     {
-      "text": "The survivors of the archers, the warriors of Kedar, will be few.” The , the God of Israel, has spoken.",
+      "text": "The survivors of the archers, the warriors of Kedar, will be few.” The Lord, the God of Israel, has spoken.",
       "verse": 17
     }
   ]

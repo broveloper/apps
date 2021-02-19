@@ -21,7 +21,7 @@ const generateWords = verses => _.chain(verses)
 			if (args[1].length > 0) {
 				p.push(Object.assign(Object(args[1]), { type: 'word', i: p.length }, meta));
 				delete meta.newline;
-				if (args[2].length > 0) {
+				if (args[2]?.length > 0) {
 					p.push(Object.assign(Object(args[2]), { type: 'gap', i: p.length }, meta));
 				}
 			}

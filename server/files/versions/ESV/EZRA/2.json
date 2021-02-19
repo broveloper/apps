@@ -2,6 +2,7 @@
   "book_id": "EZRA",
   "book_name": "Ezra",
   "chapter": 2,
+  "verses": 70,
   "content": [
     {
       "text": "The Exiles Return",
@@ -289,7 +290,7 @@
       "verse": 67
     },
     {
-      "text": "Some of the heads of families, when they came to the house of the  that is in Jerusalem, made freewill offerings for the house of God, to erect it on its site.",
+      "text": "Some of the heads of families, when they came to the house of the Lord that is in Jerusalem, made freewill offerings for the house of God, to erect it on its site.",
       "verse": 68,
       "type": "newline"
     },

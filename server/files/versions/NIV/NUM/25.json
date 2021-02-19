@@ -2,6 +2,7 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 25,
+  "verses": 18,
   "content": [
     {
       "text": "Moab Seduces Israel",
@@ -17,11 +18,11 @@
       "verse": 2
     },
     {
-      "text": "So Israel yoked themselves to the Baal of Peor. And the ’s anger burned against them.",
+      "text": "So Israel yoked themselves to the Baal of Peor. And the Lord’s anger burned against them.",
       "verse": 3
     },
     {
-      "text": "The  said to Moses, “Take all the leaders of these people, kill them and expose them in broad daylight before the , so that the ’s fierce anger may turn away from Israel.”",
+      "text": "The Lord said to Moses, “Take all the leaders of these people, kill them and expose them in broad daylight before the Lord, so that the Lord’s fierce anger may turn away from Israel.”",
       "verse": 4,
       "type": "newline"
     },
@@ -48,7 +49,7 @@
       "verse": 9
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 10,
       "type": "newline"
     },
@@ -74,7 +75,7 @@
       "verse": 15
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 16,
       "type": "newline"
     },

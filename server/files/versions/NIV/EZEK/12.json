@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 12,
+  "verses": 28,
   "content": [
     {
       "text": "The Exile Symbolized",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -39,7 +40,7 @@
       "type": "newline"
     },
     {
-      "text": "In the morning the word of the  came to me:",
+      "text": "In the morning the word of the Lord came to me:",
       "verse": 8,
       "type": "newline"
     },
@@ -48,7 +49,7 @@
       "verse": 9
     },
     {
-      "text": "“Say to them, ‘This is what the Sovereign  says: This prophecy concerns the prince in Jerusalem and all the Israelites who are there.’",
+      "text": "“Say to them, ‘This is what the Sovereign Lord says: This prophecy concerns the prince in Jerusalem and all the Israelites who are there.’",
       "verse": 10,
       "type": "newline"
     },
@@ -75,16 +76,16 @@
       "verse": 14
     },
     {
-      "text": "“They will know that I am the , when I disperse them among the nations and scatter them through the countries.",
+      "text": "“They will know that I am the Lord, when I disperse them among the nations and scatter them through the countries.",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "But I will spare a few of them from the sword, famine and plague, so that in the nations where they go they may acknowledge all their detestable practices. Then they will know that I am the .”",
+      "text": "But I will spare a few of them from the sword, famine and plague, so that in the nations where they go they may acknowledge all their detestable practices. Then they will know that I am the Lord.”",
       "verse": 16
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 17,
       "type": "newline"
     },
@@ -93,11 +94,11 @@
       "verse": 18
     },
     {
-      "text": "Say to the people of the land: ‘This is what the Sovereign  says about those living in Jerusalem and in the land of Israel: They will eat their food in anxiety and drink their water in despair, for their land will be stripped of everything in it because of the violence of all who live there.",
+      "text": "Say to the people of the land: ‘This is what the Sovereign Lord says about those living in Jerusalem and in the land of Israel: They will eat their food in anxiety and drink their water in despair, for their land will be stripped of everything in it because of the violence of all who live there.",
       "verse": 19
     },
     {
-      "text": "The inhabited towns will be laid waste and the land will be desolate. Then you will know that I am the .’”",
+      "text": "The inhabited towns will be laid waste and the land will be desolate. Then you will know that I am the Lord.’”",
       "verse": 20
     },
     {
@@ -105,7 +106,7 @@
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 21,
       "type": "newline"
     },
@@ -114,7 +115,7 @@
       "verse": 22
     },
     {
-      "text": "Say to them, ‘This is what the Sovereign  says: I am going to put an end to this proverb, and they will no longer quote it in Israel.’ Say to them, ‘The days are near when every vision will be fulfilled.",
+      "text": "Say to them, ‘This is what the Sovereign Lord says: I am going to put an end to this proverb, and they will no longer quote it in Israel.’ Say to them, ‘The days are near when every vision will be fulfilled.",
       "verse": 23
     },
     {
@@ -122,11 +123,11 @@
       "verse": 24
     },
     {
-      "text": "But I the  will speak what I will, and it shall be fulfilled without delay. For in your days, you rebellious people, I will fulfill whatever I say, declares the Sovereign .’”",
+      "text": "But I the Lord will speak what I will, and it shall be fulfilled without delay. For in your days, you rebellious people, I will fulfill whatever I say, declares the Sovereign Lord.’”",
       "verse": 25
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 26,
       "type": "newline"
     },
@@ -135,7 +136,7 @@
       "verse": 27
     },
     {
-      "text": "“Therefore say to them, ‘This is what the Sovereign  says: None of my words will be delayed any longer; whatever I say will be fulfilled, declares the Sovereign .’”",
+      "text": "“Therefore say to them, ‘This is what the Sovereign Lord says: None of my words will be delayed any longer; whatever I say will be fulfilled, declares the Sovereign Lord.’”",
       "verse": 28,
       "type": "newline"
     }

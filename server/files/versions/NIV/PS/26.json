@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 26,
+  "verses": 12,
   "content": [
     {
       "text": "Psalm 26",
@@ -9,11 +10,10 @@
     },
     {
       "text": "Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Vindicate me, ,",
+      "text": "Vindicate me, Lord,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,7 +23,7 @@
       "type": "poetry"
     },
     {
-      "text": "I have trusted in the",
+      "text": "I have trusted in the Lord",
       "verse": 1,
       "type": "poetry"
     },
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "Test me, , and try me,",
+      "text": "Test me, Lord, and try me,",
       "verse": 2,
       "type": "poetry"
     },
@@ -78,7 +78,7 @@
       "type": "poetry"
     },
     {
-      "text": "and go about your altar, ,",
+      "text": "and go about your altar, Lord,",
       "verse": 6,
       "type": "poetry"
     },
@@ -93,7 +93,7 @@
       "type": "poetry"
     },
     {
-      "text": ", I love the house where you live,",
+      "text": "Lord, I love the house where you live,",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -138,7 +138,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "in the great congregation I will praise the .",
+      "text": "in the great congregation I will praise the Lord.",
       "verse": 12,
       "type": "poetry"
     }

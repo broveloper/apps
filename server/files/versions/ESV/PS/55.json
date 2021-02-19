@@ -2,15 +2,15 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 55,
+  "verses": 23,
   "content": [
     {
-      "text": "Cast Your Burden on the",
+      "text": "Cast Your Burden on the Lord",
       "type": "heading"
     },
     {
       "text": "To the choirmaster: with stringed instruments. A Maskil of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Give ear to my prayer, O God,",
@@ -88,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "I would lodge in the wilderness;",
+      "text": "I would lodge in the wilderness; Selah",
       "verse": 7,
       "type": "poetry"
     },
@@ -128,7 +128,7 @@
       "type": "poetry"
     },
     {
-      "text": "ruin is in its midst;",
+      "text": "    ruin is in its midst;",
       "verse": 11,
       "type": "poetry"
     },
@@ -203,7 +203,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "and the  will save me.",
+      "text": "and the Lord will save me.",
       "verse": 16,
       "type": "poetry"
     },
@@ -243,7 +243,7 @@
       "type": "poetry"
     },
     {
-      "text": "he who is enthroned from of old,",
+      "text": "he who is enthroned from of old, Selah",
       "verse": 19,
       "type": "poetry"
     },
@@ -288,7 +288,7 @@
       "type": "poetry"
     },
     {
-      "text": "Cast your burden on the ,",
+      "text": "Cast your burden on the Lord,",
       "verse": 22,
       "type": "poetry newline"
     },

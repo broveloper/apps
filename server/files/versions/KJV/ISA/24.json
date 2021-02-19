@@ -2,9 +2,10 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 24,
+  "verses": 23,
   "content": [
     {
-      "text": "Behold, the  maketh the earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof.",
+      "text": "Behold, the Lord maketh the earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof.",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "The land shall be utterly emptied, and utterly spoiled: for the  hath spoken this word.",
+      "text": "The land shall be utterly emptied, and utterly spoiled: for the Lord hath spoken this word.",
       "verse": 3,
       "type": "newline"
     },
@@ -68,12 +69,12 @@
       "type": "newline"
     },
     {
-      "text": "They shall lift up their voice, they shall sing for the majesty of the , they shall cry aloud from the sea.",
+      "text": "They shall lift up their voice, they shall sing for the majesty of the Lord, they shall cry aloud from the sea.",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "Wherefore glorify ye the  in the fires, even the name of the  God of Israel in the isles of the sea.",
+      "text": "Wherefore glorify ye the Lord in the fires, even the name of the Lord God of Israel in the isles of the sea.",
       "verse": 15,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "And it shall come to pass in that day, that the  shall punish the host of the high ones that are on high, and the kings of the earth upon the earth.",
+      "text": "And it shall come to pass in that day, that the Lord shall punish the host of the high ones that are on high, and the kings of the earth upon the earth.",
       "verse": 21,
       "type": "newline"
     },
@@ -113,7 +114,7 @@
       "type": "newline"
     },
     {
-      "text": "Then the moon shall be confounded, and the sun ashamed, when the  of hosts shall reign in mount Zion, and in Jerusalem, and before his ancients gloriously.",
+      "text": "Then the moon shall be confounded, and the sun ashamed, when the Lord of hosts shall reign in mount Zion, and in Jerusalem, and before his ancients gloriously.",
       "verse": 23,
       "type": "newline"
     }

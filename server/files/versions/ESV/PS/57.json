@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 57,
+  "verses": 11,
   "content": [
     {
       "text": "Let Your Glory Be over All the Earth",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster: according to Do Not Destroy. A Miktam of David, when he fled from Saul, in the cave.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Be merciful to me, O God, be merciful to me,",
@@ -48,7 +48,7 @@
       "type": "poetry"
     },
     {
-      "text": "he will put to shame him who tramples on me.",
+      "text": "he will put to shame him who tramples on me. Selah",
       "verse": 3,
       "type": "poetry"
     },
@@ -103,7 +103,7 @@
       "type": "poetry"
     },
     {
-      "text": "but they have fallen into it themselves.",
+      "text": "but they have fallen into it themselves. Selah",
       "verse": 6,
       "type": "poetry"
     },
@@ -123,7 +123,7 @@
       "type": "poetry"
     },
     {
-      "text": "Awake, my glory!",
+      "text": "    Awake, my glory!",
       "verse": 8,
       "type": "poetry"
     },

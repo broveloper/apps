@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 74,
+  "verses": 23,
   "content": [
     {
       "text": "O God, why hast thou cast us off for ever? why doth thine anger smoke against the sheep of thy pasture?",
@@ -88,7 +89,7 @@
       "type": "newline"
     },
     {
-      "text": "Remember this, that the enemy hath reproached, O , and that the foolish people have blasphemed thy name.",
+      "text": "Remember this, that the enemy hath reproached, O Lord, and that the foolish people have blasphemed thy name.",
       "verse": 18,
       "type": "newline"
     },

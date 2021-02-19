@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 2,
+  "verses": 22,
   "content": [
     {
       "text": "The Value of Wisdom",
@@ -48,7 +49,7 @@
       "type": "poetry"
     },
     {
-      "text": "then you will understand the fear of the",
+      "text": "then you will understand the fear of the Lord",
       "verse": 5,
       "type": "poetry"
     },
@@ -58,7 +59,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the  gives wisdom;",
+      "text": "For the Lord gives wisdom;",
       "verse": 6,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "HAB",
   "book_name": "Habakkuk",
   "chapter": 1,
+  "verses": 17,
   "content": [
     {
       "text": "The prophecy that Habakkuk the prophet received.",
@@ -12,7 +13,7 @@
       "type": "heading"
     },
     {
-      "text": "How long, , must I call for help,",
+      "text": "How long, Lord, must I call for help,",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -72,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "The ’s Answer",
+      "text": "The Lord’s Answer",
       "type": "heading"
     },
     {
@@ -161,7 +162,7 @@
       "type": "poetry"
     },
     {
-      "text": "they all come intent on violence.",
+      "text": "    they all come intent on violence.",
       "verse": 9,
       "type": "poetry"
     },
@@ -210,7 +211,7 @@
       "type": "heading"
     },
     {
-      "text": ", are you not from everlasting?",
+      "text": "Lord, are you not from everlasting?",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -220,7 +221,7 @@
       "type": "poetry"
     },
     {
-      "text": "You, , have appointed them to execute judgment;",
+      "text": "You, Lord, have appointed them to execute judgment;",
       "verse": 12,
       "type": "poetry"
     },

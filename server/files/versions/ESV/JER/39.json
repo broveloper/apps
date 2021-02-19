@@ -2,6 +2,7 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 39,
+  "verses": 18,
   "content": [
     {
       "text": "The Fall of Jerusalem",
@@ -49,7 +50,7 @@
       "verse": 10
     },
     {
-      "text": "The  Delivers Jeremiah",
+      "text": "The Lord Delivers Jeremiah",
       "type": "heading"
     },
     {
@@ -70,20 +71,20 @@
       "verse": 14
     },
     {
-      "text": "The word of the  came to Jeremiah while he was shut up in the court of the guard:",
+      "text": "The word of the Lord came to Jeremiah while he was shut up in the court of the guard:",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "“Go, and say to Ebed-melech the Ethiopian, ‘Thus says the  of hosts, the God of Israel: Behold, I will fulfill my words against this city for harm and not for good, and they shall be accomplished before you on that day.",
+      "text": "“Go, and say to Ebed-melech the Ethiopian, ‘Thus says the Lord of hosts, the God of Israel: Behold, I will fulfill my words against this city for harm and not for good, and they shall be accomplished before you on that day.",
       "verse": 16
     },
     {
-      "text": "But I will deliver you on that day, declares the , and you shall not be given into the hand of the men of whom you are afraid.",
+      "text": "But I will deliver you on that day, declares the Lord, and you shall not be given into the hand of the men of whom you are afraid.",
       "verse": 17
     },
     {
-      "text": "For I will surely save you, and you shall not fall by the sword, but you shall have your life as a prize of war, because you have put your trust in me, declares the .’”",
+      "text": "For I will surely save you, and you shall not fall by the sword, but you shall have your life as a prize of war, because you have put your trust in me, declares the Lord.’”",
       "verse": 18
     }
   ]

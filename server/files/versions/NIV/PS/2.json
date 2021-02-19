@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 2,
+  "verses": 12,
   "content": [
     {
       "text": "Psalm 2",
@@ -28,7 +29,7 @@
       "type": "poetry"
     },
     {
-      "text": "against the  and against his anointed, saying,",
+      "text": "against the Lord and against his anointed, saying,",
       "verse": 2,
       "type": "poetry"
     },
@@ -73,7 +74,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will proclaim the ’s decree:",
+      "text": "I will proclaim the Lord’s decree:",
       "verse": 7,
       "type": "newline"
     },
@@ -123,7 +124,7 @@
       "type": "poetry"
     },
     {
-      "text": "Serve the  with fear",
+      "text": "Serve the Lord with fear",
       "verse": 11,
       "type": "poetry"
     },

@@ -2,13 +2,14 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 48,
+  "verses": 22,
   "content": [
     {
-      "text": "Hear ye this, O house of Jacob, which are called by the name of Israel, and are come forth out of the waters of Judah, which swear by the name of the , and make mention of the God of Israel, but not in truth, nor in righteousness.",
+      "text": "Hear ye this, O house of Jacob, which are called by the name of Israel, and are come forth out of the waters of Judah, which swear by the name of the Lord, and make mention of the God of Israel, but not in truth, nor in righteousness.",
       "verse": 1
     },
     {
-      "text": "For they call themselves of the holy city, and stay themselves upon the God of Israel; The  of hosts is his name.",
+      "text": "For they call themselves of the holy city, and stay themselves upon the God of Israel; The Lord of hosts is his name.",
       "verse": 2,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "All ye, assemble yourselves, and hear; which among them hath declared these things? The  hath loved him: he will do his pleasure on Babylon, and his arm shall be on the Chaldeans.",
+      "text": "All ye, assemble yourselves, and hear; which among them hath declared these things? The Lord hath loved him: he will do his pleasure on Babylon, and his arm shall be on the Chaldeans.",
       "verse": 14,
       "type": "newline"
     },
@@ -78,12 +79,12 @@
       "type": "newline"
     },
     {
-      "text": "Come ye near unto me, hear ye this; I have not spoken in secret from the beginning; from the time that it was, there am I: and now the Lord , and his Spirit, hath sent me.",
+      "text": "Come ye near unto me, hear ye this; I have not spoken in secret from the beginning; from the time that it was, there am I: and now the Lord God, and his Spirit, hath sent me.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "Thus saith the , thy Redeemer, the Holy One of Israel; I am the  thy God which teacheth thee to profit, which leadeth thee by the way that thou shouldest go.",
+      "text": "Thus saith the Lord, thy Redeemer, the Holy One of Israel; I am the Lord thy God which teacheth thee to profit, which leadeth thee by the way that thou shouldest go.",
       "verse": 17,
       "type": "newline"
     },
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing declare ye, tell this, utter it even to the end of the earth; say ye, The  hath redeemed his servant Jacob.",
+      "text": "Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing declare ye, tell this, utter it even to the end of the earth; say ye, The Lord hath redeemed his servant Jacob.",
       "verse": 20,
       "type": "newline"
     },
@@ -108,7 +109,7 @@
       "type": "newline"
     },
     {
-      "text": "There is no peace, saith the , unto the wicked.",
+      "text": "There is no peace, saith the Lord, unto the wicked.",
       "verse": 22,
       "type": "newline"
     }

@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 9,
+  "verses": 41,
   "content": [
     {
       "text": "Jesus Heals a Man Born Blind",
@@ -17,16 +18,16 @@
       "verse": 2
     },
     {
-      "text": "said Jesus,",
+      "text": "“Neither this man nor his parents sinned,” said Jesus, “but this happened so that the works of God might be displayed in him.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "As long as it is day, we must do the works of him who sent me. Night is coming, when no one can work.",
       "verse": 4
     },
     {
-      "text": "",
+      "text": "While I am in the world, I am the light of the world.”",
       "verse": 5
     },
     {
@@ -35,7 +36,7 @@
       "type": "newline"
     },
     {
-      "text": "he told him,  (this word means “Sent”). So the man went and washed, and came home seeing.",
+      "text": "“Go,” he told him, “wash in the Pool of Siloam” (this word means “Sent”). So the man went and washed, and came home seeing.",
       "verse": 7
     },
     {
@@ -196,7 +197,7 @@
       "type": "heading"
     },
     {
-      "text": "Jesus heard that they had thrown him out, and when he found him, he said,",
+      "text": "Jesus heard that they had thrown him out, and when he found him, he said, “Do you believe in the Son of Man?”",
       "verse": 35,
       "type": "newline"
     },
@@ -206,7 +207,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said,",
+      "text": "Jesus said, “You have now seen him; in fact, he is the one speaking with you.”",
       "verse": 37,
       "type": "newline"
     },
@@ -216,7 +217,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said,",
+      "text": "Jesus said, “For judgment I have come into this world, so that the blind will see and those who see will become blind.”",
       "verse": 39,
       "type": "newline"
     },
@@ -226,7 +227,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said,",
+      "text": "Jesus said, “If you were blind, you would not be guilty of sin; but now that you claim you can see, your guilt remains.",
       "verse": 41,
       "type": "newline"
     }

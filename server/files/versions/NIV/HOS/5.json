@@ -2,6 +2,7 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 5,
+  "verses": 15,
   "content": [
     {
       "text": "Judgment Against Israel",
@@ -83,7 +84,7 @@
       "type": "poetry"
     },
     {
-      "text": "they do not acknowledge the .",
+      "text": "they do not acknowledge the Lord.",
       "verse": 4,
       "type": "poetry"
     },
@@ -108,7 +109,7 @@
       "type": "poetry"
     },
     {
-      "text": "to seek the ,",
+      "text": "to seek the Lord,",
       "verse": 6,
       "type": "poetry"
     },
@@ -123,7 +124,7 @@
       "type": "poetry"
     },
     {
-      "text": "They are unfaithful to the ;",
+      "text": "They are unfaithful to the Lord;",
       "verse": 7,
       "type": "poetry"
     },

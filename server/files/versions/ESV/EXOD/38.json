@@ -2,6 +2,7 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 38,
+  "verses": 31,
   "content": [
     {
       "text": "Making the Altar of Burnt Offering",
@@ -108,7 +109,7 @@
       "type": "newline"
     },
     {
-      "text": "Bezalel the son of Uri, son of Hur, of the tribe of Judah, made all that the  commanded Moses;",
+      "text": "Bezalel the son of Uri, son of Hur, of the tribe of Judah, made all that the Lord commanded Moses;",
       "verse": 22
     },
     {

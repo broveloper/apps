@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 29,
+  "verses": 24,
   "content": [
     {
       "text": "Woe to Ariel, to Ariel, the city where David dwelt! add ye year to year; let them kill sacrifices.",
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "Thou shalt be visited of the  of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.",
+      "text": "Thou shalt be visited of the Lord of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.",
       "verse": 6,
       "type": "newline"
     },
@@ -48,7 +49,7 @@
       "type": "newline"
     },
     {
-      "text": "For the  hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.",
+      "text": "For the Lord hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.",
       "verse": 10,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "Woe unto them that seek deep to hide their counsel from the , and their works are in the dark, and they say, Who seeth us? and who knoweth us?",
+      "text": "Woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark, and they say, Who seeth us? and who knoweth us?",
       "verse": 15,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "The meek also shall increase their joy in the , and the poor among men shall rejoice in the Holy One of Israel.",
+      "text": "The meek also shall increase their joy in the Lord, and the poor among men shall rejoice in the Holy One of Israel.",
       "verse": 19,
       "type": "newline"
     },
@@ -108,7 +109,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore thus saith the , who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale.",
+      "text": "Therefore thus saith the Lord, who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale.",
       "verse": 22,
       "type": "newline"
     },

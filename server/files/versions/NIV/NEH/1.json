@@ -2,6 +2,7 @@
   "book_id": "NEH",
   "book_name": "Nehemiah",
   "chapter": 1,
+  "verses": 11,
   "content": [
     {
       "text": "Nehemiah’s Prayer",
@@ -36,7 +37,7 @@
       "verse": 5
     },
     {
-      "text": "“, the God of heaven, the great and awesome God, who keeps his covenant of love with those who love him and keep his commandments,",
+      "text": "“Lord, the God of heaven, the great and awesome God, who keeps his covenant of love with those who love him and keep his commandments,",
       "verse": 5,
       "type": "newline"
     },

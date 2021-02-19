@@ -2,18 +2,19 @@
   "book_id": "JUDG",
   "book_name": "Judges",
   "chapter": 4,
+  "verses": 24,
   "content": [
     {
-      "text": "And the children of Israel again did evil in the sight of the , when Ehud was dead.",
+      "text": "And the children of Israel again did evil in the sight of the Lord, when Ehud was dead.",
       "verse": 1
     },
     {
-      "text": "And the  sold them into the hand of Jabin king of Canaan, that reigned in Hazor; the captain of whose host was Sisera, which dwelt in Harosheth of the Gentiles.",
+      "text": "And the Lord sold them into the hand of Jabin king of Canaan, that reigned in Hazor; the captain of whose host was Sisera, which dwelt in Harosheth of the Gentiles.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "And the children of Israel cried unto the : for he had nine hundred chariots of iron; and twenty years he mightily oppressed the children of Israel.",
+      "text": "And the children of Israel cried unto the Lord: for he had nine hundred chariots of iron; and twenty years he mightily oppressed the children of Israel.",
       "verse": 3,
       "type": "newline"
     },
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "And she sent and called Barak the son of Abinoam out of Kedeshnaphtali, and said unto him, Hath not the  God of Israel commanded, saying, Go and draw toward mount Tabor, and take with thee ten thousand men of the children of Naphtali and of the children of Zebulun?",
+      "text": "And she sent and called Barak the son of Abinoam out of Kedeshnaphtali, and said unto him, Hath not the Lord God of Israel commanded, saying, Go and draw toward mount Tabor, and take with thee ten thousand men of the children of Naphtali and of the children of Zebulun?",
       "verse": 6,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "And she said, I will surely go with thee: notwithstanding the journey that thou takest shall not be for thine honour; for the  shall sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh.",
+      "text": "And she said, I will surely go with thee: notwithstanding the journey that thou takest shall not be for thine honour; for the Lord shall sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh.",
       "verse": 9,
       "type": "newline"
     },
@@ -68,12 +69,12 @@
       "type": "newline"
     },
     {
-      "text": "And Deborah said unto Barak, Up; for this is the day in which the  hath delivered Sisera into thine hand: is not the  gone out before thee? So Barak went down from mount Tabor, and ten thousand men after him.",
+      "text": "And Deborah said unto Barak, Up; for this is the day in which the Lord hath delivered Sisera into thine hand: is not the Lord gone out before thee? So Barak went down from mount Tabor, and ten thousand men after him.",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "And the  discomfited Sisera, and all his chariots, and all his host, with the edge of the sword before Barak; so that Sisera lighted down off his chariot, and fled away on his feet.",
+      "text": "And the Lord discomfited Sisera, and all his chariots, and all his host, with the edge of the sword before Barak; so that Sisera lighted down off his chariot, and fled away on his feet.",
       "verse": 15,
       "type": "newline"
     },

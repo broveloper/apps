@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 4,
+  "verses": 49,
   "content": [
     {
       "text": "Duties of the Kohathites, Gershonites, and Merarites",
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses and Aaron, saying,",
+      "text": "The Lord spoke to Moses and Aaron, saying,",
       "verse": 1,
       "type": "newline"
     },
@@ -74,7 +75,7 @@
       "type": "newline"
     },
     {
-      "text": "The  spoke to Moses and Aaron, saying,",
+      "text": "The Lord spoke to Moses and Aaron, saying,",
       "verse": 17,
       "type": "newline"
     },
@@ -91,7 +92,7 @@
       "verse": 20
     },
     {
-      "text": "The  spoke to Moses, saying,",
+      "text": "The Lord spoke to Moses, saying,",
       "verse": 21,
       "type": "newline"
     },
@@ -158,7 +159,7 @@
       "verse": 36
     },
     {
-      "text": "This was the list of the clans of the Kohathites, all who served in the tent of meeting, whom Moses and Aaron listed according to the commandment of the  by Moses.",
+      "text": "This was the list of the clans of the Kohathites, all who served in the tent of meeting, whom Moses and Aaron listed according to the commandment of the Lord by Moses.",
       "verse": 37
     },
     {
@@ -175,7 +176,7 @@
       "verse": 40
     },
     {
-      "text": "This was the list of the clans of the sons of Gershon, all who served in the tent of meeting, whom Moses and Aaron listed according to the commandment of the .",
+      "text": "This was the list of the clans of the sons of Gershon, all who served in the tent of meeting, whom Moses and Aaron listed according to the commandment of the Lord.",
       "verse": 41
     },
     {
@@ -192,7 +193,7 @@
       "verse": 44
     },
     {
-      "text": "This was the list of the clans of the sons of Merari, whom Moses and Aaron listed according to the commandment of the  by Moses.",
+      "text": "This was the list of the clans of the sons of Merari, whom Moses and Aaron listed according to the commandment of the Lord by Moses.",
       "verse": 45
     },
     {
@@ -209,7 +210,7 @@
       "verse": 48
     },
     {
-      "text": "According to the commandment of the  through Moses they were listed, each one with his task of serving or carrying. Thus they were listed by him, as the  commanded Moses.",
+      "text": "According to the commandment of the Lord through Moses they were listed, each one with his task of serving or carrying. Thus they were listed by him, as the Lord commanded Moses.",
       "verse": 49
     }
   ]

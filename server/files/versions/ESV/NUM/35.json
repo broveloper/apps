@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 35,
+  "verses": 34,
   "content": [
     {
       "text": "Cities for the Levites",
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses in the plains of Moab by the Jordan at Jericho, saying,",
+      "text": "The Lord spoke to Moses in the plains of Moab by the Jordan at Jericho, saying,",
       "verse": 1,
       "type": "newline"
     },
@@ -46,7 +47,7 @@
       "type": "heading"
     },
     {
-      "text": "And the  spoke to Moses, saying,",
+      "text": "And the Lord spoke to Moses, saying,",
       "verse": 9,
       "type": "newline"
     },
@@ -150,7 +151,7 @@
       "verse": 33
     },
     {
-      "text": "You shall not defile the land in which you live, in the midst of which I dwell, for I the  dwell in the midst of the people of Israel.”",
+      "text": "You shall not defile the land in which you live, in the midst of which I dwell, for I the Lord dwell in the midst of the people of Israel.”",
       "verse": 34
     }
   ]

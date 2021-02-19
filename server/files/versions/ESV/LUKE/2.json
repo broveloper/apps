@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 2,
+  "verses": 52,
   "content": [
     {
       "text": "The Birth of Jesus Christ",
@@ -154,7 +155,7 @@
       "type": "poetry"
     },
     {
-      "text": "that you have prepared in the presence of all peoples,",
+      "text": "    that you have prepared in the presence of all peoples,",
       "verse": 31,
       "type": "poetry"
     },
@@ -245,7 +246,7 @@
       "verse": 48
     },
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “Why were you looking for me? Did you not know that I must be in my Father's house?”",
       "verse": 49
     },
     {

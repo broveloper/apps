@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 147,
+  "verses": 20,
   "content": [
     {
       "text": "Psalm 147",
       "type": "heading"
     },
     {
-      "text": "Praise the .",
+      "text": "Praise the Lord.",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,7 +24,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  builds up Jerusalem;",
+      "text": "The Lord builds up Jerusalem;",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -63,7 +64,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  sustains the humble",
+      "text": "The Lord sustains the humble",
       "verse": 6,
       "type": "poetry"
     },
@@ -73,7 +74,7 @@
       "type": "poetry"
     },
     {
-      "text": "Sing to the  with grateful praise;",
+      "text": "Sing to the Lord with grateful praise;",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -118,7 +119,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  delights in those who fear him,",
+      "text": "the Lord delights in those who fear him,",
       "verse": 11,
       "type": "poetry"
     },
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "Extol the , Jerusalem;",
+      "text": "Extol the Lord, Jerusalem;",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -218,7 +219,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the .",
+      "text": "Praise the Lord.",
       "verse": 20,
       "type": "poetry newline"
     }

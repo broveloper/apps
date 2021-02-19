@@ -2,6 +2,7 @@
   "book_id": "NEH",
   "book_name": "Nehemiah",
   "chapter": 5,
+  "verses": 19,
   "content": [
     {
       "text": "Nehemiah Helps the Poor",
@@ -71,7 +72,7 @@
       "verse": 13
     },
     {
-      "text": "At this the whole assembly said, “Amen,” and praised the . And the people did as they had promised.",
+      "text": "At this the whole assembly said, “Amen,” and praised the Lord. And the people did as they had promised.",
       "verse": 13,
       "type": "newline"
     },

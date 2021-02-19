@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 19,
+  "verses": 42,
   "content": [
     {
       "text": "Jesus Sentenced to Be Crucified",
@@ -58,7 +59,7 @@
       "verse": 10
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “You would have no power over me if it were not given to you from above. Therefore the one who handed me over to you is guilty of a greater sin.”",
       "verse": 11,
       "type": "newline"
     },
@@ -119,7 +120,7 @@
       "verse": 18
     },
     {
-      "text": "Pilate had a notice prepared and fastened to the cross. It read: , .",
+      "text": "Pilate had a notice prepared and fastened to the cross. It read: jesus of nazareth, the king of the jews.",
       "verse": 19,
       "type": "newline"
     },
@@ -172,11 +173,11 @@
       "type": "newline"
     },
     {
-      "text": "When Jesus saw his mother there, and the disciple whom he loved standing nearby, he said to her,",
+      "text": "When Jesus saw his mother there, and the disciple whom he loved standing nearby, he said to her, “Woman, here is your son,”",
       "verse": 26
     },
     {
-      "text": "and to the disciple,  From that time on, this disciple took her into his home.",
+      "text": "and to the disciple, “Here is your mother.” From that time on, this disciple took her into his home.",
       "verse": 27
     },
     {
@@ -184,7 +185,7 @@
       "type": "heading"
     },
     {
-      "text": "Later, knowing that everything had now been finished, and so that Scripture would be fulfilled, Jesus said,",
+      "text": "Later, knowing that everything had now been finished, and so that Scripture would be fulfilled, Jesus said, “I am thirsty.”",
       "verse": 28,
       "type": "newline"
     },
@@ -193,7 +194,7 @@
       "verse": 29
     },
     {
-      "text": "When he had received the drink, Jesus said,  With that, he bowed his head and gave up his spirit.",
+      "text": "When he had received the drink, Jesus said, “It is finished.” With that, he bowed his head and gave up his spirit.",
       "verse": 30
     },
     {

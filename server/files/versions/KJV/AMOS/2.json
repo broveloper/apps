@@ -2,9 +2,10 @@
   "book_id": "AMOS",
   "book_name": "Amos",
   "chapter": 2,
+  "verses": 16,
   "content": [
     {
-      "text": "Thus saith the ; For three transgressions of Moab, and for four, I will not turn away the punishment thereof; because he burned the bones of the king of Edom into lime:",
+      "text": "Thus saith the Lord; For three transgressions of Moab, and for four, I will not turn away the punishment thereof; because he burned the bones of the king of Edom into lime:",
       "verse": 1
     },
     {
@@ -13,12 +14,12 @@
       "type": "newline"
     },
     {
-      "text": "And I will cut off the judge from the midst thereof, and will slay all the princes thereof with him, saith the .",
+      "text": "And I will cut off the judge from the midst thereof, and will slay all the princes thereof with him, saith the Lord.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "Thus saith the ; For three transgressions of Judah, and for four, I will not turn away the punishment thereof; because they have despised the law of the , and have not kept his commandments, and their lies caused them to err, after the which their fathers have walked:",
+      "text": "Thus saith the Lord; For three transgressions of Judah, and for four, I will not turn away the punishment thereof; because they have despised the law of the Lord, and have not kept his commandments, and their lies caused them to err, after the which their fathers have walked:",
       "verse": 4,
       "type": "newline"
     },
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "Thus saith the ; For three transgressions of Israel, and for four, I will not turn away the punishment thereof; because they sold the righteous for silver, and the poor for a pair of shoes;",
+      "text": "Thus saith the Lord; For three transgressions of Israel, and for four, I will not turn away the punishment thereof; because they sold the righteous for silver, and the poor for a pair of shoes;",
       "verse": 6,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "And I raised up of your sons for prophets, and of your young men for Nazarites. Is it not even thus, O ye children of Israel? saith the .",
+      "text": "And I raised up of your sons for prophets, and of your young men for Nazarites. Is it not even thus, O ye children of Israel? saith the Lord.",
       "verse": 11,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "And he that is courageous among the mighty shall flee away naked in that day, saith the .",
+      "text": "And he that is courageous among the mighty shall flee away naked in that day, saith the Lord.",
       "verse": 16,
       "type": "newline"
     }

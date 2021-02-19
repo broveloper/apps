@@ -2,13 +2,14 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 66,
+  "verses": 24,
   "content": [
     {
       "text": "The Humble and Contrite in Spirit",
       "type": "heading"
     },
     {
-      "text": "Thus says the :",
+      "text": "Thus says the Lord:",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -43,7 +44,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 2,
       "type": "poetry"
     },
@@ -123,7 +124,7 @@
       "type": "poetry"
     },
     {
-      "text": "Hear the word of the ,",
+      "text": "Hear the word of the Lord,",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -143,7 +144,7 @@
       "type": "poetry"
     },
     {
-      "text": "have said, ‘Let the  be glorified,",
+      "text": "have said, ‘Let the Lord be glorified,",
       "verse": 5,
       "type": "poetry"
     },
@@ -168,7 +169,7 @@
       "type": "poetry"
     },
     {
-      "text": "The sound of the ,",
+      "text": "The sound of the Lord,",
       "verse": 6,
       "type": "poetry"
     },
@@ -237,7 +238,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the ;",
+      "text": "says the Lord;",
       "verse": 9,
       "type": "poetry"
     },
@@ -292,7 +293,7 @@
       "type": "poetry"
     },
     {
-      "text": "For thus says the :",
+      "text": "For thus says the Lord:",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -342,7 +343,7 @@
       "type": "poetry"
     },
     {
-      "text": "and the hand of the  shall be known to his servants,",
+      "text": "and the hand of the Lord shall be known to his servants,",
       "verse": 14,
       "type": "poetry"
     },
@@ -352,11 +353,11 @@
       "type": "poetry"
     },
     {
-      "text": "Final Judgment and Glory of the",
+      "text": "Final Judgment and Glory of the Lord",
       "type": "heading"
     },
     {
-      "text": "“For behold, the  will come in fire,",
+      "text": "“For behold, the Lord will come in fire,",
       "verse": 15,
       "type": "poetry newline"
     },
@@ -376,7 +377,7 @@
       "type": "poetry"
     },
     {
-      "text": "For by fire will the  enter into judgment,",
+      "text": "For by fire will the Lord enter into judgment,",
       "verse": 16,
       "type": "poetry"
     },
@@ -386,12 +387,12 @@
       "type": "poetry"
     },
     {
-      "text": "and those slain by the  shall be many.",
+      "text": "and those slain by the Lord shall be many.",
       "verse": 16,
       "type": "poetry"
     },
     {
-      "text": "“Those who sanctify and purify themselves to go into the gardens, following one in the midst, eating pig's flesh and the abomination and mice, shall come to an end together, declares the .",
+      "text": "“Those who sanctify and purify themselves to go into the gardens, following one in the midst, eating pig's flesh and the abomination and mice, shall come to an end together, declares the Lord.",
       "verse": 17,
       "type": "newline"
     },
@@ -405,11 +406,11 @@
       "verse": 19
     },
     {
-      "text": "And they shall bring all your brothers from all the nations as an offering to the , on horses and in chariots and in litters and on mules and on dromedaries, to my holy mountain Jerusalem, says the , just as the Israelites bring their grain offering in a clean vessel to the house of the .",
+      "text": "And they shall bring all your brothers from all the nations as an offering to the Lord, on horses and in chariots and in litters and on mules and on dromedaries, to my holy mountain Jerusalem, says the Lord, just as the Israelites bring their grain offering in a clean vessel to the house of the Lord.",
       "verse": 20
     },
     {
-      "text": "And some of them also I will take for priests and for Levites, says the .",
+      "text": "And some of them also I will take for priests and for Levites, says the Lord.",
       "verse": 21
     },
     {
@@ -423,7 +424,7 @@
       "type": "poetry"
     },
     {
-      "text": "shall remain before me, says the ,",
+      "text": "shall remain before me, says the Lord,",
       "verse": 22,
       "type": "poetry"
     },
@@ -448,7 +449,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 23,
       "type": "poetry"
     },

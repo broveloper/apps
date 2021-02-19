@@ -2,13 +2,14 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 16,
+  "verses": 34,
   "content": [
     {
-      "text": "And the  spake unto Moses after the death of the two sons of Aaron, when they offered before the , and died;",
+      "text": "And the Lord spake unto Moses after the death of the two sons of Aaron, when they offered before the Lord, and died;",
       "verse": 1
     },
     {
-      "text": "And the  said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat.",
+      "text": "And the Lord said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat.",
       "verse": 2,
       "type": "newline"
     },
@@ -33,22 +34,22 @@
       "type": "newline"
     },
     {
-      "text": "And he shall take the two goats, and present them before the  at the door of the tabernacle of the congregation.",
+      "text": "And he shall take the two goats, and present them before the Lord at the door of the tabernacle of the congregation.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "And Aaron shall cast lots upon the two goats; one lot for the , and the other lot for the scapegoat.",
+      "text": "And Aaron shall cast lots upon the two goats; one lot for the Lord, and the other lot for the scapegoat.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "And Aaron shall bring the goat upon which the 's lot fell, and offer him for a sin offering.",
+      "text": "And Aaron shall bring the goat upon which the Lord's lot fell, and offer him for a sin offering.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the , to make an atonement with him, and to let him go for a scapegoat into the wilderness.",
+      "text": "But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the Lord, to make an atonement with him, and to let him go for a scapegoat into the wilderness.",
       "verse": 10,
       "type": "newline"
     },
@@ -58,12 +59,12 @@
       "type": "newline"
     },
     {
-      "text": "And he shall take a censer full of burning coals of fire from off the altar before the , and his hands full of sweet incense beaten small, and bring it within the vail:",
+      "text": "And he shall take a censer full of burning coals of fire from off the altar before the Lord, and his hands full of sweet incense beaten small, and bring it within the vail:",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "And he shall put the incense upon the fire before the , that the cloud of the incense may cover the mercy seat that is upon the testimony, that he die not:",
+      "text": "And he shall put the incense upon the fire before the Lord, that the cloud of the incense may cover the mercy seat that is upon the testimony, that he die not:",
       "verse": 13,
       "type": "newline"
     },
@@ -88,7 +89,7 @@
       "type": "newline"
     },
     {
-      "text": "And he shall go out unto the altar that is before the , and make an atonement for it; and shall take of the blood of the bullock, and of the blood of the goat, and put it upon the horns of the altar round about.",
+      "text": "And he shall go out unto the altar that is before the Lord, and make an atonement for it; and shall take of the blood of the bullock, and of the blood of the goat, and put it upon the horns of the altar round about.",
       "verse": 18,
       "type": "newline"
     },
@@ -148,7 +149,7 @@
       "type": "newline"
     },
     {
-      "text": "For on that day shall the priest make an atonement for you, to cleanse you, that ye may be clean from all your sins before the .",
+      "text": "For on that day shall the priest make an atonement for you, to cleanse you, that ye may be clean from all your sins before the Lord.",
       "verse": 30,
       "type": "newline"
     },
@@ -168,7 +169,7 @@
       "type": "newline"
     },
     {
-      "text": "And this shall be an everlasting statute unto you, to make an atonement for the children of Israel for all their sins once a year. And he did as the  commanded Moses.",
+      "text": "And this shall be an everlasting statute unto you, to make an atonement for the children of Israel for all their sins once a year. And he did as the Lord commanded Moses.",
       "verse": 34,
       "type": "newline"
     }

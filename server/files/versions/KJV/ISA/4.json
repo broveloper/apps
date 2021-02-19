@@ -2,13 +2,14 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 4,
+  "verses": 6,
   "content": [
     {
       "text": "And in that day seven women shall take hold of one man, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name, to take away our reproach.",
       "verse": 1
     },
     {
-      "text": "In that day shall the branch of the  be beautiful and glorious, and the fruit of the earth shall be excellent and comely for them that are escaped of Israel.",
+      "text": "In that day shall the branch of the Lord be beautiful and glorious, and the fruit of the earth shall be excellent and comely for them that are escaped of Israel.",
       "verse": 2,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  will create upon every dwelling place of mount Zion, and upon her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night: for upon all the glory shall be a defence.",
+      "text": "And the Lord will create upon every dwelling place of mount Zion, and upon her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night: for upon all the glory shall be a defence.",
       "verse": 5,
       "type": "newline"
     },

@@ -2,13 +2,14 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 20,
+  "verses": 20,
   "content": [
     {
       "text": "Laws Concerning Warfare",
       "type": "heading"
     },
     {
-      "text": "“When you go out to war against your enemies, and see horses and chariots and an army larger than your own, you shall not be afraid of them, for the  your God is with you, who brought you up out of the land of Egypt.",
+      "text": "“When you go out to war against your enemies, and see horses and chariots and an army larger than your own, you shall not be afraid of them, for the Lord your God is with you, who brought you up out of the land of Egypt.",
       "verse": 1,
       "type": "newline"
     },
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "for the  your God is he who goes with you to fight for you against your enemies, to give you the victory.’",
+      "text": "for the Lord your God is he who goes with you to fight for you against your enemies, to give you the victory.’",
       "verse": 4
     },
     {
@@ -58,11 +59,11 @@
       "verse": 12
     },
     {
-      "text": "And when the  your God gives it into your hand, you shall put all its males to the sword,",
+      "text": "And when the Lord your God gives it into your hand, you shall put all its males to the sword,",
       "verse": 13
     },
     {
-      "text": "but the women and the little ones, the livestock, and everything else in the city, all its spoil, you shall take as plunder for yourselves. And you shall enjoy the spoil of your enemies, which the  your God has given you.",
+      "text": "but the women and the little ones, the livestock, and everything else in the city, all its spoil, you shall take as plunder for yourselves. And you shall enjoy the spoil of your enemies, which the Lord your God has given you.",
       "verse": 14
     },
     {
@@ -70,15 +71,15 @@
       "verse": 15
     },
     {
-      "text": "But in the cities of these peoples that the  your God is giving you for an inheritance, you shall save alive nothing that breathes,",
+      "text": "But in the cities of these peoples that the Lord your God is giving you for an inheritance, you shall save alive nothing that breathes,",
       "verse": 16
     },
     {
-      "text": "but you shall devote them to complete destruction, the Hittites and the Amorites, the Canaanites and the Perizzites, the Hivites and the Jebusites, as the  your God has commanded,",
+      "text": "but you shall devote them to complete destruction, the Hittites and the Amorites, the Canaanites and the Perizzites, the Hivites and the Jebusites, as the Lord your God has commanded,",
       "verse": 17
     },
     {
-      "text": "that they may not teach you to do according to all their abominable practices that they have done for their gods, and so you sin against the  your God.",
+      "text": "that they may not teach you to do according to all their abominable practices that they have done for their gods, and so you sin against the Lord your God.",
       "verse": 18
     },
     {

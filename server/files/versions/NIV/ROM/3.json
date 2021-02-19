@@ -2,6 +2,7 @@
   "book_id": "ROM",
   "book_name": "Romans",
   "chapter": 3,
+  "verses": 31,
   "content": [
     {
       "text": "God’s Faithfulness",
@@ -71,7 +72,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "there is no one who understands;",
+      "text": "    there is no one who understands;",
       "verse": 11,
       "type": "poetry"
     },
@@ -116,7 +117,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Their mouths are full of cursing and bitterness.”",
+      "text": "    “Their mouths are full of cursing and bitterness.”",
       "verse": 14,
       "type": "poetry"
     },
@@ -126,7 +127,7 @@
       "type": "poetry"
     },
     {
-      "text": "ruin and misery mark their ways,",
+      "text": "    ruin and misery mark their ways,",
       "verse": 16,
       "type": "poetry"
     },
@@ -136,7 +137,7 @@
       "type": "poetry"
     },
     {
-      "text": "“There is no fear of God before their eyes.”",
+      "text": "    “There is no fear of God before their eyes.”",
       "verse": 18,
       "type": "poetry"
     },

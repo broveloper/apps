@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 29,
+  "verses": 35,
   "content": [
     {
       "text": "Then Jacob went on his journey, and came into the land of the people of the east.",
@@ -153,17 +154,17 @@
       "type": "newline"
     },
     {
-      "text": "And when the  saw that Leah was hated, he opened her womb: but Rachel was barren.",
+      "text": "And when the Lord saw that Leah was hated, he opened her womb: but Rachel was barren.",
       "verse": 31,
       "type": "newline"
     },
     {
-      "text": "And Leah conceived, and bare a son, and she called his name Reuben: for she said, Surely the  hath looked upon my affliction; now therefore my husband will love me.",
+      "text": "And Leah conceived, and bare a son, and she called his name Reuben: for she said, Surely the Lord hath looked upon my affliction; now therefore my husband will love me.",
       "verse": 32,
       "type": "newline"
     },
     {
-      "text": "And she conceived again, and bare a son; and said, Because the  hath heard I was hated, he hath therefore given me this son also: and she called his name Simeon.",
+      "text": "And she conceived again, and bare a son; and said, Because the Lord hath heard I was hated, he hath therefore given me this son also: and she called his name Simeon.",
       "verse": 33,
       "type": "newline"
     },
@@ -173,7 +174,7 @@
       "type": "newline"
     },
     {
-      "text": "And she conceived again, and bare a son: and she said, Now will I praise the : therefore she called his name Judah; and left bearing.",
+      "text": "And she conceived again, and bare a son: and she said, Now will I praise the Lord: therefore she called his name Judah; and left bearing.",
       "verse": 35,
       "type": "newline"
     }

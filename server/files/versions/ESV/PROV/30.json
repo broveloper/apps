@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 30,
+  "verses": 33,
   "content": [
     {
       "text": "The Words of Agur",
@@ -123,7 +124,7 @@
       "type": "poetry"
     },
     {
-      "text": "and say, “Who is the ?”",
+      "text": "and say, “Who is the Lord?”",
       "verse": 9,
       "type": "poetry"
     },

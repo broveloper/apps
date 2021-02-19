@@ -2,10 +2,11 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 24,
+  "verses": 34,
   "content": [
     {
       "text": "Saying 20",
-      "verse": 1
+      "type": "title"
     },
     {
       "text": "Do not envy the wicked,",
@@ -29,8 +30,7 @@
     },
     {
       "text": "Saying 21",
-      "verse": 3,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "By wisdom a house is built,",
@@ -54,8 +54,7 @@
     },
     {
       "text": "Saying 22",
-      "verse": 5,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "The wise prevail through great power,",
@@ -79,8 +78,7 @@
     },
     {
       "text": "Saying 23",
-      "verse": 7,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Wisdom is too high for fools;",
@@ -94,8 +92,7 @@
     },
     {
       "text": "Saying 24",
-      "verse": 8,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Whoever plots evil",
@@ -119,8 +116,7 @@
     },
     {
       "text": "Saying 25",
-      "verse": 10,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "If you falter in a time of trouble,",
@@ -164,8 +160,7 @@
     },
     {
       "text": "Saying 26",
-      "verse": 13,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Eat honey, my son, for it is good;",
@@ -194,8 +189,7 @@
     },
     {
       "text": "Saying 27",
-      "verse": 15,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Do not lurk like a thief near the house of the righteous,",
@@ -219,8 +213,7 @@
     },
     {
       "text": "Saying 28",
-      "verse": 17,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Do not gloat when your enemy falls;",
@@ -233,7 +226,7 @@
       "type": "poetry"
     },
     {
-      "text": "or the  will see and disapprove",
+      "text": "or the Lord will see and disapprove",
       "verse": 18,
       "type": "poetry"
     },
@@ -244,8 +237,7 @@
     },
     {
       "text": "Saying 29",
-      "verse": 19,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Do not fret because of evildoers",
@@ -269,11 +261,10 @@
     },
     {
       "text": "Saying 30",
-      "verse": 21,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Fear the  and the king, my son,",
+      "text": "Fear the Lord and the king, my son,",
       "verse": 21,
       "type": "poetry newline"
     },

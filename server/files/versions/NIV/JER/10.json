@@ -2,18 +2,19 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 10,
+  "verses": 25,
   "content": [
     {
       "text": "God and Idols",
       "type": "heading"
     },
     {
-      "text": "Hear what the  says to you, people of Israel.",
+      "text": "Hear what the Lord says to you, people of Israel.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 2
     },
     {
@@ -97,7 +98,7 @@
       "type": "poetry"
     },
     {
-      "text": "No one is like you, ;",
+      "text": "No one is like you, Lord;",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -177,7 +178,7 @@
       "type": "poetry"
     },
     {
-      "text": "But the  is the true God;",
+      "text": "But the Lord is the true God;",
       "verse": 10,
       "type": "poetry"
     },
@@ -282,7 +283,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  Almighty is his name.",
+      "text": "the Lord Almighty is his name.",
       "verse": 16,
       "type": "poetry"
     },
@@ -301,7 +302,7 @@
       "type": "poetry"
     },
     {
-      "text": "For this is what the  says:",
+      "text": "For this is what the Lord says:",
       "verse": 18,
       "type": "poetry"
     },
@@ -376,7 +377,7 @@
       "type": "poetry"
     },
     {
-      "text": "and do not inquire of the ;",
+      "text": "and do not inquire of the Lord;",
       "verse": 21,
       "type": "poetry"
     },
@@ -415,7 +416,7 @@
       "type": "heading"
     },
     {
-      "text": ", I know that people’s lives are not their own;",
+      "text": "Lord, I know that people’s lives are not their own;",
       "verse": 23,
       "type": "poetry newline"
     },
@@ -425,7 +426,7 @@
       "type": "poetry"
     },
     {
-      "text": "Discipline me, , but only in due measure—",
+      "text": "Discipline me, Lord, but only in due measure—",
       "verse": 24,
       "type": "poetry"
     },

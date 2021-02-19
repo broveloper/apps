@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 8,
+  "verses": 9,
   "content": [
     {
       "text": "Psalm 8",
       "type": "heading"
     },
     {
-      "text": "For the director of music. According to  A psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "text": "For the director of music. According to gittith. A psalm of David.",
+      "type": "title"
     },
     {
-      "text": ", our Lord,",
+      "text": "Lord, our Lord,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -123,7 +123,7 @@
       "type": "poetry"
     },
     {
-      "text": ", our Lord,",
+      "text": "Lord, our Lord,",
       "verse": 9,
       "type": "poetry newline"
     },

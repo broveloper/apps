@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 15,
+  "verses": 8,
   "content": [
     {
       "text": "Jerusalem as a Useless Vine",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -29,16 +30,16 @@
       "verse": 5
     },
     {
-      "text": "“Therefore this is what the Sovereign  says: As I have given the wood of the vine among the trees of the forest as fuel for the fire, so will I treat the people living in Jerusalem.",
+      "text": "“Therefore this is what the Sovereign Lord says: As I have given the wood of the vine among the trees of the forest as fuel for the fire, so will I treat the people living in Jerusalem.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "I will set my face against them. Although they have come out of the fire, the fire will yet consume them. And when I set my face against them, you will know that I am the .",
+      "text": "I will set my face against them. Although they have come out of the fire, the fire will yet consume them. And when I set my face against them, you will know that I am the Lord.",
       "verse": 7
     },
     {
-      "text": "I will make the land desolate because they have been unfaithful, declares the Sovereign .”",
+      "text": "I will make the land desolate because they have been unfaithful, declares the Sovereign Lord.”",
       "verse": 8
     }
   ]

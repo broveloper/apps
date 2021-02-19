@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 8,
+  "verses": 36,
   "content": [
     {
       "text": "Wisdom’s Call",
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "To fear the  is to hate evil;",
+      "text": "To fear the Lord is to hate evil;",
       "verse": 13,
       "type": "poetry"
     },
@@ -223,7 +224,7 @@
       "type": "poetry"
     },
     {
-      "text": "“The  brought me forth as the first of his works,",
+      "text": "“The Lord brought me forth as the first of his works,",
       "verse": 22,
       "type": "poetry newline"
     },
@@ -308,7 +309,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then I was constantly at his side.",
+      "text": "    Then I was constantly at his side.",
       "verse": 30,
       "type": "poetry"
     },
@@ -373,7 +374,7 @@
       "type": "poetry"
     },
     {
-      "text": "and receive favor from the .",
+      "text": "and receive favor from the Lord.",
       "verse": 35,
       "type": "poetry"
     },

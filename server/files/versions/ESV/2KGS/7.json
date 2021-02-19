@@ -2,18 +2,19 @@
   "book_id": "2KGS",
   "book_name": "2 Kings",
   "chapter": 7,
+  "verses": 20,
   "content": [
     {
       "text": "Elisha Promises Food",
       "type": "heading"
     },
     {
-      "text": "But Elisha said, “Hear the word of the : thus says the , Tomorrow about this time a seah of fine flour shall be sold for a shekel, and two seahs of barley for a shekel, at the gate of Samaria.”",
+      "text": "But Elisha said, “Hear the word of the Lord: thus says the Lord, Tomorrow about this time a seah of fine flour shall be sold for a shekel, and two seahs of barley for a shekel, at the gate of Samaria.”",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "Then the captain on whose hand the king leaned said to the man of God, “If the  himself should make windows in heaven, could this thing be?” But he said, “You shall see it with your own eyes, but you shall not eat of it.”",
+      "text": "Then the captain on whose hand the king leaned said to the man of God, “If the Lord himself should make windows in heaven, could this thing be?” But he said, “You shall see it with your own eyes, but you shall not eat of it.”",
       "verse": 2
     },
     {
@@ -75,7 +76,7 @@
       "verse": 15
     },
     {
-      "text": "Then the people went out and plundered the camp of the Syrians. So a seah of fine flour was sold for a shekel, and two seahs of barley for a shekel, according to the word of the .",
+      "text": "Then the people went out and plundered the camp of the Syrians. So a seah of fine flour was sold for a shekel, and two seahs of barley for a shekel, according to the word of the Lord.",
       "verse": 16,
       "type": "newline"
     },
@@ -88,7 +89,7 @@
       "verse": 18
     },
     {
-      "text": "the captain had answered the man of God, “If the  himself should make windows in heaven, could such a thing be?” And he had said, “You shall see it with your own eyes, but you shall not eat of it.”",
+      "text": "the captain had answered the man of God, “If the Lord himself should make windows in heaven, could such a thing be?” And he had said, “You shall see it with your own eyes, but you shall not eat of it.”",
       "verse": 19
     },
     {

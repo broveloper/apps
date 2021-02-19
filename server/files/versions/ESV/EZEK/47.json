@@ -2,6 +2,7 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 47,
+  "verses": 23,
   "content": [
     {
       "text": "Water Flowing from the Temple",
@@ -67,7 +68,7 @@
       "type": "heading"
     },
     {
-      "text": "Thus says the Lord : “This is the boundary by which you shall divide the land for inheritance among the twelve tribes of Israel. Joseph shall have two portions.",
+      "text": "Thus says the Lord God: “This is the boundary by which you shall divide the land for inheritance among the twelve tribes of Israel. Joseph shall have two portions.",
       "verse": 13,
       "type": "newline"
     },
@@ -113,7 +114,7 @@
       "verse": 22
     },
     {
-      "text": "In whatever tribe the sojourner resides, there you shall assign him his inheritance, declares the Lord .",
+      "text": "In whatever tribe the sojourner resides, there you shall assign him his inheritance, declares the Lord God.",
       "verse": 23
     }
   ]

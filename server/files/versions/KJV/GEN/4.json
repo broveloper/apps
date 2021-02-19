@@ -2,9 +2,10 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 4,
+  "verses": 26,
   "content": [
     {
-      "text": "And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the .",
+      "text": "And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the Lord.",
       "verse": 1
     },
     {
@@ -13,12 +14,12 @@
       "type": "newline"
     },
     {
-      "text": "And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the .",
+      "text": "And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the Lord.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the  had respect unto Abel and to his offering:",
+      "text": "And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the Lord had respect unto Abel and to his offering:",
       "verse": 4,
       "type": "newline"
     },
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  said unto Cain, Why art thou wroth? and why is thy countenance fallen?",
+      "text": "And the Lord said unto Cain, Why art thou wroth? and why is thy countenance fallen?",
       "verse": 6,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother's keeper?",
+      "text": "And the Lord said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother's keeper?",
       "verse": 9,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "And Cain said unto the , My punishment is greater than I can bear.",
+      "text": "And Cain said unto the Lord, My punishment is greater than I can bear.",
       "verse": 13,
       "type": "newline"
     },
@@ -73,12 +74,12 @@
       "type": "newline"
     },
     {
-      "text": "And the  said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the  set a mark upon Cain, lest any finding him should kill him.",
+      "text": "And the Lord said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the Lord set a mark upon Cain, lest any finding him should kill him.",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "And Cain went out from the presence of the , and dwelt in the land of Nod, on the east of Eden.",
+      "text": "And Cain went out from the presence of the Lord, and dwelt in the land of Nod, on the east of Eden.",
       "verse": 16,
       "type": "newline"
     },
@@ -128,7 +129,7 @@
       "type": "newline"
     },
     {
-      "text": "And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the .",
+      "text": "And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the Lord.",
       "verse": 26,
       "type": "newline"
     }

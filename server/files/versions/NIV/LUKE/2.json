@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 2,
+  "verses": 52,
   "content": [
     {
       "text": "The Birth of Jesus",
@@ -154,7 +155,7 @@
       "type": "poetry"
     },
     {
-      "text": "which you have prepared in the sight of all nations:",
+      "text": "    which you have prepared in the sight of all nations:",
       "verse": 31,
       "type": "poetry"
     },
@@ -241,7 +242,7 @@
       "verse": 48
     },
     {
-      "text": "he asked.",
+      "text": "“Why were you searching for me?” he asked. “Didn’t you know I had to be in my Father’s house?”",
       "verse": 49,
       "type": "newline"
     },

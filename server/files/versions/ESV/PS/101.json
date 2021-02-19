@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 101,
+  "verses": 8,
   "content": [
     {
       "text": "I Will Walk with Integrity",
@@ -9,8 +10,7 @@
     },
     {
       "text": "A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "I will sing of steadfast love and justice;",
@@ -18,7 +18,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "to you, O , I will make music.",
+      "text": "to you, O Lord, I will make music.",
       "verse": 1,
       "type": "poetry"
     },
@@ -148,7 +148,7 @@
       "type": "poetry"
     },
     {
-      "text": "from the city of the .",
+      "text": "from the city of the Lord.",
       "verse": 8,
       "type": "poetry"
     }

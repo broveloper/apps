@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 129,
+  "verses": 8,
   "content": [
     {
       "text": "Psalm 129",
@@ -9,8 +10,7 @@
     },
     {
       "text": "A song of ascents.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "“They have greatly oppressed me from my youth,”",
@@ -43,7 +43,7 @@
       "type": "poetry"
     },
     {
-      "text": "But the  is righteous;",
+      "text": "But the Lord is righteous;",
       "verse": 4,
       "type": "poetry"
     },
@@ -88,12 +88,12 @@
       "type": "poetry"
     },
     {
-      "text": "“The blessing of the  be on you;",
+      "text": "“The blessing of the Lord be on you;",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "we bless you in the name of the .”",
+      "text": "we bless you in the name of the Lord.”",
       "verse": 8,
       "type": "poetry"
     }

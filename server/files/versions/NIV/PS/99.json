@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 99,
+  "verses": 9,
   "content": [
     {
       "text": "Psalm 99",
       "type": "heading"
     },
     {
-      "text": "The  reigns,",
+      "text": "The Lord reigns,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -28,7 +29,7 @@
       "type": "poetry"
     },
     {
-      "text": "Great is the  in Zion;",
+      "text": "Great is the Lord in Zion;",
       "verse": 2,
       "type": "poetry"
     },
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "Exalt the  our God",
+      "text": "Exalt the Lord our God",
       "verse": 5,
       "type": "poetry"
     },
@@ -93,7 +94,7 @@
       "type": "poetry"
     },
     {
-      "text": "they called on the",
+      "text": "they called on the Lord",
       "verse": 6,
       "type": "poetry"
     },
@@ -113,7 +114,7 @@
       "type": "poetry"
     },
     {
-      "text": "our God,",
+      "text": "Lord our God,",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -133,7 +134,7 @@
       "type": "poetry"
     },
     {
-      "text": "Exalt the  our God",
+      "text": "Exalt the Lord our God",
       "verse": 9,
       "type": "poetry"
     },
@@ -143,7 +144,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  our God is holy.",
+      "text": "for the Lord our God is holy.",
       "verse": 9,
       "type": "poetry"
     }

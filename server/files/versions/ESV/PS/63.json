@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 63,
+  "verses": 11,
   "content": [
     {
       "text": "My Soul Thirsts for You",
@@ -9,8 +10,7 @@
     },
     {
       "text": "A Psalm of David, when he was in the wilderness of Judah.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "O God, you are my God; earnestly I seek you;",

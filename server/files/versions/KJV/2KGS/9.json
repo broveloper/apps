@@ -2,6 +2,7 @@
   "book_id": "2KGS",
   "book_name": "2 Kings",
   "chapter": 9,
+  "verses": 37,
   "content": [
     {
       "text": "And Elisha the prophet called one of the children of the prophets, and said unto him, Gird up thy loins, and take this box of oil in thine hand, and go to Ramothgilead:",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "Then take the box of oil, and pour it on his head, and say, Thus saith the , I have anointed thee king over Israel. Then open the door, and flee, and tarry not.",
+      "text": "Then take the box of oil, and pour it on his head, and say, Thus saith the Lord, I have anointed thee king over Israel. Then open the door, and flee, and tarry not.",
       "verse": 3,
       "type": "newline"
     },
@@ -28,12 +29,12 @@
       "type": "newline"
     },
     {
-      "text": "And he arose, and went into the house; and he poured the oil on his head, and said unto him, Thus saith the  God of Israel, I have anointed thee king over the people of the , even over Israel.",
+      "text": "And he arose, and went into the house; and he poured the oil on his head, and said unto him, Thus saith the Lord God of Israel, I have anointed thee king over the people of the Lord, even over Israel.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "And thou shalt smite the house of Ahab thy master, that I may avenge the blood of my servants the prophets, and the blood of all the servants of the , at the hand of Jezebel.",
+      "text": "And thou shalt smite the house of Ahab thy master, that I may avenge the blood of my servants the prophets, and the blood of all the servants of the Lord, at the hand of Jezebel.",
       "verse": 7,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "And they said, It is false; tell us now. And he said, Thus and thus spake he to me, saying, Thus saith the , I have anointed thee king over Israel.",
+      "text": "And they said, It is false; tell us now. And he said, Thus and thus spake he to me, saying, Thus saith the Lord, I have anointed thee king over Israel.",
       "verse": 12,
       "type": "newline"
     },
@@ -123,12 +124,12 @@
       "type": "newline"
     },
     {
-      "text": "Then said Jehu to Bidkar his captain, Take up, and cast him in the portion of the field of Naboth the Jezreelite: for remember how that, when I and thou rode together after Ahab his father, the  laid this burden upon him;",
+      "text": "Then said Jehu to Bidkar his captain, Take up, and cast him in the portion of the field of Naboth the Jezreelite: for remember how that, when I and thou rode together after Ahab his father, the Lord laid this burden upon him;",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "Surely I have seen yesterday the blood of Naboth, and the blood of his sons, saith the ; and I will requite thee in this plat, saith the . Now therefore take and cast him into the plat of ground, according to the word of the .",
+      "text": "Surely I have seen yesterday the blood of Naboth, and the blood of his sons, saith the Lord; and I will requite thee in this plat, saith the Lord. Now therefore take and cast him into the plat of ground, according to the word of the Lord.",
       "verse": 26,
       "type": "newline"
     },
@@ -178,7 +179,7 @@
       "type": "newline"
     },
     {
-      "text": "Wherefore they came again, and told him. And he said, This is the word of the , which he spake by his servant Elijah the Tishbite, saying, In the portion of Jezreel shall dogs eat the flesh of Jezebel:",
+      "text": "Wherefore they came again, and told him. And he said, This is the word of the Lord, which he spake by his servant Elijah the Tishbite, saying, In the portion of Jezreel shall dogs eat the flesh of Jezebel:",
       "verse": 36,
       "type": "newline"
     },

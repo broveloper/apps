@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 27,
+  "verses": 66,
   "content": [
     {
       "text": "Jesus Delivered to Pilate",
@@ -58,7 +59,7 @@
       "type": "heading"
     },
     {
-      "text": "Now Jesus stood before the governor, and the governor asked him, “Are you the King of the Jews?” Jesus said,",
+      "text": "Now Jesus stood before the governor, and the governor asked him, “Are you the King of the Jews?” Jesus said, “You have said so.”",
       "verse": 11,
       "type": "newline"
     },
@@ -224,7 +225,7 @@
       "type": "newline"
     },
     {
-      "text": "And about the ninth hour Jesus cried out with a loud voice, saying,  that is,",
+      "text": "And about the ninth hour Jesus cried out with a loud voice, saying, “Eli, Eli, lema sabachthani?” that is, “My God, my God, why have you forsaken me?”",
       "verse": 46
     },
     {

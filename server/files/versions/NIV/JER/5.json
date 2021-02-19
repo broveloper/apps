@@ -2,6 +2,7 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 5,
+  "verses": 31,
   "content": [
     {
       "text": "Not One Is Upright",
@@ -38,7 +39,7 @@
       "type": "poetry"
     },
     {
-      "text": "Although they say, ‘As surely as the  lives,’",
+      "text": "Although they say, ‘As surely as the Lord lives,’",
       "verse": 2,
       "type": "poetry"
     },
@@ -48,7 +49,7 @@
       "type": "poetry"
     },
     {
-      "text": ", do not your eyes look for truth?",
+      "text": "Lord, do not your eyes look for truth?",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -83,7 +84,7 @@
       "type": "poetry"
     },
     {
-      "text": "for they do not know the way of the ,",
+      "text": "for they do not know the way of the Lord,",
       "verse": 4,
       "type": "poetry"
     },
@@ -103,7 +104,7 @@
       "type": "poetry"
     },
     {
-      "text": "surely they know the way of the ,",
+      "text": "surely they know the way of the Lord,",
       "verse": 5,
       "type": "poetry"
     },
@@ -198,7 +199,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 9,
       "type": "poetry"
     },
@@ -228,7 +229,7 @@
       "type": "poetry"
     },
     {
-      "text": "for these people do not belong to the .",
+      "text": "for these people do not belong to the Lord.",
       "verse": 10,
       "type": "poetry"
     },
@@ -243,12 +244,12 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 11,
       "type": "poetry"
     },
     {
-      "text": "They have lied about the ;",
+      "text": "They have lied about the Lord;",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -283,7 +284,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore this is what the  God Almighty says:",
+      "text": "Therefore this is what the Lord God Almighty says:",
       "verse": 14,
       "type": "newline"
     },
@@ -303,7 +304,7 @@
       "type": "poetry"
     },
     {
-      "text": "People of Israel,” declares the ,",
+      "text": "People of Israel,” declares the Lord,",
       "verse": 15,
       "type": "poetry"
     },
@@ -368,12 +369,12 @@
       "type": "poetry"
     },
     {
-      "text": "“Yet even in those days,” declares the , “I will not destroy you completely.",
+      "text": "“Yet even in those days,” declares the Lord, “I will not destroy you completely.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "And when the people ask, ‘Why has the  our God done all this to us?’ you will tell them, ‘As you have forsaken me and served foreign gods in your own land, so now you will serve foreigners in a land not your own.’",
+      "text": "And when the people ask, ‘Why has the Lord our God done all this to us?’ you will tell them, ‘As you have forsaken me and served foreign gods in your own land, so now you will serve foreigners in a land not your own.’",
       "verse": 19
     },
     {
@@ -402,7 +403,7 @@
       "type": "poetry"
     },
     {
-      "text": "Should you not fear me?” declares the .",
+      "text": "Should you not fear me?” declares the Lord.",
       "verse": 22,
       "type": "poetry"
     },
@@ -447,7 +448,7 @@
       "type": "poetry"
     },
     {
-      "text": "‘Let us fear the  our God,",
+      "text": "‘Let us fear the Lord our God,",
       "verse": 24,
       "type": "poetry"
     },
@@ -502,7 +503,7 @@
       "type": "poetry"
     },
     {
-      "text": "and have grown fat and sleek.",
+      "text": "    and have grown fat and sleek.",
       "verse": 28,
       "type": "poetry"
     },
@@ -532,7 +533,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 29,
       "type": "poetry"
     },

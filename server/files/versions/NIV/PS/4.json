@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 4,
+  "verses": 8,
   "content": [
     {
       "text": "Psalm 4",
@@ -9,8 +10,7 @@
     },
     {
       "text": "For the director of music. With stringed instruments. A psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Answer me when I call to you,",
@@ -43,12 +43,12 @@
       "type": "poetry"
     },
     {
-      "text": "Know that the  has set apart his faithful servant for himself;",
+      "text": "Know that the Lord has set apart his faithful servant for himself;",
       "verse": 3,
       "type": "poetry"
     },
     {
-      "text": "the  hears when I call to him.",
+      "text": "the Lord hears when I call to him.",
       "verse": 3,
       "type": "poetry"
     },
@@ -73,12 +73,12 @@
       "type": "poetry"
     },
     {
-      "text": "and trust in the .",
+      "text": "and trust in the Lord.",
       "verse": 5,
       "type": "poetry"
     },
     {
-      "text": "Many, , are asking, “Who will bring us prosperity?”",
+      "text": "Many, Lord, are asking, “Who will bring us prosperity?”",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -103,7 +103,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "for you alone, ,",
+      "text": "for you alone, Lord,",
       "verse": 8,
       "type": "poetry"
     },

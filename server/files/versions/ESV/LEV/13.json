@@ -2,13 +2,14 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 13,
+  "verses": 59,
   "content": [
     {
       "text": "Laws About Leprosy",
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses and Aaron, saying,",
+      "text": "The Lord spoke to Moses and Aaron, saying,",
       "verse": 1,
       "type": "newline"
     },

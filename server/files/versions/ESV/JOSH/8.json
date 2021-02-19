@@ -2,13 +2,14 @@
   "book_id": "JOSH",
   "book_name": "Joshua",
   "chapter": 8,
+  "verses": 35,
   "content": [
     {
       "text": "The Fall of Ai",
       "type": "heading"
     },
     {
-      "text": "And the  said to Joshua, “Do not fear and do not be dismayed. Take all the fighting men with you, and arise, go up to Ai. See, I have given into your hand the king of Ai, and his people, his city, and his land.",
+      "text": "And the Lord said to Joshua, “Do not fear and do not be dismayed. Take all the fighting men with you, and arise, go up to Ai. See, I have given into your hand the king of Ai, and his people, his city, and his land.",
       "verse": 1,
       "type": "newline"
     },
@@ -34,11 +35,11 @@
       "verse": 6
     },
     {
-      "text": "Then you shall rise up from the ambush and seize the city, for the  your God will give it into your hand.",
+      "text": "Then you shall rise up from the ambush and seize the city, for the Lord your God will give it into your hand.",
       "verse": 7
     },
     {
-      "text": "And as soon as you have taken the city, you shall set the city on fire. You shall do according to the word of the . See, I have commanded you.”",
+      "text": "And as soon as you have taken the city, you shall set the city on fire. You shall do according to the word of the Lord. See, I have commanded you.”",
       "verse": 8
     },
     {
@@ -79,7 +80,7 @@
       "verse": 17
     },
     {
-      "text": "Then the  said to Joshua, “Stretch out the javelin that is in your hand toward Ai, for I will give it into your hand.” And Joshua stretched out the javelin that was in his hand toward the city.",
+      "text": "Then the Lord said to Joshua, “Stretch out the javelin that is in your hand toward Ai, for I will give it into your hand.” And Joshua stretched out the javelin that was in his hand toward the city.",
       "verse": 18,
       "type": "newline"
     },
@@ -117,7 +118,7 @@
       "verse": 26
     },
     {
-      "text": "Only the livestock and the spoil of that city Israel took as their plunder, according to the word of the  that he commanded Joshua.",
+      "text": "Only the livestock and the spoil of that city Israel took as their plunder, according to the word of the Lord that he commanded Joshua.",
       "verse": 27
     },
     {
@@ -133,12 +134,12 @@
       "type": "heading"
     },
     {
-      "text": "At that time Joshua built an altar to the , the God of Israel, on Mount Ebal,",
+      "text": "At that time Joshua built an altar to the Lord, the God of Israel, on Mount Ebal,",
       "verse": 30,
       "type": "newline"
     },
     {
-      "text": "just as Moses the servant of the  had commanded the people of Israel, as it is written in the Book of the Law of Moses, “an altar of uncut stones, upon which no man has wielded an iron tool.” And they offered on it burnt offerings to the  and sacrificed peace offerings.",
+      "text": "just as Moses the servant of the Lord had commanded the people of Israel, as it is written in the Book of the Law of Moses, “an altar of uncut stones, upon which no man has wielded an iron tool.” And they offered on it burnt offerings to the Lord and sacrificed peace offerings.",
       "verse": 31
     },
     {
@@ -146,7 +147,7 @@
       "verse": 32
     },
     {
-      "text": "And all Israel, sojourner as well as native born, with their elders and officers and their judges, stood on opposite sides of the ark before the Levitical priests who carried the ark of the covenant of the , half of them in front of Mount Gerizim and half of them in front of Mount Ebal, just as Moses the servant of the  had commanded at the first, to bless the people of Israel.",
+      "text": "And all Israel, sojourner as well as native born, with their elders and officers and their judges, stood on opposite sides of the ark before the Levitical priests who carried the ark of the covenant of the Lord, half of them in front of Mount Gerizim and half of them in front of Mount Ebal, just as Moses the servant of the Lord had commanded at the first, to bless the people of Israel.",
       "verse": 33
     },
     {

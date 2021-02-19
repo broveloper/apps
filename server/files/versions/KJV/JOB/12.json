@@ -2,6 +2,7 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 12,
+  "verses": 25,
   "content": [
     {
       "text": "And Job answered and said,",
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "Who knoweth not in all these that the hand of the  hath wrought this?",
+      "text": "Who knoweth not in all these that the hand of the Lord hath wrought this?",
       "verse": 9,
       "type": "newline"
     },

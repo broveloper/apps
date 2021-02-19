@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 80,
+  "verses": 19,
   "content": [
     {
       "text": "Psalm 80",
@@ -9,8 +10,7 @@
     },
     {
       "text": "For the director of music. To the tune of “The Lilies of the Covenant.” Of Asaph. A psalm.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Hear us, Shepherd of Israel,",
@@ -63,7 +63,7 @@
       "type": "poetry"
     },
     {
-      "text": "How long,  God Almighty,",
+      "text": "How long, Lord God Almighty,",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -188,7 +188,7 @@
       "type": "poetry"
     },
     {
-      "text": "the root your right hand has planted,",
+      "text": "    the root your right hand has planted,",
       "verse": 15,
       "type": "poetry"
     },
@@ -228,7 +228,7 @@
       "type": "poetry"
     },
     {
-      "text": "Restore us,  God Almighty;",
+      "text": "Restore us, Lord God Almighty;",
       "verse": 19,
       "type": "poetry newline"
     },

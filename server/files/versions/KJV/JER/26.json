@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 26,
+  "verses": 24,
   "content": [
     {
-      "text": "In the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word from the , saying,",
+      "text": "In the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word from the Lord, saying,",
       "verse": 1
     },
     {
-      "text": "Thus saith the ; Stand in the court of the 's house, and speak unto all the cities of Judah, which come to worship in the 's house, all the words that I command thee to speak unto them; diminish not a word:",
+      "text": "Thus saith the Lord; Stand in the court of the Lord's house, and speak unto all the cities of Judah, which come to worship in the Lord's house, all the words that I command thee to speak unto them; diminish not a word:",
       "verse": 2,
       "type": "newline"
     },
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "And thou shalt say unto them, Thus saith the ; If ye will not hearken to me, to walk in my law, which I have set before you,",
+      "text": "And thou shalt say unto them, Thus saith the Lord; If ye will not hearken to me, to walk in my law, which I have set before you,",
       "verse": 4,
       "type": "newline"
     },
@@ -33,22 +34,22 @@
       "type": "newline"
     },
     {
-      "text": "So the priests and the prophets and all the people heard Jeremiah speaking these words in the house of the .",
+      "text": "So the priests and the prophets and all the people heard Jeremiah speaking these words in the house of the Lord.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "Now it came to pass, when Jeremiah had made an end of speaking all that the  had commanded him to speak unto all the people, that the priests and the prophets and all the people took him, saying, Thou shalt surely die.",
+      "text": "Now it came to pass, when Jeremiah had made an end of speaking all that the Lord had commanded him to speak unto all the people, that the priests and the prophets and all the people took him, saying, Thou shalt surely die.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "Why hast thou prophesied in the name of the , saying, This house shall be like Shiloh, and this city shall be desolate without an inhabitant? And all the people were gathered against Jeremiah in the house of the .",
+      "text": "Why hast thou prophesied in the name of the Lord, saying, This house shall be like Shiloh, and this city shall be desolate without an inhabitant? And all the people were gathered against Jeremiah in the house of the Lord.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "When the princes of Judah heard these things, then they came up from the king's house unto the house of the , and sat down in the entry of the new gate of the 's house.",
+      "text": "When the princes of Judah heard these things, then they came up from the king's house unto the house of the Lord, and sat down in the entry of the new gate of the Lord's house.",
       "verse": 10,
       "type": "newline"
     },
@@ -58,12 +59,12 @@
       "type": "newline"
     },
     {
-      "text": "Then spake Jeremiah unto all the princes and to all the people, saying, The  sent me to prophesy against this house and against this city all the words that ye have heard.",
+      "text": "Then spake Jeremiah unto all the princes and to all the people, saying, The Lord sent me to prophesy against this house and against this city all the words that ye have heard.",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "Therefore now amend your ways and your doings, and obey the voice of the  your God; and the  will repent him of the evil that he hath pronounced against you.",
+      "text": "Therefore now amend your ways and your doings, and obey the voice of the Lord your God; and the Lord will repent him of the evil that he hath pronounced against you.",
       "verse": 13,
       "type": "newline"
     },
@@ -73,12 +74,12 @@
       "type": "newline"
     },
     {
-      "text": "But know ye for certain, that if ye put me to death, ye shall surely bring innocent blood upon yourselves, and upon this city, and upon the inhabitants thereof: for of a truth the  hath sent me unto you to speak all these words in your ears.",
+      "text": "But know ye for certain, that if ye put me to death, ye shall surely bring innocent blood upon yourselves, and upon this city, and upon the inhabitants thereof: for of a truth the Lord hath sent me unto you to speak all these words in your ears.",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "Then said the princes and all the people unto the priests and to the prophets; This man is not worthy to die: for he hath spoken to us in the name of the  our God.",
+      "text": "Then said the princes and all the people unto the priests and to the prophets; This man is not worthy to die: for he hath spoken to us in the name of the Lord our God.",
       "verse": 16,
       "type": "newline"
     },
@@ -88,17 +89,17 @@
       "type": "newline"
     },
     {
-      "text": "Micah the Morasthite prophesied in the days of Hezekiah king of Judah, and spake to all the people of Judah, saying, Thus saith the  of hosts; Zion shall be plowed like a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of a forest.",
+      "text": "Micah the Morasthite prophesied in the days of Hezekiah king of Judah, and spake to all the people of Judah, saying, Thus saith the Lord of hosts; Zion shall be plowed like a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of a forest.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "Did Hezekiah king of Judah and all Judah put him at all to death? did he not fear the , and besought the , and the  repented him of the evil which he had pronounced against them? Thus might we procure great evil against our souls.",
+      "text": "Did Hezekiah king of Judah and all Judah put him at all to death? did he not fear the Lord, and besought the Lord, and the Lord repented him of the evil which he had pronounced against them? Thus might we procure great evil against our souls.",
       "verse": 19,
       "type": "newline"
     },
     {
-      "text": "And there was also a man that prophesied in the name of the , Urijah the son of Shemaiah of Kirjathjearim, who prophesied against this city and against this land according to all the words of Jeremiah.",
+      "text": "And there was also a man that prophesied in the name of the Lord, Urijah the son of Shemaiah of Kirjathjearim, who prophesied against this city and against this land according to all the words of Jeremiah.",
       "verse": 20,
       "type": "newline"
     },

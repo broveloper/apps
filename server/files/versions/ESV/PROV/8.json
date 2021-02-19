@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 8,
+  "verses": 36,
   "content": [
     {
       "text": "The Blessings of Wisdom",
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "The fear of the  is hatred of evil.",
+      "text": "The fear of the Lord is hatred of evil.",
       "verse": 13,
       "type": "poetry"
     },
@@ -223,7 +224,7 @@
       "type": "poetry"
     },
     {
-      "text": "“The  possessed me at the beginning of his work,",
+      "text": "“The Lord possessed me at the beginning of his work,",
       "verse": 22,
       "type": "poetry newline"
     },
@@ -308,7 +309,7 @@
       "type": "poetry"
     },
     {
-      "text": "then I was beside him, like a master workman,",
+      "text": "    then I was beside him, like a master workman,",
       "verse": 30,
       "type": "poetry"
     },
@@ -373,7 +374,7 @@
       "type": "poetry"
     },
     {
-      "text": "and obtains favor from the ,",
+      "text": "and obtains favor from the Lord,",
       "verse": 35,
       "type": "poetry"
     },

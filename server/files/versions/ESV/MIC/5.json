@@ -2,13 +2,14 @@
   "book_id": "MIC",
   "book_name": "Micah",
   "chapter": 5,
+  "verses": 15,
   "content": [
     {
       "text": "The Ruler to Be Born in Bethlehem",
       "type": "heading"
     },
     {
-      "text": "Now muster your troops, O daughter of troops;",
+      "text": " Now muster your troops, O daughter of troops;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -28,7 +29,7 @@
       "type": "poetry"
     },
     {
-      "text": "But you, O Bethlehem Ephrathah,",
+      "text": " But you, O Bethlehem Ephrathah,",
       "verse": 2,
       "type": "poetry"
     },
@@ -78,12 +79,12 @@
       "type": "poetry"
     },
     {
-      "text": "And he shall stand and shepherd his flock in the strength of the ,",
+      "text": "And he shall stand and shepherd his flock in the strength of the Lord,",
       "verse": 4,
       "type": "poetry"
     },
     {
-      "text": "in the majesty of the name of the  his God.",
+      "text": "in the majesty of the name of the Lord his God.",
       "verse": 4,
       "type": "poetry"
     },
@@ -162,7 +163,7 @@
       "type": "poetry"
     },
     {
-      "text": "like dew from the ,",
+      "text": "like dew from the Lord,",
       "verse": 7,
       "type": "poetry"
     },
@@ -222,7 +223,7 @@
       "type": "poetry"
     },
     {
-      "text": "And in that day, declares the ,",
+      "text": "And in that day, declares the Lord,",
       "verse": 10,
       "type": "poetry newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "1KGS",
   "book_name": "1 Kings",
   "chapter": 12,
+  "verses": 33,
   "content": [
     {
       "text": "And Rehoboam went to Shechem: for all Israel were come to Shechem to make him king.",
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "Wherefore the king hearkened not unto the people; for the cause was from the , that he might perform his saying, which the  spake by Ahijah the Shilonite unto Jeroboam the son of Nebat.",
+      "text": "Wherefore the king hearkened not unto the people; for the cause was from the Lord, that he might perform his saying, which the Lord spake by Ahijah the Shilonite unto Jeroboam the son of Nebat.",
       "verse": 15,
       "type": "newline"
     },
@@ -118,7 +119,7 @@
       "type": "newline"
     },
     {
-      "text": "Thus saith the , Ye shall not go up, nor fight against your brethren the children of Israel: return every man to his house; for this thing is from me. They hearkened therefore to the word of the , and returned to depart, according to the word of the .",
+      "text": "Thus saith the Lord, Ye shall not go up, nor fight against your brethren the children of Israel: return every man to his house; for this thing is from me. They hearkened therefore to the word of the Lord, and returned to depart, according to the word of the Lord.",
       "verse": 24,
       "type": "newline"
     },
@@ -133,7 +134,7 @@
       "type": "newline"
     },
     {
-      "text": "If this people go up to do sacrifice in the house of the  at Jerusalem, then shall the heart of this people turn again unto their lord, even unto Rehoboam king of Judah, and they shall kill me, and go again to Rehoboam king of Judah.",
+      "text": "If this people go up to do sacrifice in the house of the Lord at Jerusalem, then shall the heart of this people turn again unto their lord, even unto Rehoboam king of Judah, and they shall kill me, and go again to Rehoboam king of Judah.",
       "verse": 27,
       "type": "newline"
     },

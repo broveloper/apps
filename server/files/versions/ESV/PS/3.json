@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 3,
+  "verses": 8,
   "content": [
     {
       "text": "Save Me, O My God",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A Psalm of David, when he fled from Absalom his son.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "O , how many are my foes!",
+      "text": "O Lord, how many are my foes!",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -28,12 +28,12 @@
       "type": "poetry"
     },
     {
-      "text": "“There is no salvation for him in God.”",
+      "text": "“There is no salvation for him in God.” Selah",
       "verse": 2,
       "type": "poetry"
     },
     {
-      "text": "But you, O , are a shield about me,",
+      "text": "But you, O Lord, are a shield about me,",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -43,12 +43,12 @@
       "type": "poetry"
     },
     {
-      "text": "I cried aloud to the ,",
+      "text": "I cried aloud to the Lord,",
       "verse": 4,
       "type": "poetry"
     },
     {
-      "text": "and he answered me from his holy hill.",
+      "text": "and he answered me from his holy hill. Selah",
       "verse": 4,
       "type": "poetry"
     },
@@ -58,7 +58,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "I woke again, for the  sustained me.",
+      "text": "I woke again, for the Lord sustained me.",
       "verse": 5,
       "type": "poetry"
     },
@@ -73,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "Arise, O !",
+      "text": "Arise, O Lord!",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -93,12 +93,12 @@
       "type": "poetry"
     },
     {
-      "text": "Salvation belongs to the ;",
+      "text": "Salvation belongs to the Lord;",
       "verse": 8,
       "type": "poetry newline"
     },
     {
-      "text": "your blessing be on your people!",
+      "text": "your blessing be on your people! Selah",
       "verse": 8,
       "type": "poetry"
     }

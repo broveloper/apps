@@ -2,13 +2,14 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 12,
+  "verses": 8,
   "content": [
     {
       "text": "Purification After Childbirth",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 1,
       "type": "newline"
     },
@@ -34,7 +35,7 @@
       "type": "newline"
     },
     {
-      "text": "He shall offer them before the  to make atonement for her, and then she will be ceremonially clean from her flow of blood.",
+      "text": "He shall offer them before the Lord to make atonement for her, and then she will be ceremonially clean from her flow of blood.",
       "verse": 7
     },
     {

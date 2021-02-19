@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 47,
+  "verses": 15,
   "content": [
     {
       "text": "Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: there is no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate.",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "As for our redeemer, the  of hosts is his name, the Holy One of Israel.",
+      "text": "As for our redeemer, the Lord of hosts is his name, the Holy One of Israel.",
       "verse": 4,
       "type": "newline"
     },

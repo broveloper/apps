@@ -2,13 +2,14 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 27,
+  "verses": 13,
   "content": [
     {
       "text": "The Redemption of Israel",
       "type": "heading"
     },
     {
-      "text": "In that day the  with his hard and great and strong sword will punish Leviathan the fleeing serpent, Leviathan the twisting serpent, and he will slay the dragon that is in the sea.",
+      "text": "In that day the Lord with his hard and great and strong sword will punish Leviathan the fleeing serpent, Leviathan the twisting serpent, and he will slay the dragon that is in the sea.",
       "verse": 1,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "poetry"
     },
     {
-      "text": "I, the , am its keeper;",
+      "text": "    I, the Lord, am its keeper;",
       "verse": 3,
       "type": "poetry"
     },
@@ -43,7 +44,7 @@
       "type": "poetry"
     },
     {
-      "text": "I have no wrath.",
+      "text": "    I have no wrath.",
       "verse": 4,
       "type": "poetry"
     },
@@ -183,12 +184,12 @@
       "type": "poetry"
     },
     {
-      "text": "In that day from the river Euphrates to the Brook of Egypt the  will thresh out the grain, and you will be gleaned one by one, O people of Israel.",
+      "text": "In that day from the river Euphrates to the Brook of Egypt the Lord will thresh out the grain, and you will be gleaned one by one, O people of Israel.",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "And in that day a great trumpet will be blown, and those who were lost in the land of Assyria and those who were driven out to the land of Egypt will come and worship the  on the holy mountain at Jerusalem.",
+      "text": "And in that day a great trumpet will be blown, and those who were lost in the land of Assyria and those who were driven out to the land of Egypt will come and worship the Lord on the holy mountain at Jerusalem.",
       "verse": 13
     }
   ]

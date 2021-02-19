@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 31,
+  "verses": 54,
   "content": [
     {
       "text": "Vengeance on Midian",
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses, saying,",
+      "text": "The Lord spoke to Moses, saying,",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "So Moses spoke to the people, saying, “Arm men from among you for the war, that they may go against Midian to execute the 's vengeance on Midian.",
+      "text": "So Moses spoke to the people, saying, “Arm men from among you for the war, that they may go against Midian to execute the Lord's vengeance on Midian.",
       "verse": 3
     },
     {
@@ -33,7 +34,7 @@
       "verse": 6
     },
     {
-      "text": "They warred against Midian, as the  commanded Moses, and killed every male.",
+      "text": "They warred against Midian, as the Lord commanded Moses, and killed every male.",
       "verse": 7
     },
     {
@@ -70,7 +71,7 @@
       "verse": 15
     },
     {
-      "text": "Behold, these, on Balaam's advice, caused the people of Israel to act treacherously against the  in the incident of Peor, and so the plague came among the congregation of the .",
+      "text": "Behold, these, on Balaam's advice, caused the people of Israel to act treacherously against the Lord in the incident of Peor, and so the plague came among the congregation of the Lord.",
       "verse": 16
     },
     {
@@ -90,7 +91,7 @@
       "verse": 20
     },
     {
-      "text": "Then Eleazar the priest said to the men in the army who had gone to battle: “This is the statute of the law that the  has commanded Moses:",
+      "text": "Then Eleazar the priest said to the men in the army who had gone to battle: “This is the statute of the law that the Lord has commanded Moses:",
       "verse": 21,
       "type": "newline"
     },
@@ -107,7 +108,7 @@
       "verse": 24
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 25,
       "type": "newline"
     },
@@ -120,19 +121,19 @@
       "verse": 27
     },
     {
-      "text": "And levy for the  a tribute from the men of war who went out to battle, one out of five hundred, of the people and of the oxen and of the donkeys and of the flocks.",
+      "text": "And levy for the Lord a tribute from the men of war who went out to battle, one out of five hundred, of the people and of the oxen and of the donkeys and of the flocks.",
       "verse": 28
     },
     {
-      "text": "Take it from their half and give it to Eleazar the priest as a contribution to the .",
+      "text": "Take it from their half and give it to Eleazar the priest as a contribution to the Lord.",
       "verse": 29
     },
     {
-      "text": "And from the people of Israel's half you shall take one drawn out of every fifty, of the people, of the oxen, of the donkeys, and of the flocks, of all the cattle, and give them to the Levites who keep guard over the tabernacle of the .”",
+      "text": "And from the people of Israel's half you shall take one drawn out of every fifty, of the people, of the oxen, of the donkeys, and of the flocks, of all the cattle, and give them to the Levites who keep guard over the tabernacle of the Lord.”",
       "verse": 30
     },
     {
-      "text": "And Moses and Eleazar the priest did as the  commanded Moses.",
+      "text": "And Moses and Eleazar the priest did as the Lord commanded Moses.",
       "verse": 31
     },
     {
@@ -157,23 +158,23 @@
       "verse": 36
     },
     {
-      "text": "and the 's tribute of sheep was 675.",
+      "text": "and the Lord's tribute of sheep was 675.",
       "verse": 37
     },
     {
-      "text": "The cattle were 36,000, of which the 's tribute was 72.",
+      "text": "The cattle were 36,000, of which the Lord's tribute was 72.",
       "verse": 38
     },
     {
-      "text": "The donkeys were 30,500, of which the 's tribute was 61.",
+      "text": "The donkeys were 30,500, of which the Lord's tribute was 61.",
       "verse": 39
     },
     {
-      "text": "The persons were 16,000, of which the 's tribute was 32 persons.",
+      "text": "The persons were 16,000, of which the Lord's tribute was 32 persons.",
       "verse": 40
     },
     {
-      "text": "And Moses gave the tribute, which was the contribution for the , to Eleazar the priest, as the  commanded Moses.",
+      "text": "And Moses gave the tribute, which was the contribution for the Lord, to Eleazar the priest, as the Lord commanded Moses.",
       "verse": 41
     },
     {
@@ -198,7 +199,7 @@
       "verse": 46
     },
     {
-      "text": "from the people of Israel's half Moses took one of every 50, both of persons and of beasts, and gave them to the Levites who kept guard over the tabernacle of the , as the  commanded Moses.",
+      "text": "from the people of Israel's half Moses took one of every 50, both of persons and of beasts, and gave them to the Levites who kept guard over the tabernacle of the Lord, as the Lord commanded Moses.",
       "verse": 47
     },
     {
@@ -211,7 +212,7 @@
       "verse": 49
     },
     {
-      "text": "And we have brought the 's offering, what each man found, articles of gold, armlets and bracelets, signet rings, earrings, and beads, to make atonement for ourselves before the .”",
+      "text": "And we have brought the Lord's offering, what each man found, articles of gold, armlets and bracelets, signet rings, earrings, and beads, to make atonement for ourselves before the Lord.”",
       "verse": 50
     },
     {
@@ -219,7 +220,7 @@
       "verse": 51
     },
     {
-      "text": "And all the gold of the contribution that they presented to the , from the commanders of thousands and the commanders of hundreds, was 16,750 shekels.",
+      "text": "And all the gold of the contribution that they presented to the Lord, from the commanders of thousands and the commanders of hundreds, was 16,750 shekels.",
       "verse": 52
     },
     {
@@ -227,7 +228,7 @@
       "verse": 53
     },
     {
-      "text": "And Moses and Eleazar the priest received the gold from the commanders of thousands and of hundreds, and brought it into the tent of meeting, as a memorial for the people of Israel before the .",
+      "text": "And Moses and Eleazar the priest received the gold from the commanders of thousands and of hundreds, and brought it into the tent of meeting, as a memorial for the people of Israel before the Lord.",
       "verse": 54
     }
   ]

@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 19,
+  "verses": 48,
   "content": [
     {
       "text": "Jesus and Zacchaeus",
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "And when Jesus came to the place, he looked up and said to him,",
+      "text": "And when Jesus came to the place, he looked up and said to him, “Zacchaeus, hurry and come down, for I must stay at your house today.”",
       "verse": 5
     },
     {
@@ -41,11 +42,11 @@
       "verse": 8
     },
     {
-      "text": "And Jesus said to him,",
+      "text": "And Jesus said to him, “Today salvation has come to this house, since he also is a son of Abraham.",
       "verse": 9
     },
     {
-      "text": "",
+      "text": "For the Son of Man came to seek and to save the lost.”",
       "verse": 10
     },
     {
@@ -58,67 +59,67 @@
       "type": "newline"
     },
     {
-      "text": "He said therefore,",
+      "text": "He said therefore, “A nobleman went into a far country to receive for himself a kingdom and then return.",
       "verse": 12
     },
     {
-      "text": "",
+      "text": "Calling ten of his servants, he gave them ten minas, and said to them, ‘Engage in business until I come.’",
       "verse": 13
     },
     {
-      "text": "",
+      "text": "But his citizens hated him and sent a delegation after him, saying, ‘We do not want this man to reign over us.’",
       "verse": 14
     },
     {
-      "text": "",
+      "text": "When he returned, having received the kingdom, he ordered these servants to whom he had given the money to be called to him, that he might know what they had gained by doing business.",
       "verse": 15
     },
     {
-      "text": "",
+      "text": "The first came before him, saying, ‘Lord, your mina has made ten minas more.’",
       "verse": 16
     },
     {
-      "text": "",
+      "text": "And he said to him, ‘Well done, good servant! Because you have been faithful in a very little, you shall have authority over ten cities.’",
       "verse": 17
     },
     {
-      "text": "",
+      "text": "And the second came, saying, ‘Lord, your mina has made five minas.’",
       "verse": 18
     },
     {
-      "text": "",
+      "text": "And he said to him, ‘And you are to be over five cities.’",
       "verse": 19
     },
     {
-      "text": "",
+      "text": "Then another came, saying, ‘Lord, here is your mina, which I kept laid away in a handkerchief;",
       "verse": 20
     },
     {
-      "text": "",
+      "text": "for I was afraid of you, because you are a severe man. You take what you did not deposit, and reap what you did not sow.’",
       "verse": 21
     },
     {
-      "text": "",
+      "text": "He said to him, ‘I will condemn you with your own words, you wicked servant! You knew that I was a severe man, taking what I did not deposit and reaping what I did not sow?",
       "verse": 22
     },
     {
-      "text": "",
+      "text": "Why then did you not put my money in the bank, and at my coming I might have collected it with interest?’",
       "verse": 23
     },
     {
-      "text": "",
+      "text": "And he said to those who stood by, ‘Take the mina from him, and give it to the one who has the ten minas.’",
       "verse": 24
     },
     {
-      "text": "",
+      "text": "And they said to him, ‘Lord, he has ten minas!’",
       "verse": 25
     },
     {
-      "text": "",
+      "text": "‘I tell you that to everyone who has, more will be given, but from the one who has not, even what he has will be taken away.",
       "verse": 26
     },
     {
-      "text": "",
+      "text": "But as for these enemies of mine, who did not want me to reign over them, bring them here and slaughter them before me.’”",
       "verse": 27
     },
     {
@@ -135,11 +136,11 @@
       "verse": 29
     },
     {
-      "text": "saying,",
+      "text": "saying, “Go into the village in front of you, where on entering you will find a colt tied, on which no one has ever yet sat. Untie it and bring it here.",
       "verse": 30
     },
     {
-      "text": "",
+      "text": "If anyone asks you, ‘Why are you untying it?’ you shall say this: ‘The Lord has need of it.’”",
       "verse": 31
     },
     {
@@ -175,7 +176,7 @@
       "verse": 39
     },
     {
-      "text": "He answered,",
+      "text": "He answered, “I tell you, if these were silent, the very stones would cry out.”",
       "verse": 40
     },
     {
@@ -188,15 +189,15 @@
       "type": "newline"
     },
     {
-      "text": "saying,",
+      "text": "saying, “Would that you, even you, had known on this day the things that make for peace! But now they are hidden from your eyes.",
       "verse": 42
     },
     {
-      "text": "",
+      "text": "For the days will come upon you, when your enemies will set up a barricade around you and surround you and hem you in on every side",
       "verse": 43
     },
     {
-      "text": "",
+      "text": "and tear you down to the ground, you and your children within you. And they will not leave one stone upon another in you, because you did not know the time of your visitation.”",
       "verse": 44
     },
     {
@@ -209,7 +210,7 @@
       "type": "newline"
     },
     {
-      "text": "saying to them,",
+      "text": "saying to them, “It is written, ‘My house shall be a house of prayer,’ but you have made it a den of robbers.”",
       "verse": 46
     },
     {

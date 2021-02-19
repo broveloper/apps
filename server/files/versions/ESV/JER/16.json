@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 16,
+  "verses": 21,
   "content": [
     {
       "text": "Famine, Sword, and Death",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "For thus says the  concerning the sons and daughters who are born in this place, and concerning the mothers who bore them and the fathers who fathered them in this land:",
+      "text": "For thus says the Lord concerning the sons and daughters who are born in this place, and concerning the mothers who bore them and the fathers who fathered them in this land:",
       "verse": 3
     },
     {
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "“For thus says the : Do not enter the house of mourning, or go to lament or grieve for them, for I have taken away my peace from this people, my steadfast love and mercy, declares the .",
+      "text": "“For thus says the Lord: Do not enter the house of mourning, or go to lament or grieve for them, for I have taken away my peace from this people, my steadfast love and mercy, declares the Lord.",
       "verse": 5,
       "type": "newline"
     },
@@ -42,16 +43,16 @@
       "verse": 8
     },
     {
-      "text": "For thus says the  of hosts, the God of Israel: Behold, I will silence in this place, before your eyes and in your days, the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride.",
+      "text": "For thus says the Lord of hosts, the God of Israel: Behold, I will silence in this place, before your eyes and in your days, the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride.",
       "verse": 9
     },
     {
-      "text": "“And when you tell this people all these words, and they say to you, ‘Why has the  pronounced all this great evil against us? What is our iniquity? What is the sin that we have committed against the  our God?’",
+      "text": "“And when you tell this people all these words, and they say to you, ‘Why has the Lord pronounced all this great evil against us? What is our iniquity? What is the sin that we have committed against the Lord our God?’",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "then you shall say to them: ‘Because your fathers have forsaken me, declares the , and have gone after other gods and have served and worshiped them, and have forsaken me and have not kept my law,",
+      "text": "then you shall say to them: ‘Because your fathers have forsaken me, declares the Lord, and have gone after other gods and have served and worshiped them, and have forsaken me and have not kept my law,",
       "verse": 11
     },
     {
@@ -63,20 +64,20 @@
       "verse": 13
     },
     {
-      "text": "The  Will Restore Israel",
+      "text": "The Lord Will Restore Israel",
       "type": "heading"
     },
     {
-      "text": "“Therefore, behold, the days are coming, declares the , when it shall no longer be said, ‘As the  lives who brought up the people of Israel out of the land of Egypt,’",
+      "text": "“Therefore, behold, the days are coming, declares the Lord, when it shall no longer be said, ‘As the Lord lives who brought up the people of Israel out of the land of Egypt,’",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "but ‘As the  lives who brought up the people of Israel out of the north country and out of all the countries where he had driven them.’ For I will bring them back to their own land that I gave to their fathers.",
+      "text": "but ‘As the Lord lives who brought up the people of Israel out of the north country and out of all the countries where he had driven them.’ For I will bring them back to their own land that I gave to their fathers.",
       "verse": 15
     },
     {
-      "text": "“Behold, I am sending for many fishers, declares the , and they shall catch them. And afterward I will send for many hunters, and they shall hunt them from every mountain and every hill, and out of the clefts of the rocks.",
+      "text": "“Behold, I am sending for many fishers, declares the Lord, and they shall catch them. And afterward I will send for many hunters, and they shall hunt them from every mountain and every hill, and out of the clefts of the rocks.",
       "verse": 16,
       "type": "newline"
     },
@@ -89,7 +90,7 @@
       "verse": 18
     },
     {
-      "text": "O , my strength and my stronghold,",
+      "text": "O Lord, my strength and my stronghold,",
       "verse": 19,
       "type": "poetry newline"
     },
@@ -129,7 +130,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Therefore, behold, I will make them know, this once I will make them know my power and my might, and they shall know that my name is the .”",
+      "text": "“Therefore, behold, I will make them know, this once I will make them know my power and my might, and they shall know that my name is the Lord.”",
       "verse": 21,
       "type": "newline"
     }

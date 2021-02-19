@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 138,
+  "verses": 8,
   "content": [
     {
       "text": "Psalm 138",
@@ -9,11 +10,10 @@
     },
     {
       "text": "Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "I will praise you, , with all my heart;",
+      "text": "I will praise you, Lord, with all my heart;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -58,7 +58,7 @@
       "type": "poetry"
     },
     {
-      "text": "May all the kings of the earth praise you, ,",
+      "text": "May all the kings of the earth praise you, Lord,",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -68,17 +68,17 @@
       "type": "poetry"
     },
     {
-      "text": "May they sing of the ways of the ,",
+      "text": "May they sing of the ways of the Lord,",
       "verse": 5,
       "type": "poetry"
     },
     {
-      "text": "for the glory of the  is great.",
+      "text": "for the glory of the Lord is great.",
       "verse": 5,
       "type": "poetry"
     },
     {
-      "text": "Though the  is exalted, he looks kindly on the lowly;",
+      "text": "Though the Lord is exalted, he looks kindly on the lowly;",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -108,12 +108,12 @@
       "type": "poetry"
     },
     {
-      "text": "The  will vindicate me;",
+      "text": "The Lord will vindicate me;",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "your love, , endures forever—",
+      "text": "your love, Lord, endures forever—",
       "verse": 8,
       "type": "poetry"
     },

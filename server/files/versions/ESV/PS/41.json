@@ -2,15 +2,15 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 41,
+  "verses": 13,
   "content": [
     {
-      "text": "O , Be Gracious to Me",
+      "text": "O Lord, Be Gracious to Me",
       "type": "heading"
     },
     {
       "text": "To the choirmaster. A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Blessed is the one who considers the poor!",
@@ -18,12 +18,12 @@
       "type": "poetry newline"
     },
     {
-      "text": "In the day of trouble the  delivers him;",
+      "text": "In the day of trouble the Lord delivers him;",
       "verse": 1,
       "type": "poetry"
     },
     {
-      "text": "the  protects him and keeps him alive;",
+      "text": "the Lord protects him and keeps him alive;",
       "verse": 2,
       "type": "poetry"
     },
@@ -38,7 +38,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  sustains him on his sickbed;",
+      "text": "The Lord sustains him on his sickbed;",
       "verse": 3,
       "type": "poetry"
     },
@@ -48,7 +48,7 @@
       "type": "poetry"
     },
     {
-      "text": "As for me, I said, “O , be gracious to me;",
+      "text": "As for me, I said, “O Lord, be gracious to me;",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -113,7 +113,7 @@
       "type": "poetry"
     },
     {
-      "text": "But you, O , be gracious to me,",
+      "text": "But you, O Lord, be gracious to me,",
       "verse": 10,
       "type": "poetry"
     },
@@ -143,7 +143,7 @@
       "type": "poetry"
     },
     {
-      "text": "Blessed be the , the God of Israel,",
+      "text": "Blessed be the Lord, the God of Israel,",
       "verse": 13,
       "type": "poetry newline"
     },

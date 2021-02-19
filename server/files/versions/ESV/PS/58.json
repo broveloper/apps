@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 58,
+  "verses": 11,
   "content": [
     {
       "text": "God Who Judges the Earth",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster: according to Do Not Destroy. A Miktam of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Do you indeed decree what is right, you gods?",
@@ -68,7 +68,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "tear out the fangs of the young lions, O !",
+      "text": "tear out the fangs of the young lions, O Lord!",
       "verse": 6,
       "type": "poetry"
     },

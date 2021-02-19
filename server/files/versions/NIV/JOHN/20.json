@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 20,
+  "verses": 31,
   "content": [
     {
       "text": "The Empty Tomb",
@@ -77,7 +78,7 @@
       "verse": 14
     },
     {
-      "text": "He asked her,",
+      "text": "He asked her, “Woman, why are you crying? Who is it you are looking for?”",
       "verse": 15,
       "type": "newline"
     },
@@ -87,7 +88,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said to her,",
+      "text": "Jesus said to her, “Mary.”",
       "verse": 16,
       "type": "newline"
     },
@@ -97,7 +98,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said,",
+      "text": "Jesus said, “Do not hold on to me, for I have not yet ascended to the Father. Go instead to my brothers and tell them, ‘I am ascending to my Father and your Father, to my God and your God.’”",
       "verse": 17,
       "type": "newline"
     },
@@ -111,7 +112,7 @@
       "type": "heading"
     },
     {
-      "text": "On the evening of that first day of the week, when the disciples were together, with the doors locked for fear of the Jewish leaders, Jesus came and stood among them and said,",
+      "text": "On the evening of that first day of the week, when the disciples were together, with the doors locked for fear of the Jewish leaders, Jesus came and stood among them and said, “Peace be with you!”",
       "verse": 19,
       "type": "newline"
     },
@@ -120,16 +121,16 @@
       "verse": 20
     },
     {
-      "text": "Again Jesus said,",
+      "text": "Again Jesus said, “Peace be with you! As the Father has sent me, I am sending you.”",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "And with that he breathed on them and said,",
+      "text": "And with that he breathed on them and said, “Receive the Holy Spirit.",
       "verse": 22
     },
     {
-      "text": "",
+      "text": "If you forgive anyone’s sins, their sins are forgiven; if you do not forgive them, they are not forgiven.”",
       "verse": 23
     },
     {
@@ -151,12 +152,12 @@
       "type": "newline"
     },
     {
-      "text": "A week later his disciples were in the house again, and Thomas was with them. Though the doors were locked, Jesus came and stood among them and said,",
+      "text": "A week later his disciples were in the house again, and Thomas was with them. Though the doors were locked, Jesus came and stood among them and said, “Peace be with you!”",
       "verse": 26,
       "type": "newline"
     },
     {
-      "text": "Then he said to Thomas,",
+      "text": "Then he said to Thomas, “Put your finger here; see my hands. Reach out your hand and put it into my side. Stop doubting and believe.”",
       "verse": 27
     },
     {
@@ -165,7 +166,7 @@
       "type": "newline"
     },
     {
-      "text": "Then Jesus told him,",
+      "text": "Then Jesus told him, “Because you have seen me, you have believed; blessed are those who have not seen and yet have believed.”",
       "verse": 29,
       "type": "newline"
     },

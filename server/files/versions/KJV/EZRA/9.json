@@ -2,6 +2,7 @@
   "book_id": "EZRA",
   "book_name": "Ezra",
   "chapter": 9,
+  "verses": 15,
   "content": [
     {
       "text": "Now when these things were done, the princes came to me, saying, The people of Israel, and the priests, and the Levites, have not separated themselves from the people of the lands, doing according to their abominations, even of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites.",
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "And at the evening sacrifice I arose up from my heaviness; and having rent my garment and my mantle, I fell upon my knees, and spread out my hands unto the  my God,",
+      "text": "And at the evening sacrifice I arose up from my heaviness; and having rent my garment and my mantle, I fell upon my knees, and spread out my hands unto the Lord my God,",
       "verse": 5,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "And now for a little space grace hath been shewed from the  our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage.",
+      "text": "And now for a little space grace hath been shewed from the Lord our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage.",
       "verse": 8,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "O  God of Israel, thou art righteous: for we remain yet escaped, as it is this day: behold, we are before thee in our trespasses: for we cannot stand before thee because of this.",
+      "text": "O Lord God of Israel, thou art righteous: for we remain yet escaped, as it is this day: behold, we are before thee in our trespasses: for we cannot stand before thee because of this.",
       "verse": 15,
       "type": "newline"
     }

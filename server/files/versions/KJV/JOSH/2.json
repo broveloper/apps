@@ -2,6 +2,7 @@
   "book_id": "JOSH",
   "book_name": "Joshua",
   "chapter": 2,
+  "verses": 24,
   "content": [
     {
       "text": "And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot's house, named Rahab, and lodged there.",
@@ -43,22 +44,22 @@
       "type": "newline"
     },
     {
-      "text": "And she said unto the men, I know that the  hath given you the land, and that your terror is fallen upon us, and that all the inhabitants of the land faint because of you.",
+      "text": "And she said unto the men, I know that the Lord hath given you the land, and that your terror is fallen upon us, and that all the inhabitants of the land faint because of you.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "For we have heard how the  dried up the water of the Red sea for you, when ye came out of Egypt; and what ye did unto the two kings of the Amorites, that were on the other side Jordan, Sihon and Og, whom ye utterly destroyed.",
+      "text": "For we have heard how the Lord dried up the water of the Red sea for you, when ye came out of Egypt; and what ye did unto the two kings of the Amorites, that were on the other side Jordan, Sihon and Og, whom ye utterly destroyed.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "And as soon as we had heard these things, our hearts did melt, neither did there remain any more courage in any man, because of you: for the  your God, he is God in heaven above, and in earth beneath.",
+      "text": "And as soon as we had heard these things, our hearts did melt, neither did there remain any more courage in any man, because of you: for the Lord your God, he is God in heaven above, and in earth beneath.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "Now therefore, I pray you, swear unto me by the , since I have shewed you kindness, that ye will also shew kindness unto my father's house, and give me a true token:",
+      "text": "Now therefore, I pray you, swear unto me by the Lord, since I have shewed you kindness, that ye will also shew kindness unto my father's house, and give me a true token:",
       "verse": 12,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "And the men answered her, Our life for yours, if ye utter not this our business. And it shall be, when the  hath given us the land, that we will deal kindly and truly with thee.",
+      "text": "And the men answered her, Our life for yours, if ye utter not this our business. And it shall be, when the Lord hath given us the land, that we will deal kindly and truly with thee.",
       "verse": 14,
       "type": "newline"
     },
@@ -118,7 +119,7 @@
       "type": "newline"
     },
     {
-      "text": "And they said unto Joshua, Truly the  hath delivered into our hands all the land; for even all the inhabitants of the country do faint because of us.",
+      "text": "And they said unto Joshua, Truly the Lord hath delivered into our hands all the land; for even all the inhabitants of the country do faint because of us.",
       "verse": 24,
       "type": "newline"
     }

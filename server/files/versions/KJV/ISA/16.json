@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 16,
+  "verses": 14,
   "content": [
     {
       "text": "Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion.",
@@ -63,12 +64,12 @@
       "type": "newline"
     },
     {
-      "text": "This is the word that the  hath spoken concerning Moab since that time.",
+      "text": "This is the word that the Lord hath spoken concerning Moab since that time.",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "But now the  hath spoken, saying, Within three years, as the years of an hireling, and the glory of Moab shall be contemned, with all that great multitude; and the remnant shall be very small and feeble.",
+      "text": "But now the Lord hath spoken, saying, Within three years, as the years of an hireling, and the glory of Moab shall be contemned, with all that great multitude; and the remnant shall be very small and feeble.",
       "verse": 14,
       "type": "newline"
     }

@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 23,
+  "verses": 18,
   "content": [
     {
       "text": "A Prophecy Against Tyre",
@@ -153,7 +154,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  Almighty planned it,",
+      "text": "The Lord Almighty planned it,",
       "verse": 9,
       "type": "poetry"
     },
@@ -183,7 +184,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has stretched out his hand over the sea",
+      "text": "The Lord has stretched out his hand over the sea",
       "verse": 11,
       "type": "poetry"
     },
@@ -293,12 +294,12 @@
       "type": "poetry"
     },
     {
-      "text": "At the end of seventy years, the  will deal with Tyre. She will return to her lucrative prostitution and will ply her trade with all the kingdoms on the face of the earth.",
+      "text": "At the end of seventy years, the Lord will deal with Tyre. She will return to her lucrative prostitution and will ply her trade with all the kingdoms on the face of the earth.",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "Yet her profit and her earnings will be set apart for the ; they will not be stored up or hoarded. Her profits will go to those who live before the , for abundant food and fine clothes.",
+      "text": "Yet her profit and her earnings will be set apart for the Lord; they will not be stored up or hoarded. Her profits will go to those who live before the Lord, for abundant food and fine clothes.",
       "verse": 18
     }
   ]

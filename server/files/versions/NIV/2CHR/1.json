@@ -2,13 +2,14 @@
   "book_id": "2CHR",
   "book_name": "2 Chronicles",
   "chapter": 1,
+  "verses": 17,
   "content": [
     {
       "text": "Solomon Asks for Wisdom",
       "type": "heading"
     },
     {
-      "text": "Solomon son of David established himself firmly over his kingdom, for the  his God was with him and made him exceedingly great.",
+      "text": "Solomon son of David established himself firmly over his kingdom, for the Lord his God was with him and made him exceedingly great.",
       "verse": 1,
       "type": "newline"
     },
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "and Solomon and the whole assembly went to the high place at Gibeon, for God’s tent of meeting was there, which Moses the ’s servant had made in the wilderness.",
+      "text": "and Solomon and the whole assembly went to the high place at Gibeon, for God’s tent of meeting was there, which Moses the Lord’s servant had made in the wilderness.",
       "verse": 3
     },
     {
@@ -26,11 +27,11 @@
       "verse": 4
     },
     {
-      "text": "But the bronze altar that Bezalel son of Uri, the son of Hur, had made was in Gibeon in front of the tabernacle of the ; so Solomon and the assembly inquired of him there.",
+      "text": "But the bronze altar that Bezalel son of Uri, the son of Hur, had made was in Gibeon in front of the tabernacle of the Lord; so Solomon and the assembly inquired of him there.",
       "verse": 5
     },
     {
-      "text": "Solomon went up to the bronze altar before the  in the tent of meeting and offered a thousand burnt offerings on it.",
+      "text": "Solomon went up to the bronze altar before the Lord in the tent of meeting and offered a thousand burnt offerings on it.",
       "verse": 6
     },
     {
@@ -44,7 +45,7 @@
       "type": "newline"
     },
     {
-      "text": "Now,  God, let your promise to my father David be confirmed, for you have made me king over a people who are as numerous as the dust of the earth.",
+      "text": "Now, Lord God, let your promise to my father David be confirmed, for you have made me king over a people who are as numerous as the dust of the earth.",
       "verse": 9
     },
     {

@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 11,
+  "verses": 32,
   "content": [
     {
       "text": "The Tower of Babel",
@@ -26,12 +27,12 @@
       "verse": 4
     },
     {
-      "text": "But the  came down to see the city and the tower the people were building.",
+      "text": "But the Lord came down to see the city and the tower the people were building.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "The  said, “If as one people speaking the same language they have begun to do this, then nothing they plan to do will be impossible for them.",
+      "text": "The Lord said, “If as one people speaking the same language they have begun to do this, then nothing they plan to do will be impossible for them.",
       "verse": 6
     },
     {
@@ -39,12 +40,12 @@
       "verse": 7
     },
     {
-      "text": "So the  scattered them from there over all the earth, and they stopped building the city.",
+      "text": "So the Lord scattered them from there over all the earth, and they stopped building the city.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "That is why it was called Babel—because there the  confused the language of the whole world. From there the  scattered them over the face of the whole earth.",
+      "text": "That is why it was called Babel—because there the Lord confused the language of the whole world. From there the Lord scattered them over the face of the whole earth.",
       "verse": 9
     },
     {

@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 11,
+  "verses": 15,
   "content": [
     {
       "text": "Saul Rescues the City of Jabesh",
@@ -37,7 +38,7 @@
       "type": "newline"
     },
     {
-      "text": "He took a pair of oxen, cut them into pieces, and sent the pieces by messengers throughout Israel, proclaiming, “This is what will be done to the oxen of anyone who does not follow Saul and Samuel.” Then the terror of the  fell on the people, and they came out together as one.",
+      "text": "He took a pair of oxen, cut them into pieces, and sent the pieces by messengers throughout Israel, proclaiming, “This is what will be done to the oxen of anyone who does not follow Saul and Samuel.” Then the terror of the Lord fell on the people, and they came out together as one.",
       "verse": 7
     },
     {
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "But Saul said, “No one will be put to death today, for this day the  has rescued Israel.”",
+      "text": "But Saul said, “No one will be put to death today, for this day the Lord has rescued Israel.”",
       "verse": 13,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "So all the people went to Gilgal and made Saul king in the presence of the . There they sacrificed fellowship offerings before the , and Saul and all the Israelites held a great celebration.",
+      "text": "So all the people went to Gilgal and made Saul king in the presence of the Lord. There they sacrificed fellowship offerings before the Lord, and Saul and all the Israelites held a great celebration.",
       "verse": 15
     }
   ]

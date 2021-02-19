@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 21,
+  "verses": 25,
   "content": [
     {
       "text": "Jesus and the Miraculous Catch of Fish",
@@ -26,7 +27,7 @@
       "type": "newline"
     },
     {
-      "text": "He called out to them,",
+      "text": "He called out to them, “Friends, haven’t you any fish?”",
       "verse": 5,
       "type": "newline"
     },
@@ -36,7 +37,7 @@
       "type": "newline"
     },
     {
-      "text": "He said,  When they did, they were unable to haul the net in because of the large number of fish.",
+      "text": "He said, “Throw your net on the right side of the boat and you will find some.” When they did, they were unable to haul the net in because of the large number of fish.",
       "verse": 6,
       "type": "newline"
     },
@@ -54,7 +55,7 @@
       "verse": 9
     },
     {
-      "text": "Jesus said to them,",
+      "text": "Jesus said to them, “Bring some of the fish you have just caught.”",
       "verse": 10,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "verse": 11
     },
     {
-      "text": "Jesus said to them,  None of the disciples dared ask him, “Who are you?” They knew it was the Lord.",
+      "text": "Jesus said to them, “Come and have breakfast.” None of the disciples dared ask him, “Who are you?” They knew it was the Lord.",
       "verse": 12
     },
     {
@@ -79,7 +80,7 @@
       "type": "heading"
     },
     {
-      "text": "When they had finished eating, Jesus said to Simon Peter,",
+      "text": "When they had finished eating, Jesus said to Simon Peter, “Simon son of John, do you love me more than these?”",
       "verse": 15,
       "type": "newline"
     },
@@ -89,12 +90,12 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said,",
+      "text": "Jesus said, “Feed my lambs.”",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "Again Jesus said,",
+      "text": "Again Jesus said, “Simon son of John, do you love me?”",
       "verse": 16,
       "type": "newline"
     },
@@ -104,31 +105,31 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said,",
+      "text": "Jesus said, “Take care of my sheep.”",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "The third time he said to him,",
+      "text": "The third time he said to him, “Simon son of John, do you love me?”",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "Peter was hurt because Jesus asked him the third time,  He said, “Lord, you know all things; you know that I love you.”",
+      "text": "Peter was hurt because Jesus asked him the third time, “Do you love me?” He said, “Lord, you know all things; you know that I love you.”",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "Jesus said,",
+      "text": "Jesus said, “Feed my sheep.",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Very truly I tell you, when you were younger you dressed yourself and went where you wanted; but when you are old you will stretch out your hands, and someone else will dress you and lead you where you do not want to go.”",
       "verse": 18
     },
     {
-      "text": "Jesus said this to indicate the kind of death by which Peter would glorify God. Then he said to him,",
+      "text": "Jesus said this to indicate the kind of death by which Peter would glorify God. Then he said to him, “Follow me!”",
       "verse": 19
     },
     {
@@ -141,12 +142,12 @@
       "verse": 21
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “If I want him to remain alive until I return, what is that to you? You must follow me.”",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "Because of this, the rumor spread among the believers that this disciple would not die. But Jesus did not say that he would not die; he only said,",
+      "text": "Because of this, the rumor spread among the believers that this disciple would not die. But Jesus did not say that he would not die; he only said, “If I want him to remain alive until I return, what is that to you?”",
       "verse": 23
     },
     {

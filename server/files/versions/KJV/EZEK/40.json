@@ -2,9 +2,10 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 40,
+  "verses": 49,
   "content": [
     {
-      "text": "In the five and twentieth year of our captivity, in the beginning of the year, in the tenth day of the month, in the fourteenth year after that the city was smitten, in the selfsame day the hand of the  was upon me, and brought me thither.",
+      "text": "In the five and twentieth year of our captivity, in the beginning of the year, in the tenth day of the month, in the fourteenth year after that the city was smitten, in the selfsame day the hand of the Lord was upon me, and brought me thither.",
       "verse": 1
     },
     {
@@ -228,7 +229,7 @@
       "type": "newline"
     },
     {
-      "text": "And the chamber whose prospect is toward the north is for the priests, the keepers of the charge of the altar: these are the sons of Zadok among the sons of Levi, which come near to the  to minister unto him.",
+      "text": "And the chamber whose prospect is toward the north is for the priests, the keepers of the charge of the altar: these are the sons of Zadok among the sons of Levi, which come near to the Lord to minister unto him.",
       "verse": 46,
       "type": "newline"
     },

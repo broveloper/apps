@@ -2,9 +2,10 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 40,
+  "verses": 24,
   "content": [
     {
-      "text": "Moreover the  answered Job, and said,",
+      "text": "Moreover the Lord answered Job, and said,",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "Then Job answered the , and said,",
+      "text": "Then Job answered the Lord, and said,",
       "verse": 3,
       "type": "newline"
     },
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "Then answered the  unto Job out of the whirlwind, and said,",
+      "text": "Then answered the Lord unto Job out of the whirlwind, and said,",
       "verse": 6,
       "type": "newline"
     },

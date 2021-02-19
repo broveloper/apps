@@ -2,6 +2,7 @@
   "book_id": "ZECH",
   "book_name": "Zechariah",
   "chapter": 6,
+  "verses": 15,
   "content": [
     {
       "text": "Four Chariots",
@@ -48,7 +49,7 @@
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 9,
       "type": "newline"
     },
@@ -61,19 +62,19 @@
       "verse": 11
     },
     {
-      "text": "Tell him this is what the  Almighty says: ‘Here is the man whose name is the Branch, and he will branch out from his place and build the temple of the .",
+      "text": "Tell him this is what the Lord Almighty says: ‘Here is the man whose name is the Branch, and he will branch out from his place and build the temple of the Lord.",
       "verse": 12
     },
     {
-      "text": "It is he who will build the temple of the , and he will be clothed with majesty and will sit and rule on his throne. And he will be a priest on his throne. And there will be harmony between the two.’",
+      "text": "It is he who will build the temple of the Lord, and he will be clothed with majesty and will sit and rule on his throne. And he will be a priest on his throne. And there will be harmony between the two.’",
       "verse": 13
     },
     {
-      "text": "The crown will be given to Heldai, Tobijah, Jedaiah and Hen son of Zephaniah as a memorial in the temple of the .",
+      "text": "The crown will be given to Heldai, Tobijah, Jedaiah and Hen son of Zephaniah as a memorial in the temple of the Lord.",
       "verse": 14
     },
     {
-      "text": "Those who are far away will come and help to build the temple of the , and you will know that the  Almighty has sent me to you. This will happen if you diligently obey the  your God.”",
+      "text": "Those who are far away will come and help to build the temple of the Lord, and you will know that the Lord Almighty has sent me to you. This will happen if you diligently obey the Lord your God.”",
       "verse": 15
     }
   ]

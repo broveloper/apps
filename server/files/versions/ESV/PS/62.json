@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 62,
+  "verses": 12,
   "content": [
     {
       "text": "My Soul Waits for God Alone",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster: according to Jeduthun. A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "For God alone my soul waits in silence;",
@@ -63,7 +63,7 @@
       "type": "poetry"
     },
     {
-      "text": "but inwardly they curse.",
+      "text": "but inwardly they curse. Selah",
       "verse": 4,
       "type": "poetry"
     },
@@ -108,7 +108,7 @@
       "type": "poetry"
     },
     {
-      "text": "God is a refuge for us.",
+      "text": "God is a refuge for us. Selah",
       "verse": 8,
       "type": "poetry"
     },
@@ -163,7 +163,7 @@
       "type": "poetry"
     },
     {
-      "text": "and that to you, O Lord, belongs steadfast love.",
+      "text": "    and that to you, O Lord, belongs steadfast love.",
       "verse": 12,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 47,
+  "verses": 23,
   "content": [
     {
       "text": "The River From the Temple",
@@ -67,7 +68,7 @@
       "type": "heading"
     },
     {
-      "text": "This is what the Sovereign  says: “These are the boundaries of the land that you will divide among the twelve tribes of Israel as their inheritance, with two portions for Joseph.",
+      "text": "This is what the Sovereign Lord says: “These are the boundaries of the land that you will divide among the twelve tribes of Israel as their inheritance, with two portions for Joseph.",
       "verse": 13,
       "type": "newline"
     },
@@ -115,7 +116,7 @@
       "verse": 22
     },
     {
-      "text": "In whatever tribe a foreigner resides, there you are to give them their inheritance,” declares the Sovereign .",
+      "text": "In whatever tribe a foreigner resides, there you are to give them their inheritance,” declares the Sovereign Lord.",
       "verse": 23
     }
   ]

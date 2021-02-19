@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 69,
+  "verses": 36,
   "content": [
     {
       "text": "Psalm 69",
@@ -9,8 +10,7 @@
     },
     {
       "text": "For the director of music. To the tune of “Lilies.” Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Save me, O God,",
@@ -103,7 +103,7 @@
       "type": "poetry"
     },
     {
-      "text": "Lord, the  Almighty,",
+      "text": "Lord, the Lord Almighty,",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -193,7 +193,7 @@
       "type": "poetry"
     },
     {
-      "text": "But I pray to you, ,",
+      "text": "But I pray to you, Lord,",
       "verse": 13,
       "type": "poetry newline"
     },
@@ -248,7 +248,7 @@
       "type": "poetry"
     },
     {
-      "text": "Answer me, , out of the goodness of your love;",
+      "text": "Answer me, Lord, out of the goodness of your love;",
       "verse": 16,
       "type": "poetry newline"
     },
@@ -408,7 +408,7 @@
       "type": "poetry"
     },
     {
-      "text": "This will please the  more than an ox,",
+      "text": "This will please the Lord more than an ox,",
       "verse": 31,
       "type": "poetry"
     },
@@ -428,7 +428,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  hears the needy",
+      "text": "The Lord hears the needy",
       "verse": 33,
       "type": "poetry"
     },
@@ -463,7 +463,7 @@
       "type": "poetry"
     },
     {
-      "text": "the children of his servants will inherit it,",
+      "text": "    the children of his servants will inherit it,",
       "verse": 36,
       "type": "poetry"
     },

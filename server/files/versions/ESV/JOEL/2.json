@@ -2,9 +2,10 @@
   "book_id": "JOEL",
   "book_name": "Joel",
   "chapter": 2,
+  "verses": 32,
   "content": [
     {
-      "text": "The Day of the",
+      "text": "The Day of the Lord",
       "type": "heading"
     },
     {
@@ -23,7 +24,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the day of the  is coming; it is near,",
+      "text": "for the day of the Lord is coming; it is near,",
       "verse": 1,
       "type": "poetry"
     },
@@ -218,7 +219,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  utters his voice",
+      "text": "The Lord utters his voice",
       "verse": 11,
       "type": "poetry"
     },
@@ -238,7 +239,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the day of the  is great and very awesome;",
+      "text": "For the day of the Lord is great and very awesome;",
       "verse": 11,
       "type": "poetry"
     },
@@ -248,11 +249,11 @@
       "type": "poetry"
     },
     {
-      "text": "Return to the",
+      "text": "Return to the Lord",
       "type": "heading"
     },
     {
-      "text": "“Yet even now,” declares the ,",
+      "text": "“Yet even now,” declares the Lord,",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -267,12 +268,12 @@
       "type": "poetry"
     },
     {
-      "text": "and rend your hearts and not your garments.”",
+      "text": "    and rend your hearts and not your garments.”",
       "verse": 13,
       "type": "poetry"
     },
     {
-      "text": "Return to the  your God,",
+      "text": "Return to the Lord your God,",
       "verse": 13,
       "type": "poetry"
     },
@@ -307,7 +308,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  your God?",
+      "text": "for the Lord your God?",
       "verse": 14,
       "type": "poetry"
     },
@@ -327,7 +328,7 @@
       "type": "poetry"
     },
     {
-      "text": "gather the people.",
+      "text": "    gather the people.",
       "verse": 16,
       "type": "poetry"
     },
@@ -367,12 +368,12 @@
       "type": "poetry newline"
     },
     {
-      "text": "let the priests, the ministers of the , weep",
+      "text": "let the priests, the ministers of the Lord, weep",
       "verse": 17,
       "type": "poetry"
     },
     {
-      "text": "and say, “Spare your people, O ,",
+      "text": "and say, “Spare your people, O Lord,",
       "verse": 17,
       "type": "poetry"
     },
@@ -397,11 +398,11 @@
       "type": "poetry"
     },
     {
-      "text": "The  Had Pity",
+      "text": "The Lord Had Pity",
       "type": "heading"
     },
     {
-      "text": "Then the  became jealous for his land",
+      "text": "Then the Lord became jealous for his land",
       "verse": 18,
       "type": "poetry newline"
     },
@@ -411,7 +412,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  answered and said to his people,",
+      "text": "The Lord answered and said to his people,",
       "verse": 19,
       "type": "poetry"
     },
@@ -481,7 +482,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  has done great things!",
+      "text": "for the Lord has done great things!",
       "verse": 21,
       "type": "poetry"
     },
@@ -511,7 +512,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "and rejoice in the  your God,",
+      "text": "and rejoice in the Lord your God,",
       "verse": 23,
       "type": "poetry"
     },
@@ -566,7 +567,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "and praise the name of the  your God,",
+      "text": "and praise the name of the Lord your God,",
       "verse": 26,
       "type": "poetry"
     },
@@ -586,7 +587,7 @@
       "type": "poetry"
     },
     {
-      "text": "and that I am the  your God and there is none else.",
+      "text": "and that I am the Lord your God and there is none else.",
       "verse": 27,
       "type": "poetry"
     },
@@ -596,11 +597,11 @@
       "type": "poetry"
     },
     {
-      "text": "The  Will Pour Out His Spirit",
+      "text": "The Lord Will Pour Out His Spirit",
       "type": "heading"
     },
     {
-      "text": "“And it shall come to pass afterward,",
+      "text": " “And it shall come to pass afterward,",
       "verse": 28,
       "type": "poetry newline"
     },
@@ -640,11 +641,11 @@
       "type": "newline"
     },
     {
-      "text": "The sun shall be turned to darkness, and the moon to blood, before the great and awesome day of the  comes.",
+      "text": "The sun shall be turned to darkness, and the moon to blood, before the great and awesome day of the Lord comes.",
       "verse": 31
     },
     {
-      "text": "And it shall come to pass that everyone who calls on the name of the  shall be saved. For in Mount Zion and in Jerusalem there shall be those who escape, as the  has said, and among the survivors shall be those whom the  calls.",
+      "text": "And it shall come to pass that everyone who calls on the name of the Lord shall be saved. For in Mount Zion and in Jerusalem there shall be those who escape, as the Lord has said, and among the survivors shall be those whom the Lord calls.",
       "verse": 32
     }
   ]

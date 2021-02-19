@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 3,
+  "verses": 35,
   "content": [
     {
       "text": "My son, forget not my law; but let thine heart keep my commandments:",
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "Trust in the  with all thine heart; and lean not unto thine own understanding.",
+      "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding.",
       "verse": 5,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "Be not wise in thine own eyes: fear the , and depart from evil.",
+      "text": "Be not wise in thine own eyes: fear the Lord, and depart from evil.",
       "verse": 7,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "Honour the  with thy substance, and with the firstfruits of all thine increase:",
+      "text": "Honour the Lord with thy substance, and with the firstfruits of all thine increase:",
       "verse": 9,
       "type": "newline"
     },
@@ -53,12 +54,12 @@
       "type": "newline"
     },
     {
-      "text": "My son, despise not the chastening of the ; neither be weary of his correction:",
+      "text": "My son, despise not the chastening of the Lord; neither be weary of his correction:",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "For whom the  loveth he correcteth; even as a father the son in whom he delighteth.",
+      "text": "For whom the Lord loveth he correcteth; even as a father the son in whom he delighteth.",
       "verse": 12,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "The  by wisdom hath founded the earth; by understanding hath he established the heavens.",
+      "text": "The Lord by wisdom hath founded the earth; by understanding hath he established the heavens.",
       "verse": 19,
       "type": "newline"
     },
@@ -128,7 +129,7 @@
       "type": "newline"
     },
     {
-      "text": "For the  shall be thy confidence, and shall keep thy foot from being taken.",
+      "text": "For the Lord shall be thy confidence, and shall keep thy foot from being taken.",
       "verse": 26,
       "type": "newline"
     },
@@ -158,12 +159,12 @@
       "type": "newline"
     },
     {
-      "text": "For the froward is abomination to the : but his secret is with the righteous.",
+      "text": "For the froward is abomination to the Lord: but his secret is with the righteous.",
       "verse": 32,
       "type": "newline"
     },
     {
-      "text": "The curse of the  is in the house of the wicked: but he blesseth the habitation of the just.",
+      "text": "The curse of the Lord is in the house of the wicked: but he blesseth the habitation of the just.",
       "verse": 33,
       "type": "newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 23,
+  "verses": 33,
   "content": [
     {
       "text": "Laws of Justice and Mercy",
@@ -102,7 +103,7 @@
       "type": "newline"
     },
     {
-      "text": "“Three times a year all the men are to appear before the Sovereign .",
+      "text": "“Three times a year all the men are to appear before the Sovereign Lord.",
       "verse": 17,
       "type": "newline"
     },
@@ -117,7 +118,7 @@
       "type": "newline"
     },
     {
-      "text": "“Bring the best of the firstfruits of your soil to the house of the  your God.",
+      "text": "“Bring the best of the firstfruits of your soil to the house of the Lord your God.",
       "verse": 19,
       "type": "newline"
     },
@@ -152,7 +153,7 @@
       "verse": 24
     },
     {
-      "text": "Worship the  your God, and his blessing will be on your food and water. I will take away sickness from among you,",
+      "text": "Worship the Lord your God, and his blessing will be on your food and water. I will take away sickness from among you,",
       "verse": 25
     },
     {

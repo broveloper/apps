@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 1,
+  "verses": 54,
   "content": [
     {
       "text": "A Census of Israel's Warriors",
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses in the wilderness of Sinai, in the tent of meeting, on the first day of the second month, in the second year after they had come out of the land of Egypt, saying,",
+      "text": "The Lord spoke to Moses in the wilderness of Sinai, in the tent of meeting, on the first day of the second month, in the second year after they had come out of the land of Egypt, saying,",
       "verse": 1,
       "type": "newline"
     },
@@ -82,7 +83,7 @@
       "verse": 18
     },
     {
-      "text": "as the  commanded Moses. So he listed them in the wilderness of Sinai.",
+      "text": "as the Lord commanded Moses. So he listed them in the wilderness of Sinai.",
       "verse": 19
     },
     {
@@ -216,7 +217,7 @@
       "type": "newline"
     },
     {
-      "text": "For the  spoke to Moses, saying,",
+      "text": "For the Lord spoke to Moses, saying,",
       "verse": 48
     },
     {
@@ -240,7 +241,7 @@
       "verse": 53
     },
     {
-      "text": "Thus did the people of Israel; they did according to all that the  commanded Moses.",
+      "text": "Thus did the people of Israel; they did according to all that the Lord commanded Moses.",
       "verse": 54
     }
   ]

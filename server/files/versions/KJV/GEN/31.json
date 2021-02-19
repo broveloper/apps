@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 31,
+  "verses": 55,
   "content": [
     {
       "text": "And he heard the words of Laban's sons, saying, Jacob hath taken away all that was our father's; and of that which was our father's hath he gotten all this glory.",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  said unto Jacob, Return unto the land of thy fathers, and to thy kindred; and I will be with thee.",
+      "text": "And the Lord said unto Jacob, Return unto the land of thy fathers, and to thy kindred; and I will be with thee.",
       "verse": 3,
       "type": "newline"
     },
@@ -243,7 +244,7 @@
       "type": "newline"
     },
     {
-      "text": "And Mizpah; for he said, The  watch between me and thee, when we are absent one from another.",
+      "text": "And Mizpah; for he said, The Lord watch between me and thee, when we are absent one from another.",
       "verse": 49,
       "type": "newline"
     },

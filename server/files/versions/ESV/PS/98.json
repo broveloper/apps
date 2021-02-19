@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 98,
+  "verses": 9,
   "content": [
     {
-      "text": "Make a Joyful Noise to the",
+      "text": "Make a Joyful Noise to the Lord",
       "type": "heading"
     },
     {
       "text": "A Psalm.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Oh sing to the  a new song,",
+      "text": "Oh sing to the Lord a new song,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has made known his salvation;",
+      "text": "The Lord has made known his salvation;",
       "verse": 2,
       "type": "poetry"
     },
@@ -63,7 +63,7 @@
       "type": "poetry"
     },
     {
-      "text": "Make a joyful noise to the , all the earth;",
+      "text": "Make a joyful noise to the Lord, all the earth;",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -73,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "Sing praises to the  with the lyre,",
+      "text": "Sing praises to the Lord with the lyre,",
       "verse": 5,
       "type": "poetry"
     },
@@ -88,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "make a joyful noise before the King, the !",
+      "text": "make a joyful noise before the King, the Lord!",
       "verse": 6,
       "type": "poetry"
     },
@@ -113,7 +113,7 @@
       "type": "poetry"
     },
     {
-      "text": "before the , for he comes",
+      "text": "before the Lord, for he comes",
       "verse": 9,
       "type": "poetry"
     },

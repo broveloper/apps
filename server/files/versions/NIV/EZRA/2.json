@@ -2,6 +2,7 @@
   "book_id": "EZRA",
   "book_name": "Ezra",
   "chapter": 2,
+  "verses": 70,
   "content": [
     {
       "text": "The List of the Exiles Who Returned",
@@ -526,7 +527,7 @@
       "verse": 67
     },
     {
-      "text": "When they arrived at the house of the  in Jerusalem, some of the heads of the families gave freewill offerings toward the rebuilding of the house of God on its site.",
+      "text": "When they arrived at the house of the Lord in Jerusalem, some of the heads of the families gave freewill offerings toward the rebuilding of the house of God on its site.",
       "verse": 68,
       "type": "newline"
     },

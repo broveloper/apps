@@ -2,6 +2,7 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 48,
+  "verses": 47,
   "content": [
     {
       "text": "A Message About Moab",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "This is what the  Almighty, the God of Israel, says:",
+      "text": "This is what the Lord Almighty, the God of Israel, says:",
       "verse": 1,
       "type": "newline"
     },
@@ -148,7 +149,7 @@
       "type": "poetry"
     },
     {
-      "text": "because the  has spoken.",
+      "text": "because the Lord has spoken.",
       "verse": 8,
       "type": "poetry"
     },
@@ -173,7 +174,7 @@
       "type": "poetry"
     },
     {
-      "text": "“A curse on anyone who is lax in doing the ’s work!",
+      "text": "“A curse on anyone who is lax in doing the Lord’s work!",
       "verse": 10,
       "type": "poetry newline"
     },
@@ -218,7 +219,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 12,
       "type": "poetry"
     },
@@ -278,7 +279,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the King, whose name is the  Almighty.",
+      "text": "declares the King, whose name is the Lord Almighty.",
       "verse": 15,
       "type": "poetry"
     },
@@ -393,17 +394,17 @@
       "type": "poetry"
     },
     {
-      "text": "to Dibon, Nebo and Beth Diblathaim,",
+      "text": "    to Dibon, Nebo and Beth Diblathaim,",
       "verse": 22,
       "type": "poetry"
     },
     {
-      "text": "to Kiriathaim, Beth Gamul and Beth Meon,",
+      "text": "    to Kiriathaim, Beth Gamul and Beth Meon,",
       "verse": 23,
       "type": "poetry"
     },
     {
-      "text": "to Kerioth and Bozrah—",
+      "text": "    to Kerioth and Bozrah—",
       "verse": 24,
       "type": "poetry"
     },
@@ -423,7 +424,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 25,
       "type": "poetry"
     },
@@ -433,7 +434,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "for she has defied the .",
+      "text": "for she has defied the Lord.",
       "verse": 26,
       "type": "poetry"
     },
@@ -513,7 +514,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 30,
       "type": "poetry"
     },
@@ -633,7 +634,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 35,
       "type": "poetry"
     },
@@ -698,7 +699,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 38,
       "type": "poetry"
     },
@@ -723,7 +724,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 40,
       "type": "newline"
     },
@@ -763,7 +764,7 @@
       "type": "poetry"
     },
     {
-      "text": "because she defied the .",
+      "text": "because she defied the Lord.",
       "verse": 42,
       "type": "poetry"
     },
@@ -778,7 +779,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 43,
       "type": "poetry"
     },
@@ -813,7 +814,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 44,
       "type": "poetry"
     },
@@ -878,7 +879,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 47,
       "type": "poetry"
     },

@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 24,
+  "verses": 25,
   "content": [
     {
       "text": "Balaam's Third Oracle",
       "type": "heading"
     },
     {
-      "text": "When Balaam saw that it pleased the  to bless Israel, he did not go, as at other times, to look for omens, but set his face toward the wilderness.",
+      "text": "When Balaam saw that it pleased the Lord to bless Israel, he did not go, as at other times, to look for omens, but set his face toward the wilderness.",
       "verse": 1,
       "type": "newline"
     },
@@ -66,7 +67,7 @@
       "type": "poetry"
     },
     {
-      "text": "like aloes that the  has planted,",
+      "text": "like aloes that the Lord has planted,",
       "verse": 6,
       "type": "poetry"
     },
@@ -146,7 +147,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore now flee to your own place. I said, ‘I will certainly honor you,’ but the  has held you back from honor.”",
+      "text": "Therefore now flee to your own place. I said, ‘I will certainly honor you,’ but the Lord has held you back from honor.”",
       "verse": 11
     },
     {
@@ -154,7 +155,7 @@
       "verse": 12
     },
     {
-      "text": "‘If Balak should give me his house full of silver and gold, I would not be able to go beyond the word of the , to do either good or bad of my own will. What the  speaks, that will I speak’?",
+      "text": "‘If Balak should give me his house full of silver and gold, I would not be able to go beyond the word of the Lord, to do either good or bad of my own will. What the Lord speaks, that will I speak’?",
       "verse": 13
     },
     {
@@ -306,7 +307,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "But ships shall come from Kittim",
+      "text": "    But ships shall come from Kittim",
       "verse": 24,
       "type": "poetry"
     },

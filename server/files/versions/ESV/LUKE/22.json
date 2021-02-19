@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 22,
+  "verses": 71,
   "content": [
     {
       "text": "The Plot to Kill Jesus",
@@ -47,7 +48,7 @@
       "type": "newline"
     },
     {
-      "text": "So Jesus sent Peter and John, saying,",
+      "text": "So Jesus sent Peter and John, saying, “Go and prepare the Passover for us, that we may eat it.”",
       "verse": 8
     },
     {
@@ -55,15 +56,15 @@
       "verse": 9
     },
     {
-      "text": "He said to them,",
+      "text": "He said to them, “Behold, when you have entered the city, a man carrying a jar of water will meet you. Follow him into the house that he enters",
       "verse": 10
     },
     {
-      "text": "",
+      "text": "and tell the master of the house, ‘The Teacher says to you, Where is the guest room, where I may eat the Passover with my disciples?’",
       "verse": 11
     },
     {
-      "text": "",
+      "text": "And he will show you a large upper room furnished; prepare it there.”",
       "verse": 12
     },
     {
@@ -80,35 +81,35 @@
       "type": "newline"
     },
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “I have earnestly desired to eat this Passover with you before I suffer.",
       "verse": 15
     },
     {
-      "text": "",
+      "text": "For I tell you I will not eat it until it is fulfilled in the kingdom of God.”",
       "verse": 16
     },
     {
-      "text": "And he took a cup, and when he had given thanks he said,",
+      "text": "And he took a cup, and when he had given thanks he said, “Take this, and divide it among yourselves.",
       "verse": 17
     },
     {
-      "text": "",
+      "text": "For I tell you that from now on I will not drink of the fruit of the vine until the kingdom of God comes.”",
       "verse": 18
     },
     {
-      "text": "And he took bread, and when he had given thanks, he broke it and gave it to them, saying,",
+      "text": "And he took bread, and when he had given thanks, he broke it and gave it to them, saying, “This is my body, which is given for you. Do this in remembrance of me.”",
       "verse": 19
     },
     {
-      "text": "And likewise the cup after they had eaten, saying,",
+      "text": "And likewise the cup after they had eaten, saying, “This cup that is poured out for you is the new covenant in my blood.",
       "verse": 20
     },
     {
-      "text": "",
+      "text": "But behold, the hand of him who betrays me is with me on the table.",
       "verse": 21
     },
     {
-      "text": "",
+      "text": "For the Son of Man goes as it has been determined, but woe to that man by whom he is betrayed!”",
       "verse": 22
     },
     {
@@ -125,28 +126,28 @@
       "type": "newline"
     },
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “The kings of the Gentiles exercise lordship over them, and those in authority over them are called benefactors.",
       "verse": 25
     },
     {
-      "text": "",
+      "text": "But not so with you. Rather, let the greatest among you become as the youngest, and the leader as one who serves.",
       "verse": 26
     },
     {
-      "text": "",
+      "text": "For who is the greater, one who reclines at table or one who serves? Is it not the one who reclines at table? But I am among you as the one who serves.",
       "verse": 27
     },
     {
-      "text": "",
+      "text": "“You are those who have stayed with me in my trials,",
       "verse": 28,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "and I assign to you, as my Father assigned to me, a kingdom,",
       "verse": 29
     },
     {
-      "text": "",
+      "text": "that you may eat and drink at my table in my kingdom and sit on thrones judging the twelve tribes of Israel.",
       "verse": 30
     },
     {
@@ -154,12 +155,12 @@
       "type": "heading"
     },
     {
-      "text": "",
+      "text": "“Simon, Simon, behold, Satan demanded to have you, that he might sift you like wheat,",
       "verse": 31,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "but I have prayed for you that your faith may not fail. And when you have turned again, strengthen your brothers.”",
       "verse": 32
     },
     {
@@ -167,7 +168,7 @@
       "verse": 33
     },
     {
-      "text": "Jesus said,",
+      "text": "Jesus said, “I tell you, Peter, the rooster will not crow this day, until you deny three times that you know me.”",
       "verse": 34
     },
     {
@@ -175,20 +176,20 @@
       "type": "heading"
     },
     {
-      "text": "And he said to them,  They said, “Nothing.”",
+      "text": "And he said to them, “When I sent you out with no moneybag or knapsack or sandals, did you lack anything?” They said, “Nothing.”",
       "verse": 35,
       "type": "newline"
     },
     {
-      "text": "He said to them,",
+      "text": "He said to them, “But now let the one who has a moneybag take it, and likewise a knapsack. And let the one who has no sword sell his cloak and buy one.",
       "verse": 36
     },
     {
-      "text": "",
+      "text": "For I tell you that this Scripture must be fulfilled in me: ‘And he was numbered with the transgressors.’ For what is written about me has its fulfillment.”",
       "verse": 37
     },
     {
-      "text": "And they said, “Look, Lord, here are two swords.” And he said to them,",
+      "text": "And they said, “Look, Lord, here are two swords.” And he said to them, “It is enough.”",
       "verse": 38
     },
     {
@@ -201,7 +202,7 @@
       "type": "newline"
     },
     {
-      "text": "And when he came to the place, he said to them,",
+      "text": "And when he came to the place, he said to them, “Pray that you may not enter into temptation.”",
       "verse": 40
     },
     {
@@ -209,7 +210,7 @@
       "verse": 41
     },
     {
-      "text": "saying,",
+      "text": "saying, “Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.”",
       "verse": 42
     },
     {
@@ -225,7 +226,7 @@
       "verse": 45
     },
     {
-      "text": "and he said to them,",
+      "text": "and he said to them, “Why are you sleeping? Rise and pray that you may not enter into temptation.”",
       "verse": 46
     },
     {
@@ -238,7 +239,7 @@
       "type": "newline"
     },
     {
-      "text": "but Jesus said to him,",
+      "text": "but Jesus said to him, “Judas, would you betray the Son of Man with a kiss?”",
       "verse": 48
     },
     {
@@ -250,15 +251,15 @@
       "verse": 50
     },
     {
-      "text": "But Jesus said,  And he touched his ear and healed him.",
+      "text": "But Jesus said, “No more of this!” And he touched his ear and healed him.",
       "verse": 51
     },
     {
-      "text": "Then Jesus said to the chief priests and officers of the temple and elders, who had come out against him,",
+      "text": "Then Jesus said to the chief priests and officers of the temple and elders, who had come out against him, “Have you come out as against a robber, with swords and clubs?",
       "verse": 52
     },
     {
-      "text": "",
+      "text": "When I was with you day after day in the temple, you did not lay hands on me. But this is your hour, and the power of darkness.”",
       "verse": 53
     },
     {
@@ -295,7 +296,7 @@
       "verse": 60
     },
     {
-      "text": "And the Lord turned and looked at Peter. And Peter remembered the saying of the Lord, how he had said to him,",
+      "text": "And the Lord turned and looked at Peter. And Peter remembered the saying of the Lord, how he had said to him, “Before the rooster crows today, you will deny me three times.”",
       "verse": 61
     },
     {
@@ -329,19 +330,19 @@
       "type": "newline"
     },
     {
-      "text": "“If you are the Christ, tell us.” But he said to them,",
+      "text": "“If you are the Christ, tell us.” But he said to them, “If I tell you, you will not believe,",
       "verse": 67
     },
     {
-      "text": "",
+      "text": "and if I ask you, you will not answer.",
       "verse": 68
     },
     {
-      "text": "",
+      "text": "But from now on the Son of Man shall be seated at the right hand of the power of God.”",
       "verse": 69
     },
     {
-      "text": "So they all said, “Are you the Son of God, then?” And he said to them,",
+      "text": "So they all said, “Are you the Son of God, then?” And he said to them, “You say that I am.”",
       "verse": 70
     },
     {

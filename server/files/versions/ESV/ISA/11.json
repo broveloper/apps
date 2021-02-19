@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 11,
+  "verses": 16,
   "content": [
     {
       "text": "The Righteous Reign of the Branch",
@@ -18,7 +19,7 @@
       "type": "poetry"
     },
     {
-      "text": "And the Spirit of the  shall rest upon him,",
+      "text": "And the Spirit of the Lord shall rest upon him,",
       "verse": 2,
       "type": "poetry"
     },
@@ -33,12 +34,12 @@
       "type": "poetry"
     },
     {
-      "text": "the Spirit of knowledge and the fear of the .",
+      "text": "the Spirit of knowledge and the fear of the Lord.",
       "verse": 2,
       "type": "poetry"
     },
     {
-      "text": "And his delight shall be in the fear of the .",
+      "text": "And his delight shall be in the fear of the Lord.",
       "verse": 3,
       "type": "poetry"
     },
@@ -138,7 +139,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the earth shall be full of the knowledge of the",
+      "text": "for the earth shall be full of the knowledge of the Lord",
       "verse": 9,
       "type": "poetry"
     },
@@ -218,7 +219,7 @@
       "type": "poetry"
     },
     {
-      "text": "And the  will utterly destroy",
+      "text": "And the Lord will utterly destroy",
       "verse": 15,
       "type": "poetry"
     },

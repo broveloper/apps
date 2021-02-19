@@ -2,6 +2,7 @@
   "book_id": "MARK",
   "book_name": "Mark",
   "chapter": 6,
+  "verses": 56,
   "content": [
     {
       "text": "Jesus Rejected at Nazareth",
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "And Jesus said to them,",
+      "text": "And Jesus said to them, “A prophet is not without honor, except in his hometown and among his relatives and in his own household.”",
       "verse": 4
     },
     {
@@ -55,11 +56,11 @@
       "verse": 9
     },
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “Whenever you enter a house, stay there until you depart from there.",
       "verse": 10
     },
     {
-      "text": "",
+      "text": "And if any place will not receive you and they will not listen to you, when you leave, shake off the dust that is on your feet as a testimony against them.”",
       "verse": 11
     },
     {
@@ -150,7 +151,7 @@
       "type": "newline"
     },
     {
-      "text": "And he said to them,  For many were coming and going, and they had no leisure even to eat.",
+      "text": "And he said to them, “Come away by yourselves to a desolate place and rest a while.” For many were coming and going, and they had no leisure even to eat.",
       "verse": 31
     },
     {
@@ -174,11 +175,11 @@
       "verse": 36
     },
     {
-      "text": "But he answered them,  And they said to him, “Shall we go and buy two hundred denarii worth of bread and give it to them to eat?”",
+      "text": "But he answered them, “You give them something to eat.” And they said to him, “Shall we go and buy two hundred denarii worth of bread and give it to them to eat?”",
       "verse": 37
     },
     {
-      "text": "And he said to them,  And when they had found out, they said, “Five, and two fish.”",
+      "text": "And he said to them, “How many loaves do you have? Go and see.” And when they had found out, they said, “Five, and two fish.”",
       "verse": 38
     },
     {
@@ -231,7 +232,7 @@
       "verse": 49
     },
     {
-      "text": "for they all saw him and were terrified. But immediately he spoke to them and said,",
+      "text": "for they all saw him and were terrified. But immediately he spoke to them and said, “Take heart; it is I. Do not be afraid.”",
       "verse": 50
     },
     {

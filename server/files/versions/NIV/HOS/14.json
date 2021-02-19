@@ -2,13 +2,14 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 14,
+  "verses": 9,
   "content": [
     {
       "text": "Repentance to Bring Blessing",
       "type": "heading"
     },
     {
-      "text": "Return, Israel, to the  your God.",
+      "text": "Return, Israel, to the Lord your God.",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,7 +24,7 @@
       "type": "poetry"
     },
     {
-      "text": "and return to the .",
+      "text": "and return to the Lord.",
       "verse": 2,
       "type": "poetry"
     },
@@ -108,7 +109,7 @@
       "type": "poetry"
     },
     {
-      "text": "his young shoots will grow.",
+      "text": "    his young shoots will grow.",
       "verse": 6,
       "type": "poetry"
     },
@@ -173,7 +174,7 @@
       "type": "poetry"
     },
     {
-      "text": "The ways of the  are right;",
+      "text": "The ways of the Lord are right;",
       "verse": 9,
       "type": "poetry"
     },

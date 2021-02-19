@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 123,
+  "verses": 4,
   "content": [
     {
       "text": "Psalm 123",
@@ -9,8 +10,7 @@
     },
     {
       "text": "A song of ascents.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "I lift up my eyes to you,",
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "so our eyes look to the  our God,",
+      "text": "so our eyes look to the Lord our God,",
       "verse": 2,
       "type": "poetry"
     },
@@ -43,7 +43,7 @@
       "type": "poetry"
     },
     {
-      "text": "Have mercy on us, , have mercy on us,",
+      "text": "Have mercy on us, Lord, have mercy on us,",
       "verse": 3,
       "type": "poetry newline"
     },

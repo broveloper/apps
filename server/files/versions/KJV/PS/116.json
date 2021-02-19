@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 116,
+  "verses": 19,
   "content": [
     {
-      "text": "I love the , because he hath heard my voice and my supplications.",
+      "text": "I love the Lord, because he hath heard my voice and my supplications.",
       "verse": 1
     },
     {
@@ -18,22 +19,22 @@
       "type": "newline"
     },
     {
-      "text": "Then called I upon the name of the ; O , I beseech thee, deliver my soul.",
+      "text": "Then called I upon the name of the Lord; O Lord, I beseech thee, deliver my soul.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "Gracious is the , and righteous; yea, our God is merciful.",
+      "text": "Gracious is the Lord, and righteous; yea, our God is merciful.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "The  preserveth the simple: I was brought low, and he helped me.",
+      "text": "The Lord preserveth the simple: I was brought low, and he helped me.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "Return unto thy rest, O my soul; for the  hath dealt bountifully with thee.",
+      "text": "Return unto thy rest, O my soul; for the Lord hath dealt bountifully with thee.",
       "verse": 7,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "I will walk before the  in the land of the living.",
+      "text": "I will walk before the Lord in the land of the living.",
       "verse": 9,
       "type": "newline"
     },
@@ -58,42 +59,42 @@
       "type": "newline"
     },
     {
-      "text": "What shall I render unto the  for all his benefits toward me?",
+      "text": "What shall I render unto the Lord for all his benefits toward me?",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "I will take the cup of salvation, and call upon the name of the .",
+      "text": "I will take the cup of salvation, and call upon the name of the Lord.",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "I will pay my vows unto the  now in the presence of all his people.",
+      "text": "I will pay my vows unto the Lord now in the presence of all his people.",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "Precious in the sight of the  is the death of his saints.",
+      "text": "Precious in the sight of the Lord is the death of his saints.",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "O , truly I am thy servant; I am thy servant, and the son of thine handmaid: thou hast loosed my bonds.",
+      "text": "O Lord, truly I am thy servant; I am thy servant, and the son of thine handmaid: thou hast loosed my bonds.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "I will offer to thee the sacrifice of thanksgiving, and will call upon the name of the .",
+      "text": "I will offer to thee the sacrifice of thanksgiving, and will call upon the name of the Lord.",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "I will pay my vows unto the  now in the presence of all his people.",
+      "text": "I will pay my vows unto the Lord now in the presence of all his people.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "In the courts of the 's house, in the midst of thee, O Jerusalem. Praise ye the .",
+      "text": "In the courts of the Lord's house, in the midst of thee, O Jerusalem. Praise ye the Lord.",
       "verse": 19,
       "type": "newline"
     }

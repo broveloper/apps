@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 34,
+  "verses": 22,
   "content": [
     {
       "text": "Psalm 34",
@@ -9,11 +10,10 @@
     },
     {
       "text": "Of David. When he pretended to be insane before Abimelek, who drove him away, and he left.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "I will extol the  at all times;",
+      "text": "I will extol the Lord at all times;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,7 +23,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will glory in the ;",
+      "text": "I will glory in the Lord;",
       "verse": 2,
       "type": "poetry"
     },
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "Glorify the  with me;",
+      "text": "Glorify the Lord with me;",
       "verse": 3,
       "type": "poetry"
     },
@@ -43,7 +43,7 @@
       "type": "poetry"
     },
     {
-      "text": "I sought the , and he answered me;",
+      "text": "I sought the Lord, and he answered me;",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -63,7 +63,7 @@
       "type": "poetry"
     },
     {
-      "text": "This poor man called, and the  heard him;",
+      "text": "This poor man called, and the Lord heard him;",
       "verse": 6,
       "type": "poetry"
     },
@@ -73,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "The angel of the  encamps around those who fear him,",
+      "text": "The angel of the Lord encamps around those who fear him,",
       "verse": 7,
       "type": "poetry"
     },
@@ -83,7 +83,7 @@
       "type": "poetry"
     },
     {
-      "text": "Taste and see that the  is good;",
+      "text": "Taste and see that the Lord is good;",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -93,7 +93,7 @@
       "type": "poetry"
     },
     {
-      "text": "Fear the , you his holy people,",
+      "text": "Fear the Lord, you his holy people,",
       "verse": 9,
       "type": "poetry"
     },
@@ -108,7 +108,7 @@
       "type": "poetry"
     },
     {
-      "text": "but those who seek the  lack no good thing.",
+      "text": "but those who seek the Lord lack no good thing.",
       "verse": 10,
       "type": "poetry"
     },
@@ -118,7 +118,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will teach you the fear of the .",
+      "text": "I will teach you the fear of the Lord.",
       "verse": 11,
       "type": "poetry"
     },
@@ -153,7 +153,7 @@
       "type": "poetry"
     },
     {
-      "text": "The eyes of the  are on the righteous,",
+      "text": "The eyes of the Lord are on the righteous,",
       "verse": 15,
       "type": "poetry newline"
     },
@@ -163,7 +163,7 @@
       "type": "poetry"
     },
     {
-      "text": "but the face of the  is against those who do evil,",
+      "text": "but the face of the Lord is against those who do evil,",
       "verse": 16,
       "type": "poetry"
     },
@@ -173,7 +173,7 @@
       "type": "poetry"
     },
     {
-      "text": "The righteous cry out, and the  hears them;",
+      "text": "The righteous cry out, and the Lord hears them;",
       "verse": 17,
       "type": "poetry newline"
     },
@@ -183,7 +183,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is close to the brokenhearted",
+      "text": "The Lord is close to the brokenhearted",
       "verse": 18,
       "type": "poetry"
     },
@@ -198,7 +198,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "but the  delivers him from them all;",
+      "text": "but the Lord delivers him from them all;",
       "verse": 19,
       "type": "poetry"
     },
@@ -223,7 +223,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  will rescue his servants;",
+      "text": "The Lord will rescue his servants;",
       "verse": 22,
       "type": "poetry"
     },

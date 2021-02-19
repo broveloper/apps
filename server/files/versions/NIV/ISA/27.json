@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 27,
+  "verses": 13,
   "content": [
     {
       "text": "Deliverance of Israel",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "the  will punish with his sword—",
+      "text": "the Lord will punish with his sword—",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -48,7 +49,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "I, the , watch over it;",
+      "text": "    I, the Lord, watch over it;",
       "verse": 3,
       "type": "poetry"
     },
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "I am not angry.",
+      "text": "    I am not angry.",
       "verse": 4,
       "type": "poetry"
     },
@@ -118,7 +119,7 @@
       "type": "poetry"
     },
     {
-      "text": "Has the  struck her",
+      "text": "Has the Lord struck her",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -233,12 +234,12 @@
       "type": "poetry"
     },
     {
-      "text": "In that day the  will thresh from the flowing Euphrates to the Wadi of Egypt, and you, Israel, will be gathered up one by one.",
+      "text": "In that day the Lord will thresh from the flowing Euphrates to the Wadi of Egypt, and you, Israel, will be gathered up one by one.",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "And in that day a great trumpet will sound. Those who were perishing in Assyria and those who were exiled in Egypt will come and worship the  on the holy mountain in Jerusalem.",
+      "text": "And in that day a great trumpet will sound. Those who were perishing in Assyria and those who were exiled in Egypt will come and worship the Lord on the holy mountain in Jerusalem.",
       "verse": 13
     }
   ]

@@ -2,6 +2,7 @@
   "book_id": "AMOS",
   "book_name": "Amos",
   "chapter": 5,
+  "verses": 27,
   "content": [
     {
       "text": "A Lament and Call to Repentance",
@@ -33,7 +34,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the Sovereign  says to Israel:",
+      "text": "This is what the Sovereign Lord says to Israel:",
       "verse": 3,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the  says to Israel:",
+      "text": "This is what the Lord says to Israel:",
       "verse": 4,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "do not seek Bethel,",
+      "text": "    do not seek Bethel,",
       "verse": 5,
       "type": "poetry"
     },
@@ -93,7 +94,7 @@
       "type": "poetry"
     },
     {
-      "text": "Seek the  and live,",
+      "text": "Seek the Lord and live,",
       "verse": 6,
       "type": "poetry"
     },
@@ -148,7 +149,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  is his name.",
+      "text": "the Lord is his name.",
       "verse": 8,
       "type": "poetry"
     },
@@ -243,7 +244,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then the  God Almighty will be with you,",
+      "text": "Then the Lord God Almighty will be with you,",
       "verse": 14,
       "type": "poetry"
     },
@@ -263,7 +264,7 @@
       "type": "poetry"
     },
     {
-      "text": "Perhaps the  God Almighty will have mercy",
+      "text": "Perhaps the Lord God Almighty will have mercy",
       "verse": 15,
       "type": "poetry"
     },
@@ -273,7 +274,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore this is what the Lord, the  God Almighty, says:",
+      "text": "Therefore this is what the Lord, the Lord God Almighty, says:",
       "verse": 16,
       "type": "newline"
     },
@@ -308,12 +309,12 @@
       "type": "poetry"
     },
     {
-      "text": "says the .",
+      "text": "says the Lord.",
       "verse": 17,
       "type": "poetry"
     },
     {
-      "text": "The Day of the",
+      "text": "The Day of the Lord",
       "type": "heading"
     },
     {
@@ -322,12 +323,12 @@
       "type": "poetry newline"
     },
     {
-      "text": "for the day of the !",
+      "text": "for the day of the Lord!",
       "verse": 18,
       "type": "poetry"
     },
     {
-      "text": "Why do you long for the day of the ?",
+      "text": "Why do you long for the day of the Lord?",
       "verse": 18,
       "type": "poetry"
     },
@@ -362,7 +363,7 @@
       "type": "poetry"
     },
     {
-      "text": "Will not the day of the  be darkness, not light—",
+      "text": "Will not the day of the Lord be darkness, not light—",
       "verse": 20,
       "type": "poetry"
     },
@@ -457,7 +458,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the , whose name is God Almighty.",
+      "text": "says the Lord, whose name is God Almighty.",
       "verse": 27,
       "type": "poetry"
     }

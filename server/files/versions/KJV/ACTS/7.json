@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 7,
+  "verses": 60,
   "content": [
     {
       "text": "Then said the high priest, Are these things so?",
@@ -153,7 +154,7 @@
       "type": "newline"
     },
     {
-      "text": "When Moses saw it, he wondered at the sight: and as he drew near to behold it, the voice of the  came unto him,",
+      "text": "When Moses saw it, he wondered at the sight: and as he drew near to behold it, the voice of the Lord came unto him,",
       "verse": 31,
       "type": "newline"
     },

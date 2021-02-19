@@ -2,9 +2,10 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 11,
+  "verses": 47,
   "content": [
     {
-      "text": "And the  spake unto Moses and to Aaron, saying unto them,",
+      "text": "And the Lord spake unto Moses and to Aaron, saying unto them,",
       "verse": 1
     },
     {
@@ -218,12 +219,12 @@
       "type": "newline"
     },
     {
-      "text": "For I am the  your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.",
+      "text": "For I am the Lord your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.",
       "verse": 44,
       "type": "newline"
     },
     {
-      "text": "For I am the  that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I am holy.",
+      "text": "For I am the Lord that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I am holy.",
       "verse": 45,
       "type": "newline"
     },

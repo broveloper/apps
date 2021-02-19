@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 9,
+  "verses": 29,
   "content": [
     {
       "text": "And God blessed Noah and his sons and said to them, “Be fruitful and multiply and fill the earth.",
@@ -138,7 +139,7 @@
       "type": "newline"
     },
     {
-      "text": "“Blessed be the , the God of Shem;",
+      "text": "“Blessed be the Lord, the God of Shem;",
       "verse": 26,
       "type": "poetry newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 9,
+  "verses": 43,
   "content": [
     {
       "text": "The Conversion of Saul",
@@ -21,15 +22,15 @@
       "verse": 3
     },
     {
-      "text": "And falling to the ground, he heard a voice saying to him,",
+      "text": "And falling to the ground, he heard a voice saying to him, “Saul, Saul, why are you persecuting me?”",
       "verse": 4
     },
     {
-      "text": "And he said, “Who are you, Lord?” And he said,",
+      "text": "And he said, “Who are you, Lord?” And he said, “I am Jesus, whom you are persecuting.",
       "verse": 5
     },
     {
-      "text": "",
+      "text": "But rise and enter the city, and you will be told what you are to do.”",
       "verse": 6
     },
     {
@@ -45,16 +46,16 @@
       "verse": 9
     },
     {
-      "text": "Now there was a disciple at Damascus named Ananias. The Lord said to him in a vision,  And he said, “Here I am, Lord.”",
+      "text": "Now there was a disciple at Damascus named Ananias. The Lord said to him in a vision, “Ananias.” And he said, “Here I am, Lord.”",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "And the Lord said to him,",
+      "text": "And the Lord said to him, “Rise and go to the street called Straight, and at the house of Judas look for a man of Tarsus named Saul, for behold, he is praying,",
       "verse": 11
     },
     {
-      "text": "",
+      "text": "and he has seen in a vision a man named Ananias come in and lay his hands on him so that he might regain his sight.”",
       "verse": 12
     },
     {
@@ -66,11 +67,11 @@
       "verse": 14
     },
     {
-      "text": "But the Lord said to him,",
+      "text": "But the Lord said to him, “Go, for he is a chosen instrument of mine to carry my name before the Gentiles and kings and the children of Israel.",
       "verse": 15
     },
     {
-      "text": "",
+      "text": "For I will show him how much he must suffer for the sake of my name.”",
       "verse": 16
     },
     {

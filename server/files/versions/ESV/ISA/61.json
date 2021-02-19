@@ -2,18 +2,19 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 61,
+  "verses": 11,
   "content": [
     {
-      "text": "The Year of the 's Favor",
+      "text": "The Year of the Lord's Favor",
       "type": "heading"
     },
     {
-      "text": "The Spirit of the Lord  is upon me,",
+      "text": "The Spirit of the Lord God is upon me,",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "because the  has anointed me",
+      "text": "because the Lord has anointed me",
       "verse": 1,
       "type": "poetry"
     },
@@ -38,7 +39,7 @@
       "type": "poetry"
     },
     {
-      "text": "to proclaim the year of the 's favor,",
+      "text": "to proclaim the year of the Lord's favor,",
       "verse": 2,
       "type": "poetry"
     },
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "the planting of the , that he may be glorified.",
+      "text": "the planting of the Lord, that he may be glorified.",
       "verse": 3,
       "type": "poetry"
     },
@@ -113,7 +114,7 @@
       "type": "poetry"
     },
     {
-      "text": "but you shall be called the priests of the ;",
+      "text": "but you shall be called the priests of the Lord;",
       "verse": 6,
       "type": "poetry"
     },
@@ -153,7 +154,7 @@
       "type": "poetry"
     },
     {
-      "text": "For I the  love justice;",
+      "text": "For I the Lord love justice;",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -188,12 +189,12 @@
       "type": "poetry"
     },
     {
-      "text": "that they are an offspring the  has blessed.",
+      "text": "that they are an offspring the Lord has blessed.",
       "verse": 9,
       "type": "poetry"
     },
     {
-      "text": "I will greatly rejoice in the ;",
+      "text": "I will greatly rejoice in the Lord;",
       "verse": 10,
       "type": "poetry newline"
     },
@@ -233,7 +234,7 @@
       "type": "poetry"
     },
     {
-      "text": "so the Lord  will cause righteousness and praise",
+      "text": "so the Lord God will cause righteousness and praise",
       "verse": 11,
       "type": "poetry"
     },

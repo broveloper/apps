@@ -2,9 +2,10 @@
   "book_id": "MIC",
   "book_name": "Micah",
   "chapter": 4,
+  "verses": 13,
   "content": [
     {
-      "text": "The Mountain of the",
+      "text": "The Mountain of the Lord",
       "type": "heading"
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "the mountain of the ’s temple will be established",
+      "text": "the mountain of the Lord’s temple will be established",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "“Come, let us go up to the mountain of the ,",
+      "text": "“Come, let us go up to the mountain of the Lord,",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -63,7 +64,7 @@
       "type": "poetry"
     },
     {
-      "text": "the word of the  from Jerusalem.",
+      "text": "the word of the Lord from Jerusalem.",
       "verse": 2,
       "type": "poetry"
     },
@@ -113,7 +114,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  Almighty has spoken.",
+      "text": "for the Lord Almighty has spoken.",
       "verse": 4,
       "type": "poetry"
     },
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "but we will walk in the name of the",
+      "text": "but we will walk in the name of the Lord",
       "verse": 5,
       "type": "poetry"
     },
@@ -138,11 +139,11 @@
       "type": "poetry"
     },
     {
-      "text": "The ’s Plan",
+      "text": "The Lord’s Plan",
       "type": "heading"
     },
     {
-      "text": "“In that day,” declares the ,",
+      "text": "“In that day,” declares the Lord,",
       "verse": 6,
       "type": "newline"
     },
@@ -172,7 +173,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  will rule over them in Mount Zion",
+      "text": "The Lord will rule over them in Mount Zion",
       "verse": 7,
       "type": "poetry"
     },
@@ -252,7 +253,7 @@
       "type": "poetry"
     },
     {
-      "text": "There the  will redeem you",
+      "text": "There the Lord will redeem you",
       "verse": 10,
       "type": "poetry"
     },
@@ -287,7 +288,7 @@
       "type": "poetry"
     },
     {
-      "text": "the thoughts of the ;",
+      "text": "the thoughts of the Lord;",
       "verse": 12,
       "type": "poetry"
     },
@@ -322,7 +323,7 @@
       "type": "poetry"
     },
     {
-      "text": "You will devote their ill-gotten gains to the ,",
+      "text": "You will devote their ill-gotten gains to the Lord,",
       "verse": 13,
       "type": "poetry"
     },

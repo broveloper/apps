@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 133,
+  "verses": 3,
   "content": [
     {
       "text": "Psalm 133",
@@ -9,8 +10,7 @@
     },
     {
       "text": "A song of ascents. Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "How good and pleasant it is",
@@ -53,7 +53,7 @@
       "type": "poetry"
     },
     {
-      "text": "For there the  bestows his blessing,",
+      "text": "For there the Lord bestows his blessing,",
       "verse": 3,
       "type": "poetry"
     },

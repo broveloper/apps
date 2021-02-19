@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 116,
+  "verses": 19,
   "content": [
     {
       "text": "Psalm 116",
       "type": "heading"
     },
     {
-      "text": "I love the , for he heard my voice;",
+      "text": "I love the Lord, for he heard my voice;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -43,17 +44,17 @@
       "type": "poetry"
     },
     {
-      "text": "Then I called on the name of the :",
+      "text": "Then I called on the name of the Lord:",
       "verse": 4,
       "type": "poetry"
     },
     {
-      "text": "“, save me!”",
+      "text": "“Lord, save me!”",
       "verse": 4,
       "type": "poetry"
     },
     {
-      "text": "The  is gracious and righteous;",
+      "text": "The Lord is gracious and righteous;",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -63,7 +64,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  protects the unwary;",
+      "text": "The Lord protects the unwary;",
       "verse": 6,
       "type": "poetry"
     },
@@ -78,12 +79,12 @@
       "type": "poetry newline"
     },
     {
-      "text": "for the  has been good to you.",
+      "text": "for the Lord has been good to you.",
       "verse": 7,
       "type": "poetry"
     },
     {
-      "text": "For you, , have delivered me from death,",
+      "text": "For you, Lord, have delivered me from death,",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -98,7 +99,7 @@
       "type": "poetry"
     },
     {
-      "text": "that I may walk before the",
+      "text": "that I may walk before the Lord",
       "verse": 9,
       "type": "poetry"
     },
@@ -108,7 +109,7 @@
       "type": "poetry"
     },
     {
-      "text": "I trusted in the  when I said,",
+      "text": "I trusted in the Lord when I said,",
       "verse": 10,
       "type": "poetry newline"
     },
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "What shall I return to the",
+      "text": "What shall I return to the Lord",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -143,12 +144,12 @@
       "type": "poetry newline"
     },
     {
-      "text": "and call on the name of the .",
+      "text": "and call on the name of the Lord.",
       "verse": 13,
       "type": "poetry"
     },
     {
-      "text": "I will fulfill my vows to the",
+      "text": "I will fulfill my vows to the Lord",
       "verse": 14,
       "type": "poetry"
     },
@@ -158,7 +159,7 @@
       "type": "poetry"
     },
     {
-      "text": "Precious in the sight of the",
+      "text": "Precious in the sight of the Lord",
       "verse": 15,
       "type": "poetry newline"
     },
@@ -168,7 +169,7 @@
       "type": "poetry"
     },
     {
-      "text": "Truly I am your servant, ;",
+      "text": "Truly I am your servant, Lord;",
       "verse": 16,
       "type": "poetry"
     },
@@ -188,12 +189,12 @@
       "type": "poetry newline"
     },
     {
-      "text": "and call on the name of the .",
+      "text": "and call on the name of the Lord.",
       "verse": 17,
       "type": "poetry"
     },
     {
-      "text": "I will fulfill my vows to the",
+      "text": "I will fulfill my vows to the Lord",
       "verse": 18,
       "type": "poetry"
     },
@@ -203,7 +204,7 @@
       "type": "poetry"
     },
     {
-      "text": "in the courts of the house of the —",
+      "text": "in the courts of the house of the Lord—",
       "verse": 19,
       "type": "poetry"
     },
@@ -213,7 +214,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the .",
+      "text": "Praise the Lord.",
       "verse": 19,
       "type": "poetry newline"
     }

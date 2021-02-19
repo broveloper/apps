@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 11,
+  "verses": 15,
   "content": [
     {
       "text": "Then Nahash the Ammonite came up, and encamped against Jabeshgilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee.",
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "And he took a yoke of oxen, and hewed them in pieces, and sent them throughout all the coasts of Israel by the hands of messengers, saying, Whosoever cometh not forth after Saul and after Samuel, so shall it be done unto his oxen. And the fear of the  fell on the people, and they came out with one consent.",
+      "text": "And he took a yoke of oxen, and hewed them in pieces, and sent them throughout all the coasts of Israel by the hands of messengers, saying, Whosoever cometh not forth after Saul and after Samuel, so shall it be done unto his oxen. And the fear of the Lord fell on the people, and they came out with one consent.",
       "verse": 7,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "And Saul said, There shall not a man be put to death this day: for to day the  hath wrought salvation in Israel.",
+      "text": "And Saul said, There shall not a man be put to death this day: for to day the Lord hath wrought salvation in Israel.",
       "verse": 13,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "And all the people went to Gilgal; and there they made Saul king before the  in Gilgal; and there they sacrificed sacrifices of peace offerings before the ; and there Saul and all the men of Israel rejoiced greatly.",
+      "text": "And all the people went to Gilgal; and there they made Saul king before the Lord in Gilgal; and there they sacrificed sacrifices of peace offerings before the Lord; and there Saul and all the men of Israel rejoiced greatly.",
       "verse": 15,
       "type": "newline"
     }

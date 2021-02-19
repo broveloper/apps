@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 9,
+  "verses": 23,
   "content": [
     {
       "text": "The Passover",
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses in the Desert of Sinai in the first month of the second year after they came out of Egypt. He said,",
+      "text": "The Lord spoke to Moses in the Desert of Sinai in the first month of the second year after they came out of Egypt. He said,",
       "verse": 1,
       "type": "newline"
     },
@@ -26,7 +27,7 @@
       "type": "newline"
     },
     {
-      "text": "and they did so in the Desert of Sinai at twilight on the fourteenth day of the first month. The Israelites did everything just as the  commanded Moses.",
+      "text": "and they did so in the Desert of Sinai at twilight on the fourteenth day of the first month. The Israelites did everything just as the Lord commanded Moses.",
       "verse": 5
     },
     {
@@ -35,21 +36,21 @@
       "type": "newline"
     },
     {
-      "text": "and said to Moses, “We have become unclean because of a dead body, but why should we be kept from presenting the ’s offering with the other Israelites at the appointed time?”",
+      "text": "and said to Moses, “We have become unclean because of a dead body, but why should we be kept from presenting the Lord’s offering with the other Israelites at the appointed time?”",
       "verse": 7
     },
     {
-      "text": "Moses answered them, “Wait until I find out what the  commands concerning you.”",
+      "text": "Moses answered them, “Wait until I find out what the Lord commands concerning you.”",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "Then the  said to Moses,",
+      "text": "Then the Lord said to Moses,",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "“Tell the Israelites: ‘When any of you or your descendants are unclean because of a dead body or are away on a journey, they are still to celebrate the ’s Passover,",
+      "text": "“Tell the Israelites: ‘When any of you or your descendants are unclean because of a dead body or are away on a journey, they are still to celebrate the Lord’s Passover,",
       "verse": 10
     },
     {
@@ -61,11 +62,11 @@
       "verse": 12
     },
     {
-      "text": "But if anyone who is ceremonially clean and not on a journey fails to celebrate the Passover, they must be cut off from their people for not presenting the ’s offering at the appointed time. They will bear the consequences of their sin.",
+      "text": "But if anyone who is ceremonially clean and not on a journey fails to celebrate the Passover, they must be cut off from their people for not presenting the Lord’s offering at the appointed time. They will bear the consequences of their sin.",
       "verse": 13
     },
     {
-      "text": "“‘A foreigner residing among you is also to celebrate the ’s Passover in accordance with its rules and regulations. You must have the same regulations for both the foreigner and the native-born.’”",
+      "text": "“‘A foreigner residing among you is also to celebrate the Lord’s Passover in accordance with its rules and regulations. You must have the same regulations for both the foreigner and the native-born.’”",
       "verse": 14,
       "type": "newline"
     },
@@ -87,15 +88,15 @@
       "verse": 17
     },
     {
-      "text": "At the ’s command the Israelites set out, and at his command they encamped. As long as the cloud stayed over the tabernacle, they remained in camp.",
+      "text": "At the Lord’s command the Israelites set out, and at his command they encamped. As long as the cloud stayed over the tabernacle, they remained in camp.",
       "verse": 18
     },
     {
-      "text": "When the cloud remained over the tabernacle a long time, the Israelites obeyed the ’s order and did not set out.",
+      "text": "When the cloud remained over the tabernacle a long time, the Israelites obeyed the Lord’s order and did not set out.",
       "verse": 19
     },
     {
-      "text": "Sometimes the cloud was over the tabernacle only a few days; at the ’s command they would encamp, and then at his command they would set out.",
+      "text": "Sometimes the cloud was over the tabernacle only a few days; at the Lord’s command they would encamp, and then at his command they would set out.",
       "verse": 20
     },
     {
@@ -107,7 +108,7 @@
       "verse": 22
     },
     {
-      "text": "At the ’s command they encamped, and at the ’s command they set out. They obeyed the ’s order, in accordance with his command through Moses.",
+      "text": "At the Lord’s command they encamped, and at the Lord’s command they set out. They obeyed the Lord’s order, in accordance with his command through Moses.",
       "verse": 23
     }
   ]

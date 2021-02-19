@@ -2,6 +2,7 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 22,
+  "verses": 31,
   "content": [
     {
       "text": "If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep.",
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "Then shall an oath of the  be between them both, that he hath not put his hand unto his neighbour's goods; and the owner of it shall accept thereof, and he shall not make it good.",
+      "text": "Then shall an oath of the Lord be between them both, that he hath not put his hand unto his neighbour's goods; and the owner of it shall accept thereof, and he shall not make it good.",
       "verse": 11,
       "type": "newline"
     },
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "He that sacrificeth unto any god, save unto the  only, he shall be utterly destroyed.",
+      "text": "He that sacrificeth unto any god, save unto the Lord only, he shall be utterly destroyed.",
       "verse": 20,
       "type": "newline"
     },

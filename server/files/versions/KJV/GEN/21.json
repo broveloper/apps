@@ -2,9 +2,10 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 21,
+  "verses": 34,
   "content": [
     {
-      "text": "And the  visited Sarah as he had said, and the  did unto Sarah as he had spoken.",
+      "text": "And the Lord visited Sarah as he had said, and the Lord did unto Sarah as he had spoken.",
       "verse": 1
     },
     {
@@ -163,7 +164,7 @@
       "type": "newline"
     },
     {
-      "text": "And Abraham planted a grove in Beersheba, and called there on the name of the , the everlasting God.",
+      "text": "And Abraham planted a grove in Beersheba, and called there on the name of the Lord, the everlasting God.",
       "verse": 33,
       "type": "newline"
     },

@@ -2,9 +2,10 @@
   "book_id": "2CHR",
   "book_name": "2 Chronicles",
   "chapter": 1,
+  "verses": 17,
   "content": [
     {
-      "text": "And Solomon the son of David was strengthened in his kingdom, and the  his God was with him, and magnified him exceedingly.",
+      "text": "And Solomon the son of David was strengthened in his kingdom, and the Lord his God was with him, and magnified him exceedingly.",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "So Solomon, and all the congregation with him, went to the high place that was at Gibeon; for there was the tabernacle of the congregation of God, which Moses the servant of the  had made in the wilderness.",
+      "text": "So Solomon, and all the congregation with him, went to the high place that was at Gibeon; for there was the tabernacle of the congregation of God, which Moses the servant of the Lord had made in the wilderness.",
       "verse": 3,
       "type": "newline"
     },
@@ -23,12 +24,12 @@
       "type": "newline"
     },
     {
-      "text": "Moreover the brasen altar, that Bezaleel the son of Uri, the son of Hur, had made, he put before the tabernacle of the : and Solomon and the congregation sought unto it.",
+      "text": "Moreover the brasen altar, that Bezaleel the son of Uri, the son of Hur, had made, he put before the tabernacle of the Lord: and Solomon and the congregation sought unto it.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "And Solomon went up thither to the brasen altar before the , which was at the tabernacle of the congregation, and offered a thousand burnt offerings upon it.",
+      "text": "And Solomon went up thither to the brasen altar before the Lord, which was at the tabernacle of the congregation, and offered a thousand burnt offerings upon it.",
       "verse": 6,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "Now, O  God, let thy promise unto David my father be established: for thou hast made me king over a people like the dust of the earth in multitude.",
+      "text": "Now, O Lord God, let thy promise unto David my father be established: for thou hast made me king over a people like the dust of the earth in multitude.",
       "verse": 9,
       "type": "newline"
     },

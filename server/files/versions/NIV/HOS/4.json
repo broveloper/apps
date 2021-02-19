@@ -2,18 +2,19 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 4,
+  "verses": 19,
   "content": [
     {
       "text": "The Charge Against Israel",
       "type": "heading"
     },
     {
-      "text": "Hear the word of the , you Israelites,",
+      "text": "Hear the word of the Lord, you Israelites,",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "because the  has a charge to bring",
+      "text": "because the Lord has a charge to bring",
       "verse": 1,
       "type": "poetry"
     },
@@ -108,7 +109,7 @@
       "type": "poetry"
     },
     {
-      "text": "my people are destroyed from lack of knowledge.",
+      "text": "    my people are destroyed from lack of knowledge.",
       "verse": 6,
       "type": "poetry"
     },
@@ -183,7 +184,7 @@
       "type": "poetry"
     },
     {
-      "text": "because they have deserted the",
+      "text": "because they have deserted the Lord",
       "verse": 10,
       "type": "poetry"
     },
@@ -313,7 +314,7 @@
       "type": "poetry"
     },
     {
-      "text": "And do not swear, ‘As surely as the  lives!’",
+      "text": "And do not swear, ‘As surely as the Lord lives!’",
       "verse": 15,
       "type": "poetry"
     },
@@ -328,7 +329,7 @@
       "type": "poetry"
     },
     {
-      "text": "How then can the  pasture them",
+      "text": "How then can the Lord pasture them",
       "verse": 16,
       "type": "poetry"
     },

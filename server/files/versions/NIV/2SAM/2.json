@@ -2,18 +2,19 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 2,
+  "verses": 32,
   "content": [
     {
       "text": "David Anointed King Over Judah",
       "type": "heading"
     },
     {
-      "text": "In the course of time, David inquired of the . “Shall I go up to one of the towns of Judah?” he asked.",
+      "text": "In the course of time, David inquired of the Lord. “Shall I go up to one of the towns of Judah?” he asked.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "The  said, “Go up.”",
+      "text": "The Lord said, “Go up.”",
       "verse": 1,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "“To Hebron,” the  answered.",
+      "text": "“To Hebron,” the Lord answered.",
       "verse": 1,
       "type": "newline"
     },
@@ -46,11 +47,11 @@
       "type": "newline"
     },
     {
-      "text": "he sent messengers to them to say to them, “The  bless you for showing this kindness to Saul your master by burying him.",
+      "text": "he sent messengers to them to say to them, “The Lord bless you for showing this kindness to Saul your master by burying him.",
       "verse": 5
     },
     {
-      "text": "May the  now show you kindness and faithfulness, and I too will show you the same favor because you have done this.",
+      "text": "May the Lord now show you kindness and faithfulness, and I too will show you the same favor because you have done this.",
       "verse": 6
     },
     {

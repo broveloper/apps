@@ -2,13 +2,14 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 45,
+  "verses": 25,
   "content": [
     {
       "text": "Cyrus, God's Instrument",
       "type": "heading"
     },
     {
-      "text": "Thus says the  to his anointed, to Cyrus,",
+      "text": "Thus says the Lord to his anointed, to Cyrus,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "that you may know that it is I, the ,",
+      "text": "that you may know that it is I, the Lord,",
       "verse": 3,
       "type": "poetry"
     },
@@ -98,7 +99,7 @@
       "type": "poetry"
     },
     {
-      "text": "I am the , and there is no other,",
+      "text": "I am the Lord, and there is no other,",
       "verse": 5,
       "type": "poetry"
     },
@@ -123,7 +124,7 @@
       "type": "poetry"
     },
     {
-      "text": "I am the , and there is no other.",
+      "text": "I am the Lord, and there is no other.",
       "verse": 6,
       "type": "poetry"
     },
@@ -138,7 +139,7 @@
       "type": "poetry"
     },
     {
-      "text": "I am the , who does all these things.",
+      "text": "I am the Lord, who does all these things.",
       "verse": 7,
       "type": "poetry"
     },
@@ -163,7 +164,7 @@
       "type": "poetry"
     },
     {
-      "text": "I the  have created it.",
+      "text": "I the Lord have created it.",
       "verse": 8,
       "type": "poetry"
     },
@@ -198,7 +199,7 @@
       "type": "poetry"
     },
     {
-      "text": "Thus says the ,",
+      "text": "Thus says the Lord,",
       "verse": 11,
       "type": "poetry newline"
     },
@@ -263,16 +264,16 @@
       "type": "poetry"
     },
     {
-      "text": "says the  of hosts.",
+      "text": "says the Lord of hosts.",
       "verse": 13,
       "type": "poetry"
     },
     {
-      "text": "The , the Only Savior",
+      "text": "The Lord, the Only Savior",
       "type": "heading"
     },
     {
-      "text": "Thus says the :",
+      "text": "Thus says the Lord:",
       "verse": 14,
       "type": "poetry newline"
     },
@@ -337,7 +338,7 @@
       "type": "poetry"
     },
     {
-      "text": "But Israel is saved by the",
+      "text": "But Israel is saved by the Lord",
       "verse": 17,
       "type": "poetry"
     },
@@ -357,7 +358,7 @@
       "type": "poetry"
     },
     {
-      "text": "For thus says the ,",
+      "text": "For thus says the Lord,",
       "verse": 18,
       "type": "poetry newline"
     },
@@ -392,7 +393,7 @@
       "type": "poetry"
     },
     {
-      "text": "“I am the , and there is no other.",
+      "text": "“I am the Lord, and there is no other.",
       "verse": 18,
       "type": "poetry"
     },
@@ -417,7 +418,7 @@
       "type": "poetry"
     },
     {
-      "text": "I the  speak the truth;",
+      "text": "I the Lord speak the truth;",
       "verse": 19,
       "type": "poetry"
     },
@@ -482,7 +483,7 @@
       "type": "poetry"
     },
     {
-      "text": "Was it not I, the ?",
+      "text": "Was it not I, the Lord?",
       "verse": 21,
       "type": "poetry"
     },
@@ -542,7 +543,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Only in the , it shall be said of me,",
+      "text": "“Only in the Lord, it shall be said of me,",
       "verse": 24,
       "type": "poetry newline"
     },
@@ -562,7 +563,7 @@
       "type": "poetry"
     },
     {
-      "text": "In the  all the offspring of Israel",
+      "text": "In the Lord all the offspring of Israel",
       "verse": 25,
       "type": "poetry"
     },

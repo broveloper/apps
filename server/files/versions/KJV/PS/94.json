@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 94,
+  "verses": 23,
   "content": [
     {
       "text": "O Lord God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself.",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": ", how long shall the wicked, how long shall the wicked triumph?",
+      "text": "Lord, how long shall the wicked, how long shall the wicked triumph?",
       "verse": 3,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "They break in pieces thy people, O , and afflict thine heritage.",
+      "text": "They break in pieces thy people, O Lord, and afflict thine heritage.",
       "verse": 5,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "Yet they say, The  shall not see, neither shall the God of Jacob regard it.",
+      "text": "Yet they say, The Lord shall not see, neither shall the God of Jacob regard it.",
       "verse": 7,
       "type": "newline"
     },
@@ -53,12 +54,12 @@
       "type": "newline"
     },
     {
-      "text": "The  knoweth the thoughts of man, that they are vanity.",
+      "text": "The Lord knoweth the thoughts of man, that they are vanity.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "Blessed is the man whom thou chastenest, O , and teachest him out of thy law;",
+      "text": "Blessed is the man whom thou chastenest, O Lord, and teachest him out of thy law;",
       "verse": 12,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "For the  will not cast off his people, neither will he forsake his inheritance.",
+      "text": "For the Lord will not cast off his people, neither will he forsake his inheritance.",
       "verse": 14,
       "type": "newline"
     },
@@ -83,12 +84,12 @@
       "type": "newline"
     },
     {
-      "text": "Unless the  had been my help, my soul had almost dwelt in silence.",
+      "text": "Unless the Lord had been my help, my soul had almost dwelt in silence.",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "When I said, My foot slippeth; thy mercy, O , held me up.",
+      "text": "When I said, My foot slippeth; thy mercy, O Lord, held me up.",
       "verse": 18,
       "type": "newline"
     },
@@ -108,12 +109,12 @@
       "type": "newline"
     },
     {
-      "text": "But the  is my defence; and my God is the rock of my refuge.",
+      "text": "But the Lord is my defence; and my God is the rock of my refuge.",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "And he shall bring upon them their own iniquity, and shall cut them off in their own wickedness; yea, the  our God shall cut them off.",
+      "text": "And he shall bring upon them their own iniquity, and shall cut them off in their own wickedness; yea, the Lord our God shall cut them off.",
       "verse": 23,
       "type": "newline"
     }

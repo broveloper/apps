@@ -2,6 +2,7 @@
   "book_id": "MARK",
   "book_name": "Mark",
   "chapter": 3,
+  "verses": 35,
   "content": [
     {
       "text": "A Man with a Withered Hand",
@@ -17,15 +18,15 @@
       "verse": 2
     },
     {
-      "text": "And he said to the man with the withered hand,",
+      "text": "And he said to the man with the withered hand, “Come here.”",
       "verse": 3
     },
     {
-      "text": "And he said to them,  But they were silent.",
+      "text": "And he said to them, “Is it lawful on the Sabbath to do good or to do harm, to save life or to kill?” But they were silent.",
       "verse": 4
     },
     {
-      "text": "And he looked around at them with anger, grieved at their hardness of heart, and said to the man,  He stretched it out, and his hand was restored.",
+      "text": "And he looked around at them with anger, grieved at their hardness of heart, and said to the man, “Stretch out your hand.” He stretched it out, and his hand was restored.",
       "verse": 5
     },
     {
@@ -113,32 +114,32 @@
       "type": "newline"
     },
     {
-      "text": "And he called them to him and said to them in parables,",
+      "text": "And he called them to him and said to them in parables, “How can Satan cast out Satan?",
       "verse": 23
     },
     {
-      "text": "",
+      "text": "If a kingdom is divided against itself, that kingdom cannot stand.",
       "verse": 24
     },
     {
-      "text": "",
+      "text": "And if a house is divided against itself, that house will not be able to stand.",
       "verse": 25
     },
     {
-      "text": "",
+      "text": "And if Satan has risen up against himself and is divided, he cannot stand, but is coming to an end.",
       "verse": 26
     },
     {
-      "text": "",
+      "text": "But no one can enter a strong man's house and plunder his goods, unless he first binds the strong man. Then indeed he may plunder his house.",
       "verse": 27
     },
     {
-      "text": "",
+      "text": "“Truly, I say to you, all sins will be forgiven the children of man, and whatever blasphemies they utter,",
       "verse": 28,
       "type": "newline"
     },
     {
-      "text": "—",
+      "text": "but whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin”—",
       "verse": 29
     },
     {
@@ -159,15 +160,15 @@
       "verse": 32
     },
     {
-      "text": "And he answered them,",
+      "text": "And he answered them, “Who are my mother and my brothers?”",
       "verse": 33
     },
     {
-      "text": "And looking about at those who sat around him, he said,",
+      "text": "And looking about at those who sat around him, he said, “Here are my mother and my brothers!",
       "verse": 34
     },
     {
-      "text": "",
+      "text": "For whoever does the will of God, he is my brother and sister and mother.”",
       "verse": 35
     }
   ]

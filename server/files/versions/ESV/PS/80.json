@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 80,
+  "verses": 19,
   "content": [
     {
       "text": "Restore Us, O God",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster: according to Lilies. A Testimony. Of Asaph, a Psalm.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Give ear, O Shepherd of Israel,",
@@ -28,7 +28,7 @@
       "type": "poetry"
     },
     {
-      "text": "Before Ephraim and Benjamin and Manasseh,",
+      "text": "    Before Ephraim and Benjamin and Manasseh,",
       "verse": 2,
       "type": "poetry"
     },
@@ -53,7 +53,7 @@
       "type": "poetry"
     },
     {
-      "text": "O  God of hosts,",
+      "text": "O Lord God of hosts,",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -168,7 +168,7 @@
       "type": "poetry"
     },
     {
-      "text": "the stock that your right hand planted,",
+      "text": "    the stock that your right hand planted,",
       "verse": 15,
       "type": "poetry"
     },
@@ -208,7 +208,7 @@
       "type": "poetry"
     },
     {
-      "text": "Restore us, O  God of hosts!",
+      "text": "Restore us, O Lord God of hosts!",
       "verse": 19,
       "type": "poetry newline"
     },

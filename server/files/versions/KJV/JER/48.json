@@ -2,9 +2,10 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 48,
+  "verses": 47,
   "content": [
     {
-      "text": "Against Moab thus saith the  of hosts, the God of Israel; Woe unto Nebo! for it is spoiled: Kiriathaim is confounded and taken: Misgab is confounded and dismayed.",
+      "text": "Against Moab thus saith the Lord of hosts, the God of Israel; Woe unto Nebo! for it is spoiled: Kiriathaim is confounded and taken: Misgab is confounded and dismayed.",
       "verse": 1
     },
     {
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "And the spoiler shall come upon every city, and no city shall escape: the valley also shall perish, and the plain shall be destroyed, as the  hath spoken.",
+      "text": "And the spoiler shall come upon every city, and no city shall escape: the valley also shall perish, and the plain shall be destroyed, as the Lord hath spoken.",
       "verse": 8,
       "type": "newline"
     },
@@ -48,7 +49,7 @@
       "type": "newline"
     },
     {
-      "text": "Cursed be he that doeth the work of the  deceitfully, and cursed be he that keepeth back his sword from blood.",
+      "text": "Cursed be he that doeth the work of the Lord deceitfully, and cursed be he that keepeth back his sword from blood.",
       "verse": 10,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore, behold, the days come, saith the , that I will send unto him wanderers, that shall cause him to wander, and shall empty his vessels, and break their bottles.",
+      "text": "Therefore, behold, the days come, saith the Lord, that I will send unto him wanderers, that shall cause him to wander, and shall empty his vessels, and break their bottles.",
       "verse": 12,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "Moab is spoiled, and gone up out of her cities, and his chosen young men are gone down to the slaughter, saith the King, whose name is the  of hosts.",
+      "text": "Moab is spoiled, and gone up out of her cities, and his chosen young men are gone down to the slaughter, saith the King, whose name is the Lord of hosts.",
       "verse": 15,
       "type": "newline"
     },
@@ -123,12 +124,12 @@
       "type": "newline"
     },
     {
-      "text": "The horn of Moab is cut off, and his arm is broken, saith the .",
+      "text": "The horn of Moab is cut off, and his arm is broken, saith the Lord.",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "Make ye him drunken: for he magnified himself against the : Moab also shall wallow in his vomit, and he also shall be in derision.",
+      "text": "Make ye him drunken: for he magnified himself against the Lord: Moab also shall wallow in his vomit, and he also shall be in derision.",
       "verse": 26,
       "type": "newline"
     },
@@ -148,7 +149,7 @@
       "type": "newline"
     },
     {
-      "text": "I know his wrath, saith the ; but it shall not be so; his lies shall not so effect it.",
+      "text": "I know his wrath, saith the Lord; but it shall not be so; his lies shall not so effect it.",
       "verse": 30,
       "type": "newline"
     },
@@ -173,7 +174,7 @@
       "type": "newline"
     },
     {
-      "text": "Moreover I will cause to cease in Moab, saith the , him that offereth in the high places, and him that burneth incense to his gods.",
+      "text": "Moreover I will cause to cease in Moab, saith the Lord, him that offereth in the high places, and him that burneth incense to his gods.",
       "verse": 35,
       "type": "newline"
     },
@@ -188,7 +189,7 @@
       "type": "newline"
     },
     {
-      "text": "There shall be lamentation generally upon all the housetops of Moab, and in the streets thereof: for I have broken Moab like a vessel wherein is no pleasure, saith the .",
+      "text": "There shall be lamentation generally upon all the housetops of Moab, and in the streets thereof: for I have broken Moab like a vessel wherein is no pleasure, saith the Lord.",
       "verse": 38,
       "type": "newline"
     },
@@ -198,7 +199,7 @@
       "type": "newline"
     },
     {
-      "text": "For thus saith the ; Behold, he shall fly as an eagle, and shall spread his wings over Moab.",
+      "text": "For thus saith the Lord; Behold, he shall fly as an eagle, and shall spread his wings over Moab.",
       "verse": 40,
       "type": "newline"
     },
@@ -208,17 +209,17 @@
       "type": "newline"
     },
     {
-      "text": "And Moab shall be destroyed from being a people, because he hath magnified himself against the .",
+      "text": "And Moab shall be destroyed from being a people, because he hath magnified himself against the Lord.",
       "verse": 42,
       "type": "newline"
     },
     {
-      "text": "Fear, and the pit, and the snare, shall be upon thee, O inhabitant of Moab, saith the .",
+      "text": "Fear, and the pit, and the snare, shall be upon thee, O inhabitant of Moab, saith the Lord.",
       "verse": 43,
       "type": "newline"
     },
     {
-      "text": "He that fleeth from the fear shall fall into the pit; and he that getteth up out of the pit shall be taken in the snare: for I will bring upon it, even upon Moab, the year of their visitation, saith the .",
+      "text": "He that fleeth from the fear shall fall into the pit; and he that getteth up out of the pit shall be taken in the snare: for I will bring upon it, even upon Moab, the year of their visitation, saith the Lord.",
       "verse": 44,
       "type": "newline"
     },
@@ -233,7 +234,7 @@
       "type": "newline"
     },
     {
-      "text": "Yet will I bring again the captivity of Moab in the latter days, saith the . Thus far is the judgment of Moab.",
+      "text": "Yet will I bring again the captivity of Moab in the latter days, saith the Lord. Thus far is the judgment of Moab.",
       "verse": 47,
       "type": "newline"
     }

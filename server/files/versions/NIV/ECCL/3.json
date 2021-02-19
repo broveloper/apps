@@ -2,6 +2,7 @@
   "book_id": "ECCL",
   "book_name": "Ecclesiastes",
   "chapter": 3,
+  "verses": 22,
   "content": [
     {
       "text": "A Time for Everything",
@@ -18,7 +19,7 @@
       "type": "poetry"
     },
     {
-      "text": "a time to be born and a time to die,",
+      "text": "    a time to be born and a time to die,",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -28,7 +29,7 @@
       "type": "poetry"
     },
     {
-      "text": "a time to kill and a time to heal,",
+      "text": "    a time to kill and a time to heal,",
       "verse": 3,
       "type": "poetry"
     },
@@ -38,7 +39,7 @@
       "type": "poetry"
     },
     {
-      "text": "a time to weep and a time to laugh,",
+      "text": "    a time to weep and a time to laugh,",
       "verse": 4,
       "type": "poetry"
     },
@@ -48,7 +49,7 @@
       "type": "poetry"
     },
     {
-      "text": "a time to scatter stones and a time to gather them,",
+      "text": "    a time to scatter stones and a time to gather them,",
       "verse": 5,
       "type": "poetry"
     },
@@ -58,7 +59,7 @@
       "type": "poetry"
     },
     {
-      "text": "a time to search and a time to give up,",
+      "text": "    a time to search and a time to give up,",
       "verse": 6,
       "type": "poetry"
     },
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "a time to tear and a time to mend,",
+      "text": "    a time to tear and a time to mend,",
       "verse": 7,
       "type": "poetry"
     },
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "a time to love and a time to hate,",
+      "text": "    a time to love and a time to hate,",
       "verse": 8,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "NAH",
   "book_name": "Nahum",
   "chapter": 2,
+  "verses": 13,
   "content": [
     {
       "text": "Nineveh to Fall",
@@ -33,7 +34,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  will restore the splendor of Jacob",
+      "text": "The Lord will restore the splendor of Jacob",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -248,7 +249,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "declares the  Almighty.",
+      "text": "declares the Lord Almighty.",
       "verse": 13,
       "type": "poetry"
     },

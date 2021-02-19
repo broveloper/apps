@@ -2,13 +2,14 @@
   "book_id": "NEH",
   "book_name": "Nehemiah",
   "chapter": 8,
+  "verses": 18,
   "content": [
     {
       "text": "Ezra Reads the Law",
       "type": "heading"
     },
     {
-      "text": "And all the people gathered as one man into the square before the Water Gate. And they told Ezra the scribe to bring the Book of the Law of Moses that the  had commanded Israel.",
+      "text": "And all the people gathered as one man into the square before the Water Gate. And they told Ezra the scribe to bring the Book of the Law of Moses that the Lord had commanded Israel.",
       "verse": 1,
       "type": "newline"
     },
@@ -29,7 +30,7 @@
       "verse": 5
     },
     {
-      "text": "And Ezra blessed the , the great God, and all the people answered, “Amen, Amen,” lifting up their hands. And they bowed their heads and worshiped the  with their faces to the ground.",
+      "text": "And Ezra blessed the Lord, the great God, and all the people answered, “Amen, Amen,” lifting up their hands. And they bowed their heads and worshiped the Lord with their faces to the ground.",
       "verse": 6
     },
     {
@@ -45,12 +46,12 @@
       "type": "heading"
     },
     {
-      "text": "And Nehemiah, who was the governor, and Ezra the priest and scribe, and the Levites who taught the people said to all the people, “This day is holy to the  your God; do not mourn or weep.” For all the people wept as they heard the words of the Law.",
+      "text": "And Nehemiah, who was the governor, and Ezra the priest and scribe, and the Levites who taught the people said to all the people, “This day is holy to the Lord your God; do not mourn or weep.” For all the people wept as they heard the words of the Law.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "Then he said to them, “Go your way. Eat the fat and drink sweet wine and send portions to anyone who has nothing ready, for this day is holy to our Lord. And do not be grieved, for the joy of the  is your strength.”",
+      "text": "Then he said to them, “Go your way. Eat the fat and drink sweet wine and send portions to anyone who has nothing ready, for this day is holy to our Lord. And do not be grieved, for the joy of the Lord is your strength.”",
       "verse": 10
     },
     {
@@ -71,7 +72,7 @@
       "type": "newline"
     },
     {
-      "text": "And they found it written in the Law that the  had commanded by Moses that the people of Israel should dwell in booths during the feast of the seventh month,",
+      "text": "And they found it written in the Law that the Lord had commanded by Moses that the people of Israel should dwell in booths during the feast of the seventh month,",
       "verse": 14
     },
     {

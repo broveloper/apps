@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 37,
+  "verses": 28,
   "content": [
     {
       "text": "The Valley of Dry Bones",
       "type": "heading"
     },
     {
-      "text": "The hand of the  was upon me, and he brought me out in the Spirit of the  and set me down in the middle of the valley; it was full of bones.",
+      "text": "The hand of the Lord was upon me, and he brought me out in the Spirit of the Lord and set me down in the middle of the valley; it was full of bones.",
       "verse": 1,
       "type": "newline"
     },
@@ -17,19 +18,19 @@
       "verse": 2
     },
     {
-      "text": "And he said to me, “Son of man, can these bones live?” And I answered, “O Lord , you know.”",
+      "text": "And he said to me, “Son of man, can these bones live?” And I answered, “O Lord God, you know.”",
       "verse": 3
     },
     {
-      "text": "Then he said to me, “Prophesy over these bones, and say to them, O dry bones, hear the word of the .",
+      "text": "Then he said to me, “Prophesy over these bones, and say to them, O dry bones, hear the word of the Lord.",
       "verse": 4
     },
     {
-      "text": "Thus says the Lord  to these bones: Behold, I will cause breath to enter you, and you shall live.",
+      "text": "Thus says the Lord God to these bones: Behold, I will cause breath to enter you, and you shall live.",
       "verse": 5
     },
     {
-      "text": "And I will lay sinews upon you, and will cause flesh to come upon you, and cover you with skin, and put breath in you, and you shall live, and you shall know that I am the .”",
+      "text": "And I will lay sinews upon you, and will cause flesh to come upon you, and cover you with skin, and put breath in you, and you shall live, and you shall know that I am the Lord.”",
       "verse": 6
     },
     {
@@ -42,7 +43,7 @@
       "verse": 8
     },
     {
-      "text": "Then he said to me, “Prophesy to the breath; prophesy, son of man, and say to the breath, Thus says the Lord : Come from the four winds, O breath, and breathe on these slain, that they may live.”",
+      "text": "Then he said to me, “Prophesy to the breath; prophesy, son of man, and say to the breath, Thus says the Lord God: Come from the four winds, O breath, and breathe on these slain, that they may live.”",
       "verse": 9
     },
     {
@@ -55,15 +56,15 @@
       "type": "newline"
     },
     {
-      "text": "Therefore prophesy, and say to them, Thus says the Lord : Behold, I will open your graves and raise you from your graves, O my people. And I will bring you into the land of Israel.",
+      "text": "Therefore prophesy, and say to them, Thus says the Lord God: Behold, I will open your graves and raise you from your graves, O my people. And I will bring you into the land of Israel.",
       "verse": 12
     },
     {
-      "text": "And you shall know that I am the , when I open your graves, and raise you from your graves, O my people.",
+      "text": "And you shall know that I am the Lord, when I open your graves, and raise you from your graves, O my people.",
       "verse": 13
     },
     {
-      "text": "And I will put my Spirit within you, and you shall live, and I will place you in your own land. Then you shall know that I am the ; I have spoken, and I will do it, declares the .”",
+      "text": "And I will put my Spirit within you, and you shall live, and I will place you in your own land. Then you shall know that I am the Lord; I have spoken, and I will do it, declares the Lord.”",
       "verse": 14
     },
     {
@@ -71,7 +72,7 @@
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 15,
       "type": "newline"
     },
@@ -88,7 +89,7 @@
       "verse": 18
     },
     {
-      "text": "say to them, Thus says the Lord : Behold, I am about to take the stick of Joseph (that is in the hand of Ephraim) and the tribes of Israel associated with him. And I will join with it the stick of Judah, and make them one stick, that they may be one in my hand.",
+      "text": "say to them, Thus says the Lord God: Behold, I am about to take the stick of Joseph (that is in the hand of Ephraim) and the tribes of Israel associated with him. And I will join with it the stick of Judah, and make them one stick, that they may be one in my hand.",
       "verse": 19
     },
     {
@@ -96,7 +97,7 @@
       "verse": 20
     },
     {
-      "text": "then say to them, Thus says the Lord : Behold, I will take the people of Israel from the nations among which they have gone, and will gather them from all around, and bring them to their own land.",
+      "text": "then say to them, Thus says the Lord God: Behold, I will take the people of Israel from the nations among which they have gone, and will gather them from all around, and bring them to their own land.",
       "verse": 21
     },
     {
@@ -125,7 +126,7 @@
       "verse": 27
     },
     {
-      "text": "Then the nations will know that I am the  who sanctifies Israel, when my sanctuary is in their midst forevermore.”",
+      "text": "Then the nations will know that I am the Lord who sanctifies Israel, when my sanctuary is in their midst forevermore.”",
       "verse": 28
     }
   ]

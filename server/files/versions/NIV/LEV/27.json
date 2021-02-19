@@ -2,18 +2,19 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 27,
+  "verses": 34,
   "content": [
     {
-      "text": "Redeeming What Is the ’s",
+      "text": "Redeeming What Is the Lord’s",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Speak to the Israelites and say to them: ‘If anyone makes a special vow to dedicate a person to the  by giving the equivalent value,",
+      "text": "“Speak to the Israelites and say to them: ‘If anyone makes a special vow to dedicate a person to the Lord by giving the equivalent value,",
       "verse": 2
     },
     {
@@ -41,7 +42,7 @@
       "verse": 8
     },
     {
-      "text": "“‘If what they vowed is an animal that is acceptable as an offering to the , such an animal given to the  becomes holy.",
+      "text": "“‘If what they vowed is an animal that is acceptable as an offering to the Lord, such an animal given to the Lord becomes holy.",
       "verse": 9,
       "type": "newline"
     },
@@ -50,7 +51,7 @@
       "verse": 10
     },
     {
-      "text": "If what they vowed is a ceremonially unclean animal—one that is not acceptable as an offering to the —the animal must be presented to the priest,",
+      "text": "If what they vowed is a ceremonially unclean animal—one that is not acceptable as an offering to the Lord—the animal must be presented to the priest,",
       "verse": 11
     },
     {
@@ -62,7 +63,7 @@
       "verse": 13
     },
     {
-      "text": "“‘If anyone dedicates their house as something holy to the , the priest will judge its quality as good or bad. Whatever value the priest then sets, so it will remain.",
+      "text": "“‘If anyone dedicates their house as something holy to the Lord, the priest will judge its quality as good or bad. Whatever value the priest then sets, so it will remain.",
       "verse": 14,
       "type": "newline"
     },
@@ -71,7 +72,7 @@
       "verse": 15
     },
     {
-      "text": "“‘If anyone dedicates to the  part of their family land, its value is to be set according to the amount of seed required for it—fifty shekels of silver to a homer of barley seed.",
+      "text": "“‘If anyone dedicates to the Lord part of their family land, its value is to be set according to the amount of seed required for it—fifty shekels of silver to a homer of barley seed.",
       "verse": 16,
       "type": "newline"
     },
@@ -92,16 +93,16 @@
       "verse": 20
     },
     {
-      "text": "When the field is released in the Jubilee, it will become holy, like a field devoted to the ; it will become priestly property.",
+      "text": "When the field is released in the Jubilee, it will become holy, like a field devoted to the Lord; it will become priestly property.",
       "verse": 21
     },
     {
-      "text": "“‘If anyone dedicates to the  a field they have bought, which is not part of their family land,",
+      "text": "“‘If anyone dedicates to the Lord a field they have bought, which is not part of their family land,",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "the priest will determine its value up to the Year of Jubilee, and the owner must pay its value on that day as something holy to the .",
+      "text": "the priest will determine its value up to the Year of Jubilee, and the owner must pay its value on that day as something holy to the Lord.",
       "verse": 23
     },
     {
@@ -113,7 +114,7 @@
       "verse": 25
     },
     {
-      "text": "“‘No one, however, may dedicate the firstborn of an animal, since the firstborn already belongs to the ; whether an ox or a sheep, it is the ’s.",
+      "text": "“‘No one, however, may dedicate the firstborn of an animal, since the firstborn already belongs to the Lord; whether an ox or a sheep, it is the Lord’s.",
       "verse": 26,
       "type": "newline"
     },
@@ -122,7 +123,7 @@
       "verse": 27
     },
     {
-      "text": "“‘But nothing that a person owns and devotes to the —whether a human being or an animal or family land—may be sold or redeemed; everything so devoted is most holy to the .",
+      "text": "“‘But nothing that a person owns and devotes to the Lord—whether a human being or an animal or family land—may be sold or redeemed; everything so devoted is most holy to the Lord.",
       "verse": 28,
       "type": "newline"
     },
@@ -132,7 +133,7 @@
       "type": "newline"
     },
     {
-      "text": "“‘A tithe of everything from the land, whether grain from the soil or fruit from the trees, belongs to the ; it is holy to the .",
+      "text": "“‘A tithe of everything from the land, whether grain from the soil or fruit from the trees, belongs to the Lord; it is holy to the Lord.",
       "verse": 30,
       "type": "newline"
     },
@@ -141,7 +142,7 @@
       "verse": 31
     },
     {
-      "text": "Every tithe of the herd and flock—every tenth animal that passes under the shepherd’s rod—will be holy to the .",
+      "text": "Every tithe of the herd and flock—every tenth animal that passes under the shepherd’s rod—will be holy to the Lord.",
       "verse": 32
     },
     {
@@ -149,7 +150,7 @@
       "verse": 33
     },
     {
-      "text": "These are the commands the  gave Moses at Mount Sinai for the Israelites.",
+      "text": "These are the commands the Lord gave Moses at Mount Sinai for the Israelites.",
       "verse": 34,
       "type": "newline"
     }

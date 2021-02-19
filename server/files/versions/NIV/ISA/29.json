@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 29,
+  "verses": 24,
   "content": [
     {
       "text": "Woe to David’s City",
@@ -93,7 +94,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  Almighty will come",
+      "text": "    the Lord Almighty will come",
       "verse": 6,
       "type": "poetry"
     },
@@ -178,7 +179,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has brought over you a deep sleep:",
+      "text": "The Lord has brought over you a deep sleep:",
       "verse": 10,
       "type": "poetry"
     },
@@ -257,7 +258,7 @@
       "type": "poetry"
     },
     {
-      "text": "to hide their plans from the ,",
+      "text": "to hide their plans from the Lord,",
       "verse": 15,
       "type": "poetry"
     },
@@ -327,7 +328,7 @@
       "type": "poetry"
     },
     {
-      "text": "Once more the humble will rejoice in the ;",
+      "text": "Once more the humble will rejoice in the Lord;",
       "verse": 19,
       "type": "poetry"
     },
@@ -367,7 +368,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore this is what the , who redeemed Abraham, says to the descendants of Jacob:",
+      "text": "Therefore this is what the Lord, who redeemed Abraham, says to the descendants of Jacob:",
       "verse": 22,
       "type": "newline"
     },

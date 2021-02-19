@@ -2,13 +2,14 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 20,
+  "verses": 20,
   "content": [
     {
       "text": "Going to War",
       "type": "heading"
     },
     {
-      "text": "When you go to war against your enemies and see horses and chariots and an army greater than yours, do not be afraid of them, because the  your God, who brought you up out of Egypt, will be with you.",
+      "text": "When you go to war against your enemies and see horses and chariots and an army greater than yours, do not be afraid of them, because the Lord your God, who brought you up out of Egypt, will be with you.",
       "verse": 1,
       "type": "newline"
     },
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "For the  your God is the one who goes with you to fight for you against your enemies to give you victory.”",
+      "text": "For the Lord your God is the one who goes with you to fight for you against your enemies to give you victory.”",
       "verse": 4
     },
     {
@@ -59,11 +60,11 @@
       "verse": 12
     },
     {
-      "text": "When the  your God delivers it into your hand, put to the sword all the men in it.",
+      "text": "When the Lord your God delivers it into your hand, put to the sword all the men in it.",
       "verse": 13
     },
     {
-      "text": "As for the women, the children, the livestock and everything else in the city, you may take these as plunder for yourselves. And you may use the plunder the  your God gives you from your enemies.",
+      "text": "As for the women, the children, the livestock and everything else in the city, you may take these as plunder for yourselves. And you may use the plunder the Lord your God gives you from your enemies.",
       "verse": 14
     },
     {
@@ -71,16 +72,16 @@
       "verse": 15
     },
     {
-      "text": "However, in the cities of the nations the  your God is giving you as an inheritance, do not leave alive anything that breathes.",
+      "text": "However, in the cities of the nations the Lord your God is giving you as an inheritance, do not leave alive anything that breathes.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "Completely destroy them—the Hittites, Amorites, Canaanites, Perizzites, Hivites and Jebusites—as the  your God has commanded you.",
+      "text": "Completely destroy them—the Hittites, Amorites, Canaanites, Perizzites, Hivites and Jebusites—as the Lord your God has commanded you.",
       "verse": 17
     },
     {
-      "text": "Otherwise, they will teach you to follow all the detestable things they do in worshiping their gods, and you will sin against the  your God.",
+      "text": "Otherwise, they will teach you to follow all the detestable things they do in worshiping their gods, and you will sin against the Lord your God.",
       "verse": 18
     },
     {

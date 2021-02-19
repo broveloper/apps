@@ -2,6 +2,7 @@
   "book_id": "EZRA",
   "book_name": "Ezra",
   "chapter": 7,
+  "verses": 28,
   "content": [
     {
       "text": "Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah,",
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "This Ezra went up from Babylon; and he was a ready scribe in the law of Moses, which the  God of Israel had given: and the king granted him all his request, according to the hand of the  his God upon him.",
+      "text": "This Ezra went up from Babylon; and he was a ready scribe in the law of Moses, which the Lord God of Israel had given: and the king granted him all his request, according to the hand of the Lord his God upon him.",
       "verse": 6,
       "type": "newline"
     },
@@ -48,12 +49,12 @@
       "type": "newline"
     },
     {
-      "text": "For Ezra had prepared his heart to seek the law of the , and to do it, and to teach in Israel statutes and judgments.",
+      "text": "For Ezra had prepared his heart to seek the law of the Lord, and to do it, and to teach in Israel statutes and judgments.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "Now this is the copy of the letter that the king Artaxerxes gave unto Ezra the priest, the scribe, even a scribe of the words of the commandments of the , and of his statutes to Israel.",
+      "text": "Now this is the copy of the letter that the king Artaxerxes gave unto Ezra the priest, the scribe, even a scribe of the words of the commandments of the Lord, and of his statutes to Israel.",
       "verse": 11,
       "type": "newline"
     },
@@ -133,12 +134,12 @@
       "type": "newline"
     },
     {
-      "text": "Blessed be the  God of our fathers, which hath put such a thing as this in the king's heart, to beautify the house of the  which is in Jerusalem:",
+      "text": "Blessed be the Lord God of our fathers, which hath put such a thing as this in the king's heart, to beautify the house of the Lord which is in Jerusalem:",
       "verse": 27,
       "type": "newline"
     },
     {
-      "text": "And hath extended mercy unto me before the king, and his counsellors, and before all the king's mighty princes. And I was strengthened as the hand of the  my God was upon me, and I gathered together out of Israel chief men to go up with me.",
+      "text": "And hath extended mercy unto me before the king, and his counsellors, and before all the king's mighty princes. And I was strengthened as the hand of the Lord my God was upon me, and I gathered together out of Israel chief men to go up with me.",
       "verse": 28,
       "type": "newline"
     }

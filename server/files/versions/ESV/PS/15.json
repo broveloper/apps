@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 15,
+  "verses": 5,
   "content": [
     {
       "text": "Who Shall Dwell on Your Holy Hill?",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "O , who shall sojourn in your tent?",
+      "text": "O Lord, who shall sojourn in your tent?",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -53,7 +53,7 @@
       "type": "poetry"
     },
     {
-      "text": "but who honors those who fear the ;",
+      "text": "but who honors those who fear the Lord;",
       "verse": 4,
       "type": "poetry"
     },

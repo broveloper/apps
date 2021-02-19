@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 54,
+  "verses": 7,
   "content": [
     {
       "text": "The Lord Upholds My Life",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster: with stringed instruments. A Maskil of David, when the Ziphites went and told Saul, “Is not David hiding among us?”",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "O God, save me by your name,",
@@ -43,7 +43,7 @@
       "type": "poetry"
     },
     {
-      "text": "they do not set God before themselves.",
+      "text": "they do not set God before themselves. Selah",
       "verse": 3,
       "type": "poetry"
     },
@@ -73,7 +73,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "I will give thanks to your name, O , for it is good.",
+      "text": "I will give thanks to your name, O Lord, for it is good.",
       "verse": 6,
       "type": "poetry"
     },

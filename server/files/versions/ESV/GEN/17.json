@@ -2,13 +2,14 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 17,
+  "verses": 27,
   "content": [
     {
       "text": "Abraham and the Covenant of Circumcision",
       "type": "heading"
     },
     {
-      "text": "When Abram was ninety-nine years old the  appeared to Abram and said to him, “I am God Almighty; walk before me, and be blameless,",
+      "text": "When Abram was ninety-nine years old the Lord appeared to Abram and said to him, “I am God Almighty; walk before me, and be blameless,",
       "verse": 1,
       "type": "newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "REV",
   "book_name": "Revelation",
   "chapter": 22,
+  "verses": 21,
   "content": [
     {
       "text": "Eden Restored",
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“Look, I am coming soon! Blessed is the one who keeps the words of the prophecy written in this scroll.”",
       "verse": 7,
       "type": "newline"
     },
@@ -65,25 +66,25 @@
       "type": "heading"
     },
     {
-      "text": "",
+      "text": "“Look, I am coming soon! My reward is with me, and I will give to each person according to what they have done.",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "I am the Alpha and the Omega, the First and the Last, the Beginning and the End.",
       "verse": 13
     },
     {
-      "text": "",
+      "text": "“Blessed are those who wash their robes, that they may have the right to the tree of life and may go through the gates into the city.",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Outside are the dogs, those who practice magic arts, the sexually immoral, the murderers, the idolaters and everyone who loves and practices falsehood.",
       "verse": 15
     },
     {
-      "text": "",
+      "text": "“I, Jesus, have sent my angel to give you this testimony for the churches. I am the Root and the Offspring of David, and the bright Morning Star.”",
       "verse": 16,
       "type": "newline"
     },
@@ -102,7 +103,7 @@
       "verse": 19
     },
     {
-      "text": "He who testifies to these things says,",
+      "text": "He who testifies to these things says, “Yes, I am coming soon.”",
       "verse": 20,
       "type": "newline"
     },

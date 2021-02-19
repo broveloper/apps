@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 11,
+  "verses": 30,
   "content": [
     {
       "text": "Peter Reports to the Church",
@@ -33,7 +34,7 @@
       "verse": 6
     },
     {
-      "text": "And I heard a voice saying to me,",
+      "text": "And I heard a voice saying to me, ‘Rise, Peter; kill and eat.’",
       "verse": 7
     },
     {
@@ -41,7 +42,7 @@
       "verse": 8
     },
     {
-      "text": "But the voice answered a second time from heaven,",
+      "text": "But the voice answered a second time from heaven, ‘What God has made clean, do not call common.’",
       "verse": 9
     },
     {
@@ -69,7 +70,7 @@
       "verse": 15
     },
     {
-      "text": "And I remembered the word of the Lord, how he said,",
+      "text": "And I remembered the word of the Lord, how he said, ‘John baptized with water, but you will be baptized with the Holy Spirit.’",
       "verse": 16
     },
     {

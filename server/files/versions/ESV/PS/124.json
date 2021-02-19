@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 124,
+  "verses": 8,
   "content": [
     {
-      "text": "Our Help Is in the Name of the",
+      "text": "Our Help Is in the Name of the Lord",
       "type": "heading"
     },
     {
       "text": "A Song of Ascents. Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "If it had not been the  who was on our side—",
+      "text": "If it had not been the Lord who was on our side—",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,7 +23,7 @@
       "type": "poetry"
     },
     {
-      "text": "if it had not been the  who was on our side",
+      "text": "if it had not been the Lord who was on our side",
       "verse": 2,
       "type": "poetry"
     },
@@ -63,7 +63,7 @@
       "type": "poetry"
     },
     {
-      "text": "Blessed be the ,",
+      "text": "Blessed be the Lord,",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -98,7 +98,7 @@
       "type": "poetry"
     },
     {
-      "text": "Our help is in the name of the ,",
+      "text": "Our help is in the name of the Lord,",
       "verse": 8,
       "type": "poetry newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 22,
+  "verses": 23,
   "content": [
     {
       "text": "David therefore departed thence, and escaped to the cave Adullam: and when his brethren and all his father's house heard it, they went down thither to him.",
@@ -48,7 +49,7 @@
       "type": "newline"
     },
     {
-      "text": "And he enquired of the  for him, and gave him victuals, and gave him the sword of Goliath the Philistine.",
+      "text": "And he enquired of the Lord for him, and gave him victuals, and gave him the sword of Goliath the Philistine.",
       "verse": 10,
       "type": "newline"
     },
@@ -83,7 +84,7 @@
       "type": "newline"
     },
     {
-      "text": "And the king said unto the footmen that stood about him, Turn, and slay the priests of the : because their hand also is with David, and because they knew when he fled, and did not shew it to me. But the servants of the king would not put forth their hand to fall upon the priests of the .",
+      "text": "And the king said unto the footmen that stood about him, Turn, and slay the priests of the Lord: because their hand also is with David, and because they knew when he fled, and did not shew it to me. But the servants of the king would not put forth their hand to fall upon the priests of the Lord.",
       "verse": 17,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "And Abiathar shewed David that Saul had slain the 's priests.",
+      "text": "And Abiathar shewed David that Saul had slain the Lord's priests.",
       "verse": 21,
       "type": "newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 48,
+  "verses": 22,
   "content": [
     {
       "text": "Israel Refined for God's Glory",
@@ -23,7 +24,7 @@
       "type": "poetry"
     },
     {
-      "text": "who swear by the name of the",
+      "text": "who swear by the name of the Lord",
       "verse": 1,
       "type": "poetry"
     },
@@ -48,7 +49,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  of hosts is his name.",
+      "text": "the Lord of hosts is his name.",
       "verse": 2,
       "type": "poetry"
     },
@@ -198,7 +199,7 @@
       "type": "poetry"
     },
     {
-      "text": "The 's Call to Israel",
+      "text": "The Lord's Call to Israel",
       "type": "heading"
     },
     {
@@ -252,7 +253,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  loves him;",
+      "text": "The Lord loves him;",
       "verse": 14,
       "type": "poetry"
     },
@@ -292,12 +293,12 @@
       "type": "poetry"
     },
     {
-      "text": "And now the Lord  has sent me, and his Spirit.",
+      "text": "And now the Lord God has sent me, and his Spirit.",
       "verse": 16,
       "type": "poetry"
     },
     {
-      "text": "Thus says the ,",
+      "text": "Thus says the Lord,",
       "verse": 17,
       "type": "poetry newline"
     },
@@ -307,7 +308,7 @@
       "type": "poetry"
     },
     {
-      "text": "“I am the  your God,",
+      "text": "“I am the Lord your God,",
       "verse": 17,
       "type": "poetry"
     },
@@ -372,7 +373,7 @@
       "type": "poetry"
     },
     {
-      "text": "say, “The  has redeemed his servant Jacob!”",
+      "text": "say, “The Lord has redeemed his servant Jacob!”",
       "verse": 20,
       "type": "poetry"
     },
@@ -392,7 +393,7 @@
       "type": "poetry"
     },
     {
-      "text": "“There is no peace,” says the , “for the wicked.”",
+      "text": "“There is no peace,” says the Lord, “for the wicked.”",
       "verse": 22,
       "type": "poetry newline"
     }

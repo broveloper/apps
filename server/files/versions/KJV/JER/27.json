@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 27,
+  "verses": 22,
   "content": [
     {
-      "text": "In the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word unto Jeremiah from the , saying,",
+      "text": "In the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word unto Jeremiah from the Lord, saying,",
       "verse": 1
     },
     {
-      "text": "Thus saith the  to me; Make thee bonds and yokes, and put them upon thy neck,",
+      "text": "Thus saith the Lord to me; Make thee bonds and yokes, and put them upon thy neck,",
       "verse": 2,
       "type": "newline"
     },
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "And command them to say unto their masters, Thus saith the  of hosts, the God of Israel; Thus shall ye say unto your masters;",
+      "text": "And command them to say unto their masters, Thus saith the Lord of hosts, the God of Israel; Thus shall ye say unto your masters;",
       "verse": 4,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "And it shall come to pass, that the nation and kingdom which will not serve the same Nebuchadnezzar the king of Babylon, and that will not put their neck under the yoke of the king of Babylon, that nation will I punish, saith the , with the sword, and with the famine, and with the pestilence, until I have consumed them by his hand.",
+      "text": "And it shall come to pass, that the nation and kingdom which will not serve the same Nebuchadnezzar the king of Babylon, and that will not put their neck under the yoke of the king of Babylon, that nation will I punish, saith the Lord, with the sword, and with the famine, and with the pestilence, until I have consumed them by his hand.",
       "verse": 8,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "But the nations that bring their neck under the yoke of the king of Babylon, and serve him, those will I let remain still in their own land, saith the ; and they shall till it, and dwell therein.",
+      "text": "But the nations that bring their neck under the yoke of the king of Babylon, and serve him, those will I let remain still in their own land, saith the Lord; and they shall till it, and dwell therein.",
       "verse": 11,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "Why will ye die, thou and thy people, by the sword, by the famine, and by the pestilence, as the  hath spoken against the nation that will not serve the king of Babylon?",
+      "text": "Why will ye die, thou and thy people, by the sword, by the famine, and by the pestilence, as the Lord hath spoken against the nation that will not serve the king of Babylon?",
       "verse": 13,
       "type": "newline"
     },
@@ -73,12 +74,12 @@
       "type": "newline"
     },
     {
-      "text": "For I have not sent them, saith the , yet they prophesy a lie in my name; that I might drive you out, and that ye might perish, ye, and the prophets that prophesy unto you.",
+      "text": "For I have not sent them, saith the Lord, yet they prophesy a lie in my name; that I might drive you out, and that ye might perish, ye, and the prophets that prophesy unto you.",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "Also I spake to the priests and to all this people, saying, Thus saith the ; Hearken not to the words of your prophets that prophesy unto you, saying, Behold, the vessels of the 's house shall now shortly be brought again from Babylon: for they prophesy a lie unto you.",
+      "text": "Also I spake to the priests and to all this people, saying, Thus saith the Lord; Hearken not to the words of your prophets that prophesy unto you, saying, Behold, the vessels of the Lord's house shall now shortly be brought again from Babylon: for they prophesy a lie unto you.",
       "verse": 16,
       "type": "newline"
     },
@@ -88,12 +89,12 @@
       "type": "newline"
     },
     {
-      "text": "But if they be prophets, and if the word of the  be with them, let them now make intercession to the  of hosts, that the vessels which are left in the house of the , and in the house of the king of Judah, and at Jerusalem, go not to Babylon.",
+      "text": "But if they be prophets, and if the word of the Lord be with them, let them now make intercession to the Lord of hosts, that the vessels which are left in the house of the Lord, and in the house of the king of Judah, and at Jerusalem, go not to Babylon.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "For thus saith the  of hosts concerning the pillars, and concerning the sea, and concerning the bases, and concerning the residue of the vessels that remain in this city.",
+      "text": "For thus saith the Lord of hosts concerning the pillars, and concerning the sea, and concerning the bases, and concerning the residue of the vessels that remain in this city.",
       "verse": 19,
       "type": "newline"
     },
@@ -103,12 +104,12 @@
       "type": "newline"
     },
     {
-      "text": "Yea, thus saith the  of hosts, the God of Israel, concerning the vessels that remain in the house of the , and in the house of the king of Judah and of Jerusalem;",
+      "text": "Yea, thus saith the Lord of hosts, the God of Israel, concerning the vessels that remain in the house of the Lord, and in the house of the king of Judah and of Jerusalem;",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "They shall be carried to Babylon, and there shall they be until the day that I visit them, saith the ; then will I bring them up, and restore them to this place.",
+      "text": "They shall be carried to Babylon, and there shall they be until the day that I visit them, saith the Lord; then will I bring them up, and restore them to this place.",
       "verse": 22,
       "type": "newline"
     }

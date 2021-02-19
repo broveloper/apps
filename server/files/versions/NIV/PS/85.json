@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 85,
+  "verses": 13,
   "content": [
     {
       "text": "Psalm 85",
@@ -9,11 +10,10 @@
     },
     {
       "text": "For the director of music. Of the Sons of Korah. A psalm.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "You, , showed favor to your land;",
+      "text": "You, Lord, showed favor to your land;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -73,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "Show us your unfailing love, ,",
+      "text": "Show us your unfailing love, Lord,",
       "verse": 7,
       "type": "poetry"
     },
@@ -83,7 +83,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will listen to what God the  says;",
+      "text": "I will listen to what God the Lord says;",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -128,7 +128,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  will indeed give what is good,",
+      "text": "The Lord will indeed give what is good,",
       "verse": 12,
       "type": "poetry"
     },

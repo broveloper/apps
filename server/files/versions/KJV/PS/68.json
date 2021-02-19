@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 68,
+  "verses": 35,
   "content": [
     {
       "text": "Let God arise, let his enemies be scattered: let them also that hate him flee before him.",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name , and rejoice before him.",
+      "text": "Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name Jah, and rejoice before him.",
       "verse": 4,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "Why leap ye, ye high hills? this is the hill which God desireth to dwell in; yea, the  will dwell in it for ever.",
+      "text": "Why leap ye, ye high hills? this is the hill which God desireth to dwell in; yea, the Lord will dwell in it for ever.",
       "verse": 16,
       "type": "newline"
     },
@@ -88,7 +89,7 @@
       "type": "newline"
     },
     {
-      "text": "Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men; yea, for the rebellious also, that the  God might dwell among them.",
+      "text": "Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men; yea, for the rebellious also, that the Lord God might dwell among them.",
       "verse": 18,
       "type": "newline"
     },
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "He that is our God is the God of salvation; and unto  the Lord belong the issues from death.",
+      "text": "He that is our God is the God of salvation; and unto God the Lord belong the issues from death.",
       "verse": 20,
       "type": "newline"
     },

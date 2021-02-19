@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 90,
+  "verses": 17,
   "content": [
     {
       "text": "Lord, thou hast been our dwelling place in all generations.",
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "Return, O , how long? and let it repent thee concerning thy servants.",
+      "text": "Return, O Lord, how long? and let it repent thee concerning thy servants.",
       "verse": 13,
       "type": "newline"
     },
@@ -83,7 +84,7 @@
       "type": "newline"
     },
     {
-      "text": "And let the beauty of the  our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.",
+      "text": "And let the beauty of the Lord our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.",
       "verse": 17,
       "type": "newline"
     }

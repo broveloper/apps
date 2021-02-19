@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 11,
+  "verses": 57,
   "content": [
     {
       "text": "The Death of Lazarus",
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "But when Jesus heard it he said,",
+      "text": "But when Jesus heard it he said, “This illness does not lead to death. It is for the glory of God, so that the Son of God may be glorified through it.”",
       "verse": 4
     },
     {
@@ -34,7 +35,7 @@
       "verse": 6
     },
     {
-      "text": "Then after this he said to the disciples,",
+      "text": "Then after this he said to the disciples, “Let us go to Judea again.”",
       "verse": 7
     },
     {
@@ -42,15 +43,15 @@
       "verse": 8
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “Are there not twelve hours in the day? If anyone walks in the day, he does not stumble, because he sees the light of this world.",
       "verse": 9
     },
     {
-      "text": "",
+      "text": "But if anyone walks in the night, he stumbles, because the light is not in him.”",
       "verse": 10
     },
     {
-      "text": "After saying these things, he said to them,",
+      "text": "After saying these things, he said to them, “Our friend Lazarus has fallen asleep, but I go to awaken him.”",
       "verse": 11
     },
     {
@@ -62,11 +63,11 @@
       "verse": 13
     },
     {
-      "text": "Then Jesus told them plainly,",
+      "text": "Then Jesus told them plainly, “Lazarus has died,",
       "verse": 14
     },
     {
-      "text": "",
+      "text": "and for your sake I am glad that I was not there, so that you may believe. But let us go to him.”",
       "verse": 15
     },
     {
@@ -103,7 +104,7 @@
       "verse": 22
     },
     {
-      "text": "Jesus said to her,",
+      "text": "Jesus said to her, “Your brother will rise again.”",
       "verse": 23
     },
     {
@@ -111,11 +112,11 @@
       "verse": 24
     },
     {
-      "text": "Jesus said to her,",
+      "text": "Jesus said to her, “I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live,",
       "verse": 25
     },
     {
-      "text": "",
+      "text": "and everyone who lives and believes in me shall never die. Do you believe this?”",
       "verse": 26
     },
     {
@@ -152,7 +153,7 @@
       "verse": 33
     },
     {
-      "text": "And he said,  They said to him, “Lord, come and see.”",
+      "text": "And he said, “Where have you laid him?” They said to him, “Lord, come and see.”",
       "verse": 34
     },
     {
@@ -177,27 +178,27 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said,  Martha, the sister of the dead man, said to him, “Lord, by this time there will be an odor, for he has been dead four days.”",
+      "text": "Jesus said, “Take away the stone.” Martha, the sister of the dead man, said to him, “Lord, by this time there will be an odor, for he has been dead four days.”",
       "verse": 39
     },
     {
-      "text": "Jesus said to her,",
+      "text": "Jesus said to her, “Did I not tell you that if you believed you would see the glory of God?”",
       "verse": 40
     },
     {
-      "text": "So they took away the stone. And Jesus lifted up his eyes and said,",
+      "text": "So they took away the stone. And Jesus lifted up his eyes and said, “Father, I thank you that you have heard me.",
       "verse": 41
     },
     {
-      "text": "",
+      "text": "I knew that you always hear me, but I said this on account of the people standing around, that they may believe that you sent me.”",
       "verse": 42
     },
     {
-      "text": "When he had said these things, he cried out with a loud voice,",
+      "text": "When he had said these things, he cried out with a loud voice, “Lazarus, come out.”",
       "verse": 43
     },
     {
-      "text": "The man who had died came out, his hands and feet bound with linen strips, and his face wrapped with a cloth. Jesus said to them,",
+      "text": "The man who had died came out, his hands and feet bound with linen strips, and his face wrapped with a cloth. Jesus said to them, “Unbind him, and let him go.”",
       "verse": 44
     },
     {

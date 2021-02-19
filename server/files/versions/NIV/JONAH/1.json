@@ -2,13 +2,14 @@
   "book_id": "JONAH",
   "book_name": "Jonah",
   "chapter": 1,
+  "verses": 17,
   "content": [
     {
-      "text": "Jonah Flees From the",
+      "text": "Jonah Flees From the Lord",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to Jonah son of Amittai:",
+      "text": "The word of the Lord came to Jonah son of Amittai:",
       "verse": 1,
       "type": "newline"
     },
@@ -17,12 +18,12 @@
       "verse": 2
     },
     {
-      "text": "But Jonah ran away from the  and headed for Tarshish. He went down to Joppa, where he found a ship bound for that port. After paying the fare, he went aboard and sailed for Tarshish to flee from the .",
+      "text": "But Jonah ran away from the Lord and headed for Tarshish. He went down to Joppa, where he found a ship bound for that port. After paying the fare, he went aboard and sailed for Tarshish to flee from the Lord.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "Then the  sent a great wind on the sea, and such a violent storm arose that the ship threatened to break up.",
+      "text": "Then the Lord sent a great wind on the sea, and such a violent storm arose that the ship threatened to break up.",
       "verse": 4,
       "type": "newline"
     },
@@ -49,12 +50,12 @@
       "verse": 8
     },
     {
-      "text": "He answered, “I am a Hebrew and I worship the , the God of heaven, who made the sea and the dry land.”",
+      "text": "He answered, “I am a Hebrew and I worship the Lord, the God of heaven, who made the sea and the dry land.”",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "This terrified them and they asked, “What have you done?” (They knew he was running away from the , because he had already told them so.)",
+      "text": "This terrified them and they asked, “What have you done?” (They knew he was running away from the Lord, because he had already told them so.)",
       "verse": 10,
       "type": "newline"
     },
@@ -74,7 +75,7 @@
       "type": "newline"
     },
     {
-      "text": "Then they cried out to the , “Please, , do not let us die for taking this man’s life. Do not hold us accountable for killing an innocent man, for you, , have done as you pleased.”",
+      "text": "Then they cried out to the Lord, “Please, Lord, do not let us die for taking this man’s life. Do not hold us accountable for killing an innocent man, for you, Lord, have done as you pleased.”",
       "verse": 14
     },
     {
@@ -82,7 +83,7 @@
       "verse": 15
     },
     {
-      "text": "At this the men greatly feared the , and they offered a sacrifice to the  and made vows to him.",
+      "text": "At this the men greatly feared the Lord, and they offered a sacrifice to the Lord and made vows to him.",
       "verse": 16
     },
     {
@@ -90,7 +91,7 @@
       "type": "heading"
     },
     {
-      "text": "Now the  provided a huge fish to swallow Jonah, and Jonah was in the belly of the fish three days and three nights.",
+      "text": "Now the Lord provided a huge fish to swallow Jonah, and Jonah was in the belly of the fish three days and three nights.",
       "verse": 17,
       "type": "newline"
     }

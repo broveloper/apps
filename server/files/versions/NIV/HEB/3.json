@@ -2,6 +2,7 @@
   "book_id": "HEB",
   "book_name": "Hebrews",
   "chapter": 3,
+  "verses": 19,
   "content": [
     {
       "text": "Jesus Greater Than Moses",
@@ -47,7 +48,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "do not harden your hearts",
+      "text": "    do not harden your hearts",
       "verse": 8,
       "type": "poetry"
     },

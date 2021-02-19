@@ -2,13 +2,14 @@
   "book_id": "AMOS",
   "book_name": "Amos",
   "chapter": 3,
+  "verses": 15,
   "content": [
     {
       "text": "Israel's Guilt and Punishment",
       "type": "heading"
     },
     {
-      "text": "Hear this word that the  has spoken against you, O people of Israel, against the whole family that I brought up out of the land of Egypt:",
+      "text": "Hear this word that the Lord has spoken against you, O people of Israel, against the whole family that I brought up out of the land of Egypt:",
       "verse": 1,
       "type": "newline"
     },
@@ -98,12 +99,12 @@
       "type": "poetry"
     },
     {
-      "text": "unless the  has done it?",
+      "text": "unless the Lord has done it?",
       "verse": 6,
       "type": "poetry"
     },
     {
-      "text": "“For the Lord  does nothing",
+      "text": "“For the Lord God does nothing",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "The Lord  has spoken;",
+      "text": "The Lord God has spoken;",
       "verse": 8,
       "type": "poetry"
     },
@@ -163,7 +164,7 @@
       "type": "poetry"
     },
     {
-      "text": "“They do not know how to do right,” declares the ,",
+      "text": "“They do not know how to do right,” declares the Lord,",
       "verse": 10,
       "type": "poetry"
     },
@@ -173,7 +174,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore thus says the Lord :",
+      "text": "Therefore thus says the Lord God:",
       "verse": 11,
       "type": "newline"
     },
@@ -193,7 +194,7 @@
       "type": "poetry"
     },
     {
-      "text": "Thus says the : “As the shepherd rescues from the mouth of the lion two legs, or a piece of an ear, so shall the people of Israel who dwell in Samaria be rescued, with the corner of a couch and part of a bed.",
+      "text": "Thus says the Lord: “As the shepherd rescues from the mouth of the lion two legs, or a piece of an ear, so shall the people of Israel who dwell in Samaria be rescued, with the corner of a couch and part of a bed.",
       "verse": 12,
       "type": "newline"
     },
@@ -203,7 +204,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "declares the Lord , the God of hosts,",
+      "text": "declares the Lord God, the God of hosts,",
       "verse": 13,
       "type": "poetry"
     },
@@ -243,7 +244,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 15,
       "type": "poetry"
     }

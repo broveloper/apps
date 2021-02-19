@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 55,
+  "verses": 13,
   "content": [
     {
       "text": "Invitation to the Thirsty",
@@ -98,7 +99,7 @@
       "type": "poetry"
     },
     {
-      "text": "because of the  your God,",
+      "text": "because of the Lord your God,",
       "verse": 5,
       "type": "poetry"
     },
@@ -113,7 +114,7 @@
       "type": "poetry"
     },
     {
-      "text": "Seek the  while he may be found;",
+      "text": "Seek the Lord while he may be found;",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -133,7 +134,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let them turn to the , and he will have mercy on them,",
+      "text": "Let them turn to the Lord, and he will have mercy on them,",
       "verse": 7,
       "type": "poetry"
     },
@@ -153,7 +154,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 8,
       "type": "poetry"
     },
@@ -263,7 +264,7 @@
       "type": "poetry"
     },
     {
-      "text": "This will be for the ’s renown,",
+      "text": "This will be for the Lord’s renown,",
       "verse": 13,
       "type": "poetry"
     },

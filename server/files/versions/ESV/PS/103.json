@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 103,
+  "verses": 22,
   "content": [
     {
-      "text": "Bless the , O My Soul",
+      "text": "Bless the Lord, O My Soul",
       "type": "heading"
     },
     {
       "text": "Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Bless the , O my soul,",
+      "text": "Bless the Lord, O my soul,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -28,7 +28,7 @@
       "type": "poetry"
     },
     {
-      "text": "Bless the , O my soul,",
+      "text": "Bless the Lord, O my soul,",
       "verse": 2,
       "type": "poetry"
     },
@@ -68,7 +68,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  works righteousness",
+      "text": "The Lord works righteousness",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -88,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is merciful and gracious,",
+      "text": "The Lord is merciful and gracious,",
       "verse": 8,
       "type": "poetry"
     },
@@ -143,7 +143,7 @@
       "type": "poetry"
     },
     {
-      "text": "so the  shows compassion to those who fear him.",
+      "text": "so the Lord shows compassion to those who fear him.",
       "verse": 13,
       "type": "poetry"
     },
@@ -178,7 +178,7 @@
       "type": "poetry"
     },
     {
-      "text": "But the steadfast love of the  is from everlasting to everlasting on those who fear him,",
+      "text": "But the steadfast love of the Lord is from everlasting to everlasting on those who fear him,",
       "verse": 17,
       "type": "poetry"
     },
@@ -198,7 +198,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has established his throne in the heavens,",
+      "text": "The Lord has established his throne in the heavens,",
       "verse": 19,
       "type": "poetry"
     },
@@ -208,7 +208,7 @@
       "type": "poetry"
     },
     {
-      "text": "Bless the , O you his angels,",
+      "text": "Bless the Lord, O you his angels,",
       "verse": 20,
       "type": "poetry newline"
     },
@@ -223,7 +223,7 @@
       "type": "poetry"
     },
     {
-      "text": "Bless the , all his hosts,",
+      "text": "Bless the Lord, all his hosts,",
       "verse": 21,
       "type": "poetry"
     },
@@ -233,7 +233,7 @@
       "type": "poetry"
     },
     {
-      "text": "Bless the , all his works,",
+      "text": "Bless the Lord, all his works,",
       "verse": 22,
       "type": "poetry"
     },
@@ -243,7 +243,7 @@
       "type": "poetry"
     },
     {
-      "text": "Bless the , O my soul!",
+      "text": "Bless the Lord, O my soul!",
       "verse": 22,
       "type": "poetry"
     }

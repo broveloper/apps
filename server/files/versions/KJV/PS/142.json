@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 142,
+  "verses": 7,
   "content": [
     {
-      "text": "I cried unto the  with my voice; with my voice unto the  did I make my supplication.",
+      "text": "I cried unto the Lord with my voice; with my voice unto the Lord did I make my supplication.",
       "verse": 1
     },
     {
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "I cried unto thee, O : I said, Thou art my refuge and my portion in the land of the living.",
+      "text": "I cried unto thee, O Lord: I said, Thou art my refuge and my portion in the land of the living.",
       "verse": 5,
       "type": "newline"
     },

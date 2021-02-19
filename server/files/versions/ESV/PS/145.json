@@ -2,15 +2,15 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 145,
+  "verses": 21,
   "content": [
     {
-      "text": "Great Is the",
+      "text": "Great Is the Lord",
       "type": "heading"
     },
     {
-      "text": "A Song of Praise. Of David.",
-      "verse": 1,
-      "type": "newline"
+      "text": " A Song of Praise. Of David.",
+      "type": "title"
     },
     {
       "text": "I will extol you, my God and King,",
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "Great is the , and greatly to be praised,",
+      "text": "Great is the Lord, and greatly to be praised,",
       "verse": 3,
       "type": "poetry"
     },
@@ -83,7 +83,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is gracious and merciful,",
+      "text": "The Lord is gracious and merciful,",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -93,7 +93,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is good to all,",
+      "text": "The Lord is good to all,",
       "verse": 9,
       "type": "poetry"
     },
@@ -103,7 +103,7 @@
       "type": "poetry"
     },
     {
-      "text": "All your works shall give thanks to you, O ,",
+      "text": "All your works shall give thanks to you, O Lord,",
       "verse": 10,
       "type": "poetry newline"
     },
@@ -143,7 +143,7 @@
       "type": "poetry"
     },
     {
-      "text": "[The  is faithful in all his words",
+      "text": "[The Lord is faithful in all his words",
       "verse": 13,
       "type": "poetry newline"
     },
@@ -153,7 +153,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  upholds all who are falling",
+      "text": "The Lord upholds all who are falling",
       "verse": 14,
       "type": "poetry"
     },
@@ -183,7 +183,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is righteous in all his ways",
+      "text": "The Lord is righteous in all his ways",
       "verse": 17,
       "type": "poetry"
     },
@@ -193,7 +193,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is near to all who call on him,",
+      "text": "The Lord is near to all who call on him,",
       "verse": 18,
       "type": "poetry"
     },
@@ -213,7 +213,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  preserves all who love him,",
+      "text": "The Lord preserves all who love him,",
       "verse": 20,
       "type": "poetry"
     },
@@ -223,7 +223,7 @@
       "type": "poetry"
     },
     {
-      "text": "My mouth will speak the praise of the ,",
+      "text": "My mouth will speak the praise of the Lord,",
       "verse": 21,
       "type": "poetry newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 22,
+  "verses": 25,
   "content": [
     {
       "text": "An Oracle Concerning Jerusalem",
@@ -88,7 +89,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the Lord  of hosts has a day",
+      "text": "For the Lord God of hosts has a day",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -160,7 +161,7 @@
       "verse": 11
     },
     {
-      "text": "In that day the Lord  of hosts",
+      "text": "In that day the Lord God of hosts",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -200,7 +201,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  of hosts has revealed himself in my ears:",
+      "text": "The Lord of hosts has revealed himself in my ears:",
       "verse": 14,
       "type": "poetry"
     },
@@ -210,12 +211,12 @@
       "type": "poetry"
     },
     {
-      "text": "says the Lord  of hosts.",
+      "text": "says the Lord God of hosts.",
       "verse": 14,
       "type": "poetry"
     },
     {
-      "text": "Thus says the Lord  of hosts, “Come, go to this steward, to Shebna, who is over the household, and say to him:",
+      "text": "Thus says the Lord God of hosts, “Come, go to this steward, to Shebna, who is over the household, and say to him:",
       "verse": 15,
       "type": "newline"
     },
@@ -224,7 +225,7 @@
       "verse": 16
     },
     {
-      "text": "Behold, the  will hurl you away violently, O you strong man. He will seize firm hold on you",
+      "text": "Behold, the Lord will hurl you away violently, O you strong man. He will seize firm hold on you",
       "verse": 17
     },
     {
@@ -256,7 +257,7 @@
       "verse": 24
     },
     {
-      "text": "In that day, declares the  of hosts, the peg that was fastened in a secure place will give way, and it will be cut down and fall, and the load that was on it will be cut off, for the  has spoken.”",
+      "text": "In that day, declares the Lord of hosts, the peg that was fastened in a secure place will give way, and it will be cut down and fall, and the load that was on it will be cut off, for the Lord has spoken.”",
       "verse": 25
     }
   ]

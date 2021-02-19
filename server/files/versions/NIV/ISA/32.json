@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 32,
+  "verses": 20,
   "content": [
     {
       "text": "The Kingdom of Righteousness",
@@ -83,7 +84,7 @@
       "type": "poetry"
     },
     {
-      "text": "and spread error concerning the ;",
+      "text": "and spread error concerning the Lord;",
       "verse": 6,
       "type": "poetry"
     },
@@ -257,7 +258,7 @@
       "type": "poetry"
     },
     {
-      "text": "The ’s justice will dwell in the desert,",
+      "text": "The Lord’s justice will dwell in the desert,",
       "verse": 16,
       "type": "poetry"
     },

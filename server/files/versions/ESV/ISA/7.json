@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 7,
+  "verses": 25,
   "content": [
     {
       "text": "Isaiah Sent to King Ahaz",
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "And the  said to Isaiah, “Go out to meet Ahaz, you and Shear-jashub your son, at the end of the conduit of the upper pool on the highway to the Washer's Field.",
+      "text": "And the Lord said to Isaiah, “Go out to meet Ahaz, you and Shear-jashub your son, at the end of the conduit of the upper pool on the highway to the Washer's Field.",
       "verse": 3,
       "type": "newline"
     },
@@ -34,7 +35,7 @@
       "verse": 6
     },
     {
-      "text": "thus says the Lord :",
+      "text": "thus says the Lord God:",
       "verse": 7
     },
     {
@@ -92,16 +93,16 @@
       "type": "heading"
     },
     {
-      "text": "Again the  spoke to Ahaz:",
+      "text": "Again the Lord spoke to Ahaz:",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "“Ask a sign of the  your God; let it be deep as Sheol or high as heaven.”",
+      "text": "“Ask a sign of the Lord your God; let it be deep as Sheol or high as heaven.”",
       "verse": 11
     },
     {
-      "text": "But Ahaz said, “I will not ask, and I will not put the  to the test.”",
+      "text": "But Ahaz said, “I will not ask, and I will not put the Lord to the test.”",
       "verse": 12
     },
     {
@@ -121,11 +122,11 @@
       "verse": 16
     },
     {
-      "text": "The  will bring upon you and upon your people and upon your father's house such days as have not come since the day that Ephraim departed from Judah—the king of Assyria!”",
+      "text": "The Lord will bring upon you and upon your people and upon your father's house such days as have not come since the day that Ephraim departed from Judah—the king of Assyria!”",
       "verse": 17
     },
     {
-      "text": "In that day the  will whistle for the fly that is at the end of the streams of Egypt, and for the bee that is in the land of Assyria.",
+      "text": "In that day the Lord will whistle for the fly that is at the end of the streams of Egypt, and for the bee that is in the land of Assyria.",
       "verse": 18,
       "type": "newline"
     },

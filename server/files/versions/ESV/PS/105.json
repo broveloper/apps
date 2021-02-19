@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 105,
+  "verses": 45,
   "content": [
     {
       "text": "Tell of All His Wondrous Works",
       "type": "heading"
     },
     {
-      "text": "Oh give thanks to the ; call upon his name;",
+      "text": "Oh give thanks to the Lord; call upon his name;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -33,12 +34,12 @@
       "type": "poetry"
     },
     {
-      "text": "let the hearts of those who seek the  rejoice!",
+      "text": "let the hearts of those who seek the Lord rejoice!",
       "verse": 3,
       "type": "poetry"
     },
     {
-      "text": "Seek the  and his strength;",
+      "text": "Seek the Lord and his strength;",
       "verse": 4,
       "type": "poetry"
     },
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "He is the  our God;",
+      "text": "He is the Lord our God;",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -193,7 +194,7 @@
       "type": "poetry"
     },
     {
-      "text": "the word of the  tested him.",
+      "text": "the word of the Lord tested him.",
       "verse": 19,
       "type": "poetry"
     },
@@ -238,7 +239,7 @@
       "type": "poetry"
     },
     {
-      "text": "And the  made his people very fruitful",
+      "text": "And the Lord made his people very fruitful",
       "verse": 24,
       "type": "poetry"
     },
@@ -458,7 +459,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the !",
+      "text": "Praise the Lord!",
       "verse": 45,
       "type": "poetry"
     }

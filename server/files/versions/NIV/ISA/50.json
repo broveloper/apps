@@ -2,13 +2,14 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 50,
+  "verses": 11,
   "content": [
     {
       "text": "Israel’s Sin and the Servant’s Obedience",
       "type": "heading"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 1,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "poetry"
     },
     {
-      "text": "The Sovereign  has given me a well-instructed tongue,",
+      "text": "The Sovereign Lord has given me a well-instructed tongue,",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -113,7 +114,7 @@
       "type": "poetry"
     },
     {
-      "text": "The Sovereign  has opened my ears;",
+      "text": "The Sovereign Lord has opened my ears;",
       "verse": 5,
       "type": "poetry"
     },
@@ -148,7 +149,7 @@
       "type": "poetry"
     },
     {
-      "text": "Because the Sovereign  helps me,",
+      "text": "Because the Sovereign Lord helps me,",
       "verse": 7,
       "type": "poetry"
     },
@@ -193,7 +194,7 @@
       "type": "poetry"
     },
     {
-      "text": "It is the Sovereign  who helps me.",
+      "text": "It is the Sovereign Lord who helps me.",
       "verse": 9,
       "type": "poetry"
     },
@@ -213,7 +214,7 @@
       "type": "poetry"
     },
     {
-      "text": "Who among you fears the",
+      "text": "Who among you fears the Lord",
       "verse": 10,
       "type": "poetry newline"
     },
@@ -233,7 +234,7 @@
       "type": "poetry"
     },
     {
-      "text": "trust in the name of the",
+      "text": "trust in the name of the Lord",
       "verse": 10,
       "type": "poetry"
     },

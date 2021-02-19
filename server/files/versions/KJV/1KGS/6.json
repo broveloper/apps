@@ -2,13 +2,14 @@
   "book_id": "1KGS",
   "book_name": "1 Kings",
   "chapter": 6,
+  "verses": 38,
   "content": [
     {
-      "text": "And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month Zif, which is the second month, that he began to build the house of the .",
+      "text": "And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month Zif, which is the second month, that he began to build the house of the Lord.",
       "verse": 1
     },
     {
-      "text": "And the house which king Solomon built for the , the length thereof was threescore cubits, and the breadth thereof twenty cubits, and the height thereof thirty cubits.",
+      "text": "And the house which king Solomon built for the Lord, the length thereof was threescore cubits, and the breadth thereof twenty cubits, and the height thereof thirty cubits.",
       "verse": 2,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "And the word of the  came to Solomon, saying,",
+      "text": "And the word of the Lord came to Solomon, saying,",
       "verse": 11,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "And the oracle he prepared in the house within, to set there the ark of the covenant of the .",
+      "text": "And the oracle he prepared in the house within, to set there the ark of the covenant of the Lord.",
       "verse": 19,
       "type": "newline"
     },
@@ -183,7 +184,7 @@
       "type": "newline"
     },
     {
-      "text": "In the fourth year was the foundation of the house of the  laid, in the month Zif:",
+      "text": "In the fourth year was the foundation of the house of the Lord laid, in the month Zif:",
       "verse": 37,
       "type": "newline"
     },

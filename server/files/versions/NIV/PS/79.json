@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 79,
+  "verses": 13,
   "content": [
     {
       "text": "Psalm 79",
@@ -9,8 +10,7 @@
     },
     {
       "text": "A psalm of Asaph.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "O God, the nations have invaded your inheritance;",
@@ -68,7 +68,7 @@
       "type": "poetry"
     },
     {
-      "text": "How long, ? Will you be angry forever?",
+      "text": "How long, Lord? Will you be angry forever?",
       "verse": 5,
       "type": "poetry newline"
     },

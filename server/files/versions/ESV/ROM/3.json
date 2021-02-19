@@ -2,6 +2,7 @@
   "book_id": "ROM",
   "book_name": "Romans",
   "chapter": 3,
+  "verses": 31,
   "content": [
     {
       "text": "God's Righteousness Upheld",
@@ -70,7 +71,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "no one understands;",
+      "text": "    no one understands;",
       "verse": 11,
       "type": "poetry"
     },
@@ -110,7 +111,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Their mouth is full of curses and bitterness.”",
+      "text": "    “Their mouth is full of curses and bitterness.”",
       "verse": 14,
       "type": "poetry"
     },
@@ -120,7 +121,7 @@
       "type": "poetry"
     },
     {
-      "text": "in their paths are ruin and misery,",
+      "text": "    in their paths are ruin and misery,",
       "verse": 16,
       "type": "poetry"
     },
@@ -130,7 +131,7 @@
       "type": "poetry"
     },
     {
-      "text": "“There is no fear of God before their eyes.”",
+      "text": "    “There is no fear of God before their eyes.”",
       "verse": 18,
       "type": "poetry"
     },

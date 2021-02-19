@@ -2,6 +2,7 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 19,
+  "verses": 43,
   "content": [
     {
       "text": "And it was told Joab, Behold, the king weepeth and mourneth for Absalom.",
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "Now therefore arise, go forth, and speak comfortably unto thy servants: for I swear by the , if thou go not forth, there will not tarry one with thee this night: and that will be worse unto thee than all the evil that befell thee from thy youth until now.",
+      "text": "Now therefore arise, go forth, and speak comfortably unto thy servants: for I swear by the Lord, if thou go not forth, there will not tarry one with thee this night: and that will be worse unto thee than all the evil that befell thee from thy youth until now.",
       "verse": 7,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "But Abishai the son of Zeruiah answered and said, Shall not Shimei be put to death for this, because he cursed the 's anointed?",
+      "text": "But Abishai the son of Zeruiah answered and said, Shall not Shimei be put to death for this, because he cursed the Lord's anointed?",
       "verse": 21,
       "type": "newline"
     },

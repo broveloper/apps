@@ -2,18 +2,19 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 23,
+  "verses": 40,
   "content": [
     {
       "text": "The Righteous Branch",
       "type": "heading"
     },
     {
-      "text": "“Woe to the shepherds who destroy and scatter the sheep of my pasture!” declares the .",
+      "text": "“Woe to the shepherds who destroy and scatter the sheep of my pasture!” declares the Lord.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "Therefore thus says the , the God of Israel, concerning the shepherds who care for my people: “You have scattered my flock and have driven them away, and you have not attended to them. Behold, I will attend to you for your evil deeds, declares the .",
+      "text": "Therefore thus says the Lord, the God of Israel, concerning the shepherds who care for my people: “You have scattered my flock and have driven them away, and you have not attended to them. Behold, I will attend to you for your evil deeds, declares the Lord.",
       "verse": 2
     },
     {
@@ -21,25 +22,25 @@
       "verse": 3
     },
     {
-      "text": "I will set shepherds over them who will care for them, and they shall fear no more, nor be dismayed, neither shall any be missing, declares the .",
+      "text": "I will set shepherds over them who will care for them, and they shall fear no more, nor be dismayed, neither shall any be missing, declares the Lord.",
       "verse": 4
     },
     {
-      "text": "“Behold, the days are coming, declares the , when I will raise up for David a righteous Branch, and he shall reign as king and deal wisely, and shall execute justice and righteousness in the land.",
+      "text": "“Behold, the days are coming, declares the Lord, when I will raise up for David a righteous Branch, and he shall reign as king and deal wisely, and shall execute justice and righteousness in the land.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "In his days Judah will be saved, and Israel will dwell securely. And this is the name by which he will be called: ‘The  is our righteousness.’",
+      "text": "In his days Judah will be saved, and Israel will dwell securely. And this is the name by which he will be called: ‘The Lord is our righteousness.’",
       "verse": 6
     },
     {
-      "text": "“Therefore, behold, the days are coming, declares the , when they shall no longer say, ‘As the  lives who brought up the people of Israel out of the land of Egypt,’",
+      "text": "“Therefore, behold, the days are coming, declares the Lord, when they shall no longer say, ‘As the Lord lives who brought up the people of Israel out of the land of Egypt,’",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "but ‘As the  lives who brought up and led the offspring of the house of Israel out of the north country and out of all the countries where he had driven them.’ Then they shall dwell in their own land.”",
+      "text": "but ‘As the Lord lives who brought up and led the offspring of the house of Israel out of the north country and out of all the countries where he had driven them.’ Then they shall dwell in their own land.”",
       "verse": 8
     },
     {
@@ -72,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "because of the",
+      "text": "because of the Lord",
       "verse": 9,
       "type": "poetry"
     },
@@ -117,7 +118,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 11,
       "type": "poetry"
     },
@@ -147,7 +148,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 12,
       "type": "poetry"
     },
@@ -207,7 +208,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore thus says the  of hosts concerning the prophets:",
+      "text": "Therefore thus says the Lord of hosts concerning the prophets:",
       "verse": 15,
       "type": "poetry"
     },
@@ -232,16 +233,16 @@
       "type": "poetry"
     },
     {
-      "text": "Thus says the  of hosts: “Do not listen to the words of the prophets who prophesy to you, filling you with vain hopes. They speak visions of their own minds, not from the mouth of the .",
+      "text": "Thus says the Lord of hosts: “Do not listen to the words of the prophets who prophesy to you, filling you with vain hopes. They speak visions of their own minds, not from the mouth of the Lord.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "They say continually to those who despise the word of the , ‘It shall be well with you’; and to everyone who stubbornly follows his own heart, they say, ‘No disaster shall come upon you.’”",
+      "text": "They say continually to those who despise the word of the Lord, ‘It shall be well with you’; and to everyone who stubbornly follows his own heart, they say, ‘No disaster shall come upon you.’”",
       "verse": 17
     },
     {
-      "text": "For who among them has stood in the council of the",
+      "text": "For who among them has stood in the council of the Lord",
       "verse": 18,
       "type": "poetry newline"
     },
@@ -256,7 +257,7 @@
       "type": "poetry"
     },
     {
-      "text": "Behold, the storm of the !",
+      "text": "Behold, the storm of the Lord!",
       "verse": 19,
       "type": "poetry"
     },
@@ -276,7 +277,7 @@
       "type": "poetry"
     },
     {
-      "text": "The anger of the  will not turn back",
+      "text": "The anger of the Lord will not turn back",
       "verse": 20,
       "type": "poetry"
     },
@@ -336,12 +337,12 @@
       "type": "poetry"
     },
     {
-      "text": "“Am I a God at hand, declares the , and not a God far away?",
+      "text": "“Am I a God at hand, declares the Lord, and not a God far away?",
       "verse": 23,
       "type": "newline"
     },
     {
-      "text": "Can a man hide himself in secret places so that I cannot see him? declares the . Do I not fill heaven and earth? declares the .",
+      "text": "Can a man hide himself in secret places so that I cannot see him? declares the Lord. Do I not fill heaven and earth? declares the Lord.",
       "verse": 24
     },
     {
@@ -357,48 +358,48 @@
       "verse": 27
     },
     {
-      "text": "Let the prophet who has a dream tell the dream, but let him who has my word speak my word faithfully. What has straw in common with wheat? declares the .",
+      "text": "Let the prophet who has a dream tell the dream, but let him who has my word speak my word faithfully. What has straw in common with wheat? declares the Lord.",
       "verse": 28
     },
     {
-      "text": "Is not my word like fire, declares the , and like a hammer that breaks the rock in pieces?",
+      "text": "Is not my word like fire, declares the Lord, and like a hammer that breaks the rock in pieces?",
       "verse": 29
     },
     {
-      "text": "Therefore, behold, I am against the prophets, declares the , who steal my words from one another.",
+      "text": "Therefore, behold, I am against the prophets, declares the Lord, who steal my words from one another.",
       "verse": 30
     },
     {
-      "text": "Behold, I am against the prophets, declares the , who use their tongues and declare, ‘declares the .’",
+      "text": "Behold, I am against the prophets, declares the Lord, who use their tongues and declare, ‘declares the Lord.’",
       "verse": 31
     },
     {
-      "text": "Behold, I am against those who prophesy lying dreams, declares the , and who tell them and lead my people astray by their lies and their recklessness, when I did not send them or charge them. So they do not profit this people at all, declares the .",
+      "text": "Behold, I am against those who prophesy lying dreams, declares the Lord, and who tell them and lead my people astray by their lies and their recklessness, when I did not send them or charge them. So they do not profit this people at all, declares the Lord.",
       "verse": 32
     },
     {
-      "text": "“When one of this people, or a prophet or a priest asks you, ‘What is the burden of the ?’ you shall say to them, ‘You are the burden, and I will cast you off, declares the .’",
+      "text": "“When one of this people, or a prophet or a priest asks you, ‘What is the burden of the Lord?’ you shall say to them, ‘You are the burden, and I will cast you off, declares the Lord.’",
       "verse": 33,
       "type": "newline"
     },
     {
-      "text": "And as for the prophet, priest, or one of the people who says, ‘The burden of the ,’ I will punish that man and his household.",
+      "text": "And as for the prophet, priest, or one of the people who says, ‘The burden of the Lord,’ I will punish that man and his household.",
       "verse": 34
     },
     {
-      "text": "Thus shall you say, every one to his neighbor and every one to his brother, ‘What has the  answered?’ or ‘What has the  spoken?’",
+      "text": "Thus shall you say, every one to his neighbor and every one to his brother, ‘What has the Lord answered?’ or ‘What has the Lord spoken?’",
       "verse": 35
     },
     {
-      "text": "But ‘the burden of the ’ you shall mention no more, for the burden is every man's own word, and you pervert the words of the living God, the  of hosts, our God.",
+      "text": "But ‘the burden of the Lord’ you shall mention no more, for the burden is every man's own word, and you pervert the words of the living God, the Lord of hosts, our God.",
       "verse": 36
     },
     {
-      "text": "Thus you shall say to the prophet, ‘What has the  answered you?’ or ‘What has the  spoken?’",
+      "text": "Thus you shall say to the prophet, ‘What has the Lord answered you?’ or ‘What has the Lord spoken?’",
       "verse": 37
     },
     {
-      "text": "But if you say, ‘The burden of the ,’ thus says the , ‘Because you have said these words, “The burden of the ,” when I sent to you, saying, “You shall not say, ‘The burden of the ,’”",
+      "text": "But if you say, ‘The burden of the Lord,’ thus says the Lord, ‘Because you have said these words, “The burden of the Lord,” when I sent to you, saying, “You shall not say, ‘The burden of the Lord,’”",
       "verse": 38
     },
     {

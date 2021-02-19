@@ -2,13 +2,14 @@
   "book_id": "HAB",
   "book_name": "Habakkuk",
   "chapter": 2,
+  "verses": 20,
   "content": [
     {
       "text": "I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.",
       "verse": 1
     },
     {
-      "text": "And the  answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.",
+      "text": "And the Lord answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.",
       "verse": 2,
       "type": "newline"
     },
@@ -63,12 +64,12 @@
       "type": "newline"
     },
     {
-      "text": "Behold, is it not of the  of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity?",
+      "text": "Behold, is it not of the Lord of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity?",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "For the earth shall be filled with the knowledge of the glory of the , as the waters cover the sea.",
+      "text": "For the earth shall be filled with the knowledge of the glory of the Lord, as the waters cover the sea.",
       "verse": 14,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the 's right hand shall be turned unto thee, and shameful spewing shall be on thy glory.",
+      "text": "Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the Lord's right hand shall be turned unto thee, and shameful spewing shall be on thy glory.",
       "verse": 16,
       "type": "newline"
     },
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "But the  is in his holy temple: let all the earth keep silence before him.",
+      "text": "But the Lord is in his holy temple: let all the earth keep silence before him.",
       "verse": 20,
       "type": "newline"
     }

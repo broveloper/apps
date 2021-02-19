@@ -2,9 +2,10 @@
   "book_id": "LAM",
   "book_name": "Lamentations",
   "chapter": 3,
+  "verses": 66,
   "content": [
     {
-      "text": "the man that hath seen affliction by the rod of his wrath.",
+      "text": "I Am the man that hath seen affliction by the rod of his wrath.",
       "verse": 1
     },
     {
@@ -88,7 +89,7 @@
       "type": "newline"
     },
     {
-      "text": "And I said, My strength and my hope is perished from the :",
+      "text": "And I said, My strength and my hope is perished from the Lord:",
       "verse": 18,
       "type": "newline"
     },
@@ -108,7 +109,7 @@
       "type": "newline"
     },
     {
-      "text": "It is of the 's mercies that we are not consumed, because his compassions fail not.",
+      "text": "It is of the Lord's mercies that we are not consumed, because his compassions fail not.",
       "verse": 22,
       "type": "newline"
     },
@@ -118,17 +119,17 @@
       "type": "newline"
     },
     {
-      "text": "The  is my portion, saith my soul; therefore will I hope in him.",
+      "text": "The Lord is my portion, saith my soul; therefore will I hope in him.",
       "verse": 24,
       "type": "newline"
     },
     {
-      "text": "The  is good unto them that wait for him, to the soul that seeketh him.",
+      "text": "The Lord is good unto them that wait for him, to the soul that seeketh him.",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "It is good that a man should both hope and quietly wait for the salvation of the .",
+      "text": "It is good that a man should both hope and quietly wait for the salvation of the Lord.",
       "verse": 26,
       "type": "newline"
     },
@@ -153,7 +154,7 @@
       "type": "newline"
     },
     {
-      "text": "For the  will not cast off for ever:",
+      "text": "For the Lord will not cast off for ever:",
       "verse": 31,
       "type": "newline"
     },
@@ -178,7 +179,7 @@
       "type": "newline"
     },
     {
-      "text": "To subvert a man in his cause, the  approveth not.",
+      "text": "To subvert a man in his cause, the Lord approveth not.",
       "verse": 36,
       "type": "newline"
     },
@@ -198,7 +199,7 @@
       "type": "newline"
     },
     {
-      "text": "Let us search and try our ways, and turn again to the .",
+      "text": "Let us search and try our ways, and turn again to the Lord.",
       "verse": 40,
       "type": "newline"
     },
@@ -248,7 +249,7 @@
       "type": "newline"
     },
     {
-      "text": "Till the  look down, and behold from heaven.",
+      "text": "Till the Lord look down, and behold from heaven.",
       "verse": 50,
       "type": "newline"
     },
@@ -273,7 +274,7 @@
       "type": "newline"
     },
     {
-      "text": "I called upon thy name, O , out of the low dungeon.",
+      "text": "I called upon thy name, O Lord, out of the low dungeon.",
       "verse": 55,
       "type": "newline"
     },
@@ -288,12 +289,12 @@
       "type": "newline"
     },
     {
-      "text": "O , thou hast pleaded the causes of my soul; thou hast redeemed my life.",
+      "text": "O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life.",
       "verse": 58,
       "type": "newline"
     },
     {
-      "text": "O , thou hast seen my wrong: judge thou my cause.",
+      "text": "O Lord, thou hast seen my wrong: judge thou my cause.",
       "verse": 59,
       "type": "newline"
     },
@@ -303,7 +304,7 @@
       "type": "newline"
     },
     {
-      "text": "Thou hast heard their reproach, O , and all their imaginations against me;",
+      "text": "Thou hast heard their reproach, O Lord, and all their imaginations against me;",
       "verse": 61,
       "type": "newline"
     },
@@ -318,7 +319,7 @@
       "type": "newline"
     },
     {
-      "text": "Render unto them a recompence, O , according to the work of their hands.",
+      "text": "Render unto them a recompence, O Lord, according to the work of their hands.",
       "verse": 64,
       "type": "newline"
     },
@@ -328,7 +329,7 @@
       "type": "newline"
     },
     {
-      "text": "Persecute and destroy them in anger from under the heavens of the .",
+      "text": "Persecute and destroy them in anger from under the heavens of the Lord.",
       "verse": 66,
       "type": "newline"
     }

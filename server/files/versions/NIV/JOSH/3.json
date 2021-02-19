@@ -2,6 +2,7 @@
   "book_id": "JOSH",
   "book_name": "Joshua",
   "chapter": 3,
+  "verses": 17,
   "content": [
     {
       "text": "Crossing the Jordan",
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "giving orders to the people: “When you see the ark of the covenant of the  your God, and the Levitical priests carrying it, you are to move out from your positions and follow it.",
+      "text": "giving orders to the people: “When you see the ark of the covenant of the Lord your God, and the Levitical priests carrying it, you are to move out from your positions and follow it.",
       "verse": 3
     },
     {
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "Joshua told the people, “Consecrate yourselves, for tomorrow the  will do amazing things among you.”",
+      "text": "Joshua told the people, “Consecrate yourselves, for tomorrow the Lord will do amazing things among you.”",
       "verse": 5,
       "type": "newline"
     },
@@ -35,7 +36,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  said to Joshua, “Today I will begin to exalt you in the eyes of all Israel, so they may know that I am with you as I was with Moses.",
+      "text": "And the Lord said to Joshua, “Today I will begin to exalt you in the eyes of all Israel, so they may know that I am with you as I was with Moses.",
       "verse": 7,
       "type": "newline"
     },
@@ -44,7 +45,7 @@
       "verse": 8
     },
     {
-      "text": "Joshua said to the Israelites, “Come here and listen to the words of the  your God.",
+      "text": "Joshua said to the Israelites, “Come here and listen to the words of the Lord your God.",
       "verse": 9,
       "type": "newline"
     },
@@ -61,7 +62,7 @@
       "verse": 12
     },
     {
-      "text": "And as soon as the priests who carry the ark of the —the Lord of all the earth—set foot in the Jordan, its waters flowing downstream will be cut off and stand up in a heap.”",
+      "text": "And as soon as the priests who carry the ark of the Lord—the Lord of all the earth—set foot in the Jordan, its waters flowing downstream will be cut off and stand up in a heap.”",
       "verse": 13
     },
     {
@@ -78,7 +79,7 @@
       "verse": 16
     },
     {
-      "text": "The priests who carried the ark of the covenant of the  stopped in the middle of the Jordan and stood on dry ground, while all Israel passed by until the whole nation had completed the crossing on dry ground.",
+      "text": "The priests who carried the ark of the covenant of the Lord stopped in the middle of the Jordan and stood on dry ground, while all Israel passed by until the whole nation had completed the crossing on dry ground.",
       "verse": 17
     }
   ]

@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 38,
+  "verses": 23,
   "content": [
     {
       "text": "Prophecy Against Gog",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "and say, Thus says the Lord : Behold, I am against you, O Gog, chief prince of Meshech and Tubal.",
+      "text": "and say, Thus says the Lord God: Behold, I am against you, O Gog, chief prince of Meshech and Tubal.",
       "verse": 3
     },
     {
@@ -46,7 +47,7 @@
       "verse": 9
     },
     {
-      "text": "“Thus says the Lord : On that day, thoughts will come into your mind, and you will devise an evil scheme",
+      "text": "“Thus says the Lord God: On that day, thoughts will come into your mind, and you will devise an evil scheme",
       "verse": 10,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "verse": 13
     },
     {
-      "text": "“Therefore, son of man, prophesy, and say to Gog, Thus says the Lord : On that day when my people Israel are dwelling securely, will you not know it?",
+      "text": "“Therefore, son of man, prophesy, and say to Gog, Thus says the Lord God: On that day when my people Israel are dwelling securely, will you not know it?",
       "verse": 14,
       "type": "newline"
     },
@@ -76,12 +77,12 @@
       "verse": 16
     },
     {
-      "text": "“Thus says the Lord : Are you he of whom I spoke in former days by my servants the prophets of Israel, who in those days prophesied for years that I would bring you against them?",
+      "text": "“Thus says the Lord God: Are you he of whom I spoke in former days by my servants the prophets of Israel, who in those days prophesied for years that I would bring you against them?",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "But on that day, the day that Gog shall come against the land of Israel, declares the Lord , my wrath will be roused in my anger.",
+      "text": "But on that day, the day that Gog shall come against the land of Israel, declares the Lord God, my wrath will be roused in my anger.",
       "verse": 18
     },
     {
@@ -93,7 +94,7 @@
       "verse": 20
     },
     {
-      "text": "I will summon a sword against Gog on all my mountains, declares the Lord . Every man's sword will be against his brother.",
+      "text": "I will summon a sword against Gog on all my mountains, declares the Lord God. Every man's sword will be against his brother.",
       "verse": 21
     },
     {
@@ -101,7 +102,7 @@
       "verse": 22
     },
     {
-      "text": "So I will show my greatness and my holiness and make myself known in the eyes of many nations. Then they will know that I am the .",
+      "text": "So I will show my greatness and my holiness and make myself known in the eyes of many nations. Then they will know that I am the Lord.",
       "verse": 23
     }
   ]

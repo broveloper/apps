@@ -2,22 +2,23 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 22,
+  "verses": 30,
   "content": [
     {
       "text": "Judgment Against Wicked Kings",
       "type": "heading"
     },
     {
-      "text": "This is what the  says: “Go down to the palace of the king of Judah and proclaim this message there:",
+      "text": "This is what the Lord says: “Go down to the palace of the king of Judah and proclaim this message there:",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "‘Hear the word of the  to you, king of Judah, you who sit on David’s throne—you, your officials and your people who come through these gates.",
+      "text": "‘Hear the word of the Lord to you, king of Judah, you who sit on David’s throne—you, your officials and your people who come through these gates.",
       "verse": 2
     },
     {
-      "text": "This is what the  says: Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed. Do no wrong or violence to the foreigner, the fatherless or the widow, and do not shed innocent blood in this place.",
+      "text": "This is what the Lord says: Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed. Do no wrong or violence to the foreigner, the fatherless or the widow, and do not shed innocent blood in this place.",
       "verse": 3
     },
     {
@@ -25,11 +26,11 @@
       "verse": 4
     },
     {
-      "text": "But if you do not obey these commands, declares the , I swear by myself that this palace will become a ruin.’”",
+      "text": "But if you do not obey these commands, declares the Lord, I swear by myself that this palace will become a ruin.’”",
       "verse": 5
     },
     {
-      "text": "For this is what the  says about the palace of the king of Judah:",
+      "text": "For this is what the Lord says about the palace of the king of Judah:",
       "verse": 6,
       "type": "newline"
     },
@@ -74,12 +75,12 @@
       "type": "poetry"
     },
     {
-      "text": "“People from many nations will pass by this city and will ask one another, ‘Why has the  done such a thing to this great city?’",
+      "text": "“People from many nations will pass by this city and will ask one another, ‘Why has the Lord done such a thing to this great city?’",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "And the answer will be: ‘Because they have forsaken the covenant of the  their God and have worshiped and served other gods.’”",
+      "text": "And the answer will be: ‘Because they have forsaken the covenant of the Lord their God and have worshiped and served other gods.’”",
       "verse": 9
     },
     {
@@ -103,7 +104,7 @@
       "type": "poetry"
     },
     {
-      "text": "For this is what the  says about Shallum son of Josiah, who succeeded his father as king of Judah but has gone from this place: “He will never return.",
+      "text": "For this is what the Lord says about Shallum son of Josiah, who succeeded his father as king of Judah but has gone from this place: “He will never return.",
       "verse": 11,
       "type": "newline"
     },
@@ -197,7 +198,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 16,
       "type": "poetry"
     },
@@ -222,7 +223,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore this is what the  says about Jehoiakim son of Josiah king of Judah:",
+      "text": "Therefore this is what the Lord says about Jehoiakim son of Josiah king of Judah:",
       "verse": 18,
       "type": "newline"
     },
@@ -342,7 +343,7 @@
       "type": "poetry"
     },
     {
-      "text": "“As surely as I live,” declares the , “even if you, Jehoiachin son of Jehoiakim king of Judah, were a signet ring on my right hand, I would still pull you off.",
+      "text": "“As surely as I live,” declares the Lord, “even if you, Jehoiachin son of Jehoiakim king of Judah, were a signet ring on my right hand, I would still pull you off.",
       "verse": 24,
       "type": "newline"
     },
@@ -384,12 +385,12 @@
       "type": "poetry"
     },
     {
-      "text": "hear the word of the !",
+      "text": "hear the word of the Lord!",
       "verse": 29,
       "type": "poetry"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 30,
       "type": "poetry"
     },

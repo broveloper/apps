@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 13,
+  "verses": 18,
   "content": [
     {
       "text": "And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "Unto the place of the altar, which he had make there at the first: and there Abram called on the name of the .",
+      "text": "Unto the place of the altar, which he had make there at the first: and there Abram called on the name of the Lord.",
       "verse": 4,
       "type": "newline"
     },
@@ -48,7 +49,7 @@
       "type": "newline"
     },
     {
-      "text": "And Lot lifted up his eyes, and beheld all the plain of Jordan, that it was well watered every where, before the  destroyed Sodom and Gomorrah, even as the garden of the , like the land of Egypt, as thou comest unto Zoar.",
+      "text": "And Lot lifted up his eyes, and beheld all the plain of Jordan, that it was well watered every where, before the Lord destroyed Sodom and Gomorrah, even as the garden of the Lord, like the land of Egypt, as thou comest unto Zoar.",
       "verse": 10,
       "type": "newline"
     },
@@ -63,12 +64,12 @@
       "type": "newline"
     },
     {
-      "text": "But the men of Sodom were wicked and sinners before the  exceedingly.",
+      "text": "But the men of Sodom were wicked and sinners before the Lord exceedingly.",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "And the  said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:",
+      "text": "And the Lord said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:",
       "verse": 14,
       "type": "newline"
     },
@@ -88,7 +89,7 @@
       "type": "newline"
     },
     {
-      "text": "Then Abram removed his tent, and came and dwelt in the plain of Mamre, which is in Hebron, and built there an altar unto the .",
+      "text": "Then Abram removed his tent, and came and dwelt in the plain of Mamre, which is in Hebron, and built there an altar unto the Lord.",
       "verse": 18,
       "type": "newline"
     }

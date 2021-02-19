@@ -2,9 +2,10 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 8,
+  "verses": 14,
   "content": [
     {
-      "text": "Set the trumpet to thy mouth. He shall come as an eagle against the house of the , because they have transgressed my covenant, and trespassed against my law.",
+      "text": "Set the trumpet to thy mouth. He shall come as an eagle against the house of the Lord, because they have transgressed my covenant, and trespassed against my law.",
       "verse": 1
     },
     {
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "They sacrifice flesh for the sacrifices of mine offerings, and eat it; but the  accepteth them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt.",
+      "text": "They sacrifice flesh for the sacrifices of mine offerings, and eat it; but the Lord accepteth them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt.",
       "verse": 13,
       "type": "newline"
     },

@@ -2,13 +2,14 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 18,
+  "verses": 33,
   "content": [
     {
       "text": "The Three Visitors",
       "type": "heading"
     },
     {
-      "text": "The  appeared to Abraham near the great trees of Mamre while he was sitting at the entrance to his tent in the heat of the day.",
+      "text": "The Lord appeared to Abraham near the great trees of Mamre while he was sitting at the entrance to his tent in the heat of the day.",
       "verse": 1,
       "type": "newline"
     },
@@ -77,12 +78,12 @@
       "verse": 12
     },
     {
-      "text": "Then the  said to Abraham, “Why did Sarah laugh and say, ‘Will I really have a child, now that I am old?’",
+      "text": "Then the Lord said to Abraham, “Why did Sarah laugh and say, ‘Will I really have a child, now that I am old?’",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "Is anything too hard for the ? I will return to you at the appointed time next year, and Sarah will have a son.”",
+      "text": "Is anything too hard for the Lord? I will return to you at the appointed time next year, and Sarah will have a son.”",
       "verse": 14
     },
     {
@@ -105,7 +106,7 @@
       "type": "newline"
     },
     {
-      "text": "Then the  said, “Shall I hide from Abraham what I am about to do?",
+      "text": "Then the Lord said, “Shall I hide from Abraham what I am about to do?",
       "verse": 17
     },
     {
@@ -113,11 +114,11 @@
       "verse": 18
     },
     {
-      "text": "For I have chosen him, so that he will direct his children and his household after him to keep the way of the  by doing what is right and just, so that the  will bring about for Abraham what he has promised him.”",
+      "text": "For I have chosen him, so that he will direct his children and his household after him to keep the way of the Lord by doing what is right and just, so that the Lord will bring about for Abraham what he has promised him.”",
       "verse": 19
     },
     {
-      "text": "Then the  said, “The outcry against Sodom and Gomorrah is so great and their sin so grievous",
+      "text": "Then the Lord said, “The outcry against Sodom and Gomorrah is so great and their sin so grievous",
       "verse": 20,
       "type": "newline"
     },
@@ -126,7 +127,7 @@
       "verse": 21
     },
     {
-      "text": "The men turned away and went toward Sodom, but Abraham remained standing before the .",
+      "text": "The men turned away and went toward Sodom, but Abraham remained standing before the Lord.",
       "verse": 22,
       "type": "newline"
     },
@@ -143,7 +144,7 @@
       "verse": 25
     },
     {
-      "text": "The  said, “If I find fifty righteous people in the city of Sodom, I will spare the whole place for their sake.”",
+      "text": "The Lord said, “If I find fifty righteous people in the city of Sodom, I will spare the whole place for their sake.”",
       "verse": 26,
       "type": "newline"
     },
@@ -202,7 +203,7 @@
       "type": "newline"
     },
     {
-      "text": "When the  had finished speaking with Abraham, he left, and Abraham returned home.",
+      "text": "When the Lord had finished speaking with Abraham, he left, and Abraham returned home.",
       "verse": 33,
       "type": "newline"
     }

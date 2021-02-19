@@ -2,9 +2,10 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 13,
+  "verses": 16,
   "content": [
     {
-      "text": "The 's Relentless Judgment on Israel",
+      "text": "The Lord's Relentless Judgment on Israel",
       "type": "heading"
     },
     {
@@ -73,7 +74,7 @@
       "type": "poetry"
     },
     {
-      "text": "But I am the  your God",
+      "text": "But I am the Lord your God",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -248,7 +249,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "the east wind, the wind of the , shall come,",
+      "text": "the east wind, the wind of the Lord, shall come,",
       "verse": 15,
       "type": "poetry"
     },
@@ -278,7 +279,7 @@
       "type": "poetry"
     },
     {
-      "text": "Samaria shall bear her guilt,",
+      "text": " Samaria shall bear her guilt,",
       "verse": 16,
       "type": "poetry"
     },

@@ -2,18 +2,19 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 6,
+  "verses": 27,
   "content": [
     {
       "text": "The Nazirite Vow",
       "type": "heading"
     },
     {
-      "text": "And the  spoke to Moses, saying,",
+      "text": "And the Lord spoke to Moses, saying,",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Speak to the people of Israel and say to them, When either a man or a woman makes a special vow, the vow of a Nazirite, to separate himself to the ,",
+      "text": "“Speak to the people of Israel and say to them, When either a man or a woman makes a special vow, the vow of a Nazirite, to separate himself to the Lord,",
       "verse": 2
     },
     {
@@ -25,12 +26,12 @@
       "verse": 4
     },
     {
-      "text": "“All the days of his vow of separation, no razor shall touch his head. Until the time is completed for which he separates himself to the , he shall be holy. He shall let the locks of hair of his head grow long.",
+      "text": "“All the days of his vow of separation, no razor shall touch his head. Until the time is completed for which he separates himself to the Lord, he shall be holy. He shall let the locks of hair of his head grow long.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "“All the days that he separates himself to the  he shall not go near a dead body.",
+      "text": "“All the days that he separates himself to the Lord he shall not go near a dead body.",
       "verse": 6,
       "type": "newline"
     },
@@ -39,7 +40,7 @@
       "verse": 7
     },
     {
-      "text": "All the days of his separation he is holy to the .",
+      "text": "All the days of his separation he is holy to the Lord.",
       "verse": 8
     },
     {
@@ -56,7 +57,7 @@
       "verse": 11
     },
     {
-      "text": "and separate himself to the  for the days of his separation and bring a male lamb a year old for a guilt offering. But the previous period shall be void, because his separation was defiled.",
+      "text": "and separate himself to the Lord for the days of his separation and bring a male lamb a year old for a guilt offering. But the previous period shall be void, because his separation was defiled.",
       "verse": 12
     },
     {
@@ -65,7 +66,7 @@
       "type": "newline"
     },
     {
-      "text": "and he shall bring his gift to the , one male lamb a year old without blemish for a burnt offering, and one ewe lamb a year old without blemish as a sin offering, and one ram without blemish as a peace offering,",
+      "text": "and he shall bring his gift to the Lord, one male lamb a year old without blemish for a burnt offering, and one ewe lamb a year old without blemish as a sin offering, and one ram without blemish as a peace offering,",
       "verse": 14
     },
     {
@@ -73,11 +74,11 @@
       "verse": 15
     },
     {
-      "text": "And the priest shall bring them before the  and offer his sin offering and his burnt offering,",
+      "text": "And the priest shall bring them before the Lord and offer his sin offering and his burnt offering,",
       "verse": 16
     },
     {
-      "text": "and he shall offer the ram as a sacrifice of peace offering to the , with the basket of unleavened bread. The priest shall offer also its grain offering and its drink offering.",
+      "text": "and he shall offer the ram as a sacrifice of peace offering to the Lord, with the basket of unleavened bread. The priest shall offer also its grain offering and its drink offering.",
       "verse": 17
     },
     {
@@ -89,11 +90,11 @@
       "verse": 19
     },
     {
-      "text": "and the priest shall wave them for a wave offering before the . They are a holy portion for the priest, together with the breast that is waved and the thigh that is contributed. And after that the Nazirite may drink wine.",
+      "text": "and the priest shall wave them for a wave offering before the Lord. They are a holy portion for the priest, together with the breast that is waved and the thigh that is contributed. And after that the Nazirite may drink wine.",
       "verse": 20
     },
     {
-      "text": "“This is the law of the Nazirite. But if he vows an offering to the  above his Nazirite vow, as he can afford, in exact accordance with the vow that he takes, then he shall do in addition to the law of the Nazirite.”",
+      "text": "“This is the law of the Nazirite. But if he vows an offering to the Lord above his Nazirite vow, as he can afford, in exact accordance with the vow that he takes, then he shall do in addition to the law of the Nazirite.”",
       "verse": 21,
       "type": "newline"
     },
@@ -102,7 +103,7 @@
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses, saying,",
+      "text": "The Lord spoke to Moses, saying,",
       "verse": 22,
       "type": "newline"
     },
@@ -111,17 +112,17 @@
       "verse": 23
     },
     {
-      "text": "The  bless you and keep you;",
+      "text": "The Lord bless you and keep you;",
       "verse": 24,
       "type": "poetry newline"
     },
     {
-      "text": "the  make his face to shine upon you and be gracious to you;",
+      "text": "the Lord make his face to shine upon you and be gracious to you;",
       "verse": 25,
       "type": "poetry"
     },
     {
-      "text": "the  lift up his countenance upon you and give you peace.",
+      "text": "the Lord lift up his countenance upon you and give you peace.",
       "verse": 26,
       "type": "poetry"
     },

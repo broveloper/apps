@@ -2,6 +2,7 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 24,
+  "verses": 22,
   "content": [
     {
       "text": "When a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness in her: then let him write her a bill of divorcement, and give it in her hand, and send her out of his house.",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "Her former husband, which sent her away, may not take her again to be his wife, after that she is defiled; for that is abomination before the : and thou shalt not cause the land to sin, which the  thy God giveth thee for an inheritance.",
+      "text": "Her former husband, which sent her away, may not take her again to be his wife, after that she is defiled; for that is abomination before the Lord: and thou shalt not cause the land to sin, which the Lord thy God giveth thee for an inheritance.",
       "verse": 4,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "Remember what the  thy God did unto Miriam by the way, after that ye were come forth out of Egypt.",
+      "text": "Remember what the Lord thy God did unto Miriam by the way, after that ye were come forth out of Egypt.",
       "verse": 9,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "In any case thou shalt deliver him the pledge again when the sun goeth down, that he may sleep in his own raiment, and bless thee: and it shall be righteousness unto thee before the  thy God.",
+      "text": "In any case thou shalt deliver him the pledge again when the sun goeth down, that he may sleep in his own raiment, and bless thee: and it shall be righteousness unto thee before the Lord thy God.",
       "verse": 13,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "At his day thou shalt give him his hire, neither shall the sun go down upon it; for he is poor, and setteth his heart upon it: lest he cry against thee unto the , and it be sin unto thee.",
+      "text": "At his day thou shalt give him his hire, neither shall the sun go down upon it; for he is poor, and setteth his heart upon it: lest he cry against thee unto the Lord, and it be sin unto thee.",
       "verse": 15,
       "type": "newline"
     },
@@ -88,12 +89,12 @@
       "type": "newline"
     },
     {
-      "text": "But thou shalt remember that thou wast a bondman in Egypt, and the  thy God redeemed thee thence: therefore I command thee to do this thing.",
+      "text": "But thou shalt remember that thou wast a bondman in Egypt, and the Lord thy God redeemed thee thence: therefore I command thee to do this thing.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "When thou cuttest down thine harvest in thy field, and hast forgot a sheaf in the field, thou shalt not go again to fetch it: it shall be for the stranger, for the fatherless, and for the widow: that the  thy God may bless thee in all the work of thine hands.",
+      "text": "When thou cuttest down thine harvest in thy field, and hast forgot a sheaf in the field, thou shalt not go again to fetch it: it shall be for the stranger, for the fatherless, and for the widow: that the Lord thy God may bless thee in all the work of thine hands.",
       "verse": 19,
       "type": "newline"
     },

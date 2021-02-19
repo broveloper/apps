@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 86,
+  "verses": 17,
   "content": [
     {
       "text": "Psalm 86",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A prayer of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Hear me, , and answer me,",
+      "text": "Hear me, Lord, and answer me,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -68,7 +68,7 @@
       "type": "poetry"
     },
     {
-      "text": "Hear my prayer, ;",
+      "text": "Hear my prayer, Lord;",
       "verse": 6,
       "type": "poetry"
     },
@@ -123,7 +123,7 @@
       "type": "poetry"
     },
     {
-      "text": "Teach me your way, ,",
+      "text": "Teach me your way, Lord,",
       "verse": 11,
       "type": "poetry newline"
     },
@@ -223,7 +223,7 @@
       "type": "poetry"
     },
     {
-      "text": "for you, , have helped me and comforted me.",
+      "text": "for you, Lord, have helped me and comforted me.",
       "verse": 17,
       "type": "poetry"
     }

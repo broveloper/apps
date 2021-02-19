@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 22,
+  "verses": 31,
   "content": [
     {
       "text": "Psalm 22",
@@ -9,8 +10,7 @@
     },
     {
       "text": "For the director of music. To the tune of “The Doe of the Morning.” A psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "My God, my God, why have you forsaken me?",
@@ -88,12 +88,12 @@
       "type": "poetry"
     },
     {
-      "text": "“He trusts in the ,” they say,",
+      "text": "“He trusts in the Lord,” they say,",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "“let the  rescue him.",
+      "text": "“let the Lord rescue him.",
       "verse": 8,
       "type": "poetry"
     },
@@ -233,7 +233,7 @@
       "type": "poetry"
     },
     {
-      "text": "But you, , do not be far from me.",
+      "text": "But you, Lord, do not be far from me.",
       "verse": 19,
       "type": "poetry newline"
     },
@@ -273,7 +273,7 @@
       "type": "poetry"
     },
     {
-      "text": "You who fear the , praise him!",
+      "text": "You who fear the Lord, praise him!",
       "verse": 23,
       "type": "poetry"
     },
@@ -323,7 +323,7 @@
       "type": "poetry"
     },
     {
-      "text": "those who seek the  will praise him—",
+      "text": "those who seek the Lord will praise him—",
       "verse": 26,
       "type": "poetry"
     },
@@ -338,7 +338,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "will remember and turn to the ,",
+      "text": "will remember and turn to the Lord,",
       "verse": 27,
       "type": "poetry"
     },
@@ -353,7 +353,7 @@
       "type": "poetry"
     },
     {
-      "text": "for dominion belongs to the",
+      "text": "for dominion belongs to the Lord",
       "verse": 28,
       "type": "poetry"
     },

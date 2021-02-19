@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 51,
+  "verses": 19,
   "content": [
     {
       "text": "Psalm 51",
@@ -9,8 +10,7 @@
     },
     {
       "text": "For the director of music. A psalm of David. When the prophet Nathan came to him after David had committed adultery with Bathsheba.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Have mercy on me, O God,",

@@ -2,6 +2,7 @@
   "book_id": "2CHR",
   "book_name": "2 Chronicles",
   "chapter": 36,
+  "verses": 23,
   "content": [
     {
       "text": "Judah's Decline",
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "Jehoiakim was twenty-five years old when he began to reign, and he reigned eleven years in Jerusalem. He did what was evil in the sight of the  his God.",
+      "text": "Jehoiakim was twenty-five years old when he began to reign, and he reigned eleven years in Jerusalem. He did what was evil in the sight of the Lord his God.",
       "verse": 5,
       "type": "newline"
     },
@@ -34,7 +35,7 @@
       "verse": 6
     },
     {
-      "text": "Nebuchadnezzar also carried part of the vessels of the house of the  to Babylon and put them in his palace in Babylon.",
+      "text": "Nebuchadnezzar also carried part of the vessels of the house of the Lord to Babylon and put them in his palace in Babylon.",
       "verse": 7
     },
     {
@@ -42,12 +43,12 @@
       "verse": 8
     },
     {
-      "text": "Jehoiachin was eighteen years old when he became king, and he reigned three months and ten days in Jerusalem. He did what was evil in the sight of the .",
+      "text": "Jehoiachin was eighteen years old when he became king, and he reigned three months and ten days in Jerusalem. He did what was evil in the sight of the Lord.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "In the spring of the year King Nebuchadnezzar sent and brought him to Babylon, with the precious vessels of the house of the , and made his brother Zedekiah king over Judah and Jerusalem.",
+      "text": "In the spring of the year King Nebuchadnezzar sent and brought him to Babylon, with the precious vessels of the house of the Lord, and made his brother Zedekiah king over Judah and Jerusalem.",
       "verse": 10
     },
     {
@@ -56,24 +57,24 @@
       "type": "newline"
     },
     {
-      "text": "He did what was evil in the sight of the  his God. He did not humble himself before Jeremiah the prophet, who spoke from the mouth of the .",
+      "text": "He did what was evil in the sight of the Lord his God. He did not humble himself before Jeremiah the prophet, who spoke from the mouth of the Lord.",
       "verse": 12
     },
     {
-      "text": "He also rebelled against King Nebuchadnezzar, who had made him swear by God. He stiffened his neck and hardened his heart against turning to the , the God of Israel.",
+      "text": "He also rebelled against King Nebuchadnezzar, who had made him swear by God. He stiffened his neck and hardened his heart against turning to the Lord, the God of Israel.",
       "verse": 13
     },
     {
-      "text": "All the officers of the priests and the people likewise were exceedingly unfaithful, following all the abominations of the nations. And they polluted the house of the  that he had made holy in Jerusalem.",
+      "text": "All the officers of the priests and the people likewise were exceedingly unfaithful, following all the abominations of the nations. And they polluted the house of the Lord that he had made holy in Jerusalem.",
       "verse": 14
     },
     {
-      "text": "The , the God of their fathers, sent persistently to them by his messengers, because he had compassion on his people and on his dwelling place.",
+      "text": "The Lord, the God of their fathers, sent persistently to them by his messengers, because he had compassion on his people and on his dwelling place.",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "But they kept mocking the messengers of God, despising his words and scoffing at his prophets, until the wrath of the  rose against his people, until there was no remedy.",
+      "text": "But they kept mocking the messengers of God, despising his words and scoffing at his prophets, until the wrath of the Lord rose against his people, until there was no remedy.",
       "verse": 16
     },
     {
@@ -86,7 +87,7 @@
       "type": "newline"
     },
     {
-      "text": "And all the vessels of the house of God, great and small, and the treasures of the house of the , and the treasures of the king and of his princes, all these he brought to Babylon.",
+      "text": "And all the vessels of the house of God, great and small, and the treasures of the house of the Lord, and the treasures of the king and of his princes, all these he brought to Babylon.",
       "verse": 18
     },
     {
@@ -98,7 +99,7 @@
       "verse": 20
     },
     {
-      "text": "to fulfill the word of the  by the mouth of Jeremiah, until the land had enjoyed its Sabbaths. All the days that it lay desolate it kept Sabbath, to fulfill seventy years.",
+      "text": "to fulfill the word of the Lord by the mouth of Jeremiah, until the land had enjoyed its Sabbaths. All the days that it lay desolate it kept Sabbath, to fulfill seventy years.",
       "verse": 21
     },
     {
@@ -106,12 +107,12 @@
       "type": "heading"
     },
     {
-      "text": "Now in the first year of Cyrus king of Persia, that the word of the  by the mouth of Jeremiah might be fulfilled, the  stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom and also put it in writing:",
+      "text": "Now in the first year of Cyrus king of Persia, that the word of the Lord by the mouth of Jeremiah might be fulfilled, the Lord stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom and also put it in writing:",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "“Thus says Cyrus king of Persia, ‘The , the God of heaven, has given me all the kingdoms of the earth, and he has charged me to build him a house at Jerusalem, which is in Judah. Whoever is among you of all his people, may the  his God be with him. Let him go up.’”",
+      "text": "“Thus says Cyrus king of Persia, ‘The Lord, the God of heaven, has given me all the kingdoms of the earth, and he has charged me to build him a house at Jerusalem, which is in Judah. Whoever is among you of all his people, may the Lord his God be with him. Let him go up.’”",
       "verse": 23
     }
   ]

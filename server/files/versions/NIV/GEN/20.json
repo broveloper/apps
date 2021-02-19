@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 20,
+  "verses": 18,
   "content": [
     {
       "text": "Abraham and Abimelek",
@@ -85,7 +86,7 @@
       "type": "newline"
     },
     {
-      "text": "for the  had kept all the women in Abimelek’s household from conceiving because of Abraham’s wife Sarah.",
+      "text": "for the Lord had kept all the women in Abimelek’s household from conceiving because of Abraham’s wife Sarah.",
       "verse": 18
     }
   ]

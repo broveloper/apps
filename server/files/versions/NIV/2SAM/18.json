@@ -2,6 +2,7 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 18,
+  "verses": 33,
   "content": [
     {
       "text": "David mustered the men who were with him and appointed over them commanders of thousands and commanders of hundreds.",
@@ -95,7 +96,7 @@
       "type": "heading"
     },
     {
-      "text": "Now Ahimaaz son of Zadok said, “Let me run and take the news to the king that the  has vindicated him by delivering him from the hand of his enemies.”",
+      "text": "Now Ahimaaz son of Zadok said, “Let me run and take the news to the king that the Lord has vindicated him by delivering him from the hand of his enemies.”",
       "verse": 19,
       "type": "newline"
     },
@@ -164,7 +165,7 @@
       "type": "newline"
     },
     {
-      "text": "Then Ahimaaz called out to the king, “All is well!” He bowed down before the king with his face to the ground and said, “Praise be to the  your God! He has delivered up those who lifted their hands against my lord the king.”",
+      "text": "Then Ahimaaz called out to the king, “All is well!” He bowed down before the king with his face to the ground and said, “Praise be to the Lord your God! He has delivered up those who lifted their hands against my lord the king.”",
       "verse": 28,
       "type": "newline"
     },
@@ -184,7 +185,7 @@
       "type": "newline"
     },
     {
-      "text": "Then the Cushite arrived and said, “My lord the king, hear the good news! The  has vindicated you today by delivering you from the hand of all who rose up against you.”",
+      "text": "Then the Cushite arrived and said, “My lord the king, hear the good news! The Lord has vindicated you today by delivering you from the hand of all who rose up against you.”",
       "verse": 31,
       "type": "newline"
     },

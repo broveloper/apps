@@ -2,13 +2,14 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 1,
+  "verses": 11,
   "content": [
     {
-      "text": "The word of the  that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.",
+      "text": "The word of the Lord that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.",
       "verse": 1
     },
     {
-      "text": "The beginning of the word of the  by Hosea. And the  said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the .",
+      "text": "The beginning of the word of the Lord by Hosea. And the Lord said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the Lord.",
       "verse": 2,
       "type": "newline"
     },
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  said unto him, Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel.",
+      "text": "And the Lord said unto him, Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel.",
       "verse": 4,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "But I will have mercy upon the house of Judah, and will save them by the  their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.",
+      "text": "But I will have mercy upon the house of Judah, and will save them by the Lord their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.",
       "verse": 7,
       "type": "newline"
     },

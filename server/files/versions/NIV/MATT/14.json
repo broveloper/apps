@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 14,
+  "verses": 36,
   "content": [
     {
       "text": "John the Baptist Beheaded",
@@ -77,7 +78,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “They do not need to go away. You give them something to eat.”",
       "verse": 16,
       "type": "newline"
     },
@@ -87,7 +88,7 @@
       "type": "newline"
     },
     {
-      "text": "he said.",
+      "text": "“Bring them here to me,” he said.",
       "verse": 18,
       "type": "newline"
     },
@@ -130,7 +131,7 @@
       "verse": 26
     },
     {
-      "text": "But Jesus immediately said to them:",
+      "text": "But Jesus immediately said to them: “Take courage! It is I. Don’t be afraid.”",
       "verse": 27,
       "type": "newline"
     },
@@ -140,7 +141,7 @@
       "type": "newline"
     },
     {
-      "text": "he said.",
+      "text": "“Come,” he said.",
       "verse": 29,
       "type": "newline"
     },
@@ -154,7 +155,7 @@
       "verse": 30
     },
     {
-      "text": "Immediately Jesus reached out his hand and caught him.  he said,",
+      "text": "Immediately Jesus reached out his hand and caught him. “You of little faith,” he said, “why did you doubt?”",
       "verse": 31,
       "type": "newline"
     },

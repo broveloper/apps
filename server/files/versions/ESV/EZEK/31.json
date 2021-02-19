@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 31,
+  "verses": 18,
   "content": [
     {
       "text": "Pharaoh to Be Slain",
       "type": "heading"
     },
     {
-      "text": "In the eleventh year, in the third month, on the first day of the month, the word of the  came to me:",
+      "text": "In the eleventh year, in the third month, on the first day of the month, the word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -22,7 +23,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "Behold, Assyria was a cedar in Lebanon,",
+      "text": "    Behold, Assyria was a cedar in Lebanon,",
       "verse": 3,
       "type": "poetry"
     },
@@ -197,7 +198,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Therefore thus says the Lord : Because it towered high and set its top among the clouds, and its heart was proud of its height,",
+      "text": "“Therefore thus says the Lord God: Because it towered high and set its top among the clouds, and its heart was proud of its height,",
       "verse": 10,
       "type": "newline"
     },
@@ -218,7 +219,7 @@
       "verse": 14
     },
     {
-      "text": "“Thus says the Lord : On the day the cedar went down to Sheol I caused mourning; I closed the deep over it, and restrained its rivers, and many waters were stopped. I clothed Lebanon in gloom for it, and all the trees of the field fainted because of it.",
+      "text": "“Thus says the Lord God: On the day the cedar went down to Sheol I caused mourning; I closed the deep over it, and restrained its rivers, and many waters were stopped. I clothed Lebanon in gloom for it, and all the trees of the field fainted because of it.",
       "verse": 15,
       "type": "newline"
     },
@@ -236,7 +237,7 @@
       "type": "newline"
     },
     {
-      "text": "“This is Pharaoh and all his multitude, declares the Lord .”",
+      "text": "“This is Pharaoh and all his multitude, declares the Lord God.”",
       "verse": 18,
       "type": "newline"
     }

@@ -2,13 +2,14 @@
   "book_id": "AMOS",
   "book_name": "Amos",
   "chapter": 8,
+  "verses": 14,
   "content": [
     {
       "text": "A Basket of Ripe Fruit",
       "type": "heading"
     },
     {
-      "text": "This is what the Sovereign  showed me: a basket of ripe fruit.",
+      "text": "This is what the Sovereign Lord showed me: a basket of ripe fruit.",
       "verse": 1,
       "type": "newline"
     },
@@ -22,12 +23,12 @@
       "type": "newline"
     },
     {
-      "text": "Then the  said to me, “The time is ripe for my people Israel; I will spare them no longer.",
+      "text": "Then the Lord said to me, “The time is ripe for my people Israel; I will spare them no longer.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "“In that day,” declares the Sovereign , “the songs in the temple will turn to wailing. Many, many bodies—flung everywhere! Silence!”",
+      "text": "“In that day,” declares the Sovereign Lord, “the songs in the temple will turn to wailing. Many, many bodies—flung everywhere! Silence!”",
       "verse": 3,
       "type": "newline"
     },
@@ -97,7 +98,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has sworn by himself, the Pride of Jacob: “I will never forget anything they have done.",
+      "text": "The Lord has sworn by himself, the Pride of Jacob: “I will never forget anything they have done.",
       "verse": 7,
       "type": "newline"
     },
@@ -127,7 +128,7 @@
       "type": "poetry"
     },
     {
-      "text": "“In that day,” declares the Sovereign ,",
+      "text": "“In that day,” declares the Sovereign Lord,",
       "verse": 9,
       "type": "newline"
     },
@@ -172,7 +173,7 @@
       "type": "poetry"
     },
     {
-      "text": "“The days are coming,” declares the Sovereign ,",
+      "text": "“The days are coming,” declares the Sovereign Lord,",
       "verse": 11,
       "type": "poetry newline"
     },
@@ -187,7 +188,7 @@
       "type": "poetry"
     },
     {
-      "text": "but a famine of hearing the words of the .",
+      "text": "but a famine of hearing the words of the Lord.",
       "verse": 11,
       "type": "poetry"
     },
@@ -202,7 +203,7 @@
       "type": "poetry"
     },
     {
-      "text": "searching for the word of the ,",
+      "text": "searching for the word of the Lord,",
       "verse": 12,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 1,
+  "verses": 27,
   "content": [
     {
       "text": "David Hears of Saul’s Death",
@@ -76,7 +77,7 @@
       "type": "newline"
     },
     {
-      "text": "They mourned and wept and fasted till evening for Saul and his son Jonathan, and for the army of the  and for the nation of Israel, because they had fallen by the sword.",
+      "text": "They mourned and wept and fasted till evening for Saul and his son Jonathan, and for the army of the Lord and for the nation of Israel, because they had fallen by the sword.",
       "verse": 12
     },
     {
@@ -90,7 +91,7 @@
       "type": "newline"
     },
     {
-      "text": "David asked him, “Why weren’t you afraid to lift your hand to destroy the ’s anointed?”",
+      "text": "David asked him, “Why weren’t you afraid to lift your hand to destroy the Lord’s anointed?”",
       "verse": 14,
       "type": "newline"
     },
@@ -100,7 +101,7 @@
       "type": "newline"
     },
     {
-      "text": "For David had said to him, “Your blood be on your own head. Your own mouth testified against you when you said, ‘I killed the ’s anointed.’”",
+      "text": "For David had said to him, “Your blood be on your own head. Your own mouth testified against you when you said, ‘I killed the Lord’s anointed.’”",
       "verse": 16
     },
     {

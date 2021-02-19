@@ -2,6 +2,7 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 41,
+  "verses": 26,
   "content": [
     {
       "text": "The Inner Temple",
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "an altar of wood, three cubits high, two cubits long, and two cubits broad. Its corners, its base, and its walls were of wood. He said to me, “This is the table that is before the .”",
+      "text": "an altar of wood, three cubits high, two cubits long, and two cubits broad. Its corners, its base, and its walls were of wood. He said to me, “This is the table that is before the Lord.”",
       "verse": 22
     },
     {

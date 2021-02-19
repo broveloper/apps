@@ -2,13 +2,14 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 25,
+  "verses": 12,
   "content": [
     {
-      "text": "Praise to the",
+      "text": "Praise to the Lord",
       "type": "heading"
     },
     {
-      "text": ", you are my God;",
+      "text": "Lord, you are my God;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -93,7 +94,7 @@
       "type": "poetry"
     },
     {
-      "text": "and like the heat of the desert.",
+      "text": "    and like the heat of the desert.",
       "verse": 5,
       "type": "poetry"
     },
@@ -113,7 +114,7 @@
       "type": "poetry"
     },
     {
-      "text": "On this mountain the  Almighty will prepare",
+      "text": "On this mountain the Lord Almighty will prepare",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -148,12 +149,12 @@
       "type": "poetry"
     },
     {
-      "text": "he will swallow up death forever.",
+      "text": "    he will swallow up death forever.",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "The Sovereign  will wipe away the tears",
+      "text": "The Sovereign Lord will wipe away the tears",
       "verse": 8,
       "type": "poetry"
     },
@@ -173,7 +174,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has spoken.",
+      "text": "The Lord has spoken.",
       "verse": 8,
       "type": "poetry"
     },
@@ -193,7 +194,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is the , we trusted in him;",
+      "text": "This is the Lord, we trusted in him;",
       "verse": 9,
       "type": "poetry"
     },
@@ -203,7 +204,7 @@
       "type": "poetry"
     },
     {
-      "text": "The hand of the  will rest on this mountain;",
+      "text": "The hand of the Lord will rest on this mountain;",
       "verse": 10,
       "type": "poetry newline"
     },

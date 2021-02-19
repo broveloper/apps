@@ -2,18 +2,19 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 9,
+  "verses": 21,
   "content": [
     {
       "text": "For to Us a Child Is Born",
       "type": "heading"
     },
     {
-      "text": "But there will be no gloom for her who was in anguish. In the former time he brought into contempt the land of Zebulun and the land of Naphtali, but in the latter time he has made glorious the way of the sea, the land beyond the Jordan, Galilee of the nations.",
+      "text": " But there will be no gloom for her who was in anguish. In the former time he brought into contempt the land of Zebulun and the land of Naphtali, but in the latter time he has made glorious the way of the sea, the land beyond the Jordan, Galilee of the nations.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "The people who walked in darkness",
+      "text": " The people who walked in darkness",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -153,7 +154,7 @@
       "type": "poetry"
     },
     {
-      "text": "The zeal of the  of hosts will do this.",
+      "text": "The zeal of the Lord of hosts will do this.",
       "verse": 7,
       "type": "poetry"
     },
@@ -207,7 +208,7 @@
       "type": "poetry"
     },
     {
-      "text": "But the  raises the adversaries of Rezin against him,",
+      "text": "But the Lord raises the adversaries of Rezin against him,",
       "verse": 11,
       "type": "poetry"
     },
@@ -242,12 +243,12 @@
       "type": "poetry newline"
     },
     {
-      "text": "nor inquire of the  of hosts.",
+      "text": "nor inquire of the Lord of hosts.",
       "verse": 13,
       "type": "poetry"
     },
     {
-      "text": "So the  cut off from Israel head and tail,",
+      "text": "So the Lord cut off from Israel head and tail,",
       "verse": 14,
       "type": "poetry"
     },
@@ -327,7 +328,7 @@
       "type": "poetry"
     },
     {
-      "text": "Through the wrath of the  of hosts",
+      "text": "Through the wrath of the Lord of hosts",
       "verse": 19,
       "type": "poetry"
     },

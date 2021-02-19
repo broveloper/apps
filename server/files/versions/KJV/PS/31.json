@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 31,
+  "verses": 24,
   "content": [
     {
-      "text": "In thee, O , do I put my trust; let me never be ashamed: deliver me in thy righteousness.",
+      "text": "In thee, O Lord, do I put my trust; let me never be ashamed: deliver me in thy righteousness.",
       "verse": 1
     },
     {
@@ -23,12 +24,12 @@
       "type": "newline"
     },
     {
-      "text": "Into thine hand I commit my spirit: thou hast redeemed me, O  God of truth.",
+      "text": "Into thine hand I commit my spirit: thou hast redeemed me, O Lord God of truth.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "I have hated them that regard lying vanities: but I trust in the .",
+      "text": "I have hated them that regard lying vanities: but I trust in the Lord.",
       "verse": 6,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "Have mercy upon me, O , for I am in trouble: mine eye is consumed with grief, yea, my soul and my belly.",
+      "text": "Have mercy upon me, O Lord, for I am in trouble: mine eye is consumed with grief, yea, my soul and my belly.",
       "verse": 9,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "But I trusted in thee, O : I said, Thou art my God.",
+      "text": "But I trusted in thee, O Lord: I said, Thou art my God.",
       "verse": 14,
       "type": "newline"
     },
@@ -83,7 +84,7 @@
       "type": "newline"
     },
     {
-      "text": "Let me not be ashamed, O ; for I have called upon thee: let the wicked be ashamed, and let them be silent in the grave.",
+      "text": "Let me not be ashamed, O Lord; for I have called upon thee: let the wicked be ashamed, and let them be silent in the grave.",
       "verse": 17,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "Blessed be the : for he hath shewed me his marvellous kindness in a strong city.",
+      "text": "Blessed be the Lord: for he hath shewed me his marvellous kindness in a strong city.",
       "verse": 21,
       "type": "newline"
     },
@@ -113,12 +114,12 @@
       "type": "newline"
     },
     {
-      "text": "O love the , all ye his saints: for the  preserveth the faithful, and plentifully rewardeth the proud doer.",
+      "text": "O love the Lord, all ye his saints: for the Lord preserveth the faithful, and plentifully rewardeth the proud doer.",
       "verse": 23,
       "type": "newline"
     },
     {
-      "text": "Be of good courage, and he shall strengthen your heart, all ye that hope in the .",
+      "text": "Be of good courage, and he shall strengthen your heart, all ye that hope in the Lord.",
       "verse": 24,
       "type": "newline"
     }

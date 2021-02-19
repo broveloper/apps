@@ -2,6 +2,7 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 49,
+  "verses": 39,
   "content": [
     {
       "text": "A Message About Ammon",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 1,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 2,
       "type": "poetry"
     },
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the .",
+      "text": "says the Lord.",
       "verse": 2,
       "type": "poetry"
     },
@@ -148,7 +149,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the Lord, the  Almighty.",
+      "text": "declares the Lord, the Lord Almighty.",
       "verse": 5,
       "type": "poetry"
     },
@@ -168,7 +169,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 6,
       "type": "poetry"
     },
@@ -182,7 +183,7 @@
       "type": "newline"
     },
     {
-      "text": "This is what the  Almighty says:",
+      "text": "This is what the Lord Almighty says:",
       "verse": 7,
       "type": "newline"
     },
@@ -282,16 +283,16 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the  says: “If those who do not deserve to drink the cup must drink it, why should you go unpunished? You will not go unpunished, but must drink it.",
+      "text": "This is what the Lord says: “If those who do not deserve to drink the cup must drink it, why should you go unpunished? You will not go unpunished, but must drink it.",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "I swear by myself,” declares the , “that Bozrah will become a ruin and a curse, an object of horror and reproach; and all its towns will be in ruins forever.”",
+      "text": "I swear by myself,” declares the Lord, “that Bozrah will become a ruin and a curse, an object of horror and reproach; and all its towns will be in ruins forever.”",
       "verse": 13
     },
     {
-      "text": "I have heard a message from the ;",
+      "text": "I have heard a message from the Lord;",
       "verse": 14,
       "type": "poetry newline"
     },
@@ -351,7 +352,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 16,
       "type": "poetry"
     },
@@ -381,7 +382,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the ,",
+      "text": "says the Lord,",
       "verse": 18,
       "type": "poetry"
     },
@@ -426,7 +427,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore, hear what the  has planned against Edom,",
+      "text": "Therefore, hear what the Lord has planned against Edom,",
       "verse": 20,
       "type": "poetry newline"
     },
@@ -550,7 +551,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the  Almighty.",
+      "text": "declares the Lord Almighty.",
       "verse": 26,
       "type": "poetry"
     },
@@ -574,7 +575,7 @@
       "type": "newline"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 28,
       "type": "newline"
     },
@@ -624,7 +625,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 30,
       "type": "poetry"
     },
@@ -649,7 +650,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 31,
       "type": "poetry"
     },
@@ -684,7 +685,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 32,
       "type": "poetry"
     },
@@ -713,12 +714,12 @@
       "type": "heading"
     },
     {
-      "text": "This is the word of the  that came to Jeremiah the prophet concerning Elam, early in the reign of Zedekiah king of Judah:",
+      "text": "This is the word of the Lord that came to Jeremiah the prophet concerning Elam, early in the reign of Zedekiah king of Judah:",
       "verse": 34,
       "type": "newline"
     },
     {
-      "text": "This is what the  Almighty says:",
+      "text": "This is what the Lord Almighty says:",
       "verse": 35,
       "type": "newline"
     },
@@ -778,7 +779,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 37,
       "type": "poetry"
     },
@@ -803,7 +804,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 38,
       "type": "poetry"
     },
@@ -818,7 +819,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 39,
       "type": "poetry"
     }

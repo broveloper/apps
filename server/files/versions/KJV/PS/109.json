@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 109,
+  "verses": 31,
   "content": [
     {
       "text": "Hold not thy peace, O God of my praise;",
@@ -68,12 +69,12 @@
       "type": "newline"
     },
     {
-      "text": "Let the iniquity of his fathers be remembered with the ; and let not the sin of his mother be blotted out.",
+      "text": "Let the iniquity of his fathers be remembered with the Lord; and let not the sin of his mother be blotted out.",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "Let them be before the  continually, that he may cut off the memory of them from the earth.",
+      "text": "Let them be before the Lord continually, that he may cut off the memory of them from the earth.",
       "verse": 15,
       "type": "newline"
     },
@@ -98,12 +99,12 @@
       "type": "newline"
     },
     {
-      "text": "Let this be the reward of mine adversaries from the , and of them that speak evil against my soul.",
+      "text": "Let this be the reward of mine adversaries from the Lord, and of them that speak evil against my soul.",
       "verse": 20,
       "type": "newline"
     },
     {
-      "text": "But do thou for me, O  the Lord, for thy name's sake: because thy mercy is good, deliver thou me.",
+      "text": "But do thou for me, O God the Lord, for thy name's sake: because thy mercy is good, deliver thou me.",
       "verse": 21,
       "type": "newline"
     },
@@ -128,12 +129,12 @@
       "type": "newline"
     },
     {
-      "text": "Help me, O  my God: O save me according to thy mercy:",
+      "text": "Help me, O Lord my God: O save me according to thy mercy:",
       "verse": 26,
       "type": "newline"
     },
     {
-      "text": "That they may know that this is thy hand; that thou, , hast done it.",
+      "text": "That they may know that this is thy hand; that thou, Lord, hast done it.",
       "verse": 27,
       "type": "newline"
     },
@@ -148,7 +149,7 @@
       "type": "newline"
     },
     {
-      "text": "I will greatly praise the  with my mouth; yea, I will praise him among the multitude.",
+      "text": "I will greatly praise the Lord with my mouth; yea, I will praise him among the multitude.",
       "verse": 30,
       "type": "newline"
     },

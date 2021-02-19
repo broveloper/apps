@@ -2,6 +2,7 @@
   "book_id": "ZECH",
   "book_name": "Zechariah",
   "chapter": 4,
+  "verses": 14,
   "content": [
     {
       "text": "And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep.",
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "Then he answered and spake unto me, saying, This is the word of the  unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the  of hosts.",
+      "text": "Then he answered and spake unto me, saying, This is the word of the Lord unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the Lord of hosts.",
       "verse": 6,
       "type": "newline"
     },
@@ -38,17 +39,17 @@
       "type": "newline"
     },
     {
-      "text": "Moreover the word of the  came unto me, saying,",
+      "text": "Moreover the word of the Lord came unto me, saying,",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it; and thou shalt know that the  of hosts hath sent me unto you.",
+      "text": "The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it; and thou shalt know that the Lord of hosts hath sent me unto you.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "For who hath despised the day of small things? for they shall rejoice, and shall see the plummet in the hand of Zerubbabel with those seven; they are the eyes of the , which run to and fro through the whole earth.",
+      "text": "For who hath despised the day of small things? for they shall rejoice, and shall see the plummet in the hand of Zerubbabel with those seven; they are the eyes of the Lord, which run to and fro through the whole earth.",
       "verse": 10,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "Then said he, These are the two anointed ones, that stand by the  of the whole earth.",
+      "text": "Then said he, These are the two anointed ones, that stand by the Lord of the whole earth.",
       "verse": 14,
       "type": "newline"
     }

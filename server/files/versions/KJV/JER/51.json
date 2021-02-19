@@ -2,9 +2,10 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 51,
+  "verses": 64,
   "content": [
     {
-      "text": "Thus saith the ; Behold, I will raise up against Babylon, and against them that dwell in the midst of them that rise up against me, a destroying wind;",
+      "text": "Thus saith the Lord; Behold, I will raise up against Babylon, and against them that dwell in the midst of them that rise up against me, a destroying wind;",
       "verse": 1
     },
     {
@@ -23,17 +24,17 @@
       "type": "newline"
     },
     {
-      "text": "For Israel hath not been forsaken, nor Judah of his God, of the  of hosts; though their land was filled with sin against the Holy One of Israel.",
+      "text": "For Israel hath not been forsaken, nor Judah of his God, of the Lord of hosts; though their land was filled with sin against the Holy One of Israel.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "Flee out of the midst of Babylon, and deliver every man his soul: be not cut off in her iniquity; for this is the time of the 's vengeance; he will render unto her a recompence.",
+      "text": "Flee out of the midst of Babylon, and deliver every man his soul: be not cut off in her iniquity; for this is the time of the Lord's vengeance; he will render unto her a recompence.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "Babylon hath been a golden cup in the 's hand, that made all the earth drunken: the nations have drunken of her wine; therefore the nations are mad.",
+      "text": "Babylon hath been a golden cup in the Lord's hand, that made all the earth drunken: the nations have drunken of her wine; therefore the nations are mad.",
       "verse": 7,
       "type": "newline"
     },
@@ -48,17 +49,17 @@
       "type": "newline"
     },
     {
-      "text": "The  hath brought forth our righteousness: come, and let us declare in Zion the work of the  our God.",
+      "text": "The Lord hath brought forth our righteousness: come, and let us declare in Zion the work of the Lord our God.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "Make bright the arrows; gather the shields: the  hath raised up the spirit of the kings of the Medes: for his device is against Babylon, to destroy it; because it is the vengeance of the , the vengeance of his temple.",
+      "text": "Make bright the arrows; gather the shields: the Lord hath raised up the spirit of the kings of the Medes: for his device is against Babylon, to destroy it; because it is the vengeance of the Lord, the vengeance of his temple.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "Set up the standard upon the walls of Babylon, make the watch strong, set up the watchmen, prepare the ambushes: for the  hath both devised and done that which he spake against the inhabitants of Babylon.",
+      "text": "Set up the standard upon the walls of Babylon, make the watch strong, set up the watchmen, prepare the ambushes: for the Lord hath both devised and done that which he spake against the inhabitants of Babylon.",
       "verse": 12,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "The  of hosts hath sworn by himself, saying, Surely I will fill thee with men, as with caterpillers; and they shall lift up a shout against thee.",
+      "text": "The Lord of hosts hath sworn by himself, saying, Surely I will fill thee with men, as with caterpillers; and they shall lift up a shout against thee.",
       "verse": 14,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "The portion of Jacob is not like them; for he is the former of all things: and Israel is the rod of his inheritance: the  of hosts is his name.",
+      "text": "The portion of Jacob is not like them; for he is the former of all things: and Israel is the rod of his inheritance: the Lord of hosts is his name.",
       "verse": 19,
       "type": "newline"
     },
@@ -118,17 +119,17 @@
       "type": "newline"
     },
     {
-      "text": "And I will render unto Babylon and to all the inhabitants of Chaldea all their evil that they have done in Zion in your sight, saith the .",
+      "text": "And I will render unto Babylon and to all the inhabitants of Chaldea all their evil that they have done in Zion in your sight, saith the Lord.",
       "verse": 24,
       "type": "newline"
     },
     {
-      "text": "Behold, I am against thee, O destroying mountain, saith the , which destroyest all the earth: and I will stretch out mine hand upon thee, and roll thee down from the rocks, and will make thee a burnt mountain.",
+      "text": "Behold, I am against thee, O destroying mountain, saith the Lord, which destroyest all the earth: and I will stretch out mine hand upon thee, and roll thee down from the rocks, and will make thee a burnt mountain.",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "And they shall not take of thee a stone for a corner, nor a stone for foundations; but thou shalt be desolate for ever, saith the .",
+      "text": "And they shall not take of thee a stone for a corner, nor a stone for foundations; but thou shalt be desolate for ever, saith the Lord.",
       "verse": 26,
       "type": "newline"
     },
@@ -143,7 +144,7 @@
       "type": "newline"
     },
     {
-      "text": "And the land shall tremble and sorrow: for every purpose of the  shall be performed against Babylon, to make the land of Babylon a desolation without an inhabitant.",
+      "text": "And the land shall tremble and sorrow: for every purpose of the Lord shall be performed against Babylon, to make the land of Babylon a desolation without an inhabitant.",
       "verse": 29,
       "type": "newline"
     },
@@ -163,7 +164,7 @@
       "type": "newline"
     },
     {
-      "text": "For thus saith the  of hosts, the God of Israel; The daughter of Babylon is like a threshingfloor, it is time to thresh her: yet a little while, and the time of her harvest shall come.",
+      "text": "For thus saith the Lord of hosts, the God of Israel; The daughter of Babylon is like a threshingfloor, it is time to thresh her: yet a little while, and the time of her harvest shall come.",
       "verse": 33,
       "type": "newline"
     },
@@ -178,7 +179,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore thus saith the ; Behold, I will plead thy cause, and take vengeance for thee; and I will dry up her sea, and make her springs dry.",
+      "text": "Therefore thus saith the Lord; Behold, I will plead thy cause, and take vengeance for thee; and I will dry up her sea, and make her springs dry.",
       "verse": 36,
       "type": "newline"
     },
@@ -193,7 +194,7 @@
       "type": "newline"
     },
     {
-      "text": "In their heat I will make their feasts, and I will make them drunken, that they may rejoice, and sleep a perpetual sleep, and not wake, saith the .",
+      "text": "In their heat I will make their feasts, and I will make them drunken, that they may rejoice, and sleep a perpetual sleep, and not wake, saith the Lord.",
       "verse": 39,
       "type": "newline"
     },
@@ -223,7 +224,7 @@
       "type": "newline"
     },
     {
-      "text": "My people, go ye out of the midst of her, and deliver ye every man his soul from the fierce anger of the .",
+      "text": "My people, go ye out of the midst of her, and deliver ye every man his soul from the fierce anger of the Lord.",
       "verse": 45,
       "type": "newline"
     },
@@ -238,7 +239,7 @@
       "type": "newline"
     },
     {
-      "text": "Then the heaven and the earth, and all that is therein, shall sing for Babylon: for the spoilers shall come unto her from the north, saith the .",
+      "text": "Then the heaven and the earth, and all that is therein, shall sing for Babylon: for the spoilers shall come unto her from the north, saith the Lord.",
       "verse": 48,
       "type": "newline"
     },
@@ -248,22 +249,22 @@
       "type": "newline"
     },
     {
-      "text": "Ye that have escaped the sword, go away, stand not still: remember the  afar off, and let Jerusalem come into your mind.",
+      "text": "Ye that have escaped the sword, go away, stand not still: remember the Lord afar off, and let Jerusalem come into your mind.",
       "verse": 50,
       "type": "newline"
     },
     {
-      "text": "We are confounded, because we have heard reproach: shame hath covered our faces: for strangers are come into the sanctuaries of the 's house.",
+      "text": "We are confounded, because we have heard reproach: shame hath covered our faces: for strangers are come into the sanctuaries of the Lord's house.",
       "verse": 51,
       "type": "newline"
     },
     {
-      "text": "Wherefore, behold, the days come, saith the , that I will do judgment upon her graven images: and through all her land the wounded shall groan.",
+      "text": "Wherefore, behold, the days come, saith the Lord, that I will do judgment upon her graven images: and through all her land the wounded shall groan.",
       "verse": 52,
       "type": "newline"
     },
     {
-      "text": "Though Babylon should mount up to heaven, and though she should fortify the height of her strength, yet from me shall spoilers come unto her, saith the .",
+      "text": "Though Babylon should mount up to heaven, and though she should fortify the height of her strength, yet from me shall spoilers come unto her, saith the Lord.",
       "verse": 53,
       "type": "newline"
     },
@@ -273,22 +274,22 @@
       "type": "newline"
     },
     {
-      "text": "Because the  hath spoiled Babylon, and destroyed out of her the great voice; when her waves do roar like great waters, a noise of their voice is uttered:",
+      "text": "Because the Lord hath spoiled Babylon, and destroyed out of her the great voice; when her waves do roar like great waters, a noise of their voice is uttered:",
       "verse": 55,
       "type": "newline"
     },
     {
-      "text": "Because the spoiler is come upon her, even upon Babylon, and her mighty men are taken, every one of their bows is broken: for the  God of recompences shall surely requite.",
+      "text": "Because the spoiler is come upon her, even upon Babylon, and her mighty men are taken, every one of their bows is broken: for the Lord God of recompences shall surely requite.",
       "verse": 56,
       "type": "newline"
     },
     {
-      "text": "And I will make drunk her princes, and her wise men, her captains, and her rulers, and her mighty men: and they shall sleep a perpetual sleep, and not wake, saith the King, whose name is the  of hosts.",
+      "text": "And I will make drunk her princes, and her wise men, her captains, and her rulers, and her mighty men: and they shall sleep a perpetual sleep, and not wake, saith the King, whose name is the Lord of hosts.",
       "verse": 57,
       "type": "newline"
     },
     {
-      "text": "Thus saith the  of hosts; The broad walls of Babylon shall be utterly broken, and her high gates shall be burned with fire; and the people shall labour in vain, and the folk in the fire, and they shall be weary.",
+      "text": "Thus saith the Lord of hosts; The broad walls of Babylon shall be utterly broken, and her high gates shall be burned with fire; and the people shall labour in vain, and the folk in the fire, and they shall be weary.",
       "verse": 58,
       "type": "newline"
     },
@@ -308,7 +309,7 @@
       "type": "newline"
     },
     {
-      "text": "Then shalt thou say, O , thou hast spoken against this place, to cut it off, that none shall remain in it, neither man nor beast, but that it shall be desolate for ever.",
+      "text": "Then shalt thou say, O Lord, thou hast spoken against this place, to cut it off, that none shall remain in it, neither man nor beast, but that it shall be desolate for ever.",
       "verse": 62,
       "type": "newline"
     },

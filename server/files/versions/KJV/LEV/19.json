@@ -2,28 +2,29 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 19,
+  "verses": 37,
   "content": [
     {
-      "text": "And the  spake unto Moses, saying,",
+      "text": "And the Lord spake unto Moses, saying,",
       "verse": 1
     },
     {
-      "text": "Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the  your God am holy.",
+      "text": "Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the Lord your God am holy.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "Ye shall fear every man his mother, and his father, and keep my sabbaths: I am the  your God.",
+      "text": "Ye shall fear every man his mother, and his father, and keep my sabbaths: I am the Lord your God.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "Turn ye not unto idols, nor make to yourselves molten gods: I am the  your God.",
+      "text": "Turn ye not unto idols, nor make to yourselves molten gods: I am the Lord your God.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "And if ye offer a sacrifice of peace offerings unto the , ye shall offer it at your own will.",
+      "text": "And if ye offer a sacrifice of peace offerings unto the Lord, ye shall offer it at your own will.",
       "verse": 5,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore every one that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of the : and that soul shall be cut off from among his people.",
+      "text": "Therefore every one that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of the Lord: and that soul shall be cut off from among his people.",
       "verse": 8,
       "type": "newline"
     },
@@ -48,7 +49,7 @@
       "type": "newline"
     },
     {
-      "text": "And thou shalt not glean thy vineyard, neither shalt thou gather every grape of thy vineyard; thou shalt leave them for the poor and stranger: I am the  your God.",
+      "text": "And thou shalt not glean thy vineyard, neither shalt thou gather every grape of thy vineyard; thou shalt leave them for the poor and stranger: I am the Lord your God.",
       "verse": 10,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I am the .",
+      "text": "And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I am the Lord.",
       "verse": 12,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "Thou shalt not curse the deaf, nor put a stumblingblock before the blind, but shalt fear thy God: I am the .",
+      "text": "Thou shalt not curse the deaf, nor put a stumblingblock before the blind, but shalt fear thy God: I am the Lord.",
       "verse": 14,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "Thou shalt not go up and down as a talebearer among thy people: neither shalt thou stand against the blood of thy neighbour; I am the .",
+      "text": "Thou shalt not go up and down as a talebearer among thy people: neither shalt thou stand against the blood of thy neighbour; I am the Lord.",
       "verse": 16,
       "type": "newline"
     },
@@ -88,7 +89,7 @@
       "type": "newline"
     },
     {
-      "text": "Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the .",
+      "text": "Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.",
       "verse": 18,
       "type": "newline"
     },
@@ -103,12 +104,12 @@
       "type": "newline"
     },
     {
-      "text": "And he shall bring his trespass offering unto the , unto the door of the tabernacle of the congregation, even a ram for a trespass offering.",
+      "text": "And he shall bring his trespass offering unto the Lord, unto the door of the tabernacle of the congregation, even a ram for a trespass offering.",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "And the priest shall make an atonement for him with the ram of the trespass offering before the  for his sin which he hath done: and the sin which he hath done shall be forgiven him.",
+      "text": "And the priest shall make an atonement for him with the ram of the trespass offering before the Lord for his sin which he hath done: and the sin which he hath done shall be forgiven him.",
       "verse": 22,
       "type": "newline"
     },
@@ -118,12 +119,12 @@
       "type": "newline"
     },
     {
-      "text": "But in the fourth year all the fruit thereof shall be holy to praise the  withal.",
+      "text": "But in the fourth year all the fruit thereof shall be holy to praise the Lord withal.",
       "verse": 24,
       "type": "newline"
     },
     {
-      "text": "And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I am the  your God.",
+      "text": "And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I am the Lord your God.",
       "verse": 25,
       "type": "newline"
     },
@@ -138,7 +139,7 @@
       "type": "newline"
     },
     {
-      "text": "Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I am the .",
+      "text": "Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I am the Lord.",
       "verse": 28,
       "type": "newline"
     },
@@ -148,17 +149,17 @@
       "type": "newline"
     },
     {
-      "text": "Ye shall keep my sabbaths, and reverence my sanctuary: I am the .",
+      "text": "Ye shall keep my sabbaths, and reverence my sanctuary: I am the Lord.",
       "verse": 30,
       "type": "newline"
     },
     {
-      "text": "Regard not them that have familiar spirits, neither seek after wizards, to be defiled by them: I am the  your God.",
+      "text": "Regard not them that have familiar spirits, neither seek after wizards, to be defiled by them: I am the Lord your God.",
       "verse": 31,
       "type": "newline"
     },
     {
-      "text": "Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I am the .",
+      "text": "Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I am the Lord.",
       "verse": 32,
       "type": "newline"
     },
@@ -168,7 +169,7 @@
       "type": "newline"
     },
     {
-      "text": "But the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I am the  your God.",
+      "text": "But the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I am the Lord your God.",
       "verse": 34,
       "type": "newline"
     },
@@ -178,12 +179,12 @@
       "type": "newline"
     },
     {
-      "text": "Just balances, just weights, a just ephah, and a just hin, shall ye have: I am the  your God, which brought you out of the land of Egypt.",
+      "text": "Just balances, just weights, a just ephah, and a just hin, shall ye have: I am the Lord your God, which brought you out of the land of Egypt.",
       "verse": 36,
       "type": "newline"
     },
     {
-      "text": "Therefore shall ye observe all my statutes, and all my judgments, and do them: I am the .",
+      "text": "Therefore shall ye observe all my statutes, and all my judgments, and do them: I am the Lord.",
       "verse": 37,
       "type": "newline"
     }

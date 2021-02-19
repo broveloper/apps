@@ -2,18 +2,19 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 15,
+  "verses": 27,
   "content": [
     {
       "text": "The Song of Moses and Miriam",
       "type": "heading"
     },
     {
-      "text": "Then Moses and the Israelites sang this song to the :",
+      "text": "Then Moses and the Israelites sang this song to the Lord:",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“I will sing to the ,",
+      "text": "“I will sing to the Lord,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -33,7 +34,7 @@
       "type": "poetry"
     },
     {
-      "text": "“The  is my strength and my defense;",
+      "text": "“The Lord is my strength and my defense;",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -53,12 +54,12 @@
       "type": "poetry"
     },
     {
-      "text": "The  is a warrior;",
+      "text": "The Lord is a warrior;",
       "verse": 3,
       "type": "poetry"
     },
     {
-      "text": "the  is his name.",
+      "text": "the Lord is his name.",
       "verse": 3,
       "type": "poetry"
     },
@@ -93,7 +94,7 @@
       "type": "poetry"
     },
     {
-      "text": "Your right hand, ,",
+      "text": "Your right hand, Lord,",
       "verse": 6,
       "type": "poetry"
     },
@@ -103,7 +104,7 @@
       "type": "poetry"
     },
     {
-      "text": "Your right hand, ,",
+      "text": "Your right hand, Lord,",
       "verse": 6,
       "type": "poetry"
     },
@@ -208,7 +209,7 @@
       "type": "poetry"
     },
     {
-      "text": "is like you, ?",
+      "text": "is like you, Lord?",
       "verse": 11,
       "type": "poetry"
     },
@@ -288,7 +289,7 @@
       "type": "poetry"
     },
     {
-      "text": "terror and dread will fall on them.",
+      "text": "    terror and dread will fall on them.",
       "verse": 16,
       "type": "poetry"
     },
@@ -303,7 +304,7 @@
       "type": "poetry"
     },
     {
-      "text": "until your people pass by, ,",
+      "text": "until your people pass by, Lord,",
       "verse": 16,
       "type": "poetry"
     },
@@ -323,7 +324,7 @@
       "type": "poetry"
     },
     {
-      "text": "the place, , you made for your dwelling,",
+      "text": "the place, Lord, you made for your dwelling,",
       "verse": 17,
       "type": "poetry"
     },
@@ -333,7 +334,7 @@
       "type": "poetry"
     },
     {
-      "text": "“The  reigns",
+      "text": "“The Lord reigns",
       "verse": 18,
       "type": "poetry newline"
     },
@@ -343,7 +344,7 @@
       "type": "poetry"
     },
     {
-      "text": "When Pharaoh’s horses, chariots and horsemen went into the sea, the  brought the waters of the sea back over them, but the Israelites walked through the sea on dry ground.",
+      "text": "When Pharaoh’s horses, chariots and horsemen went into the sea, the Lord brought the waters of the sea back over them, but the Israelites walked through the sea on dry ground.",
       "verse": 19,
       "type": "newline"
     },
@@ -356,7 +357,7 @@
       "verse": 21
     },
     {
-      "text": "“Sing to the ,",
+      "text": "“Sing to the Lord,",
       "verse": 21,
       "type": "poetry newline"
     },
@@ -393,17 +394,17 @@
       "verse": 24
     },
     {
-      "text": "Then Moses cried out to the , and the  showed him a piece of wood. He threw it into the water, and the water became fit to drink.",
+      "text": "Then Moses cried out to the Lord, and the Lord showed him a piece of wood. He threw it into the water, and the water became fit to drink.",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "There the  issued a ruling and instruction for them and put them to the test.",
+      "text": "There the Lord issued a ruling and instruction for them and put them to the test.",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "He said, “If you listen carefully to the  your God and do what is right in his eyes, if you pay attention to his commands and keep all his decrees, I will not bring on you any of the diseases I brought on the Egyptians, for I am the , who heals you.”",
+      "text": "He said, “If you listen carefully to the Lord your God and do what is right in his eyes, if you pay attention to his commands and keep all his decrees, I will not bring on you any of the diseases I brought on the Egyptians, for I am the Lord, who heals you.”",
       "verse": 26
     },
     {

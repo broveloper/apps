@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 1,
+  "verses": 54,
   "content": [
     {
       "text": "The Census",
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses in the tent of meeting in the Desert of Sinai on the first day of the second month of the second year after the Israelites came out of Egypt. He said:",
+      "text": "The Lord spoke to Moses in the tent of meeting in the Desert of Sinai on the first day of the second month of the second year after the Israelites came out of Egypt. He said:",
       "verse": 1,
       "type": "newline"
     },
@@ -96,7 +97,7 @@
       "verse": 18
     },
     {
-      "text": "as the  commanded Moses. And so he counted them in the Desert of Sinai:",
+      "text": "as the Lord commanded Moses. And so he counted them in the Desert of Sinai:",
       "verse": 19
     },
     {
@@ -277,7 +278,7 @@
       "type": "newline"
     },
     {
-      "text": "The  had said to Moses:",
+      "text": "The Lord had said to Moses:",
       "verse": 48
     },
     {
@@ -301,7 +302,7 @@
       "verse": 53
     },
     {
-      "text": "The Israelites did all this just as the  commanded Moses.",
+      "text": "The Israelites did all this just as the Lord commanded Moses.",
       "verse": 54,
       "type": "newline"
     }

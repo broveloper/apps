@@ -2,13 +2,14 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 22,
+  "verses": 31,
   "content": [
     {
-      "text": "“If a man steals an ox or a sheep, and kills it or sells it, he shall repay five oxen for an ox, and four sheep for a sheep.",
+      "text": " “If a man steals an ox or a sheep, and kills it or sells it, he shall repay five oxen for an ox, and four sheep for a sheep.",
       "verse": 1
     },
     {
-      "text": "If a thief is found breaking in and is struck so that he dies, there shall be no bloodguilt for him,",
+      "text": " If a thief is found breaking in and is struck so that he dies, there shall be no bloodguilt for him,",
       "verse": 2
     },
     {
@@ -48,7 +49,7 @@
       "type": "newline"
     },
     {
-      "text": "an oath by the  shall be between them both to see whether or not he has put his hand to his neighbor's property. The owner shall accept the oath, and he shall not make restitution.",
+      "text": "an oath by the Lord shall be between them both to see whether or not he has put his hand to his neighbor's property. The owner shall accept the oath, and he shall not make restitution.",
       "verse": 11
     },
     {
@@ -92,7 +93,7 @@
       "type": "newline"
     },
     {
-      "text": "“Whoever sacrifices to any god, other than the  alone, shall be devoted to destruction.",
+      "text": "“Whoever sacrifices to any god, other than the Lord alone, shall be devoted to destruction.",
       "verse": 20,
       "type": "newline"
     },

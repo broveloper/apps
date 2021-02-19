@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 83,
+  "verses": 18,
   "content": [
     {
       "text": "O God, Do Not Keep Silence",
@@ -9,8 +10,7 @@
     },
     {
       "text": "A Song. A Psalm of Asaph.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "O God, do not keep silence;",
@@ -88,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "they are the strong arm of the children of Lot.",
+      "text": "they are the strong arm of the children of Lot. Selah",
       "verse": 8,
       "type": "poetry"
     },
@@ -168,7 +168,7 @@
       "type": "poetry"
     },
     {
-      "text": "that they may seek your name, O .",
+      "text": "that they may seek your name, O Lord.",
       "verse": 16,
       "type": "poetry"
     },
@@ -188,7 +188,7 @@
       "type": "poetry"
     },
     {
-      "text": "whose name is the ,",
+      "text": "whose name is the Lord,",
       "verse": 18,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 17,
+  "verses": 15,
   "content": [
     {
       "text": "In the Shadow of Your Wings",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A Prayer of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Hear a just cause, O ; attend to my cry!",
+      "text": "Hear a just cause, O Lord; attend to my cry!",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -143,7 +143,7 @@
       "type": "poetry"
     },
     {
-      "text": "Arise, O ! Confront him, subdue him!",
+      "text": "Arise, O Lord! Confront him, subdue him!",
       "verse": 13,
       "type": "poetry newline"
     },
@@ -153,7 +153,7 @@
       "type": "poetry"
     },
     {
-      "text": "from men by your hand, O ,",
+      "text": "from men by your hand, O Lord,",
       "verse": 14,
       "type": "poetry"
     },

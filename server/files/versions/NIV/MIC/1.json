@@ -2,9 +2,10 @@
   "book_id": "MIC",
   "book_name": "Micah",
   "chapter": 1,
+  "verses": 16,
   "content": [
     {
-      "text": "The word of the  that came to Micah of Moresheth during the reigns of Jotham, Ahaz and Hezekiah, kings of Judah—the vision he saw concerning Samaria and Jerusalem.",
+      "text": "The word of the Lord that came to Micah of Moresheth during the reigns of Jotham, Ahaz and Hezekiah, kings of Judah—the vision he saw concerning Samaria and Jerusalem.",
       "verse": 1
     },
     {
@@ -18,7 +19,7 @@
       "type": "poetry"
     },
     {
-      "text": "that the Sovereign  may bear witness against you,",
+      "text": "that the Sovereign Lord may bear witness against you,",
       "verse": 2,
       "type": "poetry"
     },
@@ -32,7 +33,7 @@
       "type": "heading"
     },
     {
-      "text": "Look! The  is coming from his dwelling place;",
+      "text": "Look! The Lord is coming from his dwelling place;",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -241,7 +242,7 @@
       "type": "poetry"
     },
     {
-      "text": "because disaster has come from the ,",
+      "text": "because disaster has come from the Lord,",
       "verse": 12,
       "type": "poetry"
     },

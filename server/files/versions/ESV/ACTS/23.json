@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 23,
+  "verses": 35,
   "content": [
     {
       "text": "And looking intently at the council, Paul said, “Brothers, I have lived my life before God in all good conscience up to this day.”",
@@ -45,7 +46,7 @@
       "verse": 10
     },
     {
-      "text": "The following night the Lord stood by him and said,",
+      "text": "The following night the Lord stood by him and said, “Take courage, for as you have testified to the facts about me in Jerusalem, so you must testify also in Rome.”",
       "verse": 11,
       "type": "newline"
     },

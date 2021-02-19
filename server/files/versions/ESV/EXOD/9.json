@@ -2,13 +2,14 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 9,
+  "verses": 35,
   "content": [
     {
       "text": "The Fifth Plague: Egyptian Livestock Die",
       "type": "heading"
     },
     {
-      "text": "Then the  said to Moses, “Go in to Pharaoh and say to him, ‘Thus says the , the God of the Hebrews, “Let my people go, that they may serve me.",
+      "text": "Then the Lord said to Moses, “Go in to Pharaoh and say to him, ‘Thus says the Lord, the God of the Hebrews, “Let my people go, that they may serve me.",
       "verse": 1,
       "type": "newline"
     },
@@ -17,19 +18,19 @@
       "verse": 2
     },
     {
-      "text": "behold, the hand of the  will fall with a very severe plague upon your livestock that are in the field, the horses, the donkeys, the camels, the herds, and the flocks.",
+      "text": "behold, the hand of the Lord will fall with a very severe plague upon your livestock that are in the field, the horses, the donkeys, the camels, the herds, and the flocks.",
       "verse": 3
     },
     {
-      "text": "But the  will make a distinction between the livestock of Israel and the livestock of Egypt, so that nothing of all that belongs to the people of Israel shall die.”’”",
+      "text": "But the Lord will make a distinction between the livestock of Israel and the livestock of Egypt, so that nothing of all that belongs to the people of Israel shall die.”’”",
       "verse": 4
     },
     {
-      "text": "And the  set a time, saying, “Tomorrow the  will do this thing in the land.”",
+      "text": "And the Lord set a time, saying, “Tomorrow the Lord will do this thing in the land.”",
       "verse": 5
     },
     {
-      "text": "And the next day the  did this thing. All the livestock of the Egyptians died, but not one of the livestock of the people of Israel died.",
+      "text": "And the next day the Lord did this thing. All the livestock of the Egyptians died, but not one of the livestock of the people of Israel died.",
       "verse": 6
     },
     {
@@ -41,7 +42,7 @@
       "type": "heading"
     },
     {
-      "text": "And the  said to Moses and Aaron, “Take handfuls of soot from the kiln, and let Moses throw them in the air in the sight of Pharaoh.",
+      "text": "And the Lord said to Moses and Aaron, “Take handfuls of soot from the kiln, and let Moses throw them in the air in the sight of Pharaoh.",
       "verse": 8,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "verse": 11
     },
     {
-      "text": "But the  hardened the heart of Pharaoh, and he did not listen to them, as the  had spoken to Moses.",
+      "text": "But the Lord hardened the heart of Pharaoh, and he did not listen to them, as the Lord had spoken to Moses.",
       "verse": 12
     },
     {
@@ -66,7 +67,7 @@
       "type": "heading"
     },
     {
-      "text": "Then the  said to Moses, “Rise up early in the morning and present yourself before Pharaoh and say to him, ‘Thus says the , the God of the Hebrews, “Let my people go, that they may serve me.",
+      "text": "Then the Lord said to Moses, “Rise up early in the morning and present yourself before Pharaoh and say to him, ‘Thus says the Lord, the God of the Hebrews, “Let my people go, that they may serve me.",
       "verse": 13,
       "type": "newline"
     },
@@ -95,20 +96,20 @@
       "verse": 19
     },
     {
-      "text": "Then whoever feared the word of the  among the servants of Pharaoh hurried his slaves and his livestock into the houses,",
+      "text": "Then whoever feared the word of the Lord among the servants of Pharaoh hurried his slaves and his livestock into the houses,",
       "verse": 20
     },
     {
-      "text": "but whoever did not pay attention to the word of the  left his slaves and his livestock in the field.",
+      "text": "but whoever did not pay attention to the word of the Lord left his slaves and his livestock in the field.",
       "verse": 21
     },
     {
-      "text": "Then the  said to Moses, “Stretch out your hand toward heaven, so that there may be hail in all the land of Egypt, on man and beast and every plant of the field, in the land of Egypt.”",
+      "text": "Then the Lord said to Moses, “Stretch out your hand toward heaven, so that there may be hail in all the land of Egypt, on man and beast and every plant of the field, in the land of Egypt.”",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "Then Moses stretched out his staff toward heaven, and the  sent thunder and hail, and fire ran down to the earth. And the  rained hail upon the land of Egypt.",
+      "text": "Then Moses stretched out his staff toward heaven, and the Lord sent thunder and hail, and fire ran down to the earth. And the Lord rained hail upon the land of Egypt.",
       "verse": 23
     },
     {
@@ -124,20 +125,20 @@
       "verse": 26
     },
     {
-      "text": "Then Pharaoh sent and called Moses and Aaron and said to them, “This time I have sinned; the  is in the right, and I and my people are in the wrong.",
+      "text": "Then Pharaoh sent and called Moses and Aaron and said to them, “This time I have sinned; the Lord is in the right, and I and my people are in the wrong.",
       "verse": 27,
       "type": "newline"
     },
     {
-      "text": "Plead with the , for there has been enough of God's thunder and hail. I will let you go, and you shall stay no longer.”",
+      "text": "Plead with the Lord, for there has been enough of God's thunder and hail. I will let you go, and you shall stay no longer.”",
       "verse": 28
     },
     {
-      "text": "Moses said to him, “As soon as I have gone out of the city, I will stretch out my hands to the . The thunder will cease, and there will be no more hail, so that you may know that the earth is the 's.",
+      "text": "Moses said to him, “As soon as I have gone out of the city, I will stretch out my hands to the Lord. The thunder will cease, and there will be no more hail, so that you may know that the earth is the Lord's.",
       "verse": 29
     },
     {
-      "text": "But as for you and your servants, I know that you do not yet fear the  God.”",
+      "text": "But as for you and your servants, I know that you do not yet fear the Lord God.”",
       "verse": 30
     },
     {
@@ -149,7 +150,7 @@
       "verse": 32
     },
     {
-      "text": "So Moses went out of the city from Pharaoh and stretched out his hands to the , and the thunder and the hail ceased, and the rain no longer poured upon the earth.",
+      "text": "So Moses went out of the city from Pharaoh and stretched out his hands to the Lord, and the thunder and the hail ceased, and the rain no longer poured upon the earth.",
       "verse": 33
     },
     {
@@ -157,7 +158,7 @@
       "verse": 34
     },
     {
-      "text": "So the heart of Pharaoh was hardened, and he did not let the people of Israel go, just as the  had spoken through Moses.",
+      "text": "So the heart of Pharaoh was hardened, and he did not let the people of Israel go, just as the Lord had spoken through Moses.",
       "verse": 35
     }
   ]

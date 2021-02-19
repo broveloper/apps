@@ -2,13 +2,14 @@
   "book_id": "EZRA",
   "book_name": "Ezra",
   "chapter": 4,
+  "verses": 24,
   "content": [
     {
       "text": "Opposition to the Rebuilding",
       "type": "heading"
     },
     {
-      "text": "When the enemies of Judah and Benjamin heard that the exiles were building a temple for the , the God of Israel,",
+      "text": "When the enemies of Judah and Benjamin heard that the exiles were building a temple for the Lord, the God of Israel,",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "But Zerubbabel, Joshua and the rest of the heads of the families of Israel answered, “You have no part with us in building a temple to our God. We alone will build it for the , the God of Israel, as King Cyrus, the king of Persia, commanded us.”",
+      "text": "But Zerubbabel, Joshua and the rest of the heads of the families of Israel answered, “You have no part with us in building a temple to our God. We alone will build it for the Lord, the God of Israel, as King Cyrus, the king of Persia, commanded us.”",
       "verse": 3,
       "type": "newline"
     },

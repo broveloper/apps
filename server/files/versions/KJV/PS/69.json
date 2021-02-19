@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 69,
+  "verses": 36,
   "content": [
     {
       "text": "Save me, O God; for the waters are come in unto my soul.",
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "Let not them that wait on thee, O Lord  of hosts, be ashamed for my sake: let not those that seek thee be confounded for my sake, O God of Israel.",
+      "text": "Let not them that wait on thee, O Lord God of hosts, be ashamed for my sake: let not those that seek thee be confounded for my sake, O God of Israel.",
       "verse": 6,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "But as for me, my prayer is unto thee, O , in an acceptable time: O God, in the multitude of thy mercy hear me, in the truth of thy salvation.",
+      "text": "But as for me, my prayer is unto thee, O Lord, in an acceptable time: O God, in the multitude of thy mercy hear me, in the truth of thy salvation.",
       "verse": 13,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "Hear me, O ; for thy lovingkindness is good: turn unto me according to the multitude of thy tender mercies.",
+      "text": "Hear me, O Lord; for thy lovingkindness is good: turn unto me according to the multitude of thy tender mercies.",
       "verse": 16,
       "type": "newline"
     },
@@ -153,7 +154,7 @@
       "type": "newline"
     },
     {
-      "text": "This also shall please the  better than an ox or bullock that hath horns and hoofs.",
+      "text": "This also shall please the Lord better than an ox or bullock that hath horns and hoofs.",
       "verse": 31,
       "type": "newline"
     },
@@ -163,7 +164,7 @@
       "type": "newline"
     },
     {
-      "text": "For the  heareth the poor, and despiseth not his prisoners.",
+      "text": "For the Lord heareth the poor, and despiseth not his prisoners.",
       "verse": 33,
       "type": "newline"
     },

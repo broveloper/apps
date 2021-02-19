@@ -2,6 +2,7 @@
   "book_id": "MARK",
   "book_name": "Mark",
   "chapter": 2,
+  "verses": 28,
   "content": [
     {
       "text": "Jesus Heals a Paralytic",
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "And when Jesus saw their faith, he said to the paralytic,",
+      "text": "And when Jesus saw their faith, he said to the paralytic, “Son, your sins are forgiven.”",
       "verse": 5
     },
     {
@@ -37,19 +38,19 @@
       "verse": 7
     },
     {
-      "text": "And immediately Jesus, perceiving in his spirit that they thus questioned within themselves, said to them,",
+      "text": "And immediately Jesus, perceiving in his spirit that they thus questioned within themselves, said to them, “Why do you question these things in your hearts?",
       "verse": 8
     },
     {
-      "text": "",
+      "text": "Which is easier, to say to the paralytic, ‘Your sins are forgiven,’ or to say, ‘Rise, take up your bed and walk’?",
       "verse": 9
     },
     {
-      "text": "—he said to the paralytic—",
+      "text": "But that you may know that the Son of Man has authority on earth to forgive sins”—he said to the paralytic—",
       "verse": 10
     },
     {
-      "text": "",
+      "text": "“I say to you, rise, pick up your bed, and go home.”",
       "verse": 11
     },
     {
@@ -66,7 +67,7 @@
       "type": "newline"
     },
     {
-      "text": "And as he passed by, he saw Levi the son of Alphaeus sitting at the tax booth, and he said to him,  And he rose and followed him.",
+      "text": "And as he passed by, he saw Levi the son of Alphaeus sitting at the tax booth, and he said to him, “Follow me.” And he rose and followed him.",
       "verse": 14
     },
     {
@@ -79,7 +80,7 @@
       "verse": 16
     },
     {
-      "text": "And when Jesus heard it, he said to them,",
+      "text": "And when Jesus heard it, he said to them, “Those who are well have no need of a physician, but those who are sick. I came not to call the righteous, but sinners.”",
       "verse": 17
     },
     {
@@ -92,19 +93,19 @@
       "type": "newline"
     },
     {
-      "text": "And Jesus said to them,",
+      "text": "And Jesus said to them, “Can the wedding guests fast while the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast.",
       "verse": 19
     },
     {
-      "text": "",
+      "text": "The days will come when the bridegroom is taken away from them, and then they will fast in that day.",
       "verse": 20
     },
     {
-      "text": "",
+      "text": "No one sews a piece of unshrunk cloth on an old garment. If he does, the patch tears away from it, the new from the old, and a worse tear is made.",
       "verse": 21
     },
     {
-      "text": "",
+      "text": "And no one puts new wine into old wineskins. If he does, the wine will burst the skins—and the wine is destroyed, and so are the skins. But new wine is for fresh wineskins.”",
       "verse": 22
     },
     {
@@ -121,19 +122,19 @@
       "verse": 24
     },
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “Have you never read what David did, when he was in need and was hungry, he and those who were with him:",
       "verse": 25
     },
     {
-      "text": "",
+      "text": "how he entered the house of God, in the time of Abiathar the high priest, and ate the bread of the Presence, which it is not lawful for any but the priests to eat, and also gave it to those who were with him?”",
       "verse": 26
     },
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “The Sabbath was made for man, not man for the Sabbath.",
       "verse": 27
     },
     {
-      "text": "",
+      "text": "So the Son of Man is lord even of the Sabbath.”",
       "verse": 28
     }
   ]

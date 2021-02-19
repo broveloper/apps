@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 13,
+  "verses": 18,
   "content": [
     {
       "text": "Abram and Lot Separate",
@@ -22,7 +23,7 @@
       "type": "newline"
     },
     {
-      "text": "and where he had first built an altar. There Abram called on the name of the .",
+      "text": "and where he had first built an altar. There Abram called on the name of the Lord.",
       "verse": 4
     },
     {
@@ -48,7 +49,7 @@
       "verse": 9
     },
     {
-      "text": "Lot looked around and saw that the whole plain of the Jordan toward Zoar was well watered, like the garden of the , like the land of Egypt. (This was before the  destroyed Sodom and Gomorrah.)",
+      "text": "Lot looked around and saw that the whole plain of the Jordan toward Zoar was well watered, like the garden of the Lord, like the land of Egypt. (This was before the Lord destroyed Sodom and Gomorrah.)",
       "verse": 10,
       "type": "newline"
     },
@@ -61,11 +62,11 @@
       "verse": 12
     },
     {
-      "text": "Now the people of Sodom were wicked and were sinning greatly against the .",
+      "text": "Now the people of Sodom were wicked and were sinning greatly against the Lord.",
       "verse": 13
     },
     {
-      "text": "The  said to Abram after Lot had parted from him, “Look around from where you are, to the north and south, to the east and west.",
+      "text": "The Lord said to Abram after Lot had parted from him, “Look around from where you are, to the north and south, to the east and west.",
       "verse": 14,
       "type": "newline"
     },
@@ -82,7 +83,7 @@
       "verse": 17
     },
     {
-      "text": "So Abram went to live near the great trees of Mamre at Hebron, where he pitched his tents. There he built an altar to the .",
+      "text": "So Abram went to live near the great trees of Mamre at Hebron, where he pitched his tents. There he built an altar to the Lord.",
       "verse": 18,
       "type": "newline"
     }

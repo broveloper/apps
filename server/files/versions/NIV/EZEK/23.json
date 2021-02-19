@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 23,
+  "verses": 49,
   "content": [
     {
       "text": "Two Adulterous Sisters",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -97,7 +98,7 @@
       "verse": 21
     },
     {
-      "text": "“Therefore, Oholibah, this is what the Sovereign  says: I will stir up your lovers against you, those you turned away from in disgust, and I will bring them against you from every side—",
+      "text": "“Therefore, Oholibah, this is what the Sovereign Lord says: I will stir up your lovers against you, those you turned away from in disgust, and I will bring them against you from every side—",
       "verse": 22,
       "type": "newline"
     },
@@ -122,7 +123,7 @@
       "verse": 27
     },
     {
-      "text": "“For this is what the Sovereign  says: I am about to deliver you into the hands of those you hate, to those you turned away from in disgust.",
+      "text": "“For this is what the Sovereign Lord says: I am about to deliver you into the hands of those you hate, to those you turned away from in disgust.",
       "verse": 28,
       "type": "newline"
     },
@@ -139,7 +140,7 @@
       "verse": 31
     },
     {
-      "text": "“This is what the Sovereign  says:",
+      "text": "“This is what the Sovereign Lord says:",
       "verse": 32,
       "type": "newline"
     },
@@ -194,17 +195,17 @@
       "type": "poetry"
     },
     {
-      "text": "I have spoken, declares the Sovereign .",
+      "text": "I have spoken, declares the Sovereign Lord.",
       "verse": 34,
       "type": "newline"
     },
     {
-      "text": "“Therefore this is what the Sovereign  says: Since you have forgotten me and turned your back on me, you must bear the consequences of your lewdness and prostitution.”",
+      "text": "“Therefore this is what the Sovereign Lord says: Since you have forgotten me and turned your back on me, you must bear the consequences of your lewdness and prostitution.”",
       "verse": 35,
       "type": "newline"
     },
     {
-      "text": "The  said to me: “Son of man, will you judge Oholah and Oholibah? Then confront them with their detestable practices,",
+      "text": "The Lord said to me: “Son of man, will you judge Oholah and Oholibah? Then confront them with their detestable practices,",
       "verse": 36,
       "type": "newline"
     },
@@ -247,7 +248,7 @@
       "verse": 45
     },
     {
-      "text": "“This is what the Sovereign  says: Bring a mob against them and give them over to terror and plunder.",
+      "text": "“This is what the Sovereign Lord says: Bring a mob against them and give them over to terror and plunder.",
       "verse": 46,
       "type": "newline"
     },
@@ -261,7 +262,7 @@
       "type": "newline"
     },
     {
-      "text": "You will suffer the penalty for your lewdness and bear the consequences of your sins of idolatry. Then you will know that I am the Sovereign .”",
+      "text": "You will suffer the penalty for your lewdness and bear the consequences of your sins of idolatry. Then you will know that I am the Sovereign Lord.”",
       "verse": 49
     }
   ]

@@ -2,13 +2,14 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 50,
+  "verses": 11,
   "content": [
     {
       "text": "Israel's Sin and the Servant's Obedience",
       "type": "heading"
     },
     {
-      "text": "Thus says the :",
+      "text": "Thus says the Lord:",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -93,7 +94,7 @@
       "type": "poetry"
     },
     {
-      "text": "The Lord  has given me",
+      "text": "The Lord God has given me",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "The Lord  has opened my ear,",
+      "text": "The Lord God has opened my ear,",
       "verse": 5,
       "type": "poetry"
     },
@@ -163,7 +164,7 @@
       "type": "poetry"
     },
     {
-      "text": "But the Lord  helps me;",
+      "text": "But the Lord God helps me;",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -183,7 +184,7 @@
       "type": "poetry"
     },
     {
-      "text": "He who vindicates me is near.",
+      "text": "    He who vindicates me is near.",
       "verse": 8,
       "type": "poetry"
     },
@@ -208,7 +209,7 @@
       "type": "poetry"
     },
     {
-      "text": "Behold, the Lord  helps me;",
+      "text": "Behold, the Lord God helps me;",
       "verse": 9,
       "type": "poetry"
     },
@@ -228,7 +229,7 @@
       "type": "poetry"
     },
     {
-      "text": "Who among you fears the",
+      "text": "Who among you fears the Lord",
       "verse": 10,
       "type": "poetry newline"
     },
@@ -248,7 +249,7 @@
       "type": "poetry"
     },
     {
-      "text": "trust in the name of the",
+      "text": "trust in the name of the Lord",
       "verse": 10,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 129,
+  "verses": 8,
   "content": [
     {
       "text": "Many a time have they afflicted me from my youth, may Israel now say:",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "The  is righteous: he hath cut asunder the cords of the wicked.",
+      "text": "The Lord is righteous: he hath cut asunder the cords of the wicked.",
       "verse": 4,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "Neither do they which go by say, The blessing of the  be upon you: we bless you in the name of the .",
+      "text": "Neither do they which go by say, The blessing of the Lord be upon you: we bless you in the name of the Lord.",
       "verse": 8,
       "type": "newline"
     }

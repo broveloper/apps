@@ -2,13 +2,14 @@
   "book_id": "1CHR",
   "book_name": "1 Chronicles",
   "chapter": 6,
+  "verses": 81,
   "content": [
     {
       "text": "Descendants of Levi",
       "type": "heading"
     },
     {
-      "text": "The sons of Levi: Gershon, Kohath, and Merari.",
+      "text": " The sons of Levi: Gershon, Kohath, and Merari.",
       "verse": 1,
       "type": "newline"
     },
@@ -65,11 +66,11 @@
       "verse": 14
     },
     {
-      "text": "and Jehozadak went into exile when the  sent Judah and Jerusalem into exile by the hand of Nebuchadnezzar.",
+      "text": "and Jehozadak went into exile when the Lord sent Judah and Jerusalem into exile by the hand of Nebuchadnezzar.",
       "verse": 15
     },
     {
-      "text": "The sons of Levi: Gershom, Kohath, and Merari.",
+      "text": " The sons of Levi: Gershom, Kohath, and Merari.",
       "verse": 16,
       "type": "newline"
     },
@@ -130,12 +131,12 @@
       "verse": 30
     },
     {
-      "text": "These are the men whom David put in charge of the service of song in the house of the  after the ark rested there.",
+      "text": "These are the men whom David put in charge of the service of song in the house of the Lord after the ark rested there.",
       "verse": 31,
       "type": "newline"
     },
     {
-      "text": "They ministered with song before the tabernacle of the tent of meeting until Solomon built the house of the  in Jerusalem, and they performed their service according to their order.",
+      "text": "They ministered with song before the tabernacle of the tent of meeting until Solomon built the house of the Lord in Jerusalem, and they performed their service according to their order.",
       "verse": 32
     },
     {

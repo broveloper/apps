@@ -2,6 +2,7 @@
   "book_id": "SONG",
   "book_name": "Song of Solomon",
   "chapter": 1,
+  "verses": 17,
   "content": [
     {
       "text": "The Song of Songs, which is Solomon's.",
@@ -13,8 +14,7 @@
     },
     {
       "text": "She",
-      "verse": 2,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Let him kiss me with the kisses of his mouth!",
@@ -27,7 +27,7 @@
       "type": "poetry"
     },
     {
-      "text": "your anointing oils are fragrant;",
+      "text": "    your anointing oils are fragrant;",
       "verse": 3,
       "type": "poetry"
     },
@@ -53,8 +53,7 @@
     },
     {
       "text": "Others",
-      "verse": 4,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "We will exult and rejoice in you;",
@@ -73,8 +72,7 @@
     },
     {
       "text": "She",
-      "verse": 5,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "I am very dark, but lovely,",
@@ -152,8 +150,7 @@
     },
     {
       "text": "He",
-      "verse": 8,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "If you do not know,",
@@ -202,8 +199,7 @@
     },
     {
       "text": "Others",
-      "verse": 11,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "We will make for you ornaments of gold,",
@@ -217,8 +213,7 @@
     },
     {
       "text": "She",
-      "verse": 12,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "While the king was on his couch,",
@@ -252,8 +247,7 @@
     },
     {
       "text": "He",
-      "verse": 15,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Behold, you are beautiful, my love;",
@@ -272,8 +266,7 @@
     },
     {
       "text": "She",
-      "verse": 16,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Behold, you are beautiful, my beloved, truly delightful.",
@@ -286,7 +279,7 @@
       "type": "poetry"
     },
     {
-      "text": "the beams of our house are cedar;",
+      "text": "    the beams of our house are cedar;",
       "verse": 17,
       "type": "poetry"
     },

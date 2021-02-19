@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 49,
+  "verses": 33,
   "content": [
     {
       "text": "Jacob Blesses His Sons",
@@ -263,7 +264,7 @@
       "type": "poetry"
     },
     {
-      "text": "I wait for your salvation, O .",
+      "text": "I wait for your salvation, O Lord.",
       "verse": 18,
       "type": "poetry"
     },

@@ -2,13 +2,14 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 43,
+  "verses": 28,
   "content": [
     {
       "text": "Israel’s Only Savior",
       "type": "heading"
     },
     {
-      "text": "But now, this is what the  says—",
+      "text": "But now, this is what the Lord says—",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "For I am the  your God,",
+      "text": "For I am the Lord your God,",
       "verse": 3,
       "type": "poetry"
     },
@@ -198,7 +199,7 @@
       "type": "poetry"
     },
     {
-      "text": "“You are my witnesses,” declares the ,",
+      "text": "“You are my witnesses,” declares the Lord,",
       "verse": 10,
       "type": "poetry"
     },
@@ -228,7 +229,7 @@
       "type": "poetry"
     },
     {
-      "text": "I, even I, am the ,",
+      "text": "I, even I, am the Lord,",
       "verse": 11,
       "type": "poetry"
     },
@@ -248,12 +249,12 @@
       "type": "poetry"
     },
     {
-      "text": "You are my witnesses,” declares the , “that I am God.",
+      "text": "You are my witnesses,” declares the Lord, “that I am God.",
       "verse": 12,
       "type": "poetry"
     },
     {
-      "text": "Yes, and from ancient days I am he.",
+      "text": "    Yes, and from ancient days I am he.",
       "verse": 13,
       "type": "poetry"
     },
@@ -272,7 +273,7 @@
       "type": "heading"
     },
     {
-      "text": "This is what the  says—",
+      "text": "This is what the Lord says—",
       "verse": 14,
       "type": "poetry newline"
     },
@@ -297,7 +298,7 @@
       "type": "poetry"
     },
     {
-      "text": "I am the , your Holy One,",
+      "text": "I am the Lord, your Holy One,",
       "verse": 15,
       "type": "poetry"
     },
@@ -307,7 +308,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the  says—",
+      "text": "This is what the Lord says—",
       "verse": 16,
       "type": "poetry newline"
     },
@@ -397,7 +398,7 @@
       "type": "poetry"
     },
     {
-      "text": "the people I formed for myself",
+      "text": "    the people I formed for myself",
       "verse": 21,
       "type": "poetry"
     },

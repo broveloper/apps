@@ -2,9 +2,10 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 10,
+  "verses": 22,
   "content": [
     {
-      "text": "The Glory of the  Leaves the Temple",
+      "text": "The Glory of the Lord Leaves the Temple",
       "type": "heading"
     },
     {
@@ -26,7 +27,7 @@
       "verse": 3
     },
     {
-      "text": "And the glory of the  went up from the cherub to the threshold of the house, and the house was filled with the cloud, and the court was filled with the brightness of the glory of the .",
+      "text": "And the glory of the Lord went up from the cherub to the threshold of the house, and the house was filled with the cloud, and the court was filled with the brightness of the glory of the Lord.",
       "verse": 4
     },
     {
@@ -85,12 +86,12 @@
       "verse": 17
     },
     {
-      "text": "Then the glory of the  went out from the threshold of the house, and stood over the cherubim.",
+      "text": "Then the glory of the Lord went out from the threshold of the house, and stood over the cherubim.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "And the cherubim lifted up their wings and mounted up from the earth before my eyes as they went out, with the wheels beside them. And they stood at the entrance of the east gate of the house of the , and the glory of the God of Israel was over them.",
+      "text": "And the cherubim lifted up their wings and mounted up from the earth before my eyes as they went out, with the wheels beside them. And they stood at the entrance of the east gate of the house of the Lord, and the glory of the God of Israel was over them.",
       "verse": 19
     },
     {

@@ -2,6 +2,7 @@
   "book_id": "OBAD",
   "book_name": "Obadiah",
   "chapter": 1,
+  "verses": 21,
   "content": [
     {
       "text": "Obadiah’s Vision",
@@ -13,12 +14,12 @@
       "type": "newline"
     },
     {
-      "text": "This is what the Sovereign  says about Edom—",
+      "text": "This is what the Sovereign Lord says about Edom—",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "We have heard a message from the :",
+      "text": "We have heard a message from the Lord:",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -83,7 +84,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 4,
       "type": "poetry"
     },
@@ -148,7 +149,7 @@
       "type": "poetry"
     },
     {
-      "text": "“In that day,” declares the ,",
+      "text": "“In that day,” declares the Lord,",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -298,7 +299,7 @@
       "type": "poetry"
     },
     {
-      "text": "“The day of the  is near",
+      "text": "“The day of the Lord is near",
       "verse": 15,
       "type": "poetry newline"
     },
@@ -383,7 +384,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has spoken.",
+      "text": "The Lord has spoken.",
       "verse": 18,
       "type": "poetry"
     },
@@ -448,7 +449,7 @@
       "type": "poetry"
     },
     {
-      "text": "And the kingdom will be the ’s.",
+      "text": "And the kingdom will be the Lord’s.",
       "verse": 21,
       "type": "poetry"
     }

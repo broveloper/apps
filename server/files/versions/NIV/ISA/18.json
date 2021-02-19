@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 18,
+  "verses": 7,
   "content": [
     {
       "text": "A Prophecy Against Cush",
@@ -83,7 +84,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the  says to me:",
+      "text": "This is what the Lord says to me:",
       "verse": 4,
       "type": "poetry"
     },
@@ -143,7 +144,7 @@
       "type": "poetry"
     },
     {
-      "text": "At that time gifts will be brought to the  Almighty",
+      "text": "At that time gifts will be brought to the Lord Almighty",
       "verse": 7,
       "type": "newline"
     },
@@ -168,7 +169,7 @@
       "type": "poetry"
     },
     {
-      "text": "the gifts will be brought to Mount Zion, the place of the Name of the  Almighty.",
+      "text": "the gifts will be brought to Mount Zion, the place of the Name of the Lord Almighty.",
       "verse": 7,
       "type": "newline"
     }

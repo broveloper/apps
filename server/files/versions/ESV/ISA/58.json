@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 58,
+  "verses": 14,
   "content": [
     {
       "text": "True and False Fasting",
@@ -123,7 +124,7 @@
       "type": "poetry"
     },
     {
-      "text": "and a day acceptable to the ?",
+      "text": "and a day acceptable to the Lord?",
       "verse": 5,
       "type": "poetry"
     },
@@ -188,12 +189,12 @@
       "type": "poetry"
     },
     {
-      "text": "the glory of the  shall be your rear guard.",
+      "text": "the glory of the Lord shall be your rear guard.",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "Then you shall call, and the  will answer;",
+      "text": "Then you shall call, and the Lord will answer;",
       "verse": 9,
       "type": "poetry"
     },
@@ -233,7 +234,7 @@
       "type": "poetry"
     },
     {
-      "text": "And the  will guide you continually",
+      "text": "And the Lord will guide you continually",
       "verse": 11,
       "type": "poetry"
     },
@@ -298,7 +299,7 @@
       "type": "poetry"
     },
     {
-      "text": "and the holy day of the  honorable;",
+      "text": "and the holy day of the Lord honorable;",
       "verse": 13,
       "type": "poetry"
     },
@@ -313,7 +314,7 @@
       "type": "poetry"
     },
     {
-      "text": "then you shall take delight in the ,",
+      "text": "then you shall take delight in the Lord,",
       "verse": 14,
       "type": "poetry"
     },
@@ -328,7 +329,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the mouth of the  has spoken.”",
+      "text": "for the mouth of the Lord has spoken.”",
       "verse": 14,
       "type": "poetry"
     }

@@ -2,13 +2,14 @@
   "book_id": "JOSH",
   "book_name": "Joshua",
   "chapter": 1,
+  "verses": 18,
   "content": [
     {
       "text": "Joshua Installed as Leader",
       "type": "heading"
     },
     {
-      "text": "After the death of Moses the servant of the , the  said to Joshua son of Nun, Moses’ aide:",
+      "text": "After the death of Moses the servant of the Lord, the Lord said to Joshua son of Nun, Moses’ aide:",
       "verse": 1,
       "type": "newline"
     },
@@ -42,7 +43,7 @@
       "verse": 8
     },
     {
-      "text": "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the  your God will be with you wherever you go.”",
+      "text": "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.”",
       "verse": 9
     },
     {
@@ -51,7 +52,7 @@
       "type": "newline"
     },
     {
-      "text": "“Go through the camp and tell the people, ‘Get your provisions ready. Three days from now you will cross the Jordan here to go in and take possession of the land the  your God is giving you for your own.’”",
+      "text": "“Go through the camp and tell the people, ‘Get your provisions ready. Three days from now you will cross the Jordan here to go in and take possession of the land the Lord your God is giving you for your own.’”",
       "verse": 11
     },
     {
@@ -60,7 +61,7 @@
       "type": "newline"
     },
     {
-      "text": "“Remember the command that Moses the servant of the  gave you after he said, ‘The  your God will give you rest by giving you this land.’",
+      "text": "“Remember the command that Moses the servant of the Lord gave you after he said, ‘The Lord your God will give you rest by giving you this land.’",
       "verse": 13
     },
     {
@@ -68,7 +69,7 @@
       "verse": 14
     },
     {
-      "text": "until the  gives them rest, as he has done for you, and until they too have taken possession of the land the  your God is giving them. After that, you may go back and occupy your own land, which Moses the servant of the  gave you east of the Jordan toward the sunrise.”",
+      "text": "until the Lord gives them rest, as he has done for you, and until they too have taken possession of the land the Lord your God is giving them. After that, you may go back and occupy your own land, which Moses the servant of the Lord gave you east of the Jordan toward the sunrise.”",
       "verse": 15
     },
     {
@@ -77,7 +78,7 @@
       "type": "newline"
     },
     {
-      "text": "Just as we fully obeyed Moses, so we will obey you. Only may the  your God be with you as he was with Moses.",
+      "text": "Just as we fully obeyed Moses, so we will obey you. Only may the Lord your God be with you as he was with Moses.",
       "verse": 17
     },
     {

@@ -2,23 +2,24 @@
   "book_id": "HAB",
   "book_name": "Habakkuk",
   "chapter": 3,
+  "verses": 19,
   "content": [
     {
       "text": "Habakkuk’s Prayer",
       "type": "heading"
     },
     {
-      "text": "A prayer of Habakkuk the prophet. On .",
+      "text": "A prayer of Habakkuk the prophet. On shigionoth.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": ", I have heard of your fame;",
+      "text": "Lord, I have heard of your fame;",
       "verse": 2,
       "type": "poetry newline"
     },
     {
-      "text": "I stand in awe of your deeds, .",
+      "text": "I stand in awe of your deeds, Lord.",
       "verse": 2,
       "type": "poetry"
     },
@@ -118,7 +119,7 @@
       "type": "poetry"
     },
     {
-      "text": "Were you angry with the rivers, ?",
+      "text": "Were you angry with the rivers, Lord?",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -158,7 +159,7 @@
       "type": "poetry"
     },
     {
-      "text": "the mountains saw you and writhed.",
+      "text": "    the mountains saw you and writhed.",
       "verse": 10,
       "type": "poetry"
     },
@@ -313,7 +314,7 @@
       "type": "poetry"
     },
     {
-      "text": "yet I will rejoice in the ,",
+      "text": "yet I will rejoice in the Lord,",
       "verse": 18,
       "type": "poetry"
     },
@@ -323,7 +324,7 @@
       "type": "poetry"
     },
     {
-      "text": "The Sovereign  is my strength;",
+      "text": "The Sovereign Lord is my strength;",
       "verse": 19,
       "type": "poetry newline"
     },

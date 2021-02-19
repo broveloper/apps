@@ -2,6 +2,7 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 20,
+  "verses": 29,
   "content": [
     {
       "text": "Zophar",
@@ -263,7 +264,7 @@
       "type": "poetry"
     },
     {
-      "text": "total darkness lies in wait for his treasures.",
+      "text": "    total darkness lies in wait for his treasures.",
       "verse": 26,
       "type": "poetry"
     },

@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 147,
+  "verses": 20,
   "content": [
     {
       "text": "He Heals the Brokenhearted",
       "type": "heading"
     },
     {
-      "text": "Praise the !",
+      "text": "Praise the Lord!",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,7 +24,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  builds up Jerusalem;",
+      "text": "The Lord builds up Jerusalem;",
       "verse": 2,
       "type": "poetry"
     },
@@ -63,7 +64,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  lifts up the humble;",
+      "text": "The Lord lifts up the humble;",
       "verse": 6,
       "type": "poetry"
     },
@@ -73,7 +74,7 @@
       "type": "poetry"
     },
     {
-      "text": "Sing to the  with thanksgiving;",
+      "text": "Sing to the Lord with thanksgiving;",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -118,7 +119,7 @@
       "type": "poetry"
     },
     {
-      "text": "but the  takes pleasure in those who fear him,",
+      "text": "but the Lord takes pleasure in those who fear him,",
       "verse": 11,
       "type": "poetry"
     },
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the , O Jerusalem!",
+      "text": "Praise the Lord, O Jerusalem!",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -218,7 +219,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the !",
+      "text": "Praise the Lord!",
       "verse": 20,
       "type": "poetry"
     }

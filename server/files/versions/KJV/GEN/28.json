@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 28,
+  "verses": 22,
   "content": [
     {
       "text": "And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan.",
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "And, behold, the  stood above it, and said, I am the  God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed;",
+      "text": "And, behold, the Lord stood above it, and said, I am the Lord God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed;",
       "verse": 13,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "And Jacob awaked out of his sleep, and he said, Surely the  is in this place; and I knew it not.",
+      "text": "And Jacob awaked out of his sleep, and he said, Surely the Lord is in this place; and I knew it not.",
       "verse": 16,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "So that I come again to my father's house in peace; then shall the  be my God:",
+      "text": "So that I come again to my father's house in peace; then shall the Lord be my God:",
       "verse": 21,
       "type": "newline"
     },

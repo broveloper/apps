@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 24,
+  "verses": 10,
   "content": [
     {
       "text": "The Good Figs and the Bad Figs",
       "type": "heading"
     },
     {
-      "text": "After Nebuchadnezzar king of Babylon had taken into exile from Jerusalem Jeconiah the son of Jehoiakim, king of Judah, together with the officials of Judah, the craftsmen, and the metal workers, and had brought them to Babylon, the  showed me this vision: behold, two baskets of figs placed before the temple of the .",
+      "text": "After Nebuchadnezzar king of Babylon had taken into exile from Jerusalem Jeconiah the son of Jehoiakim, king of Judah, together with the officials of Judah, the craftsmen, and the metal workers, and had brought them to Babylon, the Lord showed me this vision: behold, two baskets of figs placed before the temple of the Lord.",
       "verse": 1,
       "type": "newline"
     },
@@ -17,16 +18,16 @@
       "verse": 2
     },
     {
-      "text": "And the  said to me, “What do you see, Jeremiah?” I said, “Figs, the good figs very good, and the bad figs very bad, so bad that they cannot be eaten.”",
+      "text": "And the Lord said to me, “What do you see, Jeremiah?” I said, “Figs, the good figs very good, and the bad figs very bad, so bad that they cannot be eaten.”",
       "verse": 3
     },
     {
-      "text": "Then the word of the  came to me:",
+      "text": "Then the word of the Lord came to me:",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "“Thus says the , the God of Israel: Like these good figs, so I will regard as good the exiles from Judah, whom I have sent away from this place to the land of the Chaldeans.",
+      "text": "“Thus says the Lord, the God of Israel: Like these good figs, so I will regard as good the exiles from Judah, whom I have sent away from this place to the land of the Chaldeans.",
       "verse": 5
     },
     {
@@ -34,11 +35,11 @@
       "verse": 6
     },
     {
-      "text": "I will give them a heart to know that I am the , and they shall be my people and I will be their God, for they shall return to me with their whole heart.",
+      "text": "I will give them a heart to know that I am the Lord, and they shall be my people and I will be their God, for they shall return to me with their whole heart.",
       "verse": 7
     },
     {
-      "text": "“But thus says the : Like the bad figs that are so bad they cannot be eaten, so will I treat Zedekiah the king of Judah, his officials, the remnant of Jerusalem who remain in this land, and those who dwell in the land of Egypt.",
+      "text": "“But thus says the Lord: Like the bad figs that are so bad they cannot be eaten, so will I treat Zedekiah the king of Judah, his officials, the remnant of Jerusalem who remain in this land, and those who dwell in the land of Egypt.",
       "verse": 8,
       "type": "newline"
     },

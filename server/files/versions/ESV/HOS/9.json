@@ -2,9 +2,10 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 9,
+  "verses": 17,
   "content": [
     {
-      "text": "The  Will Punish Israel",
+      "text": "The Lord Will Punish Israel",
       "type": "heading"
     },
     {
@@ -43,7 +44,7 @@
       "type": "poetry"
     },
     {
-      "text": "They shall not remain in the land of the ,",
+      "text": "They shall not remain in the land of the Lord,",
       "verse": 3,
       "type": "poetry"
     },
@@ -58,7 +59,7 @@
       "type": "poetry"
     },
     {
-      "text": "They shall not pour drink offerings of wine to the ,",
+      "text": "They shall not pour drink offerings of wine to the Lord,",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -83,7 +84,7 @@
       "type": "poetry"
     },
     {
-      "text": "it shall not come to the house of the .",
+      "text": "it shall not come to the house of the Lord.",
       "verse": 4,
       "type": "poetry"
     },
@@ -93,7 +94,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "and on the day of the feast of the ?",
+      "text": "and on the day of the feast of the Lord?",
       "verse": 5,
       "type": "poetry"
     },
@@ -273,7 +274,7 @@
       "type": "poetry"
     },
     {
-      "text": "Give them, O —",
+      "text": "Give them, O Lord—",
       "verse": 14,
       "type": "poetry"
     },

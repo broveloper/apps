@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 2,
+  "verses": 25,
   "content": [
     {
       "text": "The Seventh Day, God Rests",
@@ -35,12 +36,12 @@
       "type": "poetry"
     },
     {
-      "text": "in the day that the  God made the earth and the heavens.",
+      "text": "in the day that the Lord God made the earth and the heavens.",
       "verse": 4,
       "type": "poetry"
     },
     {
-      "text": "When no bush of the field was yet in the land and no small plant of the field had yet sprung up—for the  God had not caused it to rain on the land, and there was no man to work the ground,",
+      "text": "When no bush of the field was yet in the land and no small plant of the field had yet sprung up—for the Lord God had not caused it to rain on the land, and there was no man to work the ground,",
       "verse": 5,
       "type": "newline"
     },
@@ -49,15 +50,15 @@
       "verse": 6
     },
     {
-      "text": "then the  God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature.",
+      "text": "then the Lord God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature.",
       "verse": 7
     },
     {
-      "text": "And the  God planted a garden in Eden, in the east, and there he put the man whom he had formed.",
+      "text": "And the Lord God planted a garden in Eden, in the east, and there he put the man whom he had formed.",
       "verse": 8
     },
     {
-      "text": "And out of the ground the  God made to spring up every tree that is pleasant to the sight and good for food. The tree of life was in the midst of the garden, and the tree of the knowledge of good and evil.",
+      "text": "And out of the ground the Lord God made to spring up every tree that is pleasant to the sight and good for food. The tree of life was in the midst of the garden, and the tree of the knowledge of good and evil.",
       "verse": 9
     },
     {
@@ -82,12 +83,12 @@
       "verse": 14
     },
     {
-      "text": "The  God took the man and put him in the garden of Eden to work it and keep it.",
+      "text": "The Lord God took the man and put him in the garden of Eden to work it and keep it.",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "And the  God commanded the man, saying, “You may surely eat of every tree of the garden,",
+      "text": "And the Lord God commanded the man, saying, “You may surely eat of every tree of the garden,",
       "verse": 16
     },
     {
@@ -95,12 +96,12 @@
       "verse": 17
     },
     {
-      "text": "Then the  God said, “It is not good that the man should be alone; I will make him a helper fit for him.”",
+      "text": "Then the Lord God said, “It is not good that the man should be alone; I will make him a helper fit for him.”",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "Now out of the ground the  God had formed every beast of the field and every bird of the heavens and brought them to the man to see what he would call them. And whatever the man called every living creature, that was its name.",
+      "text": "Now out of the ground the Lord God had formed every beast of the field and every bird of the heavens and brought them to the man to see what he would call them. And whatever the man called every living creature, that was its name.",
       "verse": 19
     },
     {
@@ -108,11 +109,11 @@
       "verse": 20
     },
     {
-      "text": "So the  God caused a deep sleep to fall upon the man, and while he slept took one of his ribs and closed up its place with flesh.",
+      "text": "So the Lord God caused a deep sleep to fall upon the man, and while he slept took one of his ribs and closed up its place with flesh.",
       "verse": 21
     },
     {
-      "text": "And the rib that the  God had taken from the man he made into a woman and brought her to the man.",
+      "text": "And the rib that the Lord God had taken from the man he made into a woman and brought her to the man.",
       "verse": 22
     },
     {

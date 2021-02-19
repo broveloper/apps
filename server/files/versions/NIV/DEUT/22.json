@@ -2,6 +2,7 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 22,
+  "verses": 30,
   "content": [
     {
       "text": "If you see your fellow Israelite’s ox or sheep straying, do not ignore it but be sure to take it back to its owner.",
@@ -21,7 +22,7 @@
       "type": "newline"
     },
     {
-      "text": "A woman must not wear men’s clothing, nor a man wear women’s clothing, for the  your God detests anyone who does this.",
+      "text": "A woman must not wear men’s clothing, nor a man wear women’s clothing, for the Lord your God detests anyone who does this.",
       "verse": 5,
       "type": "newline"
     },

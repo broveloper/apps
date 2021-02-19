@@ -2,13 +2,14 @@
   "book_id": "ZEPH",
   "book_name": "Zephaniah",
   "chapter": 1,
+  "verses": 18,
   "content": [
     {
-      "text": "The word of the  that came to Zephaniah son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, during the reign of Josiah son of Amon king of Judah:",
+      "text": "The word of the Lord that came to Zephaniah son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, during the reign of Josiah son of Amon king of Judah:",
       "verse": 1
     },
     {
-      "text": "Judgment on the Whole Earth in the Day of the",
+      "text": "Judgment on the Whole Earth in the Day of the Lord",
       "type": "heading"
     },
     {
@@ -22,7 +23,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 2,
       "type": "poetry"
     },
@@ -57,7 +58,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 3,
       "type": "poetry"
     },
@@ -92,7 +93,7 @@
       "type": "poetry"
     },
     {
-      "text": "those who bow down and swear by the",
+      "text": "those who bow down and swear by the Lord",
       "verse": 5,
       "type": "poetry"
     },
@@ -102,27 +103,27 @@
       "type": "poetry"
     },
     {
-      "text": "those who turn back from following the",
+      "text": "those who turn back from following the Lord",
       "verse": 6,
       "type": "poetry"
     },
     {
-      "text": "and neither seek the  nor inquire of him.”",
+      "text": "and neither seek the Lord nor inquire of him.”",
       "verse": 6,
       "type": "poetry"
     },
     {
-      "text": "Be silent before the Sovereign ,",
+      "text": "Be silent before the Sovereign Lord,",
       "verse": 7,
       "type": "poetry newline"
     },
     {
-      "text": "for the day of the  is near.",
+      "text": "for the day of the Lord is near.",
       "verse": 7,
       "type": "poetry"
     },
     {
-      "text": "The  has prepared a sacrifice;",
+      "text": "The Lord has prepared a sacrifice;",
       "verse": 7,
       "type": "poetry"
     },
@@ -132,7 +133,7 @@
       "type": "poetry"
     },
     {
-      "text": "“On the day of the ’s sacrifice",
+      "text": "“On the day of the Lord’s sacrifice",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -182,7 +183,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 10,
       "type": "poetry"
     },
@@ -232,7 +233,7 @@
       "type": "poetry"
     },
     {
-      "text": "who think, ‘The  will do nothing,",
+      "text": "who think, ‘The Lord will do nothing,",
       "verse": 12,
       "type": "poetry"
     },
@@ -272,7 +273,7 @@
       "type": "poetry"
     },
     {
-      "text": "The great day of the  is near—",
+      "text": "The great day of the Lord is near—",
       "verse": 14,
       "type": "poetry newline"
     },
@@ -282,7 +283,7 @@
       "type": "poetry"
     },
     {
-      "text": "The cry on the day of the  is bitter;",
+      "text": "The cry on the day of the Lord is bitter;",
       "verse": 14,
       "type": "poetry"
     },
@@ -317,7 +318,7 @@
       "type": "poetry"
     },
     {
-      "text": "a day of trumpet and battle cry",
+      "text": "    a day of trumpet and battle cry",
       "verse": 16,
       "type": "poetry"
     },
@@ -342,7 +343,7 @@
       "type": "poetry"
     },
     {
-      "text": "because they have sinned against the .",
+      "text": "because they have sinned against the Lord.",
       "verse": 17,
       "type": "poetry"
     },
@@ -367,7 +368,7 @@
       "type": "poetry"
     },
     {
-      "text": "on the day of the ’s wrath.”",
+      "text": "on the day of the Lord’s wrath.”",
       "verse": 18,
       "type": "poetry"
     },

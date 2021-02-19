@@ -2,13 +2,14 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 22,
+  "verses": 51,
   "content": [
     {
       "text": "David’s Song of Praise",
       "type": "heading"
     },
     {
-      "text": "David sang to the  the words of this song when the  delivered him from the hand of all his enemies and from the hand of Saul.",
+      "text": "David sang to the Lord the words of this song when the Lord delivered him from the hand of all his enemies and from the hand of Saul.",
       "verse": 1,
       "type": "newline"
     },
@@ -17,12 +18,12 @@
       "verse": 2
     },
     {
-      "text": "“The  is my rock, my fortress and my deliverer;",
+      "text": "“The Lord is my rock, my fortress and my deliverer;",
       "verse": 2,
       "type": "poetry newline"
     },
     {
-      "text": "my God is my rock, in whom I take refuge,",
+      "text": "    my God is my rock, in whom I take refuge,",
       "verse": 3,
       "type": "poetry"
     },
@@ -42,7 +43,7 @@
       "type": "poetry"
     },
     {
-      "text": "“I called to the , who is worthy of praise,",
+      "text": "“I called to the Lord, who is worthy of praise,",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -72,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "“In my distress I called to the ;",
+      "text": "“In my distress I called to the Lord;",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -162,7 +163,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  thundered from heaven;",
+      "text": "The Lord thundered from heaven;",
       "verse": 14,
       "type": "poetry"
     },
@@ -192,7 +193,7 @@
       "type": "poetry"
     },
     {
-      "text": "at the rebuke of the ,",
+      "text": "at the rebuke of the Lord,",
       "verse": 16,
       "type": "poetry"
     },
@@ -227,7 +228,7 @@
       "type": "poetry"
     },
     {
-      "text": "but the  was my support.",
+      "text": "but the Lord was my support.",
       "verse": 19,
       "type": "poetry"
     },
@@ -242,7 +243,7 @@
       "type": "poetry"
     },
     {
-      "text": "“The  has dealt with me according to my righteousness;",
+      "text": "“The Lord has dealt with me according to my righteousness;",
       "verse": 21,
       "type": "poetry newline"
     },
@@ -252,7 +253,7 @@
       "type": "poetry"
     },
     {
-      "text": "For I have kept the ways of the ;",
+      "text": "For I have kept the ways of the Lord;",
       "verse": 22,
       "type": "poetry"
     },
@@ -282,7 +283,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has rewarded me according to my righteousness,",
+      "text": "The Lord has rewarded me according to my righteousness,",
       "verse": 25,
       "type": "poetry"
     },
@@ -322,12 +323,12 @@
       "type": "poetry"
     },
     {
-      "text": "You, , are my lamp;",
+      "text": "You, Lord, are my lamp;",
       "verse": 29,
       "type": "poetry"
     },
     {
-      "text": "the  turns my darkness into light.",
+      "text": "the Lord turns my darkness into light.",
       "verse": 29,
       "type": "poetry"
     },
@@ -347,7 +348,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "The ’s word is flawless;",
+      "text": "The Lord’s word is flawless;",
       "verse": 31,
       "type": "poetry"
     },
@@ -357,7 +358,7 @@
       "type": "poetry"
     },
     {
-      "text": "For who is God besides the ?",
+      "text": "For who is God besides the Lord?",
       "verse": 32,
       "type": "poetry"
     },
@@ -462,7 +463,7 @@
       "type": "poetry"
     },
     {
-      "text": "to the , but he did not answer.",
+      "text": "to the Lord, but he did not answer.",
       "verse": 42,
       "type": "poetry"
     },
@@ -492,7 +493,7 @@
       "type": "poetry"
     },
     {
-      "text": "foreigners cower before me;",
+      "text": "    foreigners cower before me;",
       "verse": 45,
       "type": "poetry"
     },
@@ -512,7 +513,7 @@
       "type": "poetry"
     },
     {
-      "text": "“The  lives! Praise be to my Rock!",
+      "text": "“The Lord lives! Praise be to my Rock!",
       "verse": 47,
       "type": "poetry newline"
     },
@@ -532,7 +533,7 @@
       "type": "poetry"
     },
     {
-      "text": "who sets me free from my enemies.",
+      "text": "    who sets me free from my enemies.",
       "verse": 49,
       "type": "poetry"
     },
@@ -547,7 +548,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore I will praise you, , among the nations;",
+      "text": "Therefore I will praise you, Lord, among the nations;",
       "verse": 50,
       "type": "poetry"
     },

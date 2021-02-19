@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 79,
+  "verses": 13,
   "content": [
     {
       "text": "O god, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.",
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "How long, ? wilt thou be angry for ever? shall thy jealousy burn like fire?",
+      "text": "How long, Lord? wilt thou be angry for ever? shall thy jealousy burn like fire?",
       "verse": 5,
       "type": "newline"
     },

@@ -2,9 +2,10 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 21,
+  "verses": 23,
   "content": [
     {
-      "text": "If one be found slain in the land which the  thy God giveth thee to possess it, lying in the field, and it be not known who hath slain him:",
+      "text": "If one be found slain in the land which the Lord thy God giveth thee to possess it, lying in the field, and it be not known who hath slain him:",
       "verse": 1
     },
     {
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "And the priests the sons of Levi shall come near; for them the  thy God hath chosen to minister unto him, and to bless in the name of the ; and by their word shall every controversy and every stroke be tried:",
+      "text": "And the priests the sons of Levi shall come near; for them the Lord thy God hath chosen to minister unto him, and to bless in the name of the Lord; and by their word shall every controversy and every stroke be tried:",
       "verse": 5,
       "type": "newline"
     },
@@ -38,17 +39,17 @@
       "type": "newline"
     },
     {
-      "text": "Be merciful, O , unto thy people Israel, whom thou hast redeemed, and lay not innocent blood unto thy people of Israel's charge. And the blood shall be forgiven them.",
+      "text": "Be merciful, O Lord, unto thy people Israel, whom thou hast redeemed, and lay not innocent blood unto thy people of Israel's charge. And the blood shall be forgiven them.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "So shalt thou put away the guilt of innocent blood from among you, when thou shalt do that which is right in the sight of the .",
+      "text": "So shalt thou put away the guilt of innocent blood from among you, when thou shalt do that which is right in the sight of the Lord.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "When thou goest forth to war against thine enemies, and the  thy God hath delivered them into thine hands, and thou hast taken them captive,",
+      "text": "When thou goest forth to war against thine enemies, and the Lord thy God hath delivered them into thine hands, and thou hast taken them captive,",
       "verse": 10,
       "type": "newline"
     },
@@ -113,7 +114,7 @@
       "type": "newline"
     },
     {
-      "text": "His body shall not remain all night upon the tree, but thou shalt in any wise bury him that day; (for he that is hanged is accursed of God;) that thy land be not defiled, which the  thy God giveth thee for an inheritance.",
+      "text": "His body shall not remain all night upon the tree, but thou shalt in any wise bury him that day; (for he that is hanged is accursed of God;) that thy land be not defiled, which the Lord thy God giveth thee for an inheritance.",
       "verse": 23,
       "type": "newline"
     }

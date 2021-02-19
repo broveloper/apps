@@ -2,6 +2,7 @@
   "book_id": "1CHR",
   "book_name": "1 Chronicles",
   "chapter": 10,
+  "verses": 14,
   "content": [
     {
       "text": "The Death of Saul and His Sons",
@@ -58,12 +59,12 @@
       "verse": 12
     },
     {
-      "text": "So Saul died for his breach of faith. He broke faith with the  in that he did not keep the command of the , and also consulted a medium, seeking guidance.",
+      "text": "So Saul died for his breach of faith. He broke faith with the Lord in that he did not keep the command of the Lord, and also consulted a medium, seeking guidance.",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "He did not seek guidance from the . Therefore the  put him to death and turned the kingdom over to David the son of Jesse.",
+      "text": "He did not seek guidance from the Lord. Therefore the Lord put him to death and turned the kingdom over to David the son of Jesse.",
       "verse": 14
     }
   ]

@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 34,
+  "verses": 22,
   "content": [
     {
-      "text": "Taste and See That the  Is Good",
+      "text": "Taste and See That the Lord Is Good",
       "type": "heading"
     },
     {
-      "text": "Of David, when he changed his behavior before Abimelech, so that he drove him out, and he went away.",
-      "verse": 1,
-      "type": "newline"
+      "text": " Of David, when he changed his behavior before Abimelech, so that he drove him out, and he went away.",
+      "type": "title"
     },
     {
-      "text": "I will bless the  at all times;",
+      "text": "I will bless the Lord at all times;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,7 +23,7 @@
       "type": "poetry"
     },
     {
-      "text": "My soul makes its boast in the ;",
+      "text": "My soul makes its boast in the Lord;",
       "verse": 2,
       "type": "poetry"
     },
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "Oh, magnify the  with me,",
+      "text": "Oh, magnify the Lord with me,",
       "verse": 3,
       "type": "poetry"
     },
@@ -43,7 +43,7 @@
       "type": "poetry"
     },
     {
-      "text": "I sought the , and he answered me",
+      "text": "I sought the Lord, and he answered me",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -63,7 +63,7 @@
       "type": "poetry"
     },
     {
-      "text": "This poor man cried, and the  heard him",
+      "text": "This poor man cried, and the Lord heard him",
       "verse": 6,
       "type": "poetry"
     },
@@ -73,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "The angel of the  encamps",
+      "text": "The angel of the Lord encamps",
       "verse": 7,
       "type": "poetry"
     },
@@ -83,7 +83,7 @@
       "type": "poetry"
     },
     {
-      "text": "Oh, taste and see that the  is good!",
+      "text": "Oh, taste and see that the Lord is good!",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -93,7 +93,7 @@
       "type": "poetry"
     },
     {
-      "text": "Oh, fear the , you his saints,",
+      "text": "Oh, fear the Lord, you his saints,",
       "verse": 9,
       "type": "poetry"
     },
@@ -108,7 +108,7 @@
       "type": "poetry"
     },
     {
-      "text": "but those who seek the  lack no good thing.",
+      "text": "but those who seek the Lord lack no good thing.",
       "verse": 10,
       "type": "poetry"
     },
@@ -118,7 +118,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "I will teach you the fear of the .",
+      "text": "I will teach you the fear of the Lord.",
       "verse": 11,
       "type": "poetry"
     },
@@ -153,7 +153,7 @@
       "type": "poetry"
     },
     {
-      "text": "The eyes of the  are toward the righteous",
+      "text": "The eyes of the Lord are toward the righteous",
       "verse": 15,
       "type": "poetry newline"
     },
@@ -163,7 +163,7 @@
       "type": "poetry"
     },
     {
-      "text": "The face of the  is against those who do evil,",
+      "text": "The face of the Lord is against those who do evil,",
       "verse": 16,
       "type": "poetry"
     },
@@ -173,7 +173,7 @@
       "type": "poetry"
     },
     {
-      "text": "When the righteous cry for help, the  hears",
+      "text": "When the righteous cry for help, the Lord hears",
       "verse": 17,
       "type": "poetry"
     },
@@ -183,7 +183,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is near to the brokenhearted",
+      "text": "The Lord is near to the brokenhearted",
       "verse": 18,
       "type": "poetry"
     },
@@ -198,7 +198,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "but the  delivers him out of them all.",
+      "text": "but the Lord delivers him out of them all.",
       "verse": 19,
       "type": "poetry"
     },
@@ -223,7 +223,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  redeems the life of his servants;",
+      "text": "The Lord redeems the life of his servants;",
       "verse": 22,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 28,
+  "verses": 28,
   "content": [
     {
       "text": "Surely there is a vein for the silver, and a place for gold where they fine it.",
@@ -138,7 +139,7 @@
       "type": "newline"
     },
     {
-      "text": "And unto man he said, Behold, the fear of the , that is wisdom; and to depart from evil is understanding.",
+      "text": "And unto man he said, Behold, the fear of the Lord, that is wisdom; and to depart from evil is understanding.",
       "verse": 28,
       "type": "newline"
     }

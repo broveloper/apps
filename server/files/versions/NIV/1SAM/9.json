@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 9,
+  "verses": 27,
   "content": [
     {
       "text": "Samuel Anoints Saul",
@@ -74,7 +75,7 @@
       "type": "newline"
     },
     {
-      "text": "Now the day before Saul came, the  had revealed this to Samuel:",
+      "text": "Now the day before Saul came, the Lord had revealed this to Samuel:",
       "verse": 15,
       "type": "newline"
     },
@@ -83,7 +84,7 @@
       "verse": 16
     },
     {
-      "text": "When Samuel caught sight of Saul, the  said to him, “This is the man I spoke to you about; he will govern my people.”",
+      "text": "When Samuel caught sight of Saul, the Lord said to him, “This is the man I spoke to you about; he will govern my people.”",
       "verse": 17,
       "type": "newline"
     },

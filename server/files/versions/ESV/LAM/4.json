@@ -2,6 +2,7 @@
   "book_id": "LAM",
   "book_name": "Lamentations",
   "chapter": 4,
+  "verses": 22,
   "content": [
     {
       "text": "The Holy Stones Lie Scattered",
@@ -208,7 +209,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  gave full vent to his wrath;",
+      "text": "The Lord gave full vent to his wrath;",
       "verse": 11,
       "type": "poetry newline"
     },
@@ -313,7 +314,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  himself has scattered them;",
+      "text": "The Lord himself has scattered them;",
       "verse": 16,
       "type": "poetry newline"
     },
@@ -393,7 +394,7 @@
       "type": "poetry"
     },
     {
-      "text": "The breath of our nostrils, the 's anointed,",
+      "text": "The breath of our nostrils, the Lord's anointed,",
       "verse": 20,
       "type": "poetry newline"
     },

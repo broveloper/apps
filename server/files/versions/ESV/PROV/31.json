@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 31,
+  "verses": 31,
   "content": [
     {
       "text": "The Words of King Lemuel",
@@ -98,11 +99,11 @@
       "type": "poetry"
     },
     {
-      "text": "The Woman Who Fears the",
+      "text": "The Woman Who Fears the Lord",
       "type": "heading"
     },
     {
-      "text": "An excellent wife who can find?",
+      "text": " An excellent wife who can find?",
       "verse": 10,
       "type": "poetry newline"
     },
@@ -312,7 +313,7 @@
       "type": "poetry"
     },
     {
-      "text": "but a woman who fears the  is to be praised.",
+      "text": "but a woman who fears the Lord is to be praised.",
       "verse": 30,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 10,
+  "verses": 15,
   "content": [
     {
       "text": "Israel is an empty vine, he bringeth forth fruit unto himself: according to the multitude of his fruit he hath increased the altars; according to the goodness of his land they have made goodly images.",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "For now they shall say, We have no king, because we feared not the ; what then should a king do to us?",
+      "text": "For now they shall say, We have no king, because we feared not the Lord; what then should a king do to us?",
       "verse": 3,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for it is time to seek the , till he come and rain righteousness upon you.",
+      "text": "Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for it is time to seek the Lord, till he come and rain righteousness upon you.",
       "verse": 12,
       "type": "newline"
     },

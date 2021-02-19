@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 49,
+  "verses": 33,
   "content": [
     {
       "text": "Jacob Blesses His Sons",
@@ -263,7 +264,7 @@
       "type": "poetry"
     },
     {
-      "text": "“I look for your deliverance, .",
+      "text": "“I look for your deliverance, Lord.",
       "verse": 18,
       "type": "poetry newline"
     },

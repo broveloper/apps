@@ -2,6 +2,7 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 23,
+  "verses": 30,
   "content": [
     {
       "text": "Balaam's First Oracle",
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "And Balaam said to Balak, “Stand beside your burnt offering, and I will go. Perhaps the  will come to meet me, and whatever he shows me I will tell you.” And he went to a bare height,",
+      "text": "And Balaam said to Balak, “Stand beside your burnt offering, and I will go. Perhaps the Lord will come to meet me, and whatever he shows me I will tell you.” And he went to a bare height,",
       "verse": 3
     },
     {
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "And the  put a word in Balaam's mouth and said, “Return to Balak, and thus you shall speak.”",
+      "text": "And the Lord put a word in Balaam's mouth and said, “Return to Balak, and thus you shall speak.”",
       "verse": 5
     },
     {
@@ -62,7 +63,7 @@
       "type": "poetry"
     },
     {
-      "text": "How can I denounce whom the  has not denounced?",
+      "text": "How can I denounce whom the Lord has not denounced?",
       "verse": 8,
       "type": "poetry"
     },
@@ -112,7 +113,7 @@
       "type": "newline"
     },
     {
-      "text": "And he answered and said, “Must I not take care to speak what the  puts in my mouth?”",
+      "text": "And he answered and said, “Must I not take care to speak what the Lord puts in my mouth?”",
       "verse": 12
     },
     {
@@ -129,15 +130,15 @@
       "verse": 14
     },
     {
-      "text": "Balaam said to Balak, “Stand here beside your burnt offering, while I meet the  over there.”",
+      "text": "Balaam said to Balak, “Stand here beside your burnt offering, while I meet the Lord over there.”",
       "verse": 15
     },
     {
-      "text": "And the  met Balaam and put a word in his mouth and said, “Return to Balak, and thus shall you speak.”",
+      "text": "And the Lord met Balaam and put a word in his mouth and said, “Return to Balak, and thus shall you speak.”",
       "verse": 16
     },
     {
-      "text": "And he came to him, and behold, he was standing beside his burnt offering, and the princes of Moab with him. And Balak said to him, “What has the  spoken?”",
+      "text": "And he came to him, and behold, he was standing beside his burnt offering, and the princes of Moab with him. And Balak said to him, “What has the Lord spoken?”",
       "verse": 17
     },
     {
@@ -195,7 +196,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  their God is with them,",
+      "text": "The Lord their God is with them,",
       "verse": 21,
       "type": "poetry"
     },
@@ -260,7 +261,7 @@
       "type": "newline"
     },
     {
-      "text": "But Balaam answered Balak, “Did I not tell you, ‘All that the  says, that I must do’?”",
+      "text": "But Balaam answered Balak, “Did I not tell you, ‘All that the Lord says, that I must do’?”",
       "verse": 26
     },
     {

@@ -2,6 +2,7 @@
   "book_id": "REV",
   "book_name": "Revelation",
   "chapter": 19,
+  "verses": 21,
   "content": [
     {
       "text": "Rejoicing in Heaven",
@@ -23,7 +24,7 @@
       "type": "poetry"
     },
     {
-      "text": "for his judgments are true and just;",
+      "text": "    for his judgments are true and just;",
       "verse": 2,
       "type": "poetry"
     },

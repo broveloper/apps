@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 88,
+  "verses": 18,
   "content": [
     {
       "text": "I Cry Out Day and Night Before You",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A Song. A Psalm of the Sons of Korah. To the choirmaster: according to Mahalath Leannoth. A Maskil of Heman the Ezrahite.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "O , God of my salvation,",
+      "text": "O Lord, God of my salvation,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -88,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "and you overwhelm me with all your waves.",
+      "text": "and you overwhelm me with all your waves. Selah",
       "verse": 7,
       "type": "poetry"
     },
@@ -108,12 +108,12 @@
       "type": "poetry"
     },
     {
-      "text": "my eye grows dim through sorrow.",
+      "text": "    my eye grows dim through sorrow.",
       "verse": 9,
       "type": "poetry"
     },
     {
-      "text": "Every day I call upon you, O ;",
+      "text": "Every day I call upon you, O Lord;",
       "verse": 9,
       "type": "poetry"
     },
@@ -128,7 +128,7 @@
       "type": "poetry"
     },
     {
-      "text": "Do the departed rise up to praise you?",
+      "text": "Do the departed rise up to praise you? Selah",
       "verse": 10,
       "type": "poetry"
     },
@@ -153,7 +153,7 @@
       "type": "poetry"
     },
     {
-      "text": "But I, O , cry to you;",
+      "text": "But I, O Lord, cry to you;",
       "verse": 13,
       "type": "poetry newline"
     },
@@ -163,7 +163,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , why do you cast my soul away?",
+      "text": "O Lord, why do you cast my soul away?",
       "verse": 14,
       "type": "poetry"
     },

@@ -2,18 +2,19 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 15,
+  "verses": 21,
   "content": [
     {
-      "text": "The  Will Not Relent",
+      "text": "The Lord Will Not Relent",
       "type": "heading"
     },
     {
-      "text": "Then the  said to me, “Though Moses and Samuel stood before me, yet my heart would not turn toward this people. Send them out of my sight, and let them go!",
+      "text": "Then the Lord said to me, “Though Moses and Samuel stood before me, yet my heart would not turn toward this people. Send them out of my sight, and let them go!",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "And when they ask you, ‘Where shall we go?’ you shall say to them, ‘Thus says the :",
+      "text": "And when they ask you, ‘Where shall we go?’ you shall say to them, ‘Thus says the Lord:",
       "verse": 2
     },
     {
@@ -37,7 +38,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will appoint over them four kinds of destroyers, declares the : the sword to kill, the dogs to tear, and the birds of the air and the beasts of the earth to devour and destroy.",
+      "text": "I will appoint over them four kinds of destroyers, declares the Lord: the sword to kill, the dogs to tear, and the birds of the air and the beasts of the earth to devour and destroy.",
       "verse": 3,
       "type": "newline"
     },
@@ -66,7 +67,7 @@
       "type": "poetry"
     },
     {
-      "text": "You have rejected me, declares the ;",
+      "text": "You have rejected me, declares the Lord;",
       "verse": 6,
       "type": "poetry"
     },
@@ -166,7 +167,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .”",
+      "text": "declares the Lord.”",
       "verse": 9,
       "type": "poetry"
     },
@@ -180,7 +181,7 @@
       "type": "newline"
     },
     {
-      "text": "The  said, “Have I not set you free for their good? Have I not pleaded for you before the enemy in the time of trouble and in the time of distress?",
+      "text": "The Lord said, “Have I not set you free for their good? Have I not pleaded for you before the enemy in the time of trouble and in the time of distress?",
       "verse": 11
     },
     {
@@ -197,7 +198,7 @@
       "verse": 14
     },
     {
-      "text": "O , you know;",
+      "text": "O Lord, you know;",
       "verse": 15,
       "type": "poetry newline"
     },
@@ -242,7 +243,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , God of hosts.",
+      "text": "O Lord, God of hosts.",
       "verse": 16,
       "type": "poetry"
     },
@@ -292,7 +293,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore thus says the :",
+      "text": "Therefore thus says the Lord:",
       "verse": 19,
       "type": "poetry newline"
     },
@@ -357,7 +358,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 20,
       "type": "poetry"
     },

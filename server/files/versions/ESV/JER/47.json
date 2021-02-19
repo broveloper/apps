@@ -2,18 +2,19 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 47,
+  "verses": 7,
   "content": [
     {
       "text": "Judgment on the Philistines",
       "type": "heading"
     },
     {
-      "text": "The word of the  that came to Jeremiah the prophet concerning the Philistines, before Pharaoh struck down Gaza.",
+      "text": "The word of the Lord that came to Jeremiah the prophet concerning the Philistines, before Pharaoh struck down Gaza.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Thus says the :",
+      "text": "“Thus says the Lord:",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -88,7 +89,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the  is destroying the Philistines,",
+      "text": "For the Lord is destroying the Philistines,",
       "verse": 4,
       "type": "poetry"
     },
@@ -118,7 +119,7 @@
       "type": "poetry"
     },
     {
-      "text": "Ah, sword of the !",
+      "text": "Ah, sword of the Lord!",
       "verse": 6,
       "type": "poetry"
     },
@@ -143,7 +144,7 @@
       "type": "poetry"
     },
     {
-      "text": "when the  has given it a charge?",
+      "text": "when the Lord has given it a charge?",
       "verse": 7,
       "type": "poetry"
     },

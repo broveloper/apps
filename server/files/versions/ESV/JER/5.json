@@ -2,6 +2,7 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 5,
+  "verses": 31,
   "content": [
     {
       "text": "Jerusalem Refused to Repent",
@@ -43,7 +44,7 @@
       "type": "poetry"
     },
     {
-      "text": "Though they say, “As the  lives,”",
+      "text": "Though they say, “As the Lord lives,”",
       "verse": 2,
       "type": "poetry"
     },
@@ -53,7 +54,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , do not your eyes look for truth?",
+      "text": "O Lord, do not your eyes look for truth?",
       "verse": 3,
       "type": "poetry"
     },
@@ -98,7 +99,7 @@
       "type": "poetry"
     },
     {
-      "text": "for they do not know the way of the ,",
+      "text": "for they do not know the way of the Lord,",
       "verse": 4,
       "type": "poetry"
     },
@@ -118,7 +119,7 @@
       "type": "poetry"
     },
     {
-      "text": "for they know the way of the ,",
+      "text": "for they know the way of the Lord,",
       "verse": 5,
       "type": "poetry"
     },
@@ -213,7 +214,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the ;",
+      "text": "declares the Lord;",
       "verse": 9,
       "type": "poetry"
     },
@@ -243,7 +244,7 @@
       "type": "poetry"
     },
     {
-      "text": "for they are not the 's.",
+      "text": "for they are not the Lord's.",
       "verse": 10,
       "type": "poetry"
     },
@@ -258,12 +259,12 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 11,
       "type": "poetry"
     },
     {
-      "text": "They have spoken falsely of the",
+      "text": "They have spoken falsely of the Lord",
       "verse": 12,
       "type": "poetry"
     },
@@ -298,11 +299,11 @@
       "type": "poetry"
     },
     {
-      "text": "The  Proclaims Judgment",
+      "text": "The Lord Proclaims Judgment",
       "type": "heading"
     },
     {
-      "text": "Therefore thus says the , the God of hosts:",
+      "text": "Therefore thus says the Lord, the God of hosts:",
       "verse": 14,
       "type": "poetry newline"
     },
@@ -332,7 +333,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 15,
       "type": "poetry"
     },
@@ -397,12 +398,12 @@
       "type": "poetry"
     },
     {
-      "text": "“But even in those days, declares the , I will not make a full end of you.",
+      "text": "“But even in those days, declares the Lord, I will not make a full end of you.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "And when your people say, ‘Why has the  our God done all these things to us?’ you shall say to them, ‘As you have forsaken me and served foreign gods in your land, so you shall serve foreigners in a land that is not yours.’”",
+      "text": "And when your people say, ‘Why has the Lord our God done all these things to us?’ you shall say to them, ‘As you have forsaken me and served foreign gods in your land, so you shall serve foreigners in a land that is not yours.’”",
       "verse": 19
     },
     {
@@ -431,7 +432,7 @@
       "type": "poetry"
     },
     {
-      "text": "Do you not fear me? declares the .",
+      "text": "Do you not fear me? declares the Lord.",
       "verse": 22,
       "type": "poetry"
     },
@@ -476,7 +477,7 @@
       "type": "poetry"
     },
     {
-      "text": "‘Let us fear the  our God,",
+      "text": "‘Let us fear the Lord our God,",
       "verse": 24,
       "type": "poetry"
     },
@@ -546,7 +547,7 @@
       "type": "poetry"
     },
     {
-      "text": "they have grown fat and sleek.",
+      "text": "    they have grown fat and sleek.",
       "verse": 28,
       "type": "poetry"
     },
@@ -576,7 +577,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 29,
       "type": "poetry"
     },

@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 40,
+  "verses": 17,
   "content": [
     {
-      "text": "I waited patiently for the ; and he inclined unto me, and heard my cry.",
+      "text": "I waited patiently for the Lord; and he inclined unto me, and heard my cry.",
       "verse": 1
     },
     {
@@ -13,17 +14,17 @@
       "type": "newline"
     },
     {
-      "text": "And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the .",
+      "text": "And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the Lord.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "Blessed is that man that maketh the  his trust, and respecteth not the proud, nor such as turn aside to lies.",
+      "text": "Blessed is that man that maketh the Lord his trust, and respecteth not the proud, nor such as turn aside to lies.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "Many, O  my God, are thy wonderful works which thou hast done, and thy thoughts which are to us-ward: they cannot be reckoned up in order unto thee: if I would declare and speak of them, they are more than can be numbered.",
+      "text": "Many, O Lord my God, are thy wonderful works which thou hast done, and thy thoughts which are to us-ward: they cannot be reckoned up in order unto thee: if I would declare and speak of them, they are more than can be numbered.",
       "verse": 5,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "I have preached righteousness in the great congregation: lo, I have not refrained my lips, O , thou knowest.",
+      "text": "I have preached righteousness in the great congregation: lo, I have not refrained my lips, O Lord, thou knowest.",
       "verse": 9,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "Withhold not thou thy tender mercies from me, O : let thy lovingkindness and thy truth continually preserve me.",
+      "text": "Withhold not thou thy tender mercies from me, O Lord: let thy lovingkindness and thy truth continually preserve me.",
       "verse": 11,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "Be pleased, O , to deliver me: O , make haste to help me.",
+      "text": "Be pleased, O Lord, to deliver me: O Lord, make haste to help me.",
       "verse": 13,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The  be magnified.",
+      "text": "Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The Lord be magnified.",
       "verse": 16,
       "type": "newline"
     },

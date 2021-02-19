@@ -2,6 +2,7 @@
   "book_id": "DAN",
   "book_name": "Daniel",
   "chapter": 5,
+  "verses": 31,
   "content": [
     {
       "text": "The Handwriting on the Wall",
@@ -115,19 +116,19 @@
       "type": "newline"
     },
     {
-      "text": "And this is the writing that was inscribed: , , , and .",
+      "text": "And this is the writing that was inscribed: Mene, Mene, Tekel, and Parsin.",
       "verse": 25
     },
     {
-      "text": "This is the interpretation of the matter: , God has numbered the days of your kingdom and brought it to an end;",
+      "text": "This is the interpretation of the matter: Mene, God has numbered the days of your kingdom and brought it to an end;",
       "verse": 26
     },
     {
-      "text": ", you have been weighed in the balances and found wanting;",
+      "text": "Tekel, you have been weighed in the balances and found wanting;",
       "verse": 27
     },
     {
-      "text": ", your kingdom is divided and given to the Medes and Persians.”",
+      "text": "Peres, your kingdom is divided and given to the Medes and Persians.”",
       "verse": 28
     },
     {
@@ -141,7 +142,7 @@
       "type": "newline"
     },
     {
-      "text": "And Darius the Mede received the kingdom, being about sixty-two years old.",
+      "text": " And Darius the Mede received the kingdom, being about sixty-two years old.",
       "verse": 31
     }
   ]

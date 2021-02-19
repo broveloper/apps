@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 93,
+  "verses": 5,
   "content": [
     {
-      "text": "The  reigneth, he is clothed with majesty; the  is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved.",
+      "text": "The Lord reigneth, he is clothed with majesty; the Lord is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved.",
       "verse": 1
     },
     {
@@ -13,17 +14,17 @@
       "type": "newline"
     },
     {
-      "text": "The floods have lifted up, O , the floods have lifted up their voice; the floods lift up their waves.",
+      "text": "The floods have lifted up, O Lord, the floods have lifted up their voice; the floods lift up their waves.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "The  on high is mightier than the noise of many waters, yea, than the mighty waves of the sea.",
+      "text": "The Lord on high is mightier than the noise of many waters, yea, than the mighty waves of the sea.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "Thy testimonies are very sure: holiness becometh thine house, O , for ever.",
+      "text": "Thy testimonies are very sure: holiness becometh thine house, O Lord, for ever.",
       "verse": 5,
       "type": "newline"
     }

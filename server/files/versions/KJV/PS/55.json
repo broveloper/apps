@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 55,
+  "verses": 23,
   "content": [
     {
       "text": "Give ear to my prayer, O God; and hide not thyself from my supplication.",
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "As for me, I will call upon God; and the  shall save me.",
+      "text": "As for me, I will call upon God; and the Lord shall save me.",
       "verse": 16,
       "type": "newline"
     },
@@ -108,7 +109,7 @@
       "type": "newline"
     },
     {
-      "text": "Cast thy burden upon the , and he shall sustain thee: he shall never suffer the righteous to be moved.",
+      "text": "Cast thy burden upon the Lord, and he shall sustain thee: he shall never suffer the righteous to be moved.",
       "verse": 22,
       "type": "newline"
     },

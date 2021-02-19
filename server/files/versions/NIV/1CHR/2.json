@@ -2,6 +2,7 @@
   "book_id": "1CHR",
   "book_name": "1 Chronicles",
   "chapter": 2,
+  "verses": 55,
   "content": [
     {
       "text": "Israel’s Sons",
@@ -27,8 +28,7 @@
     },
     {
       "text": "To Hezron’s Sons",
-      "verse": 3,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "The sons of Judah:",
@@ -36,7 +36,7 @@
       "type": "newline"
     },
     {
-      "text": "Er, Onan and Shelah. These three were born to him by a Canaanite woman, the daughter of Shua. Er, Judah’s firstborn, was wicked in the ’s sight; so the  put him to death.",
+      "text": "Er, Onan and Shelah. These three were born to him by a Canaanite woman, the daughter of Shua. Er, Judah’s firstborn, was wicked in the Lord’s sight; so the Lord put him to death.",
       "verse": 3
     },
     {
@@ -86,8 +86,7 @@
     },
     {
       "text": "From Ram Son of Hezron",
-      "verse": 10,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Ram was the father of",
@@ -132,8 +131,7 @@
     },
     {
       "text": "Caleb Son of Hezron",
-      "verse": 18,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Caleb son of Hezron had children by his wife Azubah (and by Jerioth). These were her sons: Jesher, Shobab and Ardon.",
@@ -167,8 +165,7 @@
     },
     {
       "text": "Jerahmeel Son of Hezron",
-      "verse": 25,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "The sons of Jerahmeel the firstborn of Hezron:",
@@ -313,8 +310,7 @@
     },
     {
       "text": "The Clans of Caleb",
-      "verse": 42,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "The sons of Caleb the brother of Jerahmeel:",

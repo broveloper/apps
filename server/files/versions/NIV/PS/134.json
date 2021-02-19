@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 134,
+  "verses": 3,
   "content": [
     {
       "text": "Psalm 134",
@@ -9,16 +10,15 @@
     },
     {
       "text": "A song of ascents.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Praise the , all you servants of the",
+      "text": "Praise the Lord, all you servants of the Lord",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "who minister by night in the house of the .",
+      "text": "who minister by night in the house of the Lord.",
       "verse": 1,
       "type": "poetry"
     },
@@ -28,12 +28,12 @@
       "type": "poetry"
     },
     {
-      "text": "and praise the .",
+      "text": "and praise the Lord.",
       "verse": 2,
       "type": "poetry"
     },
     {
-      "text": "May the  bless you from Zion,",
+      "text": "May the Lord bless you from Zion,",
       "verse": 3,
       "type": "poetry newline"
     },

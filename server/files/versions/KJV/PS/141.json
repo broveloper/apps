@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 141,
+  "verses": 10,
   "content": [
     {
       "text": "Lord, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "Set a watch, O , before my mouth; keep the door of my lips.",
+      "text": "Set a watch, O Lord, before my mouth; keep the door of my lips.",
       "verse": 3,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "But mine eyes are unto thee, O  the Lord: in thee is my trust; leave not my soul destitute.",
+      "text": "But mine eyes are unto thee, O God the Lord: in thee is my trust; leave not my soul destitute.",
       "verse": 8,
       "type": "newline"
     },

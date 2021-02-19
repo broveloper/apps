@@ -2,23 +2,23 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 23,
+  "verses": 6,
   "content": [
     {
-      "text": "The  Is My Shepherd",
+      "text": "The Lord Is My Shepherd",
       "type": "heading"
     },
     {
       "text": "A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "The  is my shepherd; I shall not want.",
+      "text": "The Lord is my shepherd; I shall not want.",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "He makes me lie down in green pastures.",
+      "text": "    He makes me lie down in green pastures.",
       "verse": 2,
       "type": "poetry"
     },
@@ -28,7 +28,7 @@
       "type": "poetry"
     },
     {
-      "text": "He restores my soul.",
+      "text": "    He restores my soul.",
       "verse": 3,
       "type": "poetry"
     },
@@ -98,7 +98,7 @@
       "type": "poetry"
     },
     {
-      "text": "and I shall dwell in the house of the",
+      "text": "and I shall dwell in the house of the Lord",
       "verse": 6,
       "type": "poetry"
     },

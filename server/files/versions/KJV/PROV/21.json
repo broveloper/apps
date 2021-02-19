@@ -2,18 +2,19 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 21,
+  "verses": 31,
   "content": [
     {
-      "text": "The king's heart is in the hand of the , as the rivers of water: he turneth it whithersoever he will.",
+      "text": "The king's heart is in the hand of the Lord, as the rivers of water: he turneth it whithersoever he will.",
       "verse": 1
     },
     {
-      "text": "Every way of a man is right in his own eyes: but the  pondereth the hearts.",
+      "text": "Every way of a man is right in his own eyes: but the Lord pondereth the hearts.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "To do justice and judgment is more acceptable to the  than sacrifice.",
+      "text": "To do justice and judgment is more acceptable to the Lord than sacrifice.",
       "verse": 3,
       "type": "newline"
     },
@@ -148,12 +149,12 @@
       "type": "newline"
     },
     {
-      "text": "There is no wisdom nor understanding nor counsel against the .",
+      "text": "There is no wisdom nor understanding nor counsel against the Lord.",
       "verse": 30,
       "type": "newline"
     },
     {
-      "text": "The horse is prepared against the day of battle: but safety is of the .",
+      "text": "The horse is prepared against the day of battle: but safety is of the Lord.",
       "verse": 31,
       "type": "newline"
     }

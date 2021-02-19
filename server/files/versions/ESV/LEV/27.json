@@ -2,18 +2,19 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 27,
+  "verses": 34,
   "content": [
     {
       "text": "Laws About Vows",
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses, saying,",
+      "text": "The Lord spoke to Moses, saying,",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Speak to the people of Israel and say to them, If anyone makes a special vow to the  involving the valuation of persons,",
+      "text": "“Speak to the people of Israel and say to them, If anyone makes a special vow to the Lord involving the valuation of persons,",
       "verse": 2
     },
     {
@@ -41,7 +42,7 @@
       "verse": 8
     },
     {
-      "text": "“If the vow is an animal that may be offered as an offering to the , all of it that he gives to the  is holy.",
+      "text": "“If the vow is an animal that may be offered as an offering to the Lord, all of it that he gives to the Lord is holy.",
       "verse": 9,
       "type": "newline"
     },
@@ -50,7 +51,7 @@
       "verse": 10
     },
     {
-      "text": "And if it is any unclean animal that may not be offered as an offering to the , then he shall stand the animal before the priest,",
+      "text": "And if it is any unclean animal that may not be offered as an offering to the Lord, then he shall stand the animal before the priest,",
       "verse": 11
     },
     {
@@ -62,7 +63,7 @@
       "verse": 13
     },
     {
-      "text": "“When a man dedicates his house as a holy gift to the , the priest shall value it as either good or bad; as the priest values it, so it shall stand.",
+      "text": "“When a man dedicates his house as a holy gift to the Lord, the priest shall value it as either good or bad; as the priest values it, so it shall stand.",
       "verse": 14,
       "type": "newline"
     },
@@ -71,7 +72,7 @@
       "verse": 15
     },
     {
-      "text": "“If a man dedicates to the  part of the land that is his possession, then the valuation shall be in proportion to its seed. A homer of barley seed shall be valued at fifty shekels of silver.",
+      "text": "“If a man dedicates to the Lord part of the land that is his possession, then the valuation shall be in proportion to its seed. A homer of barley seed shall be valued at fifty shekels of silver.",
       "verse": 16,
       "type": "newline"
     },
@@ -92,15 +93,15 @@
       "verse": 20
     },
     {
-      "text": "But the field, when it is released in the jubilee, shall be a holy gift to the , like a field that has been devoted. The priest shall be in possession of it.",
+      "text": "But the field, when it is released in the jubilee, shall be a holy gift to the Lord, like a field that has been devoted. The priest shall be in possession of it.",
       "verse": 21
     },
     {
-      "text": "If he dedicates to the  a field that he has bought, which is not a part of his possession,",
+      "text": "If he dedicates to the Lord a field that he has bought, which is not a part of his possession,",
       "verse": 22
     },
     {
-      "text": "then the priest shall calculate the amount of the valuation for it up to the year of jubilee, and the man shall give the valuation on that day as a holy gift to the .",
+      "text": "then the priest shall calculate the amount of the valuation for it up to the year of jubilee, and the man shall give the valuation on that day as a holy gift to the Lord.",
       "verse": 23
     },
     {
@@ -112,7 +113,7 @@
       "verse": 25
     },
     {
-      "text": "“But a firstborn of animals, which as a firstborn belongs to the , no man may dedicate; whether ox or sheep, it is the 's.",
+      "text": "“But a firstborn of animals, which as a firstborn belongs to the Lord, no man may dedicate; whether ox or sheep, it is the Lord's.",
       "verse": 26,
       "type": "newline"
     },
@@ -121,7 +122,7 @@
       "verse": 27
     },
     {
-      "text": "“But no devoted thing that a man devotes to the , of anything that he has, whether man or beast, or of his inherited field, shall be sold or redeemed; every devoted thing is most holy to the .",
+      "text": "“But no devoted thing that a man devotes to the Lord, of anything that he has, whether man or beast, or of his inherited field, shall be sold or redeemed; every devoted thing is most holy to the Lord.",
       "verse": 28,
       "type": "newline"
     },
@@ -130,7 +131,7 @@
       "verse": 29
     },
     {
-      "text": "“Every tithe of the land, whether of the seed of the land or of the fruit of the trees, is the 's; it is holy to the .",
+      "text": "“Every tithe of the land, whether of the seed of the land or of the fruit of the trees, is the Lord's; it is holy to the Lord.",
       "verse": 30,
       "type": "newline"
     },
@@ -139,7 +140,7 @@
       "verse": 31
     },
     {
-      "text": "And every tithe of herds and flocks, every tenth animal of all that pass under the herdsman's staff, shall be holy to the .",
+      "text": "And every tithe of herds and flocks, every tenth animal of all that pass under the herdsman's staff, shall be holy to the Lord.",
       "verse": 32
     },
     {
@@ -147,7 +148,7 @@
       "verse": 33
     },
     {
-      "text": "These are the commandments that the  commanded Moses for the people of Israel on Mount Sinai.",
+      "text": "These are the commandments that the Lord commanded Moses for the people of Israel on Mount Sinai.",
       "verse": 34,
       "type": "newline"
     }

@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 31,
+  "verses": 55,
   "content": [
     {
       "text": "Jacob Flees From Laban",
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "Then the  said to Jacob, “Go back to the land of your fathers and to your relatives, and I will be with you.”",
+      "text": "Then the Lord said to Jacob, “Go back to the land of your fathers and to your relatives, and I will be with you.”",
       "verse": 3,
       "type": "newline"
     },
@@ -221,7 +222,7 @@
       "type": "newline"
     },
     {
-      "text": "It was also called Mizpah, because he said, “May the  keep watch between you and me when we are away from each other.",
+      "text": "It was also called Mizpah, because he said, “May the Lord keep watch between you and me when we are away from each other.",
       "verse": 49
     },
     {

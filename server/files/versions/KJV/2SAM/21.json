@@ -2,9 +2,10 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 21,
+  "verses": 22,
   "content": [
     {
-      "text": "Then there was a famine in the days of David three years, year after year; and David enquired of the . And the  answered, It is for Saul, and for his bloody house, because he slew the Gibeonites.",
+      "text": "Then there was a famine in the days of David three years, year after year; and David enquired of the Lord. And the Lord answered, It is for Saul, and for his bloody house, because he slew the Gibeonites.",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "Wherefore David said unto the Gibeonites, What shall I do for you? and wherewith shall I make the atonement, that ye may bless the inheritance of the ?",
+      "text": "Wherefore David said unto the Gibeonites, What shall I do for you? and wherewith shall I make the atonement, that ye may bless the inheritance of the Lord?",
       "verse": 3,
       "type": "newline"
     },
@@ -28,12 +29,12 @@
       "type": "newline"
     },
     {
-      "text": "Let seven men of his sons be delivered unto us, and we will hang them up unto the  in Gibeah of Saul, whom the  did choose. And the king said, I will give them.",
+      "text": "Let seven men of his sons be delivered unto us, and we will hang them up unto the Lord in Gibeah of Saul, whom the Lord did choose. And the king said, I will give them.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "But the king spared Mephibosheth, the son of Jonathan the son of Saul, because of the 's oath that was between them, between David and Jonathan the son of Saul.",
+      "text": "But the king spared Mephibosheth, the son of Jonathan the son of Saul, because of the Lord's oath that was between them, between David and Jonathan the son of Saul.",
       "verse": 7,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "And he delivered them into the hands of the Gibeonites, and they hanged them in the hill before the : and they fell all seven together, and were put to death in the days of harvest, in the first days, in the beginning of barley harvest.",
+      "text": "And he delivered them into the hands of the Gibeonites, and they hanged them in the hill before the Lord: and they fell all seven together, and were put to death in the days of harvest, in the first days, in the beginning of barley harvest.",
       "verse": 9,
       "type": "newline"
     },

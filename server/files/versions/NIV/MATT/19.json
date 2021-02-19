@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 19,
+  "verses": 30,
   "content": [
     {
       "text": "Divorce",
@@ -22,16 +23,16 @@
       "type": "newline"
     },
     {
-      "text": "he replied,",
+      "text": "“Haven’t you read,” he replied, “that at the beginning the Creator ‘made them male and female,’",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "and said, ‘For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh’?",
       "verse": 5
     },
     {
-      "text": "",
+      "text": "So they are no longer two, but one flesh. Therefore what God has joined together, let no one separate.”",
       "verse": 6
     },
     {
@@ -40,12 +41,12 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “Moses permitted you to divorce your wives because your hearts were hard. But it was not this way from the beginning.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "I tell you that anyone who divorces his wife, except for sexual immorality, and marries another woman commits adultery.”",
       "verse": 9
     },
     {
@@ -54,12 +55,12 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “Not everyone can accept this word, but only those to whom it has been given.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "For there are eunuchs who were born that way, and there are eunuchs who have been made eunuchs by others—and there are those who choose to live like eunuchs for the sake of the kingdom of heaven. The one who can accept this should accept it.”",
       "verse": 12
     },
     {
@@ -72,7 +73,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said,",
+      "text": "Jesus said, “Let the little children come to me, and do not hinder them, for the kingdom of heaven belongs to such as these.”",
       "verse": 14,
       "type": "newline"
     },
@@ -90,7 +91,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied.",
+      "text": "“Why do you ask me about what is good?” Jesus replied. “There is only One who is good. If you want to enter life, keep the commandments.”",
       "verse": 17,
       "type": "newline"
     },
@@ -100,12 +101,12 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “‘You shall not murder, you shall not commit adultery, you shall not steal, you shall not give false testimony,",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "honor your father and mother,’ and ‘love your neighbor as yourself.’”",
       "verse": 19
     },
     {
@@ -114,7 +115,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven. Then come, follow me.”",
       "verse": 21,
       "type": "newline"
     },
@@ -124,12 +125,12 @@
       "type": "newline"
     },
     {
-      "text": "Then Jesus said to his disciples,",
+      "text": "Then Jesus said to his disciples, “Truly I tell you, it is hard for someone who is rich to enter the kingdom of heaven.",
       "verse": 23,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Again I tell you, it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God.”",
       "verse": 24
     },
     {
@@ -138,7 +139,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus looked at them and said,",
+      "text": "Jesus looked at them and said, “With man this is impossible, but with God all things are possible.”",
       "verse": 26,
       "type": "newline"
     },
@@ -148,16 +149,16 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said to them,",
+      "text": "Jesus said to them, “Truly I tell you, at the renewal of all things, when the Son of Man sits on his glorious throne, you who have followed me will also sit on twelve thrones, judging the twelve tribes of Israel.",
       "verse": 28,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "And everyone who has left houses or brothers or sisters or father or mother or wife or children or fields for my sake will receive a hundred times as much and will inherit eternal life.",
       "verse": 29
     },
     {
-      "text": "",
+      "text": "But many who are first will be last, and many who are last will be first.",
       "verse": 30
     }
   ]

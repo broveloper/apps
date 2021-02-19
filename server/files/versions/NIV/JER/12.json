@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 12,
+  "verses": 17,
   "content": [
     {
       "text": "Jeremiah’s Complaint",
       "type": "heading"
     },
     {
-      "text": "You are always righteous, ,",
+      "text": "You are always righteous, Lord,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -53,7 +54,7 @@
       "type": "poetry"
     },
     {
-      "text": "Yet you know me, ;",
+      "text": "Yet you know me, Lord;",
       "verse": 3,
       "type": "poetry"
     },
@@ -272,7 +273,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the sword of the  will devour",
+      "text": "for the sword of the Lord will devour",
       "verse": 12,
       "type": "poetry"
     },
@@ -302,12 +303,12 @@
       "type": "poetry"
     },
     {
-      "text": "because of the ’s fierce anger.”",
+      "text": "because of the Lord’s fierce anger.”",
       "verse": 13,
       "type": "poetry"
     },
     {
-      "text": "This is what the  says: “As for all my wicked neighbors who seize the inheritance I gave my people Israel, I will uproot them from their lands and I will uproot the people of Judah from among them.",
+      "text": "This is what the Lord says: “As for all my wicked neighbors who seize the inheritance I gave my people Israel, I will uproot them from their lands and I will uproot the people of Judah from among them.",
       "verse": 14,
       "type": "newline"
     },
@@ -316,11 +317,11 @@
       "verse": 15
     },
     {
-      "text": "And if they learn well the ways of my people and swear by my name, saying, ‘As surely as the  lives’—even as they once taught my people to swear by Baal—then they will be established among my people.",
+      "text": "And if they learn well the ways of my people and swear by my name, saying, ‘As surely as the Lord lives’—even as they once taught my people to swear by Baal—then they will be established among my people.",
       "verse": 16
     },
     {
-      "text": "But if any nation does not listen, I will completely uproot and destroy it,” declares the .",
+      "text": "But if any nation does not listen, I will completely uproot and destroy it,” declares the Lord.",
       "verse": 17
     }
   ]

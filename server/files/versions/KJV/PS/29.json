@@ -2,28 +2,29 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 29,
+  "verses": 11,
   "content": [
     {
-      "text": "Give unto the , O ye mighty, give unto the  glory and strength.",
+      "text": "Give unto the Lord, O ye mighty, give unto the Lord glory and strength.",
       "verse": 1
     },
     {
-      "text": "Give unto the  the glory due unto his name; worship the  in the beauty of holiness.",
+      "text": "Give unto the Lord the glory due unto his name; worship the Lord in the beauty of holiness.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "The voice of the  is upon the waters: the God of glory thundereth: the  is upon many waters.",
+      "text": "The voice of the Lord is upon the waters: the God of glory thundereth: the Lord is upon many waters.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "The voice of the  is powerful; the voice of the  is full of majesty.",
+      "text": "The voice of the Lord is powerful; the voice of the Lord is full of majesty.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "The voice of the  breaketh the cedars; yea, the  breaketh the cedars of Lebanon.",
+      "text": "The voice of the Lord breaketh the cedars; yea, the Lord breaketh the cedars of Lebanon.",
       "verse": 5,
       "type": "newline"
     },
@@ -33,27 +34,27 @@
       "type": "newline"
     },
     {
-      "text": "The voice of the  divideth the flames of fire.",
+      "text": "The voice of the Lord divideth the flames of fire.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "The voice of the  shaketh the wilderness; the  shaketh the wilderness of Kadesh.",
+      "text": "The voice of the Lord shaketh the wilderness; the Lord shaketh the wilderness of Kadesh.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "The voice of the  maketh the hinds to calve, and discovereth the forests: and in his temple doth every one speak of his glory.",
+      "text": "The voice of the Lord maketh the hinds to calve, and discovereth the forests: and in his temple doth every one speak of his glory.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "The  sitteth upon the flood; yea, the  sitteth King for ever.",
+      "text": "The Lord sitteth upon the flood; yea, the Lord sitteth King for ever.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "The  will give strength unto his people; the  will bless his people with peace.",
+      "text": "The Lord will give strength unto his people; the Lord will bless his people with peace.",
       "verse": 11,
       "type": "newline"
     }

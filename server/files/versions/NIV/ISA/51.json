@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 51,
+  "verses": 23,
   "content": [
     {
       "text": "Everlasting Salvation for Zion",
@@ -13,7 +14,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "and who seek the :",
+      "text": "and who seek the Lord:",
       "verse": 1,
       "type": "poetry"
     },
@@ -48,7 +49,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  will surely comfort Zion",
+      "text": "The Lord will surely comfort Zion",
       "verse": 3,
       "type": "poetry"
     },
@@ -63,7 +64,7 @@
       "type": "poetry"
     },
     {
-      "text": "her wastelands like the garden of the .",
+      "text": "her wastelands like the garden of the Lord.",
       "verse": 3,
       "type": "poetry"
     },
@@ -198,7 +199,7 @@
       "type": "poetry"
     },
     {
-      "text": "Awake, awake, arm of the ,",
+      "text": "Awake, awake, arm of the Lord,",
       "verse": 9,
       "type": "poetry newline"
     },
@@ -248,7 +249,7 @@
       "type": "poetry"
     },
     {
-      "text": "Those the  has rescued will return.",
+      "text": "Those the Lord has rescued will return.",
       "verse": 11,
       "type": "poetry"
     },
@@ -288,7 +289,7 @@
       "type": "poetry"
     },
     {
-      "text": "that you forget the  your Maker,",
+      "text": "that you forget the Lord your Maker,",
       "verse": 13,
       "type": "poetry"
     },
@@ -323,7 +324,7 @@
       "type": "poetry"
     },
     {
-      "text": "The cowering prisoners will soon be set free;",
+      "text": "    The cowering prisoners will soon be set free;",
       "verse": 14,
       "type": "poetry"
     },
@@ -338,7 +339,7 @@
       "type": "poetry"
     },
     {
-      "text": "For I am the  your God,",
+      "text": "For I am the Lord your God,",
       "verse": 15,
       "type": "poetry"
     },
@@ -348,7 +349,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  Almighty is his name.",
+      "text": "the Lord Almighty is his name.",
       "verse": 15,
       "type": "poetry"
     },
@@ -378,7 +379,7 @@
       "type": "poetry"
     },
     {
-      "text": "The Cup of the ’s Wrath",
+      "text": "The Cup of the Lord’s Wrath",
       "type": "heading"
     },
     {
@@ -392,7 +393,7 @@
       "type": "poetry"
     },
     {
-      "text": "you who have drunk from the hand of the",
+      "text": "you who have drunk from the hand of the Lord",
       "verse": 17,
       "type": "poetry"
     },
@@ -467,7 +468,7 @@
       "type": "poetry"
     },
     {
-      "text": "They are filled with the wrath of the ,",
+      "text": "They are filled with the wrath of the Lord,",
       "verse": 20,
       "type": "poetry"
     },
@@ -487,7 +488,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what your Sovereign  says,",
+      "text": "This is what your Sovereign Lord says,",
       "verse": 22,
       "type": "poetry"
     },

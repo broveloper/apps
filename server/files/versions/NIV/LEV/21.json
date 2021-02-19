@@ -2,13 +2,14 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 21,
+  "verses": 24,
   "content": [
     {
       "text": "Rules for Priests",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses, “Speak to the priests, the sons of Aaron, and say to them: ‘A priest must not make himself ceremonially unclean for any of his people who die,",
+      "text": "The Lord said to Moses, “Speak to the priests, the sons of Aaron, and say to them: ‘A priest must not make himself ceremonially unclean for any of his people who die,",
       "verse": 1,
       "type": "newline"
     },
@@ -30,7 +31,7 @@
       "type": "newline"
     },
     {
-      "text": "They must be holy to their God and must not profane the name of their God. Because they present the food offerings to the , the food of their God, they are to be holy.",
+      "text": "They must be holy to their God and must not profane the name of their God. Because they present the food offerings to the Lord, the food of their God, they are to be holy.",
       "verse": 6
     },
     {
@@ -39,7 +40,7 @@
       "type": "newline"
     },
     {
-      "text": "Regard them as holy, because they offer up the food of your God. Consider them holy, because I the  am holy—I who make you holy.",
+      "text": "Regard them as holy, because they offer up the food of your God. Consider them holy, because I the Lord am holy—I who make you holy.",
       "verse": 8
     },
     {
@@ -57,7 +58,7 @@
       "verse": 11
     },
     {
-      "text": "nor leave the sanctuary of his God or desecrate it, because he has been dedicated by the anointing oil of his God. I am the .",
+      "text": "nor leave the sanctuary of his God or desecrate it, because he has been dedicated by the anointing oil of his God. I am the Lord.",
       "verse": 12
     },
     {
@@ -70,11 +71,11 @@
       "verse": 14
     },
     {
-      "text": "so that he will not defile his offspring among his people. I am the , who makes him holy.’”",
+      "text": "so that he will not defile his offspring among his people. I am the Lord, who makes him holy.’”",
       "verse": 15
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 16,
       "type": "newline"
     },
@@ -95,7 +96,7 @@
       "verse": 20
     },
     {
-      "text": "No descendant of Aaron the priest who has any defect is to come near to present the food offerings to the . He has a defect; he must not come near to offer the food of his God.",
+      "text": "No descendant of Aaron the priest who has any defect is to come near to present the food offerings to the Lord. He has a defect; he must not come near to offer the food of his God.",
       "verse": 21
     },
     {
@@ -103,7 +104,7 @@
       "verse": 22
     },
     {
-      "text": "yet because of his defect, he must not go near the curtain or approach the altar, and so desecrate my sanctuary. I am the , who makes them holy.’”",
+      "text": "yet because of his defect, he must not go near the curtain or approach the altar, and so desecrate my sanctuary. I am the Lord, who makes them holy.’”",
       "verse": 23
     },
     {

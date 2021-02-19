@@ -2,9 +2,10 @@
   "book_id": "2CHR",
   "book_name": "2 Chronicles",
   "chapter": 5,
+  "verses": 14,
   "content": [
     {
-      "text": "When all the work Solomon had done for the temple of the  was finished, he brought in the things his father David had dedicated—the silver and gold and all the furnishings—and he placed them in the treasuries of God’s temple.",
+      "text": "When all the work Solomon had done for the temple of the Lord was finished, he brought in the things his father David had dedicated—the silver and gold and all the furnishings—and he placed them in the treasuries of God’s temple.",
       "verse": 1
     },
     {
@@ -12,7 +13,7 @@
       "type": "heading"
     },
     {
-      "text": "Then Solomon summoned to Jerusalem the elders of Israel, all the heads of the tribes and the chiefs of the Israelite families, to bring up the ark of the ’s covenant from Zion, the City of David.",
+      "text": "Then Solomon summoned to Jerusalem the elders of Israel, all the heads of the tribes and the chiefs of the Israelite families, to bring up the ark of the Lord’s covenant from Zion, the City of David.",
       "verse": 2,
       "type": "newline"
     },
@@ -34,7 +35,7 @@
       "verse": 6
     },
     {
-      "text": "The priests then brought the ark of the ’s covenant to its place in the inner sanctuary of the temple, the Most Holy Place, and put it beneath the wings of the cherubim.",
+      "text": "The priests then brought the ark of the Lord’s covenant to its place in the inner sanctuary of the temple, the Most Holy Place, and put it beneath the wings of the cherubim.",
       "verse": 7,
       "type": "newline"
     },
@@ -47,7 +48,7 @@
       "verse": 9
     },
     {
-      "text": "There was nothing in the ark except the two tablets that Moses had placed in it at Horeb, where the  made a covenant with the Israelites after they came out of Egypt.",
+      "text": "There was nothing in the ark except the two tablets that Moses had placed in it at Horeb, where the Lord made a covenant with the Israelites after they came out of Egypt.",
       "verse": 10
     },
     {
@@ -60,7 +61,7 @@
       "verse": 12
     },
     {
-      "text": "The trumpeters and musicians joined in unison to give praise and thanks to the . Accompanied by trumpets, cymbals and other instruments, the singers raised their voices in praise to the  and sang:",
+      "text": "The trumpeters and musicians joined in unison to give praise and thanks to the Lord. Accompanied by trumpets, cymbals and other instruments, the singers raised their voices in praise to the Lord and sang:",
       "verse": 13
     },
     {
@@ -74,12 +75,12 @@
       "type": "poetry"
     },
     {
-      "text": "Then the temple of the  was filled with the cloud,",
+      "text": "Then the temple of the Lord was filled with the cloud,",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "and the priests could not perform their service because of the cloud, for the glory of the  filled the temple of God.",
+      "text": "and the priests could not perform their service because of the cloud, for the glory of the Lord filled the temple of God.",
       "verse": 14
     }
   ]

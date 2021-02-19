@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 78,
+  "verses": 72,
   "content": [
     {
       "text": "Give ear, O my people, to my law: incline your ears to the words of my mouth.",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "We will not hide them from their children, shewing to the generation to come the praises of the , and his strength, and his wonderful works that he hath done.",
+      "text": "We will not hide them from their children, shewing to the generation to come the praises of the Lord, and his strength, and his wonderful works that he hath done.",
       "verse": 4,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore the  heard this, and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;",
+      "text": "Therefore the Lord heard this, and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;",
       "verse": 21,
       "type": "newline"
     },
@@ -323,7 +324,7 @@
       "type": "newline"
     },
     {
-      "text": "Then the  awaked as one out of sleep, and like a mighty man that shouteth by reason of wine.",
+      "text": "Then the Lord awaked as one out of sleep, and like a mighty man that shouteth by reason of wine.",
       "verse": 65,
       "type": "newline"
     },

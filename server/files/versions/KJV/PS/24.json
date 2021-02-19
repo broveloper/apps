@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 24,
+  "verses": 10,
   "content": [
     {
-      "text": "The earth is the 's, and the fulness thereof; the world, and they that dwell therein.",
+      "text": "The earth is the Lord's, and the fulness thereof; the world, and they that dwell therein.",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "Who shall ascend into the hill of the ? or who shall stand in his holy place?",
+      "text": "Who shall ascend into the hill of the Lord? or who shall stand in his holy place?",
       "verse": 3,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "He shall receive the blessing from the , and righteousness from the God of his salvation.",
+      "text": "He shall receive the blessing from the Lord, and righteousness from the God of his salvation.",
       "verse": 5,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "Who is this King of glory? The  strong and mighty, the  mighty in battle.",
+      "text": "Who is this King of glory? The Lord strong and mighty, the Lord mighty in battle.",
       "verse": 8,
       "type": "newline"
     },
@@ -48,7 +49,7 @@
       "type": "newline"
     },
     {
-      "text": "Who is this King of glory? The  of hosts, he is the King of glory. Selah.",
+      "text": "Who is this King of glory? The Lord of hosts, he is the King of glory. Selah.",
       "verse": 10,
       "type": "newline"
     }

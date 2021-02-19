@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 11,
+  "verses": 32,
   "content": [
     {
       "text": "The Tower of Babel",
@@ -25,11 +26,11 @@
       "verse": 4
     },
     {
-      "text": "And the  came down to see the city and the tower, which the children of man had built.",
+      "text": "And the Lord came down to see the city and the tower, which the children of man had built.",
       "verse": 5
     },
     {
-      "text": "And the  said, “Behold, they are one people, and they have all one language, and this is only the beginning of what they will do. And nothing that they propose to do will now be impossible for them.",
+      "text": "And the Lord said, “Behold, they are one people, and they have all one language, and this is only the beginning of what they will do. And nothing that they propose to do will now be impossible for them.",
       "verse": 6
     },
     {
@@ -37,11 +38,11 @@
       "verse": 7
     },
     {
-      "text": "So the  dispersed them from there over the face of all the earth, and they left off building the city.",
+      "text": "So the Lord dispersed them from there over the face of all the earth, and they left off building the city.",
       "verse": 8
     },
     {
-      "text": "Therefore its name was called Babel, because there the  confused the language of all the earth. And from there the  dispersed them over the face of all the earth.",
+      "text": "Therefore its name was called Babel, because there the Lord confused the language of all the earth. And from there the Lord dispersed them over the face of all the earth.",
       "verse": 9
     },
     {

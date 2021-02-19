@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 46,
+  "verses": 13,
   "content": [
     {
       "text": "The Idols of Babylon and the One True God",
@@ -148,7 +149,7 @@
       "type": "poetry"
     },
     {
-      "text": "remember the former things of old;",
+      "text": "    remember the former things of old;",
       "verse": 9,
       "type": "poetry"
     },

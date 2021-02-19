@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 13,
+  "verses": 22,
   "content": [
     {
       "text": "A Prophecy Against Babylon",
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  Almighty is mustering",
+      "text": "The Lord Almighty is mustering",
       "verse": 4,
       "type": "poetry"
     },
@@ -88,7 +89,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  and the weapons of his wrath—",
+      "text": "the Lord and the weapons of his wrath—",
       "verse": 5,
       "type": "poetry"
     },
@@ -98,7 +99,7 @@
       "type": "poetry"
     },
     {
-      "text": "Wail, for the day of the  is near;",
+      "text": "Wail, for the day of the Lord is near;",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -143,7 +144,7 @@
       "type": "poetry"
     },
     {
-      "text": "See, the day of the  is coming",
+      "text": "See, the day of the Lord is coming",
       "verse": 9,
       "type": "poetry newline"
     },
@@ -223,7 +224,7 @@
       "type": "poetry"
     },
     {
-      "text": "at the wrath of the  Almighty,",
+      "text": "at the wrath of the Lord Almighty,",
       "verse": 13,
       "type": "poetry"
     },

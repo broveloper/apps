@@ -2,30 +2,31 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 19,
+  "verses": 37,
   "content": [
     {
-      "text": "The  Is Holy",
+      "text": "The Lord Is Holy",
       "type": "heading"
     },
     {
-      "text": "And the  spoke to Moses, saying,",
+      "text": "And the Lord spoke to Moses, saying,",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Speak to all the congregation of the people of Israel and say to them, You shall be holy, for I the  your God am holy.",
+      "text": "“Speak to all the congregation of the people of Israel and say to them, You shall be holy, for I the Lord your God am holy.",
       "verse": 2
     },
     {
-      "text": "Every one of you shall revere his mother and his father, and you shall keep my Sabbaths: I am the  your God.",
+      "text": "Every one of you shall revere his mother and his father, and you shall keep my Sabbaths: I am the Lord your God.",
       "verse": 3
     },
     {
-      "text": "Do not turn to idols or make for yourselves any gods of cast metal: I am the  your God.",
+      "text": "Do not turn to idols or make for yourselves any gods of cast metal: I am the Lord your God.",
       "verse": 4
     },
     {
-      "text": "“When you offer a sacrifice of peace offerings to the , you shall offer it so that you may be accepted.",
+      "text": "“When you offer a sacrifice of peace offerings to the Lord, you shall offer it so that you may be accepted.",
       "verse": 5,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "verse": 7
     },
     {
-      "text": "and everyone who eats it shall bear his iniquity, because he has profaned what is holy to the , and that person shall be cut off from his people.",
+      "text": "and everyone who eats it shall bear his iniquity, because he has profaned what is holy to the Lord, and that person shall be cut off from his people.",
       "verse": 8
     },
     {
@@ -51,7 +52,7 @@
       "type": "newline"
     },
     {
-      "text": "And you shall not strip your vineyard bare, neither shall you gather the fallen grapes of your vineyard. You shall leave them for the poor and for the sojourner: I am the  your God.",
+      "text": "And you shall not strip your vineyard bare, neither shall you gather the fallen grapes of your vineyard. You shall leave them for the poor and for the sojourner: I am the Lord your God.",
       "verse": 10
     },
     {
@@ -60,7 +61,7 @@
       "type": "newline"
     },
     {
-      "text": "You shall not swear by my name falsely, and so profane the name of your God: I am the .",
+      "text": "You shall not swear by my name falsely, and so profane the name of your God: I am the Lord.",
       "verse": 12
     },
     {
@@ -69,7 +70,7 @@
       "type": "newline"
     },
     {
-      "text": "You shall not curse the deaf or put a stumbling block before the blind, but you shall fear your God: I am the .",
+      "text": "You shall not curse the deaf or put a stumbling block before the blind, but you shall fear your God: I am the Lord.",
       "verse": 14
     },
     {
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "You shall not go around as a slanderer among your people, and you shall not stand up against the life of your neighbor: I am the .",
+      "text": "You shall not go around as a slanderer among your people, and you shall not stand up against the life of your neighbor: I am the Lord.",
       "verse": 16
     },
     {
@@ -87,7 +88,7 @@
       "type": "newline"
     },
     {
-      "text": "You shall not take vengeance or bear a grudge against the sons of your own people, but you shall love your neighbor as yourself: I am the .",
+      "text": "You shall not take vengeance or bear a grudge against the sons of your own people, but you shall love your neighbor as yourself: I am the Lord.",
       "verse": 18
     },
     {
@@ -105,11 +106,11 @@
       "type": "newline"
     },
     {
-      "text": "but he shall bring his compensation to the , to the entrance of the tent of meeting, a ram for a guilt offering.",
+      "text": "but he shall bring his compensation to the Lord, to the entrance of the tent of meeting, a ram for a guilt offering.",
       "verse": 21
     },
     {
-      "text": "And the priest shall make atonement for him with the ram of the guilt offering before the  for his sin that he has committed, and he shall be forgiven for the sin that he has committed.",
+      "text": "And the priest shall make atonement for him with the ram of the guilt offering before the Lord for his sin that he has committed, and he shall be forgiven for the sin that he has committed.",
       "verse": 22
     },
     {
@@ -118,11 +119,11 @@
       "type": "newline"
     },
     {
-      "text": "And in the fourth year all its fruit shall be holy, an offering of praise to the .",
+      "text": "And in the fourth year all its fruit shall be holy, an offering of praise to the Lord.",
       "verse": 24
     },
     {
-      "text": "But in the fifth year you may eat of its fruit, to increase its yield for you: I am the  your God.",
+      "text": "But in the fifth year you may eat of its fruit, to increase its yield for you: I am the Lord your God.",
       "verse": 25
     },
     {
@@ -135,7 +136,7 @@
       "verse": 27
     },
     {
-      "text": "You shall not make any cuts on your body for the dead or tattoo yourselves: I am the .",
+      "text": "You shall not make any cuts on your body for the dead or tattoo yourselves: I am the Lord.",
       "verse": 28
     },
     {
@@ -144,16 +145,16 @@
       "type": "newline"
     },
     {
-      "text": "You shall keep my Sabbaths and reverence my sanctuary: I am the .",
+      "text": "You shall keep my Sabbaths and reverence my sanctuary: I am the Lord.",
       "verse": 30
     },
     {
-      "text": "“Do not turn to mediums or necromancers; do not seek them out, and so make yourselves unclean by them: I am the  your God.",
+      "text": "“Do not turn to mediums or necromancers; do not seek them out, and so make yourselves unclean by them: I am the Lord your God.",
       "verse": 31,
       "type": "newline"
     },
     {
-      "text": "“You shall stand up before the gray head and honor the face of an old man, and you shall fear your God: I am the .",
+      "text": "“You shall stand up before the gray head and honor the face of an old man, and you shall fear your God: I am the Lord.",
       "verse": 32,
       "type": "newline"
     },
@@ -163,7 +164,7 @@
       "type": "newline"
     },
     {
-      "text": "You shall treat the stranger who sojourns with you as the native among you, and you shall love him as yourself, for you were strangers in the land of Egypt: I am the  your God.",
+      "text": "You shall treat the stranger who sojourns with you as the native among you, and you shall love him as yourself, for you were strangers in the land of Egypt: I am the Lord your God.",
       "verse": 34
     },
     {
@@ -172,11 +173,11 @@
       "type": "newline"
     },
     {
-      "text": "You shall have just balances, just weights, a just ephah, and a just hin: I am the  your God, who brought you out of the land of Egypt.",
+      "text": "You shall have just balances, just weights, a just ephah, and a just hin: I am the Lord your God, who brought you out of the land of Egypt.",
       "verse": 36
     },
     {
-      "text": "And you shall observe all my statutes and all my rules, and do them: I am the .”",
+      "text": "And you shall observe all my statutes and all my rules, and do them: I am the Lord.”",
       "verse": 37
     }
   ]

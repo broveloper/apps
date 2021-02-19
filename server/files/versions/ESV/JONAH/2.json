@@ -2,13 +2,14 @@
   "book_id": "JONAH",
   "book_name": "Jonah",
   "chapter": 2,
+  "verses": 10,
   "content": [
     {
       "text": "Jonah's Prayer",
       "type": "heading"
     },
     {
-      "text": "Then Jonah prayed to the  his God from the belly of the fish,",
+      "text": "Then Jonah prayed to the Lord his God from the belly of the fish,",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "“I called out to the , out of my distress,",
+      "text": "“I called out to the Lord, out of my distress,",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -97,7 +98,7 @@
       "type": "poetry"
     },
     {
-      "text": "at the roots of the mountains.",
+      "text": "    at the roots of the mountains.",
       "verse": 6,
       "type": "poetry"
     },
@@ -117,7 +118,7 @@
       "type": "poetry"
     },
     {
-      "text": "O  my God.",
+      "text": "O Lord my God.",
       "verse": 6,
       "type": "poetry"
     },
@@ -127,7 +128,7 @@
       "type": "poetry"
     },
     {
-      "text": "I remembered the ,",
+      "text": "I remembered the Lord,",
       "verse": 7,
       "type": "poetry"
     },
@@ -167,12 +168,12 @@
       "type": "poetry"
     },
     {
-      "text": "Salvation belongs to the !”",
+      "text": "Salvation belongs to the Lord!”",
       "verse": 9,
       "type": "poetry"
     },
     {
-      "text": "And the  spoke to the fish, and it vomited Jonah out upon the dry land.",
+      "text": "And the Lord spoke to the fish, and it vomited Jonah out upon the dry land.",
       "verse": 10,
       "type": "newline"
     }

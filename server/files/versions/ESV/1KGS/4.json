@@ -2,6 +2,7 @@
   "book_id": "1KGS",
   "book_name": "1 Kings",
   "chapter": 4,
+  "verses": 34,
   "content": [
     {
       "text": "Solomon's Officials",
@@ -95,7 +96,7 @@
       "type": "newline"
     },
     {
-      "text": "Solomon ruled over all the kingdoms from the Euphrates to the land of the Philistines and to the border of Egypt. They brought tribute and served Solomon all the days of his life.",
+      "text": " Solomon ruled over all the kingdoms from the Euphrates to the land of the Philistines and to the border of Egypt. They brought tribute and served Solomon all the days of his life.",
       "verse": 21
     },
     {

@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 33,
+  "verses": 56,
   "content": [
     {
       "text": "These are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron.",
       "verse": 1
     },
     {
-      "text": "And Moses wrote their goings out according to their journeys by the commandment of the : and these are their journeys according to their goings out.",
+      "text": "And Moses wrote their goings out according to their journeys by the commandment of the Lord: and these are their journeys according to their goings out.",
       "verse": 2,
       "type": "newline"
     },
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "For the Egyptians buried all their firstborn, which the  had smitten among them: upon their gods also the  executed judgments.",
+      "text": "For the Egyptians buried all their firstborn, which the Lord had smitten among them: upon their gods also the Lord executed judgments.",
       "verse": 4,
       "type": "newline"
     },
@@ -188,7 +189,7 @@
       "type": "newline"
     },
     {
-      "text": "And Aaron the priest went up into mount Hor at the commandment of the , and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month.",
+      "text": "And Aaron the priest went up into mount Hor at the commandment of the Lord, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month.",
       "verse": 38,
       "type": "newline"
     },
@@ -248,7 +249,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  spake unto Moses in the plains of Moab by Jordan near Jericho, saying,",
+      "text": "And the Lord spake unto Moses in the plains of Moab by Jordan near Jericho, saying,",
       "verse": 50,
       "type": "newline"
     },

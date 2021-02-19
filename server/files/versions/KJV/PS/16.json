@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 16,
+  "verses": 11,
   "content": [
     {
       "text": "Preserve me, O God: for in thee do I put my trust.",
       "verse": 1
     },
     {
-      "text": "O my soul, thou hast said unto the , Thou art my Lord: my goodness extendeth not to thee;",
+      "text": "O my soul, thou hast said unto the Lord, Thou art my Lord: my goodness extendeth not to thee;",
       "verse": 2,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "The  is the portion of mine inheritance and of my cup: thou maintainest my lot.",
+      "text": "The Lord is the portion of mine inheritance and of my cup: thou maintainest my lot.",
       "verse": 5,
       "type": "newline"
     },
@@ -33,12 +34,12 @@
       "type": "newline"
     },
     {
-      "text": "I will bless the , who hath given me counsel: my reins also instruct me in the night seasons.",
+      "text": "I will bless the Lord, who hath given me counsel: my reins also instruct me in the night seasons.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "I have set the  always before me: because he is at my right hand, I shall not be moved.",
+      "text": "I have set the Lord always before me: because he is at my right hand, I shall not be moved.",
       "verse": 8,
       "type": "newline"
     },

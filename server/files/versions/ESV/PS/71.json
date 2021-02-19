@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 71,
+  "verses": 24,
   "content": [
     {
       "text": "Forsake Me Not When My Strength Is Spent",
       "type": "heading"
     },
     {
-      "text": "In you, O , do I take refuge;",
+      "text": "In you, O Lord, do I take refuge;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -63,7 +64,7 @@
       "type": "poetry"
     },
     {
-      "text": "my trust, O , from my youth.",
+      "text": "my trust, O Lord, from my youth.",
       "verse": 5,
       "type": "poetry"
     },
@@ -188,7 +189,7 @@
       "type": "poetry"
     },
     {
-      "text": "With the mighty deeds of the Lord  I will come;",
+      "text": "With the mighty deeds of the Lord God I will come;",
       "verse": 16,
       "type": "poetry"
     },

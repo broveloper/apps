@@ -2,6 +2,7 @@
   "book_id": "MARK",
   "book_name": "Mark",
   "chapter": 15,
+  "verses": 47,
   "content": [
     {
       "text": "Jesus Before Pilate",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied.",
+      "text": "“You have said so,” Jesus replied.",
       "verse": 2,
       "type": "newline"
     },
@@ -139,7 +140,7 @@
       "type": "newline"
     },
     {
-      "text": "The written notice of the charge against him read: .",
+      "text": "The written notice of the charge against him read: the king of the jews.",
       "verse": 26
     },
     {
@@ -177,7 +178,7 @@
       "type": "newline"
     },
     {
-      "text": "And at three in the afternoon Jesus cried out in a loud voice,  (which means ).",
+      "text": "And at three in the afternoon Jesus cried out in a loud voice, “Eloi, Eloi, lema sabachthani?” (which means “My God, my God, why have you forsaken me?”).",
       "verse": 34
     },
     {

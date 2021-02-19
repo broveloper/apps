@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 86,
+  "verses": 17,
   "content": [
     {
-      "text": "Bow down thine ear, O , hear me: for I am poor and needy.",
+      "text": "Bow down thine ear, O Lord, hear me: for I am poor and needy.",
       "verse": 1
     },
     {
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "Give ear, O , unto my prayer; and attend to the voice of my supplications.",
+      "text": "Give ear, O Lord, unto my prayer; and attend to the voice of my supplications.",
       "verse": 6,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "Teach me thy way, O ; I will walk in thy truth: unite my heart to fear thy name.",
+      "text": "Teach me thy way, O Lord; I will walk in thy truth: unite my heart to fear thy name.",
       "verse": 11,
       "type": "newline"
     },
@@ -83,7 +84,7 @@
       "type": "newline"
     },
     {
-      "text": "Shew me a token for good; that they which hate me may see it, and be ashamed: because thou, , hast holpen me, and comforted me.",
+      "text": "Shew me a token for good; that they which hate me may see it, and be ashamed: because thou, Lord, hast holpen me, and comforted me.",
       "verse": 17,
       "type": "newline"
     }

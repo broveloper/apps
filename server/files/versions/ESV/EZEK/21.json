@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 21,
+  "verses": 32,
   "content": [
     {
-      "text": "The  Has Drawn His Sword",
+      "text": "The Lord Has Drawn His Sword",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": " The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "and say to the land of Israel, Thus says the : Behold, I am against you and will draw my sword from its sheath and will cut off from you both righteous and wicked.",
+      "text": "and say to the land of Israel, Thus says the Lord: Behold, I am against you and will draw my sword from its sheath and will cut off from you both righteous and wicked.",
       "verse": 3
     },
     {
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "And all flesh shall know that I am the . I have drawn my sword from its sheath; it shall not be sheathed again.",
+      "text": "And all flesh shall know that I am the Lord. I have drawn my sword from its sheath; it shall not be sheathed again.",
       "verse": 5
     },
     {
@@ -34,11 +35,11 @@
       "type": "newline"
     },
     {
-      "text": "And when they say to you, ‘Why do you groan?’ you shall say, ‘Because of the news that it is coming. Every heart will melt, and all hands will be feeble; every spirit will faint, and all knees will be weak as water. Behold, it is coming, and it will be fulfilled,’” declares the Lord .",
+      "text": "And when they say to you, ‘Why do you groan?’ you shall say, ‘Because of the news that it is coming. Every heart will melt, and all hands will be feeble; every spirit will faint, and all knees will be weak as water. Behold, it is coming, and it will be fulfilled,’” declares the Lord God.",
       "verse": 7
     },
     {
-      "text": "And the word of the  came to me:",
+      "text": "And the word of the Lord came to me:",
       "verse": 8,
       "type": "newline"
     },
@@ -80,7 +81,7 @@
       "verse": 12
     },
     {
-      "text": "For it will not be a testing—what could it do if you despise the rod?” declares the Lord .",
+      "text": "For it will not be a testing—what could it do if you despise the rod?” declares the Lord God.",
       "verse": 13
     },
     {
@@ -97,11 +98,11 @@
       "verse": 16
     },
     {
-      "text": "I also will clap my hands, and I will satisfy my fury; I the  have spoken.”",
+      "text": "I also will clap my hands, and I will satisfy my fury; I the Lord have spoken.”",
       "verse": 17
     },
     {
-      "text": "The word of the  came to me again:",
+      "text": "The word of the Lord came to me again:",
       "verse": 18,
       "type": "newline"
     },
@@ -126,7 +127,7 @@
       "verse": 23
     },
     {
-      "text": "“Therefore thus says the Lord : Because you have made your guilt to be remembered, in that your transgressions are uncovered, so that in all your deeds your sins appear—because you have come to remembrance, you shall be taken in hand.",
+      "text": "“Therefore thus says the Lord God: Because you have made your guilt to be remembered, in that your transgressions are uncovered, so that in all your deeds your sins appear—because you have come to remembrance, you shall be taken in hand.",
       "verse": 24,
       "type": "newline"
     },
@@ -135,7 +136,7 @@
       "verse": 25
     },
     {
-      "text": "thus says the Lord : Remove the turban and take off the crown. Things shall not remain as they are. Exalt that which is low, and bring low that which is exalted.",
+      "text": "thus says the Lord God: Remove the turban and take off the crown. Things shall not remain as they are. Exalt that which is low, and bring low that which is exalted.",
       "verse": 26
     },
     {
@@ -143,7 +144,7 @@
       "verse": 27
     },
     {
-      "text": "“And you, son of man, prophesy, and say, Thus says the Lord  concerning the Ammonites and concerning their reproach; say, A sword, a sword is drawn for the slaughter. It is polished to consume and to flash like lightning—",
+      "text": "“And you, son of man, prophesy, and say, Thus says the Lord God concerning the Ammonites and concerning their reproach; say, A sword, a sword is drawn for the slaughter. It is polished to consume and to flash like lightning—",
       "verse": 28,
       "type": "newline"
     },
@@ -160,7 +161,7 @@
       "verse": 31
     },
     {
-      "text": "You shall be fuel for the fire. Your blood shall be in the midst of the land. You shall be no more remembered, for I the  have spoken.”",
+      "text": "You shall be fuel for the fire. Your blood shall be in the midst of the land. You shall be no more remembered, for I the Lord have spoken.”",
       "verse": 32
     }
   ]

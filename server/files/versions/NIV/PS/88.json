@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 88,
+  "verses": 18,
   "content": [
     {
       "text": "Psalm 88",
       "type": "heading"
     },
     {
-      "text": "A song. A psalm of the Sons of Korah. For the director of music. According to  A  of Heman the Ezrahite.",
-      "verse": 1,
-      "type": "newline"
+      "text": "A song. A psalm of the Sons of Korah. For the director of music. According to mahalath leannoth. A maskil of Heman the Ezrahite.",
+      "type": "title"
     },
     {
-      "text": ", you are the God who saves me;",
+      "text": "Lord, you are the God who saves me;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -108,12 +108,12 @@
       "type": "poetry"
     },
     {
-      "text": "my eyes are dim with grief.",
+      "text": "    my eyes are dim with grief.",
       "verse": 9,
       "type": "poetry"
     },
     {
-      "text": "I call to you, , every day;",
+      "text": "I call to you, Lord, every day;",
       "verse": 9,
       "type": "poetry newline"
     },
@@ -153,7 +153,7 @@
       "type": "poetry"
     },
     {
-      "text": "But I cry to you for help, ;",
+      "text": "But I cry to you for help, Lord;",
       "verse": 13,
       "type": "poetry newline"
     },
@@ -163,7 +163,7 @@
       "type": "poetry"
     },
     {
-      "text": "Why, , do you reject me",
+      "text": "Why, Lord, do you reject me",
       "verse": 14,
       "type": "poetry"
     },

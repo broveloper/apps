@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 62,
+  "verses": 12,
   "content": [
     {
       "text": "Psalm 62",
@@ -9,8 +10,7 @@
     },
     {
       "text": "For the director of music. For Jeduthun. A psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Truly my soul finds rest in God;",
@@ -173,7 +173,7 @@
       "type": "poetry"
     },
     {
-      "text": "and with you, Lord, is unfailing love”;",
+      "text": "    and with you, Lord, is unfailing love”;",
       "verse": 12,
       "type": "poetry"
     },

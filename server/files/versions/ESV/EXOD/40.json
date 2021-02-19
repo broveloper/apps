@@ -2,13 +2,14 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 40,
+  "verses": 38,
   "content": [
     {
       "text": "The Tabernacle Erected",
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses, saying,",
+      "text": "The Lord spoke to Moses, saying,",
       "verse": 1,
       "type": "newline"
     },
@@ -70,7 +71,7 @@
       "verse": 15
     },
     {
-      "text": "This Moses did; according to all that the  commanded him, so he did.",
+      "text": "This Moses did; according to all that the Lord commanded him, so he did.",
       "verse": 16,
       "type": "newline"
     },
@@ -83,7 +84,7 @@
       "verse": 18
     },
     {
-      "text": "And he spread the tent over the tabernacle and put the covering of the tent over it, as the  had commanded Moses.",
+      "text": "And he spread the tent over the tabernacle and put the covering of the tent over it, as the Lord had commanded Moses.",
       "verse": 19
     },
     {
@@ -91,7 +92,7 @@
       "verse": 20
     },
     {
-      "text": "And he brought the ark into the tabernacle and set up the veil of the screen, and screened the ark of the testimony, as the  had commanded Moses.",
+      "text": "And he brought the ark into the tabernacle and set up the veil of the screen, and screened the ark of the testimony, as the Lord had commanded Moses.",
       "verse": 21
     },
     {
@@ -99,7 +100,7 @@
       "verse": 22
     },
     {
-      "text": "and arranged the bread on it before the , as the  had commanded Moses.",
+      "text": "and arranged the bread on it before the Lord, as the Lord had commanded Moses.",
       "verse": 23
     },
     {
@@ -107,7 +108,7 @@
       "verse": 24
     },
     {
-      "text": "and set up the lamps before the , as the  had commanded Moses.",
+      "text": "and set up the lamps before the Lord, as the Lord had commanded Moses.",
       "verse": 25
     },
     {
@@ -115,7 +116,7 @@
       "verse": 26
     },
     {
-      "text": "and burned fragrant incense on it, as the  had commanded Moses.",
+      "text": "and burned fragrant incense on it, as the Lord had commanded Moses.",
       "verse": 27
     },
     {
@@ -123,7 +124,7 @@
       "verse": 28
     },
     {
-      "text": "And he set the altar of burnt offering at the entrance of the tabernacle of the tent of meeting, and offered on it the burnt offering and the grain offering, as the  had commanded Moses.",
+      "text": "And he set the altar of burnt offering at the entrance of the tabernacle of the tent of meeting, and offered on it the burnt offering and the grain offering, as the Lord had commanded Moses.",
       "verse": 29
     },
     {
@@ -135,7 +136,7 @@
       "verse": 31
     },
     {
-      "text": "When they went into the tent of meeting, and when they approached the altar, they washed, as the  commanded Moses.",
+      "text": "When they went into the tent of meeting, and when they approached the altar, they washed, as the Lord commanded Moses.",
       "verse": 32
     },
     {
@@ -143,16 +144,16 @@
       "verse": 33
     },
     {
-      "text": "The Glory of the",
+      "text": "The Glory of the Lord",
       "type": "heading"
     },
     {
-      "text": "Then the cloud covered the tent of meeting, and the glory of the  filled the tabernacle.",
+      "text": "Then the cloud covered the tent of meeting, and the glory of the Lord filled the tabernacle.",
       "verse": 34,
       "type": "newline"
     },
     {
-      "text": "And Moses was not able to enter the tent of meeting because the cloud settled on it, and the glory of the  filled the tabernacle.",
+      "text": "And Moses was not able to enter the tent of meeting because the cloud settled on it, and the glory of the Lord filled the tabernacle.",
       "verse": 35
     },
     {
@@ -164,7 +165,7 @@
       "verse": 37
     },
     {
-      "text": "For the cloud of the  was on the tabernacle by day, and fire was in it by night, in the sight of all the house of Israel throughout all their journeys.",
+      "text": "For the cloud of the Lord was on the tabernacle by day, and fire was in it by night, in the sight of all the house of Israel throughout all their journeys.",
       "verse": 38
     }
   ]

@@ -2,6 +2,7 @@
   "book_id": "GAL",
   "book_name": "Galatians",
   "chapter": 4,
+  "verses": 31,
   "content": [
     {
       "text": "What I am saying is that as long as an heir is underage, he is no different from a slave, although he owns the whole estate.",
@@ -24,7 +25,7 @@
       "verse": 5
     },
     {
-      "text": "Because you are his sons, God sent the Spirit of his Son into our hearts, the Spirit who calls out, , Father.”",
+      "text": "Because you are his sons, God sent the Spirit of his Son into our hearts, the Spirit who calls out, “Abba, Father.”",
       "verse": 6
     },
     {

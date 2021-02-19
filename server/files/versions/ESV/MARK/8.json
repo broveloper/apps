@@ -2,6 +2,7 @@
   "book_id": "MARK",
   "book_name": "Mark",
   "chapter": 8,
+  "verses": 38,
   "content": [
     {
       "text": "Jesus Feeds the Four Thousand",
@@ -13,11 +14,11 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“I have compassion on the crowd, because they have been with me now three days and have nothing to eat.",
       "verse": 2
     },
     {
-      "text": "",
+      "text": "And if I send them away hungry to their homes, they will faint on the way. And some of them have come from far away.”",
       "verse": 3
     },
     {
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "And he asked them,  They said, “Seven.”",
+      "text": "And he asked them, “How many loaves do you have?” They said, “Seven.”",
       "verse": 5
     },
     {
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "And he sighed deeply in his spirit and said,",
+      "text": "And he sighed deeply in his spirit and said, “Why does this generation seek a sign? Truly, I say to you, no sign will be given to this generation.”",
       "verse": 12
     },
     {
@@ -75,7 +76,7 @@
       "type": "newline"
     },
     {
-      "text": "And he cautioned them, saying,",
+      "text": "And he cautioned them, saying, “Watch out; beware of the leaven of the Pharisees and the leaven of Herod.”",
       "verse": 15
     },
     {
@@ -83,23 +84,23 @@
       "verse": 16
     },
     {
-      "text": "And Jesus, aware of this, said to them,",
+      "text": "And Jesus, aware of this, said to them, “Why are you discussing the fact that you have no bread? Do you not yet perceive or understand? Are your hearts hardened?",
       "verse": 17
     },
     {
-      "text": "",
+      "text": "Having eyes do you not see, and having ears do you not hear? And do you not remember?",
       "verse": 18
     },
     {
-      "text": "They said to him, “Twelve.”",
+      "text": "When I broke the five loaves for the five thousand, how many baskets full of broken pieces did you take up?” They said to him, “Twelve.”",
       "verse": 19
     },
     {
-      "text": "And they said to him, “Seven.”",
+      "text": "“And the seven for the four thousand, how many baskets full of broken pieces did you take up?” And they said to him, “Seven.”",
       "verse": 20
     },
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “Do you not yet understand?”",
       "verse": 21
     },
     {
@@ -112,7 +113,7 @@
       "type": "newline"
     },
     {
-      "text": "And he took the blind man by the hand and led him out of the village, and when he had spit on his eyes and laid his hands on him, he asked him,",
+      "text": "And he took the blind man by the hand and led him out of the village, and when he had spit on his eyes and laid his hands on him, he asked him, “Do you see anything?”",
       "verse": 23
     },
     {
@@ -124,7 +125,7 @@
       "verse": 25
     },
     {
-      "text": "And he sent him to his home, saying,",
+      "text": "And he sent him to his home, saying, “Do not even enter the village.”",
       "verse": 26
     },
     {
@@ -132,7 +133,7 @@
       "type": "heading"
     },
     {
-      "text": "And Jesus went on with his disciples to the villages of Caesarea Philippi. And on the way he asked his disciples,",
+      "text": "And Jesus went on with his disciples to the villages of Caesarea Philippi. And on the way he asked his disciples, “Who do people say that I am?”",
       "verse": 27,
       "type": "newline"
     },
@@ -141,7 +142,7 @@
       "verse": 28
     },
     {
-      "text": "And he asked them,  Peter answered him, “You are the Christ.”",
+      "text": "And he asked them, “But who do you say that I am?” Peter answered him, “You are the Christ.”",
       "verse": 29
     },
     {
@@ -162,28 +163,28 @@
       "verse": 32
     },
     {
-      "text": "But turning and seeing his disciples, he rebuked Peter and said,",
+      "text": "But turning and seeing his disciples, he rebuked Peter and said, “Get behind me, Satan! For you are not setting your mind on the things of God, but on the things of man.”",
       "verse": 33
     },
     {
-      "text": "And calling the crowd to him with his disciples, he said to them,",
+      "text": "And calling the crowd to him with his disciples, he said to them, “If anyone would come after me, let him deny himself and take up his cross and follow me.",
       "verse": 34,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "For whoever would save his life will lose it, but whoever loses his life for my sake and the gospel's will save it.",
       "verse": 35
     },
     {
-      "text": "",
+      "text": "For what does it profit a man to gain the whole world and forfeit his soul?",
       "verse": 36
     },
     {
-      "text": "",
+      "text": "For what can a man give in return for his soul?",
       "verse": 37
     },
     {
-      "text": "",
+      "text": "For whoever is ashamed of me and of my words in this adulterous and sinful generation, of him will the Son of Man also be ashamed when he comes in the glory of his Father with the holy angels.”",
       "verse": 38
     }
   ]

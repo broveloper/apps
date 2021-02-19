@@ -2,13 +2,14 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 10,
+  "verses": 22,
   "content": [
     {
       "text": "New Tablets of Stone",
       "type": "heading"
     },
     {
-      "text": "“At that time the  said to me, ‘Cut for yourself two tablets of stone like the first, and come up to me on the mountain and make an ark of wood.",
+      "text": "“At that time the Lord said to me, ‘Cut for yourself two tablets of stone like the first, and come up to me on the mountain and make an ark of wood.",
       "verse": 1,
       "type": "newline"
     },
@@ -21,11 +22,11 @@
       "verse": 3
     },
     {
-      "text": "And he wrote on the tablets, in the same writing as before, the Ten Commandments that the  had spoken to you on the mountain out of the midst of the fire on the day of the assembly. And the  gave them to me.",
+      "text": "And he wrote on the tablets, in the same writing as before, the Ten Commandments that the Lord had spoken to you on the mountain out of the midst of the fire on the day of the assembly. And the Lord gave them to me.",
       "verse": 4
     },
     {
-      "text": "Then I turned and came down from the mountain and put the tablets in the ark that I had made. And there they are, as the  commanded me.”",
+      "text": "Then I turned and came down from the mountain and put the tablets in the ark that I had made. And there they are, as the Lord commanded me.”",
       "verse": 5
     },
     {
@@ -38,20 +39,20 @@
       "verse": 7
     },
     {
-      "text": "At that time the  set apart the tribe of Levi to carry the ark of the covenant of the  to stand before the  to minister to him and to bless in his name, to this day.",
+      "text": "At that time the Lord set apart the tribe of Levi to carry the ark of the covenant of the Lord to stand before the Lord to minister to him and to bless in his name, to this day.",
       "verse": 8
     },
     {
-      "text": "Therefore Levi has no portion or inheritance with his brothers. The  is his inheritance, as the  your God said to him.)",
+      "text": "Therefore Levi has no portion or inheritance with his brothers. The Lord is his inheritance, as the Lord your God said to him.)",
       "verse": 9
     },
     {
-      "text": "“I myself stayed on the mountain, as at the first time, forty days and forty nights, and the  listened to me that time also. The  was unwilling to destroy you.",
+      "text": "“I myself stayed on the mountain, as at the first time, forty days and forty nights, and the Lord listened to me that time also. The Lord was unwilling to destroy you.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "And the  said to me, ‘Arise, go on your journey at the head of the people, so that they may go in and possess the land, which I swore to their fathers to give them.’",
+      "text": "And the Lord said to me, ‘Arise, go on your journey at the head of the people, so that they may go in and possess the land, which I swore to their fathers to give them.’",
       "verse": 11
     },
     {
@@ -59,20 +60,20 @@
       "type": "heading"
     },
     {
-      "text": "“And now, Israel, what does the  your God require of you, but to fear the  your God, to walk in all his ways, to love him, to serve the  your God with all your heart and with all your soul,",
+      "text": "“And now, Israel, what does the Lord your God require of you, but to fear the Lord your God, to walk in all his ways, to love him, to serve the Lord your God with all your heart and with all your soul,",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "and to keep the commandments and statutes of the , which I am commanding you today for your good?",
+      "text": "and to keep the commandments and statutes of the Lord, which I am commanding you today for your good?",
       "verse": 13
     },
     {
-      "text": "Behold, to the  your God belong heaven and the heaven of heavens, the earth with all that is in it.",
+      "text": "Behold, to the Lord your God belong heaven and the heaven of heavens, the earth with all that is in it.",
       "verse": 14
     },
     {
-      "text": "Yet the  set his heart in love on your fathers and chose their offspring after them, you above all peoples, as you are this day.",
+      "text": "Yet the Lord set his heart in love on your fathers and chose their offspring after them, you above all peoples, as you are this day.",
       "verse": 15
     },
     {
@@ -80,7 +81,7 @@
       "verse": 16
     },
     {
-      "text": "For the  your God is God of gods and Lord of lords, the great, the mighty, and the awesome God, who is not partial and takes no bribe.",
+      "text": "For the Lord your God is God of gods and Lord of lords, the great, the mighty, and the awesome God, who is not partial and takes no bribe.",
       "verse": 17
     },
     {
@@ -92,7 +93,7 @@
       "verse": 19
     },
     {
-      "text": "You shall fear the  your God. You shall serve him and hold fast to him, and by his name you shall swear.",
+      "text": "You shall fear the Lord your God. You shall serve him and hold fast to him, and by his name you shall swear.",
       "verse": 20
     },
     {
@@ -100,7 +101,7 @@
       "verse": 21
     },
     {
-      "text": "Your fathers went down to Egypt seventy persons, and now the  your God has made you as numerous as the stars of heaven.",
+      "text": "Your fathers went down to Egypt seventy persons, and now the Lord your God has made you as numerous as the stars of heaven.",
       "verse": 22
     }
   ]

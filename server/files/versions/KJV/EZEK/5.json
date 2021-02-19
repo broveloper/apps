@@ -2,6 +2,7 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 5,
+  "verses": 17,
   "content": [
     {
       "text": "And thou, son of man, take thee a sharp knife, take thee a barber's razor, and cause it to pass upon thine head and upon thy beard: then take thee balances to weigh, and divide the hair.",
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "Thus saith the Lord ; This is Jerusalem: I have set it in the midst of the nations and countries that are round about her.",
+      "text": "Thus saith the Lord God; This is Jerusalem: I have set it in the midst of the nations and countries that are round about her.",
       "verse": 5,
       "type": "newline"
     },
@@ -33,12 +34,12 @@
       "type": "newline"
     },
     {
-      "text": "Therefore thus saith the Lord ; Because ye multiplied more than the nations that are round about you, and have not walked in my statutes, neither have kept my judgments, neither have done according to the judgments of the nations that are round about you;",
+      "text": "Therefore thus saith the Lord God; Because ye multiplied more than the nations that are round about you, and have not walked in my statutes, neither have kept my judgments, neither have done according to the judgments of the nations that are round about you;",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "Therefore thus saith the Lord ; Behold, I, even I, am against thee, and will execute judgments in the midst of thee in the sight of the nations.",
+      "text": "Therefore thus saith the Lord God; Behold, I, even I, am against thee, and will execute judgments in the midst of thee in the sight of the nations.",
       "verse": 8,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "Wherefore, as I live, saith the Lord ; Surely, because thou hast defiled my sanctuary with all thy detestable things, and with all thine abominations, therefore will I also diminish thee; neither shall mine eye spare, neither will I have any pity.",
+      "text": "Wherefore, as I live, saith the Lord God; Surely, because thou hast defiled my sanctuary with all thy detestable things, and with all thine abominations, therefore will I also diminish thee; neither shall mine eye spare, neither will I have any pity.",
       "verse": 11,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "Thus shall mine anger be accomplished, and I will cause my fury to rest upon them, and I will be comforted: and they shall know that I the  have spoken it in my zeal, when I have accomplished my fury in them.",
+      "text": "Thus shall mine anger be accomplished, and I will cause my fury to rest upon them, and I will be comforted: and they shall know that I the Lord have spoken it in my zeal, when I have accomplished my fury in them.",
       "verse": 13,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "So it shall be a reproach and a taunt, an instruction and an astonishment unto the nations that are round about thee, when I shall execute judgments in thee in anger and in fury and in furious rebukes. I the  have spoken it.",
+      "text": "So it shall be a reproach and a taunt, an instruction and an astonishment unto the nations that are round about thee, when I shall execute judgments in thee in anger and in fury and in furious rebukes. I the Lord have spoken it.",
       "verse": 15,
       "type": "newline"
     },
@@ -83,7 +84,7 @@
       "type": "newline"
     },
     {
-      "text": "So will I send upon you famine and evil beasts, and they shall bereave thee: and pestilence and blood shall pass through thee; and I will bring the sword upon thee. I the  have spoken it.",
+      "text": "So will I send upon you famine and evil beasts, and they shall bereave thee: and pestilence and blood shall pass through thee; and I will bring the sword upon thee. I the Lord have spoken it.",
       "verse": 17,
       "type": "newline"
     }

@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 23,
+  "verses": 35,
   "content": [
     {
       "text": "When thou sittest to eat with a ruler, consider diligently what is before thee:",
@@ -83,7 +84,7 @@
       "type": "newline"
     },
     {
-      "text": "Let not thine heart envy sinners: but be thou in the fear of the  all the day long.",
+      "text": "Let not thine heart envy sinners: but be thou in the fear of the Lord all the day long.",
       "verse": 17,
       "type": "newline"
     },

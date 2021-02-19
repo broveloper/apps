@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 9,
+  "verses": 62,
   "content": [
     {
       "text": "Jesus Sends Out the Twelve",
@@ -17,15 +18,15 @@
       "verse": 2
     },
     {
-      "text": "He told them:",
+      "text": "He told them: “Take nothing for the journey—no staff, no bag, no bread, no money, no extra shirt.",
       "verse": 3
     },
     {
-      "text": "",
+      "text": "Whatever house you enter, stay there until you leave that town.",
       "verse": 4
     },
     {
-      "text": "",
+      "text": "If people do not welcome you, leave their town and shake the dust off your feet as a testimony against them.”",
       "verse": 5
     },
     {
@@ -64,7 +65,7 @@
       "type": "newline"
     },
     {
-      "text": "He replied,",
+      "text": "He replied, “You give them something to eat.”",
       "verse": 13,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "verse": 14
     },
     {
-      "text": "But he said to his disciples,",
+      "text": "But he said to his disciples, “Have them sit down in groups of about fifty each.”",
       "verse": 14,
       "type": "newline"
     },
@@ -99,7 +100,7 @@
       "type": "heading"
     },
     {
-      "text": "Once when Jesus was praying in private and his disciples were with him, he asked them,",
+      "text": "Once when Jesus was praying in private and his disciples were with him, he asked them, “Who do the crowds say I am?”",
       "verse": 18,
       "type": "newline"
     },
@@ -109,7 +110,7 @@
       "type": "newline"
     },
     {
-      "text": "he asked.",
+      "text": "“But what about you?” he asked. “Who do you say I am?”",
       "verse": 20,
       "type": "newline"
     },
@@ -128,28 +129,28 @@
       "type": "newline"
     },
     {
-      "text": "And he said,",
+      "text": "And he said, “The Son of Man must suffer many things and be rejected by the elders, the chief priests and the teachers of the law, and he must be killed and on the third day be raised to life.”",
       "verse": 22
     },
     {
-      "text": "Then he said to them all:",
+      "text": "Then he said to them all: “Whoever wants to be my disciple must deny themselves and take up their cross daily and follow me.",
       "verse": 23,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "For whoever wants to save their life will lose it, but whoever loses their life for me will save it.",
       "verse": 24
     },
     {
-      "text": "",
+      "text": "What good is it for someone to gain the whole world, and yet lose or forfeit their very self?",
       "verse": 25
     },
     {
-      "text": "",
+      "text": "Whoever is ashamed of me and my words, the Son of Man will be ashamed of them when he comes in his glory and in the glory of the Father and of the holy angels.",
       "verse": 26
     },
     {
-      "text": "",
+      "text": "“Truly I tell you, some who are standing here will not taste death before they see the kingdom of God.”",
       "verse": 27,
       "type": "newline"
     },
@@ -217,7 +218,7 @@
       "verse": 40
     },
     {
-      "text": "Jesus replied,",
+      "text": "“You unbelieving and perverse generation,” Jesus replied, “how long shall I stay with you and put up with you? Bring your son here.”",
       "verse": 41,
       "type": "newline"
     },
@@ -240,7 +241,7 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“Listen carefully to what I am about to tell you: The Son of Man is going to be delivered into the hands of men.”",
       "verse": 44
     },
     {
@@ -257,7 +258,7 @@
       "verse": 47
     },
     {
-      "text": "Then he said to them,",
+      "text": "Then he said to them, “Whoever welcomes this little child in my name welcomes me; and whoever welcomes me welcomes the one who sent me. For it is the one who is least among you all who is the greatest.”",
       "verse": 48
     },
     {
@@ -266,7 +267,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said,",
+      "text": "“Do not stop him,” Jesus said, “for whoever is not against you is for you.”",
       "verse": 50,
       "type": "newline"
     },
@@ -309,12 +310,12 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “Foxes have dens and birds have nests, but the Son of Man has no place to lay his head.”",
       "verse": 58,
       "type": "newline"
     },
     {
-      "text": "He said to another man,",
+      "text": "He said to another man, “Follow me.”",
       "verse": 59,
       "type": "newline"
     },
@@ -324,7 +325,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said to him,",
+      "text": "Jesus said to him, “Let the dead bury their own dead, but you go and proclaim the kingdom of God.”",
       "verse": 60,
       "type": "newline"
     },
@@ -334,7 +335,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “No one who puts a hand to the plow and looks back is fit for service in the kingdom of God.”",
       "verse": 62,
       "type": "newline"
     }

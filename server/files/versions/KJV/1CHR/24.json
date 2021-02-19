@@ -2,6 +2,7 @@
   "book_id": "1CHR",
   "book_name": "1 Chronicles",
   "chapter": 24,
+  "verses": 31,
   "content": [
     {
       "text": "Now these are the divisions of the sons of Aaron. The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.",
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "These were the orderings of them in their service to come into the house of the , according to their manner, under Aaron their father, as the  God of Israel had commanded him.",
+      "text": "These were the orderings of them in their service to come into the house of the Lord, according to their manner, under Aaron their father, as the Lord God of Israel had commanded him.",
       "verse": 19,
       "type": "newline"
     },

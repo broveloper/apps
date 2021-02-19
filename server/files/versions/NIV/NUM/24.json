@@ -2,9 +2,10 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 24,
+  "verses": 25,
   "content": [
     {
-      "text": "Now when Balaam saw that it pleased the  to bless Israel, he did not resort to divination as at other times, but turned his face toward the wilderness.",
+      "text": "Now when Balaam saw that it pleased the Lord to bless Israel, he did not resort to divination as at other times, but turned his face toward the wilderness.",
       "verse": 1
     },
     {
@@ -61,7 +62,7 @@
       "type": "poetry"
     },
     {
-      "text": "like aloes planted by the ,",
+      "text": "like aloes planted by the Lord,",
       "verse": 6,
       "type": "poetry"
     },
@@ -141,7 +142,7 @@
       "type": "newline"
     },
     {
-      "text": "Now leave at once and go home! I said I would reward you handsomely, but the  has kept you from being rewarded.”",
+      "text": "Now leave at once and go home! I said I would reward you handsomely, but the Lord has kept you from being rewarded.”",
       "verse": 11
     },
     {
@@ -150,7 +151,7 @@
       "type": "newline"
     },
     {
-      "text": "‘Even if Balak gave me all the silver and gold in his palace, I could not do anything of my own accord, good or bad, to go beyond the command of the —and I must say only what the  says’?",
+      "text": "‘Even if Balak gave me all the silver and gold in his palace, I could not do anything of my own accord, good or bad, to go beyond the command of the Lord—and I must say only what the Lord says’?",
       "verse": 13
     },
     {
@@ -314,7 +315,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "Ships will come from the shores of Cyprus;",
+      "text": "    Ships will come from the shores of Cyprus;",
       "verse": 24,
       "type": "poetry"
     },

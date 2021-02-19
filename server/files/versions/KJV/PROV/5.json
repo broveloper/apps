@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 5,
+  "verses": 23,
   "content": [
     {
       "text": "My son, attend unto my wisdom, and bow thine ear to my understanding:",
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "For the ways of man are before the eyes of the , and he pondereth all his goings.",
+      "text": "For the ways of man are before the eyes of the Lord, and he pondereth all his goings.",
       "verse": 21,
       "type": "newline"
     },

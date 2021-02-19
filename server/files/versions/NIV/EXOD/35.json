@@ -2,18 +2,19 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 35,
+  "verses": 35,
   "content": [
     {
       "text": "Sabbath Regulations",
       "type": "heading"
     },
     {
-      "text": "Moses assembled the whole Israelite community and said to them, “These are the things the  has commanded you to do:",
+      "text": "Moses assembled the whole Israelite community and said to them, “These are the things the Lord has commanded you to do:",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "For six days, work is to be done, but the seventh day shall be your holy day, a day of sabbath rest to the . Whoever does any work on it is to be put to death.",
+      "text": "For six days, work is to be done, but the seventh day shall be your holy day, a day of sabbath rest to the Lord. Whoever does any work on it is to be put to death.",
       "verse": 2
     },
     {
@@ -25,12 +26,12 @@
       "type": "heading"
     },
     {
-      "text": "Moses said to the whole Israelite community, “This is what the  has commanded:",
+      "text": "Moses said to the whole Israelite community, “This is what the Lord has commanded:",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "From what you have, take an offering for the . Everyone who is willing is to bring to the  an offering of gold, silver and bronze;",
+      "text": "From what you have, take an offering for the Lord. Everyone who is willing is to bring to the Lord an offering of gold, silver and bronze;",
       "verse": 5
     },
     {
@@ -50,7 +51,7 @@
       "verse": 9
     },
     {
-      "text": "“All who are skilled among you are to come and make everything the  has commanded:",
+      "text": "“All who are skilled among you are to come and make everything the Lord has commanded:",
       "verse": 10,
       "type": "newline"
     },
@@ -96,11 +97,11 @@
       "type": "newline"
     },
     {
-      "text": "and everyone who was willing and whose heart moved them came and brought an offering to the  for the work on the tent of meeting, for all its service, and for the sacred garments.",
+      "text": "and everyone who was willing and whose heart moved them came and brought an offering to the Lord for the work on the tent of meeting, for all its service, and for the sacred garments.",
       "verse": 21
     },
     {
-      "text": "All who were willing, men and women alike, came and brought gold jewelry of all kinds: brooches, earrings, rings and ornaments. They all presented their gold as a wave offering to the .",
+      "text": "All who were willing, men and women alike, came and brought gold jewelry of all kinds: brooches, earrings, rings and ornaments. They all presented their gold as a wave offering to the Lord.",
       "verse": 22
     },
     {
@@ -108,7 +109,7 @@
       "verse": 23
     },
     {
-      "text": "Those presenting an offering of silver or bronze brought it as an offering to the , and everyone who had acacia wood for any part of the work brought it.",
+      "text": "Those presenting an offering of silver or bronze brought it as an offering to the Lord, and everyone who had acacia wood for any part of the work brought it.",
       "verse": 24
     },
     {
@@ -128,7 +129,7 @@
       "verse": 28
     },
     {
-      "text": "All the Israelite men and women who were willing brought to the  freewill offerings for all the work the  through Moses had commanded them to do.",
+      "text": "All the Israelite men and women who were willing brought to the Lord freewill offerings for all the work the Lord through Moses had commanded them to do.",
       "verse": 29
     },
     {
@@ -136,7 +137,7 @@
       "type": "heading"
     },
     {
-      "text": "Then Moses said to the Israelites, “See, the  has chosen Bezalel son of Uri, the son of Hur, of the tribe of Judah,",
+      "text": "Then Moses said to the Israelites, “See, the Lord has chosen Bezalel son of Uri, the son of Hur, of the tribe of Judah,",
       "verse": 30,
       "type": "newline"
     },

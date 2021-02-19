@@ -2,9 +2,10 @@
   "book_id": "2CHR",
   "book_name": "2 Chronicles",
   "chapter": 5,
+  "verses": 14,
   "content": [
     {
-      "text": "Thus all the work that Solomon did for the house of the  was finished. And Solomon brought in the things that David his father had dedicated, and stored the silver, the gold, and all the vessels in the treasuries of the house of God.",
+      "text": "Thus all the work that Solomon did for the house of the Lord was finished. And Solomon brought in the things that David his father had dedicated, and stored the silver, the gold, and all the vessels in the treasuries of the house of God.",
       "verse": 1
     },
     {
@@ -12,7 +13,7 @@
       "type": "heading"
     },
     {
-      "text": "Then Solomon assembled the elders of Israel and all the heads of the tribes, the leaders of the fathers' houses of the people of Israel, in Jerusalem, to bring up the ark of the covenant of the  out of the city of David, which is Zion.",
+      "text": "Then Solomon assembled the elders of Israel and all the heads of the tribes, the leaders of the fathers' houses of the people of Israel, in Jerusalem, to bring up the ark of the covenant of the Lord out of the city of David, which is Zion.",
       "verse": 2,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "verse": 6
     },
     {
-      "text": "Then the priests brought the ark of the covenant of the  to its place, in the inner sanctuary of the house, in the Most Holy Place, underneath the wings of the cherubim.",
+      "text": "Then the priests brought the ark of the covenant of the Lord to its place, in the inner sanctuary of the house, in the Most Holy Place, underneath the wings of the cherubim.",
       "verse": 7
     },
     {
@@ -45,7 +46,7 @@
       "verse": 9
     },
     {
-      "text": "There was nothing in the ark except the two tablets that Moses put there at Horeb, where the  made a covenant with the people of Israel, when they came out of Egypt.",
+      "text": "There was nothing in the ark except the two tablets that Moses put there at Horeb, where the Lord made a covenant with the people of Israel, when they came out of Egypt.",
       "verse": 10
     },
     {
@@ -57,7 +58,7 @@
       "verse": 12
     },
     {
-      "text": "and it was the duty of the trumpeters and singers to make themselves heard in unison in praise and thanksgiving to the ), and when the song was raised, with trumpets and cymbals and other musical instruments, in praise to the ,",
+      "text": "and it was the duty of the trumpeters and singers to make themselves heard in unison in praise and thanksgiving to the Lord), and when the song was raised, with trumpets and cymbals and other musical instruments, in praise to the Lord,",
       "verse": 13
     },
     {
@@ -71,12 +72,12 @@
       "type": "poetry"
     },
     {
-      "text": "the house, the house of the , was filled with a cloud,",
+      "text": "the house, the house of the Lord, was filled with a cloud,",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "so that the priests could not stand to minister because of the cloud, for the glory of the  filled the house of God.",
+      "text": "so that the priests could not stand to minister because of the cloud, for the glory of the Lord filled the house of God.",
       "verse": 14
     }
   ]

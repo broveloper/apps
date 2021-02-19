@@ -2,6 +2,7 @@
   "book_id": "ZECH",
   "book_name": "Zechariah",
   "chapter": 4,
+  "verses": 14,
   "content": [
     {
       "text": "A Vision of a Golden Lampstand",
@@ -29,7 +30,7 @@
       "verse": 5
     },
     {
-      "text": "Then he said to me, “This is the word of the  to Zerubbabel: Not by might, nor by power, but by my Spirit, says the  of hosts.",
+      "text": "Then he said to me, “This is the word of the Lord to Zerubbabel: Not by might, nor by power, but by my Spirit, says the Lord of hosts.",
       "verse": 6
     },
     {
@@ -37,12 +38,12 @@
       "verse": 7
     },
     {
-      "text": "Then the word of the  came to me, saying,",
+      "text": "Then the word of the Lord came to me, saying,",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "“The hands of Zerubbabel have laid the foundation of this house; his hands shall also complete it. Then you will know that the  of hosts has sent me to you.",
+      "text": "“The hands of Zerubbabel have laid the foundation of this house; his hands shall also complete it. Then you will know that the Lord of hosts has sent me to you.",
       "verse": 9
     },
     {
@@ -50,7 +51,7 @@
       "verse": 10
     },
     {
-      "text": "“These seven are the eyes of the , which range through the whole earth.”",
+      "text": "“These seven are the eyes of the Lord, which range through the whole earth.”",
       "verse": 10,
       "type": "newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 13,
+  "verses": 6,
   "content": [
     {
       "text": "Psalm 13",
@@ -9,11 +10,10 @@
     },
     {
       "text": "For the director of music. A psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "How long, ? Will you forget me forever?",
+      "text": "How long, Lord? Will you forget me forever?",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -38,7 +38,7 @@
       "type": "poetry"
     },
     {
-      "text": "Look on me and answer,  my God.",
+      "text": "Look on me and answer, Lord my God.",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -68,7 +68,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will sing the ’s praise,",
+      "text": "I will sing the Lord’s praise,",
       "verse": 6,
       "type": "poetry"
     },

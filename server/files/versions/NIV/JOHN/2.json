@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 2,
+  "verses": 25,
   "content": [
     {
       "text": "Jesus Changes Water Into Wine",
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "Jesus replied.",
+      "text": "“Woman, why do you involve me?” Jesus replied. “My hour has not yet come.”",
       "verse": 4,
       "type": "newline"
     },
@@ -36,12 +37,12 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said to the servants, ; so they filled them to the brim.",
+      "text": "Jesus said to the servants, “Fill the jars with water”; so they filled them to the brim.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "Then he told them,",
+      "text": "Then he told them, “Now draw some out and take it to the master of the banquet.”",
       "verse": 8,
       "type": "newline"
     },
@@ -86,7 +87,7 @@
       "verse": 15
     },
     {
-      "text": "To those who sold doves he said,",
+      "text": "To those who sold doves he said, “Get these out of here! Stop turning my Father’s house into a market!”",
       "verse": 16
     },
     {
@@ -99,7 +100,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus answered them,",
+      "text": "Jesus answered them, “Destroy this temple, and I will raise it again in three days.”",
       "verse": 19,
       "type": "newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 16,
+  "verses": 22,
   "content": [
     {
       "text": "Job Replies: Miserable Comforters Are You",
@@ -158,7 +159,7 @@
       "type": "poetry"
     },
     {
-      "text": "his archers surround me.",
+      "text": "    his archers surround me.",
       "verse": 13,
       "type": "poetry"
     },

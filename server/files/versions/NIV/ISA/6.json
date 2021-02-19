@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 6,
+  "verses": 13,
   "content": [
     {
       "text": "Isaiah’s Commission",
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "“Holy, holy, holy is the  Almighty;",
+      "text": "“Holy, holy, holy is the Lord Almighty;",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -36,7 +37,7 @@
       "type": "newline"
     },
     {
-      "text": "“Woe to me!” I cried. “I am ruined! For I am a man of unclean lips, and I live among a people of unclean lips, and my eyes have seen the King, the  Almighty.”",
+      "text": "“Woe to me!” I cried. “I am ruined! For I am a man of unclean lips, and I live among a people of unclean lips, and my eyes have seen the King, the Lord Almighty.”",
       "verse": 5,
       "type": "newline"
     },
@@ -140,7 +141,7 @@
       "type": "poetry"
     },
     {
-      "text": "until the  has sent everyone far away",
+      "text": "until the Lord has sent everyone far away",
       "verse": 12,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 141,
+  "verses": 10,
   "content": [
     {
       "text": "Psalm 141",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "I call to you, , come quickly to me;",
+      "text": "I call to you, Lord, come quickly to me;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "Set a guard over my mouth, ;",
+      "text": "Set a guard over my mouth, Lord;",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -103,7 +103,7 @@
       "type": "poetry"
     },
     {
-      "text": "But my eyes are fixed on you, Sovereign ;",
+      "text": "But my eyes are fixed on you, Sovereign Lord;",
       "verse": 8,
       "type": "poetry newline"
     },

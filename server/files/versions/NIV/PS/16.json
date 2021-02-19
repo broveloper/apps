@@ -2,15 +2,15 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 16,
+  "verses": 11,
   "content": [
     {
       "text": "Psalm 16",
       "type": "heading"
     },
     {
-      "text": "A  of David.",
-      "verse": 1,
-      "type": "newline"
+      "text": "A miktam of David.",
+      "type": "title"
     },
     {
       "text": "Keep me safe, my God,",
@@ -23,7 +23,7 @@
       "type": "poetry"
     },
     {
-      "text": "I say to the , “You are my Lord;",
+      "text": "I say to the Lord, “You are my Lord;",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -58,7 +58,7 @@
       "type": "poetry"
     },
     {
-      "text": ", you alone are my portion and my cup;",
+      "text": "Lord, you alone are my portion and my cup;",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -78,7 +78,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will praise the , who counsels me;",
+      "text": "I will praise the Lord, who counsels me;",
       "verse": 7,
       "type": "poetry"
     },
@@ -88,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "I keep my eyes always on the .",
+      "text": "I keep my eyes always on the Lord.",
       "verse": 8,
       "type": "poetry"
     },

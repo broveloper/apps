@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 149,
+  "verses": 9,
   "content": [
     {
-      "text": "Praise ye the . Sing unto the  a new song, and his praise in the congregation of saints.",
+      "text": "Praise ye the Lord. Sing unto the Lord a new song, and his praise in the congregation of saints.",
       "verse": 1
     },
     {
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "For the  taketh pleasure in his people: he will beautify the meek with salvation.",
+      "text": "For the Lord taketh pleasure in his people: he will beautify the meek with salvation.",
       "verse": 4,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "To execute upon them the judgment written: this honour have all his saints. Praise ye the .",
+      "text": "To execute upon them the judgment written: this honour have all his saints. Praise ye the Lord.",
       "verse": 9,
       "type": "newline"
     }

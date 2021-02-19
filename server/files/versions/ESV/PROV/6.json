@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 6,
+  "verses": 35,
   "content": [
     {
       "text": "Practical Warnings",
@@ -163,7 +164,7 @@
       "type": "poetry"
     },
     {
-      "text": "There are six things that the  hates,",
+      "text": "There are six things that the Lord hates,",
       "verse": 16,
       "type": "poetry newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 56,
+  "verses": 13,
   "content": [
     {
       "text": "In God I Trust",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster: according to The Dove on Far-off Terebinths. A Miktam of David, when the Philistines seized him in Gath.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Be gracious to me, O God, for man tramples on me;",
@@ -128,7 +128,7 @@
       "type": "poetry"
     },
     {
-      "text": "in the , whose word I praise,",
+      "text": "in the Lord, whose word I praise,",
       "verse": 10,
       "type": "poetry"
     },

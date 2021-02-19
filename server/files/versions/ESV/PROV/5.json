@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 5,
+  "verses": 23,
   "content": [
     {
       "text": "Warning Against Adultery",
@@ -188,7 +189,7 @@
       "type": "poetry"
     },
     {
-      "text": "a lovely deer, a graceful doe.",
+      "text": "    a lovely deer, a graceful doe.",
       "verse": 19,
       "type": "poetry"
     },
@@ -213,7 +214,7 @@
       "type": "poetry"
     },
     {
-      "text": "For a man's ways are before the eyes of the ,",
+      "text": "For a man's ways are before the eyes of the Lord,",
       "verse": 21,
       "type": "poetry"
     },

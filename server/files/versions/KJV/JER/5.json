@@ -2,28 +2,29 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 5,
+  "verses": 31,
   "content": [
     {
       "text": "Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be any that executeth judgment, that seeketh the truth; and I will pardon it.",
       "verse": 1
     },
     {
-      "text": "And though they say, The  liveth; surely they swear falsely.",
+      "text": "And though they say, The Lord liveth; surely they swear falsely.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "O , are not thine eyes upon the truth? thou hast stricken them, but they have not grieved; thou hast consumed them, but they have refused to receive correction: they have made their faces harder than a rock; they have refused to return.",
+      "text": "O Lord, are not thine eyes upon the truth? thou hast stricken them, but they have not grieved; thou hast consumed them, but they have refused to receive correction: they have made their faces harder than a rock; they have refused to return.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "Therefore I said, Surely these are poor; they are foolish: for they know not the way of the , nor the judgment of their God.",
+      "text": "Therefore I said, Surely these are poor; they are foolish: for they know not the way of the Lord, nor the judgment of their God.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "I will get me unto the great men, and will speak unto them; for they have known the way of the , and the judgment of their God: but these have altogether broken the yoke, and burst the bonds.",
+      "text": "I will get me unto the great men, and will speak unto them; for they have known the way of the Lord, and the judgment of their God: but these have altogether broken the yoke, and burst the bonds.",
       "verse": 5,
       "type": "newline"
     },
@@ -43,22 +44,22 @@
       "type": "newline"
     },
     {
-      "text": "Shall I not visit for these things? saith the : and shall not my soul be avenged on such a nation as this?",
+      "text": "Shall I not visit for these things? saith the Lord: and shall not my soul be avenged on such a nation as this?",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "Go ye up upon her walls, and destroy; but make not a full end: take away her battlements; for they are not the 's.",
+      "text": "Go ye up upon her walls, and destroy; but make not a full end: take away her battlements; for they are not the Lord's.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "For the house of Israel and the house of Judah have dealt very treacherously against me, saith the .",
+      "text": "For the house of Israel and the house of Judah have dealt very treacherously against me, saith the Lord.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "They have belied the , and said, It is not he; neither shall evil come upon us; neither shall we see sword nor famine:",
+      "text": "They have belied the Lord, and said, It is not he; neither shall evil come upon us; neither shall we see sword nor famine:",
       "verse": 12,
       "type": "newline"
     },
@@ -68,12 +69,12 @@
       "type": "newline"
     },
     {
-      "text": "Wherefore thus saith the  God of hosts, Because ye speak this word, behold, I will make my words in thy mouth fire, and this people wood, and it shall devour them.",
+      "text": "Wherefore thus saith the Lord God of hosts, Because ye speak this word, behold, I will make my words in thy mouth fire, and this people wood, and it shall devour them.",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "Lo, I will bring a nation upon you from far, O house of Israel, saith the : it is a mighty nation, it is an ancient nation, a nation whose language thou knowest not, neither understandest what they say.",
+      "text": "Lo, I will bring a nation upon you from far, O house of Israel, saith the Lord: it is a mighty nation, it is an ancient nation, a nation whose language thou knowest not, neither understandest what they say.",
       "verse": 15,
       "type": "newline"
     },
@@ -88,12 +89,12 @@
       "type": "newline"
     },
     {
-      "text": "Nevertheless in those days, saith the , I will not make a full end with you.",
+      "text": "Nevertheless in those days, saith the Lord, I will not make a full end with you.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "And it shall come to pass, when ye shall say, Wherefore doeth the  our God all these things unto us? then shalt thou answer them, Like as ye have forsaken me, and served strange gods in your land, so shall ye serve strangers in a land that is not your's.",
+      "text": "And it shall come to pass, when ye shall say, Wherefore doeth the Lord our God all these things unto us? then shalt thou answer them, Like as ye have forsaken me, and served strange gods in your land, so shall ye serve strangers in a land that is not your's.",
       "verse": 19,
       "type": "newline"
     },
@@ -108,7 +109,7 @@
       "type": "newline"
     },
     {
-      "text": "Fear ye not me? saith the : will ye not tremble at my presence, which have placed the sand for the bound of the sea by a perpetual decree, that it cannot pass it: and though the waves thereof toss themselves, yet can they not prevail; though they roar, yet can they not pass over it?",
+      "text": "Fear ye not me? saith the Lord: will ye not tremble at my presence, which have placed the sand for the bound of the sea by a perpetual decree, that it cannot pass it: and though the waves thereof toss themselves, yet can they not prevail; though they roar, yet can they not pass over it?",
       "verse": 22,
       "type": "newline"
     },
@@ -118,7 +119,7 @@
       "type": "newline"
     },
     {
-      "text": "Neither say they in their heart, Let us now fear the  our God, that giveth rain, both the former and the latter, in his season: he reserveth unto us the appointed weeks of the harvest.",
+      "text": "Neither say they in their heart, Let us now fear the Lord our God, that giveth rain, both the former and the latter, in his season: he reserveth unto us the appointed weeks of the harvest.",
       "verse": 24,
       "type": "newline"
     },
@@ -143,7 +144,7 @@
       "type": "newline"
     },
     {
-      "text": "Shall I not visit for these things? saith the : shall not my soul be avenged on such a nation as this?",
+      "text": "Shall I not visit for these things? saith the Lord: shall not my soul be avenged on such a nation as this?",
       "verse": 29,
       "type": "newline"
     },

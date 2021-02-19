@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 139,
+  "verses": 24,
   "content": [
     {
       "text": "Psalm 139",
@@ -9,11 +10,10 @@
     },
     {
       "text": "For the director of music. Of David. A psalm.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "You have searched me, ,",
+      "text": "You have searched me, Lord,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -48,7 +48,7 @@
       "type": "poetry"
     },
     {
-      "text": "you, , know it completely.",
+      "text": "you, Lord, know it completely.",
       "verse": 4,
       "type": "poetry"
     },
@@ -238,7 +238,7 @@
       "type": "poetry"
     },
     {
-      "text": "Do I not hate those who hate you, ,",
+      "text": "Do I not hate those who hate you, Lord,",
       "verse": 21,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 63,
+  "verses": 11,
   "content": [
     {
       "text": "Psalm 63",
@@ -9,8 +10,7 @@
     },
     {
       "text": "A psalm of David. When he was in the Desert of Judah.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "You, God, are my God,",

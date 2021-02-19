@@ -2,6 +2,7 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 17,
+  "verses": 29,
   "content": [
     {
       "text": "Moreover Ahithophel said unto Absalom, Let me now choose out twelve thousand men, and I will arise and pursue after David this night:",
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "And Absalom and all the men of Israel said, The counsel of Hushai the Archite is better than the counsel of Ahithophel. For the  had appointed to defeat the good counsel of Ahithophel, to the intent that the  might bring evil upon Absalom.",
+      "text": "And Absalom and all the men of Israel said, The counsel of Hushai the Archite is better than the counsel of Ahithophel. For the Lord had appointed to defeat the good counsel of Ahithophel, to the intent that the Lord might bring evil upon Absalom.",
       "verse": 14,
       "type": "newline"
     },

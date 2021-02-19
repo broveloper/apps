@@ -2,6 +2,7 @@
   "book_id": "ZECH",
   "book_name": "Zechariah",
   "chapter": 9,
+  "verses": 17,
   "content": [
     {
       "text": "Judgment on Israel’s Enemies",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "The word of the  is against the land of Hadrak",
+      "text": "The word of the Lord is against the land of Hadrak",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -28,7 +29,7 @@
       "type": "poetry"
     },
     {
-      "text": "are on the —",
+      "text": "are on the Lord—",
       "verse": 1,
       "type": "poetry"
     },
@@ -262,11 +263,11 @@
       "type": "poetry"
     },
     {
-      "text": "The  Will Appear",
+      "text": "The Lord Will Appear",
       "type": "heading"
     },
     {
-      "text": "Then the  will appear over them;",
+      "text": "Then the Lord will appear over them;",
       "verse": 14,
       "type": "poetry newline"
     },
@@ -276,7 +277,7 @@
       "type": "poetry"
     },
     {
-      "text": "The Sovereign  will sound the trumpet;",
+      "text": "The Sovereign Lord will sound the trumpet;",
       "verse": 14,
       "type": "poetry"
     },
@@ -286,7 +287,7 @@
       "type": "poetry"
     },
     {
-      "text": "and the  Almighty will shield them.",
+      "text": "    and the Lord Almighty will shield them.",
       "verse": 15,
       "type": "poetry"
     },
@@ -316,7 +317,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  their God will save his people on that day",
+      "text": "The Lord their God will save his people on that day",
       "verse": 16,
       "type": "poetry"
     },

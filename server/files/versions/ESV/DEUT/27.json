@@ -2,6 +2,7 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 27,
+  "verses": 26,
   "content": [
     {
       "text": "The Altar on Mount Ebal",
@@ -13,11 +14,11 @@
       "type": "newline"
     },
     {
-      "text": "And on the day you cross over the Jordan to the land that the  your God is giving you, you shall set up large stones and plaster them with plaster.",
+      "text": "And on the day you cross over the Jordan to the land that the Lord your God is giving you, you shall set up large stones and plaster them with plaster.",
       "verse": 2
     },
     {
-      "text": "And you shall write on them all the words of this law, when you cross over to enter the land that the  your God is giving you, a land flowing with milk and honey, as the , the God of your fathers, has promised you.",
+      "text": "And you shall write on them all the words of this law, when you cross over to enter the land that the Lord your God is giving you, a land flowing with milk and honey, as the Lord, the God of your fathers, has promised you.",
       "verse": 3
     },
     {
@@ -25,15 +26,15 @@
       "verse": 4
     },
     {
-      "text": "And there you shall build an altar to the  your God, an altar of stones. You shall wield no iron tool on them;",
+      "text": "And there you shall build an altar to the Lord your God, an altar of stones. You shall wield no iron tool on them;",
       "verse": 5
     },
     {
-      "text": "you shall build an altar to the  your God of uncut stones. And you shall offer burnt offerings on it to the  your God,",
+      "text": "you shall build an altar to the Lord your God of uncut stones. And you shall offer burnt offerings on it to the Lord your God,",
       "verse": 6
     },
     {
-      "text": "and you shall sacrifice peace offerings and shall eat there, and you shall rejoice before the  your God.",
+      "text": "and you shall sacrifice peace offerings and shall eat there, and you shall rejoice before the Lord your God.",
       "verse": 7
     },
     {
@@ -45,12 +46,12 @@
       "type": "heading"
     },
     {
-      "text": "Then Moses and the Levitical priests said to all Israel, “Keep silence and hear, O Israel: this day you have become the people of the  your God.",
+      "text": "Then Moses and the Levitical priests said to all Israel, “Keep silence and hear, O Israel: this day you have become the people of the Lord your God.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "You shall therefore obey the voice of the  your God, keeping his commandments and his statutes, which I command you today.”",
+      "text": "You shall therefore obey the voice of the Lord your God, keeping his commandments and his statutes, which I command you today.”",
       "verse": 10
     },
     {
@@ -71,7 +72,7 @@
       "verse": 14
     },
     {
-      "text": "“‘Cursed be the man who makes a carved or cast metal image, an abomination to the , a thing made by the hands of a craftsman, and sets it up in secret.’ And all the people shall answer and say, ‘Amen.’",
+      "text": "“‘Cursed be the man who makes a carved or cast metal image, an abomination to the Lord, a thing made by the hands of a craftsman, and sets it up in secret.’ And all the people shall answer and say, ‘Amen.’",
       "verse": 15,
       "type": "newline"
     },

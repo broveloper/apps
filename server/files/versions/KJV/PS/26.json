@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 26,
+  "verses": 12,
   "content": [
     {
-      "text": "Judge me, O ; for I have walked in mine integrity: I have trusted also in the ; therefore I shall not slide.",
+      "text": "Judge me, O Lord; for I have walked in mine integrity: I have trusted also in the Lord; therefore I shall not slide.",
       "verse": 1
     },
     {
-      "text": "Examine me, O , and prove me; try my reins and my heart.",
+      "text": "Examine me, O Lord, and prove me; try my reins and my heart.",
       "verse": 2,
       "type": "newline"
     },
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "I will wash mine hands in innocency: so will I compass thine altar, O :",
+      "text": "I will wash mine hands in innocency: so will I compass thine altar, O Lord:",
       "verse": 6,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": ", I have loved the habitation of thy house, and the place where thine honour dwelleth.",
+      "text": "Lord, I have loved the habitation of thy house, and the place where thine honour dwelleth.",
       "verse": 8,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "My foot standeth in an even place: in the congregations will I bless the .",
+      "text": "My foot standeth in an even place: in the congregations will I bless the Lord.",
       "verse": 12,
       "type": "newline"
     }

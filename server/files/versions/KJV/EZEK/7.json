@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 7,
+  "verses": 27,
   "content": [
     {
-      "text": "Moreover the word of the  came unto me, saying,",
+      "text": "Moreover the word of the Lord came unto me, saying,",
       "verse": 1
     },
     {
-      "text": "Also, thou son of man, thus saith the Lord  unto the land of Israel; An end, the end is come upon the four corners of the land.",
+      "text": "Also, thou son of man, thus saith the Lord God unto the land of Israel; An end, the end is come upon the four corners of the land.",
       "verse": 2,
       "type": "newline"
     },
@@ -18,12 +19,12 @@
       "type": "newline"
     },
     {
-      "text": "And mine eye shall not spare thee, neither will I have pity: but I will recompense thy ways upon thee, and thine abominations shall be in the midst of thee: and ye shall know that I am the .",
+      "text": "And mine eye shall not spare thee, neither will I have pity: but I will recompense thy ways upon thee, and thine abominations shall be in the midst of thee: and ye shall know that I am the Lord.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "Thus saith the Lord ; An evil, an only evil, behold, is come.",
+      "text": "Thus saith the Lord God; An evil, an only evil, behold, is come.",
       "verse": 5,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "And mine eye shall not spare, neither will I have pity: I will recompense thee according to thy ways and thine abominations that are in the midst of thee; and ye shall know that I am the  that smiteth.",
+      "text": "And mine eye shall not spare, neither will I have pity: I will recompense thee according to thy ways and thine abominations that are in the midst of thee; and ye shall know that I am the Lord that smiteth.",
       "verse": 9,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "They shall cast their silver in the streets, and their gold shall be removed: their silver and their gold shall not be able to deliver them in the day of the wrath of the : they shall not satisfy their souls, neither fill their bowels: because it is the stumblingblock of their iniquity.",
+      "text": "They shall cast their silver in the streets, and their gold shall be removed: their silver and their gold shall not be able to deliver them in the day of the wrath of the Lord: they shall not satisfy their souls, neither fill their bowels: because it is the stumblingblock of their iniquity.",
       "verse": 19,
       "type": "newline"
     },
@@ -133,7 +134,7 @@
       "type": "newline"
     },
     {
-      "text": "The king shall mourn, and the prince shall be clothed with desolation, and the hands of the people of the land shall be troubled: I will do unto them after their way, and according to their deserts will I judge them; and they shall know that I am the .",
+      "text": "The king shall mourn, and the prince shall be clothed with desolation, and the hands of the people of the land shall be troubled: I will do unto them after their way, and according to their deserts will I judge them; and they shall know that I am the Lord.",
       "verse": 27,
       "type": "newline"
     }

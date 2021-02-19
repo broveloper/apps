@@ -2,13 +2,14 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 11,
+  "verses": 47,
   "content": [
     {
       "text": "Clean and Unclean Food",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses and Aaron,",
+      "text": "The Lord said to Moses and Aaron,",
       "verse": 1,
       "type": "newline"
     },
@@ -190,11 +191,11 @@
       "verse": 43
     },
     {
-      "text": "I am the  your God; consecrate yourselves and be holy, because I am holy. Do not make yourselves unclean by any creature that moves along the ground.",
+      "text": "I am the Lord your God; consecrate yourselves and be holy, because I am holy. Do not make yourselves unclean by any creature that moves along the ground.",
       "verse": 44
     },
     {
-      "text": "I am the , who brought you up out of Egypt to be your God; therefore be holy, because I am holy.",
+      "text": "I am the Lord, who brought you up out of Egypt to be your God; therefore be holy, because I am holy.",
       "verse": 45
     },
     {

@@ -2,6 +2,7 @@
   "book_id": "1CHR",
   "book_name": "1 Chronicles",
   "chapter": 1,
+  "verses": 54,
   "content": [
     {
       "text": "Historical Records From Adam to Abraham",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To Noah’s Sons",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Adam, Seth, Enosh,",
@@ -36,8 +36,7 @@
     },
     {
       "text": "The Japhethites",
-      "verse": 5,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "The sons of Japheth:",
@@ -66,8 +65,7 @@
     },
     {
       "text": "The Hamites",
-      "verse": 8,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "The sons of Ham:",
@@ -136,8 +134,7 @@
     },
     {
       "text": "The Semites",
-      "verse": 17,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "The sons of Shem:",
@@ -224,8 +221,7 @@
     },
     {
       "text": "Descendants of Hagar",
-      "verse": 29,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "These were their descendants:",
@@ -246,8 +242,7 @@
     },
     {
       "text": "Descendants of Keturah",
-      "verse": 32,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "The sons born to Keturah, Abraham’s concubine:",
@@ -280,8 +275,7 @@
     },
     {
       "text": "Descendants of Sarah",
-      "verse": 34,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Abraham was the father of Isaac.",
@@ -331,8 +325,7 @@
     },
     {
       "text": "The People of Seir in Edom",
-      "verse": 38,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "The sons of Seir:",
@@ -401,8 +394,7 @@
     },
     {
       "text": "The Rulers of Edom",
-      "verse": 43,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "These were the kings who reigned in Edom before any Israelite king reigned:",

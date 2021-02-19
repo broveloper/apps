@@ -2,6 +2,7 @@
   "book_id": "MARK",
   "book_name": "Mark",
   "chapter": 4,
+  "verses": 41,
   "content": [
     {
       "text": "The Parable of the Sower",
@@ -17,31 +18,31 @@
       "verse": 2
     },
     {
-      "text": "",
+      "text": "“Listen! A farmer went out to sow his seed.",
       "verse": 3
     },
     {
-      "text": "",
+      "text": "As he was scattering the seed, some fell along the path, and the birds came and ate it up.",
       "verse": 4
     },
     {
-      "text": "",
+      "text": "Some fell on rocky places, where it did not have much soil. It sprang up quickly, because the soil was shallow.",
       "verse": 5
     },
     {
-      "text": "",
+      "text": "But when the sun came up, the plants were scorched, and they withered because they had no root.",
       "verse": 6
     },
     {
-      "text": "",
+      "text": "Other seed fell among thorns, which grew up and choked the plants, so that they did not bear grain.",
       "verse": 7
     },
     {
-      "text": "",
+      "text": "Still other seed fell on good soil. It came up, grew and produced a crop, some multiplying thirty, some sixty, some a hundred times.”",
       "verse": 8
     },
     {
-      "text": "Then Jesus said,",
+      "text": "Then Jesus said, “Whoever has ears to hear, let them hear.”",
       "verse": 9,
       "type": "newline"
     },
@@ -51,59 +52,59 @@
       "type": "newline"
     },
     {
-      "text": "He told them,",
+      "text": "He told them, “The secret of the kingdom of God has been given to you. But to those on the outside everything is said in parables",
       "verse": 11
     },
     {
-      "text": "",
+      "text": "so that,",
       "verse": 12
     },
     {
-      "text": "",
+      "text": "“‘they may be ever seeing but never perceiving,",
       "verse": 12,
       "type": "poetry newline"
     },
     {
-      "text": "",
+      "text": "and ever hearing but never understanding;",
       "verse": 12,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "otherwise they might turn and be forgiven!’”",
       "verse": 12,
       "type": "poetry"
     },
     {
-      "text": "Then Jesus said to them,",
+      "text": "Then Jesus said to them, “Don’t you understand this parable? How then will you understand any parable?",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "The farmer sows the word.",
       "verse": 14
     },
     {
-      "text": "",
+      "text": "Some people are like seed along the path, where the word is sown. As soon as they hear it, Satan comes and takes away the word that was sown in them.",
       "verse": 15
     },
     {
-      "text": "",
+      "text": "Others, like seed sown on rocky places, hear the word and at once receive it with joy.",
       "verse": 16
     },
     {
-      "text": "",
+      "text": "But since they have no root, they last only a short time. When trouble or persecution comes because of the word, they quickly fall away.",
       "verse": 17
     },
     {
-      "text": "",
+      "text": "Still others, like seed sown among thorns, hear the word;",
       "verse": 18
     },
     {
-      "text": "",
+      "text": "but the worries of this life, the deceitfulness of wealth and the desires for other things come in and choke the word, making it unfruitful.",
       "verse": 19
     },
     {
-      "text": "",
+      "text": "Others, like seed sown on good soil, hear the word, accept it, and produce a crop—some thirty, some sixty, some a hundred times what was sown.”",
       "verse": 20
     },
     {
@@ -111,25 +112,25 @@
       "type": "heading"
     },
     {
-      "text": "He said to them,",
+      "text": "He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Instead, don’t you put it on its stand?",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "For whatever is hidden is meant to be disclosed, and whatever is concealed is meant to be brought out into the open.",
       "verse": 22
     },
     {
-      "text": "",
+      "text": "If anyone has ears to hear, let them hear.”",
       "verse": 23
     },
     {
-      "text": "he continued.",
+      "text": "“Consider carefully what you hear,” he continued. “With the measure you use, it will be measured to you—and even more.",
       "verse": 24,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Whoever has will be given more; whoever does not have, even what they have will be taken from them.”",
       "verse": 25
     },
     {
@@ -137,20 +138,20 @@
       "type": "heading"
     },
     {
-      "text": "He also said,",
+      "text": "He also said, “This is what the kingdom of God is like. A man scatters seed on the ground.",
       "verse": 26,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Night and day, whether he sleeps or gets up, the seed sprouts and grows, though he does not know how.",
       "verse": 27
     },
     {
-      "text": "",
+      "text": "All by itself the soil produces grain—first the stalk, then the head, then the full kernel in the head.",
       "verse": 28
     },
     {
-      "text": "",
+      "text": "As soon as the grain is ripe, he puts the sickle to it, because the harvest has come.”",
       "verse": 29
     },
     {
@@ -158,16 +159,16 @@
       "type": "heading"
     },
     {
-      "text": "Again he said,",
+      "text": "Again he said, “What shall we say the kingdom of God is like, or what parable shall we use to describe it?",
       "verse": 30,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "It is like a mustard seed, which is the smallest of all seeds on earth.",
       "verse": 31
     },
     {
-      "text": "",
+      "text": "Yet when planted, it grows and becomes the largest of all garden plants, with such big branches that the birds can perch in its shade.”",
       "verse": 32
     },
     {
@@ -184,7 +185,7 @@
       "type": "heading"
     },
     {
-      "text": "That day when evening came, he said to his disciples,",
+      "text": "That day when evening came, he said to his disciples, “Let us go over to the other side.”",
       "verse": 35,
       "type": "newline"
     },
@@ -201,12 +202,12 @@
       "verse": 38
     },
     {
-      "text": "He got up, rebuked the wind and said to the waves,  Then the wind died down and it was completely calm.",
+      "text": "He got up, rebuked the wind and said to the waves, “Quiet! Be still!” Then the wind died down and it was completely calm.",
       "verse": 39,
       "type": "newline"
     },
     {
-      "text": "He said to his disciples,",
+      "text": "He said to his disciples, “Why are you so afraid? Do you still have no faith?”",
       "verse": 40,
       "type": "newline"
     },

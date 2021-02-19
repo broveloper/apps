@@ -2,9 +2,10 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 12,
+  "verses": 25,
   "content": [
     {
-      "text": "Job Replies: The  Has Done This",
+      "text": "Job Replies: The Lord Has Done This",
       "type": "heading"
     },
     {
@@ -103,7 +104,7 @@
       "type": "poetry"
     },
     {
-      "text": "that the hand of the  has done this?",
+      "text": "that the hand of the Lord has done this?",
       "verse": 9,
       "type": "poetry"
     },

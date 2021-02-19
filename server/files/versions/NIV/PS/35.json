@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 35,
+  "verses": 28,
   "content": [
     {
       "text": "Psalm 35",
@@ -9,11 +10,10 @@
     },
     {
       "text": "Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Contend, , with those who contend with me;",
+      "text": "Contend, Lord, with those who contend with me;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -78,7 +78,7 @@
       "type": "poetry"
     },
     {
-      "text": "with the angel of the  driving them away;",
+      "text": "with the angel of the Lord driving them away;",
       "verse": 5,
       "type": "poetry"
     },
@@ -88,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "with the angel of the  pursuing them.",
+      "text": "with the angel of the Lord pursuing them.",
       "verse": 6,
       "type": "poetry"
     },
@@ -118,7 +118,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then my soul will rejoice in the",
+      "text": "Then my soul will rejoice in the Lord",
       "verse": 9,
       "type": "poetry"
     },
@@ -133,7 +133,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Who is like you, ?",
+      "text": "“Who is like you, Lord?",
       "verse": 10,
       "type": "poetry"
     },
@@ -183,7 +183,7 @@
       "type": "poetry"
     },
     {
-      "text": "I went about mourning",
+      "text": "    I went about mourning",
       "verse": 14,
       "type": "poetry"
     },
@@ -298,7 +298,7 @@
       "type": "poetry"
     },
     {
-      "text": ", you have seen this; do not be silent.",
+      "text": "Lord, you have seen this; do not be silent.",
       "verse": 22,
       "type": "poetry newline"
     },
@@ -318,7 +318,7 @@
       "type": "poetry"
     },
     {
-      "text": "Vindicate me in your righteousness,  my God;",
+      "text": "Vindicate me in your righteousness, Lord my God;",
       "verse": 24,
       "type": "poetry"
     },
@@ -368,7 +368,7 @@
       "type": "poetry"
     },
     {
-      "text": "may they always say, “The  be exalted,",
+      "text": "may they always say, “The Lord be exalted,",
       "verse": 27,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 38,
+  "verses": 22,
   "content": [
     {
       "text": "Psalm 38",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A psalm of David. A petition.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": ", do not rebuke me in your anger",
+      "text": "Lord, do not rebuke me in your anger",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -158,7 +158,7 @@
       "type": "poetry"
     },
     {
-      "text": ", I wait for you;",
+      "text": "Lord, I wait for you;",
       "verse": 15,
       "type": "poetry"
     },
@@ -223,7 +223,7 @@
       "type": "poetry"
     },
     {
-      "text": ", do not forsake me;",
+      "text": "Lord, do not forsake me;",
       "verse": 21,
       "type": "poetry newline"
     },

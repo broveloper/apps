@@ -2,9 +2,10 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 11,
+  "verses": 31,
   "content": [
     {
-      "text": "A false balance is abomination to the : but a just weight is his delight.",
+      "text": "A false balance is abomination to the Lord: but a just weight is his delight.",
       "verse": 1
     },
     {
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "They that are of a froward heart are abomination to the : but such as are upright in their way are his delight.",
+      "text": "They that are of a froward heart are abomination to the Lord: but such as are upright in their way are his delight.",
       "verse": 20,
       "type": "newline"
     },

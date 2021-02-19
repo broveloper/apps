@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 67,
+  "verses": 7,
   "content": [
     {
       "text": "Psalm 67",
@@ -9,8 +10,7 @@
     },
     {
       "text": "For the director of music. With stringed instruments. A psalm. A song.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "May God be gracious to us and bless us",

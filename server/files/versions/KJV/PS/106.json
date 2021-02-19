@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 106,
+  "verses": 48,
   "content": [
     {
-      "text": "Praise ye the . O give thanks unto the ; for he is good: for his mercy endureth for ever.",
+      "text": "Praise ye the Lord. O give thanks unto the Lord; for he is good: for his mercy endureth for ever.",
       "verse": 1
     },
     {
-      "text": "Who can utter the mighty acts of the ? who can shew forth all his praise?",
+      "text": "Who can utter the mighty acts of the Lord? who can shew forth all his praise?",
       "verse": 2,
       "type": "newline"
     },
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "Remember me, O , with the favour that thou bearest unto thy people: O visit me with thy salvation;",
+      "text": "Remember me, O Lord, with the favour that thou bearest unto thy people: O visit me with thy salvation;",
       "verse": 4,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "They envied Moses also in the camp, and Aaron the saint of the .",
+      "text": "They envied Moses also in the camp, and Aaron the saint of the Lord.",
       "verse": 16,
       "type": "newline"
     },
@@ -123,7 +124,7 @@
       "type": "newline"
     },
     {
-      "text": "But murmured in their tents, and hearkened not unto the voice of the .",
+      "text": "But murmured in their tents, and hearkened not unto the voice of the Lord.",
       "verse": 25,
       "type": "newline"
     },
@@ -168,7 +169,7 @@
       "type": "newline"
     },
     {
-      "text": "They did not destroy the nations, concerning whom the  commanded them:",
+      "text": "They did not destroy the nations, concerning whom the Lord commanded them:",
       "verse": 34,
       "type": "newline"
     },
@@ -198,7 +199,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore was the wrath of the  kindled against his people, insomuch that he abhorred his own inheritance.",
+      "text": "Therefore was the wrath of the Lord kindled against his people, insomuch that he abhorred his own inheritance.",
       "verse": 40,
       "type": "newline"
     },
@@ -233,12 +234,12 @@
       "type": "newline"
     },
     {
-      "text": "Save us, O  our God, and gather us from among the heathen, to give thanks unto thy holy name, and to triumph in thy praise.",
+      "text": "Save us, O Lord our God, and gather us from among the heathen, to give thanks unto thy holy name, and to triumph in thy praise.",
       "verse": 47,
       "type": "newline"
     },
     {
-      "text": "Blessed be the  God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the .",
+      "text": "Blessed be the Lord God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the Lord.",
       "verse": 48,
       "type": "newline"
     }

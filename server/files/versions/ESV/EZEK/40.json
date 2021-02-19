@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 40,
+  "verses": 49,
   "content": [
     {
       "text": "Vision of the New Temple",
       "type": "heading"
     },
     {
-      "text": "In the twenty-fifth year of our exile, at the beginning of the year, on the tenth day of the month, in the fourteenth year after the city was struck down, on that very day, the hand of the  was upon me, and he brought me to the city.",
+      "text": "In the twenty-fifth year of our exile, at the beginning of the year, on the tenth day of the month, in the fourteenth year after the city was struck down, on that very day, the hand of the Lord was upon me, and he brought me to the city.",
       "verse": 1,
       "type": "newline"
     },
@@ -222,7 +223,7 @@
       "verse": 45
     },
     {
-      "text": "and the chamber that faces north is for the priests who have charge of the altar. These are the sons of Zadok, who alone among the sons of Levi may come near to the  to minister to him.”",
+      "text": "and the chamber that faces north is for the priests who have charge of the altar. These are the sons of Zadok, who alone among the sons of Levi may come near to the Lord to minister to him.”",
       "verse": 46
     },
     {

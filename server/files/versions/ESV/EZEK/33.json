@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 33,
+  "verses": 33,
   "content": [
     {
       "text": "Ezekiel Is Israel's Watchman",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -55,7 +56,7 @@
       "type": "newline"
     },
     {
-      "text": "Say to them, As I live, declares the Lord , I have no pleasure in the death of the wicked, but that the wicked turn from his way and live; turn back, turn back from your evil ways, for why will you die, O house of Israel?",
+      "text": "Say to them, As I live, declares the Lord God, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live; turn back, turn back from your evil ways, for why will you die, O house of Israel?",
       "verse": 11
     },
     {
@@ -106,11 +107,11 @@
       "type": "newline"
     },
     {
-      "text": "Now the hand of the  had been upon me the evening before the fugitive came; and he had opened my mouth by the time the man came to me in the morning, so my mouth was opened, and I was no longer mute.",
+      "text": "Now the hand of the Lord had been upon me the evening before the fugitive came; and he had opened my mouth by the time the man came to me in the morning, so my mouth was opened, and I was no longer mute.",
       "verse": 22
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 23,
       "type": "newline"
     },
@@ -119,7 +120,7 @@
       "verse": 24
     },
     {
-      "text": "Therefore say to them, Thus says the Lord : You eat flesh with the blood and lift up your eyes to your idols and shed blood; shall you then possess the land?",
+      "text": "Therefore say to them, Thus says the Lord God: You eat flesh with the blood and lift up your eyes to your idols and shed blood; shall you then possess the land?",
       "verse": 25
     },
     {
@@ -127,7 +128,7 @@
       "verse": 26
     },
     {
-      "text": "Say this to them, Thus says the Lord : As I live, surely those who are in the waste places shall fall by the sword, and whoever is in the open field I will give to the beasts to be devoured, and those who are in strongholds and in caves shall die by pestilence.",
+      "text": "Say this to them, Thus says the Lord God: As I live, surely those who are in the waste places shall fall by the sword, and whoever is in the open field I will give to the beasts to be devoured, and those who are in strongholds and in caves shall die by pestilence.",
       "verse": 27
     },
     {
@@ -135,11 +136,11 @@
       "verse": 28
     },
     {
-      "text": "Then they will know that I am the , when I have made the land a desolation and a waste because of all their abominations that they have committed.",
+      "text": "Then they will know that I am the Lord, when I have made the land a desolation and a waste because of all their abominations that they have committed.",
       "verse": 29
     },
     {
-      "text": "“As for you, son of man, your people who talk together about you by the walls and at the doors of the houses, say to one another, each to his brother, ‘Come, and hear what the word is that comes from the .’",
+      "text": "“As for you, son of man, your people who talk together about you by the walls and at the doors of the houses, say to one another, each to his brother, ‘Come, and hear what the word is that comes from the Lord.’",
       "verse": 30,
       "type": "newline"
     },

@@ -2,9 +2,10 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 11,
+  "verses": 12,
   "content": [
     {
-      "text": "The 's Love for Israel",
+      "text": "The Lord's Love for Israel",
       "type": "heading"
     },
     {
@@ -173,7 +174,7 @@
       "type": "poetry"
     },
     {
-      "text": "They shall go after the ;",
+      "text": "They shall go after the Lord;",
       "verse": 10,
       "type": "poetry newline"
     },
@@ -203,12 +204,12 @@
       "type": "poetry"
     },
     {
-      "text": "and I will return them to their homes, declares the .",
+      "text": "and I will return them to their homes, declares the Lord.",
       "verse": 11,
       "type": "poetry"
     },
     {
-      "text": "Ephraim has surrounded me with lies,",
+      "text": " Ephraim has surrounded me with lies,",
       "verse": 12,
       "type": "poetry"
     },

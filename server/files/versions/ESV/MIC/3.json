@@ -2,6 +2,7 @@
   "book_id": "MIC",
   "book_name": "Micah",
   "chapter": 3,
+  "verses": 12,
   "content": [
     {
       "text": "Rulers and Prophets Denounced",
@@ -28,7 +29,7 @@
       "type": "poetry"
     },
     {
-      "text": "you who hate the good and love the evil,",
+      "text": "    you who hate the good and love the evil,",
       "verse": 2,
       "type": "poetry"
     },
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then they will cry to the ,",
+      "text": "Then they will cry to the Lord,",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -88,7 +89,7 @@
       "type": "poetry"
     },
     {
-      "text": "Thus says the  concerning the prophets",
+      "text": "Thus says the Lord concerning the prophets",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -163,7 +164,7 @@
       "type": "poetry"
     },
     {
-      "text": "with the Spirit of the ,",
+      "text": "with the Spirit of the Lord,",
       "verse": 8,
       "type": "poetry"
     },
@@ -228,12 +229,12 @@
       "type": "poetry"
     },
     {
-      "text": "yet they lean on the  and say,",
+      "text": "yet they lean on the Lord and say,",
       "verse": 11,
       "type": "poetry"
     },
     {
-      "text": "“Is not the  in the midst of us?",
+      "text": "“Is not the Lord in the midst of us?",
       "verse": 11,
       "type": "poetry"
     },

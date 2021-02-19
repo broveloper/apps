@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 10,
+  "verses": 48,
   "content": [
     {
       "text": "Cornelius Calls for Peter",
@@ -69,7 +70,7 @@
       "verse": 12
     },
     {
-      "text": "Then a voice told him,",
+      "text": "Then a voice told him, “Get up, Peter. Kill and eat.”",
       "verse": 13
     },
     {
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "The voice spoke to him a second time,",
+      "text": "The voice spoke to him a second time, “Do not call anything impure that God has made clean.”",
       "verse": 15,
       "type": "newline"
     },

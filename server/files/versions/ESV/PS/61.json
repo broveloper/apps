@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 61,
+  "verses": 8,
   "content": [
     {
       "text": "Lead Me to the Rock",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster: with stringed instruments. Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Hear my cry, O God,",
@@ -58,7 +58,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "Let me take refuge under the shelter of your wings!",
+      "text": "Let me take refuge under the shelter of your wings! Selah",
       "verse": 4,
       "type": "poetry"
     },

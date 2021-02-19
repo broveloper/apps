@@ -2,13 +2,14 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 39,
+  "verses": 43,
   "content": [
     {
       "text": "Making the Priestly Garments",
       "type": "heading"
     },
     {
-      "text": "From the blue and purple and scarlet yarns they made finely woven garments, for ministering in the Holy Place. They made the holy garments for Aaron, as the  had commanded Moses.",
+      "text": "From the blue and purple and scarlet yarns they made finely woven garments, for ministering in the Holy Place. They made the holy garments for Aaron, as the Lord had commanded Moses.",
       "verse": 1,
       "type": "newline"
     },
@@ -26,7 +27,7 @@
       "verse": 4
     },
     {
-      "text": "And the skillfully woven band on it was of one piece with it and made like it, of gold, blue and purple and scarlet yarns, and fine twined linen, as the  had commanded Moses.",
+      "text": "And the skillfully woven band on it was of one piece with it and made like it, of gold, blue and purple and scarlet yarns, and fine twined linen, as the Lord had commanded Moses.",
       "verse": 5
     },
     {
@@ -35,7 +36,7 @@
       "type": "newline"
     },
     {
-      "text": "And he set them on the shoulder pieces of the ephod to be stones of remembrance for the sons of Israel, as the  had commanded Moses.",
+      "text": "And he set them on the shoulder pieces of the ephod to be stones of remembrance for the sons of Israel, as the Lord had commanded Moses.",
       "verse": 7
     },
     {
@@ -92,7 +93,7 @@
       "verse": 20
     },
     {
-      "text": "And they bound the breastpiece by its rings to the rings of the ephod with a lace of blue, so that it should lie on the skillfully woven band of the ephod, and that the breastpiece should not come loose from the ephod, as the  had commanded Moses.",
+      "text": "And they bound the breastpiece by its rings to the rings of the ephod with a lace of blue, so that it should lie on the skillfully woven band of the ephod, and that the breastpiece should not come loose from the ephod, as the Lord had commanded Moses.",
       "verse": 21
     },
     {
@@ -113,7 +114,7 @@
       "verse": 25
     },
     {
-      "text": "a bell and a pomegranate, a bell and a pomegranate around the hem of the robe for ministering, as the  had commanded Moses.",
+      "text": "a bell and a pomegranate, a bell and a pomegranate around the hem of the robe for ministering, as the Lord had commanded Moses.",
       "verse": 26
     },
     {
@@ -126,20 +127,20 @@
       "verse": 28
     },
     {
-      "text": "and the sash of fine twined linen and of blue and purple and scarlet yarns, embroidered with needlework, as the  had commanded Moses.",
+      "text": "and the sash of fine twined linen and of blue and purple and scarlet yarns, embroidered with needlework, as the Lord had commanded Moses.",
       "verse": 29
     },
     {
-      "text": "They made the plate of the holy crown of pure gold, and wrote on it an inscription, like the engraving of a signet, “Holy to the .”",
+      "text": "They made the plate of the holy crown of pure gold, and wrote on it an inscription, like the engraving of a signet, “Holy to the Lord.”",
       "verse": 30,
       "type": "newline"
     },
     {
-      "text": "And they tied to it a cord of blue to fasten it on the turban above, as the  had commanded Moses.",
+      "text": "And they tied to it a cord of blue to fasten it on the turban above, as the Lord had commanded Moses.",
       "verse": 31
     },
     {
-      "text": "Thus all the work of the tabernacle of the tent of meeting was finished, and the people of Israel did according to all that the  had commanded Moses; so they did.",
+      "text": "Thus all the work of the tabernacle of the tent of meeting was finished, and the people of Israel did according to all that the Lord had commanded Moses; so they did.",
       "verse": 32,
       "type": "newline"
     },
@@ -180,11 +181,11 @@
       "verse": 41
     },
     {
-      "text": "According to all that the  had commanded Moses, so the people of Israel had done all the work.",
+      "text": "According to all that the Lord had commanded Moses, so the people of Israel had done all the work.",
       "verse": 42
     },
     {
-      "text": "And Moses saw all the work, and behold, they had done it; as the  had commanded, so had they done it. Then Moses blessed them.",
+      "text": "And Moses saw all the work, and behold, they had done it; as the Lord had commanded, so had they done it. Then Moses blessed them.",
       "verse": 43
     }
   ]

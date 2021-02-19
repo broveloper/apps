@@ -2,6 +2,7 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 24,
+  "verses": 22,
   "content": [
     {
       "text": "Laws Concerning Divorce",
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "then her former husband, who sent her away, may not take her again to be his wife, after she has been defiled, for that is an abomination before the . And you shall not bring sin upon the land that the  your God is giving you for an inheritance.",
+      "text": "then her former husband, who sent her away, may not take her again to be his wife, after she has been defiled, for that is an abomination before the Lord. And you shall not bring sin upon the land that the Lord your God is giving you for an inheritance.",
       "verse": 4
     },
     {
@@ -49,7 +50,7 @@
       "type": "newline"
     },
     {
-      "text": "Remember what the  your God did to Miriam on the way as you came out of Egypt.",
+      "text": "Remember what the Lord your God did to Miriam on the way as you came out of Egypt.",
       "verse": 9
     },
     {
@@ -66,7 +67,7 @@
       "verse": 12
     },
     {
-      "text": "You shall restore to him the pledge as the sun sets, that he may sleep in his cloak and bless you. And it shall be righteousness for you before the  your God.",
+      "text": "You shall restore to him the pledge as the sun sets, that he may sleep in his cloak and bless you. And it shall be righteousness for you before the Lord your God.",
       "verse": 13
     },
     {
@@ -75,7 +76,7 @@
       "type": "newline"
     },
     {
-      "text": "You shall give him his wages on the same day, before the sun sets (for he is poor and counts on it), lest he cry against you to the , and you be guilty of sin.",
+      "text": "You shall give him his wages on the same day, before the sun sets (for he is poor and counts on it), lest he cry against you to the Lord, and you be guilty of sin.",
       "verse": 15
     },
     {
@@ -89,11 +90,11 @@
       "type": "newline"
     },
     {
-      "text": "but you shall remember that you were a slave in Egypt and the  your God redeemed you from there; therefore I command you to do this.",
+      "text": "but you shall remember that you were a slave in Egypt and the Lord your God redeemed you from there; therefore I command you to do this.",
       "verse": 18
     },
     {
-      "text": "“When you reap your harvest in your field and forget a sheaf in the field, you shall not go back to get it. It shall be for the sojourner, the fatherless, and the widow, that the  your God may bless you in all the work of your hands.",
+      "text": "“When you reap your harvest in your field and forget a sheaf in the field, you shall not go back to get it. It shall be for the sojourner, the fatherless, and the widow, that the Lord your God may bless you in all the work of your hands.",
       "verse": 19,
       "type": "newline"
     },

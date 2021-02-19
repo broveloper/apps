@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 103,
+  "verses": 22,
   "content": [
     {
-      "text": "Bless the , O my soul: and all that is within me, bless his holy name.",
+      "text": "Bless the Lord, O my soul: and all that is within me, bless his holy name.",
       "verse": 1
     },
     {
-      "text": "Bless the , O my soul, and forget not all his benefits:",
+      "text": "Bless the Lord, O my soul, and forget not all his benefits:",
       "verse": 2,
       "type": "newline"
     },
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "The  executeth righteousness and judgment for all that are oppressed.",
+      "text": "The Lord executeth righteousness and judgment for all that are oppressed.",
       "verse": 6,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "The  is merciful and gracious, slow to anger, and plenteous in mercy.",
+      "text": "The Lord is merciful and gracious, slow to anger, and plenteous in mercy.",
       "verse": 8,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "Like as a father pitieth his children, so the  pitieth them that fear him.",
+      "text": "Like as a father pitieth his children, so the Lord pitieth them that fear him.",
       "verse": 13,
       "type": "newline"
     },
@@ -83,7 +84,7 @@
       "type": "newline"
     },
     {
-      "text": "But the mercy of the  is from everlasting to everlasting upon them that fear him, and his righteousness unto children's children;",
+      "text": "But the mercy of the Lord is from everlasting to everlasting upon them that fear him, and his righteousness unto children's children;",
       "verse": 17,
       "type": "newline"
     },
@@ -93,22 +94,22 @@
       "type": "newline"
     },
     {
-      "text": "The  hath prepared his throne in the heavens; and his kingdom ruleth over all.",
+      "text": "The Lord hath prepared his throne in the heavens; and his kingdom ruleth over all.",
       "verse": 19,
       "type": "newline"
     },
     {
-      "text": "Bless the , ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word.",
+      "text": "Bless the Lord, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word.",
       "verse": 20,
       "type": "newline"
     },
     {
-      "text": "Bless ye the , all ye his hosts; ye ministers of his, that do his pleasure.",
+      "text": "Bless ye the Lord, all ye his hosts; ye ministers of his, that do his pleasure.",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "Bless the , all his works in all places of his dominion: bless the , O my soul.",
+      "text": "Bless the Lord, all his works in all places of his dominion: bless the Lord, O my soul.",
       "verse": 22,
       "type": "newline"
     }

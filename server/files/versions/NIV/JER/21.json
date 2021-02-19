@@ -2,18 +2,19 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 21,
+  "verses": 14,
   "content": [
     {
       "text": "God Rejects Zedekiah’s Request",
       "type": "heading"
     },
     {
-      "text": "The word came to Jeremiah from the  when King Zedekiah sent to him Pashhur son of Malkijah and the priest Zephaniah son of Maaseiah. They said:",
+      "text": "The word came to Jeremiah from the Lord when King Zedekiah sent to him Pashhur son of Malkijah and the priest Zephaniah son of Maaseiah. They said:",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Inquire now of the  for us because Nebuchadnezzar king of Babylon is attacking us. Perhaps the  will perform wonders for us as in times past so that he will withdraw from us.”",
+      "text": "“Inquire now of the Lord for us because Nebuchadnezzar king of Babylon is attacking us. Perhaps the Lord will perform wonders for us as in times past so that he will withdraw from us.”",
       "verse": 2
     },
     {
@@ -22,7 +23,7 @@
       "type": "newline"
     },
     {
-      "text": "‘This is what the , the God of Israel, says: I am about to turn against you the weapons of war that are in your hands, which you are using to fight the king of Babylon and the Babylonians who are outside the wall besieging you. And I will gather them inside this city.",
+      "text": "‘This is what the Lord, the God of Israel, says: I am about to turn against you the weapons of war that are in your hands, which you are using to fight the king of Babylon and the Babylonians who are outside the wall besieging you. And I will gather them inside this city.",
       "verse": 4
     },
     {
@@ -34,11 +35,11 @@
       "verse": 6
     },
     {
-      "text": "After that, declares the , I will give Zedekiah king of Judah, his officials and the people in this city who survive the plague, sword and famine, into the hands of Nebuchadnezzar king of Babylon and to their enemies who want to kill them. He will put them to the sword; he will show them no mercy or pity or compassion.’",
+      "text": "After that, declares the Lord, I will give Zedekiah king of Judah, his officials and the people in this city who survive the plague, sword and famine, into the hands of Nebuchadnezzar king of Babylon and to their enemies who want to kill them. He will put them to the sword; he will show them no mercy or pity or compassion.’",
       "verse": 7
     },
     {
-      "text": "“Furthermore, tell the people, ‘This is what the  says: See, I am setting before you the way of life and the way of death.",
+      "text": "“Furthermore, tell the people, ‘This is what the Lord says: See, I am setting before you the way of life and the way of death.",
       "verse": 8,
       "type": "newline"
     },
@@ -47,16 +48,16 @@
       "verse": 9
     },
     {
-      "text": "I have determined to do this city harm and not good, declares the . It will be given into the hands of the king of Babylon, and he will destroy it with fire.’",
+      "text": "I have determined to do this city harm and not good, declares the Lord. It will be given into the hands of the king of Babylon, and he will destroy it with fire.’",
       "verse": 10
     },
     {
-      "text": "“Moreover, say to the royal house of Judah, ‘Hear the word of the .",
+      "text": "“Moreover, say to the royal house of Judah, ‘Hear the word of the Lord.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "This is what the  says to you, house of David:",
+      "text": "This is what the Lord says to you, house of David:",
       "verse": 12
     },
     {
@@ -100,7 +101,7 @@
       "type": "poetry"
     },
     {
-      "text": "on the rocky plateau, declares the —",
+      "text": "on the rocky plateau, declares the Lord—",
       "verse": 13,
       "type": "poetry"
     },
@@ -120,7 +121,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 14,
       "type": "poetry"
     },

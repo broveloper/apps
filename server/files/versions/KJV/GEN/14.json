@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 14,
+  "verses": 24,
   "content": [
     {
       "text": "And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;",
@@ -108,7 +109,7 @@
       "type": "newline"
     },
     {
-      "text": "And Abram said to the king of Sodom, I have lift up mine hand unto the , the most high God, the possessor of heaven and earth,",
+      "text": "And Abram said to the king of Sodom, I have lift up mine hand unto the Lord, the most high God, the possessor of heaven and earth,",
       "verse": 22,
       "type": "newline"
     },

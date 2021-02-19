@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 132,
+  "verses": 18,
   "content": [
     {
       "text": "Lord, remember David, and all his afflictions:",
       "verse": 1
     },
     {
-      "text": "How he sware unto the , and vowed unto the mighty God of Jacob;",
+      "text": "How he sware unto the Lord, and vowed unto the mighty God of Jacob;",
       "verse": 2,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "Until I find out a place for the , an habitation for the mighty God of Jacob.",
+      "text": "Until I find out a place for the Lord, an habitation for the mighty God of Jacob.",
       "verse": 5,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "Arise, O , into thy rest; thou, and the ark of thy strength.",
+      "text": "Arise, O Lord, into thy rest; thou, and the ark of thy strength.",
       "verse": 8,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "The  hath sworn in truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne.",
+      "text": "The Lord hath sworn in truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne.",
       "verse": 11,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "For the  hath chosen Zion; he hath desired it for his habitation.",
+      "text": "For the Lord hath chosen Zion; he hath desired it for his habitation.",
       "verse": 13,
       "type": "newline"
     },

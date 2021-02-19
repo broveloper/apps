@@ -2,9 +2,10 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 2,
+  "verses": 32,
   "content": [
     {
-      "text": "And it came to pass after this, that David enquired of the , saying, Shall I go up into any of the cities of Judah? And the  said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron.",
+      "text": "And it came to pass after this, that David enquired of the Lord, saying, Shall I go up into any of the cities of Judah? And the Lord said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron.",
       "verse": 1
     },
     {
@@ -23,12 +24,12 @@
       "type": "newline"
     },
     {
-      "text": "And David sent messengers unto the men of Jabeshgilead, and said unto them, Blessed be ye of the , that ye have shewed this kindness unto your lord, even unto Saul, and have buried him.",
+      "text": "And David sent messengers unto the men of Jabeshgilead, and said unto them, Blessed be ye of the Lord, that ye have shewed this kindness unto your lord, even unto Saul, and have buried him.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "And now the  shew kindness and truth unto you: and I also will requite you this kindness, because ye have done this thing.",
+      "text": "And now the Lord shew kindness and truth unto you: and I also will requite you this kindness, because ye have done this thing.",
       "verse": 6,
       "type": "newline"
     },

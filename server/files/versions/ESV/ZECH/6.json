@@ -2,6 +2,7 @@
   "book_id": "ZECH",
   "book_name": "Zechariah",
   "chapter": 6,
+  "verses": 15,
   "content": [
     {
       "text": "A Vision of Four Chariots",
@@ -45,7 +46,7 @@
       "type": "heading"
     },
     {
-      "text": "And the word of the  came to me:",
+      "text": "And the word of the Lord came to me:",
       "verse": 9,
       "type": "newline"
     },
@@ -58,19 +59,19 @@
       "verse": 11
     },
     {
-      "text": "And say to him, ‘Thus says the  of hosts, “Behold, the man whose name is the Branch: for he shall branch out from his place, and he shall build the temple of the .",
+      "text": "And say to him, ‘Thus says the Lord of hosts, “Behold, the man whose name is the Branch: for he shall branch out from his place, and he shall build the temple of the Lord.",
       "verse": 12
     },
     {
-      "text": "It is he who shall build the temple of the  and shall bear royal honor, and shall sit and rule on his throne. And there shall be a priest on his throne, and the counsel of peace shall be between them both.”’",
+      "text": "It is he who shall build the temple of the Lord and shall bear royal honor, and shall sit and rule on his throne. And there shall be a priest on his throne, and the counsel of peace shall be between them both.”’",
       "verse": 13
     },
     {
-      "text": "And the crown shall be in the temple of the  as a reminder to Helem, Tobijah, Jedaiah, and Hen the son of Zephaniah.",
+      "text": "And the crown shall be in the temple of the Lord as a reminder to Helem, Tobijah, Jedaiah, and Hen the son of Zephaniah.",
       "verse": 14
     },
     {
-      "text": "“And those who are far off shall come and help to build the temple of the . And you shall know that the  of hosts has sent me to you. And this shall come to pass, if you will diligently obey the voice of the  your God.”",
+      "text": "“And those who are far off shall come and help to build the temple of the Lord. And you shall know that the Lord of hosts has sent me to you. And this shall come to pass, if you will diligently obey the voice of the Lord your God.”",
       "verse": 15,
       "type": "newline"
     }

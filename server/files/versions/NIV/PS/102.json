@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 102,
+  "verses": 28,
   "content": [
     {
       "text": "Psalm 102",
       "type": "heading"
     },
     {
-      "text": "A prayer of an afflicted person who has grown weak and pours out a lament before the .",
-      "verse": 1,
-      "type": "newline"
+      "text": "A prayer of an afflicted person who has grown weak and pours out a lament before the Lord.",
+      "type": "title"
     },
     {
-      "text": "Hear my prayer, ;",
+      "text": "Hear my prayer, Lord;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -133,7 +133,7 @@
       "type": "poetry"
     },
     {
-      "text": "But you, , sit enthroned forever;",
+      "text": "But you, Lord, sit enthroned forever;",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -168,7 +168,7 @@
       "type": "poetry"
     },
     {
-      "text": "The nations will fear the name of the ,",
+      "text": "The nations will fear the name of the Lord,",
       "verse": 15,
       "type": "poetry"
     },
@@ -178,7 +178,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the  will rebuild Zion",
+      "text": "For the Lord will rebuild Zion",
       "verse": 16,
       "type": "poetry"
     },
@@ -203,12 +203,12 @@
       "type": "poetry newline"
     },
     {
-      "text": "that a people not yet created may praise the :",
+      "text": "that a people not yet created may praise the Lord:",
       "verse": 18,
       "type": "poetry"
     },
     {
-      "text": "“The  looked down from his sanctuary on high,",
+      "text": "“The Lord looked down from his sanctuary on high,",
       "verse": 19,
       "type": "poetry"
     },
@@ -228,7 +228,7 @@
       "type": "poetry"
     },
     {
-      "text": "So the name of the  will be declared in Zion",
+      "text": "So the name of the Lord will be declared in Zion",
       "verse": 21,
       "type": "poetry"
     },
@@ -243,7 +243,7 @@
       "type": "poetry"
     },
     {
-      "text": "assemble to worship the .",
+      "text": "assemble to worship the Lord.",
       "verse": 22,
       "type": "poetry"
     },

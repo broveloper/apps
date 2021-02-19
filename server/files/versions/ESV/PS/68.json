@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 68,
+  "verses": 35,
   "content": [
     {
       "text": "God Shall Scatter His Enemies",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster. A Psalm of David. A Song.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "God shall arise, his enemies shall be scattered;",
@@ -63,7 +63,7 @@
       "type": "poetry"
     },
     {
-      "text": "his name is the ;",
+      "text": "his name is the Lord;",
       "verse": 4,
       "type": "poetry"
     },
@@ -103,7 +103,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "when you marched through the wilderness,",
+      "text": "when you marched through the wilderness, Selah",
       "verse": 7,
       "type": "poetry"
     },
@@ -153,7 +153,7 @@
       "type": "poetry"
     },
     {
-      "text": "“The kings of the armies—they flee, they flee!”",
+      "text": "    “The kings of the armies—they flee, they flee!”",
       "verse": 12,
       "type": "poetry"
     },
@@ -163,7 +163,7 @@
       "type": "poetry"
     },
     {
-      "text": "though you men lie among the sheepfolds—",
+      "text": "    though you men lie among the sheepfolds—",
       "verse": 13,
       "type": "poetry"
     },
@@ -208,7 +208,7 @@
       "type": "poetry"
     },
     {
-      "text": "yes, where the  will dwell forever?",
+      "text": "yes, where the Lord will dwell forever?",
       "verse": 16,
       "type": "poetry"
     },
@@ -243,7 +243,7 @@
       "type": "poetry"
     },
     {
-      "text": "even among the rebellious, that the  God may dwell there.",
+      "text": "even among the rebellious, that the Lord God may dwell there.",
       "verse": 18,
       "type": "poetry"
     },
@@ -258,7 +258,7 @@
       "type": "poetry"
     },
     {
-      "text": "God is our salvation.",
+      "text": "God is our salvation. Selah",
       "verse": 19,
       "type": "poetry"
     },
@@ -268,7 +268,7 @@
       "type": "poetry"
     },
     {
-      "text": "and to , the Lord, belong deliverances from death.",
+      "text": "and to God, the Lord, belong deliverances from death.",
       "verse": 20,
       "type": "poetry"
     },
@@ -333,7 +333,7 @@
       "type": "poetry"
     },
     {
-      "text": "the , O you who are of Israel's fountain!”",
+      "text": "the Lord, O you who are of Israel's fountain!”",
       "verse": 26,
       "type": "poetry"
     },
@@ -408,7 +408,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "sing praises to the Lord,",
+      "text": "sing praises to the Lord, Selah",
       "verse": 32,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 4,
+  "verses": 8,
   "content": [
     {
       "text": "Hear me when I call, O God of my righteousness: thou hast enlarged me when I was in distress; have mercy upon me, and hear my prayer.",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "But know that the  hath set apart him that is godly for himself: the  will hear when I call unto him.",
+      "text": "But know that the Lord hath set apart him that is godly for himself: the Lord will hear when I call unto him.",
       "verse": 3,
       "type": "newline"
     },
@@ -23,12 +24,12 @@
       "type": "newline"
     },
     {
-      "text": "Offer the sacrifices of righteousness, and put your trust in the .",
+      "text": "Offer the sacrifices of righteousness, and put your trust in the Lord.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "There be many that say, Who will shew us any good? , lift thou up the light of thy countenance upon us.",
+      "text": "There be many that say, Who will shew us any good? Lord, lift thou up the light of thy countenance upon us.",
       "verse": 6,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "I will both lay me down in peace, and sleep: for thou, , only makest me dwell in safety.",
+      "text": "I will both lay me down in peace, and sleep: for thou, Lord, only makest me dwell in safety.",
       "verse": 8,
       "type": "newline"
     }

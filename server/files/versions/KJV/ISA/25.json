@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 25,
+  "verses": 12,
   "content": [
     {
       "text": "O Lord, thou art my God; I will exalt thee, I will praise thy name; for thou hast done wonderful things; thy counsels of old are faithfulness and truth.",
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "And in this mountain shall the  of hosts make unto all people a feast of fat things, a feast of wines on the lees, of fat things full of marrow, of wines on the lees well refined.",
+      "text": "And in this mountain shall the Lord of hosts make unto all people a feast of fat things, a feast of wines on the lees, of fat things full of marrow, of wines on the lees well refined.",
       "verse": 6,
       "type": "newline"
     },
@@ -38,17 +39,17 @@
       "type": "newline"
     },
     {
-      "text": "He will swallow up death in victory; and the Lord  will wipe away tears from off all faces; and the rebuke of his people shall he take away from off all the earth: for the  hath spoken it.",
+      "text": "He will swallow up death in victory; and the Lord God will wipe away tears from off all faces; and the rebuke of his people shall he take away from off all the earth: for the Lord hath spoken it.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "And it shall be said in that day, Lo, this is our God; we have waited for him, and he will save us: this is the ; we have waited for him, we will be glad and rejoice in his salvation.",
+      "text": "And it shall be said in that day, Lo, this is our God; we have waited for him, and he will save us: this is the Lord; we have waited for him, we will be glad and rejoice in his salvation.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "For in this mountain shall the hand of the  rest, and Moab shall be trodden down under him, even as straw is trodden down for the dunghill.",
+      "text": "For in this mountain shall the hand of the Lord rest, and Moab shall be trodden down under him, even as straw is trodden down for the dunghill.",
       "verse": 10,
       "type": "newline"
     },

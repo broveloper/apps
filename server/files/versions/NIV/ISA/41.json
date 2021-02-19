@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 41,
+  "verses": 29,
   "content": [
     {
       "text": "The Helper of Israel",
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "I, the —with the first of them",
+      "text": "I, the Lord—with the first of them",
       "verse": 4,
       "type": "poetry"
     },
@@ -103,7 +104,7 @@
       "type": "poetry"
     },
     {
-      "text": "they help each other",
+      "text": "    they help each other",
       "verse": 6,
       "type": "poetry"
     },
@@ -233,7 +234,7 @@
       "type": "poetry"
     },
     {
-      "text": "For I am the  your God",
+      "text": "For I am the Lord your God",
       "verse": 13,
       "type": "poetry"
     },
@@ -263,7 +264,7 @@
       "type": "poetry"
     },
     {
-      "text": "for I myself will help you,” declares the ,",
+      "text": "for I myself will help you,” declares the Lord,",
       "verse": 14,
       "type": "poetry"
     },
@@ -303,7 +304,7 @@
       "type": "poetry"
     },
     {
-      "text": "But you will rejoice in the",
+      "text": "But you will rejoice in the Lord",
       "verse": 16,
       "type": "poetry"
     },
@@ -328,7 +329,7 @@
       "type": "poetry"
     },
     {
-      "text": "But I the  will answer them;",
+      "text": "But I the Lord will answer them;",
       "verse": 17,
       "type": "poetry"
     },
@@ -388,7 +389,7 @@
       "type": "poetry"
     },
     {
-      "text": "that the hand of the  has done this,",
+      "text": "that the hand of the Lord has done this,",
       "verse": 20,
       "type": "poetry"
     },
@@ -398,7 +399,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Present your case,” says the .",
+      "text": "“Present your case,” says the Lord.",
       "verse": 21,
       "type": "poetry newline"
     },
@@ -438,7 +439,7 @@
       "type": "poetry"
     },
     {
-      "text": "tell us what the future holds,",
+      "text": "    tell us what the future holds,",
       "verse": 23,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "MIC",
   "book_name": "Micah",
   "chapter": 5,
+  "verses": 15,
   "content": [
     {
       "text": "A Promised Ruler From Bethlehem",
@@ -83,12 +84,12 @@
       "type": "poetry newline"
     },
     {
-      "text": "in the strength of the ,",
+      "text": "in the strength of the Lord,",
       "verse": 4,
       "type": "poetry"
     },
     {
-      "text": "in the majesty of the name of the  his God.",
+      "text": "in the majesty of the name of the Lord his God.",
       "verse": 4,
       "type": "poetry"
     },
@@ -163,7 +164,7 @@
       "type": "poetry"
     },
     {
-      "text": "like dew from the ,",
+      "text": "like dew from the Lord,",
       "verse": 7,
       "type": "poetry"
     },
@@ -223,7 +224,7 @@
       "type": "poetry"
     },
     {
-      "text": "“In that day,” declares the ,",
+      "text": "“In that day,” declares the Lord,",
       "verse": 10,
       "type": "newline"
     },

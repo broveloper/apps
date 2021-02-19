@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 6,
+  "verses": 35,
   "content": [
     {
       "text": "My son, if thou be surety for thy friend, if thou hast stricken thy hand with a stranger,",
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "These six things doth the  hate: yea, seven are an abomination unto him:",
+      "text": "These six things doth the Lord hate: yea, seven are an abomination unto him:",
       "verse": 16,
       "type": "newline"
     },

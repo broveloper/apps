@@ -2,23 +2,23 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 142,
+  "verses": 7,
   "content": [
     {
       "text": "Psalm 142",
       "type": "heading"
     },
     {
-      "text": "A  of David. When he was in the cave. A prayer.",
-      "verse": 1,
-      "type": "newline"
+      "text": "A maskil of David. When he was in the cave. A prayer.",
+      "type": "title"
     },
     {
-      "text": "I cry aloud to the ;",
+      "text": "I cry aloud to the Lord;",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "I lift up my voice to the  for mercy.",
+      "text": "I lift up my voice to the Lord for mercy.",
       "verse": 1,
       "type": "poetry"
     },
@@ -73,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "I cry to you, ;",
+      "text": "I cry to you, Lord;",
       "verse": 5,
       "type": "poetry newline"
     },

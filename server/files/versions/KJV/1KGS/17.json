@@ -2,13 +2,14 @@
   "book_id": "1KGS",
   "book_name": "1 Kings",
   "chapter": 17,
+  "verses": 24,
   "content": [
     {
-      "text": "And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the  God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.",
+      "text": "And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the Lord God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.",
       "verse": 1
     },
     {
-      "text": "And the word of the  came unto him, saying,",
+      "text": "And the word of the Lord came unto him, saying,",
       "verse": 2,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "So he went and did according unto the word of the : for he went and dwelt by the brook Cherith, that is before Jordan.",
+      "text": "So he went and did according unto the word of the Lord: for he went and dwelt by the brook Cherith, that is before Jordan.",
       "verse": 5,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "And the word of the  came unto him, saying,",
+      "text": "And the word of the Lord came unto him, saying,",
       "verse": 8,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "And she said, As the  thy God liveth, I have not a cake, but an handful of meal in a barrel, and a little oil in a cruse: and, behold, I am gathering two sticks, that I may go in and dress it for me and my son, that we may eat it, and die.",
+      "text": "And she said, As the Lord thy God liveth, I have not a cake, but an handful of meal in a barrel, and a little oil in a cruse: and, behold, I am gathering two sticks, that I may go in and dress it for me and my son, that we may eat it, and die.",
       "verse": 12,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "For thus saith the  God of Israel, The barrel of meal shall not waste, neither shall the cruse of oil fail, until the day that the  sendeth rain upon the earth.",
+      "text": "For thus saith the Lord God of Israel, The barrel of meal shall not waste, neither shall the cruse of oil fail, until the day that the Lord sendeth rain upon the earth.",
       "verse": 14,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "And the barrel of meal wasted not, neither did the cruse of oil fail, according to the word of the , which he spake by Elijah.",
+      "text": "And the barrel of meal wasted not, neither did the cruse of oil fail, according to the word of the Lord, which he spake by Elijah.",
       "verse": 16,
       "type": "newline"
     },
@@ -98,17 +99,17 @@
       "type": "newline"
     },
     {
-      "text": "And he cried unto the , and said, O  my God, hast thou also brought evil upon the widow with whom I sojourn, by slaying her son?",
+      "text": "And he cried unto the Lord, and said, O Lord my God, hast thou also brought evil upon the widow with whom I sojourn, by slaying her son?",
       "verse": 20,
       "type": "newline"
     },
     {
-      "text": "And he stretched himself upon the child three times, and cried unto the , and said, O  my God, I pray thee, let this child's soul come into him again.",
+      "text": "And he stretched himself upon the child three times, and cried unto the Lord, and said, O Lord my God, I pray thee, let this child's soul come into him again.",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "And the  heard the voice of Elijah; and the soul of the child came into him again, and he revived.",
+      "text": "And the Lord heard the voice of Elijah; and the soul of the child came into him again, and he revived.",
       "verse": 22,
       "type": "newline"
     },
@@ -118,7 +119,7 @@
       "type": "newline"
     },
     {
-      "text": "And the woman said to Elijah, Now by this I know that thou art a man of God, and that the word of the  in thy mouth is truth.",
+      "text": "And the woman said to Elijah, Now by this I know that thou art a man of God, and that the word of the Lord in thy mouth is truth.",
       "verse": 24,
       "type": "newline"
     }

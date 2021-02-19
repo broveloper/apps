@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 53,
+  "verses": 6,
   "content": [
     {
       "text": "There Is None Who Does Good",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster: according to Mahalath. A Maskil of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "The fool says in his heart, “There is no God.”",

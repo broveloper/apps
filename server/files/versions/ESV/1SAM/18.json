@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 18,
+  "verses": 30,
   "content": [
     {
       "text": "David and Jonathan's Friendship",
@@ -70,7 +71,7 @@
       "verse": 11
     },
     {
-      "text": "Saul was afraid of David because the  was with him but had departed from Saul.",
+      "text": "Saul was afraid of David because the Lord was with him but had departed from Saul.",
       "verse": 12,
       "type": "newline"
     },
@@ -79,7 +80,7 @@
       "verse": 13
     },
     {
-      "text": "And David had success in all his undertakings, for the  was with him.",
+      "text": "And David had success in all his undertakings, for the Lord was with him.",
       "verse": 14
     },
     {
@@ -95,7 +96,7 @@
       "type": "heading"
     },
     {
-      "text": "Then Saul said to David, “Here is my elder daughter Merab. I will give her to you for a wife. Only be valiant for me and fight the 's battles.” For Saul thought, “Let not my hand be against him, but let the hand of the Philistines be against him.”",
+      "text": "Then Saul said to David, “Here is my elder daughter Merab. I will give her to you for a wife. Only be valiant for me and fight the Lord's battles.” For Saul thought, “Let not my hand be against him, but let the hand of the Philistines be against him.”",
       "verse": 17,
       "type": "newline"
     },
@@ -141,7 +142,7 @@
       "verse": 27
     },
     {
-      "text": "But when Saul saw and knew that the  was with David, and that Michal, Saul's daughter, loved him,",
+      "text": "But when Saul saw and knew that the Lord was with David, and that Michal, Saul's daughter, loved him,",
       "verse": 28
     },
     {

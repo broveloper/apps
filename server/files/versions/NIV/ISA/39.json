@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 39,
+  "verses": 8,
   "content": [
     {
       "text": "Envoys From Babylon",
@@ -37,12 +38,12 @@
       "type": "newline"
     },
     {
-      "text": "Then Isaiah said to Hezekiah, “Hear the word of the  Almighty:",
+      "text": "Then Isaiah said to Hezekiah, “Hear the word of the Lord Almighty:",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "The time will surely come when everything in your palace, and all that your predecessors have stored up until this day, will be carried off to Babylon. Nothing will be left, says the .",
+      "text": "The time will surely come when everything in your palace, and all that your predecessors have stored up until this day, will be carried off to Babylon. Nothing will be left, says the Lord.",
       "verse": 6
     },
     {
@@ -50,7 +51,7 @@
       "verse": 7
     },
     {
-      "text": "“The word of the  you have spoken is good,” Hezekiah replied. For he thought, “There will be peace and security in my lifetime.”",
+      "text": "“The word of the Lord you have spoken is good,” Hezekiah replied. For he thought, “There will be peace and security in my lifetime.”",
       "verse": 8,
       "type": "newline"
     }

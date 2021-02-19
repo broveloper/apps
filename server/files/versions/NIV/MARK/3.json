@@ -2,6 +2,7 @@
   "book_id": "MARK",
   "book_name": "Mark",
   "chapter": 3,
+  "verses": 35,
   "content": [
     {
       "text": "Jesus Heals on the Sabbath",
@@ -17,16 +18,16 @@
       "verse": 2
     },
     {
-      "text": "Jesus said to the man with the shriveled hand,",
+      "text": "Jesus said to the man with the shriveled hand, “Stand up in front of everyone.”",
       "verse": 3
     },
     {
-      "text": "Then Jesus asked them,  But they remained silent.",
+      "text": "Then Jesus asked them, “Which is lawful on the Sabbath: to do good or to do evil, to save life or to kill?” But they remained silent.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "He looked around at them in anger and, deeply distressed at their stubborn hearts, said to the man,  He stretched it out, and his hand was completely restored.",
+      "text": "He looked around at them in anger and, deeply distressed at their stubborn hearts, said to the man, “Stretch out your hand.” He stretched it out, and his hand was completely restored.",
       "verse": 5,
       "type": "newline"
     },
@@ -115,32 +116,32 @@
       "type": "newline"
     },
     {
-      "text": "So Jesus called them over to him and began to speak to them in parables:",
+      "text": "So Jesus called them over to him and began to speak to them in parables: “How can Satan drive out Satan?",
       "verse": 23,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "If a kingdom is divided against itself, that kingdom cannot stand.",
       "verse": 24
     },
     {
-      "text": "",
+      "text": "If a house is divided against itself, that house cannot stand.",
       "verse": 25
     },
     {
-      "text": "",
+      "text": "And if Satan opposes himself and is divided, he cannot stand; his end has come.",
       "verse": 26
     },
     {
-      "text": "",
+      "text": "In fact, no one can enter a strong man’s house without first tying him up. Then he can plunder the strong man’s house.",
       "verse": 27
     },
     {
-      "text": "",
+      "text": "Truly I tell you, people can be forgiven all their sins and every slander they utter,",
       "verse": 28
     },
     {
-      "text": "",
+      "text": "but whoever blasphemes against the Holy Spirit will never be forgiven; they are guilty of an eternal sin.”",
       "verse": 29
     },
     {
@@ -158,17 +159,17 @@
       "verse": 32
     },
     {
-      "text": "he asked.",
+      "text": "“Who are my mother and my brothers?” he asked.",
       "verse": 33,
       "type": "newline"
     },
     {
-      "text": "Then he looked at those seated in a circle around him and said,",
+      "text": "Then he looked at those seated in a circle around him and said, “Here are my mother and my brothers!",
       "verse": 34,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Whoever does God’s will is my brother and sister and mother.”",
       "verse": 35
     }
   ]

@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 15,
+  "verses": 33,
   "content": [
     {
       "text": "A soft answer turneth away wrath: but grievous words stir up anger.",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "The eyes of the  are in every place, beholding the evil and the good.",
+      "text": "The eyes of the Lord are in every place, beholding the evil and the good.",
       "verse": 3,
       "type": "newline"
     },
@@ -38,12 +39,12 @@
       "type": "newline"
     },
     {
-      "text": "The sacrifice of the wicked is an abomination to the : but the prayer of the upright is his delight.",
+      "text": "The sacrifice of the wicked is an abomination to the Lord: but the prayer of the upright is his delight.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "The way of the wicked is an abomination unto the : but he loveth him that followeth after righteousness.",
+      "text": "The way of the wicked is an abomination unto the Lord: but he loveth him that followeth after righteousness.",
       "verse": 9,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "Hell and destruction are before the : how much more then the hearts of the children of men?",
+      "text": "Hell and destruction are before the Lord: how much more then the hearts of the children of men?",
       "verse": 11,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "Better is little with the fear of the  than great treasure and trouble therewith.",
+      "text": "Better is little with the fear of the Lord than great treasure and trouble therewith.",
       "verse": 16,
       "type": "newline"
     },
@@ -123,12 +124,12 @@
       "type": "newline"
     },
     {
-      "text": "The  will destroy the house of the proud: but he will establish the border of the widow.",
+      "text": "The Lord will destroy the house of the proud: but he will establish the border of the widow.",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "The thoughts of the wicked are an abomination to the : but the words of the pure are pleasant words.",
+      "text": "The thoughts of the wicked are an abomination to the Lord: but the words of the pure are pleasant words.",
       "verse": 26,
       "type": "newline"
     },
@@ -143,7 +144,7 @@
       "type": "newline"
     },
     {
-      "text": "The  is far from the wicked: but he heareth the prayer of the righteous.",
+      "text": "The Lord is far from the wicked: but he heareth the prayer of the righteous.",
       "verse": 29,
       "type": "newline"
     },
@@ -163,7 +164,7 @@
       "type": "newline"
     },
     {
-      "text": "The fear of the  is the instruction of wisdom; and before honour is humility.",
+      "text": "The fear of the Lord is the instruction of wisdom; and before honour is humility.",
       "verse": 33,
       "type": "newline"
     }

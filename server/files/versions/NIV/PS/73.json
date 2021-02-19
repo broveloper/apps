@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 73,
+  "verses": 28,
   "content": [
     {
       "text": "BOOK III",
@@ -9,8 +10,7 @@
     },
     {
       "text": "Psalms 73–89",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Psalm 73",
@@ -18,8 +18,7 @@
     },
     {
       "text": "A psalm of Asaph.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Surely God is good to Israel,",
@@ -307,7 +306,7 @@
       "type": "poetry"
     },
     {
-      "text": "I have made the Sovereign  my refuge;",
+      "text": "I have made the Sovereign Lord my refuge;",
       "verse": 28,
       "type": "poetry"
     },

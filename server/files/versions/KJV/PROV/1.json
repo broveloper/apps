@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 1,
+  "verses": 33,
   "content": [
     {
       "text": "The proverbs of Solomon the son of David, king of Israel;",
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "The fear of the  is the beginning of knowledge: but fools despise wisdom and instruction.",
+      "text": "The fear of the Lord is the beginning of knowledge: but fools despise wisdom and instruction.",
       "verse": 7,
       "type": "newline"
     },
@@ -143,7 +144,7 @@
       "type": "newline"
     },
     {
-      "text": "For that they hated knowledge, and did not choose the fear of the :",
+      "text": "For that they hated knowledge, and did not choose the fear of the Lord:",
       "verse": 29,
       "type": "newline"
     },

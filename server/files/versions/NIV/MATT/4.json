@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 4,
+  "verses": 25,
   "content": [
     {
       "text": "Jesus Is Tested in the Wilderness",
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’”",
       "verse": 4,
       "type": "newline"
     },
@@ -50,7 +51,7 @@
       "type": "poetry"
     },
     {
-      "text": "Jesus answered him,",
+      "text": "Jesus answered him, “It is also written: ‘Do not put the Lord your God to the test.’”",
       "verse": 7,
       "type": "newline"
     },
@@ -64,7 +65,7 @@
       "verse": 9
     },
     {
-      "text": "Jesus said to him,",
+      "text": "Jesus said to him, “Away from me, Satan! For it is written: ‘Worship the Lord your God, and serve him only.’”",
       "verse": 10,
       "type": "newline"
     },
@@ -126,7 +127,7 @@
       "type": "poetry"
     },
     {
-      "text": "From that time on Jesus began to preach,",
+      "text": "From that time on Jesus began to preach, “Repent, for the kingdom of heaven has come near.”",
       "verse": 17,
       "type": "newline"
     },
@@ -140,7 +141,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said,",
+      "text": "“Come, follow me,” Jesus said, “and I will send you out to fish for people.”",
       "verse": 19
     },
     {

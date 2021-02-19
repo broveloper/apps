@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 137,
+  "verses": 9,
   "content": [
     {
       "text": "By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "How shall we sing the 's song in a strange land?",
+      "text": "How shall we sing the Lord's song in a strange land?",
       "verse": 4,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "Remember, O , the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof.",
+      "text": "Remember, O Lord, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof.",
       "verse": 7,
       "type": "newline"
     },

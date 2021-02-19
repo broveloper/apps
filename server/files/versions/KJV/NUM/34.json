@@ -2,9 +2,10 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 34,
+  "verses": 29,
   "content": [
     {
-      "text": "And the  spake unto Moses, saying,",
+      "text": "And the Lord spake unto Moses, saying,",
       "verse": 1
     },
     {
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "And Moses commanded the children of Israel, saying, This is the land which ye shall inherit by lot, which the  commanded to give unto the nine tribes, and to the half tribe:",
+      "text": "And Moses commanded the children of Israel, saying, This is the land which ye shall inherit by lot, which the Lord commanded to give unto the nine tribes, and to the half tribe:",
       "verse": 13,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  spake unto Moses, saying,",
+      "text": "And the Lord spake unto Moses, saying,",
       "verse": 16,
       "type": "newline"
     },
@@ -143,7 +144,7 @@
       "type": "newline"
     },
     {
-      "text": "These are they whom the  commanded to divide the inheritance unto the children of Israel in the land of Canaan.",
+      "text": "These are they whom the Lord commanded to divide the inheritance unto the children of Israel in the land of Canaan.",
       "verse": 29,
       "type": "newline"
     }

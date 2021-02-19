@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 1,
+  "verses": 26,
   "content": [
     {
       "text": "Jesus Taken Up Into Heaven",
@@ -21,11 +22,11 @@
       "verse": 3
     },
     {
-      "text": "On one occasion, while he was eating with them, he gave them this command:",
+      "text": "On one occasion, while he was eating with them, he gave them this command: “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about.",
       "verse": 4
     },
     {
-      "text": "",
+      "text": "For John baptized with water, but in a few days you will be baptized with the Holy Spirit.”",
       "verse": 5
     },
     {
@@ -34,12 +35,12 @@
       "type": "newline"
     },
     {
-      "text": "He said to them:",
+      "text": "He said to them: “It is not for you to know the times or dates the Father has set by his own authority.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”",
       "verse": 8
     },
     {

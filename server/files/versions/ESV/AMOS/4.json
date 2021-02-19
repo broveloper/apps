@@ -2,6 +2,7 @@
   "book_id": "AMOS",
   "book_name": "Amos",
   "chapter": 4,
+  "verses": 13,
   "content": [
     {
       "text": "“Hear this word, you cows of Bashan,",
@@ -24,7 +25,7 @@
       "type": "poetry"
     },
     {
-      "text": "The Lord  has sworn by his holiness",
+      "text": "The Lord God has sworn by his holiness",
       "verse": 2,
       "type": "poetry"
     },
@@ -59,7 +60,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 3,
       "type": "poetry"
     },
@@ -99,12 +100,12 @@
       "type": "poetry"
     },
     {
-      "text": "declares the Lord .",
+      "text": "declares the Lord God.",
       "verse": 5,
       "type": "poetry"
     },
     {
-      "text": "Israel Has Not Returned to the",
+      "text": "Israel Has Not Returned to the Lord",
       "type": "heading"
     },
     {
@@ -123,7 +124,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 6,
       "type": "poetry"
     },
@@ -173,7 +174,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 8,
       "type": "poetry"
     },
@@ -198,7 +199,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 9,
       "type": "poetry"
     },
@@ -228,7 +229,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 10,
       "type": "poetry"
     },
@@ -253,7 +254,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 11,
       "type": "poetry"
     },
@@ -293,7 +294,7 @@
       "type": "poetry"
     },
     {
-      "text": "the , the God of hosts, is his name!",
+      "text": "the Lord, the God of hosts, is his name!",
       "verse": 13,
       "type": "poetry"
     }

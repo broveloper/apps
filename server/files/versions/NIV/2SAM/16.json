@@ -2,6 +2,7 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 16,
+  "verses": 23,
   "content": [
     {
       "text": "David and Ziba",
@@ -60,7 +61,7 @@
       "verse": 7
     },
     {
-      "text": "The  has repaid you for all the blood you shed in the household of Saul, in whose place you have reigned. The  has given the kingdom into the hands of your son Absalom. You have come to ruin because you are a murderer!”",
+      "text": "The Lord has repaid you for all the blood you shed in the household of Saul, in whose place you have reigned. The Lord has given the kingdom into the hands of your son Absalom. You have come to ruin because you are a murderer!”",
       "verse": 8
     },
     {
@@ -69,17 +70,17 @@
       "type": "newline"
     },
     {
-      "text": "But the king said, “What does this have to do with you, you sons of Zeruiah? If he is cursing because the  said to him, ‘Curse David,’ who can ask, ‘Why do you do this?’”",
+      "text": "But the king said, “What does this have to do with you, you sons of Zeruiah? If he is cursing because the Lord said to him, ‘Curse David,’ who can ask, ‘Why do you do this?’”",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "David then said to Abishai and all his officials, “My son, my own flesh and blood, is trying to kill me. How much more, then, this Benjamite! Leave him alone; let him curse, for the  has told him to.",
+      "text": "David then said to Abishai and all his officials, “My son, my own flesh and blood, is trying to kill me. How much more, then, this Benjamite! Leave him alone; let him curse, for the Lord has told him to.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "It may be that the  will look upon my misery and restore to me his covenant blessing instead of his curse today.”",
+      "text": "It may be that the Lord will look upon my misery and restore to me his covenant blessing instead of his curse today.”",
       "verse": 12
     },
     {
@@ -110,7 +111,7 @@
       "type": "newline"
     },
     {
-      "text": "Hushai said to Absalom, “No, the one chosen by the , by these people, and by all the men of Israel—his I will be, and I will remain with him.",
+      "text": "Hushai said to Absalom, “No, the one chosen by the Lord, by these people, and by all the men of Israel—his I will be, and I will remain with him.",
       "verse": 18,
       "type": "newline"
     },

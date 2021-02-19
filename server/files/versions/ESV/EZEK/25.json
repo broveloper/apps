@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 25,
+  "verses": 17,
   "content": [
     {
       "text": "Prophecy Against Ammon",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "Say to the Ammonites, Hear the word of the Lord : Thus says the Lord , Because you said, ‘Aha!’ over my sanctuary when it was profaned, and over the land of Israel when it was made desolate, and over the house of Judah when they went into exile,",
+      "text": "Say to the Ammonites, Hear the word of the Lord God: Thus says the Lord God, Because you said, ‘Aha!’ over my sanctuary when it was profaned, and over the land of Israel when it was made desolate, and over the house of Judah when they went into exile,",
       "verse": 3
     },
     {
@@ -25,15 +26,15 @@
       "verse": 4
     },
     {
-      "text": "I will make Rabbah a pasture for camels and Ammon a fold for flocks. Then you will know that I am the .",
+      "text": "I will make Rabbah a pasture for camels and Ammon a fold for flocks. Then you will know that I am the Lord.",
       "verse": 5
     },
     {
-      "text": "For thus says the Lord : Because you have clapped your hands and stamped your feet and rejoiced with all the malice within your soul against the land of Israel,",
+      "text": "For thus says the Lord God: Because you have clapped your hands and stamped your feet and rejoiced with all the malice within your soul against the land of Israel,",
       "verse": 6
     },
     {
-      "text": "therefore, behold, I have stretched out my hand against you, and will hand you over as plunder to the nations. And I will cut you off from the peoples and will make you perish out of the countries; I will destroy you. Then you will know that I am the .",
+      "text": "therefore, behold, I have stretched out my hand against you, and will hand you over as plunder to the nations. And I will cut you off from the peoples and will make you perish out of the countries; I will destroy you. Then you will know that I am the Lord.",
       "verse": 7
     },
     {
@@ -41,7 +42,7 @@
       "type": "heading"
     },
     {
-      "text": "“Thus says the Lord : Because Moab and Seir said, ‘Behold, the house of Judah is like all the other nations,’",
+      "text": "“Thus says the Lord God: Because Moab and Seir said, ‘Behold, the house of Judah is like all the other nations,’",
       "verse": 8,
       "type": "newline"
     },
@@ -54,7 +55,7 @@
       "verse": 10
     },
     {
-      "text": "and I will execute judgments upon Moab. Then they will know that I am the .",
+      "text": "and I will execute judgments upon Moab. Then they will know that I am the Lord.",
       "verse": 11
     },
     {
@@ -62,16 +63,16 @@
       "type": "heading"
     },
     {
-      "text": "“Thus says the Lord : Because Edom acted revengefully against the house of Judah and has grievously offended in taking vengeance on them,",
+      "text": "“Thus says the Lord God: Because Edom acted revengefully against the house of Judah and has grievously offended in taking vengeance on them,",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "therefore thus says the Lord , I will stretch out my hand against Edom and cut off from it man and beast. And I will make it desolate; from Teman even to Dedan they shall fall by the sword.",
+      "text": "therefore thus says the Lord God, I will stretch out my hand against Edom and cut off from it man and beast. And I will make it desolate; from Teman even to Dedan they shall fall by the sword.",
       "verse": 13
     },
     {
-      "text": "And I will lay my vengeance upon Edom by the hand of my people Israel, and they shall do in Edom according to my anger and according to my wrath, and they shall know my vengeance, declares the Lord .",
+      "text": "And I will lay my vengeance upon Edom by the hand of my people Israel, and they shall do in Edom according to my anger and according to my wrath, and they shall know my vengeance, declares the Lord God.",
       "verse": 14
     },
     {
@@ -79,16 +80,16 @@
       "type": "heading"
     },
     {
-      "text": "“Thus says the Lord : Because the Philistines acted revengefully and took vengeance with malice of soul to destroy in never-ending enmity,",
+      "text": "“Thus says the Lord God: Because the Philistines acted revengefully and took vengeance with malice of soul to destroy in never-ending enmity,",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "therefore thus says the Lord , Behold, I will stretch out my hand against the Philistines, and I will cut off the Cherethites and destroy the rest of the seacoast.",
+      "text": "therefore thus says the Lord God, Behold, I will stretch out my hand against the Philistines, and I will cut off the Cherethites and destroy the rest of the seacoast.",
       "verse": 16
     },
     {
-      "text": "I will execute great vengeance on them with wrathful rebukes. Then they will know that I am the , when I lay my vengeance upon them.”",
+      "text": "I will execute great vengeance on them with wrathful rebukes. Then they will know that I am the Lord, when I lay my vengeance upon them.”",
       "verse": 17
     }
   ]

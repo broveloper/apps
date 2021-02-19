@@ -2,28 +2,29 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 135,
+  "verses": 21,
   "content": [
     {
-      "text": "Your Name, O , Endures Forever",
+      "text": "Your Name, O Lord, Endures Forever",
       "type": "heading"
     },
     {
-      "text": "Praise the !",
+      "text": "Praise the Lord!",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "Praise the name of the ,",
+      "text": "Praise the name of the Lord,",
       "verse": 1,
       "type": "poetry"
     },
     {
-      "text": "give praise, O servants of the ,",
+      "text": "give praise, O servants of the Lord,",
       "verse": 1,
       "type": "poetry"
     },
     {
-      "text": "who stand in the house of the ,",
+      "text": "who stand in the house of the Lord,",
       "verse": 2,
       "type": "poetry"
     },
@@ -33,7 +34,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the , for the  is good;",
+      "text": "Praise the Lord, for the Lord is good;",
       "verse": 3,
       "type": "poetry"
     },
@@ -43,7 +44,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the  has chosen Jacob for himself,",
+      "text": "For the Lord has chosen Jacob for himself,",
       "verse": 4,
       "type": "poetry"
     },
@@ -53,7 +54,7 @@
       "type": "poetry"
     },
     {
-      "text": "For I know that the  is great,",
+      "text": "For I know that the Lord is great,",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -63,7 +64,7 @@
       "type": "poetry"
     },
     {
-      "text": "Whatever the  pleases, he does,",
+      "text": "Whatever the Lord pleases, he does,",
       "verse": 6,
       "type": "poetry"
     },
@@ -153,17 +154,17 @@
       "type": "poetry"
     },
     {
-      "text": "Your name, O , endures forever,",
+      "text": "Your name, O Lord, endures forever,",
       "verse": 13,
       "type": "poetry newline"
     },
     {
-      "text": "your renown, O , throughout all ages.",
+      "text": "your renown, O Lord, throughout all ages.",
       "verse": 13,
       "type": "poetry"
     },
     {
-      "text": "For the  will vindicate his people",
+      "text": "For the Lord will vindicate his people",
       "verse": 14,
       "type": "poetry"
     },
@@ -213,27 +214,27 @@
       "type": "poetry"
     },
     {
-      "text": "O house of Israel, bless the !",
+      "text": "O house of Israel, bless the Lord!",
       "verse": 19,
       "type": "poetry newline"
     },
     {
-      "text": "O house of Aaron, bless the !",
+      "text": "O house of Aaron, bless the Lord!",
       "verse": 19,
       "type": "poetry"
     },
     {
-      "text": "O house of Levi, bless the !",
+      "text": "O house of Levi, bless the Lord!",
       "verse": 20,
       "type": "poetry"
     },
     {
-      "text": "You who fear the , bless the !",
+      "text": "You who fear the Lord, bless the Lord!",
       "verse": 20,
       "type": "poetry"
     },
     {
-      "text": "Blessed be the  from Zion,",
+      "text": "Blessed be the Lord from Zion,",
       "verse": 21,
       "type": "poetry"
     },
@@ -243,7 +244,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the !",
+      "text": "Praise the Lord!",
       "verse": 21,
       "type": "poetry"
     }

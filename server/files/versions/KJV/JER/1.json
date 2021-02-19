@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 1,
+  "verses": 19,
   "content": [
     {
       "text": "The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:",
       "verse": 1
     },
     {
-      "text": "To whom the word of the  came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign.",
+      "text": "To whom the word of the Lord came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign.",
       "verse": 2,
       "type": "newline"
     },
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "Then the word of the  came unto me, saying,",
+      "text": "Then the word of the Lord came unto me, saying,",
       "verse": 4,
       "type": "newline"
     },
@@ -28,22 +29,22 @@
       "type": "newline"
     },
     {
-      "text": "Then said I, Ah, Lord ! behold, I cannot speak: for I am a child.",
+      "text": "Then said I, Ah, Lord God! behold, I cannot speak: for I am a child.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "But the  said unto me, Say not, I am a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak.",
+      "text": "But the Lord said unto me, Say not, I am a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "Be not afraid of their faces: for I am with thee to deliver thee, saith the .",
+      "text": "Be not afraid of their faces: for I am with thee to deliver thee, saith the Lord.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "Then the  put forth his hand, and touched my mouth. And the  said unto me, Behold, I have put my words in thy mouth.",
+      "text": "Then the Lord put forth his hand, and touched my mouth. And the Lord said unto me, Behold, I have put my words in thy mouth.",
       "verse": 9,
       "type": "newline"
     },
@@ -53,27 +54,27 @@
       "type": "newline"
     },
     {
-      "text": "Moreover the word of the  came unto me, saying, Jeremiah, what seest thou? And I said, I see a rod of an almond tree.",
+      "text": "Moreover the word of the Lord came unto me, saying, Jeremiah, what seest thou? And I said, I see a rod of an almond tree.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "Then said the  unto me, Thou hast well seen: for I will hasten my word to perform it.",
+      "text": "Then said the Lord unto me, Thou hast well seen: for I will hasten my word to perform it.",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "And the word of the  came unto me the second time, saying, What seest thou? And I said, I see a seething pot; and the face thereof is toward the north.",
+      "text": "And the word of the Lord came unto me the second time, saying, What seest thou? And I said, I see a seething pot; and the face thereof is toward the north.",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "Then the  said unto me, Out of the north an evil shall break forth upon all the inhabitants of the land.",
+      "text": "Then the Lord said unto me, Out of the north an evil shall break forth upon all the inhabitants of the land.",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "For, lo, I will call all the families of the kingdoms of the north, saith the ; and they shall come, and they shall set every one his throne at the entering of the gates of Jerusalem, and against all the walls thereof round about, and against all the cities of Judah.",
+      "text": "For, lo, I will call all the families of the kingdoms of the north, saith the Lord; and they shall come, and they shall set every one his throne at the entering of the gates of Jerusalem, and against all the walls thereof round about, and against all the cities of Judah.",
       "verse": 15,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the , to deliver thee.",
+      "text": "And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the Lord, to deliver thee.",
       "verse": 19,
       "type": "newline"
     }

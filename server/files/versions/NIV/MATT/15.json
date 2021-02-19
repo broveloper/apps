@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 15,
+  "verses": 39,
   "content": [
     {
       "text": "That Which Defiles",
@@ -17,53 +18,53 @@
       "verse": 2
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “And why do you break the command of God for the sake of your tradition?",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "For God said, ‘Honor your father and mother’ and ‘Anyone who curses their father or mother is to be put to death.’",
       "verse": 4
     },
     {
-      "text": "",
+      "text": "But you say that if anyone declares that what might have been used to help their father or mother is ‘devoted to God,’",
       "verse": 5
     },
     {
-      "text": "",
+      "text": "they are not to ‘honor their father or mother’ with it. Thus you nullify the word of God for the sake of your tradition.",
       "verse": 6
     },
     {
-      "text": "",
+      "text": "You hypocrites! Isaiah was right when he prophesied about you:",
       "verse": 7
     },
     {
-      "text": "",
+      "text": "“‘These people honor me with their lips,",
       "verse": 8,
       "type": "poetry newline"
     },
     {
-      "text": "",
+      "text": "but their hearts are far from me.",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "They worship me in vain;",
       "verse": 9,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "their teachings are merely human rules.’”",
       "verse": 9,
       "type": "poetry"
     },
     {
-      "text": "Jesus called the crowd to him and said,",
+      "text": "Jesus called the crowd to him and said, “Listen and understand.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "What goes into someone’s mouth does not defile them, but what comes out of their mouth, that is what defiles them.”",
       "verse": 11
     },
     {
@@ -72,12 +73,12 @@
       "type": "newline"
     },
     {
-      "text": "He replied,",
+      "text": "He replied, “Every plant that my heavenly Father has not planted will be pulled up by the roots.",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Leave them; they are blind guides. If the blind lead the blind, both will fall into a pit.”",
       "verse": 14
     },
     {
@@ -86,24 +87,24 @@
       "type": "newline"
     },
     {
-      "text": "Jesus asked them.",
+      "text": "“Are you still so dull?” Jesus asked them.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“Don’t you see that whatever enters the mouth goes into the stomach and then out of the body?",
       "verse": 17
     },
     {
-      "text": "",
+      "text": "But the things that come out of a person’s mouth come from the heart, and these defile them.",
       "verse": 18
     },
     {
-      "text": "",
+      "text": "For out of the heart come evil thoughts—murder, adultery, sexual immorality, theft, false testimony, slander.",
       "verse": 19
     },
     {
-      "text": "",
+      "text": "These are what defile a person; but eating with unwashed hands does not defile them.”",
       "verse": 20
     },
     {
@@ -125,7 +126,7 @@
       "type": "newline"
     },
     {
-      "text": "He answered,",
+      "text": "He answered, “I was sent only to the lost sheep of Israel.”",
       "verse": 24,
       "type": "newline"
     },
@@ -135,7 +136,7 @@
       "type": "newline"
     },
     {
-      "text": "He replied,",
+      "text": "He replied, “It is not right to take the children’s bread and toss it to the dogs.”",
       "verse": 26,
       "type": "newline"
     },
@@ -145,7 +146,7 @@
       "type": "newline"
     },
     {
-      "text": "Then Jesus said to her,  And her daughter was healed at that moment.",
+      "text": "Then Jesus said to her, “Woman, you have great faith! Your request is granted.” And her daughter was healed at that moment.",
       "verse": 28,
       "type": "newline"
     },
@@ -167,7 +168,7 @@
       "verse": 31
     },
     {
-      "text": "Jesus called his disciples to him and said,",
+      "text": "Jesus called his disciples to him and said, “I have compassion for these people; they have already been with me three days and have nothing to eat. I do not want to send them away hungry, or they may collapse on the way.”",
       "verse": 32,
       "type": "newline"
     },
@@ -177,7 +178,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus asked.",
+      "text": "“How many loaves do you have?” Jesus asked.",
       "verse": 34,
       "type": "newline"
     },

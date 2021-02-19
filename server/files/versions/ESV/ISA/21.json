@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 21,
+  "verses": 17,
   "content": [
     {
       "text": "Fallen, Fallen Is Babylon",
@@ -223,7 +224,7 @@
       "type": "poetry"
     },
     {
-      "text": "what I have heard from the  of hosts,",
+      "text": "what I have heard from the Lord of hosts,",
       "verse": 10,
       "type": "poetry"
     },
@@ -328,7 +329,7 @@
       "type": "newline"
     },
     {
-      "text": "And the remainder of the archers of the mighty men of the sons of Kedar will be few, for the , the God of Israel, has spoken.”",
+      "text": "And the remainder of the archers of the mighty men of the sons of Kedar will be few, for the Lord, the God of Israel, has spoken.”",
       "verse": 17
     }
   ]

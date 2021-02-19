@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 48,
+  "verses": 14,
   "content": [
     {
       "text": "Psalm 48",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A song. A psalm of the Sons of Korah.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Great is the , and most worthy of praise,",
+      "text": "Great is the Lord, and most worthy of praise,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -103,7 +103,7 @@
       "type": "poetry"
     },
     {
-      "text": "in the city of the  Almighty,",
+      "text": "in the city of the Lord Almighty,",
       "verse": 8,
       "type": "poetry"
     },

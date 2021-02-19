@@ -2,9 +2,10 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 8,
+  "verses": 22,
   "content": [
     {
-      "text": "“At that time, declares the , the bones of the kings of Judah, the bones of its officials, the bones of the priests, the bones of the prophets, and the bones of the inhabitants of Jerusalem shall be brought out of their tombs.",
+      "text": "“At that time, declares the Lord, the bones of the kings of Judah, the bones of its officials, the bones of the priests, the bones of the prophets, and the bones of the inhabitants of Jerusalem shall be brought out of their tombs.",
       "verse": 1
     },
     {
@@ -12,7 +13,7 @@
       "verse": 2
     },
     {
-      "text": "Death shall be preferred to life by all the remnant that remains of this evil family in all the places where I have driven them, declares the  of hosts.",
+      "text": "Death shall be preferred to life by all the remnant that remains of this evil family in all the places where I have driven them, declares the Lord of hosts.",
       "verse": 3
     },
     {
@@ -20,7 +21,7 @@
       "type": "heading"
     },
     {
-      "text": "“You shall say to them, Thus says the :",
+      "text": "“You shall say to them, Thus says the Lord:",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -110,7 +111,7 @@
       "type": "poetry"
     },
     {
-      "text": "the rules of the .",
+      "text": "the rules of the Lord.",
       "verse": 7,
       "type": "poetry"
     },
@@ -120,7 +121,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "and the law of the  is with us’?",
+      "text": "and the law of the Lord is with us’?",
       "verse": 8,
       "type": "poetry"
     },
@@ -145,7 +146,7 @@
       "type": "poetry"
     },
     {
-      "text": "behold, they have rejected the word of the ,",
+      "text": "behold, they have rejected the word of the Lord,",
       "verse": 9,
       "type": "poetry"
     },
@@ -225,12 +226,12 @@
       "type": "poetry"
     },
     {
-      "text": "says the .",
+      "text": "says the Lord.",
       "verse": 12,
       "type": "poetry"
     },
     {
-      "text": "When I would gather them, declares the ,",
+      "text": "When I would gather them, declares the Lord,",
       "verse": 13,
       "type": "poetry"
     },
@@ -270,7 +271,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  our God has doomed us to perish",
+      "text": "for the Lord our God has doomed us to perish",
       "verse": 14,
       "type": "poetry"
     },
@@ -280,7 +281,7 @@
       "type": "poetry"
     },
     {
-      "text": "because we have sinned against the .",
+      "text": "because we have sinned against the Lord.",
       "verse": 14,
       "type": "poetry"
     },
@@ -335,7 +336,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 17,
       "type": "poetry"
     },
@@ -364,7 +365,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Is the  not in Zion?",
+      "text": "“Is the Lord not in Zion?",
       "verse": 19,
       "type": "poetry"
     },

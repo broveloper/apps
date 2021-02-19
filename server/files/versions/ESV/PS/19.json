@@ -2,15 +2,15 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 19,
+  "verses": 14,
   "content": [
     {
-      "text": "The Law of the  Is Perfect",
+      "text": "The Law of the Lord Is Perfect",
       "type": "heading"
     },
     {
       "text": "To the choirmaster. A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "The heavens declare the glory of God,",
@@ -58,7 +58,7 @@
       "type": "poetry"
     },
     {
-      "text": "which comes out like a bridegroom leaving his chamber,",
+      "text": "    which comes out like a bridegroom leaving his chamber,",
       "verse": 5,
       "type": "poetry"
     },
@@ -83,7 +83,7 @@
       "type": "poetry"
     },
     {
-      "text": "The law of the  is perfect,",
+      "text": "The law of the Lord is perfect,",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -93,7 +93,7 @@
       "type": "poetry"
     },
     {
-      "text": "the testimony of the  is sure,",
+      "text": "the testimony of the Lord is sure,",
       "verse": 7,
       "type": "poetry"
     },
@@ -103,7 +103,7 @@
       "type": "poetry"
     },
     {
-      "text": "the precepts of the  are right,",
+      "text": "the precepts of the Lord are right,",
       "verse": 8,
       "type": "poetry"
     },
@@ -113,7 +113,7 @@
       "type": "poetry"
     },
     {
-      "text": "the commandment of the  is pure,",
+      "text": "the commandment of the Lord is pure,",
       "verse": 8,
       "type": "poetry"
     },
@@ -123,7 +123,7 @@
       "type": "poetry"
     },
     {
-      "text": "the fear of the  is clean,",
+      "text": "the fear of the Lord is clean,",
       "verse": 9,
       "type": "poetry"
     },
@@ -133,7 +133,7 @@
       "type": "poetry"
     },
     {
-      "text": "the rules of the  are true,",
+      "text": "the rules of the Lord are true,",
       "verse": 9,
       "type": "poetry"
     },
@@ -213,7 +213,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , my rock and my redeemer.",
+      "text": "O Lord, my rock and my redeemer.",
       "verse": 14,
       "type": "poetry"
     }

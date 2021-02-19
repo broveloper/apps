@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 82,
+  "verses": 8,
   "content": [
     {
       "text": "Rescue the Weak and Needy",
@@ -9,8 +10,7 @@
     },
     {
       "text": "A Psalm of Asaph.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "God has taken his place in the divine council;",
@@ -28,7 +28,7 @@
       "type": "poetry"
     },
     {
-      "text": "and show partiality to the wicked?",
+      "text": "and show partiality to the wicked? Selah",
       "verse": 2,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 27,
+  "verses": 46,
   "content": [
     {
       "text": "Isaac Blesses Jacob",
@@ -34,7 +35,7 @@
       "verse": 6
     },
     {
-      "text": "‘Bring me game and prepare for me delicious food, that I may eat it and bless you before the  before I die.’",
+      "text": "‘Bring me game and prepare for me delicious food, that I may eat it and bless you before the Lord before I die.’",
       "verse": 7
     },
     {
@@ -88,7 +89,7 @@
       "verse": 19
     },
     {
-      "text": "But Isaac said to his son, “How is it that you have found it so quickly, my son?” He answered, “Because the  your God granted me success.”",
+      "text": "But Isaac said to his son, “How is it that you have found it so quickly, my son?” He answered, “Because the Lord your God granted me success.”",
       "verse": 20
     },
     {
@@ -126,7 +127,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "is as the smell of a field that the  has blessed!",
+      "text": "is as the smell of a field that the Lord has blessed!",
       "verse": 27,
       "type": "poetry"
     },

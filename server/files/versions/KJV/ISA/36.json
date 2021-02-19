@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 36,
+  "verses": 22,
   "content": [
     {
       "text": "Now it came to pass in the fourteenth year of king Hezekiah, that Sennacherib king of Assyria came up against all the defenced cities of Judah, and took them.",
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "But if thou say to me, We trust in the  our God: is it not he, whose high places and whose altars Hezekiah hath taken away, and said to Judah and to Jerusalem, Ye shall worship before this altar?",
+      "text": "But if thou say to me, We trust in the Lord our God: is it not he, whose high places and whose altars Hezekiah hath taken away, and said to Judah and to Jerusalem, Ye shall worship before this altar?",
       "verse": 7,
       "type": "newline"
     },
@@ -48,7 +49,7 @@
       "type": "newline"
     },
     {
-      "text": "And am I now come up without the  against this land to destroy it? the  said unto me, Go up against this land, and destroy it.",
+      "text": "And am I now come up without the Lord against this land to destroy it? the Lord said unto me, Go up against this land, and destroy it.",
       "verse": 10,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "Neither let Hezekiah make you trust in the , saying, The  will surely deliver us: this city shall not be delivered into the hand of the king of Assyria.",
+      "text": "Neither let Hezekiah make you trust in the Lord, saying, The Lord will surely deliver us: this city shall not be delivered into the hand of the king of Assyria.",
       "verse": 15,
       "type": "newline"
     },
@@ -88,7 +89,7 @@
       "type": "newline"
     },
     {
-      "text": "Beware lest Hezekiah persuade you, saying, the  will deliver us. Hath any of the gods of the nations delivered his land out of the hand of the king of Assyria?",
+      "text": "Beware lest Hezekiah persuade you, saying, the Lord will deliver us. Hath any of the gods of the nations delivered his land out of the hand of the king of Assyria?",
       "verse": 18,
       "type": "newline"
     },
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "Who are they among all the gods of these lands, that have delivered their land out of my hand, that the  should deliver Jerusalem out of my hand?",
+      "text": "Who are they among all the gods of these lands, that have delivered their land out of my hand, that the Lord should deliver Jerusalem out of my hand?",
       "verse": 20,
       "type": "newline"
     },

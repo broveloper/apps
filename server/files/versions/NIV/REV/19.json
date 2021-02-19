@@ -2,6 +2,7 @@
   "book_id": "REV",
   "book_name": "Revelation",
   "chapter": 19,
+  "verses": 21,
   "content": [
     {
       "text": "Threefold Hallelujah Over Babylon’s Fall",
@@ -23,7 +24,7 @@
       "type": "poetry"
     },
     {
-      "text": "for true and just are his judgments.",
+      "text": "    for true and just are his judgments.",
       "verse": 2,
       "type": "poetry"
     },
@@ -182,7 +183,7 @@
       "verse": 16
     },
     {
-      "text": ".",
+      "text": "king of kings and lord of lords.",
       "verse": 16,
       "type": "newline"
     },

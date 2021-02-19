@@ -2,38 +2,38 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 29,
+  "verses": 11,
   "content": [
     {
-      "text": "Ascribe to the  Glory",
+      "text": "Ascribe to the Lord Glory",
       "type": "heading"
     },
     {
       "text": "A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Ascribe to the , O heavenly beings,",
+      "text": "Ascribe to the Lord, O heavenly beings,",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "ascribe to the  glory and strength.",
+      "text": "ascribe to the Lord glory and strength.",
       "verse": 1,
       "type": "poetry"
     },
     {
-      "text": "Ascribe to the  the glory due his name;",
+      "text": "Ascribe to the Lord the glory due his name;",
       "verse": 2,
       "type": "poetry"
     },
     {
-      "text": "worship the  in the splendor of holiness.",
+      "text": "worship the Lord in the splendor of holiness.",
       "verse": 2,
       "type": "poetry"
     },
     {
-      "text": "The voice of the  is over the waters;",
+      "text": "The voice of the Lord is over the waters;",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -43,27 +43,27 @@
       "type": "poetry"
     },
     {
-      "text": "the , over many waters.",
+      "text": "the Lord, over many waters.",
       "verse": 3,
       "type": "poetry"
     },
     {
-      "text": "The voice of the  is powerful;",
+      "text": "The voice of the Lord is powerful;",
       "verse": 4,
       "type": "poetry"
     },
     {
-      "text": "the voice of the  is full of majesty.",
+      "text": "the voice of the Lord is full of majesty.",
       "verse": 4,
       "type": "poetry"
     },
     {
-      "text": "The voice of the  breaks the cedars;",
+      "text": "The voice of the Lord breaks the cedars;",
       "verse": 5,
       "type": "poetry newline"
     },
     {
-      "text": "the  breaks the cedars of Lebanon.",
+      "text": "the Lord breaks the cedars of Lebanon.",
       "verse": 5,
       "type": "poetry"
     },
@@ -78,22 +78,22 @@
       "type": "poetry"
     },
     {
-      "text": "The voice of the  flashes forth flames of fire.",
+      "text": "The voice of the Lord flashes forth flames of fire.",
       "verse": 7,
       "type": "poetry newline"
     },
     {
-      "text": "The voice of the  shakes the wilderness;",
+      "text": "The voice of the Lord shakes the wilderness;",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "the  shakes the wilderness of Kadesh.",
+      "text": "the Lord shakes the wilderness of Kadesh.",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "The voice of the  makes the deer give birth",
+      "text": "The voice of the Lord makes the deer give birth",
       "verse": 9,
       "type": "poetry newline"
     },
@@ -108,22 +108,22 @@
       "type": "poetry"
     },
     {
-      "text": "The  sits enthroned over the flood;",
+      "text": "The Lord sits enthroned over the flood;",
       "verse": 10,
       "type": "poetry newline"
     },
     {
-      "text": "the  sits enthroned as king forever.",
+      "text": "the Lord sits enthroned as king forever.",
       "verse": 10,
       "type": "poetry"
     },
     {
-      "text": "May the  give strength to his people!",
+      "text": "May the Lord give strength to his people!",
       "verse": 11,
       "type": "poetry"
     },
     {
-      "text": "May the  bless his people with peace!",
+      "text": "May the Lord bless his people with peace!",
       "verse": 11,
       "type": "poetry"
     }

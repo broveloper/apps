@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 51,
+  "verses": 64,
   "content": [
     {
       "text": "The Utter Destruction of Babylon",
       "type": "heading"
     },
     {
-      "text": "Thus says the :",
+      "text": "Thus says the Lord:",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -88,7 +89,7 @@
       "type": "poetry"
     },
     {
-      "text": "by their God, the  of hosts,",
+      "text": "by their God, the Lord of hosts,",
       "verse": 5,
       "type": "poetry"
     },
@@ -118,7 +119,7 @@
       "type": "poetry"
     },
     {
-      "text": "for this is the time of the 's vengeance,",
+      "text": "for this is the time of the Lord's vengeance,",
       "verse": 6,
       "type": "poetry"
     },
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "Babylon was a golden cup in the 's hand,",
+      "text": "Babylon was a golden cup in the Lord's hand,",
       "verse": 7,
       "type": "poetry"
     },
@@ -198,7 +199,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has brought about our vindication;",
+      "text": "The Lord has brought about our vindication;",
       "verse": 10,
       "type": "poetry"
     },
@@ -208,7 +209,7 @@
       "type": "poetry"
     },
     {
-      "text": "the work of the  our God.",
+      "text": "the work of the Lord our God.",
       "verse": 10,
       "type": "poetry"
     },
@@ -223,7 +224,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has stirred up the spirit of the kings of the Medes, because his purpose concerning Babylon is to destroy it, for that is the vengeance of the , the vengeance for his temple.",
+      "text": "The Lord has stirred up the spirit of the kings of the Medes, because his purpose concerning Babylon is to destroy it, for that is the vengeance of the Lord, the vengeance for his temple.",
       "verse": 11,
       "type": "newline"
     },
@@ -248,7 +249,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  has both planned and done",
+      "text": "for the Lord has both planned and done",
       "verse": 12,
       "type": "poetry"
     },
@@ -278,7 +279,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  of hosts has sworn by himself:",
+      "text": "The Lord of hosts has sworn by himself:",
       "verse": 14,
       "type": "poetry"
     },
@@ -373,7 +374,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  of hosts is his name.",
+      "text": "the Lord of hosts is his name.",
       "verse": 19,
       "type": "poetry"
     },
@@ -418,7 +419,7 @@
       "type": "poetry"
     },
     {
-      "text": "with you I break in pieces the shepherd and his flock;",
+      "text": "    with you I break in pieces the shepherd and his flock;",
       "verse": 23,
       "type": "poetry"
     },
@@ -433,7 +434,7 @@
       "type": "poetry"
     },
     {
-      "text": "“I will repay Babylon and all the inhabitants of Chaldea before your very eyes for all the evil that they have done in Zion, declares the .",
+      "text": "“I will repay Babylon and all the inhabitants of Chaldea before your very eyes for all the evil that they have done in Zion, declares the Lord.",
       "verse": 24,
       "type": "newline"
     },
@@ -443,7 +444,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 25,
       "type": "poetry"
     },
@@ -483,7 +484,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 26,
       "type": "poetry"
     },
@@ -543,7 +544,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the 's purposes against Babylon stand,",
+      "text": "for the Lord's purposes against Babylon stand,",
       "verse": 29,
       "type": "poetry"
     },
@@ -623,7 +624,7 @@
       "type": "poetry"
     },
     {
-      "text": "For thus says the  of hosts, the God of Israel:",
+      "text": "For thus says the Lord of hosts, the God of Israel:",
       "verse": 33,
       "type": "poetry"
     },
@@ -698,7 +699,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore thus says the :",
+      "text": "Therefore thus says the Lord:",
       "verse": 36,
       "type": "poetry"
     },
@@ -768,7 +769,7 @@
       "type": "poetry"
     },
     {
-      "text": "and not wake, declares the .",
+      "text": "and not wake, declares the Lord.",
       "verse": 39,
       "type": "poetry"
     },
@@ -863,7 +864,7 @@
       "type": "poetry"
     },
     {
-      "text": "from the fierce anger of the !",
+      "text": "from the fierce anger of the Lord!",
       "verse": 45,
       "type": "poetry"
     },
@@ -938,7 +939,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 48,
       "type": "poetry"
     },
@@ -963,7 +964,7 @@
       "type": "poetry"
     },
     {
-      "text": "Remember the  from far away,",
+      "text": "Remember the Lord from far away,",
       "verse": 50,
       "type": "poetry"
     },
@@ -988,12 +989,12 @@
       "type": "poetry"
     },
     {
-      "text": "into the holy places of the 's house.’",
+      "text": "into the holy places of the Lord's house.’",
       "verse": 51,
       "type": "poetry"
     },
     {
-      "text": "“Therefore, behold, the days are coming, declares the ,",
+      "text": "“Therefore, behold, the days are coming, declares the Lord,",
       "verse": 52,
       "type": "poetry newline"
     },
@@ -1028,7 +1029,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 53,
       "type": "poetry"
     },
@@ -1043,7 +1044,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the  is laying Babylon waste",
+      "text": "For the Lord is laying Babylon waste",
       "verse": 55,
       "type": "poetry"
     },
@@ -1083,7 +1084,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  is a God of recompense;",
+      "text": "for the Lord is a God of recompense;",
       "verse": 56,
       "type": "poetry"
     },
@@ -1108,12 +1109,12 @@
       "type": "poetry"
     },
     {
-      "text": "declares the King, whose name is the  of hosts.",
+      "text": "declares the King, whose name is the Lord of hosts.",
       "verse": 57,
       "type": "poetry"
     },
     {
-      "text": "“Thus says the  of hosts:",
+      "text": "“Thus says the Lord of hosts:",
       "verse": 58,
       "type": "poetry newline"
     },
@@ -1161,7 +1162,7 @@
       "verse": 61
     },
     {
-      "text": "and say, ‘O , you have said concerning this place that you will cut it off, so that nothing shall dwell in it, neither man nor beast, and it shall be desolate forever.’",
+      "text": "and say, ‘O Lord, you have said concerning this place that you will cut it off, so that nothing shall dwell in it, neither man nor beast, and it shall be desolate forever.’",
       "verse": 62
     },
     {

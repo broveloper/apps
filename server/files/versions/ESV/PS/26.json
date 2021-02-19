@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 26,
+  "verses": 12,
   "content": [
     {
-      "text": "I Will Bless the",
+      "text": "I Will Bless the Lord",
       "type": "heading"
     },
     {
       "text": "Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Vindicate me, O ,",
+      "text": "Vindicate me, O Lord,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,12 +23,12 @@
       "type": "poetry"
     },
     {
-      "text": "and I have trusted in the  without wavering.",
+      "text": "and I have trusted in the Lord without wavering.",
       "verse": 1,
       "type": "poetry"
     },
     {
-      "text": "Prove me, O , and try me;",
+      "text": "Prove me, O Lord, and try me;",
       "verse": 2,
       "type": "poetry"
     },
@@ -73,7 +73,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "and go around your altar, O ,",
+      "text": "and go around your altar, O Lord,",
       "verse": 6,
       "type": "poetry"
     },
@@ -88,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , I love the habitation of your house",
+      "text": "O Lord, I love the habitation of your house",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -133,7 +133,7 @@
       "type": "poetry"
     },
     {
-      "text": "in the great assembly I will bless the .",
+      "text": "in the great assembly I will bless the Lord.",
       "verse": 12,
       "type": "poetry"
     }

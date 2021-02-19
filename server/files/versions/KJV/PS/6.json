@@ -2,23 +2,24 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 6,
+  "verses": 10,
   "content": [
     {
-      "text": "O , rebuke me not in thine anger, neither chasten me in thy hot displeasure.",
+      "text": "O Lord, rebuke me not in thine anger, neither chasten me in thy hot displeasure.",
       "verse": 1
     },
     {
-      "text": "Have mercy upon me, O ; for I am weak: O , heal me; for my bones are vexed.",
+      "text": "Have mercy upon me, O Lord; for I am weak: O Lord, heal me; for my bones are vexed.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "My soul is also sore vexed: but thou, O , how long?",
+      "text": "My soul is also sore vexed: but thou, O Lord, how long?",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "Return, O , deliver my soul: oh save me for thy mercies' sake.",
+      "text": "Return, O Lord, deliver my soul: oh save me for thy mercies' sake.",
       "verse": 4,
       "type": "newline"
     },
@@ -38,12 +39,12 @@
       "type": "newline"
     },
     {
-      "text": "Depart from me, all ye workers of iniquity; for the  hath heard the voice of my weeping.",
+      "text": "Depart from me, all ye workers of iniquity; for the Lord hath heard the voice of my weeping.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "The  hath heard my supplication; the  will receive my prayer.",
+      "text": "The Lord hath heard my supplication; the Lord will receive my prayer.",
       "verse": 9,
       "type": "newline"
     },

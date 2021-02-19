@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 2,
+  "verses": 52,
   "content": [
     {
       "text": "And it came to pass in those days, that there went out a decree from Caesar Augustus that all the world should be taxed.",
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "And when eight days were accomplished for the circumcising of the child, his name was called , which was so named of the angel before he was conceived in the womb.",
+      "text": "And when eight days were accomplished for the circumcising of the child, his name was called Jesus, which was so named of the angel before he was conceived in the womb.",
       "verse": 21,
       "type": "newline"
     },
@@ -113,7 +114,7 @@
       "type": "newline"
     },
     {
-      "text": "(As it is written in the law of the , Every male that openeth the womb shall be called holy to the Lord;)",
+      "text": "(As it is written in the law of the Lord, Every male that openeth the womb shall be called holy to the Lord;)",
       "verse": 23,
       "type": "newline"
     },

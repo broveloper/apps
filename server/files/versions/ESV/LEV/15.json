@@ -2,13 +2,14 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 15,
+  "verses": 33,
   "content": [
     {
       "text": "Laws About Bodily Discharges",
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses and Aaron, saying,",
+      "text": "The Lord spoke to Moses and Aaron, saying,",
       "verse": 1,
       "type": "newline"
     },
@@ -62,11 +63,11 @@
       "type": "newline"
     },
     {
-      "text": "And on the eighth day he shall take two turtledoves or two pigeons and come before the  to the entrance of the tent of meeting and give them to the priest.",
+      "text": "And on the eighth day he shall take two turtledoves or two pigeons and come before the Lord to the entrance of the tent of meeting and give them to the priest.",
       "verse": 14
     },
     {
-      "text": "And the priest shall use them, one for a sin offering and the other for a burnt offering. And the priest shall make atonement for him before the  for his discharge.",
+      "text": "And the priest shall use them, one for a sin offering and the other for a burnt offering. And the priest shall make atonement for him before the Lord for his discharge.",
       "verse": 15
     },
     {
@@ -129,7 +130,7 @@
       "verse": 29
     },
     {
-      "text": "And the priest shall use one for a sin offering and the other for a burnt offering. And the priest shall make atonement for her before the  for her unclean discharge.",
+      "text": "And the priest shall use one for a sin offering and the other for a burnt offering. And the priest shall make atonement for her before the Lord for her unclean discharge.",
       "verse": 30
     },
     {

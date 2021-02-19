@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 120,
+  "verses": 7,
   "content": [
     {
-      "text": "Deliver Me, O",
+      "text": "Deliver Me, O Lord",
       "type": "heading"
     },
     {
       "text": "A Song of Ascents.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "In my distress I called to the ,",
+      "text": "In my distress I called to the Lord,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,7 +23,7 @@
       "type": "poetry"
     },
     {
-      "text": "Deliver me, O ,",
+      "text": "Deliver me, O Lord,",
       "verse": 2,
       "type": "poetry"
     },

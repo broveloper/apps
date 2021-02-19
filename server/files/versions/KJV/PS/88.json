@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 88,
+  "verses": 18,
   "content": [
     {
       "text": "O lord God of my salvation, I have cried day and night before thee:",
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "Mine eye mourneth by reason of affliction: , I have called daily upon thee, I have stretched out my hands unto thee.",
+      "text": "Mine eye mourneth by reason of affliction: Lord, I have called daily upon thee, I have stretched out my hands unto thee.",
       "verse": 9,
       "type": "newline"
     },
@@ -63,12 +64,12 @@
       "type": "newline"
     },
     {
-      "text": "But unto thee have I cried, O ; and in the morning shall my prayer prevent thee.",
+      "text": "But unto thee have I cried, O Lord; and in the morning shall my prayer prevent thee.",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": ", why castest thou off my soul? why hidest thou thy face from me?",
+      "text": "Lord, why castest thou off my soul? why hidest thou thy face from me?",
       "verse": 14,
       "type": "newline"
     },

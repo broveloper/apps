@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 7,
+  "verses": 27,
   "content": [
     {
       "text": "Warning Against the Adulterous Woman",
@@ -238,7 +239,7 @@
       "type": "poetry"
     },
     {
-      "text": "till an arrow pierces his liver,",
+      "text": "    till an arrow pierces his liver,",
       "verse": 23,
       "type": "poetry"
     },

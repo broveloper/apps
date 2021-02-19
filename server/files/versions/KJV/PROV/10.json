@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 10,
+  "verses": 32,
   "content": [
     {
       "text": "The proverbs of Solomon. A wise son maketh a glad father: but a foolish son is the heaviness of his mother.",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "The  will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked.",
+      "text": "The Lord will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked.",
       "verse": 3,
       "type": "newline"
     },
@@ -108,7 +109,7 @@
       "type": "newline"
     },
     {
-      "text": "The blessing of the , it maketh rich, and he addeth no sorrow with it.",
+      "text": "The blessing of the Lord, it maketh rich, and he addeth no sorrow with it.",
       "verse": 22,
       "type": "newline"
     },
@@ -133,7 +134,7 @@
       "type": "newline"
     },
     {
-      "text": "The fear of the  prolongeth days: but the years of the wicked shall be shortened.",
+      "text": "The fear of the Lord prolongeth days: but the years of the wicked shall be shortened.",
       "verse": 27,
       "type": "newline"
     },
@@ -143,7 +144,7 @@
       "type": "newline"
     },
     {
-      "text": "The way of the  is strength to the upright: but destruction shall be to the workers of iniquity.",
+      "text": "The way of the Lord is strength to the upright: but destruction shall be to the workers of iniquity.",
       "verse": 29,
       "type": "newline"
     },

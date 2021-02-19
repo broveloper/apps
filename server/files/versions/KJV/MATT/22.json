@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 22,
+  "verses": 46,
   "content": [
     {
       "text": "And Jesus answered and spake unto them again by parables, and said,",
@@ -218,7 +219,7 @@
       "type": "newline"
     },
     {
-      "text": "The  said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?",
+      "text": "The Lord said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?",
       "verse": 44,
       "type": "newline"
     },

@@ -2,31 +2,32 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 4,
+  "verses": 49,
   "content": [
     {
       "text": "Obedience Commanded",
       "type": "heading"
     },
     {
-      "text": "Now, Israel, hear the decrees and laws I am about to teach you. Follow them so that you may live and may go in and take possession of the land the , the God of your ancestors, is giving you.",
+      "text": "Now, Israel, hear the decrees and laws I am about to teach you. Follow them so that you may live and may go in and take possession of the land the Lord, the God of your ancestors, is giving you.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "Do not add to what I command you and do not subtract from it, but keep the commands of the  your God that I give you.",
+      "text": "Do not add to what I command you and do not subtract from it, but keep the commands of the Lord your God that I give you.",
       "verse": 2
     },
     {
-      "text": "You saw with your own eyes what the  did at Baal Peor. The  your God destroyed from among you everyone who followed the Baal of Peor,",
+      "text": "You saw with your own eyes what the Lord did at Baal Peor. The Lord your God destroyed from among you everyone who followed the Baal of Peor,",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "but all of you who held fast to the  your God are still alive today.",
+      "text": "but all of you who held fast to the Lord your God are still alive today.",
       "verse": 4
     },
     {
-      "text": "See, I have taught you decrees and laws as the  my God commanded me, so that you may follow them in the land you are entering to take possession of it.",
+      "text": "See, I have taught you decrees and laws as the Lord my God commanded me, so that you may follow them in the land you are entering to take possession of it.",
       "verse": 5,
       "type": "newline"
     },
@@ -35,7 +36,7 @@
       "verse": 6
     },
     {
-      "text": "What other nation is so great as to have their gods near them the way the  our God is near us whenever we pray to him?",
+      "text": "What other nation is so great as to have their gods near them the way the Lord our God is near us whenever we pray to him?",
       "verse": 7
     },
     {
@@ -48,7 +49,7 @@
       "type": "newline"
     },
     {
-      "text": "Remember the day you stood before the  your God at Horeb, when he said to me, “Assemble the people before me to hear my words so that they may learn to revere me as long as they live in the land and may teach them to their children.”",
+      "text": "Remember the day you stood before the Lord your God at Horeb, when he said to me, “Assemble the people before me to hear my words so that they may learn to revere me as long as they live in the land and may teach them to their children.”",
       "verse": 10
     },
     {
@@ -56,7 +57,7 @@
       "verse": 11
     },
     {
-      "text": "Then the  spoke to you out of the fire. You heard the sound of words but saw no form; there was only a voice.",
+      "text": "Then the Lord spoke to you out of the fire. You heard the sound of words but saw no form; there was only a voice.",
       "verse": 12
     },
     {
@@ -64,7 +65,7 @@
       "verse": 13
     },
     {
-      "text": "And the  directed me at that time to teach you the decrees and laws you are to follow in the land that you are crossing the Jordan to possess.",
+      "text": "And the Lord directed me at that time to teach you the decrees and laws you are to follow in the land that you are crossing the Jordan to possess.",
       "verse": 14
     },
     {
@@ -72,7 +73,7 @@
       "type": "heading"
     },
     {
-      "text": "You saw no form of any kind the day the  spoke to you at Horeb out of the fire. Therefore watch yourselves very carefully,",
+      "text": "You saw no form of any kind the day the Lord spoke to you at Horeb out of the fire. Therefore watch yourselves very carefully,",
       "verse": 15,
       "type": "newline"
     },
@@ -89,15 +90,15 @@
       "verse": 18
     },
     {
-      "text": "And when you look up to the sky and see the sun, the moon and the stars—all the heavenly array—do not be enticed into bowing down to them and worshiping things the  your God has apportioned to all the nations under heaven.",
+      "text": "And when you look up to the sky and see the sun, the moon and the stars—all the heavenly array—do not be enticed into bowing down to them and worshiping things the Lord your God has apportioned to all the nations under heaven.",
       "verse": 19
     },
     {
-      "text": "But as for you, the  took you and brought you out of the iron-smelting furnace, out of Egypt, to be the people of his inheritance, as you now are.",
+      "text": "But as for you, the Lord took you and brought you out of the iron-smelting furnace, out of Egypt, to be the people of his inheritance, as you now are.",
       "verse": 20
     },
     {
-      "text": "The  was angry with me because of you, and he solemnly swore that I would not cross the Jordan and enter the good land the  your God is giving you as your inheritance.",
+      "text": "The Lord was angry with me because of you, and he solemnly swore that I would not cross the Jordan and enter the good land the Lord your God is giving you as your inheritance.",
       "verse": 21,
       "type": "newline"
     },
@@ -106,15 +107,15 @@
       "verse": 22
     },
     {
-      "text": "Be careful not to forget the covenant of the  your God that he made with you; do not make for yourselves an idol in the form of anything the  your God has forbidden.",
+      "text": "Be careful not to forget the covenant of the Lord your God that he made with you; do not make for yourselves an idol in the form of anything the Lord your God has forbidden.",
       "verse": 23
     },
     {
-      "text": "For the  your God is a consuming fire, a jealous God.",
+      "text": "For the Lord your God is a consuming fire, a jealous God.",
       "verse": 24
     },
     {
-      "text": "After you have had children and grandchildren and have lived in the land a long time—if you then become corrupt and make any kind of idol, doing evil in the eyes of the  your God and arousing his anger,",
+      "text": "After you have had children and grandchildren and have lived in the land a long time—if you then become corrupt and make any kind of idol, doing evil in the eyes of the Lord your God and arousing his anger,",
       "verse": 25,
       "type": "newline"
     },
@@ -123,7 +124,7 @@
       "verse": 26
     },
     {
-      "text": "The  will scatter you among the peoples, and only a few of you will survive among the nations to which the  will drive you.",
+      "text": "The Lord will scatter you among the peoples, and only a few of you will survive among the nations to which the Lord will drive you.",
       "verse": 27
     },
     {
@@ -131,19 +132,19 @@
       "verse": 28
     },
     {
-      "text": "But if from there you seek the  your God, you will find him if you seek him with all your heart and with all your soul.",
+      "text": "But if from there you seek the Lord your God, you will find him if you seek him with all your heart and with all your soul.",
       "verse": 29
     },
     {
-      "text": "When you are in distress and all these things have happened to you, then in later days you will return to the  your God and obey him.",
+      "text": "When you are in distress and all these things have happened to you, then in later days you will return to the Lord your God and obey him.",
       "verse": 30
     },
     {
-      "text": "For the  your God is a merciful God; he will not abandon or destroy you or forget the covenant with your ancestors, which he confirmed to them by oath.",
+      "text": "For the Lord your God is a merciful God; he will not abandon or destroy you or forget the covenant with your ancestors, which he confirmed to them by oath.",
       "verse": 31
     },
     {
-      "text": "The  Is God",
+      "text": "The Lord Is God",
       "type": "heading"
     },
     {
@@ -156,11 +157,11 @@
       "verse": 33
     },
     {
-      "text": "Has any god ever tried to take for himself one nation out of another nation, by testings, by signs and wonders, by war, by a mighty hand and an outstretched arm, or by great and awesome deeds, like all the things the  your God did for you in Egypt before your very eyes?",
+      "text": "Has any god ever tried to take for himself one nation out of another nation, by testings, by signs and wonders, by war, by a mighty hand and an outstretched arm, or by great and awesome deeds, like all the things the Lord your God did for you in Egypt before your very eyes?",
       "verse": 34
     },
     {
-      "text": "You were shown these things so that you might know that the  is God; besides him there is no other.",
+      "text": "You were shown these things so that you might know that the Lord is God; besides him there is no other.",
       "verse": 35,
       "type": "newline"
     },
@@ -177,12 +178,12 @@
       "verse": 38
     },
     {
-      "text": "Acknowledge and take to heart this day that the  is God in heaven above and on the earth below. There is no other.",
+      "text": "Acknowledge and take to heart this day that the Lord is God in heaven above and on the earth below. There is no other.",
       "verse": 39,
       "type": "newline"
     },
     {
-      "text": "Keep his decrees and commands, which I am giving you today, so that it may go well with you and your children after you and that you may live long in the land the  your God gives you for all time.",
+      "text": "Keep his decrees and commands, which I am giving you today, so that it may go well with you and your children after you and that you may live long in the land the Lord your God gives you for all time.",
       "verse": 40
     },
     {

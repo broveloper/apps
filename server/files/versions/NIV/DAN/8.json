@@ -2,6 +2,7 @@
   "book_id": "DAN",
   "book_name": "Daniel",
   "chapter": 8,
+  "verses": 27,
   "content": [
     {
       "text": "Daniel’s Vision of a Ram and a Goat",
@@ -51,15 +52,15 @@
       "verse": 10
     },
     {
-      "text": "It set itself up to be as great as the commander of the army of the ; it took away the daily sacrifice from the , and his sanctuary was thrown down.",
+      "text": "It set itself up to be as great as the commander of the army of the Lord; it took away the daily sacrifice from the Lord, and his sanctuary was thrown down.",
       "verse": 11
     },
     {
-      "text": "Because of rebellion, the ’s people and the daily sacrifice were given over to it. It prospered in everything it did, and truth was thrown to the ground.",
+      "text": "Because of rebellion, the Lord’s people and the daily sacrifice were given over to it. It prospered in everything it did, and truth was thrown to the ground.",
       "verse": 12
     },
     {
-      "text": "Then I heard a holy one speaking, and another holy one said to him, “How long will it take for the vision to be fulfilled—the vision concerning the daily sacrifice, the rebellion that causes desolation, the surrender of the sanctuary and the trampling underfoot of the ’s people?”",
+      "text": "Then I heard a holy one speaking, and another holy one said to him, “How long will it take for the vision to be fulfilled—the vision concerning the daily sacrifice, the rebellion that causes desolation, the surrender of the sanctuary and the trampling underfoot of the Lord’s people?”",
       "verse": 13,
       "type": "newline"
     },

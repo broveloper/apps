@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 30,
+  "verses": 12,
   "content": [
     {
       "text": "Joy Comes with the Morning",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A Psalm of David. A song at the dedication of the temple.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "I will extol you, O , for you have drawn me up",
+      "text": "I will extol you, O Lord, for you have drawn me up",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,7 +23,7 @@
       "type": "poetry"
     },
     {
-      "text": "O  my God, I cried to you for help,",
+      "text": "O Lord my God, I cried to you for help,",
       "verse": 2,
       "type": "poetry"
     },
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , you have brought up my soul from Sheol;",
+      "text": "O Lord, you have brought up my soul from Sheol;",
       "verse": 3,
       "type": "poetry"
     },
@@ -43,7 +43,7 @@
       "type": "poetry"
     },
     {
-      "text": "Sing praises to the , O you his saints,",
+      "text": "Sing praises to the Lord, O you his saints,",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -83,7 +83,7 @@
       "type": "poetry"
     },
     {
-      "text": "By your favor, O ,",
+      "text": "By your favor, O Lord,",
       "verse": 7,
       "type": "poetry"
     },
@@ -103,7 +103,7 @@
       "type": "poetry"
     },
     {
-      "text": "To you, O , I cry,",
+      "text": "To you, O Lord, I cry,",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -133,12 +133,12 @@
       "type": "poetry"
     },
     {
-      "text": "Hear, O , and be merciful to me!",
+      "text": "Hear, O Lord, and be merciful to me!",
       "verse": 10,
       "type": "poetry"
     },
     {
-      "text": "O , be my helper!”",
+      "text": "O Lord, be my helper!”",
       "verse": 10,
       "type": "poetry"
     },
@@ -163,7 +163,7 @@
       "type": "poetry"
     },
     {
-      "text": "O  my God, I will give thanks to you forever!",
+      "text": "O Lord my God, I will give thanks to you forever!",
       "verse": 12,
       "type": "poetry"
     }

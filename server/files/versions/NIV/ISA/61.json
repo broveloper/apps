@@ -2,18 +2,19 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 61,
+  "verses": 11,
   "content": [
     {
-      "text": "The Year of the ’s Favor",
+      "text": "The Year of the Lord’s Favor",
       "type": "heading"
     },
     {
-      "text": "The Spirit of the Sovereign  is on me,",
+      "text": "The Spirit of the Sovereign Lord is on me,",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "because the  has anointed me",
+      "text": "because the Lord has anointed me",
       "verse": 1,
       "type": "poetry"
     },
@@ -38,7 +39,7 @@
       "type": "poetry"
     },
     {
-      "text": "to proclaim the year of the ’s favor",
+      "text": "to proclaim the year of the Lord’s favor",
       "verse": 2,
       "type": "poetry"
     },
@@ -53,7 +54,7 @@
       "type": "poetry"
     },
     {
-      "text": "and provide for those who grieve in Zion—",
+      "text": "    and provide for those who grieve in Zion—",
       "verse": 3,
       "type": "poetry"
     },
@@ -93,7 +94,7 @@
       "type": "poetry"
     },
     {
-      "text": "a planting of the",
+      "text": "a planting of the Lord",
       "verse": 3,
       "type": "poetry"
     },
@@ -133,7 +134,7 @@
       "type": "poetry"
     },
     {
-      "text": "And you will be called priests of the ,",
+      "text": "And you will be called priests of the Lord,",
       "verse": 6,
       "type": "poetry"
     },
@@ -183,7 +184,7 @@
       "type": "poetry"
     },
     {
-      "text": "“For I, the , love justice;",
+      "text": "“For I, the Lord, love justice;",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -218,12 +219,12 @@
       "type": "poetry"
     },
     {
-      "text": "that they are a people the  has blessed.”",
+      "text": "that they are a people the Lord has blessed.”",
       "verse": 9,
       "type": "poetry"
     },
     {
-      "text": "I delight greatly in the ;",
+      "text": "I delight greatly in the Lord;",
       "verse": 10,
       "type": "poetry newline"
     },
@@ -263,7 +264,7 @@
       "type": "poetry"
     },
     {
-      "text": "so the Sovereign  will make righteousness",
+      "text": "so the Sovereign Lord will make righteousness",
       "verse": 11,
       "type": "poetry"
     },

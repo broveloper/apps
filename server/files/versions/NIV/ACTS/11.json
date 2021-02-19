@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 11,
+  "verses": 30,
   "content": [
     {
       "text": "Peter Explains His Actions",
@@ -34,7 +35,7 @@
       "verse": 6
     },
     {
-      "text": "Then I heard a voice telling me,",
+      "text": "Then I heard a voice telling me, ‘Get up, Peter. Kill and eat.’",
       "verse": 7
     },
     {
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "“The voice spoke from heaven a second time,",
+      "text": "“The voice spoke from heaven a second time, ‘Do not call anything impure that God has made clean.’",
       "verse": 9,
       "type": "newline"
     },
@@ -74,7 +75,7 @@
       "type": "newline"
     },
     {
-      "text": "Then I remembered what the Lord had said:",
+      "text": "Then I remembered what the Lord had said: ‘John baptized with water, but you will be baptized with the Holy Spirit.’",
       "verse": 16
     },
     {

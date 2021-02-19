@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 1,
+  "verses": 80,
   "content": [
     {
       "text": "Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us,",
@@ -153,7 +154,7 @@
       "type": "newline"
     },
     {
-      "text": "And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name .",
+      "text": "And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name Jesus.",
       "verse": 31,
       "type": "newline"
     },

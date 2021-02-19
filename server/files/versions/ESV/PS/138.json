@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 138,
+  "verses": 8,
   "content": [
     {
-      "text": "Give Thanks to the",
+      "text": "Give Thanks to the Lord",
       "type": "heading"
     },
     {
       "text": "Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "I give you thanks, O , with my whole heart;",
+      "text": "I give you thanks, O Lord, with my whole heart;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -53,7 +53,7 @@
       "type": "poetry"
     },
     {
-      "text": "All the kings of the earth shall give you thanks, O ,",
+      "text": "All the kings of the earth shall give you thanks, O Lord,",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -63,17 +63,17 @@
       "type": "poetry"
     },
     {
-      "text": "and they shall sing of the ways of the ,",
+      "text": "and they shall sing of the ways of the Lord,",
       "verse": 5,
       "type": "poetry"
     },
     {
-      "text": "for great is the glory of the .",
+      "text": "for great is the glory of the Lord.",
       "verse": 5,
       "type": "poetry"
     },
     {
-      "text": "For though the  is high, he regards the lowly,",
+      "text": "For though the Lord is high, he regards the lowly,",
       "verse": 6,
       "type": "poetry"
     },
@@ -103,12 +103,12 @@
       "type": "poetry"
     },
     {
-      "text": "The  will fulfill his purpose for me;",
+      "text": "The Lord will fulfill his purpose for me;",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "your steadfast love, O , endures forever.",
+      "text": "your steadfast love, O Lord, endures forever.",
       "verse": 8,
       "type": "poetry"
     },

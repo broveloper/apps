@@ -2,6 +2,7 @@
   "book_id": "1CHR",
   "book_name": "1 Chronicles",
   "chapter": 18,
+  "verses": 17,
   "content": [
     {
       "text": "David’s Victories",
@@ -32,7 +33,7 @@
       "type": "newline"
     },
     {
-      "text": "He put garrisons in the Aramean kingdom of Damascus, and the Arameans became subject to him and brought him tribute. The  gave David victory wherever he went.",
+      "text": "He put garrisons in the Aramean kingdom of Damascus, and the Arameans became subject to him and brought him tribute. The Lord gave David victory wherever he went.",
       "verse": 6
     },
     {
@@ -54,7 +55,7 @@
       "verse": 10
     },
     {
-      "text": "King David dedicated these articles to the , as he had done with the silver and gold he had taken from all these nations: Edom and Moab, the Ammonites and the Philistines, and Amalek.",
+      "text": "King David dedicated these articles to the Lord, as he had done with the silver and gold he had taken from all these nations: Edom and Moab, the Ammonites and the Philistines, and Amalek.",
       "verse": 11,
       "type": "newline"
     },
@@ -64,7 +65,7 @@
       "type": "newline"
     },
     {
-      "text": "He put garrisons in Edom, and all the Edomites became subject to David. The  gave David victory wherever he went.",
+      "text": "He put garrisons in Edom, and all the Edomites became subject to David. The Lord gave David victory wherever he went.",
       "verse": 13
     },
     {

@@ -2,6 +2,7 @@
   "book_id": "HEB",
   "book_name": "Hebrews",
   "chapter": 2,
+  "verses": 18,
   "content": [
     {
       "text": "Warning Against Neglecting Salvation",
@@ -58,7 +59,7 @@
       "type": "poetry"
     },
     {
-      "text": "putting everything in subjection under his feet.”",
+      "text": "    putting everything in subjection under his feet.”",
       "verse": 8,
       "type": "poetry"
     },

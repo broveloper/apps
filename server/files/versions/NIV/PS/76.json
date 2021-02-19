@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 76,
+  "verses": 12,
   "content": [
     {
       "text": "Psalm 76",
@@ -9,8 +10,7 @@
     },
     {
       "text": "For the director of music. With stringed instruments. A psalm of Asaph. A song.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "God is renowned in Judah;",
@@ -123,7 +123,7 @@
       "type": "poetry"
     },
     {
-      "text": "Make vows to the  your God and fulfill them;",
+      "text": "Make vows to the Lord your God and fulfill them;",
       "verse": 11,
       "type": "poetry newline"
     },

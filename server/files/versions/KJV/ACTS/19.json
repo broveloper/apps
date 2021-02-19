@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 19,
+  "verses": 41,
   "content": [
     {
       "text": "And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples,",
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the  Jesus, saying, We adjure you by Jesus whom Paul preacheth.",
+      "text": "Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth.",
       "verse": 13,
       "type": "newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "MARK",
   "book_name": "Mark",
   "chapter": 1,
+  "verses": 45,
   "content": [
     {
       "text": "John the Baptist Prepares the Way",
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "he said.",
+      "text": "“The time has come,” he said. “The kingdom of God has come near. Repent and believe the good news!”",
       "verse": 15
     },
     {
@@ -111,7 +112,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said,",
+      "text": "“Come, follow me,” Jesus said, “and I will send you out to fish for people.”",
       "verse": 17
     },
     {
@@ -149,7 +150,7 @@
       "verse": 24
     },
     {
-      "text": "said Jesus sternly.",
+      "text": "“Be quiet!” said Jesus sternly. “Come out of him!”",
       "verse": 25,
       "type": "newline"
     },
@@ -214,7 +215,7 @@
       "verse": 37
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “Let us go somewhere else—to the nearby villages—so I can preach there also. That is why I have come.”",
       "verse": 38,
       "type": "newline"
     },
@@ -232,7 +233,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus was indignant. He reached out his hand and touched the man.  he said.",
+      "text": "Jesus was indignant. He reached out his hand and touched the man. “I am willing,” he said. “Be clean!”",
       "verse": 41,
       "type": "newline"
     },
@@ -246,7 +247,7 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“See that you don’t tell this to anyone. But go, show yourself to the priest and offer the sacrifices that Moses commanded for your cleansing, as a testimony to them.”",
       "verse": 44
     },
     {

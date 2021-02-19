@@ -2,13 +2,14 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 18,
+  "verses": 27,
   "content": [
     {
       "text": "Jethro Visits Moses",
       "type": "heading"
     },
     {
-      "text": "Now Jethro, the priest of Midian and father-in-law of Moses, heard of everything God had done for Moses and for his people Israel, and how the  had brought Israel out of Egypt.",
+      "text": "Now Jethro, the priest of Midian and father-in-law of Moses, heard of everything God had done for Moses and for his people Israel, and how the Lord had brought Israel out of Egypt.",
       "verse": 1,
       "type": "newline"
     },
@@ -40,20 +41,20 @@
       "type": "newline"
     },
     {
-      "text": "Moses told his father-in-law about everything the  had done to Pharaoh and the Egyptians for Israel’s sake and about all the hardships they had met along the way and how the  had saved them.",
+      "text": "Moses told his father-in-law about everything the Lord had done to Pharaoh and the Egyptians for Israel’s sake and about all the hardships they had met along the way and how the Lord had saved them.",
       "verse": 8
     },
     {
-      "text": "Jethro was delighted to hear about all the good things the  had done for Israel in rescuing them from the hand of the Egyptians.",
+      "text": "Jethro was delighted to hear about all the good things the Lord had done for Israel in rescuing them from the hand of the Egyptians.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "He said, “Praise be to the , who rescued you from the hand of the Egyptians and of Pharaoh, and who rescued the people from the hand of the Egyptians.",
+      "text": "He said, “Praise be to the Lord, who rescued you from the hand of the Egyptians and of Pharaoh, and who rescued the people from the hand of the Egyptians.",
       "verse": 10
     },
     {
-      "text": "Now I know that the  is greater than all other gods, for he did this to those who had treated Israel arrogantly.”",
+      "text": "Now I know that the Lord is greater than all other gods, for he did this to those who had treated Israel arrogantly.”",
       "verse": 11
     },
     {

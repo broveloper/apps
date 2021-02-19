@@ -2,15 +2,15 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 32,
+  "verses": 11,
   "content": [
     {
       "text": "Psalm 32",
       "type": "heading"
     },
     {
-      "text": "Of David. A",
-      "verse": 1,
-      "type": "newline"
+      "text": "Of David. A maskil.",
+      "type": "title"
     },
     {
       "text": "Blessed is the one",
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "whose sin the  does not count against them",
+      "text": "whose sin the Lord does not count against them",
       "verse": 2,
       "type": "poetry"
     },
@@ -93,7 +93,7 @@
       "type": "poetry"
     },
     {
-      "text": "my transgressions to the .”",
+      "text": "my transgressions to the Lord.”",
       "verse": 5,
       "type": "poetry"
     },
@@ -178,7 +178,7 @@
       "type": "poetry"
     },
     {
-      "text": "but the ’s unfailing love",
+      "text": "but the Lord’s unfailing love",
       "verse": 10,
       "type": "poetry"
     },
@@ -188,7 +188,7 @@
       "type": "poetry"
     },
     {
-      "text": "Rejoice in the  and be glad, you righteous;",
+      "text": "Rejoice in the Lord and be glad, you righteous;",
       "verse": 11,
       "type": "poetry newline"
     },

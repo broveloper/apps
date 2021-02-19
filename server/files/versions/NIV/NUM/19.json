@@ -2,18 +2,19 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 19,
+  "verses": 22,
   "content": [
     {
       "text": "The Water of Cleansing",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses and Aaron:",
+      "text": "The Lord said to Moses and Aaron:",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“This is a requirement of the law that the  has commanded: Tell the Israelites to bring you a red heifer without defect or blemish and that has never been under a yoke.",
+      "text": "“This is a requirement of the law that the Lord has commanded: Tell the Israelites to bring you a red heifer without defect or blemish and that has never been under a yoke.",
       "verse": 2
     },
     {
@@ -59,7 +60,7 @@
       "verse": 12
     },
     {
-      "text": "If they fail to purify themselves after touching a human corpse, they defile the ’s tabernacle. They must be cut off from Israel. Because the water of cleansing has not been sprinkled on them, they are unclean; their uncleanness remains on them.",
+      "text": "If they fail to purify themselves after touching a human corpse, they defile the Lord’s tabernacle. They must be cut off from Israel. Because the water of cleansing has not been sprinkled on them, they are unclean; their uncleanness remains on them.",
       "verse": 13
     },
     {
@@ -90,7 +91,7 @@
       "verse": 19
     },
     {
-      "text": "But if those who are unclean do not purify themselves, they must be cut off from the community, because they have defiled the sanctuary of the . The water of cleansing has not been sprinkled on them, and they are unclean.",
+      "text": "But if those who are unclean do not purify themselves, they must be cut off from the community, because they have defiled the sanctuary of the Lord. The water of cleansing has not been sprinkled on them, and they are unclean.",
       "verse": 20
     },
     {

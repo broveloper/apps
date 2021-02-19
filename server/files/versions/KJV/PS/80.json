@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 80,
+  "verses": 19,
   "content": [
     {
       "text": "Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest between the cherubims, shine forth.",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "O  God of hosts, how long wilt thou be angry against the prayer of thy people?",
+      "text": "O Lord God of hosts, how long wilt thou be angry against the prayer of thy people?",
       "verse": 4,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "Turn us again, O  God of hosts, cause thy face to shine; and we shall be saved.",
+      "text": "Turn us again, O Lord God of hosts, cause thy face to shine; and we shall be saved.",
       "verse": 19,
       "type": "newline"
     }

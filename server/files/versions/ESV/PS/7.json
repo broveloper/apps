@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 7,
+  "verses": 17,
   "content": [
     {
       "text": "In You Do I Take Refuge",
       "type": "heading"
     },
     {
-      "text": "A Shiggaion of David, which he sang to the  concerning the words of Cush, a Benjaminite.",
-      "verse": 1,
-      "type": "newline"
+      "text": "A Shiggaion of David, which he sang to the Lord concerning the words of Cush, a Benjaminite.",
+      "type": "title"
     },
     {
-      "text": "O  my God, in you do I take refuge;",
+      "text": "O Lord my God, in you do I take refuge;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "O  my God, if I have done this,",
+      "text": "O Lord my God, if I have done this,",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -63,12 +63,12 @@
       "type": "poetry"
     },
     {
-      "text": "and lay my glory in the dust.",
+      "text": "and lay my glory in the dust. Selah",
       "verse": 5,
       "type": "poetry"
     },
     {
-      "text": "Arise, O , in your anger;",
+      "text": "Arise, O Lord, in your anger;",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -93,12 +93,12 @@
       "type": "poetry"
     },
     {
-      "text": "The  judges the peoples;",
+      "text": "The Lord judges the peoples;",
       "verse": 8,
       "type": "poetry newline"
     },
     {
-      "text": "judge me, O , according to my righteousness",
+      "text": "judge me, O Lord, according to my righteousness",
       "verse": 8,
       "type": "poetry"
     },
@@ -203,12 +203,12 @@
       "type": "poetry"
     },
     {
-      "text": "I will give to the  the thanks due to his righteousness,",
+      "text": "I will give to the Lord the thanks due to his righteousness,",
       "verse": 17,
       "type": "poetry newline"
     },
     {
-      "text": "and I will sing praise to the name of the , the Most High.",
+      "text": "and I will sing praise to the name of the Lord, the Most High.",
       "verse": 17,
       "type": "poetry"
     }

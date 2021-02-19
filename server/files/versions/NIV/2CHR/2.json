@@ -2,13 +2,14 @@
   "book_id": "2CHR",
   "book_name": "2 Chronicles",
   "chapter": 2,
+  "verses": 18,
   "content": [
     {
       "text": "Preparations for Building the Temple",
       "type": "heading"
     },
     {
-      "text": "Solomon gave orders to build a temple for the Name of the  and a royal palace for himself.",
+      "text": "Solomon gave orders to build a temple for the Name of the Lord and a royal palace for himself.",
       "verse": 1,
       "type": "newline"
     },
@@ -27,7 +28,7 @@
       "type": "newline"
     },
     {
-      "text": "Now I am about to build a temple for the Name of the  my God and to dedicate it to him for burning fragrant incense before him, for setting out the consecrated bread regularly, and for making burnt offerings every morning and evening and on the Sabbaths, at the New Moons and at the appointed festivals of the  our God. This is a lasting ordinance for Israel.",
+      "text": "Now I am about to build a temple for the Name of the Lord my God and to dedicate it to him for burning fragrant incense before him, for setting out the consecrated bread regularly, and for making burnt offerings every morning and evening and on the Sabbaths, at the New Moons and at the appointed festivals of the Lord our God. This is a lasting ordinance for Israel.",
       "verse": 4
     },
     {
@@ -60,7 +61,7 @@
       "type": "newline"
     },
     {
-      "text": "“Because the  loves his people, he has made you their king.”",
+      "text": "“Because the Lord loves his people, he has made you their king.”",
       "verse": 11,
       "type": "newline"
     },
@@ -70,7 +71,7 @@
       "type": "newline"
     },
     {
-      "text": "“Praise be to the , the God of Israel, who made heaven and earth! He has given King David a wise son, endowed with intelligence and discernment, who will build a temple for the  and a palace for himself.",
+      "text": "“Praise be to the Lord, the God of Israel, who made heaven and earth! He has given King David a wise son, endowed with intelligence and discernment, who will build a temple for the Lord and a palace for himself.",
       "verse": 12,
       "type": "newline"
     },

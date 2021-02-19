@@ -2,6 +2,7 @@
   "book_id": "REV",
   "book_name": "Revelation",
   "chapter": 5,
+  "verses": 14,
   "content": [
     {
       "text": "The Scroll and the Lamb",
@@ -81,7 +82,7 @@
       "type": "newline"
     },
     {
-      "text": "saying with a loud voice,",
+      "text": "saying with a loud voice, ",
       "verse": 12
     },
     {
@@ -100,7 +101,7 @@
       "type": "poetry"
     },
     {
-      "text": "And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying,",
+      "text": "And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying, ",
       "verse": 13,
       "type": "newline"
     },

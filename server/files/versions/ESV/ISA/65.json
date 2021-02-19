@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 65,
+  "verses": 25,
   "content": [
     {
       "text": "Judgment and Salvation",
@@ -123,12 +124,12 @@
       "type": "poetry"
     },
     {
-      "text": "both your iniquities and your fathers' iniquities together,",
+      "text": "    both your iniquities and your fathers' iniquities together,",
       "verse": 7,
       "type": "poetry"
     },
     {
-      "text": "says the ;",
+      "text": "says the Lord;",
       "verse": 7,
       "type": "poetry"
     },
@@ -153,7 +154,7 @@
       "type": "poetry"
     },
     {
-      "text": "Thus says the :",
+      "text": "Thus says the Lord:",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -218,7 +219,7 @@
       "type": "poetry"
     },
     {
-      "text": "But you who forsake the ,",
+      "text": "But you who forsake the Lord,",
       "verse": 11,
       "type": "poetry"
     },
@@ -268,7 +269,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore thus says the Lord :",
+      "text": "Therefore thus says the Lord God:",
       "verse": 13,
       "type": "poetry newline"
     },
@@ -323,7 +324,7 @@
       "type": "poetry"
     },
     {
-      "text": "and the Lord  will put you to death,",
+      "text": "and the Lord God will put you to death,",
       "verse": 15,
       "type": "poetry"
     },
@@ -492,7 +493,7 @@
       "type": "poetry"
     },
     {
-      "text": "for they shall be the offspring of the blessed of the ,",
+      "text": "for they shall be the offspring of the blessed of the Lord,",
       "verse": 23,
       "type": "poetry"
     },
@@ -537,7 +538,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the .",
+      "text": "says the Lord.",
       "verse": 25,
       "type": "poetry"
     }

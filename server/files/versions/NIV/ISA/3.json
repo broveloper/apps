@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 3,
+  "verses": 26,
   "content": [
     {
       "text": "Judgment on Jerusalem and Judah",
@@ -13,7 +14,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "the  Almighty,",
+      "text": "the Lord Almighty,",
       "verse": 1,
       "type": "poetry"
     },
@@ -33,7 +34,7 @@
       "type": "poetry"
     },
     {
-      "text": "the hero and the warrior,",
+      "text": "    the hero and the warrior,",
       "verse": 2,
       "type": "poetry"
     },
@@ -138,7 +139,7 @@
       "type": "poetry"
     },
     {
-      "text": "their words and deeds are against the ,",
+      "text": "their words and deeds are against the Lord,",
       "verse": 8,
       "type": "poetry"
     },
@@ -223,7 +224,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  takes his place in court;",
+      "text": "The Lord takes his place in court;",
       "verse": 13,
       "type": "poetry newline"
     },
@@ -233,7 +234,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  enters into judgment",
+      "text": "The Lord enters into judgment",
       "verse": 14,
       "type": "poetry"
     },
@@ -263,12 +264,12 @@
       "type": "poetry"
     },
     {
-      "text": "declares the Lord, the  Almighty.",
+      "text": "declares the Lord, the Lord Almighty.",
       "verse": 15,
       "type": "poetry"
     },
     {
-      "text": "The  says,",
+      "text": "The Lord says,",
       "verse": 16,
       "type": "poetry newline"
     },
@@ -303,7 +304,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  will make their scalps bald.”",
+      "text": "the Lord will make their scalps bald.”",
       "verse": 17,
       "type": "poetry"
     },

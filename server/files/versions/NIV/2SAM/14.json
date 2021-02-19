@@ -2,6 +2,7 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 14,
+  "verses": 33,
   "content": [
     {
       "text": "Absalom Returns to Jerusalem",
@@ -59,12 +60,12 @@
       "type": "newline"
     },
     {
-      "text": "She said, “Then let the king invoke the  his God to prevent the avenger of blood from adding to the destruction, so that my son will not be destroyed.”",
+      "text": "She said, “Then let the king invoke the Lord his God to prevent the avenger of blood from adding to the destruction, so that my son will not be destroyed.”",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "“As surely as the  lives,” he said, “not one hair of your son’s head will fall to the ground.”",
+      "text": "“As surely as the Lord lives,” he said, “not one hair of your son’s head will fall to the ground.”",
       "verse": 11,
       "type": "newline"
     },
@@ -97,7 +98,7 @@
       "verse": 16
     },
     {
-      "text": "“And now your servant says, ‘May the word of my lord the king secure my inheritance, for my lord the king is like an angel of God in discerning good and evil. May the  your God be with you.’”",
+      "text": "“And now your servant says, ‘May the word of my lord the king secure my inheritance, for my lord the king is like an angel of God in discerning good and evil. May the Lord your God be with you.’”",
       "verse": 17,
       "type": "newline"
     },

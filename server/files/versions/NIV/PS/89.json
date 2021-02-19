@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 89,
+  "verses": 52,
   "content": [
     {
       "text": "Psalm 89",
       "type": "heading"
     },
     {
-      "text": "A  of Ethan the Ezrahite.",
-      "verse": 1,
-      "type": "newline"
+      "text": "A maskil of Ethan the Ezrahite.",
+      "type": "title"
     },
     {
-      "text": "I will sing of the ’s great love forever;",
+      "text": "I will sing of the Lord’s great love forever;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -58,7 +58,7 @@
       "type": "poetry"
     },
     {
-      "text": "The heavens praise your wonders, ,",
+      "text": "The heavens praise your wonders, Lord,",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -68,12 +68,12 @@
       "type": "poetry"
     },
     {
-      "text": "For who in the skies above can compare with the ?",
+      "text": "For who in the skies above can compare with the Lord?",
       "verse": 6,
       "type": "poetry"
     },
     {
-      "text": "Who is like the  among the heavenly beings?",
+      "text": "Who is like the Lord among the heavenly beings?",
       "verse": 6,
       "type": "poetry"
     },
@@ -88,12 +88,12 @@
       "type": "poetry"
     },
     {
-      "text": "Who is like you,  God Almighty?",
+      "text": "Who is like you, Lord God Almighty?",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "You, , are mighty, and your faithfulness surrounds you.",
+      "text": "You, Lord, are mighty, and your faithfulness surrounds you.",
       "verse": 8,
       "type": "poetry"
     },
@@ -163,7 +163,7 @@
       "type": "poetry"
     },
     {
-      "text": "who walk in the light of your presence, .",
+      "text": "who walk in the light of your presence, Lord.",
       "verse": 15,
       "type": "poetry"
     },
@@ -188,7 +188,7 @@
       "type": "poetry"
     },
     {
-      "text": "Indeed, our shield belongs to the ,",
+      "text": "Indeed, our shield belongs to the Lord,",
       "verse": 18,
       "type": "poetry"
     },
@@ -478,7 +478,7 @@
       "type": "poetry"
     },
     {
-      "text": "How long, ? Will you hide yourself forever?",
+      "text": "How long, Lord? Will you hide yourself forever?",
       "verse": 46,
       "type": "poetry newline"
     },
@@ -528,7 +528,7 @@
       "type": "poetry"
     },
     {
-      "text": "the taunts with which your enemies, , have mocked,",
+      "text": "the taunts with which your enemies, Lord, have mocked,",
       "verse": 51,
       "type": "poetry"
     },
@@ -538,7 +538,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise be to the  forever!",
+      "text": "Praise be to the Lord forever!",
       "verse": 52,
       "type": "poetry newline"
     },

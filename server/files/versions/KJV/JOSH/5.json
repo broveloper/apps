@@ -2,13 +2,14 @@
   "book_id": "JOSH",
   "book_name": "Joshua",
   "chapter": 5,
+  "verses": 15,
   "content": [
     {
-      "text": "And it came to pass, when all the kings of the Amorites, which were on the side of Jordan westward, and all the kings of the Canaanites, which were by the sea, heard that the  had dried up the waters of Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel.",
+      "text": "And it came to pass, when all the kings of the Amorites, which were on the side of Jordan westward, and all the kings of the Canaanites, which were by the sea, heard that the Lord had dried up the waters of Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel.",
       "verse": 1
     },
     {
-      "text": "At that time the  said unto Joshua, Make thee sharp knives, and circumcise again the children of Israel the second time.",
+      "text": "At that time the Lord said unto Joshua, Make thee sharp knives, and circumcise again the children of Israel the second time.",
       "verse": 2,
       "type": "newline"
     },
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "For the children of Israel walked forty years in the wilderness, till all the people that were men of war, which came out of Egypt, were consumed, because they obeyed not the voice of the : unto whom the  sware that he would not shew them the land, which the  sware unto their fathers that he would give us, a land that floweth with milk and honey.",
+      "text": "For the children of Israel walked forty years in the wilderness, till all the people that were men of war, which came out of Egypt, were consumed, because they obeyed not the voice of the Lord: unto whom the Lord sware that he would not shew them the land, which the Lord sware unto their fathers that he would give us, a land that floweth with milk and honey.",
       "verse": 6,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  said unto Joshua, This day have I rolled away the reproach of Egypt from off you. Wherefore the name of the place is called Gilgal unto this day.",
+      "text": "And the Lord said unto Joshua, This day have I rolled away the reproach of Egypt from off you. Wherefore the name of the place is called Gilgal unto this day.",
       "verse": 9,
       "type": "newline"
     },
@@ -68,12 +69,12 @@
       "type": "newline"
     },
     {
-      "text": "And he said, Nay; but as captain of the host of the  am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What saith my Lord unto his servant?",
+      "text": "And he said, Nay; but as captain of the host of the Lord am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What saith my Lord unto his servant?",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "And the captain of the 's host said unto Joshua, Loose thy shoe from off thy foot; for the place whereon thou standest is holy. And Joshua did so.",
+      "text": "And the captain of the Lord's host said unto Joshua, Loose thy shoe from off thy foot; for the place whereon thou standest is holy. And Joshua did so.",
       "verse": 15,
       "type": "newline"
     }

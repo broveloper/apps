@@ -2,6 +2,7 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 12,
+  "verses": 14,
   "content": [
     {
       "text": "Ephraim feeds on the wind",
@@ -29,11 +30,11 @@
       "type": "poetry"
     },
     {
-      "text": "The 's Indictment of Israel and Judah",
+      "text": "The Lord's Indictment of Israel and Judah",
       "type": "heading"
     },
     {
-      "text": "The  has an indictment against Judah",
+      "text": "The Lord has an indictment against Judah",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -78,12 +79,12 @@
       "type": "poetry"
     },
     {
-      "text": "the , the God of hosts,",
+      "text": "the Lord, the God of hosts,",
       "verse": 5,
       "type": "poetry"
     },
     {
-      "text": "the  is his memorial name:",
+      "text": "the Lord is his memorial name:",
       "verse": 5,
       "type": "poetry"
     },
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "I am the  your God",
+      "text": "I am the Lord your God",
       "verse": 9,
       "type": "poetry"
     },
@@ -203,7 +204,7 @@
       "type": "poetry"
     },
     {
-      "text": "By a prophet the  brought Israel up from Egypt,",
+      "text": "By a prophet the Lord brought Israel up from Egypt,",
       "verse": 13,
       "type": "poetry"
     },

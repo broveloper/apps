@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 3,
+  "verses": 17,
   "content": [
     {
       "text": "John the Baptist Prepares the Way",
@@ -88,7 +89,7 @@
       "verse": 14
     },
     {
-      "text": "But Jesus answered him,  Then he consented.",
+      "text": "But Jesus answered him, “Let it be so now, for thus it is fitting for us to fulfill all righteousness.” Then he consented.",
       "verse": 15
     },
     {

@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 7,
+  "verses": 25,
   "content": [
     {
       "text": "And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it.",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "Then said the  unto Isaiah, Go forth now to meet Ahaz, thou, and Shearjashub thy son, at the end of the conduit of the upper pool in the highway of the fuller's field;",
+      "text": "Then said the Lord unto Isaiah, Go forth now to meet Ahaz, thou, and Shearjashub thy son, at the end of the conduit of the upper pool in the highway of the fuller's field;",
       "verse": 3,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "Thus saith the Lord , It shall not stand, neither shall it come to pass.",
+      "text": "Thus saith the Lord God, It shall not stand, neither shall it come to pass.",
       "verse": 7,
       "type": "newline"
     },
@@ -48,17 +49,17 @@
       "type": "newline"
     },
     {
-      "text": "Moreover the  spake again unto Ahaz, saying,",
+      "text": "Moreover the Lord spake again unto Ahaz, saying,",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "Ask thee a sign of the  thy God; ask it either in the depth, or in the height above.",
+      "text": "Ask thee a sign of the Lord thy God; ask it either in the depth, or in the height above.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "But Ahaz said, I will not ask, neither will I tempt the .",
+      "text": "But Ahaz said, I will not ask, neither will I tempt the Lord.",
       "verse": 12,
       "type": "newline"
     },
@@ -83,12 +84,12 @@
       "type": "newline"
     },
     {
-      "text": "The  shall bring upon thee, and upon thy people, and upon thy father's house, days that have not come, from the day that Ephraim departed from Judah; even the king of Assyria.",
+      "text": "The Lord shall bring upon thee, and upon thy people, and upon thy father's house, days that have not come, from the day that Ephraim departed from Judah; even the king of Assyria.",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "And it shall come to pass in that day, that the  shall hiss for the fly that is in the uttermost part of the rivers of Egypt, and for the bee that is in the land of Assyria.",
+      "text": "And it shall come to pass in that day, that the Lord shall hiss for the fly that is in the uttermost part of the rivers of Egypt, and for the bee that is in the land of Assyria.",
       "verse": 18,
       "type": "newline"
     },

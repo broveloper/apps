@@ -2,18 +2,19 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 148,
+  "verses": 14,
   "content": [
     {
       "text": "Psalm 148",
       "type": "heading"
     },
     {
-      "text": "Praise the .",
+      "text": "Praise the Lord.",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "Praise the  from the heavens;",
+      "text": "Praise the Lord from the heavens;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -53,7 +54,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let them praise the name of the ,",
+      "text": "Let them praise the name of the Lord,",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -73,7 +74,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the  from the earth,",
+      "text": "Praise the Lord from the earth,",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -133,7 +134,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let them praise the name of the ,",
+      "text": "Let them praise the name of the Lord,",
       "verse": 13,
       "type": "poetry newline"
     },
@@ -163,7 +164,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the .",
+      "text": "Praise the Lord.",
       "verse": 14,
       "type": "poetry newline"
     }

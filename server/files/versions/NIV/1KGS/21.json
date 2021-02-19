@@ -2,6 +2,7 @@
   "book_id": "1KGS",
   "book_name": "1 Kings",
   "chapter": 21,
+  "verses": 29,
   "content": [
     {
       "text": "Naboth’s Vineyard",
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "But Naboth replied, “The  forbid that I should give you the inheritance of my ancestors.”",
+      "text": "But Naboth replied, “The Lord forbid that I should give you the inheritance of my ancestors.”",
       "verse": 3,
       "type": "newline"
     },
@@ -86,7 +87,7 @@
       "verse": 16
     },
     {
-      "text": "Then the word of the  came to Elijah the Tishbite:",
+      "text": "Then the word of the Lord came to Elijah the Tishbite:",
       "verse": 17,
       "type": "newline"
     },
@@ -95,7 +96,7 @@
       "verse": 18
     },
     {
-      "text": "Say to him, ‘This is what the  says: Have you not murdered a man and seized his property?’ Then say to him, ‘This is what the  says: In the place where dogs licked up Naboth’s blood, dogs will lick up your blood—yes, yours!’”",
+      "text": "Say to him, ‘This is what the Lord says: Have you not murdered a man and seized his property?’ Then say to him, ‘This is what the Lord says: In the place where dogs licked up Naboth’s blood, dogs will lick up your blood—yes, yours!’”",
       "verse": 19
     },
     {
@@ -104,7 +105,7 @@
       "type": "newline"
     },
     {
-      "text": "“I have found you,” he answered, “because you have sold yourself to do evil in the eyes of the .",
+      "text": "“I have found you,” he answered, “because you have sold yourself to do evil in the eyes of the Lord.",
       "verse": 20,
       "type": "newline"
     },
@@ -117,7 +118,7 @@
       "verse": 22
     },
     {
-      "text": "“And also concerning Jezebel the  says: ‘Dogs will devour Jezebel by the wall of Jezreel.’",
+      "text": "“And also concerning Jezebel the Lord says: ‘Dogs will devour Jezebel by the wall of Jezreel.’",
       "verse": 23,
       "type": "newline"
     },
@@ -127,12 +128,12 @@
       "type": "newline"
     },
     {
-      "text": "(There was never anyone like Ahab, who sold himself to do evil in the eyes of the , urged on by Jezebel his wife.",
+      "text": "(There was never anyone like Ahab, who sold himself to do evil in the eyes of the Lord, urged on by Jezebel his wife.",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "He behaved in the vilest manner by going after idols, like the Amorites the  drove out before Israel.)",
+      "text": "He behaved in the vilest manner by going after idols, like the Amorites the Lord drove out before Israel.)",
       "verse": 26
     },
     {
@@ -141,7 +142,7 @@
       "type": "newline"
     },
     {
-      "text": "Then the word of the  came to Elijah the Tishbite:",
+      "text": "Then the word of the Lord came to Elijah the Tishbite:",
       "verse": 28,
       "type": "newline"
     },

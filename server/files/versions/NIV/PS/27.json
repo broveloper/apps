@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 27,
+  "verses": 14,
   "content": [
     {
       "text": "Psalm 27",
@@ -9,11 +10,10 @@
     },
     {
       "text": "Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "The  is my light and my salvation—",
+      "text": "The Lord is my light and my salvation—",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,7 +23,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is the stronghold of my life—",
+      "text": "The Lord is the stronghold of my life—",
       "verse": 1,
       "type": "poetry"
     },
@@ -73,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "One thing I ask from the ,",
+      "text": "One thing I ask from the Lord,",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -83,7 +83,7 @@
       "type": "poetry"
     },
     {
-      "text": "that I may dwell in the house of the",
+      "text": "that I may dwell in the house of the Lord",
       "verse": 4,
       "type": "poetry"
     },
@@ -93,7 +93,7 @@
       "type": "poetry"
     },
     {
-      "text": "to gaze on the beauty of the",
+      "text": "to gaze on the beauty of the Lord",
       "verse": 4,
       "type": "poetry"
     },
@@ -138,12 +138,12 @@
       "type": "poetry"
     },
     {
-      "text": "I will sing and make music to the .",
+      "text": "I will sing and make music to the Lord.",
       "verse": 6,
       "type": "poetry"
     },
     {
-      "text": "Hear my voice when I call, ;",
+      "text": "Hear my voice when I call, Lord;",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -158,7 +158,7 @@
       "type": "poetry"
     },
     {
-      "text": "Your face, , I will seek.",
+      "text": "Your face, Lord, I will seek.",
       "verse": 8,
       "type": "poetry"
     },
@@ -193,12 +193,12 @@
       "type": "poetry"
     },
     {
-      "text": "the  will receive me.",
+      "text": "the Lord will receive me.",
       "verse": 10,
       "type": "poetry"
     },
     {
-      "text": "Teach me your way, ;",
+      "text": "Teach me your way, Lord;",
       "verse": 11,
       "type": "poetry"
     },
@@ -233,7 +233,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "I will see the goodness of the",
+      "text": "I will see the goodness of the Lord",
       "verse": 13,
       "type": "poetry"
     },
@@ -243,7 +243,7 @@
       "type": "poetry"
     },
     {
-      "text": "Wait for the ;",
+      "text": "Wait for the Lord;",
       "verse": 14,
       "type": "poetry"
     },
@@ -253,7 +253,7 @@
       "type": "poetry"
     },
     {
-      "text": "and wait for the .",
+      "text": "and wait for the Lord.",
       "verse": 14,
       "type": "poetry"
     }

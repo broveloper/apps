@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 65,
+  "verses": 13,
   "content": [
     {
       "text": "Psalm 65",
@@ -9,8 +10,7 @@
     },
     {
       "text": "For the director of music. A psalm of David. A song.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Praise awaits you, our God, in Zion;",

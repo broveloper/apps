@@ -2,6 +2,7 @@
   "book_id": "RUTH",
   "book_name": "Ruth",
   "chapter": 2,
+  "verses": 23,
   "content": [
     {
       "text": "And Naomi had a kinsman of her husband's, a mighty man of wealth, of the family of Elimelech; and his name was Boaz.",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "And, behold, Boaz came from Bethlehem, and said unto the reapers, The  be with you. And they answered him, The  bless thee.",
+      "text": "And, behold, Boaz came from Bethlehem, and said unto the reapers, The Lord be with you. And they answered him, The Lord bless thee.",
       "verse": 4,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "The  recompense thy work, and a full reward be given thee of the  God of Israel, under whose wings thou art come to trust.",
+      "text": "The Lord recompense thy work, and a full reward be given thee of the Lord God of Israel, under whose wings thou art come to trust.",
       "verse": 12,
       "type": "newline"
     },
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "And Naomi said unto her daughter in law, Blessed be he of the , who hath not left off his kindness to the living and to the dead. And Naomi said unto her, The man is near of kin unto us, one of our next kinsmen.",
+      "text": "And Naomi said unto her daughter in law, Blessed be he of the Lord, who hath not left off his kindness to the living and to the dead. And Naomi said unto her, The man is near of kin unto us, one of our next kinsmen.",
       "verse": 20,
       "type": "newline"
     },

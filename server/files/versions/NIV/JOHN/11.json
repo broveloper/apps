@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 11,
+  "verses": 57,
   "content": [
     {
       "text": "The Death of Lazarus",
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "When he heard this, Jesus said,",
+      "text": "When he heard this, Jesus said, “This sickness will not end in death. No, it is for God’s glory so that God’s Son may be glorified through it.”",
       "verse": 4,
       "type": "newline"
     },
@@ -34,7 +35,7 @@
       "verse": 6
     },
     {
-      "text": "and then he said to his disciples,",
+      "text": "and then he said to his disciples, “Let us go back to Judea.”",
       "verse": 7
     },
     {
@@ -43,16 +44,16 @@
       "type": "newline"
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “Are there not twelve hours of daylight? Anyone who walks in the daytime will not stumble, for they see by this world’s light.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "It is when a person walks at night that they stumble, for they have no light.”",
       "verse": 10
     },
     {
-      "text": "After he had said this, he went on to tell them,",
+      "text": "After he had said this, he went on to tell them, “Our friend Lazarus has fallen asleep; but I am going there to wake him up.”",
       "verse": 11,
       "type": "newline"
     },
@@ -66,12 +67,12 @@
       "verse": 13
     },
     {
-      "text": "So then he told them plainly,",
+      "text": "So then he told them plainly, “Lazarus is dead,",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "and for your sake I am glad I was not there, so that you may believe. But let us go to him.”",
       "verse": 15
     },
     {
@@ -110,7 +111,7 @@
       "verse": 22
     },
     {
-      "text": "Jesus said to her,",
+      "text": "Jesus said to her, “Your brother will rise again.”",
       "verse": 23,
       "type": "newline"
     },
@@ -120,12 +121,12 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said to her,",
+      "text": "Jesus said to her, “I am the resurrection and the life. The one who believes in me will live, even though they die;",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "and whoever lives by believing in me will never die. Do you believe this?”",
       "verse": 26
     },
     {
@@ -161,7 +162,7 @@
       "type": "newline"
     },
     {
-      "text": "he asked.",
+      "text": "“Where have you laid him?” he asked.",
       "verse": 34
     },
     {
@@ -194,7 +195,7 @@
       "type": "newline"
     },
     {
-      "text": "he said.",
+      "text": "“Take away the stone,” he said.",
       "verse": 39
     },
     {
@@ -203,21 +204,21 @@
       "type": "newline"
     },
     {
-      "text": "Then Jesus said,",
+      "text": "Then Jesus said, “Did I not tell you that if you believe, you will see the glory of God?”",
       "verse": 40,
       "type": "newline"
     },
     {
-      "text": "So they took away the stone. Then Jesus looked up and said,",
+      "text": "So they took away the stone. Then Jesus looked up and said, “Father, I thank you that you have heard me.",
       "verse": 41,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "I knew that you always hear me, but I said this for the benefit of the people standing here, that they may believe that you sent me.”",
       "verse": 42
     },
     {
-      "text": "When he had said this, Jesus called in a loud voice,",
+      "text": "When he had said this, Jesus called in a loud voice, “Lazarus, come out!”",
       "verse": 43,
       "type": "newline"
     },
@@ -226,7 +227,7 @@
       "verse": 44
     },
     {
-      "text": "Jesus said to them,",
+      "text": "Jesus said to them, “Take off the grave clothes and let him go.”",
       "verse": 44,
       "type": "newline"
     },

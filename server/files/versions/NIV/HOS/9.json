@@ -2,6 +2,7 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 9,
+  "verses": 17,
   "content": [
     {
       "text": "Punishment for Israel",
@@ -43,7 +44,7 @@
       "type": "poetry"
     },
     {
-      "text": "They will not remain in the ’s land;",
+      "text": "They will not remain in the Lord’s land;",
       "verse": 3,
       "type": "poetry"
     },
@@ -58,7 +59,7 @@
       "type": "poetry"
     },
     {
-      "text": "They will not pour out wine offerings to the ,",
+      "text": "They will not pour out wine offerings to the Lord,",
       "verse": 4,
       "type": "poetry"
     },
@@ -83,7 +84,7 @@
       "type": "poetry"
     },
     {
-      "text": "it will not come into the temple of the .",
+      "text": "it will not come into the temple of the Lord.",
       "verse": 4,
       "type": "poetry"
     },
@@ -93,7 +94,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "on the feast days of the ?",
+      "text": "on the feast days of the Lord?",
       "verse": 5,
       "type": "poetry"
     },
@@ -283,7 +284,7 @@
       "type": "poetry"
     },
     {
-      "text": "Give them, —",
+      "text": "Give them, Lord—",
       "verse": 14,
       "type": "poetry newline"
     },

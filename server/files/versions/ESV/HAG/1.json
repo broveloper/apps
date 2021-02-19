@@ -2,22 +2,23 @@
   "book_id": "HAG",
   "book_name": "Haggai",
   "chapter": 1,
+  "verses": 15,
   "content": [
     {
       "text": "The Command to Rebuild the Temple",
       "type": "heading"
     },
     {
-      "text": "In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the  came by the hand of Haggai the prophet to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest:",
+      "text": "In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of Haggai the prophet to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest:",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Thus says the  of hosts: These people say the time has not yet come to rebuild the house of the .”",
+      "text": "“Thus says the Lord of hosts: These people say the time has not yet come to rebuild the house of the Lord.”",
       "verse": 2
     },
     {
-      "text": "Then the word of the  came by the hand of Haggai the prophet,",
+      "text": "Then the word of the Lord came by the hand of Haggai the prophet,",
       "verse": 3
     },
     {
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "Now, therefore, thus says the  of hosts: Consider your ways.",
+      "text": "Now, therefore, thus says the Lord of hosts: Consider your ways.",
       "verse": 5
     },
     {
@@ -33,16 +34,16 @@
       "verse": 6
     },
     {
-      "text": "“Thus says the  of hosts: Consider your ways.",
+      "text": "“Thus says the Lord of hosts: Consider your ways.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "Go up to the hills and bring wood and build the house, that I may take pleasure in it and that I may be glorified, says the .",
+      "text": "Go up to the hills and bring wood and build the house, that I may take pleasure in it and that I may be glorified, says the Lord.",
       "verse": 8
     },
     {
-      "text": "You looked for much, and behold, it came to little. And when you brought it home, I blew it away. Why? declares the  of hosts. Because of my house that lies in ruins, while each of you busies himself with his own house.",
+      "text": "You looked for much, and behold, it came to little. And when you brought it home, I blew it away. Why? declares the Lord of hosts. Because of my house that lies in ruins, while each of you busies himself with his own house.",
       "verse": 9
     },
     {
@@ -54,20 +55,20 @@
       "verse": 11
     },
     {
-      "text": "The People Obey the",
+      "text": "The People Obey the Lord",
       "type": "heading"
     },
     {
-      "text": "Then Zerubbabel the son of Shealtiel, and Joshua the son of Jehozadak, the high priest, with all the remnant of the people, obeyed the voice of the  their God, and the words of Haggai the prophet, as the  their God had sent him. And the people feared the .",
+      "text": "Then Zerubbabel the son of Shealtiel, and Joshua the son of Jehozadak, the high priest, with all the remnant of the people, obeyed the voice of the Lord their God, and the words of Haggai the prophet, as the Lord their God had sent him. And the people feared the Lord.",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "Then Haggai, the messenger of the , spoke to the people with the 's message, “I am with you, declares the .”",
+      "text": "Then Haggai, the messenger of the Lord, spoke to the people with the Lord's message, “I am with you, declares the Lord.”",
       "verse": 13
     },
     {
-      "text": "And the  stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Jehozadak, the high priest, and the spirit of all the remnant of the people. And they came and worked on the house of the  of hosts, their God,",
+      "text": "And the Lord stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Jehozadak, the high priest, and the spirit of all the remnant of the people. And they came and worked on the house of the Lord of hosts, their God,",
       "verse": 14
     },
     {

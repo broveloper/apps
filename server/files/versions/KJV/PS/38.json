@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 38,
+  "verses": 22,
   "content": [
     {
       "text": "O Lord, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.",
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "For in thee, O , do I hope: thou wilt hear, O Lord my God.",
+      "text": "For in thee, O Lord, do I hope: thou wilt hear, O Lord my God.",
       "verse": 15,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "Forsake me not, O : O my God, be not far from me.",
+      "text": "Forsake me not, O Lord: O my God, be not far from me.",
       "verse": 21,
       "type": "newline"
     },

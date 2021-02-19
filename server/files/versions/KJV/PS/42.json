@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 42,
+  "verses": 11,
   "content": [
     {
       "text": "As the hart panteth after the water brooks, so panteth my soul after thee, O God.",
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "Yet the  will command his lovingkindness in the day time, and in the night his song shall be with me, and my prayer unto the God of my life.",
+      "text": "Yet the Lord will command his lovingkindness in the day time, and in the night his song shall be with me, and my prayer unto the God of my life.",
       "verse": 8,
       "type": "newline"
     },

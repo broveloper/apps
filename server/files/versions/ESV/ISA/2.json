@@ -2,9 +2,10 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 2,
+  "verses": 22,
   "content": [
     {
-      "text": "The Mountain of the",
+      "text": "The Mountain of the Lord",
       "type": "heading"
     },
     {
@@ -18,7 +19,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "that the mountain of the house of the",
+      "text": "that the mountain of the house of the Lord",
       "verse": 2,
       "type": "poetry"
     },
@@ -38,12 +39,12 @@
       "type": "poetry"
     },
     {
-      "text": "and many peoples shall come, and say:",
+      "text": "    and many peoples shall come, and say:",
       "verse": 3,
       "type": "poetry"
     },
     {
-      "text": "“Come, let us go up to the mountain of the ,",
+      "text": "“Come, let us go up to the mountain of the Lord,",
       "verse": 3,
       "type": "poetry"
     },
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "and the word of the  from Jerusalem.",
+      "text": "and the word of the Lord from Jerusalem.",
       "verse": 3,
       "type": "poetry"
     },
@@ -113,12 +114,12 @@
       "type": "poetry"
     },
     {
-      "text": "in the light of the .",
+      "text": "in the light of the Lord.",
       "verse": 5,
       "type": "poetry"
     },
     {
-      "text": "The Day of the",
+      "text": "The Day of the Lord",
       "type": "heading"
     },
     {
@@ -207,7 +208,7 @@
       "type": "poetry"
     },
     {
-      "text": "from before the terror of the ,",
+      "text": "from before the terror of the Lord,",
       "verse": 10,
       "type": "poetry"
     },
@@ -227,12 +228,12 @@
       "type": "poetry"
     },
     {
-      "text": "and the  alone will be exalted in that day.",
+      "text": "and the Lord alone will be exalted in that day.",
       "verse": 11,
       "type": "poetry"
     },
     {
-      "text": "For the  of hosts has a day",
+      "text": "For the Lord of hosts has a day",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -302,7 +303,7 @@
       "type": "poetry"
     },
     {
-      "text": "and the  alone will be exalted in that day.",
+      "text": "and the Lord alone will be exalted in that day.",
       "verse": 17,
       "type": "poetry"
     },
@@ -322,7 +323,7 @@
       "type": "poetry"
     },
     {
-      "text": "from before the terror of the ,",
+      "text": "from before the terror of the Lord,",
       "verse": 19,
       "type": "poetry"
     },
@@ -367,7 +368,7 @@
       "type": "poetry"
     },
     {
-      "text": "from before the terror of the ,",
+      "text": "from before the terror of the Lord,",
       "verse": 21,
       "type": "poetry"
     },

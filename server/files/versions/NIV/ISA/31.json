@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 31,
+  "verses": 9,
   "content": [
     {
       "text": "Woe to Those Who Rely on Egypt",
@@ -33,7 +34,7 @@
       "type": "poetry"
     },
     {
-      "text": "or seek help from the .",
+      "text": "or seek help from the Lord.",
       "verse": 1,
       "type": "poetry"
     },
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "When the  stretches out his hand,",
+      "text": "When the Lord stretches out his hand,",
       "verse": 3,
       "type": "poetry"
     },
@@ -88,7 +89,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the  says to me:",
+      "text": "This is what the Lord says to me:",
       "verse": 4,
       "type": "newline"
     },
@@ -123,7 +124,7 @@
       "type": "poetry"
     },
     {
-      "text": "so the  Almighty will come down",
+      "text": "so the Lord Almighty will come down",
       "verse": 4,
       "type": "poetry"
     },
@@ -138,7 +139,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  Almighty will shield Jerusalem;",
+      "text": "the Lord Almighty will shield Jerusalem;",
       "verse": 5,
       "type": "poetry"
     },
@@ -192,7 +193,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 9,
       "type": "poetry"
     },

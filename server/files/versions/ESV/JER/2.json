@@ -2,18 +2,19 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 2,
+  "verses": 37,
   "content": [
     {
-      "text": "Israel Forsakes the",
+      "text": "Israel Forsakes the Lord",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me, saying,",
+      "text": "The word of the Lord came to me, saying,",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Go and proclaim in the hearing of Jerusalem, Thus says the ,",
+      "text": "“Go and proclaim in the hearing of Jerusalem, Thus says the Lord,",
       "verse": 2
     },
     {
@@ -37,7 +38,7 @@
       "type": "poetry"
     },
     {
-      "text": "Israel was holy to the ,",
+      "text": "Israel was holy to the Lord,",
       "verse": 3,
       "type": "poetry"
     },
@@ -57,17 +58,17 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .”",
+      "text": "declares the Lord.”",
       "verse": 3,
       "type": "poetry"
     },
     {
-      "text": "Hear the word of the , O house of Jacob, and all the clans of the house of Israel.",
+      "text": "Hear the word of the Lord, O house of Jacob, and all the clans of the house of Israel.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "Thus says the :",
+      "text": "Thus says the Lord:",
       "verse": 5
     },
     {
@@ -86,7 +87,7 @@
       "type": "poetry"
     },
     {
-      "text": "They did not say, ‘Where is the",
+      "text": "They did not say, ‘Where is the Lord",
       "verse": 6,
       "type": "poetry"
     },
@@ -141,7 +142,7 @@
       "type": "poetry"
     },
     {
-      "text": "The priests did not say, ‘Where is the ?’",
+      "text": "The priests did not say, ‘Where is the Lord?’",
       "verse": 8,
       "type": "poetry"
     },
@@ -171,7 +172,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 9,
       "type": "poetry"
     },
@@ -226,7 +227,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 12,
       "type": "poetry"
     },
@@ -301,7 +302,7 @@
       "type": "poetry"
     },
     {
-      "text": "by forsaking the  your God,",
+      "text": "by forsaking the Lord your God,",
       "verse": 17,
       "type": "poetry"
     },
@@ -346,7 +347,7 @@
       "type": "poetry"
     },
     {
-      "text": "for you to forsake the  your God;",
+      "text": "for you to forsake the Lord your God;",
       "verse": 19,
       "type": "poetry"
     },
@@ -356,7 +357,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the Lord  of hosts.",
+      "text": "declares the Lord God of hosts.",
       "verse": 19,
       "type": "poetry"
     },
@@ -426,7 +427,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the Lord .",
+      "text": "declares the Lord God.",
       "verse": 22,
       "type": "poetry"
     },
@@ -456,7 +457,7 @@
       "type": "poetry"
     },
     {
-      "text": "a wild donkey used to the wilderness,",
+      "text": "    a wild donkey used to the wilderness,",
       "verse": 24,
       "type": "poetry"
     },
@@ -596,7 +597,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 29,
       "type": "poetry"
     },
@@ -621,7 +622,7 @@
       "type": "poetry"
     },
     {
-      "text": "And you, O generation, behold the word of the .",
+      "text": "And you, O generation, behold the word of the Lord.",
       "verse": 31,
       "type": "poetry"
     },
@@ -756,7 +757,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  has rejected those in whom you trust,",
+      "text": "for the Lord has rejected those in whom you trust,",
       "verse": 37,
       "type": "poetry"
     },

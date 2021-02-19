@@ -2,6 +2,7 @@
   "book_id": "1TIM",
   "book_name": "1 Timothy",
   "chapter": 5,
+  "verses": 25,
   "content": [
     {
       "text": "Instructions for the Church",
@@ -80,7 +81,7 @@
       "type": "newline"
     },
     {
-      "text": "For the Scripture says, “You shall not muzzle an ox when it treads out the grain,” and,",
+      "text": "For the Scripture says, “You shall not muzzle an ox when it treads out the grain,” and, “The laborer deserves his wages.”",
       "verse": 18
     },
     {

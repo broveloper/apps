@@ -2,6 +2,7 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 25,
+  "verses": 19,
   "content": [
     {
       "text": "“If there is a dispute between men and they come into court and the judges decide between them, acquitting the innocent and condemning the guilty,",
@@ -72,11 +73,11 @@
       "verse": 14
     },
     {
-      "text": "A full and fair weight you shall have, a full and fair measure you shall have, that your days may be long in the land that the  your God is giving you.",
+      "text": "A full and fair weight you shall have, a full and fair measure you shall have, that your days may be long in the land that the Lord your God is giving you.",
       "verse": 15
     },
     {
-      "text": "For all who do such things, all who act dishonestly, are an abomination to the  your God.",
+      "text": "For all who do such things, all who act dishonestly, are an abomination to the Lord your God.",
       "verse": 16
     },
     {
@@ -89,7 +90,7 @@
       "verse": 18
     },
     {
-      "text": "Therefore when the  your God has given you rest from all your enemies around you, in the land that the  your God is giving you for an inheritance to possess, you shall blot out the memory of Amalek from under heaven; you shall not forget.",
+      "text": "Therefore when the Lord your God has given you rest from all your enemies around you, in the land that the Lord your God is giving you for an inheritance to possess, you shall blot out the memory of Amalek from under heaven; you shall not forget.",
       "verse": 19
     }
   ]

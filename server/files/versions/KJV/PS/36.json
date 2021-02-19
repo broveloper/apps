@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 36,
+  "verses": 12,
   "content": [
     {
       "text": "The transgression of the wicked saith within my heart, that there is no fear of God before his eyes.",
@@ -23,12 +24,12 @@
       "type": "newline"
     },
     {
-      "text": "Thy mercy, O , is in the heavens; and thy faithfulness reacheth unto the clouds.",
+      "text": "Thy mercy, O Lord, is in the heavens; and thy faithfulness reacheth unto the clouds.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "Thy righteousness is like the great mountains; thy judgments are a great deep: O , thou preservest man and beast.",
+      "text": "Thy righteousness is like the great mountains; thy judgments are a great deep: O Lord, thou preservest man and beast.",
       "verse": 6,
       "type": "newline"
     },

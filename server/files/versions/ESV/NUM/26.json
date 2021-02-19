@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 26,
+  "verses": 65,
   "content": [
     {
       "text": "Census of the New Generation",
       "type": "heading"
     },
     {
-      "text": "After the plague, the  said to Moses and to Eleazar the son of Aaron, the priest,",
+      "text": "After the plague, the Lord said to Moses and to Eleazar the son of Aaron, the priest,",
       "verse": 1,
       "type": "newline"
     },
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "“Take a census of the people, from twenty years old and upward,” as the  commanded Moses. The people of Israel who came out of the land of Egypt were:",
+      "text": "“Take a census of the people, from twenty years old and upward,” as the Lord commanded Moses. The people of Israel who came out of the land of Egypt were:",
       "verse": 4
     },
     {
@@ -42,7 +43,7 @@
       "verse": 8
     },
     {
-      "text": "The sons of Eliab: Nemuel, Dathan, and Abiram. These are the Dathan and Abiram, chosen from the congregation, who contended against Moses and Aaron in the company of Korah, when they contended against the",
+      "text": "The sons of Eliab: Nemuel, Dathan, and Abiram. These are the Dathan and Abiram, chosen from the congregation, who contended against Moses and Aaron in the company of Korah, when they contended against the Lord",
       "verse": 9
     },
     {
@@ -226,7 +227,7 @@
       "type": "newline"
     },
     {
-      "text": "The  spoke to Moses, saying,",
+      "text": "The Lord spoke to Moses, saying,",
       "verse": 52,
       "type": "newline"
     },
@@ -264,7 +265,7 @@
       "verse": 60
     },
     {
-      "text": "But Nadab and Abihu died when they offered unauthorized fire before the .",
+      "text": "But Nadab and Abihu died when they offered unauthorized fire before the Lord.",
       "verse": 61
     },
     {
@@ -281,7 +282,7 @@
       "verse": 64
     },
     {
-      "text": "For the  had said of them, “They shall die in the wilderness.” Not one of them was left, except Caleb the son of Jephunneh and Joshua the son of Nun.",
+      "text": "For the Lord had said of them, “They shall die in the wilderness.” Not one of them was left, except Caleb the son of Jephunneh and Joshua the son of Nun.",
       "verse": 65
     }
   ]

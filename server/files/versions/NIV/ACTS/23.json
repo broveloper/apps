@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 23,
+  "verses": 35,
   "content": [
     {
       "text": "Paul looked straight at the Sanhedrin and said, “My brothers, I have fulfilled my duty to God in all good conscience to this day.”",
@@ -48,7 +49,7 @@
       "verse": 10
     },
     {
-      "text": "The following night the Lord stood near Paul and said,",
+      "text": "The following night the Lord stood near Paul and said, “Take courage! As you have testified about me in Jerusalem, so you must also testify in Rome.”",
       "verse": 11,
       "type": "newline"
     },

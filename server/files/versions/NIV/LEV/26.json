@@ -2,18 +2,19 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 26,
+  "verses": 46,
   "content": [
     {
       "text": "Reward for Obedience",
       "type": "heading"
     },
     {
-      "text": "“‘Do not make idols or set up an image or a sacred stone for yourselves, and do not place a carved stone in your land to bow down before it. I am the  your God.",
+      "text": "“‘Do not make idols or set up an image or a sacred stone for yourselves, and do not place a carved stone in your land to bow down before it. I am the Lord your God.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“‘Observe my Sabbaths and have reverence for my sanctuary. I am the .",
+      "text": "“‘Observe my Sabbaths and have reverence for my sanctuary. I am the Lord.",
       "verse": 2,
       "type": "newline"
     },
@@ -61,7 +62,7 @@
       "verse": 12
     },
     {
-      "text": "I am the  your God, who brought you out of Egypt so that you would no longer be slaves to the Egyptians; I broke the bars of your yoke and enabled you to walk with heads held high.",
+      "text": "I am the Lord your God, who brought you out of Egypt so that you would no longer be slaves to the Egyptians; I broke the bars of your yoke and enabled you to walk with heads held high.",
       "verse": 13
     },
     {
@@ -196,15 +197,15 @@
       "verse": 43
     },
     {
-      "text": "Yet in spite of this, when they are in the land of their enemies, I will not reject them or abhor them so as to destroy them completely, breaking my covenant with them. I am the  their God.",
+      "text": "Yet in spite of this, when they are in the land of their enemies, I will not reject them or abhor them so as to destroy them completely, breaking my covenant with them. I am the Lord their God.",
       "verse": 44
     },
     {
-      "text": "But for their sake I will remember the covenant with their ancestors whom I brought out of Egypt in the sight of the nations to be their God. I am the .’”",
+      "text": "But for their sake I will remember the covenant with their ancestors whom I brought out of Egypt in the sight of the nations to be their God. I am the Lord.’”",
       "verse": 45
     },
     {
-      "text": "These are the decrees, the laws and the regulations that the  established at Mount Sinai between himself and the Israelites through Moses.",
+      "text": "These are the decrees, the laws and the regulations that the Lord established at Mount Sinai between himself and the Israelites through Moses.",
       "verse": 46,
       "type": "newline"
     }

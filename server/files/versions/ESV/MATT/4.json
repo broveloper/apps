@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 4,
+  "verses": 25,
   "content": [
     {
       "text": "The Temptation of Jesus",
@@ -21,16 +22,16 @@
       "verse": 3
     },
     {
-      "text": "But he answered,",
+      "text": "But he answered, “It is written,",
       "verse": 4
     },
     {
-      "text": "",
+      "text": "“‘Man shall not live by bread alone,",
       "verse": 4,
       "type": "poetry newline"
     },
     {
-      "text": "",
+      "text": "but by every word that comes from the mouth of God.’”",
       "verse": 4,
       "type": "poetry"
     },
@@ -64,7 +65,7 @@
       "type": "poetry"
     },
     {
-      "text": "Jesus said to him,",
+      "text": "Jesus said to him, “Again it is written, ‘You shall not put the Lord your God to the test.’”",
       "verse": 7,
       "type": "newline"
     },
@@ -77,16 +78,16 @@
       "verse": 9
     },
     {
-      "text": "Then Jesus said to him,",
+      "text": "Then Jesus said to him, “Be gone, Satan! For it is written,",
       "verse": 10
     },
     {
-      "text": "",
+      "text": "“‘You shall worship the Lord your God",
       "verse": 10,
       "type": "poetry newline"
     },
     {
-      "text": "",
+      "text": "and him only shall you serve.’”",
       "verse": 10,
       "type": "poetry"
     },
@@ -143,7 +144,7 @@
       "type": "poetry"
     },
     {
-      "text": "From that time Jesus began to preach, saying,",
+      "text": "From that time Jesus began to preach, saying, “Repent, for the kingdom of heaven is at hand.”",
       "verse": 17,
       "type": "newline"
     },
@@ -157,7 +158,7 @@
       "type": "newline"
     },
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “Follow me, and I will make you fishers of men.”",
       "verse": 19
     },
     {

@@ -2,9 +2,10 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 63,
+  "verses": 19,
   "content": [
     {
-      "text": "The 's Day of Vengeance",
+      "text": "The Lord's Day of Vengeance",
       "type": "heading"
     },
     {
@@ -123,21 +124,21 @@
       "type": "poetry"
     },
     {
-      "text": "The 's Mercy Remembered",
+      "text": "The Lord's Mercy Remembered",
       "type": "heading"
     },
     {
-      "text": "I will recount the steadfast love of the ,",
+      "text": "I will recount the steadfast love of the Lord,",
       "verse": 7,
       "type": "poetry newline"
     },
     {
-      "text": "the praises of the ,",
+      "text": "the praises of the Lord,",
       "verse": 7,
       "type": "poetry"
     },
     {
-      "text": "according to all that the  has granted us,",
+      "text": "according to all that the Lord has granted us,",
       "verse": 7,
       "type": "poetry"
     },
@@ -262,7 +263,7 @@
       "type": "poetry"
     },
     {
-      "text": "who led them through the depths?",
+      "text": "    who led them through the depths?",
       "verse": 13,
       "type": "poetry"
     },
@@ -282,7 +283,7 @@
       "type": "poetry"
     },
     {
-      "text": "the Spirit of the  gave them rest.",
+      "text": "the Spirit of the Lord gave them rest.",
       "verse": 14,
       "type": "poetry"
     },
@@ -341,7 +342,7 @@
       "type": "poetry"
     },
     {
-      "text": "you, O , are our Father,",
+      "text": "you, O Lord, are our Father,",
       "verse": 16,
       "type": "poetry"
     },
@@ -351,7 +352,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , why do you make us wander from your ways",
+      "text": "O Lord, why do you make us wander from your ways",
       "verse": 17,
       "type": "poetry"
     },

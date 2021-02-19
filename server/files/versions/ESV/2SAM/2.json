@@ -2,13 +2,14 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 2,
+  "verses": 32,
   "content": [
     {
       "text": "David Anointed King of Judah",
       "type": "heading"
     },
     {
-      "text": "After this David inquired of the , “Shall I go up into any of the cities of Judah?” And the  said to him, “Go up.” David said, “To which shall I go up?” And he said, “To Hebron.”",
+      "text": "After this David inquired of the Lord, “Shall I go up into any of the cities of Judah?” And the Lord said to him, “Go up.” David said, “To which shall I go up?” And he said, “To Hebron.”",
       "verse": 1,
       "type": "newline"
     },
@@ -30,11 +31,11 @@
       "type": "newline"
     },
     {
-      "text": "David sent messengers to the men of Jabesh-gilead and said to them, “May you be blessed by the , because you showed this loyalty to Saul your lord and buried him.",
+      "text": "David sent messengers to the men of Jabesh-gilead and said to them, “May you be blessed by the Lord, because you showed this loyalty to Saul your lord and buried him.",
       "verse": 5
     },
     {
-      "text": "Now may the  show steadfast love and faithfulness to you. And I will do good to you because you have done this thing.",
+      "text": "Now may the Lord show steadfast love and faithfulness to you. And I will do good to you because you have done this thing.",
       "verse": 6
     },
     {

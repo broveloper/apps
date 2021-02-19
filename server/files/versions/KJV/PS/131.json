@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 131,
+  "verses": 3,
   "content": [
     {
       "text": "Lord, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "Let Israel hope in the  from henceforth and for ever.",
+      "text": "Let Israel hope in the Lord from henceforth and for ever.",
       "verse": 3,
       "type": "newline"
     }

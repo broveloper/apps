@@ -2,28 +2,29 @@
   "book_id": "2KGS",
   "book_name": "2 Kings",
   "chapter": 20,
+  "verses": 21,
   "content": [
     {
-      "text": "In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the , Set thine house in order; for thou shalt die, and not live.",
+      "text": "In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the Lord, Set thine house in order; for thou shalt die, and not live.",
       "verse": 1
     },
     {
-      "text": "Then he turned his face to the wall, and prayed unto the , saying,",
+      "text": "Then he turned his face to the wall, and prayed unto the Lord, saying,",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "I beseech thee, O , remember now how I have walked before thee in truth and with a perfect heart, and have done that which is good in thy sight. And Hezekiah wept sore.",
+      "text": "I beseech thee, O Lord, remember now how I have walked before thee in truth and with a perfect heart, and have done that which is good in thy sight. And Hezekiah wept sore.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "And it came to pass, afore Isaiah was gone out into the middle court, that the word of the  came to him, saying,",
+      "text": "And it came to pass, afore Isaiah was gone out into the middle court, that the word of the Lord came to him, saying,",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "Turn again, and tell Hezekiah the captain of my people, Thus saith the , the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up unto the house of the .",
+      "text": "Turn again, and tell Hezekiah the captain of my people, Thus saith the Lord, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up unto the house of the Lord.",
       "verse": 5,
       "type": "newline"
     },
@@ -38,12 +39,12 @@
       "type": "newline"
     },
     {
-      "text": "And Hezekiah said unto Isaiah, What shall be the sign that the  will heal me, and that I shall go up into the house of the  the third day?",
+      "text": "And Hezekiah said unto Isaiah, What shall be the sign that the Lord will heal me, and that I shall go up into the house of the Lord the third day?",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "And Isaiah said, This sign shalt thou have of the , that the  will do the thing that he hath spoken: shall the shadow go forward ten degrees, or go back ten degrees?",
+      "text": "And Isaiah said, This sign shalt thou have of the Lord, that the Lord will do the thing that he hath spoken: shall the shadow go forward ten degrees, or go back ten degrees?",
       "verse": 9,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "And Isaiah the prophet cried unto the : and he brought the shadow ten degrees backward, by which it had gone down in the dial of Ahaz.",
+      "text": "And Isaiah the prophet cried unto the Lord: and he brought the shadow ten degrees backward, by which it had gone down in the dial of Ahaz.",
       "verse": 11,
       "type": "newline"
     },
@@ -78,12 +79,12 @@
       "type": "newline"
     },
     {
-      "text": "And Isaiah said unto Hezekiah, Hear the word of the .",
+      "text": "And Isaiah said unto Hezekiah, Hear the word of the Lord.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "Behold, the days come, that all that is in thine house, and that which thy fathers have laid up in store unto this day, shall be carried into Babylon: nothing shall be left, saith the .",
+      "text": "Behold, the days come, that all that is in thine house, and that which thy fathers have laid up in store unto this day, shall be carried into Babylon: nothing shall be left, saith the Lord.",
       "verse": 17,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "Then said Hezekiah unto Isaiah, Good is the word of the  which thou hast spoken. And he said, Is it not good, if peace and truth be in my days?",
+      "text": "Then said Hezekiah unto Isaiah, Good is the word of the Lord which thou hast spoken. And he said, Is it not good, if peace and truth be in my days?",
       "verse": 19,
       "type": "newline"
     },

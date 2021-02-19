@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 18,
+  "verses": 43,
   "content": [
     {
       "text": "The Parable of the Persistent Widow",
@@ -13,33 +14,33 @@
       "type": "newline"
     },
     {
-      "text": "He said:",
+      "text": "He said: “In a certain town there was a judge who neither feared God nor cared what people thought.",
       "verse": 2
     },
     {
-      "text": "",
+      "text": "And there was a widow in that town who kept coming to him with the plea, ‘Grant me justice against my adversary.’",
       "verse": 3
     },
     {
-      "text": "",
+      "text": "“For some time he refused. But finally he said to himself, ‘Even though I don’t fear God or care what people think,",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "yet because this widow keeps bothering me, I will see that she gets justice, so that she won’t eventually come and attack me!’”",
       "verse": 5
     },
     {
-      "text": "And the Lord said,",
+      "text": "And the Lord said, “Listen to what the unjust judge says.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "And will not God bring about justice for his chosen ones, who cry out to him day and night? Will he keep putting them off?",
       "verse": 7
     },
     {
-      "text": "",
+      "text": "I tell you, he will see that they get justice, and quickly. However, when the Son of Man comes, will he find faith on the earth?”",
       "verse": 8
     },
     {
@@ -52,24 +53,24 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“Two men went up to the temple to pray, one a Pharisee and the other a tax collector.",
       "verse": 10
     },
     {
-      "text": "",
+      "text": "The Pharisee stood by himself and prayed: ‘God, I thank you that I am not like other people—robbers, evildoers, adulterers—or even like this tax collector.",
       "verse": 11
     },
     {
-      "text": "",
+      "text": "I fast twice a week and give a tenth of all I get.’",
       "verse": 12
     },
     {
-      "text": "",
+      "text": "“But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said, ‘God, have mercy on me, a sinner.’",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“I tell you that this man, rather than the other, went home justified before God. For all those who exalt themselves will be humbled, and those who humble themselves will be exalted.”",
       "verse": 14,
       "type": "newline"
     },
@@ -83,11 +84,11 @@
       "type": "newline"
     },
     {
-      "text": "But Jesus called the children to him and said,",
+      "text": "But Jesus called the children to him and said, “Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these.",
       "verse": 16
     },
     {
-      "text": "",
+      "text": "Truly I tell you, anyone who will not receive the kingdom of God like a little child will never enter it.”",
       "verse": 17
     },
     {
@@ -100,12 +101,12 @@
       "type": "newline"
     },
     {
-      "text": "Jesus answered.",
+      "text": "“Why do you call me good?” Jesus answered. “No one is good—except God alone.",
       "verse": 19,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "You know the commandments: ‘You shall not commit adultery, you shall not murder, you shall not steal, you shall not give false testimony, honor your father and mother.’”",
       "verse": 20
     },
     {
@@ -114,7 +115,7 @@
       "type": "newline"
     },
     {
-      "text": "When Jesus heard this, he said to him,",
+      "text": "When Jesus heard this, he said to him, “You still lack one thing. Sell everything you have and give to the poor, and you will have treasure in heaven. Then come, follow me.”",
       "verse": 22,
       "type": "newline"
     },
@@ -124,11 +125,11 @@
       "type": "newline"
     },
     {
-      "text": "Jesus looked at him and said,",
+      "text": "Jesus looked at him and said, “How hard it is for the rich to enter the kingdom of God!",
       "verse": 24
     },
     {
-      "text": "",
+      "text": "Indeed, it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God.”",
       "verse": 25
     },
     {
@@ -137,7 +138,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “What is impossible with man is possible with God.”",
       "verse": 27,
       "type": "newline"
     },
@@ -147,12 +148,12 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said to them,",
+      "text": "“Truly I tell you,” Jesus said to them, “no one who has left home or wife or brothers or sisters or parents or children for the sake of the kingdom of God",
       "verse": 29,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "will fail to receive many times as much in this age, and in the age to come eternal life.”",
       "verse": 30
     },
     {
@@ -160,16 +161,16 @@
       "type": "heading"
     },
     {
-      "text": "Jesus took the Twelve aside and told them,",
+      "text": "Jesus took the Twelve aside and told them, “We are going up to Jerusalem, and everything that is written by the prophets about the Son of Man will be fulfilled.",
       "verse": 31,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "He will be delivered over to the Gentiles. They will mock him, insult him and spit on him;",
       "verse": 32
     },
     {
-      "text": "",
+      "text": "they will flog him and kill him. On the third day he will rise again.”",
       "verse": 33
     },
     {
@@ -210,7 +211,7 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“What do you want me to do for you?”",
       "verse": 41
     },
     {
@@ -219,7 +220,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said to him,",
+      "text": "Jesus said to him, “Receive your sight; your faith has healed you.”",
       "verse": 42,
       "type": "newline"
     },

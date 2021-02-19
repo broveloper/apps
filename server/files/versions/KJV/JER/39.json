@@ -2,6 +2,7 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 39,
+  "verses": 18,
   "content": [
     {
       "text": "In the ninth year of Zedekiah king of Judah, in the tenth month, came Nebuchadrezzar king of Babylon and all his army against Jerusalem, and they besieged it.",
@@ -73,22 +74,22 @@
       "type": "newline"
     },
     {
-      "text": "Now the word of the  came unto Jeremiah, while he was shut up in the court of the prison, saying,",
+      "text": "Now the word of the Lord came unto Jeremiah, while he was shut up in the court of the prison, saying,",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "Go and speak to Ebedmelech the Ethiopian, saying, Thus saith the  of hosts, the God of Israel; Behold, I will bring my words upon this city for evil, and not for good; and they shall be accomplished in that day before thee.",
+      "text": "Go and speak to Ebedmelech the Ethiopian, saying, Thus saith the Lord of hosts, the God of Israel; Behold, I will bring my words upon this city for evil, and not for good; and they shall be accomplished in that day before thee.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "But I will deliver thee in that day, saith the : and thou shalt not be given into the hand of the men of whom thou art afraid.",
+      "text": "But I will deliver thee in that day, saith the Lord: and thou shalt not be given into the hand of the men of whom thou art afraid.",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "For I will surely deliver thee, and thou shalt not fall by the sword, but thy life shall be for a prey unto thee: because thou hast put thy trust in me, saith the .",
+      "text": "For I will surely deliver thee, and thou shalt not fall by the sword, but thy life shall be for a prey unto thee: because thou hast put thy trust in me, saith the Lord.",
       "verse": 18,
       "type": "newline"
     }

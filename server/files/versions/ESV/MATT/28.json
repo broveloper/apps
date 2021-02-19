@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 28,
+  "verses": 20,
   "content": [
     {
       "text": "The Resurrection",
@@ -41,11 +42,11 @@
       "verse": 8
     },
     {
-      "text": "And behold, Jesus met them and said,  And they came up and took hold of his feet and worshiped him.",
+      "text": "And behold, Jesus met them and said, “Greetings!” And they came up and took hold of his feet and worshiped him.",
       "verse": 9
     },
     {
-      "text": "Then Jesus said to them,",
+      "text": "Then Jesus said to them, “Do not be afraid; go and tell my brothers to go to Galilee, and there they will see me.”",
       "verse": 10
     },
     {
@@ -87,15 +88,15 @@
       "verse": 17
     },
     {
-      "text": "And Jesus came and said to them,",
+      "text": "And Jesus came and said to them, “All authority in heaven and on earth has been given to me.",
       "verse": 18
     },
     {
-      "text": "",
+      "text": "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
       "verse": 19
     },
     {
-      "text": "",
+      "text": "teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.”",
       "verse": 20
     }
   ]

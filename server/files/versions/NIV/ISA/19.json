@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 19,
+  "verses": 25,
   "content": [
     {
       "text": "A Prophecy Against Egypt",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "See, the  rides on a swift cloud",
+      "text": "See, the Lord rides on a swift cloud",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -93,7 +94,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the Lord, the  Almighty.",
+      "text": "declares the Lord, the Lord Almighty.",
       "verse": 4,
       "type": "poetry"
     },
@@ -123,7 +124,7 @@
       "type": "poetry"
     },
     {
-      "text": "also the plants along the Nile,",
+      "text": "    also the plants along the Nile,",
       "verse": 7,
       "type": "poetry"
     },
@@ -218,7 +219,7 @@
       "type": "poetry"
     },
     {
-      "text": "what the  Almighty",
+      "text": "what the Lord Almighty",
       "verse": 12,
       "type": "poetry"
     },
@@ -248,7 +249,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has poured into them",
+      "text": "The Lord has poured into them",
       "verse": 14,
       "type": "poetry"
     },
@@ -278,34 +279,34 @@
       "type": "poetry"
     },
     {
-      "text": "In that day the Egyptians will become weaklings. They will shudder with fear at the uplifted hand that the  Almighty raises against them.",
+      "text": "In that day the Egyptians will become weaklings. They will shudder with fear at the uplifted hand that the Lord Almighty raises against them.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "And the land of Judah will bring terror to the Egyptians; everyone to whom Judah is mentioned will be terrified, because of what the  Almighty is planning against them.",
+      "text": "And the land of Judah will bring terror to the Egyptians; everyone to whom Judah is mentioned will be terrified, because of what the Lord Almighty is planning against them.",
       "verse": 17
     },
     {
-      "text": "In that day five cities in Egypt will speak the language of Canaan and swear allegiance to the  Almighty. One of them will be called the City of the Sun.",
+      "text": "In that day five cities in Egypt will speak the language of Canaan and swear allegiance to the Lord Almighty. One of them will be called the City of the Sun.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "In that day there will be an altar to the  in the heart of Egypt, and a monument to the  at its border.",
+      "text": "In that day there will be an altar to the Lord in the heart of Egypt, and a monument to the Lord at its border.",
       "verse": 19,
       "type": "newline"
     },
     {
-      "text": "It will be a sign and witness to the  Almighty in the land of Egypt. When they cry out to the  because of their oppressors, he will send them a savior and defender, and he will rescue them.",
+      "text": "It will be a sign and witness to the Lord Almighty in the land of Egypt. When they cry out to the Lord because of their oppressors, he will send them a savior and defender, and he will rescue them.",
       "verse": 20
     },
     {
-      "text": "So the  will make himself known to the Egyptians, and in that day they will acknowledge the . They will worship with sacrifices and grain offerings; they will make vows to the  and keep them.",
+      "text": "So the Lord will make himself known to the Egyptians, and in that day they will acknowledge the Lord. They will worship with sacrifices and grain offerings; they will make vows to the Lord and keep them.",
       "verse": 21
     },
     {
-      "text": "The  will strike Egypt with a plague; he will strike them and heal them. They will turn to the , and he will respond to their pleas and heal them.",
+      "text": "The Lord will strike Egypt with a plague; he will strike them and heal them. They will turn to the Lord, and he will respond to their pleas and heal them.",
       "verse": 22
     },
     {
@@ -318,7 +319,7 @@
       "verse": 24
     },
     {
-      "text": "The  Almighty will bless them, saying, “Blessed be Egypt my people, Assyria my handiwork, and Israel my inheritance.”",
+      "text": "The Lord Almighty will bless them, saying, “Blessed be Egypt my people, Assyria my handiwork, and Israel my inheritance.”",
       "verse": 25
     }
   ]

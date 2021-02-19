@@ -2,13 +2,14 @@
   "book_id": "MAL",
   "book_name": "Malachi",
   "chapter": 2,
+  "verses": 17,
   "content": [
     {
       "text": "And now, O ye priests, this commandment is for you.",
       "verse": 1
     },
     {
-      "text": "If ye will not hear, and if ye will not lay it to heart, to give glory unto my name, saith the  of hosts, I will even send a curse upon you, and I will curse your blessings: yea, I have cursed them already, because ye do not lay it to heart.",
+      "text": "If ye will not hear, and if ye will not lay it to heart, to give glory unto my name, saith the Lord of hosts, I will even send a curse upon you, and I will curse your blessings: yea, I have cursed them already, because ye do not lay it to heart.",
       "verse": 2,
       "type": "newline"
     },
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "And ye shall know that I have sent this commandment unto you, that my covenant might be with Levi, saith the  of hosts.",
+      "text": "And ye shall know that I have sent this commandment unto you, that my covenant might be with Levi, saith the Lord of hosts.",
       "verse": 4,
       "type": "newline"
     },
@@ -33,12 +34,12 @@
       "type": "newline"
     },
     {
-      "text": "For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the  of hosts.",
+      "text": "For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the Lord of hosts.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "But ye are departed out of the way; ye have caused many to stumble at the law; ye have corrupted the covenant of Levi, saith the  of hosts.",
+      "text": "But ye are departed out of the way; ye have caused many to stumble at the law; ye have corrupted the covenant of Levi, saith the Lord of hosts.",
       "verse": 8,
       "type": "newline"
     },
@@ -53,22 +54,22 @@
       "type": "newline"
     },
     {
-      "text": "Judah hath dealt treacherously, and an abomination is committed in Israel and in Jerusalem; for Judah hath profaned the holiness of the  which he loved, and hath married the daughter of a strange god.",
+      "text": "Judah hath dealt treacherously, and an abomination is committed in Israel and in Jerusalem; for Judah hath profaned the holiness of the Lord which he loved, and hath married the daughter of a strange god.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "The  will cut off the man that doeth this, the master and the scholar, out of the tabernacles of Jacob, and him that offereth an offering unto the  of hosts.",
+      "text": "The Lord will cut off the man that doeth this, the master and the scholar, out of the tabernacles of Jacob, and him that offereth an offering unto the Lord of hosts.",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "And this have ye done again, covering the altar of the  with tears, with weeping, and with crying out, insomuch that he regardeth not the offering any more, or receiveth it with good will at your hand.",
+      "text": "And this have ye done again, covering the altar of the Lord with tears, with weeping, and with crying out, insomuch that he regardeth not the offering any more, or receiveth it with good will at your hand.",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "Yet ye say, Wherefore? Because the  hath been witness between thee and the wife of thy youth, against whom thou hast dealt treacherously: yet is she thy companion, and the wife of thy covenant.",
+      "text": "Yet ye say, Wherefore? Because the Lord hath been witness between thee and the wife of thy youth, against whom thou hast dealt treacherously: yet is she thy companion, and the wife of thy covenant.",
       "verse": 14,
       "type": "newline"
     },
@@ -78,12 +79,12 @@
       "type": "newline"
     },
     {
-      "text": "For the , the God of Israel, saith that he hateth putting away: for one covereth violence with his garment, saith the  of hosts: therefore take heed to your spirit, that ye deal not treacherously.",
+      "text": "For the Lord, the God of Israel, saith that he hateth putting away: for one covereth violence with his garment, saith the Lord of hosts: therefore take heed to your spirit, that ye deal not treacherously.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "Ye have wearied the  with your words. Yet ye say, Wherein have we wearied him? When ye say, Every one that doeth evil is good in the sight of the , and he delighteth in them; or, Where is the God of judgment?",
+      "text": "Ye have wearied the Lord with your words. Yet ye say, Wherein have we wearied him? When ye say, Every one that doeth evil is good in the sight of the Lord, and he delighteth in them; or, Where is the God of judgment?",
       "verse": 17,
       "type": "newline"
     }

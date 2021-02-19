@@ -2,6 +2,7 @@
   "book_id": "1COR",
   "book_name": "1 Corinthians",
   "chapter": 11,
+  "verses": 34,
   "content": [
     {
       "text": "Be imitators of me, as I am of Christ.",
@@ -107,11 +108,11 @@
       "type": "newline"
     },
     {
-      "text": "and when he had given thanks, he broke it, and said,",
+      "text": "and when he had given thanks, he broke it, and said, “This is my body, which is for you. Do this in remembrance of me.”",
       "verse": 24
     },
     {
-      "text": "In the same way also he took the cup, after supper, saying,",
+      "text": "In the same way also he took the cup, after supper, saying, “This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me.”",
       "verse": 25
     },
     {

@@ -2,6 +2,7 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 5,
+  "verses": 15,
   "content": [
     {
       "text": "Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment is toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor.",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "They will not frame their doings to turn unto their God: for the spirit of whoredoms is in the midst of them, and they have not known the .",
+      "text": "They will not frame their doings to turn unto their God: for the spirit of whoredoms is in the midst of them, and they have not known the Lord.",
       "verse": 4,
       "type": "newline"
     },
@@ -28,12 +29,12 @@
       "type": "newline"
     },
     {
-      "text": "They shall go with their flocks and with their herds to seek the ; but they shall not find him; he hath withdrawn himself from them.",
+      "text": "They shall go with their flocks and with their herds to seek the Lord; but they shall not find him; he hath withdrawn himself from them.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "They have dealt treacherously against the : for they have begotten strange children: now shall a month devour them with their portions.",
+      "text": "They have dealt treacherously against the Lord: for they have begotten strange children: now shall a month devour them with their portions.",
       "verse": 7,
       "type": "newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 125,
+  "verses": 5,
   "content": [
     {
       "text": "Psalm 125",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A song of ascents.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Those who trust in the  are like Mount Zion,",
+      "text": "Those who trust in the Lord are like Mount Zion,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -28,7 +28,7 @@
       "type": "poetry"
     },
     {
-      "text": "so the  surrounds his people",
+      "text": "so the Lord surrounds his people",
       "verse": 2,
       "type": "poetry"
     },
@@ -58,7 +58,7 @@
       "type": "poetry"
     },
     {
-      "text": ", do good to those who are good,",
+      "text": "Lord, do good to those who are good,",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -73,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  will banish with the evildoers.",
+      "text": "the Lord will banish with the evildoers.",
       "verse": 5,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 17,
+  "verses": 27,
   "content": [
     {
       "text": "“Judah’s sin is engraved with an iron tool,",
@@ -99,7 +100,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 5,
       "type": "newline"
     },
@@ -114,7 +115,7 @@
       "type": "poetry"
     },
     {
-      "text": "and whose heart turns away from the .",
+      "text": "and whose heart turns away from the Lord.",
       "verse": 5,
       "type": "poetry"
     },
@@ -139,7 +140,7 @@
       "type": "poetry"
     },
     {
-      "text": "“But blessed is the one who trusts in the ,",
+      "text": "“But blessed is the one who trusts in the Lord,",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -194,7 +195,7 @@
       "type": "poetry"
     },
     {
-      "text": "“I the  search the heart",
+      "text": "“I the Lord search the heart",
       "verse": 10,
       "type": "poetry newline"
     },
@@ -244,7 +245,7 @@
       "type": "poetry"
     },
     {
-      "text": ", you are the hope of Israel;",
+      "text": "Lord, you are the hope of Israel;",
       "verse": 13,
       "type": "poetry"
     },
@@ -259,7 +260,7 @@
       "type": "poetry"
     },
     {
-      "text": "because they have forsaken the ,",
+      "text": "because they have forsaken the Lord,",
       "verse": 13,
       "type": "poetry"
     },
@@ -269,7 +270,7 @@
       "type": "poetry"
     },
     {
-      "text": "Heal me, , and I will be healed;",
+      "text": "Heal me, Lord, and I will be healed;",
       "verse": 14,
       "type": "poetry newline"
     },
@@ -289,7 +290,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Where is the word of the ?",
+      "text": "“Where is the word of the Lord?",
       "verse": 15,
       "type": "poetry"
     },
@@ -358,16 +359,16 @@
       "type": "heading"
     },
     {
-      "text": "This is what the  said to me: “Go and stand at the Gate of the People, through which the kings of Judah go in and out; stand also at all the other gates of Jerusalem.",
+      "text": "This is what the Lord said to me: “Go and stand at the Gate of the People, through which the kings of Judah go in and out; stand also at all the other gates of Jerusalem.",
       "verse": 19,
       "type": "newline"
     },
     {
-      "text": "Say to them, ‘Hear the word of the , you kings of Judah and all people of Judah and everyone living in Jerusalem who come through these gates.",
+      "text": "Say to them, ‘Hear the word of the Lord, you kings of Judah and all people of Judah and everyone living in Jerusalem who come through these gates.",
       "verse": 20
     },
     {
-      "text": "This is what the  says: Be careful not to carry a load on the Sabbath day or bring it through the gates of Jerusalem.",
+      "text": "This is what the Lord says: Be careful not to carry a load on the Sabbath day or bring it through the gates of Jerusalem.",
       "verse": 21
     },
     {
@@ -379,7 +380,7 @@
       "verse": 23
     },
     {
-      "text": "But if you are careful to obey me, declares the , and bring no load through the gates of this city on the Sabbath, but keep the Sabbath day holy by not doing any work on it,",
+      "text": "But if you are careful to obey me, declares the Lord, and bring no load through the gates of this city on the Sabbath, but keep the Sabbath day holy by not doing any work on it,",
       "verse": 24
     },
     {
@@ -387,7 +388,7 @@
       "verse": 25
     },
     {
-      "text": "People will come from the towns of Judah and the villages around Jerusalem, from the territory of Benjamin and the western foothills, from the hill country and the Negev, bringing burnt offerings and sacrifices, grain offerings and incense, and bringing thank offerings to the house of the .",
+      "text": "People will come from the towns of Judah and the villages around Jerusalem, from the territory of Benjamin and the western foothills, from the hill country and the Negev, bringing burnt offerings and sacrifices, grain offerings and incense, and bringing thank offerings to the house of the Lord.",
       "verse": 26
     },
     {

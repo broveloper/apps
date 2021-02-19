@@ -2,13 +2,14 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 40,
+  "verses": 38,
   "content": [
     {
       "text": "Setting Up the Tabernacle",
       "type": "heading"
     },
     {
-      "text": "Then the  said to Moses:",
+      "text": "Then the Lord said to Moses:",
       "verse": 1,
       "type": "newline"
     },
@@ -72,7 +73,7 @@
       "verse": 15
     },
     {
-      "text": "Moses did everything just as the  commanded him.",
+      "text": "Moses did everything just as the Lord commanded him.",
       "verse": 16
     },
     {
@@ -85,7 +86,7 @@
       "verse": 18
     },
     {
-      "text": "Then he spread the tent over the tabernacle and put the covering over the tent, as the  commanded him.",
+      "text": "Then he spread the tent over the tabernacle and put the covering over the tent, as the Lord commanded him.",
       "verse": 19
     },
     {
@@ -94,7 +95,7 @@
       "type": "newline"
     },
     {
-      "text": "Then he brought the ark into the tabernacle and hung the shielding curtain and shielded the ark of the covenant law, as the  commanded him.",
+      "text": "Then he brought the ark into the tabernacle and hung the shielding curtain and shielded the ark of the covenant law, as the Lord commanded him.",
       "verse": 21
     },
     {
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "and set out the bread on it before the , as the  commanded him.",
+      "text": "and set out the bread on it before the Lord, as the Lord commanded him.",
       "verse": 23
     },
     {
@@ -112,7 +113,7 @@
       "type": "newline"
     },
     {
-      "text": "and set up the lamps before the , as the  commanded him.",
+      "text": "and set up the lamps before the Lord, as the Lord commanded him.",
       "verse": 25
     },
     {
@@ -121,7 +122,7 @@
       "type": "newline"
     },
     {
-      "text": "and burned fragrant incense on it, as the  commanded him.",
+      "text": "and burned fragrant incense on it, as the Lord commanded him.",
       "verse": 27
     },
     {
@@ -130,7 +131,7 @@
       "type": "newline"
     },
     {
-      "text": "He set the altar of burnt offering near the entrance to the tabernacle, the tent of meeting, and offered on it burnt offerings and grain offerings, as the  commanded him.",
+      "text": "He set the altar of burnt offering near the entrance to the tabernacle, the tent of meeting, and offered on it burnt offerings and grain offerings, as the Lord commanded him.",
       "verse": 29
     },
     {
@@ -143,7 +144,7 @@
       "verse": 31
     },
     {
-      "text": "They washed whenever they entered the tent of meeting or approached the altar, as the  commanded Moses.",
+      "text": "They washed whenever they entered the tent of meeting or approached the altar, as the Lord commanded Moses.",
       "verse": 32
     },
     {
@@ -152,16 +153,16 @@
       "type": "newline"
     },
     {
-      "text": "The Glory of the",
+      "text": "The Glory of the Lord",
       "type": "heading"
     },
     {
-      "text": "Then the cloud covered the tent of meeting, and the glory of the  filled the tabernacle.",
+      "text": "Then the cloud covered the tent of meeting, and the glory of the Lord filled the tabernacle.",
       "verse": 34,
       "type": "newline"
     },
     {
-      "text": "Moses could not enter the tent of meeting because the cloud had settled on it, and the glory of the  filled the tabernacle.",
+      "text": "Moses could not enter the tent of meeting because the cloud had settled on it, and the glory of the Lord filled the tabernacle.",
       "verse": 35
     },
     {
@@ -174,7 +175,7 @@
       "verse": 37
     },
     {
-      "text": "So the cloud of the  was over the tabernacle by day, and fire was in the cloud by night, in the sight of all the Israelites during all their travels.",
+      "text": "So the cloud of the Lord was over the tabernacle by day, and fire was in the cloud by night, in the sight of all the Israelites during all their travels.",
       "verse": 38
     }
   ]

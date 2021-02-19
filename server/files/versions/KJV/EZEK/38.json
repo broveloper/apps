@@ -2,9 +2,10 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 38,
+  "verses": 23,
   "content": [
     {
-      "text": "And the word of the  came unto me, saying,",
+      "text": "And the word of the Lord came unto me, saying,",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "And say, Thus saith the Lord ; Behold, I am against thee, O Gog, the chief prince of Meshech and Tubal:",
+      "text": "And say, Thus saith the Lord God; Behold, I am against thee, O Gog, the chief prince of Meshech and Tubal:",
       "verse": 3,
       "type": "newline"
     },
@@ -48,7 +49,7 @@
       "type": "newline"
     },
     {
-      "text": "Thus saith the Lord ; It shall also come to pass, that at the same time shall things come into thy mind, and thou shalt think an evil thought:",
+      "text": "Thus saith the Lord God; It shall also come to pass, that at the same time shall things come into thy mind, and thou shalt think an evil thought:",
       "verse": 10,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore, son of man, prophesy and say unto Gog, Thus saith the Lord ; In that day when my people of Israel dwelleth safely, shalt thou not know it?",
+      "text": "Therefore, son of man, prophesy and say unto Gog, Thus saith the Lord God; In that day when my people of Israel dwelleth safely, shalt thou not know it?",
       "verse": 14,
       "type": "newline"
     },
@@ -83,12 +84,12 @@
       "type": "newline"
     },
     {
-      "text": "Thus saith the Lord ; Art thou he of whom I have spoken in old time by my servants the prophets of Israel, which prophesied in those days many years that I would bring thee against them?",
+      "text": "Thus saith the Lord God; Art thou he of whom I have spoken in old time by my servants the prophets of Israel, which prophesied in those days many years that I would bring thee against them?",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "And it shall come to pass at the same time when Gog shall come against the land of Israel, saith the Lord , that my fury shall come up in my face.",
+      "text": "And it shall come to pass at the same time when Gog shall come against the land of Israel, saith the Lord God, that my fury shall come up in my face.",
       "verse": 18,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "And I will call for a sword against him throughout all my mountains, saith the Lord : every man's sword shall be against his brother.",
+      "text": "And I will call for a sword against him throughout all my mountains, saith the Lord God: every man's sword shall be against his brother.",
       "verse": 21,
       "type": "newline"
     },
@@ -113,7 +114,7 @@
       "type": "newline"
     },
     {
-      "text": "Thus will I magnify myself, and sanctify myself; and I will be known in the eyes of many nations, and they shall know that I am the .",
+      "text": "Thus will I magnify myself, and sanctify myself; and I will be known in the eyes of many nations, and they shall know that I am the Lord.",
       "verse": 23,
       "type": "newline"
     }

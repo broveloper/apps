@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 16,
+  "verses": 16,
   "content": [
     {
       "text": "Sarai and Hagar",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "And Sarai said to Abram, “Behold now, the  has prevented me from bearing children. Go in to my servant; it may be that I shall obtain children by her.” And Abram listened to the voice of Sarai.",
+      "text": "And Sarai said to Abram, “Behold now, the Lord has prevented me from bearing children. Go in to my servant; it may be that I shall obtain children by her.” And Abram listened to the voice of Sarai.",
       "verse": 2
     },
     {
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "And Sarai said to Abram, “May the wrong done to me be on you! I gave my servant to your embrace, and when she saw that she had conceived, she looked on me with contempt. May the  judge between you and me!”",
+      "text": "And Sarai said to Abram, “May the wrong done to me be on you! I gave my servant to your embrace, and when she saw that she had conceived, she looked on me with contempt. May the Lord judge between you and me!”",
       "verse": 5
     },
     {
@@ -33,7 +34,7 @@
       "verse": 6
     },
     {
-      "text": "The angel of the  found her by a spring of water in the wilderness, the spring on the way to Shur.",
+      "text": "The angel of the Lord found her by a spring of water in the wilderness, the spring on the way to Shur.",
       "verse": 7,
       "type": "newline"
     },
@@ -42,15 +43,15 @@
       "verse": 8
     },
     {
-      "text": "The angel of the  said to her, “Return to your mistress and submit to her.”",
+      "text": "The angel of the Lord said to her, “Return to your mistress and submit to her.”",
       "verse": 9
     },
     {
-      "text": "The angel of the  also said to her, “I will surely multiply your offspring so that they cannot be numbered for multitude.”",
+      "text": "The angel of the Lord also said to her, “I will surely multiply your offspring so that they cannot be numbered for multitude.”",
       "verse": 10
     },
     {
-      "text": "And the angel of the  said to her,",
+      "text": "And the angel of the Lord said to her,",
       "verse": 11
     },
     {
@@ -69,7 +70,7 @@
       "type": "poetry"
     },
     {
-      "text": "because the  has listened to your affliction.",
+      "text": "because the Lord has listened to your affliction.",
       "verse": 11,
       "type": "poetry"
     },
@@ -94,7 +95,7 @@
       "type": "poetry"
     },
     {
-      "text": "So she called the name of the  who spoke to her, “You are a God of seeing,” for she said, “Truly here I have seen him who looks after me.”",
+      "text": "So she called the name of the Lord who spoke to her, “You are a God of seeing,” for she said, “Truly here I have seen him who looks after me.”",
       "verse": 13,
       "type": "newline"
     },

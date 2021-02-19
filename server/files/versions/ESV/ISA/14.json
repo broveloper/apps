@@ -2,18 +2,19 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 14,
+  "verses": 32,
   "content": [
     {
       "text": "The Restoration of Jacob",
       "type": "heading"
     },
     {
-      "text": "For the  will have compassion on Jacob and will again choose Israel, and will set them in their own land, and sojourners will join them and will attach themselves to the house of Jacob.",
+      "text": "For the Lord will have compassion on Jacob and will again choose Israel, and will set them in their own land, and sojourners will join them and will attach themselves to the house of Jacob.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "And the peoples will take them and bring them to their place, and the house of Israel will possess them in the 's land as male and female slaves. They will take captive those who were their captors, and rule over those who oppressed them.",
+      "text": "And the peoples will take them and bring them to their place, and the house of Israel will possess them in the Lord's land as male and female slaves. They will take captive those who were their captors, and rule over those who oppressed them.",
       "verse": 2
     },
     {
@@ -21,7 +22,7 @@
       "type": "heading"
     },
     {
-      "text": "When the  has given you rest from your pain and turmoil and the hard service with which you were made to serve,",
+      "text": "When the Lord has given you rest from your pain and turmoil and the hard service with which you were made to serve,",
       "verse": 3,
       "type": "newline"
     },
@@ -40,7 +41,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has broken the staff of the wicked,",
+      "text": "The Lord has broken the staff of the wicked,",
       "verse": 5,
       "type": "poetry"
     },
@@ -355,12 +356,12 @@
       "type": "poetry"
     },
     {
-      "text": "“I will rise up against them,” declares the  of hosts, “and will cut off from Babylon name and remnant, descendants and posterity,” declares the .",
+      "text": "“I will rise up against them,” declares the Lord of hosts, “and will cut off from Babylon name and remnant, descendants and posterity,” declares the Lord.",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "“And I will make it a possession of the hedgehog, and pools of water, and I will sweep it with the broom of destruction,” declares the  of hosts.",
+      "text": "“And I will make it a possession of the hedgehog, and pools of water, and I will sweep it with the broom of destruction,” declares the Lord of hosts.",
       "verse": 23
     },
     {
@@ -368,7 +369,7 @@
       "type": "heading"
     },
     {
-      "text": "The  of hosts has sworn:",
+      "text": "The Lord of hosts has sworn:",
       "verse": 24,
       "type": "poetry newline"
     },
@@ -433,7 +434,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the  of hosts has purposed,",
+      "text": "For the Lord of hosts has purposed,",
       "verse": 27,
       "type": "poetry"
     },
@@ -527,7 +528,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "“The  has founded Zion,",
+      "text": "“The Lord has founded Zion,",
       "verse": 32,
       "type": "poetry"
     },

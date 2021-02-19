@@ -2,6 +2,7 @@
   "book_id": "EZRA",
   "book_name": "Ezra",
   "chapter": 2,
+  "verses": 70,
   "content": [
     {
       "text": "Now these are the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city;",
@@ -338,7 +339,7 @@
       "type": "newline"
     },
     {
-      "text": "And some of the chief of the fathers, when they came to the house of the  which is at Jerusalem, offered freely for the house of God to set it up in his place:",
+      "text": "And some of the chief of the fathers, when they came to the house of the Lord which is at Jerusalem, offered freely for the house of God to set it up in his place:",
       "verse": 68,
       "type": "newline"
     },

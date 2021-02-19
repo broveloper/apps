@@ -2,6 +2,7 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 33,
+  "verses": 29,
   "content": [
     {
       "text": "Moses' Final Blessing on Israel",
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "“The  came from Sinai",
+      "text": "“The Lord came from Sinai",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -72,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "Thus the  became king in Jeshurun,",
+      "text": "Thus the Lord became king in Jeshurun,",
       "verse": 5,
       "type": "poetry"
     },
@@ -102,7 +103,7 @@
       "type": "newline"
     },
     {
-      "text": "“Hear, O , the voice of Judah,",
+      "text": "“Hear, O Lord, the voice of Judah,",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -197,7 +198,7 @@
       "type": "poetry"
     },
     {
-      "text": "Bless, O , his substance,",
+      "text": "Bless, O Lord, his substance,",
       "verse": 11,
       "type": "poetry"
     },
@@ -222,7 +223,7 @@
       "type": "newline"
     },
     {
-      "text": "“The beloved of the  dwells in safety.",
+      "text": "“The beloved of the Lord dwells in safety.",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -242,7 +243,7 @@
       "type": "newline"
     },
     {
-      "text": "“Blessed by the  be his land,",
+      "text": "“Blessed by the Lord be his land,",
       "verse": 13,
       "type": "poetry newline"
     },
@@ -397,7 +398,7 @@
       "type": "poetry"
     },
     {
-      "text": "with Israel he executed the justice of the ,",
+      "text": "with Israel he executed the justice of the Lord,",
       "verse": 21,
       "type": "poetry"
     },
@@ -432,7 +433,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "and full of the blessing of the ,",
+      "text": "and full of the blessing of the Lord,",
       "verse": 23,
       "type": "poetry"
     },
@@ -532,7 +533,7 @@
       "type": "poetry"
     },
     {
-      "text": "a people saved by the ,",
+      "text": "a people saved by the Lord,",
       "verse": 29,
       "type": "poetry"
     },

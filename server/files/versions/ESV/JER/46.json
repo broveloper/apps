@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 46,
+  "verses": 28,
   "content": [
     {
       "text": "Judgment on Egypt",
       "type": "heading"
     },
     {
-      "text": "The word of the  that came to Jeremiah the prophet concerning the nations.",
+      "text": "The word of the Lord that came to Jeremiah the prophet concerning the nations.",
       "verse": 1,
       "type": "newline"
     },
@@ -88,7 +89,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 5,
       "type": "poetry"
     },
@@ -168,7 +169,7 @@
       "type": "poetry"
     },
     {
-      "text": "That day is the day of the Lord  of hosts,",
+      "text": "That day is the day of the Lord God of hosts,",
       "verse": 10,
       "type": "poetry"
     },
@@ -193,7 +194,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the Lord  of hosts holds a sacrifice",
+      "text": "For the Lord God of hosts holds a sacrifice",
       "verse": 10,
       "type": "poetry"
     },
@@ -243,7 +244,7 @@
       "type": "poetry"
     },
     {
-      "text": "The word that the  spoke to Jeremiah the prophet about the coming of Nebuchadnezzar king of Babylon to strike the land of Egypt:",
+      "text": "The word that the Lord spoke to Jeremiah the prophet about the coming of Nebuchadnezzar king of Babylon to strike the land of Egypt:",
       "verse": 13,
       "type": "newline"
     },
@@ -278,7 +279,7 @@
       "type": "poetry"
     },
     {
-      "text": "because the  thrust them down.",
+      "text": "because the Lord thrust them down.",
       "verse": 15,
       "type": "poetry"
     },
@@ -323,7 +324,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "whose name is the  of hosts,",
+      "text": "whose name is the Lord of hosts,",
       "verse": 18,
       "type": "poetry"
     },
@@ -423,7 +424,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 23,
       "type": "poetry"
     },
@@ -453,12 +454,12 @@
       "type": "poetry"
     },
     {
-      "text": "The  of hosts, the God of Israel, said: “Behold, I am bringing punishment upon Amon of Thebes, and Pharaoh and Egypt and her gods and her kings, upon Pharaoh and those who trust in him.",
+      "text": "The Lord of hosts, the God of Israel, said: “Behold, I am bringing punishment upon Amon of Thebes, and Pharaoh and Egypt and her gods and her kings, upon Pharaoh and those who trust in him.",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "I will deliver them into the hand of those who seek their life, into the hand of Nebuchadnezzar king of Babylon and his officers. Afterward Egypt shall be inhabited as in the days of old, declares the .",
+      "text": "I will deliver them into the hand of those who seek their life, into the hand of Nebuchadnezzar king of Babylon and his officers. Afterward Egypt shall be inhabited as in the days of old, declares the Lord.",
       "verse": 26
     },
     {
@@ -497,7 +498,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 28,
       "type": "poetry"
     },

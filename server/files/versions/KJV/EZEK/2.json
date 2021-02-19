@@ -2,6 +2,7 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 2,
+  "verses": 10,
   "content": [
     {
       "text": "And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee.",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "For they are impudent children and stiffhearted. I do send thee unto them; and thou shalt say unto them, Thus saith the Lord .",
+      "text": "For they are impudent children and stiffhearted. I do send thee unto them; and thou shalt say unto them, Thus saith the Lord God.",
       "verse": 4,
       "type": "newline"
     },

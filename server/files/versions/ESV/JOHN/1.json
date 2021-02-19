@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 1,
+  "verses": 51,
   "content": [
     {
       "text": "The Word Became Flesh",
@@ -176,11 +177,11 @@
       "verse": 37
     },
     {
-      "text": "Jesus turned and saw them following and said to them,  And they said to him, “Rabbi” (which means Teacher), “where are you staying?”",
+      "text": "Jesus turned and saw them following and said to them, “What are you seeking?” And they said to him, “Rabbi” (which means Teacher), “where are you staying?”",
       "verse": 38
     },
     {
-      "text": "He said to them,  So they came and saw where he was staying, and they stayed with him that day, for it was about the tenth hour.",
+      "text": "He said to them, “Come and you will see.” So they came and saw where he was staying, and they stayed with him that day, for it was about the tenth hour.",
       "verse": 39
     },
     {
@@ -192,7 +193,7 @@
       "verse": 41
     },
     {
-      "text": "He brought him to Jesus. Jesus looked at him and said,  (which means Peter).",
+      "text": "He brought him to Jesus. Jesus looked at him and said, “You are Simon the son of John. You shall be called Cephas” (which means Peter).",
       "verse": 42
     },
     {
@@ -200,7 +201,7 @@
       "type": "heading"
     },
     {
-      "text": "The next day Jesus decided to go to Galilee. He found Philip and said to him,",
+      "text": "The next day Jesus decided to go to Galilee. He found Philip and said to him, “Follow me.”",
       "verse": 43,
       "type": "newline"
     },
@@ -217,11 +218,11 @@
       "verse": 46
     },
     {
-      "text": "Jesus saw Nathanael coming toward him and said of him,",
+      "text": "Jesus saw Nathanael coming toward him and said of him, “Behold, an Israelite indeed, in whom there is no deceit!”",
       "verse": 47
     },
     {
-      "text": "Nathanael said to him, “How do you know me?” Jesus answered him,",
+      "text": "Nathanael said to him, “How do you know me?” Jesus answered him, “Before Philip called you, when you were under the fig tree, I saw you.”",
       "verse": 48
     },
     {
@@ -229,11 +230,11 @@
       "verse": 49
     },
     {
-      "text": "Jesus answered him,",
+      "text": "Jesus answered him, “Because I said to you, ‘I saw you under the fig tree,’ do you believe? You will see greater things than these.”",
       "verse": 50
     },
     {
-      "text": "And he said to him,",
+      "text": "And he said to him, “Truly, truly, I say to you, you will see heaven opened, and the angels of God ascending and descending on the Son of Man.”",
       "verse": 51
     }
   ]

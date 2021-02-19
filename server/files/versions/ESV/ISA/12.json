@@ -2,9 +2,10 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 12,
+  "verses": 6,
   "content": [
     {
-      "text": "The  Is My Strength and My Song",
+      "text": "The Lord Is My Strength and My Song",
       "type": "heading"
     },
     {
@@ -13,7 +14,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "“I will give thanks to you, O ,",
+      "text": "“I will give thanks to you, O Lord,",
       "verse": 1,
       "type": "poetry"
     },
@@ -43,7 +44,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the   is my strength and my song,",
+      "text": "for the Lord God is my strength and my song,",
       "verse": 2,
       "type": "poetry"
     },
@@ -62,7 +63,7 @@
       "verse": 4
     },
     {
-      "text": "“Give thanks to the ,",
+      "text": "“Give thanks to the Lord,",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -82,7 +83,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Sing praises to the , for he has done gloriously;",
+      "text": "“Sing praises to the Lord, for he has done gloriously;",
       "verse": 5,
       "type": "poetry newline"
     },

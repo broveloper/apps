@@ -2,15 +2,15 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 36,
+  "verses": 12,
   "content": [
     {
       "text": "How Precious Is Your Steadfast Love",
       "type": "heading"
     },
     {
-      "text": "To the choirmaster. Of David, the servant of the .",
-      "verse": 1,
-      "type": "newline"
+      "text": "To the choirmaster. Of David, the servant of the Lord.",
+      "type": "title"
     },
     {
       "text": "Transgression speaks to the wicked",
@@ -68,7 +68,7 @@
       "type": "poetry"
     },
     {
-      "text": "Your steadfast love, O , extends to the heavens,",
+      "text": "Your steadfast love, O Lord, extends to the heavens,",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -88,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "man and beast you save, O .",
+      "text": "man and beast you save, O Lord.",
       "verse": 6,
       "type": "poetry"
     },

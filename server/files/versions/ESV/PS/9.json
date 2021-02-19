@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 9,
+  "verses": 20,
   "content": [
     {
       "text": "I Will Recount Your Wonderful Deeds",
       "type": "heading"
     },
     {
-      "text": "To the choirmaster: according to Muth-labben. A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "text": " To the choirmaster: according to Muth-labben. A Psalm of David.",
+      "type": "title"
     },
     {
-      "text": "I will give thanks to the  with my whole heart;",
+      "text": "I will give thanks to the Lord with my whole heart;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -78,7 +78,7 @@
       "type": "poetry"
     },
     {
-      "text": "But the  sits enthroned forever;",
+      "text": "But the Lord sits enthroned forever;",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -98,7 +98,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is a stronghold for the oppressed,",
+      "text": "The Lord is a stronghold for the oppressed,",
       "verse": 9,
       "type": "poetry newline"
     },
@@ -113,12 +113,12 @@
       "type": "poetry"
     },
     {
-      "text": "for you, O , have not forsaken those who seek you.",
+      "text": "for you, O Lord, have not forsaken those who seek you.",
       "verse": 10,
       "type": "poetry"
     },
     {
-      "text": "Sing praises to the , who sits enthroned in Zion!",
+      "text": "Sing praises to the Lord, who sits enthroned in Zion!",
       "verse": 11,
       "type": "poetry newline"
     },
@@ -138,7 +138,7 @@
       "type": "poetry"
     },
     {
-      "text": "Be gracious to me, O !",
+      "text": "Be gracious to me, O Lord!",
       "verse": 13,
       "type": "poetry newline"
     },
@@ -178,12 +178,12 @@
       "type": "poetry"
     },
     {
-      "text": "The  has made himself known; he has executed judgment;",
+      "text": "The Lord has made himself known; he has executed judgment;",
       "verse": 16,
       "type": "poetry"
     },
     {
-      "text": "the wicked are snared in the work of their own hands.",
+      "text": "the wicked are snared in the work of their own hands. Higgaion. Selah",
       "verse": 16,
       "type": "poetry"
     },
@@ -208,7 +208,7 @@
       "type": "poetry"
     },
     {
-      "text": "Arise, O ! Let not man prevail;",
+      "text": "Arise, O Lord! Let not man prevail;",
       "verse": 19,
       "type": "poetry newline"
     },
@@ -218,12 +218,12 @@
       "type": "poetry"
     },
     {
-      "text": "Put them in fear, O !",
+      "text": "Put them in fear, O Lord!",
       "verse": 20,
       "type": "poetry"
     },
     {
-      "text": "Let the nations know that they are but men!",
+      "text": "Let the nations know that they are but men! Selah",
       "verse": 20,
       "type": "poetry"
     }

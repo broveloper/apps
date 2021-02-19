@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 91,
+  "verses": 16,
   "content": [
     {
       "text": "Psalm 91",
@@ -18,7 +19,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will say of the , “He is my refuge and my fortress,",
+      "text": "I will say of the Lord, “He is my refuge and my fortress,",
       "verse": 2,
       "type": "poetry"
     },
@@ -103,7 +104,7 @@
       "type": "poetry"
     },
     {
-      "text": "If you say, “The  is my refuge,”",
+      "text": "If you say, “The Lord is my refuge,”",
       "verse": 9,
       "type": "poetry newline"
     },
@@ -153,7 +154,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Because he loves me,” says the , “I will rescue him;",
+      "text": "“Because he loves me,” says the Lord, “I will rescue him;",
       "verse": 14,
       "type": "poetry newline"
     },

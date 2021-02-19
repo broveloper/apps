@@ -2,6 +2,7 @@
   "book_id": "REV",
   "book_name": "Revelation",
   "chapter": 22,
+  "verses": 21,
   "content": [
     {
       "text": "The River of Life",
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“And behold, I am coming soon. Blessed is the one who keeps the words of the prophecy of this book.”",
       "verse": 7,
       "type": "newline"
     },
@@ -61,12 +62,12 @@
       "verse": 11
     },
     {
-      "text": "",
+      "text": "“Behold, I am coming soon, bringing my recompense with me, to repay each one for what he has done.",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "I am the Alpha and the Omega, the first and the last, the beginning and the end.”",
       "verse": 13
     },
     {
@@ -79,7 +80,7 @@
       "verse": 15
     },
     {
-      "text": "",
+      "text": "“I, Jesus, have sent my angel to testify to you about these things for the churches. I am the root and the descendant of David, the bright morning star.”",
       "verse": 16,
       "type": "newline"
     },
@@ -98,7 +99,7 @@
       "verse": 19
     },
     {
-      "text": "He who testifies to these things says,  Amen. Come, Lord Jesus!",
+      "text": "He who testifies to these things says, “Surely I am coming soon.” Amen. Come, Lord Jesus!",
       "verse": 20,
       "type": "newline"
     },

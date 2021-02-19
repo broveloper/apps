@@ -2,18 +2,19 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 6,
+  "verses": 30,
   "content": [
     {
-      "text": "Then the  said unto Moses, Now shalt thou see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land.",
+      "text": "Then the Lord said unto Moses, Now shalt thou see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land.",
       "verse": 1
     },
     {
-      "text": "And God spake unto Moses, and said unto him, I am the :",
+      "text": "And God spake unto Moses, and said unto him, I am the Lord:",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name  was I not known to them.",
+      "text": "And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name Jehovah was I not known to them.",
       "verse": 3,
       "type": "newline"
     },
@@ -28,17 +29,17 @@
       "type": "newline"
     },
     {
-      "text": "Wherefore say unto the children of Israel, I am the , and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with a stretched out arm, and with great judgments:",
+      "text": "Wherefore say unto the children of Israel, I am the Lord, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with a stretched out arm, and with great judgments:",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "And I will take you to me for a people, and I will be to you a God: and ye shall know that I am the  your God, which bringeth you out from under the burdens of the Egyptians.",
+      "text": "And I will take you to me for a people, and I will be to you a God: and ye shall know that I am the Lord your God, which bringeth you out from under the burdens of the Egyptians.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "And I will bring you in unto the land, concerning the which I did swear to give it to Abraham, to Isaac, and to Jacob; and I will give it you for an heritage: I am the .",
+      "text": "And I will bring you in unto the land, concerning the which I did swear to give it to Abraham, to Isaac, and to Jacob; and I will give it you for an heritage: I am the Lord.",
       "verse": 8,
       "type": "newline"
     },
@@ -48,7 +49,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  spake unto Moses, saying,",
+      "text": "And the Lord spake unto Moses, saying,",
       "verse": 10,
       "type": "newline"
     },
@@ -58,12 +59,12 @@
       "type": "newline"
     },
     {
-      "text": "And Moses spake before the , saying, Behold, the children of Israel have not hearkened unto me; how then shall Pharaoh hear me, who am of uncircumcised lips?",
+      "text": "And Moses spake before the Lord, saying, Behold, the children of Israel have not hearkened unto me; how then shall Pharaoh hear me, who am of uncircumcised lips?",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "And the  spake unto Moses and unto Aaron, and gave them a charge unto the children of Israel, and unto Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt.",
+      "text": "And the Lord spake unto Moses and unto Aaron, and gave them a charge unto the children of Israel, and unto Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt.",
       "verse": 13,
       "type": "newline"
     },
@@ -128,7 +129,7 @@
       "type": "newline"
     },
     {
-      "text": "These are that Aaron and Moses, to whom the  said, Bring out the children of Israel from the land of Egypt according to their armies.",
+      "text": "These are that Aaron and Moses, to whom the Lord said, Bring out the children of Israel from the land of Egypt according to their armies.",
       "verse": 26,
       "type": "newline"
     },
@@ -138,17 +139,17 @@
       "type": "newline"
     },
     {
-      "text": "And it came to pass on the day when the  spake unto Moses in the land of Egypt,",
+      "text": "And it came to pass on the day when the Lord spake unto Moses in the land of Egypt,",
       "verse": 28,
       "type": "newline"
     },
     {
-      "text": "That the  spake unto Moses, saying, I am the : speak thou unto Pharaoh king of Egypt all that I say unto thee.",
+      "text": "That the Lord spake unto Moses, saying, I am the Lord: speak thou unto Pharaoh king of Egypt all that I say unto thee.",
       "verse": 29,
       "type": "newline"
     },
     {
-      "text": "And Moses said before the , Behold, I am of uncircumcised lips, and how shall Pharaoh hearken unto me?",
+      "text": "And Moses said before the Lord, Behold, I am of uncircumcised lips, and how shall Pharaoh hearken unto me?",
       "verse": 30,
       "type": "newline"
     }

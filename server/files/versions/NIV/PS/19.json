@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 19,
+  "verses": 14,
   "content": [
     {
       "text": "Psalm 19",
@@ -9,8 +10,7 @@
     },
     {
       "text": "For the director of music. A psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "The heavens declare the glory of God;",
@@ -58,7 +58,7 @@
       "type": "poetry"
     },
     {
-      "text": "It is like a bridegroom coming out of his chamber,",
+      "text": "    It is like a bridegroom coming out of his chamber,",
       "verse": 5,
       "type": "poetry"
     },
@@ -83,7 +83,7 @@
       "type": "poetry"
     },
     {
-      "text": "The law of the  is perfect,",
+      "text": "The law of the Lord is perfect,",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -93,7 +93,7 @@
       "type": "poetry"
     },
     {
-      "text": "The statutes of the  are trustworthy,",
+      "text": "The statutes of the Lord are trustworthy,",
       "verse": 7,
       "type": "poetry"
     },
@@ -103,7 +103,7 @@
       "type": "poetry"
     },
     {
-      "text": "The precepts of the  are right,",
+      "text": "The precepts of the Lord are right,",
       "verse": 8,
       "type": "poetry"
     },
@@ -113,7 +113,7 @@
       "type": "poetry"
     },
     {
-      "text": "The commands of the  are radiant,",
+      "text": "The commands of the Lord are radiant,",
       "verse": 8,
       "type": "poetry"
     },
@@ -123,7 +123,7 @@
       "type": "poetry"
     },
     {
-      "text": "The fear of the  is pure,",
+      "text": "The fear of the Lord is pure,",
       "verse": 9,
       "type": "poetry"
     },
@@ -133,7 +133,7 @@
       "type": "poetry"
     },
     {
-      "text": "The decrees of the  are firm,",
+      "text": "The decrees of the Lord are firm,",
       "verse": 9,
       "type": "poetry"
     },
@@ -213,7 +213,7 @@
       "type": "poetry"
     },
     {
-      "text": ", my Rock and my Redeemer.",
+      "text": "Lord, my Rock and my Redeemer.",
       "verse": 14,
       "type": "poetry"
     }

@@ -2,6 +2,7 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 20,
+  "verses": 26,
   "content": [
     {
       "text": "The Ten Commandments",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "“I am the  your God, who brought you out of Egypt, out of the land of slavery.",
+      "text": "“I am the Lord your God, who brought you out of Egypt, out of the land of slavery.",
       "verse": 2,
       "type": "newline"
     },
@@ -26,7 +27,7 @@
       "verse": 4
     },
     {
-      "text": "You shall not bow down to them or worship them; for I, the  your God, am a jealous God, punishing the children for the sin of the parents to the third and fourth generation of those who hate me,",
+      "text": "You shall not bow down to them or worship them; for I, the Lord your God, am a jealous God, punishing the children for the sin of the parents to the third and fourth generation of those who hate me,",
       "verse": 5
     },
     {
@@ -34,7 +35,7 @@
       "verse": 6
     },
     {
-      "text": "“You shall not misuse the name of the  your God, for the  will not hold anyone guiltless who misuses his name.",
+      "text": "“You shall not misuse the name of the Lord your God, for the Lord will not hold anyone guiltless who misuses his name.",
       "verse": 7
     },
     {
@@ -46,15 +47,15 @@
       "verse": 9
     },
     {
-      "text": "but the seventh day is a sabbath to the  your God. On it you shall not do any work, neither you, nor your son or daughter, nor your male or female servant, nor your animals, nor any foreigner residing in your towns.",
+      "text": "but the seventh day is a sabbath to the Lord your God. On it you shall not do any work, neither you, nor your son or daughter, nor your male or female servant, nor your animals, nor any foreigner residing in your towns.",
       "verse": 10
     },
     {
-      "text": "For in six days the  made the heavens and the earth, the sea, and all that is in them, but he rested on the seventh day. Therefore the  blessed the Sabbath day and made it holy.",
+      "text": "For in six days the Lord made the heavens and the earth, the sea, and all that is in them, but he rested on the seventh day. Therefore the Lord blessed the Sabbath day and made it holy.",
       "verse": 11
     },
     {
-      "text": "“Honor your father and your mother, so that you may live long in the land the  your God is giving you.",
+      "text": "“Honor your father and your mother, so that you may live long in the land the Lord your God is giving you.",
       "verse": 12
     },
     {
@@ -101,7 +102,7 @@
       "type": "heading"
     },
     {
-      "text": "Then the  said to Moses, “Tell the Israelites this: ‘You have seen for yourselves that I have spoken to you from heaven:",
+      "text": "Then the Lord said to Moses, “Tell the Israelites this: ‘You have seen for yourselves that I have spoken to you from heaven:",
       "verse": 22,
       "type": "newline"
     },

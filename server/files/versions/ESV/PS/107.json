@@ -2,17 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 107,
+  "verses": 43,
   "content": [
     {
       "text": "Book Five",
       "type": "heading"
     },
     {
-      "text": "Let the Redeemed of the  Say So",
+      "text": "Let the Redeemed of the Lord Say So",
       "type": "heading"
     },
     {
-      "text": "Oh give thanks to the , for he is good,",
+      "text": "Oh give thanks to the Lord, for he is good,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -22,7 +23,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let the redeemed of the  say so,",
+      "text": "Let the redeemed of the Lord say so,",
       "verse": 2,
       "type": "poetry"
     },
@@ -67,7 +68,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then they cried to the  in their trouble,",
+      "text": "Then they cried to the Lord in their trouble,",
       "verse": 6,
       "type": "poetry"
     },
@@ -87,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let them thank the  for his steadfast love,",
+      "text": "Let them thank the Lord for his steadfast love,",
       "verse": 8,
       "type": "poetry"
     },
@@ -137,7 +138,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then they cried to the  in their trouble,",
+      "text": "Then they cried to the Lord in their trouble,",
       "verse": 13,
       "type": "poetry"
     },
@@ -157,7 +158,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let them thank the  for his steadfast love,",
+      "text": "Let them thank the Lord for his steadfast love,",
       "verse": 15,
       "type": "poetry"
     },
@@ -197,7 +198,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then they cried to the  in their trouble,",
+      "text": "Then they cried to the Lord in their trouble,",
       "verse": 19,
       "type": "poetry"
     },
@@ -217,7 +218,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let them thank the  for his steadfast love,",
+      "text": "Let them thank the Lord for his steadfast love,",
       "verse": 21,
       "type": "poetry"
     },
@@ -247,7 +248,7 @@
       "type": "poetry"
     },
     {
-      "text": "they saw the deeds of the ,",
+      "text": "they saw the deeds of the Lord,",
       "verse": 24,
       "type": "poetry"
     },
@@ -287,7 +288,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then they cried to the  in their trouble,",
+      "text": "Then they cried to the Lord in their trouble,",
       "verse": 28,
       "type": "poetry"
     },
@@ -317,7 +318,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let them thank the  for his steadfast love,",
+      "text": "Let them thank the Lord for his steadfast love,",
       "verse": 31,
       "type": "poetry"
     },
@@ -442,7 +443,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "let them consider the steadfast love of the .",
+      "text": "let them consider the steadfast love of the Lord.",
       "verse": 43,
       "type": "poetry"
     }

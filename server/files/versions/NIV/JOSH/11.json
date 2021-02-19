@@ -2,6 +2,7 @@
   "book_id": "JOSH",
   "book_name": "Joshua",
   "chapter": 11,
+  "verses": 23,
   "content": [
     {
       "text": "Northern Kings Defeated",
@@ -29,7 +30,7 @@
       "verse": 5
     },
     {
-      "text": "The  said to Joshua, “Do not be afraid of them, because by this time tomorrow I will hand all of them, slain, over to Israel. You are to hamstring their horses and burn their chariots.”",
+      "text": "The Lord said to Joshua, “Do not be afraid of them, because by this time tomorrow I will hand all of them, slain, over to Israel. You are to hamstring their horses and burn their chariots.”",
       "verse": 6,
       "type": "newline"
     },
@@ -39,11 +40,11 @@
       "type": "newline"
     },
     {
-      "text": "and the  gave them into the hand of Israel. They defeated them and pursued them all the way to Greater Sidon, to Misrephoth Maim, and to the Valley of Mizpah on the east, until no survivors were left.",
+      "text": "and the Lord gave them into the hand of Israel. They defeated them and pursued them all the way to Greater Sidon, to Misrephoth Maim, and to the Valley of Mizpah on the east, until no survivors were left.",
       "verse": 8
     },
     {
-      "text": "Joshua did to them as the  had directed: He hamstrung their horses and burned their chariots.",
+      "text": "Joshua did to them as the Lord had directed: He hamstrung their horses and burned their chariots.",
       "verse": 9
     },
     {
@@ -56,7 +57,7 @@
       "verse": 11
     },
     {
-      "text": "Joshua took all these royal cities and their kings and put them to the sword. He totally destroyed them, as Moses the servant of the  had commanded.",
+      "text": "Joshua took all these royal cities and their kings and put them to the sword. He totally destroyed them, as Moses the servant of the Lord had commanded.",
       "verse": 12,
       "type": "newline"
     },
@@ -69,7 +70,7 @@
       "verse": 14
     },
     {
-      "text": "As the  commanded his servant Moses, so Moses commanded Joshua, and Joshua did it; he left nothing undone of all that the  commanded Moses.",
+      "text": "As the Lord commanded his servant Moses, so Moses commanded Joshua, and Joshua did it; he left nothing undone of all that the Lord commanded Moses.",
       "verse": 15
     },
     {
@@ -90,7 +91,7 @@
       "verse": 19
     },
     {
-      "text": "For it was the  himself who hardened their hearts to wage war against Israel, so that he might destroy them totally, exterminating them without mercy, as the  had commanded Moses.",
+      "text": "For it was the Lord himself who hardened their hearts to wage war against Israel, so that he might destroy them totally, exterminating them without mercy, as the Lord had commanded Moses.",
       "verse": 20
     },
     {
@@ -103,7 +104,7 @@
       "verse": 22
     },
     {
-      "text": "So Joshua took the entire land, just as the  had directed Moses, and he gave it as an inheritance to Israel according to their tribal divisions. Then the land had rest from war.",
+      "text": "So Joshua took the entire land, just as the Lord had directed Moses, and he gave it as an inheritance to Israel according to their tribal divisions. Then the land had rest from war.",
       "verse": 23,
       "type": "newline"
     }

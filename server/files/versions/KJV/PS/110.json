@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 110,
+  "verses": 7,
   "content": [
     {
-      "text": "The  said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
+      "text": "The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
       "verse": 1
     },
     {
-      "text": "The  shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.",
+      "text": "The Lord shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.",
       "verse": 2,
       "type": "newline"
     },
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "The  hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek.",
+      "text": "The Lord hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek.",
       "verse": 4,
       "type": "newline"
     },

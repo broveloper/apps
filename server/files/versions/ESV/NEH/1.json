@@ -2,6 +2,7 @@
   "book_id": "NEH",
   "book_name": "Nehemiah",
   "chapter": 1,
+  "verses": 11,
   "content": [
     {
       "text": "Report from Jerusalem",
@@ -35,7 +36,7 @@
       "type": "newline"
     },
     {
-      "text": "And I said, “O  God of heaven, the great and awesome God who keeps covenant and steadfast love with those who love him and keep his commandments,",
+      "text": "And I said, “O Lord God of heaven, the great and awesome God who keeps covenant and steadfast love with those who love him and keep his commandments,",
       "verse": 5
     },
     {

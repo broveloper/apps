@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 20,
+  "verses": 9,
   "content": [
     {
-      "text": "Trust in the Name of the  Our God",
+      "text": "Trust in the Name of the Lord Our God",
       "type": "heading"
     },
     {
       "text": "To the choirmaster. A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "May the  answer you in the day of trouble!",
+      "text": "May the Lord answer you in the day of trouble!",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -38,7 +38,7 @@
       "type": "poetry"
     },
     {
-      "text": "and regard with favor your burnt sacrifices!",
+      "text": "and regard with favor your burnt sacrifices! Selah",
       "verse": 3,
       "type": "poetry"
     },
@@ -63,12 +63,12 @@
       "type": "poetry"
     },
     {
-      "text": "May the  fulfill all your petitions!",
+      "text": "May the Lord fulfill all your petitions!",
       "verse": 5,
       "type": "poetry"
     },
     {
-      "text": "Now I know that the  saves his anointed;",
+      "text": "Now I know that the Lord saves his anointed;",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -88,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "but we trust in the name of the  our God.",
+      "text": "but we trust in the name of the Lord our God.",
       "verse": 7,
       "type": "poetry"
     },
@@ -103,7 +103,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , save the king!",
+      "text": "O Lord, save the king!",
       "verse": 9,
       "type": "poetry newline"
     },

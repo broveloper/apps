@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 108,
+  "verses": 13,
   "content": [
     {
       "text": "O God, my heart is fixed; I will sing and give praise, even with my glory.",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "I will praise thee, O , among the people: and I will sing praises unto thee among the nations.",
+      "text": "I will praise thee, O Lord, among the people: and I will sing praises unto thee among the nations.",
       "verse": 3,
       "type": "newline"
     },

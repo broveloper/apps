@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 13,
+  "verses": 38,
   "content": [
     {
       "text": "Jesus Washes the Disciples' Feet",
@@ -33,11 +34,11 @@
       "verse": 6
     },
     {
-      "text": "Jesus answered him,",
+      "text": "Jesus answered him, “What I am doing you do not understand now, but afterward you will understand.”",
       "verse": 7
     },
     {
-      "text": "Peter said to him, “You shall never wash my feet.” Jesus answered him,",
+      "text": "Peter said to him, “You shall never wash my feet.” Jesus answered him, “If I do not wash you, you have no share with me.”",
       "verse": 8
     },
     {
@@ -45,48 +46,48 @@
       "verse": 9
     },
     {
-      "text": "Jesus said to him,",
+      "text": "Jesus said to him, “The one who has bathed does not need to wash, except for his feet, but is completely clean. And you are clean, but not every one of you.”",
       "verse": 10
     },
     {
-      "text": "For he knew who was to betray him; that was why he said,",
+      "text": "For he knew who was to betray him; that was why he said, “Not all of you are clean.”",
       "verse": 11
     },
     {
-      "text": "When he had washed their feet and put on his outer garments and resumed his place, he said to them,",
+      "text": "When he had washed their feet and put on his outer garments and resumed his place, he said to them, “Do you understand what I have done to you?",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "You call me Teacher and Lord, and you are right, for so I am.",
       "verse": 13
     },
     {
-      "text": "",
+      "text": "If I then, your Lord and Teacher, have washed your feet, you also ought to wash one another's feet.",
       "verse": 14
     },
     {
-      "text": "",
+      "text": "For I have given you an example, that you also should do just as I have done to you.",
       "verse": 15
     },
     {
-      "text": "",
+      "text": "Truly, truly, I say to you, a servant is not greater than his master, nor is a messenger greater than the one who sent him.",
       "verse": 16
     },
     {
-      "text": "",
+      "text": "If you know these things, blessed are you if you do them.",
       "verse": 17
     },
     {
-      "text": "",
+      "text": "I am not speaking of all of you; I know whom I have chosen. But the Scripture will be fulfilled, ‘He who ate my bread has lifted his heel against me.’",
       "verse": 18
     },
     {
-      "text": "",
+      "text": "I am telling you this now, before it takes place, that when it does take place you may believe that I am he.",
       "verse": 19
     },
     {
-      "text": "",
+      "text": "Truly, truly, I say to you, whoever receives the one I send receives me, and whoever receives me receives the one who sent me.”",
       "verse": 20
     },
     {
@@ -94,7 +95,7 @@
       "type": "heading"
     },
     {
-      "text": "After saying these things, Jesus was troubled in his spirit, and testified,",
+      "text": "After saying these things, Jesus was troubled in his spirit, and testified, “Truly, truly, I say to you, one of you will betray me.”",
       "verse": 21,
       "type": "newline"
     },
@@ -115,11 +116,11 @@
       "verse": 25
     },
     {
-      "text": "Jesus answered,  So when he had dipped the morsel, he gave it to Judas, the son of Simon Iscariot.",
+      "text": "Jesus answered, “It is he to whom I will give this morsel of bread when I have dipped it.” So when he had dipped the morsel, he gave it to Judas, the son of Simon Iscariot.",
       "verse": 26
     },
     {
-      "text": "Then after he had taken the morsel, Satan entered into him. Jesus said to him,",
+      "text": "Then after he had taken the morsel, Satan entered into him. Jesus said to him, “What you are going to do, do quickly.”",
       "verse": 27
     },
     {
@@ -139,24 +140,24 @@
       "type": "heading"
     },
     {
-      "text": "When he had gone out, Jesus said,",
+      "text": "When he had gone out, Jesus said, “Now is the Son of Man glorified, and God is glorified in him.",
       "verse": 31,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "If God is glorified in him, God will also glorify him in himself, and glorify him at once.",
       "verse": 32
     },
     {
-      "text": "",
+      "text": "Little children, yet a little while I am with you. You will seek me, and just as I said to the Jews, so now I also say to you, ‘Where I am going you cannot come.’",
       "verse": 33
     },
     {
-      "text": "",
+      "text": "A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another.",
       "verse": 34
     },
     {
-      "text": "",
+      "text": "By this all people will know that you are my disciples, if you have love for one another.”",
       "verse": 35
     },
     {
@@ -164,7 +165,7 @@
       "type": "heading"
     },
     {
-      "text": "Simon Peter said to him, “Lord, where are you going?” Jesus answered him,",
+      "text": "Simon Peter said to him, “Lord, where are you going?” Jesus answered him, “Where I am going you cannot follow me now, but you will follow afterward.”",
       "verse": 36,
       "type": "newline"
     },
@@ -173,7 +174,7 @@
       "verse": 37
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “Will you lay down your life for me? Truly, truly, I say to you, the rooster will not crow till you have denied me three times.",
       "verse": 38
     }
   ]

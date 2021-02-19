@@ -2,13 +2,14 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 24,
+  "verses": 23,
   "content": [
     {
       "text": "The Lamps",
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses, saying,",
+      "text": "The Lord spoke to Moses, saying,",
       "verse": 1,
       "type": "newline"
     },
@@ -17,11 +18,11 @@
       "verse": 2
     },
     {
-      "text": "Outside the veil of the testimony, in the tent of meeting, Aaron shall arrange it from evening to morning before the  regularly. It shall be a statute forever throughout your generations.",
+      "text": "Outside the veil of the testimony, in the tent of meeting, Aaron shall arrange it from evening to morning before the Lord regularly. It shall be a statute forever throughout your generations.",
       "verse": 3
     },
     {
-      "text": "He shall arrange the lamps on the lampstand of pure gold before the  regularly.",
+      "text": "He shall arrange the lamps on the lampstand of pure gold before the Lord regularly.",
       "verse": 4
     },
     {
@@ -34,19 +35,19 @@
       "type": "newline"
     },
     {
-      "text": "And you shall set them in two piles, six in a pile, on the table of pure gold before the .",
+      "text": "And you shall set them in two piles, six in a pile, on the table of pure gold before the Lord.",
       "verse": 6
     },
     {
-      "text": "And you shall put pure frankincense on each pile, that it may go with the bread as a memorial portion as a food offering to the .",
+      "text": "And you shall put pure frankincense on each pile, that it may go with the bread as a memorial portion as a food offering to the Lord.",
       "verse": 7
     },
     {
-      "text": "Every Sabbath day Aaron shall arrange it before the  regularly; it is from the people of Israel as a covenant forever.",
+      "text": "Every Sabbath day Aaron shall arrange it before the Lord regularly; it is from the people of Israel as a covenant forever.",
       "verse": 8
     },
     {
-      "text": "And it shall be for Aaron and his sons, and they shall eat it in a holy place, since it is for him a most holy portion out of the 's food offerings, a perpetual due.”",
+      "text": "And it shall be for Aaron and his sons, and they shall eat it in a holy place, since it is for him a most holy portion out of the Lord's food offerings, a perpetual due.”",
       "verse": 9
     },
     {
@@ -63,11 +64,11 @@
       "verse": 11
     },
     {
-      "text": "And they put him in custody, till the will of the  should be clear to them.",
+      "text": "And they put him in custody, till the will of the Lord should be clear to them.",
       "verse": 12
     },
     {
-      "text": "Then the  spoke to Moses, saying,",
+      "text": "Then the Lord spoke to Moses, saying,",
       "verse": 13,
       "type": "newline"
     },
@@ -80,7 +81,7 @@
       "verse": 15
     },
     {
-      "text": "Whoever blasphemes the name of the  shall surely be put to death. All the congregation shall stone him. The sojourner as well as the native, when he blasphemes the Name, shall be put to death.",
+      "text": "Whoever blasphemes the name of the Lord shall surely be put to death. All the congregation shall stone him. The sojourner as well as the native, when he blasphemes the Name, shall be put to death.",
       "verse": 16
     },
     {
@@ -109,11 +110,11 @@
       "verse": 21
     },
     {
-      "text": "You shall have the same rule for the sojourner and for the native, for I am the  your God.”",
+      "text": "You shall have the same rule for the sojourner and for the native, for I am the Lord your God.”",
       "verse": 22
     },
     {
-      "text": "So Moses spoke to the people of Israel, and they brought out of the camp the one who had cursed and stoned him with stones. Thus the people of Israel did as the  commanded Moses.",
+      "text": "So Moses spoke to the people of Israel, and they brought out of the camp the one who had cursed and stoned him with stones. Thus the people of Israel did as the Lord commanded Moses.",
       "verse": 23
     }
   ]

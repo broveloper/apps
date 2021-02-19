@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 124,
+  "verses": 8,
   "content": [
     {
       "text": "Psalm 124",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A song of ascents. Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "If the  had not been on our side—",
+      "text": "If the Lord had not been on our side—",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,7 +23,7 @@
       "type": "poetry"
     },
     {
-      "text": "if the  had not been on our side",
+      "text": "if the Lord had not been on our side",
       "verse": 2,
       "type": "poetry"
     },
@@ -63,7 +63,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise be to the ,",
+      "text": "Praise be to the Lord,",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -93,7 +93,7 @@
       "type": "poetry"
     },
     {
-      "text": "Our help is in the name of the ,",
+      "text": "Our help is in the name of the Lord,",
       "verse": 8,
       "type": "poetry"
     },

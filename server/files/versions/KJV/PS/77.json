@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 77,
+  "verses": 20,
   "content": [
     {
       "text": "I cried unto God with my voice, even unto God with my voice; and he gave ear unto me.",
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "I will remember the works of the : surely I will remember thy wonders of old.",
+      "text": "I will remember the works of the Lord: surely I will remember thy wonders of old.",
       "verse": 11,
       "type": "newline"
     },

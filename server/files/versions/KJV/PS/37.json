@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 37,
+  "verses": 40,
   "content": [
     {
       "text": "Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.",
@@ -13,17 +14,17 @@
       "type": "newline"
     },
     {
-      "text": "Trust in the , and do good; so shalt thou dwell in the land, and verily thou shalt be fed.",
+      "text": "Trust in the Lord, and do good; so shalt thou dwell in the land, and verily thou shalt be fed.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "Delight thyself also in the : and he shall give thee the desires of thine heart.",
+      "text": "Delight thyself also in the Lord: and he shall give thee the desires of thine heart.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "Commit thy way unto the ; trust also in him; and he shall bring it to pass.",
+      "text": "Commit thy way unto the Lord; trust also in him; and he shall bring it to pass.",
       "verse": 5,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "Rest in the , and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass.",
+      "text": "Rest in the Lord, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass.",
       "verse": 7,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "For evildoers shall be cut off: but those that wait upon the , they shall inherit the earth.",
+      "text": "For evildoers shall be cut off: but those that wait upon the Lord, they shall inherit the earth.",
       "verse": 9,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "The  shall laugh at him: for he seeth that his day is coming.",
+      "text": "The Lord shall laugh at him: for he seeth that his day is coming.",
       "verse": 13,
       "type": "newline"
     },
@@ -83,12 +84,12 @@
       "type": "newline"
     },
     {
-      "text": "For the arms of the wicked shall be broken: but the  upholdeth the righteous.",
+      "text": "For the arms of the wicked shall be broken: but the Lord upholdeth the righteous.",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "The  knoweth the days of the upright: and their inheritance shall be for ever.",
+      "text": "The Lord knoweth the days of the upright: and their inheritance shall be for ever.",
       "verse": 18,
       "type": "newline"
     },
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "But the wicked shall perish, and the enemies of the  shall be as the fat of lambs: they shall consume; into smoke shall they consume away.",
+      "text": "But the wicked shall perish, and the enemies of the Lord shall be as the fat of lambs: they shall consume; into smoke shall they consume away.",
       "verse": 20,
       "type": "newline"
     },
@@ -113,12 +114,12 @@
       "type": "newline"
     },
     {
-      "text": "The steps of a good man are ordered by the : and he delighteth in his way.",
+      "text": "The steps of a good man are ordered by the Lord: and he delighteth in his way.",
       "verse": 23,
       "type": "newline"
     },
     {
-      "text": "Though he fall, he shall not be utterly cast down: for the  upholdeth him with his hand.",
+      "text": "Though he fall, he shall not be utterly cast down: for the Lord upholdeth him with his hand.",
       "verse": 24,
       "type": "newline"
     },
@@ -138,7 +139,7 @@
       "type": "newline"
     },
     {
-      "text": "For the  loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off.",
+      "text": "For the Lord loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off.",
       "verse": 28,
       "type": "newline"
     },
@@ -163,12 +164,12 @@
       "type": "newline"
     },
     {
-      "text": "The  will not leave him in his hand, nor condemn him when he is judged.",
+      "text": "The Lord will not leave him in his hand, nor condemn him when he is judged.",
       "verse": 33,
       "type": "newline"
     },
     {
-      "text": "Wait on the , and keep his way, and he shall exalt thee to inherit the land: when the wicked are cut off, thou shalt see it.",
+      "text": "Wait on the Lord, and keep his way, and he shall exalt thee to inherit the land: when the wicked are cut off, thou shalt see it.",
       "verse": 34,
       "type": "newline"
     },
@@ -193,12 +194,12 @@
       "type": "newline"
     },
     {
-      "text": "But the salvation of the righteous is of the : he is their strength in the time of trouble.",
+      "text": "But the salvation of the righteous is of the Lord: he is their strength in the time of trouble.",
       "verse": 39,
       "type": "newline"
     },
     {
-      "text": "And the  shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him.",
+      "text": "And the Lord shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him.",
       "verse": 40,
       "type": "newline"
     }

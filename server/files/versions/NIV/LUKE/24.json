@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 24,
+  "verses": 53,
   "content": [
     {
       "text": "Jesus Has Risen",
@@ -33,7 +34,7 @@
       "verse": 6
     },
     {
-      "text": "”",
+      "text": "‘The Son of Man must be delivered over to the hands of sinners, be crucified and on the third day be raised again.’ ”",
       "verse": 7
     },
     {
@@ -79,7 +80,7 @@
       "verse": 16
     },
     {
-      "text": "He asked them,",
+      "text": "He asked them, “What are you discussing together as you walk along?”",
       "verse": 17,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "verse": 18
     },
     {
-      "text": "he asked.",
+      "text": "“What things?” he asked.",
       "verse": 19,
       "type": "newline"
     },
@@ -123,12 +124,12 @@
       "verse": 24
     },
     {
-      "text": "He said to them,",
+      "text": "He said to them, “How foolish you are, and how slow to believe all that the prophets have spoken!",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Did not the Messiah have to suffer these things and then enter his glory?”",
       "verse": 26
     },
     {
@@ -175,7 +176,7 @@
       "type": "heading"
     },
     {
-      "text": "While they were still talking about this, Jesus himself stood among them and said to them,",
+      "text": "While they were still talking about this, Jesus himself stood among them and said to them, “Peace be with you.”",
       "verse": 36,
       "type": "newline"
     },
@@ -185,11 +186,11 @@
       "type": "newline"
     },
     {
-      "text": "He said to them,",
+      "text": "He said to them, “Why are you troubled, and why do doubts rise in your minds?",
       "verse": 38
     },
     {
-      "text": "",
+      "text": "Look at my hands and my feet. It is I myself! Touch me and see; a ghost does not have flesh and bones, as you see I have.”",
       "verse": 39
     },
     {
@@ -198,7 +199,7 @@
       "type": "newline"
     },
     {
-      "text": "And while they still did not believe it because of joy and amazement, he asked them,",
+      "text": "And while they still did not believe it because of joy and amazement, he asked them, “Do you have anything here to eat?”",
       "verse": 41
     },
     {
@@ -210,7 +211,7 @@
       "verse": 43
     },
     {
-      "text": "He said to them,",
+      "text": "He said to them, “This is what I told you while I was still with you: Everything must be fulfilled that is written about me in the Law of Moses, the Prophets and the Psalms.”",
       "verse": 44,
       "type": "newline"
     },
@@ -220,19 +221,19 @@
       "type": "newline"
     },
     {
-      "text": "He told them,",
+      "text": "He told them, “This is what is written: The Messiah will suffer and rise from the dead on the third day,",
       "verse": 46
     },
     {
-      "text": "",
+      "text": "and repentance for the forgiveness of sins will be preached in his name to all nations, beginning at Jerusalem.",
       "verse": 47
     },
     {
-      "text": "",
+      "text": "You are witnesses of these things.",
       "verse": 48
     },
     {
-      "text": "",
+      "text": "I am going to send you what my Father has promised; but stay in the city until you have been clothed with power from on high.”",
       "verse": 49
     },
     {

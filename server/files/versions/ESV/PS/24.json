@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 24,
+  "verses": 10,
   "content": [
     {
       "text": "The King of Glory",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "The earth is the 's and the fullness thereof,",
+      "text": "The earth is the Lord's and the fullness thereof,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "Who shall ascend the hill of the ?",
+      "text": "Who shall ascend the hill of the Lord?",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -58,7 +58,7 @@
       "type": "poetry"
     },
     {
-      "text": "He will receive blessing from the",
+      "text": "He will receive blessing from the Lord",
       "verse": 5,
       "type": "poetry"
     },
@@ -73,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "who seek the face of the God of Jacob.",
+      "text": "who seek the face of the God of Jacob. Selah",
       "verse": 6,
       "type": "poetry"
     },
@@ -98,12 +98,12 @@
       "type": "poetry"
     },
     {
-      "text": "The , strong and mighty,",
+      "text": "The Lord, strong and mighty,",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "the , mighty in battle!",
+      "text": "the Lord, mighty in battle!",
       "verse": 8,
       "type": "poetry"
     },
@@ -128,12 +128,12 @@
       "type": "poetry"
     },
     {
-      "text": "The  of hosts,",
+      "text": "The Lord of hosts,",
       "verse": 10,
       "type": "poetry"
     },
     {
-      "text": "he is the King of glory!",
+      "text": "he is the King of glory! Selah",
       "verse": 10,
       "type": "poetry"
     }

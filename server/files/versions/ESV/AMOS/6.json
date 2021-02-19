@@ -2,6 +2,7 @@
   "book_id": "AMOS",
   "book_name": "Amos",
   "chapter": 6,
+  "verses": 14,
   "content": [
     {
       "text": "Woe to Those at Ease in Zion",
@@ -118,7 +119,7 @@
       "type": "poetry"
     },
     {
-      "text": "The Lord  has sworn by himself, declares the , the God of hosts:",
+      "text": "The Lord God has sworn by himself, declares the Lord, the God of hosts:",
       "verse": 8,
       "type": "newline"
     },
@@ -143,11 +144,11 @@
       "type": "newline"
     },
     {
-      "text": "And when one's relative, the one who anoints him for burial, shall take him up to bring the bones out of the house, and shall say to him who is in the innermost parts of the house, “Is there still anyone with you?” he shall say, “No”; and he shall say, “Silence! We must not mention the name of the .”",
+      "text": "And when one's relative, the one who anoints him for burial, shall take him up to bring the bones out of the house, and shall say to him who is in the innermost parts of the house, “Is there still anyone with you?” he shall say, “No”; and he shall say, “Silence! We must not mention the name of the Lord.”",
       "verse": 10
     },
     {
-      "text": "For behold, the  commands,",
+      "text": "For behold, the Lord commands,",
       "verse": 11,
       "type": "poetry newline"
     },
@@ -202,7 +203,7 @@
       "type": "poetry"
     },
     {
-      "text": "O house of Israel,” declares the , the God of hosts;",
+      "text": "O house of Israel,” declares the Lord, the God of hosts;",
       "verse": 14,
       "type": "poetry"
     },

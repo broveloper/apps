@@ -2,6 +2,7 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 27,
+  "verses": 21,
   "content": [
     {
       "text": "The Altar of Burnt Offering",
@@ -101,7 +102,7 @@
       "type": "newline"
     },
     {
-      "text": "In the tent of meeting, outside the curtain that shields the ark of the covenant law, Aaron and his sons are to keep the lamps burning before the  from evening till morning. This is to be a lasting ordinance among the Israelites for the generations to come.",
+      "text": "In the tent of meeting, outside the curtain that shields the ark of the covenant law, Aaron and his sons are to keep the lamps burning before the Lord from evening till morning. This is to be a lasting ordinance among the Israelites for the generations to come.",
       "verse": 21
     }
   ]

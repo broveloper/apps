@@ -2,6 +2,7 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 2,
+  "verses": 10,
   "content": [
     {
       "text": "Ezekiel's Call",
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "The descendants also are impudent and stubborn: I send you to them, and you shall say to them, ‘Thus says the Lord .’",
+      "text": "The descendants also are impudent and stubborn: I send you to them, and you shall say to them, ‘Thus says the Lord God.’",
       "verse": 4
     },
     {

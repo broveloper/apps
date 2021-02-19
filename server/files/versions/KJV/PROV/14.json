@@ -2,13 +2,14 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 14,
+  "verses": 35,
   "content": [
     {
       "text": "Every wise woman buildeth her house: but the foolish plucketh it down with her hands.",
       "verse": 1
     },
     {
-      "text": "He that walketh in his uprightness feareth the : but he that is perverse in his ways despiseth him.",
+      "text": "He that walketh in his uprightness feareth the Lord: but he that is perverse in his ways despiseth him.",
       "verse": 2,
       "type": "newline"
     },
@@ -128,12 +129,12 @@
       "type": "newline"
     },
     {
-      "text": "In the fear of the  is strong confidence: and his children shall have a place of refuge.",
+      "text": "In the fear of the Lord is strong confidence: and his children shall have a place of refuge.",
       "verse": 26,
       "type": "newline"
     },
     {
-      "text": "The fear of the  is a fountain of life, to depart from the snares of death.",
+      "text": "The fear of the Lord is a fountain of life, to depart from the snares of death.",
       "verse": 27,
       "type": "newline"
     },

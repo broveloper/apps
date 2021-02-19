@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 29,
+  "verses": 11,
   "content": [
     {
       "text": "Psalm 29",
@@ -9,31 +10,30 @@
     },
     {
       "text": "A psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Ascribe to the , you heavenly beings,",
+      "text": "Ascribe to the Lord, you heavenly beings,",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "ascribe to the  glory and strength.",
+      "text": "ascribe to the Lord glory and strength.",
       "verse": 1,
       "type": "poetry"
     },
     {
-      "text": "Ascribe to the  the glory due his name;",
+      "text": "Ascribe to the Lord the glory due his name;",
       "verse": 2,
       "type": "poetry"
     },
     {
-      "text": "worship the  in the splendor of his holiness.",
+      "text": "worship the Lord in the splendor of his holiness.",
       "verse": 2,
       "type": "poetry"
     },
     {
-      "text": "The voice of the  is over the waters;",
+      "text": "The voice of the Lord is over the waters;",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -43,27 +43,27 @@
       "type": "poetry"
     },
     {
-      "text": "the  thunders over the mighty waters.",
+      "text": "the Lord thunders over the mighty waters.",
       "verse": 3,
       "type": "poetry"
     },
     {
-      "text": "The voice of the  is powerful;",
+      "text": "The voice of the Lord is powerful;",
       "verse": 4,
       "type": "poetry"
     },
     {
-      "text": "the voice of the  is majestic.",
+      "text": "the voice of the Lord is majestic.",
       "verse": 4,
       "type": "poetry"
     },
     {
-      "text": "The voice of the  breaks the cedars;",
+      "text": "The voice of the Lord breaks the cedars;",
       "verse": 5,
       "type": "poetry"
     },
     {
-      "text": "the  breaks in pieces the cedars of Lebanon.",
+      "text": "the Lord breaks in pieces the cedars of Lebanon.",
       "verse": 5,
       "type": "poetry"
     },
@@ -78,7 +78,7 @@
       "type": "poetry"
     },
     {
-      "text": "The voice of the  strikes",
+      "text": "The voice of the Lord strikes",
       "verse": 7,
       "type": "poetry"
     },
@@ -88,17 +88,17 @@
       "type": "poetry"
     },
     {
-      "text": "The voice of the  shakes the desert;",
+      "text": "The voice of the Lord shakes the desert;",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "the  shakes the Desert of Kadesh.",
+      "text": "the Lord shakes the Desert of Kadesh.",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "The voice of the  twists the oaks",
+      "text": "The voice of the Lord twists the oaks",
       "verse": 9,
       "type": "poetry"
     },
@@ -113,22 +113,22 @@
       "type": "poetry"
     },
     {
-      "text": "The  sits enthroned over the flood;",
+      "text": "The Lord sits enthroned over the flood;",
       "verse": 10,
       "type": "poetry newline"
     },
     {
-      "text": "the  is enthroned as King forever.",
+      "text": "the Lord is enthroned as King forever.",
       "verse": 10,
       "type": "poetry"
     },
     {
-      "text": "The  gives strength to his people;",
+      "text": "The Lord gives strength to his people;",
       "verse": 11,
       "type": "poetry"
     },
     {
-      "text": "the  blesses his people with peace.",
+      "text": "the Lord blesses his people with peace.",
       "verse": 11,
       "type": "poetry"
     }

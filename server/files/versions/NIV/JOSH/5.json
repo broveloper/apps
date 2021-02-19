@@ -2,9 +2,10 @@
   "book_id": "JOSH",
   "book_name": "Joshua",
   "chapter": 5,
+  "verses": 15,
   "content": [
     {
-      "text": "Now when all the Amorite kings west of the Jordan and all the Canaanite kings along the coast heard how the  had dried up the Jordan before the Israelites until they had crossed over, their hearts melted in fear and they no longer had the courage to face the Israelites.",
+      "text": "Now when all the Amorite kings west of the Jordan and all the Canaanite kings along the coast heard how the Lord had dried up the Jordan before the Israelites until they had crossed over, their hearts melted in fear and they no longer had the courage to face the Israelites.",
       "verse": 1
     },
     {
@@ -12,7 +13,7 @@
       "type": "heading"
     },
     {
-      "text": "At that time the  said to Joshua, “Make flint knives and circumcise the Israelites again.”",
+      "text": "At that time the Lord said to Joshua, “Make flint knives and circumcise the Israelites again.”",
       "verse": 2,
       "type": "newline"
     },
@@ -30,7 +31,7 @@
       "verse": 5
     },
     {
-      "text": "The Israelites had moved about in the wilderness forty years until all the men who were of military age when they left Egypt had died, since they had not obeyed the . For the  had sworn to them that they would not see the land he had solemnly promised their ancestors to give us, a land flowing with milk and honey.",
+      "text": "The Israelites had moved about in the wilderness forty years until all the men who were of military age when they left Egypt had died, since they had not obeyed the Lord. For the Lord had sworn to them that they would not see the land he had solemnly promised their ancestors to give us, a land flowing with milk and honey.",
       "verse": 6
     },
     {
@@ -42,7 +43,7 @@
       "verse": 8
     },
     {
-      "text": "Then the  said to Joshua, “Today I have rolled away the reproach of Egypt from you.” So the place has been called Gilgal to this day.",
+      "text": "Then the Lord said to Joshua, “Today I have rolled away the reproach of Egypt from you.” So the place has been called Gilgal to this day.",
       "verse": 9,
       "type": "newline"
     },
@@ -69,12 +70,12 @@
       "type": "newline"
     },
     {
-      "text": "“Neither,” he replied, “but as commander of the army of the  I have now come.” Then Joshua fell facedown to the ground in reverence, and asked him, “What message does my Lord have for his servant?”",
+      "text": "“Neither,” he replied, “but as commander of the army of the Lord I have now come.” Then Joshua fell facedown to the ground in reverence, and asked him, “What message does my Lord have for his servant?”",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "The commander of the ’s army replied, “Take off your sandals, for the place where you are standing is holy.” And Joshua did so.",
+      "text": "The commander of the Lord’s army replied, “Take off your sandals, for the place where you are standing is holy.” And Joshua did so.",
       "verse": 15,
       "type": "newline"
     }

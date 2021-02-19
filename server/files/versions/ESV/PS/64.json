@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 64,
+  "verses": 10,
   "content": [
     {
       "text": "Hide Me from the Wicked",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster. A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Hear my voice, O God, in my complaint;",
@@ -68,7 +68,7 @@
       "type": "poetry"
     },
     {
-      "text": "They search out injustice,",
+      "text": "    They search out injustice,",
       "verse": 6,
       "type": "poetry"
     },
@@ -118,7 +118,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let the righteous one rejoice in the",
+      "text": "Let the righteous one rejoice in the Lord",
       "verse": 10,
       "type": "poetry newline"
     },

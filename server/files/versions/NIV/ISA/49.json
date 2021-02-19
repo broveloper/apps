@@ -2,9 +2,10 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 49,
+  "verses": 26,
   "content": [
     {
-      "text": "The Servant of the",
+      "text": "The Servant of the Lord",
       "type": "heading"
     },
     {
@@ -18,7 +19,7 @@
       "type": "poetry"
     },
     {
-      "text": "Before I was born the  called me;",
+      "text": "Before I was born the Lord called me;",
       "verse": 1,
       "type": "poetry"
     },
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "Yet what is due me is in the ’s hand,",
+      "text": "Yet what is due me is in the Lord’s hand,",
       "verse": 4,
       "type": "poetry"
     },
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "And now the  says—",
+      "text": "And now the Lord says—",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -98,7 +99,7 @@
       "type": "poetry"
     },
     {
-      "text": "for I am honored in the eyes of the",
+      "text": "for I am honored in the eyes of the Lord",
       "verse": 5,
       "type": "poetry"
     },
@@ -138,7 +139,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the  says—",
+      "text": "This is what the Lord says—",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -168,7 +169,7 @@
       "type": "poetry"
     },
     {
-      "text": "because of the , who is faithful,",
+      "text": "because of the Lord, who is faithful,",
       "verse": 7,
       "type": "poetry"
     },
@@ -182,7 +183,7 @@
       "type": "heading"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 8,
       "type": "newline"
     },
@@ -297,7 +298,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the  comforts his people",
+      "text": "For the Lord comforts his people",
       "verse": 13,
       "type": "poetry"
     },
@@ -307,7 +308,7 @@
       "type": "poetry"
     },
     {
-      "text": "But Zion said, “The  has forsaken me,",
+      "text": "But Zion said, “The Lord has forsaken me,",
       "verse": 14,
       "type": "poetry newline"
     },
@@ -367,7 +368,7 @@
       "type": "poetry"
     },
     {
-      "text": "As surely as I live,” declares the ,",
+      "text": "As surely as I live,” declares the Lord,",
       "verse": 18,
       "type": "poetry"
     },
@@ -457,7 +458,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the Sovereign  says:",
+      "text": "This is what the Sovereign Lord says:",
       "verse": 22,
       "type": "newline"
     },
@@ -502,7 +503,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then you will know that I am the ;",
+      "text": "Then you will know that I am the Lord;",
       "verse": 23,
       "type": "poetry"
     },
@@ -522,7 +523,7 @@
       "type": "poetry"
     },
     {
-      "text": "But this is what the  says:",
+      "text": "But this is what the Lord says:",
       "verse": 25,
       "type": "newline"
     },
@@ -562,7 +563,7 @@
       "type": "poetry"
     },
     {
-      "text": "that I, the , am your Savior,",
+      "text": "that I, the Lord, am your Savior,",
       "verse": 26,
       "type": "poetry"
     },

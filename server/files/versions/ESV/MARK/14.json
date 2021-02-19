@@ -2,6 +2,7 @@
   "book_id": "MARK",
   "book_name": "Mark",
   "chapter": 14,
+  "verses": 72,
   "content": [
     {
       "text": "The Plot to Kill Jesus",
@@ -34,19 +35,19 @@
       "verse": 5
     },
     {
-      "text": "But Jesus said,",
+      "text": "But Jesus said, “Leave her alone. Why do you trouble her? She has done a beautiful thing to me.",
       "verse": 6
     },
     {
-      "text": "",
+      "text": "For you always have the poor with you, and whenever you want, you can do good for them. But you will not always have me.",
       "verse": 7
     },
     {
-      "text": "",
+      "text": "She has done what she could; she has anointed my body beforehand for burial.",
       "verse": 8
     },
     {
-      "text": "",
+      "text": "And truly, I say to you, wherever the gospel is proclaimed in the whole world, what she has done will be told in memory of her.”",
       "verse": 9
     },
     {
@@ -72,15 +73,15 @@
       "type": "newline"
     },
     {
-      "text": "And he sent two of his disciples and said to them,",
+      "text": "And he sent two of his disciples and said to them, “Go into the city, and a man carrying a jar of water will meet you. Follow him,",
       "verse": 13
     },
     {
-      "text": "",
+      "text": "and wherever he enters, say to the master of the house, ‘The Teacher says, Where is my guest room, where I may eat the Passover with my disciples?’",
       "verse": 14
     },
     {
-      "text": "",
+      "text": "And he will show you a large upper room furnished and ready; there prepare for us.”",
       "verse": 15
     },
     {
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "And as they were reclining at table and eating, Jesus said,",
+      "text": "And as they were reclining at table and eating, Jesus said, “Truly, I say to you, one of you will betray me, one who is eating with me.”",
       "verse": 18
     },
     {
@@ -101,11 +102,11 @@
       "verse": 19
     },
     {
-      "text": "He said to them,",
+      "text": "He said to them, “It is one of the twelve, one who is dipping bread into the dish with me.",
       "verse": 20
     },
     {
-      "text": "",
+      "text": "For the Son of Man goes as it is written of him, but woe to that man by whom the Son of Man is betrayed! It would have been better for that man if he had not been born.”",
       "verse": 21
     },
     {
@@ -113,7 +114,7 @@
       "type": "heading"
     },
     {
-      "text": "And as they were eating, he took bread, and after blessing it broke it and gave it to them, and said,",
+      "text": "And as they were eating, he took bread, and after blessing it broke it and gave it to them, and said, “Take; this is my body.”",
       "verse": 22,
       "type": "newline"
     },
@@ -122,11 +123,11 @@
       "verse": 23
     },
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “This is my blood of the covenant, which is poured out for many.",
       "verse": 24
     },
     {
-      "text": "",
+      "text": "Truly, I say to you, I will not drink again of the fruit of the vine until that day when I drink it new in the kingdom of God.”",
       "verse": 25
     },
     {
@@ -139,11 +140,11 @@
       "type": "newline"
     },
     {
-      "text": "And Jesus said to them,",
+      "text": "And Jesus said to them, “You will all fall away, for it is written, ‘I will strike the shepherd, and the sheep will be scattered.’",
       "verse": 27
     },
     {
-      "text": "",
+      "text": "But after I am raised up, I will go before you to Galilee.”",
       "verse": 28
     },
     {
@@ -151,7 +152,7 @@
       "verse": 29
     },
     {
-      "text": "And Jesus said to him,",
+      "text": "And Jesus said to him, “Truly, I tell you, this very night, before the rooster crows twice, you will deny me three times.”",
       "verse": 30
     },
     {
@@ -163,7 +164,7 @@
       "type": "heading"
     },
     {
-      "text": "And they went to a place called Gethsemane. And he said to his disciples,",
+      "text": "And they went to a place called Gethsemane. And he said to his disciples, “Sit here while I pray.”",
       "verse": 32,
       "type": "newline"
     },
@@ -172,7 +173,7 @@
       "verse": 33
     },
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “My soul is very sorrowful, even to death. Remain here and watch.”",
       "verse": 34
     },
     {
@@ -180,15 +181,15 @@
       "verse": 35
     },
     {
-      "text": "And he said,",
+      "text": "And he said, “Abba, Father, all things are possible for you. Remove this cup from me. Yet not what I will, but what you will.”",
       "verse": 36
     },
     {
-      "text": "And he came and found them sleeping, and he said to Peter,",
+      "text": "And he came and found them sleeping, and he said to Peter, “Simon, are you asleep? Could you not watch one hour?",
       "verse": 37
     },
     {
-      "text": "",
+      "text": "Watch and pray that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak.”",
       "verse": 38
     },
     {
@@ -200,11 +201,11 @@
       "verse": 40
     },
     {
-      "text": "And he came the third time and said to them,",
+      "text": "And he came the third time and said to them, “Are you still sleeping and taking your rest? It is enough; the hour has come. The Son of Man is betrayed into the hands of sinners.",
       "verse": 41
     },
     {
-      "text": "",
+      "text": "Rise, let us be going; see, my betrayer is at hand.”",
       "verse": 42
     },
     {
@@ -233,11 +234,11 @@
       "verse": 47
     },
     {
-      "text": "And Jesus said to them,",
+      "text": "And Jesus said to them, “Have you come out as against a robber, with swords and clubs to capture me?",
       "verse": 48
     },
     {
-      "text": "",
+      "text": "Day after day I was with you in the temple teaching, and you did not seize me. But let the Scriptures be fulfilled.”",
       "verse": 49
     },
     {
@@ -299,7 +300,7 @@
       "verse": 61
     },
     {
-      "text": "And Jesus said,",
+      "text": "And Jesus said, “I am, and you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven.”",
       "verse": 62
     },
     {
@@ -344,7 +345,7 @@
       "verse": 71
     },
     {
-      "text": "And immediately the rooster crowed a second time. And Peter remembered how Jesus had said to him,  And he broke down and wept.",
+      "text": "And immediately the rooster crowed a second time. And Peter remembered how Jesus had said to him, “Before the rooster crows twice, you will deny me three times.” And he broke down and wept.",
       "verse": 72
     }
   ]

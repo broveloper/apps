@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 27,
+  "verses": 14,
   "content": [
     {
-      "text": "The  is my light and my salvation; whom shall I fear? the  is the strength of my life; of whom shall I be afraid?",
+      "text": "The Lord is my light and my salvation; whom shall I fear? the Lord is the strength of my life; of whom shall I be afraid?",
       "verse": 1
     },
     {
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "One thing have I desired of the , that will I seek after; that I may dwell in the house of the  all the days of my life, to behold the beauty of the , and to enquire in his temple.",
+      "text": "One thing have I desired of the Lord, that will I seek after; that I may dwell in the house of the Lord all the days of my life, to behold the beauty of the Lord, and to enquire in his temple.",
       "verse": 4,
       "type": "newline"
     },
@@ -28,17 +29,17 @@
       "type": "newline"
     },
     {
-      "text": "And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the .",
+      "text": "And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the Lord.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "Hear, O , when I cry with my voice: have mercy also upon me, and answer me.",
+      "text": "Hear, O Lord, when I cry with my voice: have mercy also upon me, and answer me.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "When thou saidst, Seek ye my face; my heart said unto thee, Thy face, , will I seek.",
+      "text": "When thou saidst, Seek ye my face; my heart said unto thee, Thy face, Lord, will I seek.",
       "verse": 8,
       "type": "newline"
     },
@@ -48,12 +49,12 @@
       "type": "newline"
     },
     {
-      "text": "When my father and my mother forsake me, then the  will take me up.",
+      "text": "When my father and my mother forsake me, then the Lord will take me up.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "Teach me thy way, O , and lead me in a plain path, because of mine enemies.",
+      "text": "Teach me thy way, O Lord, and lead me in a plain path, because of mine enemies.",
       "verse": 11,
       "type": "newline"
     },
@@ -63,12 +64,12 @@
       "type": "newline"
     },
     {
-      "text": "I had fainted, unless I had believed to see the goodness of the  in the land of the living.",
+      "text": "I had fainted, unless I had believed to see the goodness of the Lord in the land of the living.",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "Wait on the : be of good courage, and he shall strengthen thine heart: wait, I say, on the .",
+      "text": "Wait on the Lord: be of good courage, and he shall strengthen thine heart: wait, I say, on the Lord.",
       "verse": 14,
       "type": "newline"
     }

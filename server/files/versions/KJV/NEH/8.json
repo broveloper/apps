@@ -2,9 +2,10 @@
   "book_id": "NEH",
   "book_name": "Nehemiah",
   "chapter": 8,
+  "verses": 18,
   "content": [
     {
-      "text": "And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the  had commanded to Israel.",
+      "text": "And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the Lord had commanded to Israel.",
       "verse": 1
     },
     {
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "And Ezra blessed the , the great God. And all the people answered, Amen, Amen, with lifting up their hands: and they bowed their heads, and worshipped the  with their faces to the ground.",
+      "text": "And Ezra blessed the Lord, the great God. And all the people answered, Amen, Amen, with lifting up their hands: and they bowed their heads, and worshipped the Lord with their faces to the ground.",
       "verse": 6,
       "type": "newline"
     },
@@ -43,12 +44,12 @@
       "type": "newline"
     },
     {
-      "text": "And Nehemiah, which is the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day is holy unto the  your God; mourn not, nor weep. For all the people wept, when they heard the words of the law.",
+      "text": "And Nehemiah, which is the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day is holy unto the Lord your God; mourn not, nor weep. For all the people wept, when they heard the words of the law.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our : neither be ye sorry; for the joy of the  is your strength.",
+      "text": "Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our Lord: neither be ye sorry; for the joy of the Lord is your strength.",
       "verse": 10,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "And they found written in the law which the  had commanded by Moses, that the children of Israel should dwell in booths in the feast of the seventh month:",
+      "text": "And they found written in the law which the Lord had commanded by Moses, that the children of Israel should dwell in booths in the feast of the seventh month:",
       "verse": 14,
       "type": "newline"
     },

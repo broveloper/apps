@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 22,
+  "verses": 23,
   "content": [
     {
       "text": "David at the Cave of Adullam",
@@ -51,7 +52,7 @@
       "verse": 9
     },
     {
-      "text": "and he inquired of the  for him and gave him provisions and gave him the sword of Goliath the Philistine.”",
+      "text": "and he inquired of the Lord for him and gave him provisions and gave him the sword of Goliath the Philistine.”",
       "verse": 10
     },
     {
@@ -80,7 +81,7 @@
       "verse": 16
     },
     {
-      "text": "And the king said to the guard who stood about him, “Turn and kill the priests of the , because their hand also is with David, and they knew that he fled and did not disclose it to me.” But the servants of the king would not put out their hand to strike the priests of the .",
+      "text": "And the king said to the guard who stood about him, “Turn and kill the priests of the Lord, because their hand also is with David, and they knew that he fled and did not disclose it to me.” But the servants of the king would not put out their hand to strike the priests of the Lord.",
       "verse": 17
     },
     {
@@ -97,7 +98,7 @@
       "type": "newline"
     },
     {
-      "text": "And Abiathar told David that Saul had killed the priests of the .",
+      "text": "And Abiathar told David that Saul had killed the priests of the Lord.",
       "verse": 21
     },
     {

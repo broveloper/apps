@@ -2,6 +2,7 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 48,
+  "verses": 35,
   "content": [
     {
       "text": "Now these are the names of the tribes. From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazarenan, the border of Damascus northward, to the coast of Hamath; for these are his sides east and west; a portion for Dan.",
@@ -43,12 +44,12 @@
       "type": "newline"
     },
     {
-      "text": "The oblation that ye shall offer unto the  shall be of five and twenty thousand in length, and of ten thousand in breadth.",
+      "text": "The oblation that ye shall offer unto the Lord shall be of five and twenty thousand in length, and of ten thousand in breadth.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "And for them, even for the priests, shall be this holy oblation; toward the north five and twenty thousand in length, and toward the west ten thousand in breadth, and toward the east ten thousand in breadth, and toward the south five and twenty thousand in length: and the sanctuary of the  shall be in the midst thereof.",
+      "text": "And for them, even for the priests, shall be this holy oblation; toward the north five and twenty thousand in length, and toward the west ten thousand in breadth, and toward the east ten thousand in breadth, and toward the south five and twenty thousand in length: and the sanctuary of the Lord shall be in the midst thereof.",
       "verse": 10,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "And they shall not sell of it, neither exchange, nor alienate the firstfruits of the land: for it is holy unto the .",
+      "text": "And they shall not sell of it, neither exchange, nor alienate the firstfruits of the land: for it is holy unto the Lord.",
       "verse": 14,
       "type": "newline"
     },
@@ -143,7 +144,7 @@
       "type": "newline"
     },
     {
-      "text": "This is the land which ye shall divide by lot unto the tribes of Israel for inheritance, and these are their portions, saith the Lord .",
+      "text": "This is the land which ye shall divide by lot unto the tribes of Israel for inheritance, and these are their portions, saith the Lord God.",
       "verse": 29,
       "type": "newline"
     },
@@ -173,7 +174,7 @@
       "type": "newline"
     },
     {
-      "text": "It was round about eighteen thousand measures: and the name of the city from that day shall be, The  is there.",
+      "text": "It was round about eighteen thousand measures: and the name of the city from that day shall be, The Lord is there.",
       "verse": 35,
       "type": "newline"
     }

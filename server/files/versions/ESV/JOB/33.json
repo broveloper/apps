@@ -2,6 +2,7 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 33,
+  "verses": 33,
   "content": [
     {
       "text": "Elihu Rebukes Job",
@@ -288,7 +289,7 @@
       "type": "poetry"
     },
     {
-      "text": "He sings before men and says:",
+      "text": "    He sings before men and says:",
       "verse": 27,
       "type": "poetry"
     },

@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 128,
+  "verses": 6,
   "content": [
     {
-      "text": "Blessed Is Everyone Who Fears the",
+      "text": "Blessed Is Everyone Who Fears the Lord",
       "type": "heading"
     },
     {
       "text": "A Song of Ascents.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Blessed is everyone who fears the ,",
+      "text": "Blessed is everyone who fears the Lord,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -58,12 +58,12 @@
       "type": "poetry"
     },
     {
-      "text": "who fears the .",
+      "text": "who fears the Lord.",
       "verse": 4,
       "type": "poetry"
     },
     {
-      "text": "The  bless you from Zion!",
+      "text": "The Lord bless you from Zion!",
       "verse": 5,
       "type": "poetry newline"
     },

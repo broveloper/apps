@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 4,
+  "verses": 49,
   "content": [
     {
       "text": "The Kohathites",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses and Aaron:",
+      "text": "The Lord said to Moses and Aaron:",
       "verse": 1,
       "type": "newline"
     },
@@ -81,7 +82,7 @@
       "type": "newline"
     },
     {
-      "text": "The  said to Moses and Aaron,",
+      "text": "The Lord said to Moses and Aaron,",
       "verse": 17,
       "type": "newline"
     },
@@ -102,7 +103,7 @@
       "type": "heading"
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 21,
       "type": "newline"
     },
@@ -178,7 +179,7 @@
       "verse": 36
     },
     {
-      "text": "This was the total of all those in the Kohathite clans who served at the tent of meeting. Moses and Aaron counted them according to the ’s command through Moses.",
+      "text": "This was the total of all those in the Kohathite clans who served at the tent of meeting. Moses and Aaron counted them according to the Lord’s command through Moses.",
       "verse": 37
     },
     {
@@ -195,7 +196,7 @@
       "verse": 40
     },
     {
-      "text": "This was the total of those in the Gershonite clans who served at the tent of meeting. Moses and Aaron counted them according to the ’s command.",
+      "text": "This was the total of those in the Gershonite clans who served at the tent of meeting. Moses and Aaron counted them according to the Lord’s command.",
       "verse": 41
     },
     {
@@ -212,7 +213,7 @@
       "verse": 44
     },
     {
-      "text": "This was the total of those in the Merarite clans. Moses and Aaron counted them according to the ’s command through Moses.",
+      "text": "This was the total of those in the Merarite clans. Moses and Aaron counted them according to the Lord’s command through Moses.",
       "verse": 45
     },
     {
@@ -229,11 +230,11 @@
       "verse": 48
     },
     {
-      "text": "At the ’s command through Moses, each was assigned his work and told what to carry.",
+      "text": "At the Lord’s command through Moses, each was assigned his work and told what to carry.",
       "verse": 49
     },
     {
-      "text": "Thus they were counted, as the  commanded Moses.",
+      "text": "Thus they were counted, as the Lord commanded Moses.",
       "verse": 49,
       "type": "newline"
     }

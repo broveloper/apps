@@ -2,13 +2,14 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 3,
+  "verses": 24,
   "content": [
     {
       "text": "The Fall",
       "type": "heading"
     },
     {
-      "text": "Now the serpent was more crafty than any of the wild animals the  God had made. He said to the woman, “Did God really say, ‘You must not eat from any tree in the garden’?”",
+      "text": "Now the serpent was more crafty than any of the wild animals the Lord God had made. He said to the woman, “Did God really say, ‘You must not eat from any tree in the garden’?”",
       "verse": 1,
       "type": "newline"
     },
@@ -40,12 +41,12 @@
       "verse": 7
     },
     {
-      "text": "Then the man and his wife heard the sound of the  God as he was walking in the garden in the cool of the day, and they hid from the  God among the trees of the garden.",
+      "text": "Then the man and his wife heard the sound of the Lord God as he was walking in the garden in the cool of the day, and they hid from the Lord God among the trees of the garden.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "But the  God called to the man, “Where are you?”",
+      "text": "But the Lord God called to the man, “Where are you?”",
       "verse": 9
     },
     {
@@ -64,7 +65,7 @@
       "type": "newline"
     },
     {
-      "text": "Then the  God said to the woman, “What is this you have done?”",
+      "text": "Then the Lord God said to the woman, “What is this you have done?”",
       "verse": 13,
       "type": "newline"
     },
@@ -74,7 +75,7 @@
       "type": "newline"
     },
     {
-      "text": "So the  God said to the serpent, “Because you have done this,",
+      "text": "So the Lord God said to the serpent, “Because you have done this,",
       "verse": 14,
       "type": "newline"
     },
@@ -219,16 +220,16 @@
       "type": "newline"
     },
     {
-      "text": "The  God made garments of skin for Adam and his wife and clothed them.",
+      "text": "The Lord God made garments of skin for Adam and his wife and clothed them.",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "And the  God said, “The man has now become like one of us, knowing good and evil. He must not be allowed to reach out his hand and take also from the tree of life and eat, and live forever.”",
+      "text": "And the Lord God said, “The man has now become like one of us, knowing good and evil. He must not be allowed to reach out his hand and take also from the tree of life and eat, and live forever.”",
       "verse": 22
     },
     {
-      "text": "So the  God banished him from the Garden of Eden to work the ground from which he had been taken.",
+      "text": "So the Lord God banished him from the Garden of Eden to work the ground from which he had been taken.",
       "verse": 23
     },
     {

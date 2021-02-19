@@ -2,9 +2,10 @@
   "book_id": "AMOS",
   "book_name": "Amos",
   "chapter": 2,
+  "verses": 16,
   "content": [
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 1
     },
     {
@@ -58,12 +59,12 @@
       "type": "poetry"
     },
     {
-      "text": "says the .",
+      "text": "says the Lord.",
       "verse": 3,
       "type": "poetry"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 4,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "Because they have rejected the law of the",
+      "text": "Because they have rejected the law of the Lord",
       "verse": 4,
       "type": "poetry"
     },
@@ -112,7 +113,7 @@
       "type": "heading"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 6,
       "type": "newline"
     },
@@ -237,7 +238,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 11,
       "type": "poetry"
     },
@@ -302,7 +303,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 16,
       "type": "poetry"
     }

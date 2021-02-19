@@ -2,13 +2,14 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 26,
+  "verses": 35,
   "content": [
     {
       "text": "And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar.",
       "verse": 1
     },
     {
-      "text": "And the  appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of:",
+      "text": "And the Lord appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of:",
       "verse": 2,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "Then Isaac sowed in that land, and received in the same year an hundredfold: and the  blessed him.",
+      "text": "Then Isaac sowed in that land, and received in the same year an hundredfold: and the Lord blessed him.",
       "verse": 12,
       "type": "newline"
     },
@@ -108,7 +109,7 @@
       "type": "newline"
     },
     {
-      "text": "And he removed from thence, and digged another well; and for that they strove not: and he called the name of it Rehoboth; and he said, For now the  hath made room for us, and we shall be fruitful in the land.",
+      "text": "And he removed from thence, and digged another well; and for that they strove not: and he called the name of it Rehoboth; and he said, For now the Lord hath made room for us, and we shall be fruitful in the land.",
       "verse": 22,
       "type": "newline"
     },
@@ -118,12 +119,12 @@
       "type": "newline"
     },
     {
-      "text": "And the  appeared unto him the same night, and said, I am the God of Abraham thy father: fear not, for I am with thee, and will bless thee, and multiply thy seed for my servant Abraham's sake.",
+      "text": "And the Lord appeared unto him the same night, and said, I am the God of Abraham thy father: fear not, for I am with thee, and will bless thee, and multiply thy seed for my servant Abraham's sake.",
       "verse": 24,
       "type": "newline"
     },
     {
-      "text": "And he builded an altar there, and called upon the name of the , and pitched his tent there: and there Isaac's servants digged a well.",
+      "text": "And he builded an altar there, and called upon the name of the Lord, and pitched his tent there: and there Isaac's servants digged a well.",
       "verse": 25,
       "type": "newline"
     },
@@ -138,12 +139,12 @@
       "type": "newline"
     },
     {
-      "text": "And they said, We saw certainly that the  was with thee: and we said, Let there be now an oath betwixt us, even betwixt us and thee, and let us make a covenant with thee;",
+      "text": "And they said, We saw certainly that the Lord was with thee: and we said, Let there be now an oath betwixt us, even betwixt us and thee, and let us make a covenant with thee;",
       "verse": 28,
       "type": "newline"
     },
     {
-      "text": "That thou wilt do us no hurt, as we have not touched thee, and as we have done unto thee nothing but good, and have sent thee away in peace: thou art now the blessed of the .",
+      "text": "That thou wilt do us no hurt, as we have not touched thee, and as we have done unto thee nothing but good, and have sent thee away in peace: thou art now the blessed of the Lord.",
       "verse": 29,
       "type": "newline"
     },

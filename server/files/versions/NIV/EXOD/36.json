@@ -2,13 +2,14 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 36,
+  "verses": 38,
   "content": [
     {
-      "text": "So Bezalel, Oholiab and every skilled person to whom the  has given skill and ability to know how to carry out all the work of constructing the sanctuary are to do the work just as the  has commanded.”",
+      "text": "So Bezalel, Oholiab and every skilled person to whom the Lord has given skill and ability to know how to carry out all the work of constructing the sanctuary are to do the work just as the Lord has commanded.”",
       "verse": 1
     },
     {
-      "text": "Then Moses summoned Bezalel and Oholiab and every skilled person to whom the  had given ability and who was willing to come and do the work.",
+      "text": "Then Moses summoned Bezalel and Oholiab and every skilled person to whom the Lord had given ability and who was willing to come and do the work.",
       "verse": 2,
       "type": "newline"
     },
@@ -21,7 +22,7 @@
       "verse": 4
     },
     {
-      "text": "and said to Moses, “The people are bringing more than enough for doing the work the  commanded to be done.”",
+      "text": "and said to Moses, “The people are bringing more than enough for doing the work the Lord commanded to be done.”",
       "verse": 5
     },
     {

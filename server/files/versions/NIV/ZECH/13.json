@@ -2,6 +2,7 @@
   "book_id": "ZECH",
   "book_name": "Zechariah",
   "chapter": 13,
+  "verses": 9,
   "content": [
     {
       "text": "Cleansing From Sin",
@@ -13,12 +14,12 @@
       "type": "newline"
     },
     {
-      "text": "“On that day, I will banish the names of the idols from the land, and they will be remembered no more,” declares the  Almighty. “I will remove both the prophets and the spirit of impurity from the land.",
+      "text": "“On that day, I will banish the names of the idols from the land, and they will be remembered no more,” declares the Lord Almighty. “I will remove both the prophets and the spirit of impurity from the land.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "And if anyone still prophesies, their father and mother, to whom they were born, will say to them, ‘You must die, because you have told lies in the ’s name.’ Then their own parents will stab the one who prophesies.",
+      "text": "And if anyone still prophesies, their father and mother, to whom they were born, will say to them, ‘You must die, because you have told lies in the Lord’s name.’ Then their own parents will stab the one who prophesies.",
       "verse": 3
     },
     {
@@ -49,7 +50,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the  Almighty.",
+      "text": "declares the Lord Almighty.",
       "verse": 7,
       "type": "poetry"
     },
@@ -69,7 +70,7 @@
       "type": "poetry"
     },
     {
-      "text": "In the whole land,” declares the ,",
+      "text": "In the whole land,” declares the Lord,",
       "verse": 8,
       "type": "poetry"
     },
@@ -114,7 +115,7 @@
       "type": "poetry"
     },
     {
-      "text": "and they will say, ‘The  is our God.’”",
+      "text": "and they will say, ‘The Lord is our God.’”",
       "verse": 9,
       "type": "poetry"
     }

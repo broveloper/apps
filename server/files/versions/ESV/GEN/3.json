@@ -2,13 +2,14 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 3,
+  "verses": 24,
   "content": [
     {
       "text": "The Fall",
       "type": "heading"
     },
     {
-      "text": "Now the serpent was more crafty than any other beast of the field that the  God had made.",
+      "text": "Now the serpent was more crafty than any other beast of the field that the Lord God had made.",
       "verse": 1,
       "type": "newline"
     },
@@ -42,12 +43,12 @@
       "verse": 7
     },
     {
-      "text": "And they heard the sound of the  God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the  God among the trees of the garden.",
+      "text": "And they heard the sound of the Lord God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the Lord God among the trees of the garden.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "But the  God called to the man and said to him, “Where are you?”",
+      "text": "But the Lord God called to the man and said to him, “Where are you?”",
       "verse": 9
     },
     {
@@ -63,11 +64,11 @@
       "verse": 12
     },
     {
-      "text": "Then the  God said to the woman, “What is this that you have done?” The woman said, “The serpent deceived me, and I ate.”",
+      "text": "Then the Lord God said to the woman, “What is this that you have done?” The woman said, “The serpent deceived me, and I ate.”",
       "verse": 13
     },
     {
-      "text": "The  God said to the serpent,",
+      "text": "The Lord God said to the serpent,",
       "verse": 14,
       "type": "newline"
     },
@@ -227,16 +228,16 @@
       "type": "newline"
     },
     {
-      "text": "And the  God made for Adam and for his wife garments of skins and clothed them.",
+      "text": "And the Lord God made for Adam and for his wife garments of skins and clothed them.",
       "verse": 21
     },
     {
-      "text": "Then the  God said, “Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand and take also of the tree of life and eat, and live forever—”",
+      "text": "Then the Lord God said, “Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand and take also of the tree of life and eat, and live forever—”",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "therefore the  God sent him out from the garden of Eden to work the ground from which he was taken.",
+      "text": "therefore the Lord God sent him out from the garden of Eden to work the ground from which he was taken.",
       "verse": 23
     },
     {

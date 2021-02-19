@@ -2,6 +2,7 @@
   "book_id": "MARK",
   "book_name": "Mark",
   "chapter": 6,
+  "verses": 56,
   "content": [
     {
       "text": "A Prophet Without Honor",
@@ -26,7 +27,7 @@
       "verse": 3
     },
     {
-      "text": "Jesus said to them,",
+      "text": "Jesus said to them, “A prophet is not without honor except in his own town, among his relatives and in his own home.”",
       "verse": 4,
       "type": "newline"
     },
@@ -52,20 +53,20 @@
       "verse": 7
     },
     {
-      "text": "These were his instructions:",
+      "text": "These were his instructions: “Take nothing for the journey except a staff—no bread, no bag, no money in your belts.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Wear sandals but not an extra shirt.",
       "verse": 9
     },
     {
-      "text": "",
+      "text": "Whenever you enter a house, stay there until you leave that town.",
       "verse": 10
     },
     {
-      "text": "",
+      "text": "And if any place will not welcome you or listen to you, leave that place and shake the dust off your feet as a testimony against them.”",
       "verse": 11
     },
     {
@@ -178,7 +179,7 @@
       "type": "newline"
     },
     {
-      "text": "Then, because so many people were coming and going that they did not even have a chance to eat, he said to them,",
+      "text": "Then, because so many people were coming and going that they did not even have a chance to eat, he said to them, “Come with me by yourselves to a quiet place and get some rest.”",
       "verse": 31
     },
     {
@@ -204,7 +205,7 @@
       "verse": 36
     },
     {
-      "text": "But he answered,",
+      "text": "But he answered, “You give them something to eat.”",
       "verse": 37,
       "type": "newline"
     },
@@ -214,7 +215,7 @@
       "type": "newline"
     },
     {
-      "text": "he asked.",
+      "text": "“How many loaves do you have?” he asked. “Go and see.”",
       "verse": 38,
       "type": "newline"
     },
@@ -279,7 +280,7 @@
       "verse": 50
     },
     {
-      "text": "Immediately he spoke to them and said,",
+      "text": "Immediately he spoke to them and said, “Take courage! It is I. Don’t be afraid.”",
       "verse": 50,
       "type": "newline"
     },

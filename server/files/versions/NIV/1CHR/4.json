@@ -2,10 +2,11 @@
   "book_id": "1CHR",
   "book_name": "1 Chronicles",
   "chapter": 4,
+  "verses": 43,
   "content": [
     {
       "text": "Other Clans of Judah",
-      "verse": 1
+      "type": "title"
     },
     {
       "text": "The descendants of Judah:",

@@ -2,18 +2,19 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 23,
+  "verses": 40,
   "content": [
     {
       "text": "The Righteous Branch",
       "type": "heading"
     },
     {
-      "text": "“Woe to the shepherds who are destroying and scattering the sheep of my pasture!” declares the .",
+      "text": "“Woe to the shepherds who are destroying and scattering the sheep of my pasture!” declares the Lord.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "Therefore this is what the , the God of Israel, says to the shepherds who tend my people: “Because you have scattered my flock and driven them away and have not bestowed care on them, I will bestow punishment on you for the evil you have done,” declares the .",
+      "text": "Therefore this is what the Lord, the God of Israel, says to the shepherds who tend my people: “Because you have scattered my flock and driven them away and have not bestowed care on them, I will bestow punishment on you for the evil you have done,” declares the Lord.",
       "verse": 2
     },
     {
@@ -21,11 +22,11 @@
       "verse": 3
     },
     {
-      "text": "I will place shepherds over them who will tend them, and they will no longer be afraid or terrified, nor will any be missing,” declares the .",
+      "text": "I will place shepherds over them who will tend them, and they will no longer be afraid or terrified, nor will any be missing,” declares the Lord.",
       "verse": 4
     },
     {
-      "text": "“The days are coming,” declares the ,",
+      "text": "“The days are coming,” declares the Lord,",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -60,17 +61,17 @@
       "type": "poetry"
     },
     {
-      "text": "The  Our Righteous Savior.",
+      "text": "The Lord Our Righteous Savior.",
       "verse": 6,
       "type": "poetry"
     },
     {
-      "text": "“So then, the days are coming,” declares the , “when people will no longer say, ‘As surely as the  lives, who brought the Israelites up out of Egypt,’",
+      "text": "“So then, the days are coming,” declares the Lord, “when people will no longer say, ‘As surely as the Lord lives, who brought the Israelites up out of Egypt,’",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "but they will say, ‘As surely as the  lives, who brought the descendants of Israel up out of the land of the north and out of all the countries where he had banished them.’ Then they will live in their own land.”",
+      "text": "but they will say, ‘As surely as the Lord lives, who brought the descendants of Israel up out of the land of the north and out of all the countries where he had banished them.’ Then they will live in their own land.”",
       "verse": 8
     },
     {
@@ -103,7 +104,7 @@
       "type": "poetry"
     },
     {
-      "text": "because of the",
+      "text": "because of the Lord",
       "verse": 9,
       "type": "poetry"
     },
@@ -148,7 +149,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 11,
       "type": "poetry"
     },
@@ -178,7 +179,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 12,
       "type": "poetry"
     },
@@ -238,7 +239,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore this is what the  Almighty says concerning the prophets:",
+      "text": "Therefore this is what the Lord Almighty says concerning the prophets:",
       "verse": 15,
       "type": "newline"
     },
@@ -263,7 +264,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the  Almighty says:",
+      "text": "This is what the Lord Almighty says:",
       "verse": 16,
       "type": "newline"
     },
@@ -283,7 +284,7 @@
       "type": "poetry"
     },
     {
-      "text": "not from the mouth of the .",
+      "text": "not from the mouth of the Lord.",
       "verse": 16,
       "type": "poetry"
     },
@@ -293,7 +294,7 @@
       "type": "poetry"
     },
     {
-      "text": "‘The  says: You will have peace.’",
+      "text": "‘The Lord says: You will have peace.’",
       "verse": 17,
       "type": "poetry"
     },
@@ -308,7 +309,7 @@
       "type": "poetry"
     },
     {
-      "text": "But which of them has stood in the council of the",
+      "text": "But which of them has stood in the council of the Lord",
       "verse": 18,
       "type": "poetry"
     },
@@ -323,7 +324,7 @@
       "type": "poetry"
     },
     {
-      "text": "See, the storm of the",
+      "text": "See, the storm of the Lord",
       "verse": 19,
       "type": "poetry"
     },
@@ -343,7 +344,7 @@
       "type": "poetry"
     },
     {
-      "text": "The anger of the  will not turn back",
+      "text": "The anger of the Lord will not turn back",
       "verse": 20,
       "type": "poetry"
     },
@@ -413,7 +414,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 23,
       "type": "poetry"
     },
@@ -433,7 +434,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 24,
       "type": "poetry"
     },
@@ -443,7 +444,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 24,
       "type": "poetry"
     },
@@ -461,24 +462,24 @@
       "verse": 27
     },
     {
-      "text": "Let the prophet who has a dream recount the dream, but let the one who has my word speak it faithfully. For what has straw to do with grain?” declares the .",
+      "text": "Let the prophet who has a dream recount the dream, but let the one who has my word speak it faithfully. For what has straw to do with grain?” declares the Lord.",
       "verse": 28
     },
     {
-      "text": "“Is not my word like fire,” declares the , “and like a hammer that breaks a rock in pieces?",
+      "text": "“Is not my word like fire,” declares the Lord, “and like a hammer that breaks a rock in pieces?",
       "verse": 29
     },
     {
-      "text": "“Therefore,” declares the , “I am against the prophets who steal from one another words supposedly from me.",
+      "text": "“Therefore,” declares the Lord, “I am against the prophets who steal from one another words supposedly from me.",
       "verse": 30,
       "type": "newline"
     },
     {
-      "text": "Yes,” declares the , “I am against the prophets who wag their own tongues and yet declare, ‘The  declares.’",
+      "text": "Yes,” declares the Lord, “I am against the prophets who wag their own tongues and yet declare, ‘The Lord declares.’",
       "verse": 31
     },
     {
-      "text": "Indeed, I am against those who prophesy false dreams,” declares the . “They tell them and lead my people astray with their reckless lies, yet I did not send or appoint them. They do not benefit these people in the least,” declares the .",
+      "text": "Indeed, I am against those who prophesy false dreams,” declares the Lord. “They tell them and lead my people astray with their reckless lies, yet I did not send or appoint them. They do not benefit these people in the least,” declares the Lord.",
       "verse": 32
     },
     {
@@ -486,28 +487,28 @@
       "type": "heading"
     },
     {
-      "text": "“When these people, or a prophet or a priest, ask you, ‘What is the message from the ?’ say to them, ‘What message? I will forsake you, declares the .’",
+      "text": "“When these people, or a prophet or a priest, ask you, ‘What is the message from the Lord?’ say to them, ‘What message? I will forsake you, declares the Lord.’",
       "verse": 33,
       "type": "newline"
     },
     {
-      "text": "If a prophet or a priest or anyone else claims, ‘This is a message from the ,’ I will punish them and their household.",
+      "text": "If a prophet or a priest or anyone else claims, ‘This is a message from the Lord,’ I will punish them and their household.",
       "verse": 34
     },
     {
-      "text": "This is what each of you keeps saying to your friends and other Israelites: ‘What is the ’s answer?’ or ‘What has the  spoken?’",
+      "text": "This is what each of you keeps saying to your friends and other Israelites: ‘What is the Lord’s answer?’ or ‘What has the Lord spoken?’",
       "verse": 35
     },
     {
-      "text": "But you must not mention ‘a message from the ’ again, because each one’s word becomes their own message. So you distort the words of the living God, the  Almighty, our God.",
+      "text": "But you must not mention ‘a message from the Lord’ again, because each one’s word becomes their own message. So you distort the words of the living God, the Lord Almighty, our God.",
       "verse": 36
     },
     {
-      "text": "This is what you keep saying to a prophet: ‘What is the ’s answer to you?’ or ‘What has the  spoken?’",
+      "text": "This is what you keep saying to a prophet: ‘What is the Lord’s answer to you?’ or ‘What has the Lord spoken?’",
       "verse": 37
     },
     {
-      "text": "Although you claim, ‘This is a message from the ,’ this is what the  says: You used the words, ‘This is a message from the ,’ even though I told you that you must not claim, ‘This is a message from the .’",
+      "text": "Although you claim, ‘This is a message from the Lord,’ this is what the Lord says: You used the words, ‘This is a message from the Lord,’ even though I told you that you must not claim, ‘This is a message from the Lord.’",
       "verse": 38
     },
     {

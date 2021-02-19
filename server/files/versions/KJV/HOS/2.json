@@ -2,6 +2,7 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 2,
+  "verses": 23,
   "content": [
     {
       "text": "Say ye unto your brethren, Ammi; and to your sisters, Ruhamah.",
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "And I will visit upon her the days of Baalim, wherein she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, saith the .",
+      "text": "And I will visit upon her the days of Baalim, wherein she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, saith the Lord.",
       "verse": 13,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "And it shall be at that day, saith the , that thou shalt call me Ishi; and shalt call me no more Baali.",
+      "text": "And it shall be at that day, saith the Lord, that thou shalt call me Ishi; and shalt call me no more Baali.",
       "verse": 16,
       "type": "newline"
     },
@@ -98,12 +99,12 @@
       "type": "newline"
     },
     {
-      "text": "I will even betroth thee unto me in faithfulness: and thou shalt know the .",
+      "text": "I will even betroth thee unto me in faithfulness: and thou shalt know the Lord.",
       "verse": 20,
       "type": "newline"
     },
     {
-      "text": "And it shall come to pass in that day, I will hear, saith the , I will hear the heavens, and they shall hear the earth;",
+      "text": "And it shall come to pass in that day, I will hear, saith the Lord, I will hear the heavens, and they shall hear the earth;",
       "verse": 21,
       "type": "newline"
     },

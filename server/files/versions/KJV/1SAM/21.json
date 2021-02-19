@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 21,
+  "verses": 15,
   "content": [
     {
       "text": "Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why art thou alone, and no man with thee?",
@@ -28,12 +29,12 @@
       "type": "newline"
     },
     {
-      "text": "So the priest gave him hallowed bread: for there was no bread there but the shewbread, that was taken from before the , to put hot bread in the day when it was taken away.",
+      "text": "So the priest gave him hallowed bread: for there was no bread there but the shewbread, that was taken from before the Lord, to put hot bread in the day when it was taken away.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "Now a certain man of the servants of Saul was there that day, detained before the ; and his name was Doeg, an Edomite, the chiefest of the herdmen that belonged to Saul.",
+      "text": "Now a certain man of the servants of Saul was there that day, detained before the Lord; and his name was Doeg, an Edomite, the chiefest of the herdmen that belonged to Saul.",
       "verse": 7,
       "type": "newline"
     },

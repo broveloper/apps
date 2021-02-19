@@ -2,6 +2,7 @@
   "book_id": "SONG",
   "book_name": "Song of Solomon",
   "chapter": 2,
+  "verses": 17,
   "content": [
     {
       "text": "I am a rose of Sharon,",
@@ -15,8 +16,7 @@
     },
     {
       "text": "He",
-      "verse": 2,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "As a lily among brambles,",
@@ -30,8 +30,7 @@
     },
     {
       "text": "She",
-      "verse": 3,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "As an apple tree among the trees of the forest,",

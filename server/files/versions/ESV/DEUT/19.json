@@ -2,22 +2,23 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 19,
+  "verses": 21,
   "content": [
     {
       "text": "Laws Concerning Cities of Refuge",
       "type": "heading"
     },
     {
-      "text": "“When the  your God cuts off the nations whose land the  your God is giving you, and you dispossess them and dwell in their cities and in their houses,",
+      "text": "“When the Lord your God cuts off the nations whose land the Lord your God is giving you, and you dispossess them and dwell in their cities and in their houses,",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "you shall set apart three cities for yourselves in the land that the  your God is giving you to possess.",
+      "text": "you shall set apart three cities for yourselves in the land that the Lord your God is giving you to possess.",
       "verse": 2
     },
     {
-      "text": "You shall measure the distances and divide into three parts the area of the land that the  your God gives you as a possession, so that any manslayer can flee to them.",
+      "text": "You shall measure the distances and divide into three parts the area of the land that the Lord your God gives you as a possession, so that any manslayer can flee to them.",
       "verse": 3
     },
     {
@@ -38,15 +39,15 @@
       "verse": 7
     },
     {
-      "text": "And if the  your God enlarges your territory, as he has sworn to your fathers, and gives you all the land that he promised to give to your fathers—",
+      "text": "And if the Lord your God enlarges your territory, as he has sworn to your fathers, and gives you all the land that he promised to give to your fathers—",
       "verse": 8
     },
     {
-      "text": "provided you are careful to keep all this commandment, which I command you today, by loving the  your God and by walking ever in his ways—then you shall add three other cities to these three,",
+      "text": "provided you are careful to keep all this commandment, which I command you today, by loving the Lord your God and by walking ever in his ways—then you shall add three other cities to these three,",
       "verse": 9
     },
     {
-      "text": "lest innocent blood be shed in your land that the  your God is giving you for an inheritance, and so the guilt of bloodshed be upon you.",
+      "text": "lest innocent blood be shed in your land that the Lord your God is giving you for an inheritance, and so the guilt of bloodshed be upon you.",
       "verse": 10
     },
     {
@@ -67,7 +68,7 @@
       "type": "heading"
     },
     {
-      "text": "“You shall not move your neighbor's landmark, which the men of old have set, in the inheritance that you will hold in the land that the  your God is giving you to possess.",
+      "text": "“You shall not move your neighbor's landmark, which the men of old have set, in the inheritance that you will hold in the land that the Lord your God is giving you to possess.",
       "verse": 14,
       "type": "newline"
     },
@@ -85,7 +86,7 @@
       "verse": 16
     },
     {
-      "text": "then both parties to the dispute shall appear before the , before the priests and the judges who are in office in those days.",
+      "text": "then both parties to the dispute shall appear before the Lord, before the priests and the judges who are in office in those days.",
       "verse": 17
     },
     {

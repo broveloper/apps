@@ -2,27 +2,28 @@
   "book_id": "NAH",
   "book_name": "Nahum",
   "chapter": 1,
+  "verses": 15,
   "content": [
     {
       "text": "A prophecy concerning Nineveh. The book of the vision of Nahum the Elkoshite.",
       "verse": 1
     },
     {
-      "text": "The ’s Anger Against Nineveh",
+      "text": "The Lord’s Anger Against Nineveh",
       "type": "heading"
     },
     {
-      "text": "The  is a jealous and avenging God;",
+      "text": "The Lord is a jealous and avenging God;",
       "verse": 2,
       "type": "poetry newline"
     },
     {
-      "text": "the  takes vengeance and is filled with wrath.",
+      "text": "the Lord takes vengeance and is filled with wrath.",
       "verse": 2,
       "type": "poetry"
     },
     {
-      "text": "The  takes vengeance on his foes",
+      "text": "The Lord takes vengeance on his foes",
       "verse": 2,
       "type": "poetry"
     },
@@ -32,12 +33,12 @@
       "type": "poetry"
     },
     {
-      "text": "The  is slow to anger but great in power;",
+      "text": "The Lord is slow to anger but great in power;",
       "verse": 3,
       "type": "poetry"
     },
     {
-      "text": "the  will not leave the guilty unpunished.",
+      "text": "the Lord will not leave the guilty unpunished.",
       "verse": 3,
       "type": "poetry"
     },
@@ -112,7 +113,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is good,",
+      "text": "The Lord is good,",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -127,7 +128,7 @@
       "type": "poetry"
     },
     {
-      "text": "but with an overwhelming flood",
+      "text": "    but with an overwhelming flood",
       "verse": 8,
       "type": "poetry"
     },
@@ -142,7 +143,7 @@
       "type": "poetry"
     },
     {
-      "text": "Whatever they plot against the",
+      "text": "Whatever they plot against the Lord",
       "verse": 9,
       "type": "poetry newline"
     },
@@ -177,7 +178,7 @@
       "type": "poetry"
     },
     {
-      "text": "who plots evil against the",
+      "text": "who plots evil against the Lord",
       "verse": 11,
       "type": "poetry"
     },
@@ -187,7 +188,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 12,
       "type": "newline"
     },
@@ -222,7 +223,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has given a command concerning you, Nineveh:",
+      "text": "The Lord has given a command concerning you, Nineveh:",
       "verse": 14,
       "type": "poetry newline"
     },

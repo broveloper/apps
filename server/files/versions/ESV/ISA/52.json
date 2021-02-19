@@ -2,9 +2,10 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 52,
+  "verses": 15,
   "content": [
     {
-      "text": "The 's Coming Salvation",
+      "text": "The Lord's Coming Salvation",
       "type": "heading"
     },
     {
@@ -58,16 +59,16 @@
       "type": "poetry"
     },
     {
-      "text": "For thus says the : “You were sold for nothing, and you shall be redeemed without money.”",
+      "text": "For thus says the Lord: “You were sold for nothing, and you shall be redeemed without money.”",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "For thus says the Lord : “My people went down at the first into Egypt to sojourn there, and the Assyrian oppressed them for nothing.",
+      "text": "For thus says the Lord God: “My people went down at the first into Egypt to sojourn there, and the Assyrian oppressed them for nothing.",
       "verse": 4
     },
     {
-      "text": "Now therefore what have I here,” declares the , “seeing that my people are taken away for nothing? Their rulers wail,” declares the , “and continually all the day my name is despised.",
+      "text": "Now therefore what have I here,” declares the Lord, “seeing that my people are taken away for nothing? Their rulers wail,” declares the Lord, “and continually all the day my name is despised.",
       "verse": 5
     },
     {
@@ -115,7 +116,7 @@
       "type": "poetry"
     },
     {
-      "text": "the return of the  to Zion.",
+      "text": "the return of the Lord to Zion.",
       "verse": 8,
       "type": "poetry"
     },
@@ -130,7 +131,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  has comforted his people;",
+      "text": "for the Lord has comforted his people;",
       "verse": 9,
       "type": "poetry"
     },
@@ -140,7 +141,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has bared his holy arm",
+      "text": "The Lord has bared his holy arm",
       "verse": 10,
       "type": "poetry"
     },
@@ -175,7 +176,7 @@
       "type": "poetry"
     },
     {
-      "text": "you who bear the vessels of the .",
+      "text": "you who bear the vessels of the Lord.",
       "verse": 11,
       "type": "poetry"
     },
@@ -190,7 +191,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  will go before you,",
+      "text": "for the Lord will go before you,",
       "verse": 12,
       "type": "poetry"
     },

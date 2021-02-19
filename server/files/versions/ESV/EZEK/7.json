@@ -2,18 +2,19 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 7,
+  "verses": 27,
   "content": [
     {
-      "text": "The Day of the Wrath of the",
+      "text": "The Day of the Wrath of the Lord",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“And you, O son of man, thus says the Lord  to the land of Israel: An end! The end has come upon the four corners of the land.",
+      "text": "“And you, O son of man, thus says the Lord God to the land of Israel: An end! The end has come upon the four corners of the land.",
       "verse": 2
     },
     {
@@ -21,11 +22,11 @@
       "verse": 3
     },
     {
-      "text": "And my eye will not spare you, nor will I have pity, but I will punish you for your ways, while your abominations are in your midst. Then you will know that I am the .",
+      "text": "And my eye will not spare you, nor will I have pity, but I will punish you for your ways, while your abominations are in your midst. Then you will know that I am the Lord.",
       "verse": 4
     },
     {
-      "text": "“Thus says the Lord : Disaster after disaster! Behold, it comes.",
+      "text": "“Thus says the Lord God: Disaster after disaster! Behold, it comes.",
       "verse": 5,
       "type": "newline"
     },
@@ -42,7 +43,7 @@
       "verse": 8
     },
     {
-      "text": "And my eye will not spare, nor will I have pity. I will punish you according to your ways, while your abominations are in your midst. Then you will know that I am the , who strikes.",
+      "text": "And my eye will not spare, nor will I have pity. I will punish you according to your ways, while your abominations are in your midst. Then you will know that I am the Lord, who strikes.",
       "verse": 9
     },
     {
@@ -84,7 +85,7 @@
       "verse": 18
     },
     {
-      "text": "They cast their silver into the streets, and their gold is like an unclean thing. Their silver and gold are not able to deliver them in the day of the wrath of the . They cannot satisfy their hunger or fill their stomachs with it. For it was the stumbling block of their iniquity.",
+      "text": "They cast their silver into the streets, and their gold is like an unclean thing. Their silver and gold are not able to deliver them in the day of the wrath of the Lord. They cannot satisfy their hunger or fill their stomachs with it. For it was the stumbling block of their iniquity.",
       "verse": 19
     },
     {
@@ -117,7 +118,7 @@
       "verse": 26
     },
     {
-      "text": "The king mourns, the prince is wrapped in despair, and the hands of the people of the land are paralyzed by terror. According to their way I will do to them, and according to their judgments I will judge them, and they shall know that I am the .”",
+      "text": "The king mourns, the prince is wrapped in despair, and the hands of the people of the land are paralyzed by terror. According to their way I will do to them, and according to their judgments I will judge them, and they shall know that I am the Lord.”",
       "verse": 27
     }
   ]

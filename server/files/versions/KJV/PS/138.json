@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 138,
+  "verses": 8,
   "content": [
     {
       "text": "I will praise thee with my whole heart: before the gods will I sing praise unto thee.",
@@ -18,17 +19,17 @@
       "type": "newline"
     },
     {
-      "text": "All the kings of the earth shall praise thee, O , when they hear the words of thy mouth.",
+      "text": "All the kings of the earth shall praise thee, O Lord, when they hear the words of thy mouth.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "Yea, they shall sing in the ways of the : for great is the glory of the .",
+      "text": "Yea, they shall sing in the ways of the Lord: for great is the glory of the Lord.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "Though the  be high, yet hath he respect unto the lowly: but the proud he knoweth afar off.",
+      "text": "Though the Lord be high, yet hath he respect unto the lowly: but the proud he knoweth afar off.",
       "verse": 6,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "The  will perfect that which concerneth me: thy mercy, O , endureth for ever: forsake not the works of thine own hands.",
+      "text": "The Lord will perfect that which concerneth me: thy mercy, O Lord, endureth for ever: forsake not the works of thine own hands.",
       "verse": 8,
       "type": "newline"
     }

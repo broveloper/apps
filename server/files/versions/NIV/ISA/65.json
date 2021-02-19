@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 65,
+  "verses": 25,
   "content": [
     {
       "text": "Judgment and Salvation",
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the .",
+      "text": "says the Lord.",
       "verse": 7,
       "type": "poetry"
     },
@@ -153,7 +154,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 8,
       "type": "newline"
     },
@@ -218,7 +219,7 @@
       "type": "poetry"
     },
     {
-      "text": "“But as for you who forsake the",
+      "text": "“But as for you who forsake the Lord",
       "verse": 11,
       "type": "poetry newline"
     },
@@ -268,7 +269,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore this is what the Sovereign  says:",
+      "text": "Therefore this is what the Sovereign Lord says:",
       "verse": 13,
       "type": "newline"
     },
@@ -338,7 +339,7 @@
       "type": "poetry"
     },
     {
-      "text": "the Sovereign  will put you to death,",
+      "text": "the Sovereign Lord will put you to death,",
       "verse": 15,
       "type": "poetry"
     },
@@ -527,7 +528,7 @@
       "type": "poetry"
     },
     {
-      "text": "for they will be a people blessed by the ,",
+      "text": "for they will be a people blessed by the Lord,",
       "verse": 23,
       "type": "poetry"
     },
@@ -572,7 +573,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the .",
+      "text": "says the Lord.",
       "verse": 25,
       "type": "poetry"
     }

@@ -2,13 +2,14 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 18,
+  "verses": 30,
   "content": [
     {
-      "text": "And the  spake unto Moses, saying,",
+      "text": "And the Lord spake unto Moses, saying,",
       "verse": 1
     },
     {
-      "text": "Speak unto the children of Israel, and say unto them, I am the  your God.",
+      "text": "Speak unto the children of Israel, and say unto them, I am the Lord your God.",
       "verse": 2,
       "type": "newline"
     },
@@ -18,17 +19,17 @@
       "type": "newline"
     },
     {
-      "text": "Ye shall do my judgments, and keep mine ordinances, to walk therein: I am the  your God.",
+      "text": "Ye shall do my judgments, and keep mine ordinances, to walk therein: I am the Lord your God.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "Ye shall therefore keep my statutes, and my judgments: which if a man do, he shall live in them: I am the .",
+      "text": "Ye shall therefore keep my statutes, and my judgments: which if a man do, he shall live in them: I am the Lord.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "None of you shall approach to any that is near of kin to him, to uncover their nakedness: I am the .",
+      "text": "None of you shall approach to any that is near of kin to him, to uncover their nakedness: I am the Lord.",
       "verse": 6,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "And thou shalt not let any of thy seed pass through the fire to Molech, neither shalt thou profane the name of thy God: I am the .",
+      "text": "And thou shalt not let any of thy seed pass through the fire to Molech, neither shalt thou profane the name of thy God: I am the Lord.",
       "verse": 21,
       "type": "newline"
     },
@@ -148,7 +149,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore shall ye keep mine ordinance, that ye commit not any one of these abominable customs, which were committed before you, and that ye defile not yourselves therein: I am the  your God.",
+      "text": "Therefore shall ye keep mine ordinance, that ye commit not any one of these abominable customs, which were committed before you, and that ye defile not yourselves therein: I am the Lord your God.",
       "verse": 30,
       "type": "newline"
     }

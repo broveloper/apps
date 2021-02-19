@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 105,
+  "verses": 45,
   "content": [
     {
       "text": "Psalm 105",
       "type": "heading"
     },
     {
-      "text": "Give praise to the , proclaim his name;",
+      "text": "Give praise to the Lord, proclaim his name;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -33,12 +34,12 @@
       "type": "poetry"
     },
     {
-      "text": "let the hearts of those who seek the  rejoice.",
+      "text": "let the hearts of those who seek the Lord rejoice.",
       "verse": 3,
       "type": "poetry"
     },
     {
-      "text": "Look to the  and his strength;",
+      "text": "Look to the Lord and his strength;",
       "verse": 4,
       "type": "poetry"
     },
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "He is the  our God;",
+      "text": "He is the Lord our God;",
       "verse": 7,
       "type": "poetry"
     },
@@ -193,7 +194,7 @@
       "type": "poetry"
     },
     {
-      "text": "till the word of the  proved him true.",
+      "text": "till the word of the Lord proved him true.",
       "verse": 19,
       "type": "poetry"
     },
@@ -238,7 +239,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  made his people very fruitful;",
+      "text": "The Lord made his people very fruitful;",
       "verse": 24,
       "type": "poetry"
     },
@@ -458,7 +459,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the .",
+      "text": "Praise the Lord.",
       "verse": 45,
       "type": "poetry newline"
     }

@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 26,
+  "verses": 21,
   "content": [
     {
       "text": "You Keep Him in Perfect Peace",
@@ -53,12 +54,12 @@
       "type": "poetry"
     },
     {
-      "text": "Trust in the  forever,",
+      "text": "Trust in the Lord forever,",
       "verse": 4,
       "type": "poetry"
     },
     {
-      "text": "for the   is an everlasting rock.",
+      "text": "for the Lord God is an everlasting rock.",
       "verse": 4,
       "type": "poetry"
     },
@@ -118,7 +119,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , we wait for you;",
+      "text": "O Lord, we wait for you;",
       "verse": 8,
       "type": "poetry"
     },
@@ -168,12 +169,12 @@
       "type": "poetry"
     },
     {
-      "text": "and does not see the majesty of the .",
+      "text": "and does not see the majesty of the Lord.",
       "verse": 10,
       "type": "poetry"
     },
     {
-      "text": "O , your hand is lifted up,",
+      "text": "O Lord, your hand is lifted up,",
       "verse": 11,
       "type": "poetry"
     },
@@ -193,7 +194,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , you will ordain peace for us,",
+      "text": "O Lord, you will ordain peace for us,",
       "verse": 12,
       "type": "poetry"
     },
@@ -203,7 +204,7 @@
       "type": "poetry"
     },
     {
-      "text": "O  our God,",
+      "text": "O Lord our God,",
       "verse": 13,
       "type": "poetry"
     },
@@ -238,7 +239,7 @@
       "type": "poetry"
     },
     {
-      "text": "But you have increased the nation, O ,",
+      "text": "But you have increased the nation, O Lord,",
       "verse": 15,
       "type": "poetry"
     },
@@ -253,7 +254,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , in distress they sought you;",
+      "text": "O Lord, in distress they sought you;",
       "verse": 16,
       "type": "poetry newline"
     },
@@ -283,12 +284,12 @@
       "type": "poetry"
     },
     {
-      "text": "so were we because of you, O ;",
+      "text": "so were we because of you, O Lord;",
       "verse": 17,
       "type": "poetry"
     },
     {
-      "text": "we were pregnant, we writhed,",
+      "text": "    we were pregnant, we writhed,",
       "verse": 18,
       "type": "poetry"
     },
@@ -348,7 +349,7 @@
       "type": "poetry"
     },
     {
-      "text": "For behold, the  is coming out from his place",
+      "text": "For behold, the Lord is coming out from his place",
       "verse": 21,
       "type": "poetry"
     },

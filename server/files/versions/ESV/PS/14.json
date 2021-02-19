@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 14,
+  "verses": 7,
   "content": [
     {
       "text": "The Fool Says, There Is No God",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster. Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "The fool says in his heart, “There is no God.”",
@@ -28,7 +28,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  looks down from heaven on the children of man,",
+      "text": "The Lord looks down from heaven on the children of man,",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -68,7 +68,7 @@
       "type": "poetry"
     },
     {
-      "text": "and do not call upon the ?",
+      "text": "and do not call upon the Lord?",
       "verse": 4,
       "type": "poetry"
     },
@@ -88,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "but the  is his refuge.",
+      "text": "but the Lord is his refuge.",
       "verse": 6,
       "type": "poetry"
     },
@@ -98,7 +98,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "When the  restores the fortunes of his people,",
+      "text": "When the Lord restores the fortunes of his people,",
       "verse": 7,
       "type": "poetry"
     },

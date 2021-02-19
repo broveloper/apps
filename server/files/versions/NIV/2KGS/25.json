@@ -2,6 +2,7 @@
   "book_id": "2KGS",
   "book_name": "2 Kings",
   "chapter": 25,
+  "verses": 30,
   "content": [
     {
       "text": "So in the ninth year of Zedekiah’s reign, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his whole army. He encamped outside the city and built siege works all around it.",
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "He set fire to the temple of the , the royal palace and all the houses of Jerusalem. Every important building he burned down.",
+      "text": "He set fire to the temple of the Lord, the royal palace and all the houses of Jerusalem. Every important building he burned down.",
       "verse": 9
     },
     {
@@ -59,7 +60,7 @@
       "verse": 12
     },
     {
-      "text": "The Babylonians broke up the bronze pillars, the movable stands and the bronze Sea that were at the temple of the  and they carried the bronze to Babylon.",
+      "text": "The Babylonians broke up the bronze pillars, the movable stands and the bronze Sea that were at the temple of the Lord and they carried the bronze to Babylon.",
       "verse": 13,
       "type": "newline"
     },
@@ -72,7 +73,7 @@
       "verse": 15
     },
     {
-      "text": "The bronze from the two pillars, the Sea and the movable stands, which Solomon had made for the temple of the , was more than could be weighed.",
+      "text": "The bronze from the two pillars, the Sea and the movable stands, which Solomon had made for the temple of the Lord, was more than could be weighed.",
       "verse": 16,
       "type": "newline"
     },

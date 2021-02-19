@@ -2,6 +2,7 @@
   "book_id": "NEH",
   "book_name": "Nehemiah",
   "chapter": 3,
+  "verses": 32,
   "content": [
     {
       "text": "Then Eliashib the high priest rose up with his brethren the priests, and they builded the sheep gate; they sanctified it, and set up the doors of it; even unto the tower of Meah they sanctified it, unto the tower of Hananeel.",
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "And next unto them the Tekoites repaired; but their nobles put not their necks to the work of their .",
+      "text": "And next unto them the Tekoites repaired; but their nobles put not their necks to the work of their Lord.",
       "verse": 5,
       "type": "newline"
     },

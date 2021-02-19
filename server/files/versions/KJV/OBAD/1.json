@@ -2,9 +2,10 @@
   "book_id": "OBAD",
   "book_name": "Obadiah",
   "chapter": 1,
+  "verses": 21,
   "content": [
     {
-      "text": "The vision of Obadiah. Thus saith the Lord  concerning Edom; We have heard a rumour from the , and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.",
+      "text": "The vision of Obadiah. Thus saith the Lord God concerning Edom; We have heard a rumour from the Lord, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.",
       "verse": 1
     },
     {
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the .",
+      "text": "Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the Lord.",
       "verse": 4,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "Shall I not in that day, saith the , even destroy the wise men out of Edom, and understanding out of the mount of Esau?",
+      "text": "Shall I not in that day, saith the Lord, even destroy the wise men out of Edom, and understanding out of the mount of Esau?",
       "verse": 8,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "For the day of the  is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head.",
+      "text": "For the day of the Lord is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head.",
       "verse": 15,
       "type": "newline"
     },
@@ -88,7 +89,7 @@
       "type": "newline"
     },
     {
-      "text": "And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be any remaining of the house of Esau; for the  hath spoken it.",
+      "text": "And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be any remaining of the house of Esau; for the Lord hath spoken it.",
       "verse": 18,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be the 's.",
+      "text": "And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be the Lord's.",
       "verse": 21,
       "type": "newline"
     }

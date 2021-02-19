@@ -2,6 +2,7 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 43,
+  "verses": 27,
   "content": [
     {
       "text": "God’s Glory Returns to the Temple",
@@ -21,11 +22,11 @@
       "verse": 3
     },
     {
-      "text": "The glory of the  entered the temple through the gate facing east.",
+      "text": "The glory of the Lord entered the temple through the gate facing east.",
       "verse": 4
     },
     {
-      "text": "Then the Spirit lifted me up and brought me into the inner court, and the glory of the  filled the temple.",
+      "text": "Then the Spirit lifted me up and brought me into the inner court, and the glory of the Lord filled the temple.",
       "verse": 5
     },
     {
@@ -85,12 +86,12 @@
       "verse": 17
     },
     {
-      "text": "Then he said to me, “Son of man, this is what the Sovereign  says: These will be the regulations for sacrificing burnt offerings and splashing blood against the altar when it is built:",
+      "text": "Then he said to me, “Son of man, this is what the Sovereign Lord says: These will be the regulations for sacrificing burnt offerings and splashing blood against the altar when it is built:",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "You are to give a young bull as a sin offering to the Levitical priests of the family of Zadok, who come near to minister before me, declares the Sovereign .",
+      "text": "You are to give a young bull as a sin offering to the Levitical priests of the family of Zadok, who come near to minister before me, declares the Sovereign Lord.",
       "verse": 19
     },
     {
@@ -111,7 +112,7 @@
       "verse": 23
     },
     {
-      "text": "You are to offer them before the , and the priests are to sprinkle salt on them and sacrifice them as a burnt offering to the .",
+      "text": "You are to offer them before the Lord, and the priests are to sprinkle salt on them and sacrifice them as a burnt offering to the Lord.",
       "verse": 24
     },
     {
@@ -124,7 +125,7 @@
       "verse": 26
     },
     {
-      "text": "At the end of these days, from the eighth day on, the priests are to present your burnt offerings and fellowship offerings on the altar. Then I will accept you, declares the Sovereign .”",
+      "text": "At the end of these days, from the eighth day on, the priests are to present your burnt offerings and fellowship offerings on the altar. Then I will accept you, declares the Sovereign Lord.”",
       "verse": 27
     }
   ]

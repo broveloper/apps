@@ -2,6 +2,7 @@
   "book_id": "LAM",
   "book_name": "Lamentations",
   "chapter": 1,
+  "verses": 22,
   "content": [
     {
       "text": "How Lonely Sits the City",
@@ -138,7 +139,7 @@
       "type": "poetry"
     },
     {
-      "text": "because the  has afflicted her",
+      "text": "because the Lord has afflicted her",
       "verse": 5,
       "type": "poetry"
     },
@@ -278,7 +279,7 @@
       "type": "poetry"
     },
     {
-      "text": "“O , behold my affliction,",
+      "text": "“O Lord, behold my affliction,",
       "verse": 9,
       "type": "poetry"
     },
@@ -338,7 +339,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Look, O , and see,",
+      "text": "“Look, O Lord, and see,",
       "verse": 11,
       "type": "poetry"
     },
@@ -368,7 +369,7 @@
       "type": "poetry"
     },
     {
-      "text": "which the  inflicted",
+      "text": "which the Lord inflicted",
       "verse": 12,
       "type": "poetry"
     },
@@ -508,7 +509,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  has commanded against Jacob",
+      "text": "the Lord has commanded against Jacob",
       "verse": 17,
       "type": "poetry"
     },
@@ -528,7 +529,7 @@
       "type": "poetry"
     },
     {
-      "text": "“The  is in the right,",
+      "text": "“The Lord is in the right,",
       "verse": 18,
       "type": "poetry newline"
     },
@@ -588,7 +589,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Look, O , for I am in distress;",
+      "text": "“Look, O Lord, for I am in distress;",
       "verse": 20,
       "type": "poetry newline"
     },

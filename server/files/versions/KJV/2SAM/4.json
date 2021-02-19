@@ -2,6 +2,7 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 4,
+  "verses": 12,
   "content": [
     {
       "text": "And when Saul's son heard that Abner was dead in Hebron, his hands were feeble, and all the Israelites were troubled.",
@@ -38,12 +39,12 @@
       "type": "newline"
     },
     {
-      "text": "And they brought the head of Ishbosheth unto David to Hebron, and said to the king, Behold the head of Ishbosheth the son of Saul thine enemy, which sought thy life; and the  hath avenged my lord the king this day of Saul, and of his seed.",
+      "text": "And they brought the head of Ishbosheth unto David to Hebron, and said to the king, Behold the head of Ishbosheth the son of Saul thine enemy, which sought thy life; and the Lord hath avenged my lord the king this day of Saul, and of his seed.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "And David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite, and said unto them, As the  liveth, who hath redeemed my soul out of all adversity,",
+      "text": "And David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite, and said unto them, As the Lord liveth, who hath redeemed my soul out of all adversity,",
       "verse": 9,
       "type": "newline"
     },

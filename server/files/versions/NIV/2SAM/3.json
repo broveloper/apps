@@ -2,6 +2,7 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 3,
+  "verses": 39,
   "content": [
     {
       "text": "The war between the house of Saul and the house of David lasted a long time. David grew stronger and stronger, while the house of Saul grew weaker and weaker.",
@@ -59,7 +60,7 @@
       "type": "newline"
     },
     {
-      "text": "May God deal with Abner, be it ever so severely, if I do not do for David what the  promised him on oath",
+      "text": "May God deal with Abner, be it ever so severely, if I do not do for David what the Lord promised him on oath",
       "verse": 9
     },
     {
@@ -99,7 +100,7 @@
       "type": "newline"
     },
     {
-      "text": "Now do it! For the  promised David, ‘By my servant David I will rescue my people Israel from the hand of the Philistines and from the hand of all their enemies.’”",
+      "text": "Now do it! For the Lord promised David, ‘By my servant David I will rescue my people Israel from the hand of the Philistines and from the hand of all their enemies.’”",
       "verse": 18
     },
     {
@@ -147,7 +148,7 @@
       "verse": 27
     },
     {
-      "text": "Later, when David heard about this, he said, “I and my kingdom are forever innocent before the  concerning the blood of Abner son of Ner.",
+      "text": "Later, when David heard about this, he said, “I and my kingdom are forever innocent before the Lord concerning the blood of Abner son of Ner.",
       "verse": 28,
       "type": "newline"
     },
@@ -180,7 +181,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "Your hands were not bound,",
+      "text": "    Your hands were not bound,",
       "verse": 34,
       "type": "poetry"
     },
@@ -219,7 +220,7 @@
       "type": "newline"
     },
     {
-      "text": "And today, though I am the anointed king, I am weak, and these sons of Zeruiah are too strong for me. May the  repay the evildoer according to his evil deeds!”",
+      "text": "And today, though I am the anointed king, I am weak, and these sons of Zeruiah are too strong for me. May the Lord repay the evildoer according to his evil deeds!”",
       "verse": 39
     }
   ]

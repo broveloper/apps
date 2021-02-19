@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 11,
+  "verses": 15,
   "content": [
     {
       "text": "Saul Defeats the Ammonites",
@@ -34,7 +35,7 @@
       "verse": 6
     },
     {
-      "text": "He took a yoke of oxen and cut them in pieces and sent them throughout all the territory of Israel by the hand of the messengers, saying, “Whoever does not come out after Saul and Samuel, so shall it be done to his oxen!” Then the dread of the  fell upon the people, and they came out as one man.",
+      "text": "He took a yoke of oxen and cut them in pieces and sent them throughout all the territory of Israel by the hand of the messengers, saying, “Whoever does not come out after Saul and Samuel, so shall it be done to his oxen!” Then the dread of the Lord fell upon the people, and they came out as one man.",
       "verse": 7
     },
     {
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "But Saul said, “Not a man shall be put to death this day, for today the  has worked salvation in Israel.”",
+      "text": "But Saul said, “Not a man shall be put to death this day, for today the Lord has worked salvation in Israel.”",
       "verse": 13
     },
     {
@@ -71,7 +72,7 @@
       "verse": 14
     },
     {
-      "text": "So all the people went to Gilgal, and there they made Saul king before the  in Gilgal. There they sacrificed peace offerings before the , and there Saul and all the men of Israel rejoiced greatly.",
+      "text": "So all the people went to Gilgal, and there they made Saul king before the Lord in Gilgal. There they sacrificed peace offerings before the Lord, and there Saul and all the men of Israel rejoiced greatly.",
       "verse": 15
     }
   ]

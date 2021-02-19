@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 130,
+  "verses": 8,
   "content": [
     {
-      "text": "Out of the depths have I cried unto thee, O .",
+      "text": "Out of the depths have I cried unto thee, O Lord.",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "If thou, , shouldest mark iniquities, O Lord, who shall stand?",
+      "text": "If thou, Lord, shouldest mark iniquities, O Lord, who shall stand?",
       "verse": 3,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "I wait for the , my soul doth wait, and in his word do I hope.",
+      "text": "I wait for the Lord, my soul doth wait, and in his word do I hope.",
       "verse": 5,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "Let Israel hope in the : for with the  there is mercy, and with him is plenteous redemption.",
+      "text": "Let Israel hope in the Lord: for with the Lord there is mercy, and with him is plenteous redemption.",
       "verse": 7,
       "type": "newline"
     },

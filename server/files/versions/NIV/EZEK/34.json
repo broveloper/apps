@@ -2,18 +2,19 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 34,
+  "verses": 31,
   "content": [
     {
-      "text": "The  Will Be Israel’s Shepherd",
+      "text": "The Lord Will Be Israel’s Shepherd",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Son of man, prophesy against the shepherds of Israel; prophesy and say to them: ‘This is what the Sovereign  says: Woe to you shepherds of Israel who only take care of yourselves! Should not shepherds take care of the flock?",
+      "text": "“Son of man, prophesy against the shepherds of Israel; prophesy and say to them: ‘This is what the Sovereign Lord says: Woe to you shepherds of Israel who only take care of yourselves! Should not shepherds take care of the flock?",
       "verse": 2
     },
     {
@@ -33,24 +34,24 @@
       "verse": 6
     },
     {
-      "text": "“‘Therefore, you shepherds, hear the word of the :",
+      "text": "“‘Therefore, you shepherds, hear the word of the Lord:",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "As surely as I live, declares the Sovereign , because my flock lacks a shepherd and so has been plundered and has become food for all the wild animals, and because my shepherds did not search for my flock but cared for themselves rather than for my flock,",
+      "text": "As surely as I live, declares the Sovereign Lord, because my flock lacks a shepherd and so has been plundered and has become food for all the wild animals, and because my shepherds did not search for my flock but cared for themselves rather than for my flock,",
       "verse": 8
     },
     {
-      "text": "therefore, you shepherds, hear the word of the :",
+      "text": "therefore, you shepherds, hear the word of the Lord:",
       "verse": 9
     },
     {
-      "text": "This is what the Sovereign  says: I am against the shepherds and will hold them accountable for my flock. I will remove them from tending the flock so that the shepherds can no longer feed themselves. I will rescue my flock from their mouths, and it will no longer be food for them.",
+      "text": "This is what the Sovereign Lord says: I am against the shepherds and will hold them accountable for my flock. I will remove them from tending the flock so that the shepherds can no longer feed themselves. I will rescue my flock from their mouths, and it will no longer be food for them.",
       "verse": 10
     },
     {
-      "text": "“‘For this is what the Sovereign  says: I myself will search for my sheep and look after them.",
+      "text": "“‘For this is what the Sovereign Lord says: I myself will search for my sheep and look after them.",
       "verse": 11,
       "type": "newline"
     },
@@ -67,7 +68,7 @@
       "verse": 14
     },
     {
-      "text": "I myself will tend my sheep and have them lie down, declares the Sovereign .",
+      "text": "I myself will tend my sheep and have them lie down, declares the Sovereign Lord.",
       "verse": 15
     },
     {
@@ -75,7 +76,7 @@
       "verse": 16
     },
     {
-      "text": "“‘As for you, my flock, this is what the Sovereign  says: I will judge between one sheep and another, and between rams and goats.",
+      "text": "“‘As for you, my flock, this is what the Sovereign Lord says: I will judge between one sheep and another, and between rams and goats.",
       "verse": 17,
       "type": "newline"
     },
@@ -88,7 +89,7 @@
       "verse": 19
     },
     {
-      "text": "“‘Therefore this is what the Sovereign  says to them: See, I myself will judge between the fat sheep and the lean sheep.",
+      "text": "“‘Therefore this is what the Sovereign Lord says to them: See, I myself will judge between the fat sheep and the lean sheep.",
       "verse": 20,
       "type": "newline"
     },
@@ -105,7 +106,7 @@
       "verse": 23
     },
     {
-      "text": "I the  will be their God, and my servant David will be prince among them. I the  have spoken.",
+      "text": "I the Lord will be their God, and my servant David will be prince among them. I the Lord have spoken.",
       "verse": 24
     },
     {
@@ -118,7 +119,7 @@
       "verse": 26
     },
     {
-      "text": "The trees will yield their fruit and the ground will yield its crops; the people will be secure in their land. They will know that I am the , when I break the bars of their yoke and rescue them from the hands of those who enslaved them.",
+      "text": "The trees will yield their fruit and the ground will yield its crops; the people will be secure in their land. They will know that I am the Lord, when I break the bars of their yoke and rescue them from the hands of those who enslaved them.",
       "verse": 27
     },
     {
@@ -130,11 +131,11 @@
       "verse": 29
     },
     {
-      "text": "Then they will know that I, the  their God, am with them and that they, the Israelites, are my people, declares the Sovereign .",
+      "text": "Then they will know that I, the Lord their God, am with them and that they, the Israelites, are my people, declares the Sovereign Lord.",
       "verse": 30
     },
     {
-      "text": "You are my sheep, the sheep of my pasture, and I am your God, declares the Sovereign .’”",
+      "text": "You are my sheep, the sheep of my pasture, and I am your God, declares the Sovereign Lord.’”",
       "verse": 31
     }
   ]

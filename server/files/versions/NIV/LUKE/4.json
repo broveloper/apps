@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 4,
+  "verses": 44,
   "content": [
     {
       "text": "Jesus Is Tested in the Wilderness",
@@ -22,7 +23,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “It is written: ‘Man shall not live on bread alone.’”",
       "verse": 4,
       "type": "newline"
     },
@@ -40,7 +41,7 @@
       "verse": 7
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “It is written: ‘Worship the Lord your God and serve him only.’”",
       "verse": 8,
       "type": "newline"
     },
@@ -74,7 +75,7 @@
       "type": "poetry"
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “It is said: ‘Do not put the Lord your God to the test.’”",
       "verse": 12,
       "type": "newline"
     },
@@ -106,37 +107,37 @@
       "verse": 17
     },
     {
-      "text": "",
+      "text": "“The Spirit of the Lord is on me,",
       "verse": 18,
       "type": "poetry newline"
     },
     {
-      "text": "",
+      "text": "because he has anointed me",
       "verse": 18,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "to proclaim good news to the poor.",
       "verse": 18,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "He has sent me to proclaim freedom for the prisoners",
       "verse": 18,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "and recovery of sight for the blind,",
       "verse": 18,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "to set the oppressed free,",
       "verse": 18,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "    to proclaim the year of the Lord’s favor.”",
       "verse": 19,
       "type": "poetry"
     },
@@ -146,7 +147,7 @@
       "type": "newline"
     },
     {
-      "text": "He began by saying to them,",
+      "text": "He began by saying to them, “Today this scripture is fulfilled in your hearing.”",
       "verse": 21
     },
     {
@@ -155,25 +156,25 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said to them,",
+      "text": "Jesus said to them, “Surely you will quote this proverb to me: ‘Physician, heal yourself!’ And you will tell me, ‘Do here in your hometown what we have heard that you did in Capernaum.’”",
       "verse": 23,
       "type": "newline"
     },
     {
-      "text": "he continued,",
+      "text": "“Truly I tell you,” he continued, “no prophet is accepted in his hometown.",
       "verse": 24,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "I assure you that there were many widows in Israel in Elijah’s time, when the sky was shut for three and a half years and there was a severe famine throughout the land.",
       "verse": 25
     },
     {
-      "text": "",
+      "text": "Yet Elijah was not sent to any of them, but to a widow in Zarephath in the region of Sidon.",
       "verse": 26
     },
     {
-      "text": "",
+      "text": "And there were many in Israel with leprosy in the time of Elisha the prophet, yet not one of them was cleansed—only Naaman the Syrian.”",
       "verse": 27
     },
     {
@@ -212,7 +213,7 @@
       "verse": 34
     },
     {
-      "text": "Jesus said sternly.  Then the demon threw the man down before them all and came out without injuring him.",
+      "text": "“Be quiet!” Jesus said sternly. “Come out of him!” Then the demon threw the man down before them all and came out without injuring him.",
       "verse": 35,
       "type": "newline"
     },
@@ -253,7 +254,7 @@
       "type": "newline"
     },
     {
-      "text": "But he said,",
+      "text": "But he said, “I must proclaim the good news of the kingdom of God to the other towns also, because that is why I was sent.”",
       "verse": 43
     },
     {

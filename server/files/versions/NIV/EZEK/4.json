@@ -2,6 +2,7 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 4,
+  "verses": 17,
   "content": [
     {
       "text": "Siege of Jerusalem Symbolized",
@@ -60,11 +61,11 @@
       "verse": 12
     },
     {
-      "text": "The  said, “In this way the people of Israel will eat defiled food among the nations where I will drive them.”",
+      "text": "The Lord said, “In this way the people of Israel will eat defiled food among the nations where I will drive them.”",
       "verse": 13
     },
     {
-      "text": "Then I said, “Not so, Sovereign ! I have never defiled myself. From my youth until now I have never eaten anything found dead or torn by wild animals. No impure meat has ever entered my mouth.”",
+      "text": "Then I said, “Not so, Sovereign Lord! I have never defiled myself. From my youth until now I have never eaten anything found dead or torn by wild animals. No impure meat has ever entered my mouth.”",
       "verse": 14,
       "type": "newline"
     },

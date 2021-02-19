@@ -2,13 +2,14 @@
   "book_id": "1KGS",
   "book_name": "1 Kings",
   "chapter": 18,
+  "verses": 46,
   "content": [
     {
       "text": "Elijah Confronts Ahab",
       "type": "heading"
     },
     {
-      "text": "After many days the word of the  came to Elijah, in the third year, saying, “Go, show yourself to Ahab, and I will send rain upon the earth.”",
+      "text": "After many days the word of the Lord came to Elijah, in the third year, saying, “Go, show yourself to Ahab, and I will send rain upon the earth.”",
       "verse": 1,
       "type": "newline"
     },
@@ -17,11 +18,11 @@
       "verse": 2
     },
     {
-      "text": "And Ahab called Obadiah, who was over the household. (Now Obadiah feared the  greatly,",
+      "text": "And Ahab called Obadiah, who was over the household. (Now Obadiah feared the Lord greatly,",
       "verse": 3
     },
     {
-      "text": "and when Jezebel cut off the prophets of the , Obadiah took a hundred prophets and hid them by fifties in a cave and fed them with bread and water.)",
+      "text": "and when Jezebel cut off the prophets of the Lord, Obadiah took a hundred prophets and hid them by fifties in a cave and fed them with bread and water.)",
       "verse": 4
     },
     {
@@ -46,7 +47,7 @@
       "verse": 9
     },
     {
-      "text": "As the  your God lives, there is no nation or kingdom where my lord has not sent to seek you. And when they would say, ‘He is not here,’ he would take an oath of the kingdom or nation, that they had not found you.",
+      "text": "As the Lord your God lives, there is no nation or kingdom where my lord has not sent to seek you. And when they would say, ‘He is not here,’ he would take an oath of the kingdom or nation, that they had not found you.",
       "verse": 10
     },
     {
@@ -54,11 +55,11 @@
       "verse": 11
     },
     {
-      "text": "And as soon as I have gone from you, the Spirit of the  will carry you I know not where. And so, when I come and tell Ahab and he cannot find you, he will kill me, although I your servant have feared the  from my youth.",
+      "text": "And as soon as I have gone from you, the Spirit of the Lord will carry you I know not where. And so, when I come and tell Ahab and he cannot find you, he will kill me, although I your servant have feared the Lord from my youth.",
       "verse": 12
     },
     {
-      "text": "Has it not been told my lord what I did when Jezebel killed the prophets of the , how I hid a hundred men of the 's prophets by fifties in a cave and fed them with bread and water?",
+      "text": "Has it not been told my lord what I did when Jezebel killed the prophets of the Lord, how I hid a hundred men of the Lord's prophets by fifties in a cave and fed them with bread and water?",
       "verse": 13
     },
     {
@@ -66,7 +67,7 @@
       "verse": 14
     },
     {
-      "text": "And Elijah said, “As the  of hosts lives, before whom I stand, I will surely show myself to him today.”",
+      "text": "And Elijah said, “As the Lord of hosts lives, before whom I stand, I will surely show myself to him today.”",
       "verse": 15
     },
     {
@@ -79,7 +80,7 @@
       "type": "newline"
     },
     {
-      "text": "And he answered, “I have not troubled Israel, but you have, and your father's house, because you have abandoned the commandments of the  and followed the Baals.",
+      "text": "And he answered, “I have not troubled Israel, but you have, and your father's house, because you have abandoned the commandments of the Lord and followed the Baals.",
       "verse": 18
     },
     {
@@ -96,11 +97,11 @@
       "type": "newline"
     },
     {
-      "text": "And Elijah came near to all the people and said, “How long will you go limping between two different opinions? If the  is God, follow him; but if Baal, then follow him.” And the people did not answer him a word.",
+      "text": "And Elijah came near to all the people and said, “How long will you go limping between two different opinions? If the Lord is God, follow him; but if Baal, then follow him.” And the people did not answer him a word.",
       "verse": 21
     },
     {
-      "text": "Then Elijah said to the people, “I, even I only, am left a prophet of the , but Baal's prophets are 450 men.",
+      "text": "Then Elijah said to the people, “I, even I only, am left a prophet of the Lord, but Baal's prophets are 450 men.",
       "verse": 22
     },
     {
@@ -108,7 +109,7 @@
       "verse": 23
     },
     {
-      "text": "And you call upon the name of your god, and I will call upon the name of the , and the God who answers by fire, he is God.” And all the people answered, “It is well spoken.”",
+      "text": "And you call upon the name of your god, and I will call upon the name of the Lord, and the God who answers by fire, he is God.” And all the people answered, “It is well spoken.”",
       "verse": 24
     },
     {
@@ -132,16 +133,16 @@
       "verse": 29
     },
     {
-      "text": "Then Elijah said to all the people, “Come near to me.” And all the people came near to him. And he repaired the altar of the  that had been thrown down.",
+      "text": "Then Elijah said to all the people, “Come near to me.” And all the people came near to him. And he repaired the altar of the Lord that had been thrown down.",
       "verse": 30,
       "type": "newline"
     },
     {
-      "text": "Elijah took twelve stones, according to the number of the tribes of the sons of Jacob, to whom the word of the  came, saying, “Israel shall be your name,”",
+      "text": "Elijah took twelve stones, according to the number of the tribes of the sons of Jacob, to whom the word of the Lord came, saying, “Israel shall be your name,”",
       "verse": 31
     },
     {
-      "text": "and with the stones he built an altar in the name of the . And he made a trench about the altar, as great as would contain two seahs of seed.",
+      "text": "and with the stones he built an altar in the name of the Lord. And he made a trench about the altar, as great as would contain two seahs of seed.",
       "verse": 32
     },
     {
@@ -157,20 +158,20 @@
       "verse": 35
     },
     {
-      "text": "And at the time of the offering of the oblation, Elijah the prophet came near and said, “O , God of Abraham, Isaac, and Israel, let it be known this day that you are God in Israel, and that I am your servant, and that I have done all these things at your word.",
+      "text": "And at the time of the offering of the oblation, Elijah the prophet came near and said, “O Lord, God of Abraham, Isaac, and Israel, let it be known this day that you are God in Israel, and that I am your servant, and that I have done all these things at your word.",
       "verse": 36,
       "type": "newline"
     },
     {
-      "text": "Answer me, O , answer me, that this people may know that you, O , are God, and that you have turned their hearts back.”",
+      "text": "Answer me, O Lord, answer me, that this people may know that you, O Lord, are God, and that you have turned their hearts back.”",
       "verse": 37
     },
     {
-      "text": "Then the fire of the  fell and consumed the burnt offering and the wood and the stones and the dust, and licked up the water that was in the trench.",
+      "text": "Then the fire of the Lord fell and consumed the burnt offering and the wood and the stones and the dust, and licked up the water that was in the trench.",
       "verse": 38
     },
     {
-      "text": "And when all the people saw it, they fell on their faces and said, “The , he is God; the , he is God.”",
+      "text": "And when all the people saw it, they fell on their faces and said, “The Lord, he is God; the Lord, he is God.”",
       "verse": 39
     },
     {
@@ -178,7 +179,7 @@
       "verse": 40
     },
     {
-      "text": "The  Sends Rain",
+      "text": "The Lord Sends Rain",
       "type": "heading"
     },
     {
@@ -203,7 +204,7 @@
       "verse": 45
     },
     {
-      "text": "And the hand of the  was on Elijah, and he gathered up his garment and ran before Ahab to the entrance of Jezreel.",
+      "text": "And the hand of the Lord was on Elijah, and he gathered up his garment and ran before Ahab to the entrance of Jezreel.",
       "verse": 46
     }
   ]

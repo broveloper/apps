@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 75,
+  "verses": 10,
   "content": [
     {
       "text": "Psalm 75",
@@ -9,8 +10,7 @@
     },
     {
       "text": "For the director of music. To the tune of “Do Not Destroy.” A psalm of Asaph. A song.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "We praise you, God,",
@@ -88,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "In the hand of the  is a cup",
+      "text": "In the hand of the Lord is a cup",
       "verse": 8,
       "type": "poetry"
     },

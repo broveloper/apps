@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 81,
+  "verses": 16,
   "content": [
     {
       "text": "Oh, That My People Would Listen to Me",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster: according to The Gittith. Of Asaph.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Sing aloud to God our strength;",
@@ -88,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "I tested you at the waters of Meribah.",
+      "text": "I tested you at the waters of Meribah. Selah",
       "verse": 7,
       "type": "poetry"
     },
@@ -113,7 +113,7 @@
       "type": "poetry"
     },
     {
-      "text": "I am the  your God,",
+      "text": "I am the Lord your God,",
       "verse": 10,
       "type": "poetry"
     },
@@ -168,7 +168,7 @@
       "type": "poetry"
     },
     {
-      "text": "Those who hate the  would cringe toward him,",
+      "text": "Those who hate the Lord would cringe toward him,",
       "verse": 15,
       "type": "poetry"
     },

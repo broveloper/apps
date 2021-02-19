@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 130,
+  "verses": 8,
   "content": [
     {
       "text": "My Soul Waits for the Lord",
@@ -9,16 +10,15 @@
     },
     {
       "text": "A Song of Ascents.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Out of the depths I cry to you, O !",
+      "text": "Out of the depths I cry to you, O Lord!",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "O Lord, hear my voice!",
+      "text": "    O Lord, hear my voice!",
       "verse": 2,
       "type": "poetry"
     },
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "If you, O , should mark iniquities,",
+      "text": "If you, O Lord, should mark iniquities,",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -53,7 +53,7 @@
       "type": "poetry"
     },
     {
-      "text": "I wait for the , my soul waits,",
+      "text": "I wait for the Lord, my soul waits,",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -78,12 +78,12 @@
       "type": "poetry"
     },
     {
-      "text": "O Israel, hope in the !",
+      "text": "O Israel, hope in the Lord!",
       "verse": 7,
       "type": "poetry newline"
     },
     {
-      "text": "For with the  there is steadfast love,",
+      "text": "For with the Lord there is steadfast love,",
       "verse": 7,
       "type": "poetry"
     },

@@ -2,18 +2,19 @@
   "book_id": "NAH",
   "book_name": "Nahum",
   "chapter": 1,
+  "verses": 15,
   "content": [
     {
       "text": "The burden of Nineveh. The book of the vision of Nahum the Elkoshite.",
       "verse": 1
     },
     {
-      "text": "God is jealous, and the  revengeth; the  revengeth, and is furious; the  will take vengeance on his adversaries, and he reserveth wrath for his enemies.",
+      "text": "God is jealous, and the Lord revengeth; the Lord revengeth, and is furious; the Lord will take vengeance on his adversaries, and he reserveth wrath for his enemies.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "The  is slow to anger, and great in power, and will not at all acquit the wicked: the  hath his way in the whirlwind and in the storm, and the clouds are the dust of his feet.",
+      "text": "The Lord is slow to anger, and great in power, and will not at all acquit the wicked: the Lord hath his way in the whirlwind and in the storm, and the clouds are the dust of his feet.",
       "verse": 3,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "The  is good, a strong hold in the day of trouble; and he knoweth them that trust in him.",
+      "text": "The Lord is good, a strong hold in the day of trouble; and he knoweth them that trust in him.",
       "verse": 7,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "What do ye imagine against the ? he will make an utter end: affliction shall not rise up the second time.",
+      "text": "What do ye imagine against the Lord? he will make an utter end: affliction shall not rise up the second time.",
       "verse": 9,
       "type": "newline"
     },
@@ -53,12 +54,12 @@
       "type": "newline"
     },
     {
-      "text": "There is one come out of thee, that imagineth evil against the , a wicked counsellor.",
+      "text": "There is one come out of thee, that imagineth evil against the Lord, a wicked counsellor.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "Thus saith the ; Though they be quiet, and likewise many, yet thus shall they be cut down, when he shall pass through. Though I have afflicted thee, I will afflict thee no more.",
+      "text": "Thus saith the Lord; Though they be quiet, and likewise many, yet thus shall they be cut down, when he shall pass through. Though I have afflicted thee, I will afflict thee no more.",
       "verse": 12,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  hath given a commandment concerning thee, that no more of thy name be sown: out of the house of thy gods will I cut off the graven image and the molten image: I will make thy grave; for thou art vile.",
+      "text": "And the Lord hath given a commandment concerning thee, that no more of thy name be sown: out of the house of thy gods will I cut off the graven image and the molten image: I will make thy grave; for thou art vile.",
       "verse": 14,
       "type": "newline"
     },

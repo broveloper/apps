@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 32,
+  "verses": 20,
   "content": [
     {
       "text": "A King Will Reign in Righteousness",
@@ -83,7 +84,7 @@
       "type": "poetry"
     },
     {
-      "text": "to utter error concerning the ,",
+      "text": "to utter error concerning the Lord,",
       "verse": 6,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "AMOS",
   "book_name": "Amos",
   "chapter": 9,
+  "verses": 15,
   "content": [
     {
       "text": "The Destruction of Israel",
@@ -98,7 +99,7 @@
       "type": "poetry"
     },
     {
-      "text": "The Lord  of hosts,",
+      "text": "The Lord God of hosts,",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -143,7 +144,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  is his name.",
+      "text": "the Lord is his name.",
       "verse": 6,
       "type": "poetry"
     },
@@ -153,7 +154,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "O people of Israel?” declares the .",
+      "text": "O people of Israel?” declares the Lord.",
       "verse": 7,
       "type": "poetry"
     },
@@ -168,7 +169,7 @@
       "type": "poetry"
     },
     {
-      "text": "Behold, the eyes of the Lord  are upon the sinful kingdom,",
+      "text": "Behold, the eyes of the Lord God are upon the sinful kingdom,",
       "verse": 8,
       "type": "poetry"
     },
@@ -183,7 +184,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 8,
       "type": "poetry"
     },
@@ -257,12 +258,12 @@
       "type": "poetry"
     },
     {
-      "text": "declares the  who does this.",
+      "text": "declares the Lord who does this.",
       "verse": 12,
       "type": "poetry"
     },
     {
-      "text": "“Behold, the days are coming,” declares the ,",
+      "text": "“Behold, the days are coming,” declares the Lord,",
       "verse": 13,
       "type": "poetry newline"
     },
@@ -322,7 +323,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the  your God.",
+      "text": "says the Lord your God.",
       "verse": 15,
       "type": "poetry"
     }

@@ -2,9 +2,10 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 12,
+  "verses": 8,
   "content": [
     {
-      "text": "And the  spake unto Moses, saying,",
+      "text": "And the Lord spake unto Moses, saying,",
       "verse": 1
     },
     {
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "Who shall offer it before the , and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that hath born a male or a female.",
+      "text": "Who shall offer it before the Lord, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that hath born a male or a female.",
       "verse": 7,
       "type": "newline"
     },

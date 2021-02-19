@@ -2,6 +2,7 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 4,
+  "verses": 12,
   "content": [
     {
       "text": "Ish-Bosheth Murdered",
@@ -40,11 +41,11 @@
       "type": "newline"
     },
     {
-      "text": "They brought the head of Ish-Bosheth to David at Hebron and said to the king, “Here is the head of Ish-Bosheth son of Saul, your enemy, who tried to kill you. This day the  has avenged my lord the king against Saul and his offspring.”",
+      "text": "They brought the head of Ish-Bosheth to David at Hebron and said to the king, “Here is the head of Ish-Bosheth son of Saul, your enemy, who tried to kill you. This day the Lord has avenged my lord the king against Saul and his offspring.”",
       "verse": 8
     },
     {
-      "text": "David answered Rekab and his brother Baanah, the sons of Rimmon the Beerothite, “As surely as the  lives, who has delivered me out of every trouble,",
+      "text": "David answered Rekab and his brother Baanah, the sons of Rimmon the Beerothite, “As surely as the Lord lives, who has delivered me out of every trouble,",
       "verse": 9,
       "type": "newline"
     },

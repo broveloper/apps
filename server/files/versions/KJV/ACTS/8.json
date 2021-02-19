@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 8,
+  "verses": 40,
   "content": [
     {
       "text": "And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judaea and Samaria, except the apostles.",
@@ -118,7 +119,7 @@
       "type": "newline"
     },
     {
-      "text": "Then answered Simon, and said, Pray ye to the  for me, that none of these things which ye have spoken come upon me.",
+      "text": "Then answered Simon, and said, Pray ye to the Lord for me, that none of these things which ye have spoken come upon me.",
       "verse": 24,
       "type": "newline"
     },

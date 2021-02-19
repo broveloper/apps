@@ -2,18 +2,19 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 6,
+  "verses": 30,
   "content": [
     {
-      "text": "Then the  said to Moses, “Now you will see what I will do to Pharaoh: Because of my mighty hand he will let them go; because of my mighty hand he will drive them out of his country.”",
+      "text": "Then the Lord said to Moses, “Now you will see what I will do to Pharaoh: Because of my mighty hand he will let them go; because of my mighty hand he will drive them out of his country.”",
       "verse": 1
     },
     {
-      "text": "God also said to Moses, “I am the .",
+      "text": "God also said to Moses, “I am the Lord.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "I appeared to Abraham, to Isaac and to Jacob as God Almighty, but by my name the  I did not make myself fully known to them.",
+      "text": "I appeared to Abraham, to Isaac and to Jacob as God Almighty, but by my name the Lord I did not make myself fully known to them.",
       "verse": 3
     },
     {
@@ -25,16 +26,16 @@
       "verse": 5
     },
     {
-      "text": "“Therefore, say to the Israelites: ‘I am the , and I will bring you out from under the yoke of the Egyptians. I will free you from being slaves to them, and I will redeem you with an outstretched arm and with mighty acts of judgment.",
+      "text": "“Therefore, say to the Israelites: ‘I am the Lord, and I will bring you out from under the yoke of the Egyptians. I will free you from being slaves to them, and I will redeem you with an outstretched arm and with mighty acts of judgment.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "I will take you as my own people, and I will be your God. Then you will know that I am the  your God, who brought you out from under the yoke of the Egyptians.",
+      "text": "I will take you as my own people, and I will be your God. Then you will know that I am the Lord your God, who brought you out from under the yoke of the Egyptians.",
       "verse": 7
     },
     {
-      "text": "And I will bring you to the land I swore with uplifted hand to give to Abraham, to Isaac and to Jacob. I will give it to you as a possession. I am the .’”",
+      "text": "And I will bring you to the land I swore with uplifted hand to give to Abraham, to Isaac and to Jacob. I will give it to you as a possession. I am the Lord.’”",
       "verse": 8
     },
     {
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "Then the  said to Moses,",
+      "text": "Then the Lord said to Moses,",
       "verse": 10,
       "type": "newline"
     },
@@ -52,7 +53,7 @@
       "verse": 11
     },
     {
-      "text": "But Moses said to the , “If the Israelites will not listen to me, why would Pharaoh listen to me, since I speak with faltering lips?”",
+      "text": "But Moses said to the Lord, “If the Israelites will not listen to me, why would Pharaoh listen to me, since I speak with faltering lips?”",
       "verse": 12,
       "type": "newline"
     },
@@ -61,7 +62,7 @@
       "type": "heading"
     },
     {
-      "text": "Now the  spoke to Moses and Aaron about the Israelites and Pharaoh king of Egypt, and he commanded them to bring the Israelites out of Egypt.",
+      "text": "Now the Lord spoke to Moses and Aaron about the Israelites and Pharaoh king of Egypt, and he commanded them to bring the Israelites out of Egypt.",
       "verse": 13,
       "type": "newline"
     },
@@ -127,7 +128,7 @@
       "verse": 25
     },
     {
-      "text": "It was this Aaron and Moses to whom the  said, “Bring the Israelites out of Egypt by their divisions.”",
+      "text": "It was this Aaron and Moses to whom the Lord said, “Bring the Israelites out of Egypt by their divisions.”",
       "verse": 26,
       "type": "newline"
     },
@@ -140,16 +141,16 @@
       "type": "heading"
     },
     {
-      "text": "Now when the  spoke to Moses in Egypt,",
+      "text": "Now when the Lord spoke to Moses in Egypt,",
       "verse": 28,
       "type": "newline"
     },
     {
-      "text": "he said to him, “I am the . Tell Pharaoh king of Egypt everything I tell you.”",
+      "text": "he said to him, “I am the Lord. Tell Pharaoh king of Egypt everything I tell you.”",
       "verse": 29
     },
     {
-      "text": "But Moses said to the , “Since I speak with faltering lips, why would Pharaoh listen to me?”",
+      "text": "But Moses said to the Lord, “Since I speak with faltering lips, why would Pharaoh listen to me?”",
       "verse": 30,
       "type": "newline"
     }

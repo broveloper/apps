@@ -2,6 +2,7 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 9,
+  "verses": 11,
   "content": [
     {
       "text": "He cried also in mine ears with a loud voice, saying, Cause them that have charge over the city to draw near, even every man with his destroying weapon in his hand.",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  said unto him, Go through the midst of the city, through the midst of Jerusalem, and set a mark upon the foreheads of the men that sigh and that cry for all the abominations that be done in the midst thereof.",
+      "text": "And the Lord said unto him, Go through the midst of the city, through the midst of Jerusalem, and set a mark upon the foreheads of the men that sigh and that cry for all the abominations that be done in the midst thereof.",
       "verse": 4,
       "type": "newline"
     },
@@ -38,12 +39,12 @@
       "type": "newline"
     },
     {
-      "text": "And it came to pass, while they were slaying them, and I was left, that I fell upon my face, and cried, and said, Ah Lord ! wilt thou destroy all the residue of Israel in thy pouring out of thy fury upon Jerusalem?",
+      "text": "And it came to pass, while they were slaying them, and I was left, that I fell upon my face, and cried, and said, Ah Lord God! wilt thou destroy all the residue of Israel in thy pouring out of thy fury upon Jerusalem?",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "Then said he unto me, The iniquity of the house of Israel and Judah is exceeding great, and the land is full of blood, and the city full of perverseness: for they say, The  hath forsaken the earth, and the  seeth not.",
+      "text": "Then said he unto me, The iniquity of the house of Israel and Judah is exceeding great, and the land is full of blood, and the city full of perverseness: for they say, The Lord hath forsaken the earth, and the Lord seeth not.",
       "verse": 9,
       "type": "newline"
     },

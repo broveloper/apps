@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 57,
+  "verses": 21,
   "content": [
     {
       "text": "The righteous perish,",
@@ -378,7 +379,7 @@
       "type": "poetry"
     },
     {
-      "text": "creating praise on their lips.",
+      "text": "    creating praise on their lips.",
       "verse": 19,
       "type": "poetry"
     },
@@ -388,7 +389,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the . “And I will heal them.”",
+      "text": "says the Lord. “And I will heal them.”",
       "verse": 19,
       "type": "poetry"
     },

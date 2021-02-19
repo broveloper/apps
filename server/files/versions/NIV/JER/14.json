@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 14,
+  "verses": 22,
   "content": [
     {
       "text": "Drought, Famine, Sword",
       "type": "heading"
     },
     {
-      "text": "This is the word of the  that came to Jeremiah concerning the drought:",
+      "text": "This is the word of the Lord that came to Jeremiah concerning the drought:",
       "verse": 1,
       "type": "newline"
     },
@@ -123,7 +124,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "do something, , for the sake of your name.",
+      "text": "do something, Lord, for the sake of your name.",
       "verse": 7,
       "type": "poetry"
     },
@@ -168,7 +169,7 @@
       "type": "poetry"
     },
     {
-      "text": "You are among us, ,",
+      "text": "You are among us, Lord,",
       "verse": 9,
       "type": "poetry"
     },
@@ -183,7 +184,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the  says about this people:",
+      "text": "This is what the Lord says about this people:",
       "verse": 10,
       "type": "newline"
     },
@@ -198,7 +199,7 @@
       "type": "poetry"
     },
     {
-      "text": "So the  does not accept them;",
+      "text": "So the Lord does not accept them;",
       "verse": 10,
       "type": "poetry"
     },
@@ -213,7 +214,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then the  said to me, “Do not pray for the well-being of this people.",
+      "text": "Then the Lord said to me, “Do not pray for the well-being of this people.",
       "verse": 11,
       "type": "newline"
     },
@@ -222,17 +223,17 @@
       "verse": 12
     },
     {
-      "text": "But I said, “Alas, Sovereign ! The prophets keep telling them, ‘You will not see the sword or suffer famine. Indeed, I will give you lasting peace in this place.’”",
+      "text": "But I said, “Alas, Sovereign Lord! The prophets keep telling them, ‘You will not see the sword or suffer famine. Indeed, I will give you lasting peace in this place.’”",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "Then the  said to me, “The prophets are prophesying lies in my name. I have not sent them or appointed them or spoken to them. They are prophesying to you false visions, divinations, idolatries and the delusions of their own minds.",
+      "text": "Then the Lord said to me, “The prophets are prophesying lies in my name. I have not sent them or appointed them or spoken to them. They are prophesying to you false visions, divinations, idolatries and the delusions of their own minds.",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "Therefore this is what the  says about the prophets who are prophesying in my name: I did not send them, yet they are saying, ‘No sword or famine will touch this land.’ Those same prophets will perish by sword and famine.",
+      "text": "Therefore this is what the Lord says about the prophets who are prophesying in my name: I did not send them, yet they are saying, ‘No sword or famine will touch this land.’ Those same prophets will perish by sword and famine.",
       "verse": 15
     },
     {
@@ -340,7 +341,7 @@
       "type": "poetry"
     },
     {
-      "text": "We acknowledge our wickedness, ,",
+      "text": "We acknowledge our wickedness, Lord,",
       "verse": 20,
       "type": "poetry"
     },
@@ -385,7 +386,7 @@
       "type": "poetry"
     },
     {
-      "text": "No, it is you,  our God.",
+      "text": "No, it is you, Lord our God.",
       "verse": 22,
       "type": "poetry"
     },

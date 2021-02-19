@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 89,
+  "verses": 52,
   "content": [
     {
-      "text": "I Will Sing of the Steadfast Love of the",
+      "text": "I Will Sing of the Steadfast Love of the Lord",
       "type": "heading"
     },
     {
       "text": "A Maskil of Ethan the Ezrahite.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "I will sing of the steadfast love of the , forever;",
+      "text": "I will sing of the steadfast love of the Lord, forever;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -48,12 +48,12 @@
       "type": "poetry"
     },
     {
-      "text": "and build your throne for all generations.’”",
+      "text": "and build your throne for all generations.’” Selah",
       "verse": 4,
       "type": "poetry"
     },
     {
-      "text": "Let the heavens praise your wonders, O ,",
+      "text": "Let the heavens praise your wonders, O Lord,",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -63,12 +63,12 @@
       "type": "poetry"
     },
     {
-      "text": "For who in the skies can be compared to the ?",
+      "text": "For who in the skies can be compared to the Lord?",
       "verse": 6,
       "type": "poetry"
     },
     {
-      "text": "Who among the heavenly beings is like the ,",
+      "text": "Who among the heavenly beings is like the Lord,",
       "verse": 6,
       "type": "poetry"
     },
@@ -83,12 +83,12 @@
       "type": "poetry"
     },
     {
-      "text": "O  God of hosts,",
+      "text": "O Lord God of hosts,",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "who is mighty as you are, O ,",
+      "text": "who is mighty as you are, O Lord,",
       "verse": 8,
       "type": "poetry"
     },
@@ -163,7 +163,7 @@
       "type": "poetry"
     },
     {
-      "text": "who walk, O , in the light of your face,",
+      "text": "who walk, O Lord, in the light of your face,",
       "verse": 15,
       "type": "poetry"
     },
@@ -188,7 +188,7 @@
       "type": "poetry"
     },
     {
-      "text": "For our shield belongs to the ,",
+      "text": "For our shield belongs to the Lord,",
       "verse": 18,
       "type": "poetry"
     },
@@ -388,7 +388,7 @@
       "type": "poetry"
     },
     {
-      "text": "a faithful witness in the skies.”",
+      "text": "a faithful witness in the skies.” Selah",
       "verse": 37,
       "type": "poetry"
     },
@@ -468,12 +468,12 @@
       "type": "poetry"
     },
     {
-      "text": "you have covered him with shame.",
+      "text": "you have covered him with shame. Selah",
       "verse": 45,
       "type": "poetry"
     },
     {
-      "text": "How long, O ? Will you hide yourself forever?",
+      "text": "How long, O Lord? Will you hide yourself forever?",
       "verse": 46,
       "type": "poetry newline"
     },
@@ -498,7 +498,7 @@
       "type": "poetry"
     },
     {
-      "text": "Who can deliver his soul from the power of Sheol?",
+      "text": "Who can deliver his soul from the power of Sheol? Selah",
       "verse": 48,
       "type": "poetry"
     },
@@ -523,7 +523,7 @@
       "type": "poetry"
     },
     {
-      "text": "with which your enemies mock, O ,",
+      "text": "with which your enemies mock, O Lord,",
       "verse": 51,
       "type": "poetry"
     },
@@ -533,7 +533,7 @@
       "type": "poetry"
     },
     {
-      "text": "Blessed be the  forever!",
+      "text": "Blessed be the Lord forever!",
       "verse": 52,
       "type": "poetry newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 20,
+  "verses": 47,
   "content": [
     {
       "text": "The Authority of Jesus Questioned",
@@ -17,12 +18,12 @@
       "verse": 2
     },
     {
-      "text": "He replied,",
+      "text": "He replied, “I will also ask you a question. Tell me:",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "John’s baptism—was it from heaven, or of human origin?”",
       "verse": 4
     },
     {
@@ -40,7 +41,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said,",
+      "text": "Jesus said, “Neither will I tell you by what authority I am doing these things.”",
       "verse": 8,
       "type": "newline"
     },
@@ -49,43 +50,43 @@
       "type": "heading"
     },
     {
-      "text": "He went on to tell the people this parable:",
+      "text": "He went on to tell the people this parable: “A man planted a vineyard, rented it to some farmers and went away for a long time.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "At harvest time he sent a servant to the tenants so they would give him some of the fruit of the vineyard. But the tenants beat him and sent him away empty-handed.",
       "verse": 10
     },
     {
-      "text": "",
+      "text": "He sent another servant, but that one also they beat and treated shamefully and sent away empty-handed.",
       "verse": 11
     },
     {
-      "text": "",
+      "text": "He sent still a third, and they wounded him and threw him out.",
       "verse": 12
     },
     {
-      "text": "",
+      "text": "“Then the owner of the vineyard said, ‘What shall I do? I will send my son, whom I love; perhaps they will respect him.’",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“But when the tenants saw him, they talked the matter over. ‘This is the heir,’ they said. ‘Let’s kill him, and the inheritance will be ours.’",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "So they threw him out of the vineyard and killed him.",
       "verse": 15
     },
     {
-      "text": "",
+      "text": "“What then will the owner of the vineyard do to them?",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "He will come and kill those tenants and give the vineyard to others.”",
       "verse": 16
     },
     {
@@ -94,22 +95,22 @@
       "type": "newline"
     },
     {
-      "text": "Jesus looked directly at them and asked,",
+      "text": "Jesus looked directly at them and asked, “Then what is the meaning of that which is written:",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“‘The stone the builders rejected",
       "verse": 17,
       "type": "poetry newline"
     },
     {
-      "text": "",
+      "text": "has become the cornerstone’?",
       "verse": 17,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "Everyone who falls on that stone will be broken to pieces; anyone on whom it falls will be crushed.”",
       "verse": 18,
       "type": "newline"
     },
@@ -141,7 +142,7 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“Show me a denarius. Whose image and inscription are on it?”",
       "verse": 24
     },
     {
@@ -150,7 +151,7 @@
       "type": "newline"
     },
     {
-      "text": "He said to them,",
+      "text": "He said to them, “Then give back to Caesar what is Caesar’s, and to God what is God’s.”",
       "verse": 25,
       "type": "newline"
     },
@@ -193,24 +194,24 @@
       "verse": 33
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “The people of this age marry and are given in marriage.",
       "verse": 34,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "But those who are considered worthy of taking part in the age to come and in the resurrection from the dead will neither marry nor be given in marriage,",
       "verse": 35
     },
     {
-      "text": "",
+      "text": "and they can no longer die; for they are like the angels. They are God’s children, since they are children of the resurrection.",
       "verse": 36
     },
     {
-      "text": "",
+      "text": "But in the account of the burning bush, even Moses showed that the dead rise, for he calls the Lord ‘the God of Abraham, and the God of Isaac, and the God of Jacob.’",
       "verse": 37
     },
     {
-      "text": "",
+      "text": "He is not the God of the dead, but of the living, for to him all are alive.”",
       "verse": 38
     },
     {
@@ -227,36 +228,36 @@
       "type": "heading"
     },
     {
-      "text": "Then Jesus said to them,",
+      "text": "Then Jesus said to them, “Why is it said that the Messiah is the son of David?",
       "verse": 41,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "David himself declares in the Book of Psalms:",
       "verse": 42
     },
     {
-      "text": "",
+      "text": "“‘The Lord said to my Lord:",
       "verse": 42,
       "type": "poetry newline"
     },
     {
-      "text": "",
+      "text": "“Sit at my right hand",
       "verse": 42,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "until I make your enemies",
       "verse": 43,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "a footstool for your feet.”’",
       "verse": 43,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "David calls him ‘Lord.’ How then can he be his son?”",
       "verse": 44,
       "type": "newline"
     },
@@ -270,11 +271,11 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“Beware of the teachers of the law. They like to walk around in flowing robes and love to be greeted with respect in the marketplaces and have the most important seats in the synagogues and the places of honor at banquets.",
       "verse": 46
     },
     {
-      "text": "",
+      "text": "They devour widows’ houses and for a show make lengthy prayers. These men will be punished most severely.”",
       "verse": 47
     }
   ]

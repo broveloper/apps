@@ -2,9 +2,10 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 55,
+  "verses": 13,
   "content": [
     {
-      "text": "The Compassion of the",
+      "text": "The Compassion of the Lord",
       "type": "heading"
     },
     {
@@ -98,7 +99,7 @@
       "type": "poetry"
     },
     {
-      "text": "because of the  your God, and of the Holy One of Israel,",
+      "text": "because of the Lord your God, and of the Holy One of Israel,",
       "verse": 5,
       "type": "poetry"
     },
@@ -108,7 +109,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Seek the  while he may be found;",
+      "text": "“Seek the Lord while he may be found;",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "let him return to the , that he may have compassion on him,",
+      "text": "let him return to the Lord, that he may have compassion on him,",
       "verse": 7,
       "type": "poetry"
     },
@@ -143,7 +144,7 @@
       "type": "poetry"
     },
     {
-      "text": "neither are your ways my ways, declares the .",
+      "text": "neither are your ways my ways, declares the Lord.",
       "verse": 8,
       "type": "poetry"
     },
@@ -238,7 +239,7 @@
       "type": "poetry"
     },
     {
-      "text": "and it shall make a name for the ,",
+      "text": "and it shall make a name for the Lord,",
       "verse": 13,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "JUDG",
   "book_name": "Judges",
   "chapter": 17,
+  "verses": 13,
   "content": [
     {
       "text": "Micah’s Idols",
@@ -17,12 +18,12 @@
       "verse": 2
     },
     {
-      "text": "Then his mother said, “The  bless you, my son!”",
+      "text": "Then his mother said, “The Lord bless you, my son!”",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "When he returned the eleven hundred shekels of silver to his mother, she said, “I solemnly consecrate my silver to the  for my son to make an image overlaid with silver. I will give it back to you.”",
+      "text": "When he returned the eleven hundred shekels of silver to his mother, she said, “I solemnly consecrate my silver to the Lord for my son to make an image overlaid with silver. I will give it back to you.”",
       "verse": 3,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "verse": 12
     },
     {
-      "text": "And Micah said, “Now I know that the  will be good to me, since this Levite has become my priest.”",
+      "text": "And Micah said, “Now I know that the Lord will be good to me, since this Levite has become my priest.”",
       "verse": 13
     }
   ]

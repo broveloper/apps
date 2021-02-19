@@ -2,6 +2,7 @@
   "book_id": "EZRA",
   "book_name": "Ezra",
   "chapter": 7,
+  "verses": 28,
   "content": [
     {
       "text": "Ezra Comes to Jerusalem",
@@ -29,7 +30,7 @@
       "verse": 5
     },
     {
-      "text": "this Ezra came up from Babylon. He was a teacher well versed in the Law of Moses, which the , the God of Israel, had given. The king had granted him everything he asked, for the hand of the  his God was on him.",
+      "text": "this Ezra came up from Babylon. He was a teacher well versed in the Law of Moses, which the Lord, the God of Israel, had given. The king had granted him everything he asked, for the hand of the Lord his God was on him.",
       "verse": 6
     },
     {
@@ -46,7 +47,7 @@
       "verse": 9
     },
     {
-      "text": "For Ezra had devoted himself to the study and observance of the Law of the , and to teaching its decrees and laws in Israel.",
+      "text": "For Ezra had devoted himself to the study and observance of the Law of the Lord, and to teaching its decrees and laws in Israel.",
       "verse": 10
     },
     {
@@ -54,7 +55,7 @@
       "type": "heading"
     },
     {
-      "text": "This is a copy of the letter King Artaxerxes had given to Ezra the priest, a teacher of the Law, a man learned in matters concerning the commands and decrees of the  for Israel:",
+      "text": "This is a copy of the letter King Artaxerxes had given to Ezra the priest, a teacher of the Law, a man learned in matters concerning the commands and decrees of the Lord for Israel:",
       "verse": 11,
       "type": "newline"
     },
@@ -128,12 +129,12 @@
       "verse": 26
     },
     {
-      "text": "Praise be to the , the God of our ancestors, who has put it into the king’s heart to bring honor to the house of the  in Jerusalem in this way",
+      "text": "Praise be to the Lord, the God of our ancestors, who has put it into the king’s heart to bring honor to the house of the Lord in Jerusalem in this way",
       "verse": 27,
       "type": "newline"
     },
     {
-      "text": "and who has extended his good favor to me before the king and his advisers and all the king’s powerful officials. Because the hand of the  my God was on me, I took courage and gathered leaders from Israel to go up with me.",
+      "text": "and who has extended his good favor to me before the king and his advisers and all the king’s powerful officials. Because the hand of the Lord my God was on me, I took courage and gathered leaders from Israel to go up with me.",
       "verse": 28
     }
   ]

@@ -2,6 +2,7 @@
   "book_id": "AMOS",
   "book_name": "Amos",
   "chapter": 1,
+  "verses": 15,
   "content": [
     {
       "text": "The words of Amos, one of the shepherds of Tekoa—the vision he saw concerning Israel two years before the earthquake, when Uzziah was king of Judah and Jeroboam son of Jehoash was king of Israel.",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "“The  roars from Zion",
+      "text": "“The Lord roars from Zion",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -37,7 +38,7 @@
       "type": "heading"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 3,
       "type": "newline"
     },
@@ -92,12 +93,12 @@
       "type": "poetry"
     },
     {
-      "text": "says the .",
+      "text": "says the Lord.",
       "verse": 5,
       "type": "poetry"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 6,
       "type": "newline"
     },
@@ -152,12 +153,12 @@
       "type": "poetry"
     },
     {
-      "text": "says the Sovereign .",
+      "text": "says the Sovereign Lord.",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 9,
       "type": "newline"
     },
@@ -192,7 +193,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 11,
       "type": "newline"
     },
@@ -237,7 +238,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 13,
       "type": "newline"
     },
@@ -292,7 +293,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the .",
+      "text": "says the Lord.",
       "verse": 15,
       "type": "poetry"
     }

@@ -2,13 +2,14 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 25,
+  "verses": 40,
   "content": [
     {
       "text": "Offerings for the Tabernacle",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 1,
       "type": "newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 11,
+  "verses": 30,
   "content": [
     {
       "text": "And the apostles and brethren that were in Judaea heard that the Gentiles had also received the word of God.",
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake unto the Grecians, preaching the  Jesus.",
+      "text": "And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake unto the Grecians, preaching the Lord Jesus.",
       "verse": 20,
       "type": "newline"
     },

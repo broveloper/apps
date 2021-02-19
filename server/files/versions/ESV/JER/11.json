@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 11,
+  "verses": 23,
   "content": [
     {
       "text": "The Broken Covenant",
       "type": "heading"
     },
     {
-      "text": "The word that came to Jeremiah from the :",
+      "text": "The word that came to Jeremiah from the Lord:",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "You shall say to them, Thus says the , the God of Israel: Cursed be the man who does not hear the words of this covenant",
+      "text": "You shall say to them, Thus says the Lord, the God of Israel: Cursed be the man who does not hear the words of this covenant",
       "verse": 3
     },
     {
@@ -25,11 +26,11 @@
       "verse": 4
     },
     {
-      "text": "that I may confirm the oath that I swore to your fathers, to give them a land flowing with milk and honey, as at this day.” Then I answered, “So be it, .”",
+      "text": "that I may confirm the oath that I swore to your fathers, to give them a land flowing with milk and honey, as at this day.” Then I answered, “So be it, Lord.”",
       "verse": 5
     },
     {
-      "text": "And the  said to me, “Proclaim all these words in the cities of Judah and in the streets of Jerusalem: Hear the words of this covenant and do them.",
+      "text": "And the Lord said to me, “Proclaim all these words in the cities of Judah and in the streets of Jerusalem: Hear the words of this covenant and do them.",
       "verse": 6,
       "type": "newline"
     },
@@ -42,7 +43,7 @@
       "verse": 8
     },
     {
-      "text": "Again the  said to me, “A conspiracy exists among the men of Judah and the inhabitants of Jerusalem.",
+      "text": "Again the Lord said to me, “A conspiracy exists among the men of Judah and the inhabitants of Jerusalem.",
       "verse": 9,
       "type": "newline"
     },
@@ -51,7 +52,7 @@
       "verse": 10
     },
     {
-      "text": "Therefore, thus says the , Behold, I am bringing disaster upon them that they cannot escape. Though they cry to me, I will not listen to them.",
+      "text": "Therefore, thus says the Lord, Behold, I am bringing disaster upon them that they cannot escape. Though they cry to me, I will not listen to them.",
       "verse": 11
     },
     {
@@ -72,15 +73,15 @@
       "verse": 15
     },
     {
-      "text": "The  once called you ‘a green olive tree, beautiful with good fruit.’ But with the roar of a great tempest he will set fire to it, and its branches will be consumed.",
+      "text": "The Lord once called you ‘a green olive tree, beautiful with good fruit.’ But with the roar of a great tempest he will set fire to it, and its branches will be consumed.",
       "verse": 16
     },
     {
-      "text": "The  of hosts, who planted you, has decreed disaster against you, because of the evil that the house of Israel and the house of Judah have done, provoking me to anger by making offerings to Baal.”",
+      "text": "The Lord of hosts, who planted you, has decreed disaster against you, because of the evil that the house of Israel and the house of Judah have done, provoking me to anger by making offerings to Baal.”",
       "verse": 17
     },
     {
-      "text": "The  made it known to me and I knew;",
+      "text": "The Lord made it known to me and I knew;",
       "verse": 18,
       "type": "poetry newline"
     },
@@ -125,7 +126,7 @@
       "type": "poetry"
     },
     {
-      "text": "But, O  of hosts, who judges righteously,",
+      "text": "But, O Lord of hosts, who judges righteously,",
       "verse": 20,
       "type": "poetry"
     },
@@ -145,12 +146,12 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore thus says the  concerning the men of Anathoth, who seek your life, and say, “Do not prophesy in the name of the , or you will die by our hand”—",
+      "text": "Therefore thus says the Lord concerning the men of Anathoth, who seek your life, and say, “Do not prophesy in the name of the Lord, or you will die by our hand”—",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "therefore thus says the  of hosts: “Behold, I will punish them. The young men shall die by the sword, their sons and their daughters shall die by famine,",
+      "text": "therefore thus says the Lord of hosts: “Behold, I will punish them. The young men shall die by the sword, their sons and their daughters shall die by famine,",
       "verse": 22
     },
     {

@@ -2,13 +2,14 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 11,
+  "verses": 10,
   "content": [
     {
       "text": "The Plague on the Firstborn",
       "type": "heading"
     },
     {
-      "text": "Now the  had said to Moses, “I will bring one more plague on Pharaoh and on Egypt. After that, he will let you go from here, and when he does, he will drive you out completely.",
+      "text": "Now the Lord had said to Moses, “I will bring one more plague on Pharaoh and on Egypt. After that, he will let you go from here, and when he does, he will drive you out completely.",
       "verse": 1,
       "type": "newline"
     },
@@ -17,11 +18,11 @@
       "verse": 2
     },
     {
-      "text": "(The  made the Egyptians favorably disposed toward the people, and Moses himself was highly regarded in Egypt by Pharaoh’s officials and by the people.)",
+      "text": "(The Lord made the Egyptians favorably disposed toward the people, and Moses himself was highly regarded in Egypt by Pharaoh’s officials and by the people.)",
       "verse": 3
     },
     {
-      "text": "So Moses said, “This is what the  says: ‘About midnight I will go throughout Egypt.",
+      "text": "So Moses said, “This is what the Lord says: ‘About midnight I will go throughout Egypt.",
       "verse": 4,
       "type": "newline"
     },
@@ -34,7 +35,7 @@
       "verse": 6
     },
     {
-      "text": "But among the Israelites not a dog will bark at any person or animal.’ Then you will know that the  makes a distinction between Egypt and Israel.",
+      "text": "But among the Israelites not a dog will bark at any person or animal.’ Then you will know that the Lord makes a distinction between Egypt and Israel.",
       "verse": 7
     },
     {
@@ -42,12 +43,12 @@
       "verse": 8
     },
     {
-      "text": "The  had said to Moses, “Pharaoh will refuse to listen to you—so that my wonders may be multiplied in Egypt.”",
+      "text": "The Lord had said to Moses, “Pharaoh will refuse to listen to you—so that my wonders may be multiplied in Egypt.”",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "Moses and Aaron performed all these wonders before Pharaoh, but the  hardened Pharaoh’s heart, and he would not let the Israelites go out of his country.",
+      "text": "Moses and Aaron performed all these wonders before Pharaoh, but the Lord hardened Pharaoh’s heart, and he would not let the Israelites go out of his country.",
       "verse": 10
     }
   ]

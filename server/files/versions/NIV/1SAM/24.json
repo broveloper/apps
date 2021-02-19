@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 24,
+  "verses": 22,
   "content": [
     {
       "text": "David Spares Saul’s Life",
@@ -22,7 +23,7 @@
       "type": "newline"
     },
     {
-      "text": "The men said, “This is the day the  spoke of when he said to you, ‘I will give your enemy into your hands for you to deal with as you wish.’” Then David crept up unnoticed and cut off a corner of Saul’s robe.",
+      "text": "The men said, “This is the day the Lord spoke of when he said to you, ‘I will give your enemy into your hands for you to deal with as you wish.’” Then David crept up unnoticed and cut off a corner of Saul’s robe.",
       "verse": 4
     },
     {
@@ -31,7 +32,7 @@
       "type": "newline"
     },
     {
-      "text": "He said to his men, “The  forbid that I should do such a thing to my master, the ’s anointed, or lay my hand on him; for he is the anointed of the .”",
+      "text": "He said to his men, “The Lord forbid that I should do such a thing to my master, the Lord’s anointed, or lay my hand on him; for he is the anointed of the Lord.”",
       "verse": 6
     },
     {
@@ -48,7 +49,7 @@
       "verse": 9
     },
     {
-      "text": "This day you have seen with your own eyes how the  delivered you into my hands in the cave. Some urged me to kill you, but I spared you; I said, ‘I will not lay my hand on my lord, because he is the ’s anointed.’",
+      "text": "This day you have seen with your own eyes how the Lord delivered you into my hands in the cave. Some urged me to kill you, but I spared you; I said, ‘I will not lay my hand on my lord, because he is the Lord’s anointed.’",
       "verse": 10
     },
     {
@@ -56,7 +57,7 @@
       "verse": 11
     },
     {
-      "text": "May the  judge between you and me. And may the  avenge the wrongs you have done to me, but my hand will not touch you.",
+      "text": "May the Lord judge between you and me. And may the Lord avenge the wrongs you have done to me, but my hand will not touch you.",
       "verse": 12
     },
     {
@@ -69,7 +70,7 @@
       "type": "newline"
     },
     {
-      "text": "May the  be our judge and decide between us. May he consider my cause and uphold it; may he vindicate me by delivering me from your hand.”",
+      "text": "May the Lord be our judge and decide between us. May he consider my cause and uphold it; may he vindicate me by delivering me from your hand.”",
       "verse": 15
     },
     {
@@ -82,11 +83,11 @@
       "verse": 17
     },
     {
-      "text": "You have just now told me about the good you did to me; the  delivered me into your hands, but you did not kill me.",
+      "text": "You have just now told me about the good you did to me; the Lord delivered me into your hands, but you did not kill me.",
       "verse": 18
     },
     {
-      "text": "When a man finds his enemy, does he let him get away unharmed? May the  reward you well for the way you treated me today.",
+      "text": "When a man finds his enemy, does he let him get away unharmed? May the Lord reward you well for the way you treated me today.",
       "verse": 19
     },
     {
@@ -94,7 +95,7 @@
       "verse": 20
     },
     {
-      "text": "Now swear to me by the  that you will not kill off my descendants or wipe out my name from my father’s family.”",
+      "text": "Now swear to me by the Lord that you will not kill off my descendants or wipe out my name from my father’s family.”",
       "verse": 21
     },
     {

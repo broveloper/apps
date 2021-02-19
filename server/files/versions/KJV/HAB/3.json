@@ -2,13 +2,14 @@
   "book_id": "HAB",
   "book_name": "Habakkuk",
   "chapter": 3,
+  "verses": 19,
   "content": [
     {
       "text": "A prayer of Habakkuk the prophet upon Shigionoth.",
       "verse": 1
     },
     {
-      "text": "O , I have heard thy speech, and was afraid: O , revive thy work in the midst of the years, in the midst of the years make known; in wrath remember mercy.",
+      "text": "O Lord, I have heard thy speech, and was afraid: O Lord, revive thy work in the midst of the years, in the midst of the years make known; in wrath remember mercy.",
       "verse": 2,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "Was the  displeased against the rivers? was thine anger against the rivers? was thy wrath against the sea, that thou didst ride upon thine horses and thy chariots of salvation?",
+      "text": "Was the Lord displeased against the rivers? was thine anger against the rivers? was thy wrath against the sea, that thou didst ride upon thine horses and thy chariots of salvation?",
       "verse": 8,
       "type": "newline"
     },
@@ -88,12 +89,12 @@
       "type": "newline"
     },
     {
-      "text": "Yet I will rejoice in the , I will joy in the God of my salvation.",
+      "text": "Yet I will rejoice in the Lord, I will joy in the God of my salvation.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "The  God is my strength, and he will make my feet like hinds' feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.",
+      "text": "The Lord God is my strength, and he will make my feet like hinds' feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.",
       "verse": 19,
       "type": "newline"
     }

@@ -2,18 +2,19 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 17,
+  "verses": 16,
   "content": [
     {
       "text": "Water from the Rock",
       "type": "heading"
     },
     {
-      "text": "All the congregation of the people of Israel moved on from the wilderness of Sin by stages, according to the commandment of the , and camped at Rephidim, but there was no water for the people to drink.",
+      "text": "All the congregation of the people of Israel moved on from the wilderness of Sin by stages, according to the commandment of the Lord, and camped at Rephidim, but there was no water for the people to drink.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "Therefore the people quarreled with Moses and said, “Give us water to drink.” And Moses said to them, “Why do you quarrel with me? Why do you test the ?”",
+      "text": "Therefore the people quarreled with Moses and said, “Give us water to drink.” And Moses said to them, “Why do you quarrel with me? Why do you test the Lord?”",
       "verse": 2
     },
     {
@@ -21,11 +22,11 @@
       "verse": 3
     },
     {
-      "text": "So Moses cried to the , “What shall I do with this people? They are almost ready to stone me.”",
+      "text": "So Moses cried to the Lord, “What shall I do with this people? They are almost ready to stone me.”",
       "verse": 4
     },
     {
-      "text": "And the  said to Moses, “Pass on before the people, taking with you some of the elders of Israel, and take in your hand the staff with which you struck the Nile, and go.",
+      "text": "And the Lord said to Moses, “Pass on before the people, taking with you some of the elders of Israel, and take in your hand the staff with which you struck the Nile, and go.",
       "verse": 5
     },
     {
@@ -33,7 +34,7 @@
       "verse": 6
     },
     {
-      "text": "And he called the name of the place Massah and Meribah, because of the quarreling of the people of Israel, and because they tested the  by saying, “Is the  among us or not?”",
+      "text": "And he called the name of the place Massah and Meribah, because of the quarreling of the people of Israel, and because they tested the Lord by saying, “Is the Lord among us or not?”",
       "verse": 7
     },
     {
@@ -66,16 +67,16 @@
       "verse": 13
     },
     {
-      "text": "Then the  said to Moses, “Write this as a memorial in a book and recite it in the ears of Joshua, that I will utterly blot out the memory of Amalek from under heaven.”",
+      "text": "Then the Lord said to Moses, “Write this as a memorial in a book and recite it in the ears of Joshua, that I will utterly blot out the memory of Amalek from under heaven.”",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "And Moses built an altar and called the name of it, The  Is My Banner,",
+      "text": "And Moses built an altar and called the name of it, The Lord Is My Banner,",
       "verse": 15
     },
     {
-      "text": "saying, “A hand upon the throne of the ! The  will have war with Amalek from generation to generation.”",
+      "text": "saying, “A hand upon the throne of the Lord! The Lord will have war with Amalek from generation to generation.”",
       "verse": 16
     }
   ]

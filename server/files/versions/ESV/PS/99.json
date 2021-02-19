@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 99,
+  "verses": 9,
   "content": [
     {
-      "text": "The  Our God Is Holy",
+      "text": "The Lord Our God Is Holy",
       "type": "heading"
     },
     {
-      "text": "The  reigns; let the peoples tremble!",
+      "text": "The Lord reigns; let the peoples tremble!",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -18,7 +19,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is great in Zion;",
+      "text": "The Lord is great in Zion;",
       "verse": 2,
       "type": "poetry"
     },
@@ -58,7 +59,7 @@
       "type": "poetry"
     },
     {
-      "text": "Exalt the  our God;",
+      "text": "Exalt the Lord our God;",
       "verse": 5,
       "type": "poetry"
     },
@@ -83,7 +84,7 @@
       "type": "poetry"
     },
     {
-      "text": "They called to the , and he answered them.",
+      "text": "They called to the Lord, and he answered them.",
       "verse": 6,
       "type": "poetry"
     },
@@ -103,7 +104,7 @@
       "type": "poetry"
     },
     {
-      "text": "O  our God, you answered them;",
+      "text": "O Lord our God, you answered them;",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -118,7 +119,7 @@
       "type": "poetry"
     },
     {
-      "text": "Exalt the  our God,",
+      "text": "Exalt the Lord our God,",
       "verse": 9,
       "type": "poetry"
     },
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  our God is holy!",
+      "text": "for the Lord our God is holy!",
       "verse": 9,
       "type": "poetry"
     }

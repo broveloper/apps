@@ -2,9 +2,10 @@
   "book_id": "JOSH",
   "book_name": "Joshua",
   "chapter": 13,
+  "verses": 33,
   "content": [
     {
-      "text": "Now Joshua was old and stricken in years; and the  said unto him, Thou art old and stricken in years, and there remaineth yet very much land to be possessed.",
+      "text": "Now Joshua was old and stricken in years; and the Lord said unto him, Thou art old and stricken in years, and there remaineth yet very much land to be possessed.",
       "verse": 1
     },
     {
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "With whom the Reubenites and the Gadites have received their inheritance, which Moses gave them, beyond Jordan eastward, even as Moses the servant of the  gave them;",
+      "text": "With whom the Reubenites and the Gadites have received their inheritance, which Moses gave them, beyond Jordan eastward, even as Moses the servant of the Lord gave them;",
       "verse": 8,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "Only unto the tribes of Levi he gave none inheritance; the sacrifices of the  God of Israel made by fire are their inheritance, as he said unto them.",
+      "text": "Only unto the tribes of Levi he gave none inheritance; the sacrifices of the Lord God of Israel made by fire are their inheritance, as he said unto them.",
       "verse": 14,
       "type": "newline"
     },
@@ -163,7 +164,7 @@
       "type": "newline"
     },
     {
-      "text": "But unto the tribe of Levi Moses gave not any inheritance: the  God of Israel was their inheritance, as he said unto them.",
+      "text": "But unto the tribe of Levi Moses gave not any inheritance: the Lord God of Israel was their inheritance, as he said unto them.",
       "verse": 33,
       "type": "newline"
     }

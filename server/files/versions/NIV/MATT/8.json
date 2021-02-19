@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 8,
+  "verses": 34,
   "content": [
     {
       "text": "Jesus Heals a Man With Leprosy",
@@ -17,12 +18,12 @@
       "verse": 2
     },
     {
-      "text": "Jesus reached out his hand and touched the man.  he said.  Immediately he was cleansed of his leprosy.",
+      "text": "Jesus reached out his hand and touched the man. “I am willing,” he said. “Be clean!” Immediately he was cleansed of his leprosy.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "Then Jesus said to him,",
+      "text": "Then Jesus said to him, “See that you don’t tell anyone. But go, show yourself to the priest and offer the gift Moses commanded, as a testimony to them.”",
       "verse": 4
     },
     {
@@ -39,7 +40,7 @@
       "verse": 6
     },
     {
-      "text": "Jesus said to him,",
+      "text": "Jesus said to him, “Shall I come and heal him?”",
       "verse": 7,
       "type": "newline"
     },
@@ -53,20 +54,20 @@
       "verse": 9
     },
     {
-      "text": "When Jesus heard this, he was amazed and said to those following him,",
+      "text": "When Jesus heard this, he was amazed and said to those following him, “Truly I tell you, I have not found anyone in Israel with such great faith.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "I say to you that many will come from the east and the west, and will take their places at the feast with Abraham, Isaac and Jacob in the kingdom of heaven.",
       "verse": 11
     },
     {
-      "text": "",
+      "text": "But the subjects of the kingdom will be thrown outside, into the darkness, where there will be weeping and gnashing of teeth.”",
       "verse": 12
     },
     {
-      "text": "Then Jesus said to the centurion,  And his servant was healed at that moment.",
+      "text": "Then Jesus said to the centurion, “Go! Let it be done just as you believed it would.” And his servant was healed at that moment.",
       "verse": 13,
       "type": "newline"
     },
@@ -116,7 +117,7 @@
       "verse": 19
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “Foxes have dens and birds have nests, but the Son of Man has no place to lay his head.”",
       "verse": 20,
       "type": "newline"
     },
@@ -126,7 +127,7 @@
       "type": "newline"
     },
     {
-      "text": "But Jesus told him,",
+      "text": "But Jesus told him, “Follow me, and let the dead bury their own dead.”",
       "verse": 22,
       "type": "newline"
     },
@@ -148,7 +149,7 @@
       "verse": 25
     },
     {
-      "text": "He replied,  Then he got up and rebuked the winds and the waves, and it was completely calm.",
+      "text": "He replied, “You of little faith, why are you so afraid?” Then he got up and rebuked the winds and the waves, and it was completely calm.",
       "verse": 26,
       "type": "newline"
     },
@@ -180,7 +181,7 @@
       "verse": 31
     },
     {
-      "text": "He said to them,  So they came out and went into the pigs, and the whole herd rushed down the steep bank into the lake and died in the water.",
+      "text": "He said to them, “Go!” So they came out and went into the pigs, and the whole herd rushed down the steep bank into the lake and died in the water.",
       "verse": 32,
       "type": "newline"
     },

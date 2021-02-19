@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 14,
+  "verses": 35,
   "content": [
     {
       "text": "Jesus at a Pharisee’s House",
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "Jesus asked the Pharisees and experts in the law,",
+      "text": "Jesus asked the Pharisees and experts in the law, “Is it lawful to heal on the Sabbath or not?”",
       "verse": 3
     },
     {
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "Then he asked them,",
+      "text": "Then he asked them, “If one of you has a child or an ox that falls into a well on the Sabbath day, will you not immediately pull it out?”",
       "verse": 5,
       "type": "newline"
     },
@@ -39,32 +40,32 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“When someone invites you to a wedding feast, do not take the place of honor, for a person more distinguished than you may have been invited.",
       "verse": 8
     },
     {
-      "text": "",
+      "text": "If so, the host who invited both of you will come and say to you, ‘Give this person your seat.’ Then, humiliated, you will have to take the least important place.",
       "verse": 9
     },
     {
-      "text": "",
+      "text": "But when you are invited, take the lowest place, so that when your host comes, he will say to you, ‘Friend, move up to a better place.’ Then you will be honored in the presence of all the other guests.",
       "verse": 10
     },
     {
-      "text": "",
+      "text": "For all those who exalt themselves will be humbled, and those who humble themselves will be exalted.”",
       "verse": 11
     },
     {
-      "text": "Then Jesus said to his host,",
+      "text": "Then Jesus said to his host, “When you give a luncheon or dinner, do not invite your friends, your brothers or sisters, your relatives, or your rich neighbors; if you do, they may invite you back and so you will be repaid.",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "But when you give a banquet, invite the poor, the crippled, the lame, the blind,",
       "verse": 13
     },
     {
-      "text": "",
+      "text": "and you will be blessed. Although they cannot repay you, you will be repaid at the resurrection of the righteous.”",
       "verse": 14
     },
     {
@@ -77,46 +78,46 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied:",
+      "text": "Jesus replied: “A certain man was preparing a great banquet and invited many guests.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "At the time of the banquet he sent his servant to tell those who had been invited, ‘Come, for everything is now ready.’",
       "verse": 17
     },
     {
-      "text": "",
+      "text": "“But they all alike began to make excuses. The first said, ‘I have just bought a field, and I must go and see it. Please excuse me.’",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“Another said, ‘I have just bought five yoke of oxen, and I’m on my way to try them out. Please excuse me.’",
       "verse": 19,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“Still another said, ‘I just got married, so I can’t come.’",
       "verse": 20,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“The servant came back and reported this to his master. Then the owner of the house became angry and ordered his servant, ‘Go out quickly into the streets and alleys of the town and bring in the poor, the crippled, the blind and the lame.’",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“‘Sir,’ the servant said, ‘what you ordered has been done, but there is still room.’",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“Then the master told his servant, ‘Go out to the roads and country lanes and compel them to come in, so that my house will be full.",
       "verse": 23,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "I tell you, not one of those who were invited will get a taste of my banquet.’”",
       "verse": 24
     },
     {
@@ -129,50 +130,50 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“If anyone comes to me and does not hate father and mother, wife and children, brothers and sisters—yes, even their own life—such a person cannot be my disciple.",
       "verse": 26
     },
     {
-      "text": "",
+      "text": "And whoever does not carry their cross and follow me cannot be my disciple.",
       "verse": 27
     },
     {
-      "text": "",
+      "text": "“Suppose one of you wants to build a tower. Won’t you first sit down and estimate the cost to see if you have enough money to complete it?",
       "verse": 28,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "For if you lay the foundation and are not able to finish it, everyone who sees it will ridicule you,",
       "verse": 29
     },
     {
-      "text": "",
+      "text": "saying, ‘This person began to build and wasn’t able to finish.’",
       "verse": 30
     },
     {
-      "text": "",
+      "text": "“Or suppose a king is about to go to war against another king. Won’t he first sit down and consider whether he is able with ten thousand men to oppose the one coming against him with twenty thousand?",
       "verse": 31,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "If he is not able, he will send a delegation while the other is still a long way off and will ask for terms of peace.",
       "verse": 32
     },
     {
-      "text": "",
+      "text": "In the same way, those of you who do not give up everything you have cannot be my disciples.",
       "verse": 33
     },
     {
-      "text": "",
+      "text": "“Salt is good, but if it loses its saltiness, how can it be made salty again?",
       "verse": 34,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "It is fit neither for the soil nor for the manure pile; it is thrown out.",
       "verse": 35
     },
     {
-      "text": "",
+      "text": "“Whoever has ears to hear, let them hear.”",
       "verse": 35,
       "type": "newline"
     }

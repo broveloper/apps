@@ -2,6 +2,7 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 33,
+  "verses": 29,
   "content": [
     {
       "text": "Moses Blesses the Tribes",
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "“The  came from Sinai",
+      "text": "“The Lord came from Sinai",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -102,7 +103,7 @@
       "type": "newline"
     },
     {
-      "text": "“Hear, , the cry of Judah;",
+      "text": "“Hear, Lord, the cry of Judah;",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -197,7 +198,7 @@
       "type": "poetry"
     },
     {
-      "text": "Bless all his skills, ,",
+      "text": "Bless all his skills, Lord,",
       "verse": 11,
       "type": "poetry"
     },
@@ -222,7 +223,7 @@
       "type": "newline"
     },
     {
-      "text": "“Let the beloved of the  rest secure in him,",
+      "text": "“Let the beloved of the Lord rest secure in him,",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -232,7 +233,7 @@
       "type": "poetry"
     },
     {
-      "text": "and the one the  loves rests between his shoulders.”",
+      "text": "and the one the Lord loves rests between his shoulders.”",
       "verse": 12,
       "type": "poetry"
     },
@@ -242,7 +243,7 @@
       "type": "newline"
     },
     {
-      "text": "“May the  bless his land",
+      "text": "“May the Lord bless his land",
       "verse": 13,
       "type": "poetry newline"
     },
@@ -397,7 +398,7 @@
       "type": "poetry"
     },
     {
-      "text": "he carried out the ’s righteous will,",
+      "text": "he carried out the Lord’s righteous will,",
       "verse": 21,
       "type": "poetry"
     },
@@ -427,7 +428,7 @@
       "type": "newline"
     },
     {
-      "text": "“Naphtali is abounding with the favor of the",
+      "text": "“Naphtali is abounding with the favor of the Lord",
       "verse": 23,
       "type": "poetry newline"
     },
@@ -537,7 +538,7 @@
       "type": "poetry"
     },
     {
-      "text": "a people saved by the ?",
+      "text": "a people saved by the Lord?",
       "verse": 29,
       "type": "poetry"
     },

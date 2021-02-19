@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 24,
+  "verses": 10,
   "content": [
     {
       "text": "Two Baskets of Figs",
       "type": "heading"
     },
     {
-      "text": "After Jehoiachin son of Jehoiakim king of Judah and the officials, the skilled workers and the artisans of Judah were carried into exile from Jerusalem to Babylon by Nebuchadnezzar king of Babylon, the  showed me two baskets of figs placed in front of the temple of the .",
+      "text": "After Jehoiachin son of Jehoiakim king of Judah and the officials, the skilled workers and the artisans of Judah were carried into exile from Jerusalem to Babylon by Nebuchadnezzar king of Babylon, the Lord showed me two baskets of figs placed in front of the temple of the Lord.",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "Then the  asked me, “What do you see, Jeremiah?”",
+      "text": "Then the Lord asked me, “What do you see, Jeremiah?”",
       "verse": 3,
       "type": "newline"
     },
@@ -27,12 +28,12 @@
       "type": "newline"
     },
     {
-      "text": "Then the word of the  came to me:",
+      "text": "Then the word of the Lord came to me:",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "“This is what the , the God of Israel, says: ‘Like these good figs, I regard as good the exiles from Judah, whom I sent away from this place to the land of the Babylonians.",
+      "text": "“This is what the Lord, the God of Israel, says: ‘Like these good figs, I regard as good the exiles from Judah, whom I sent away from this place to the land of the Babylonians.",
       "verse": 5
     },
     {
@@ -40,11 +41,11 @@
       "verse": 6
     },
     {
-      "text": "I will give them a heart to know me, that I am the . They will be my people, and I will be their God, for they will return to me with all their heart.",
+      "text": "I will give them a heart to know me, that I am the Lord. They will be my people, and I will be their God, for they will return to me with all their heart.",
       "verse": 7
     },
     {
-      "text": "“‘But like the bad figs, which are so bad they cannot be eaten,’ says the , ‘so will I deal with Zedekiah king of Judah, his officials and the survivors from Jerusalem, whether they remain in this land or live in Egypt.",
+      "text": "“‘But like the bad figs, which are so bad they cannot be eaten,’ says the Lord, ‘so will I deal with Zedekiah king of Judah, his officials and the survivors from Jerusalem, whether they remain in this land or live in Egypt.",
       "verse": 8,
       "type": "newline"
     },

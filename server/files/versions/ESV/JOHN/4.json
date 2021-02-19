@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 4,
+  "verses": 54,
   "content": [
     {
       "text": "Jesus and the Woman of Samaria",
@@ -33,7 +34,7 @@
       "verse": 6
     },
     {
-      "text": "A woman from Samaria came to draw water. Jesus said to her,",
+      "text": "A woman from Samaria came to draw water. Jesus said to her, “Give me a drink.”",
       "verse": 7,
       "type": "newline"
     },
@@ -46,7 +47,7 @@
       "verse": 9
     },
     {
-      "text": "Jesus answered her,",
+      "text": "Jesus answered her, “If you knew the gift of God, and who it is that is saying to you, ‘Give me a drink,’ you would have asked him, and he would have given you living water.”",
       "verse": 10
     },
     {
@@ -58,11 +59,11 @@
       "verse": 12
     },
     {
-      "text": "Jesus said to her,",
+      "text": "Jesus said to her, “Everyone who drinks of this water will be thirsty again,",
       "verse": 13
     },
     {
-      "text": "",
+      "text": "but whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life.”",
       "verse": 14
     },
     {
@@ -70,16 +71,16 @@
       "verse": 15
     },
     {
-      "text": "Jesus said to her,",
+      "text": "Jesus said to her, “Go, call your husband, and come here.”",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "The woman answered him, “I have no husband.” Jesus said to her,",
+      "text": "The woman answered him, “I have no husband.” Jesus said to her, “You are right in saying, ‘I have no husband’;",
       "verse": 17
     },
     {
-      "text": "",
+      "text": "for you have had five husbands, and the one you now have is not your husband. What you have said is true.”",
       "verse": 18
     },
     {
@@ -91,19 +92,19 @@
       "verse": 20
     },
     {
-      "text": "Jesus said to her,",
+      "text": "Jesus said to her, “Woman, believe me, the hour is coming when neither on this mountain nor in Jerusalem will you worship the Father.",
       "verse": 21
     },
     {
-      "text": "",
+      "text": "You worship what you do not know; we worship what we know, for salvation is from the Jews.",
       "verse": 22
     },
     {
-      "text": "",
+      "text": "But the hour is coming, and is now here, when the true worshipers will worship the Father in spirit and truth, for the Father is seeking such people to worship him.",
       "verse": 23
     },
     {
-      "text": "",
+      "text": "God is spirit, and those who worship him must worship in spirit and truth.”",
       "verse": 24
     },
     {
@@ -111,7 +112,7 @@
       "verse": 25
     },
     {
-      "text": "Jesus said to her,",
+      "text": "Jesus said to her, “I who speak to you am he.”",
       "verse": 26
     },
     {
@@ -137,7 +138,7 @@
       "type": "newline"
     },
     {
-      "text": "But he said to them,",
+      "text": "But he said to them, “I have food to eat that you do not know about.”",
       "verse": 32
     },
     {
@@ -145,23 +146,23 @@
       "verse": 33
     },
     {
-      "text": "Jesus said to them,",
+      "text": "Jesus said to them, “My food is to do the will of him who sent me and to accomplish his work.",
       "verse": 34
     },
     {
-      "text": "",
+      "text": "Do you not say, ‘There are yet four months, then comes the harvest’? Look, I tell you, lift up your eyes, and see that the fields are white for harvest.",
       "verse": 35
     },
     {
-      "text": "",
+      "text": "Already the one who reaps is receiving wages and gathering fruit for eternal life, so that sower and reaper may rejoice together.",
       "verse": 36
     },
     {
-      "text": "",
+      "text": "For here the saying holds true, ‘One sows and another reaps.’",
       "verse": 37
     },
     {
-      "text": "",
+      "text": "I sent you to reap that for which you did not labor. Others have labored, and you have entered into their labor.”",
       "verse": 38
     },
     {
@@ -208,7 +209,7 @@
       "verse": 47
     },
     {
-      "text": "So Jesus said to him,",
+      "text": "So Jesus said to him, “Unless you see signs and wonders you will not believe.”",
       "verse": 48
     },
     {
@@ -216,7 +217,7 @@
       "verse": 49
     },
     {
-      "text": "Jesus said to him,  The man believed the word that Jesus spoke to him and went on his way.",
+      "text": "Jesus said to him, “Go; your son will live.” The man believed the word that Jesus spoke to him and went on his way.",
       "verse": 50
     },
     {
@@ -228,7 +229,7 @@
       "verse": 52
     },
     {
-      "text": "The father knew that was the hour when Jesus had said to him,  And he himself believed, and all his household.",
+      "text": "The father knew that was the hour when Jesus had said to him, “Your son will live.” And he himself believed, and all his household.",
       "verse": 53
     },
     {

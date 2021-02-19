@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 48,
+  "verses": 14,
   "content": [
     {
-      "text": "Great is the , and greatly to be praised in the city of our God, in the mountain of his holiness.",
+      "text": "Great is the Lord, and greatly to be praised in the city of our God, in the mountain of his holiness.",
       "verse": 1
     },
     {
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "As we have heard, so have we seen in the city of the  of hosts, in the city of our God: God will establish it for ever. Selah.",
+      "text": "As we have heard, so have we seen in the city of the Lord of hosts, in the city of our God: God will establish it for ever. Selah.",
       "verse": 8,
       "type": "newline"
     },

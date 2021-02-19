@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 9,
+  "verses": 29,
   "content": [
     {
       "text": "God’s Covenant With Noah",
@@ -157,7 +158,7 @@
       "type": "newline"
     },
     {
-      "text": "“Praise be to the , the God of Shem!",
+      "text": "“Praise be to the Lord, the God of Shem!",
       "verse": 26,
       "type": "poetry newline"
     },

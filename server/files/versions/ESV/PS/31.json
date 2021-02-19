@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 31,
+  "verses": 24,
   "content": [
     {
       "text": "Into Your Hand I Commit My Spirit",
@@ -9,11 +10,10 @@
     },
     {
       "text": "To the choirmaster. A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "In you, O , do I take refuge;",
+      "text": "In you, O Lord, do I take refuge;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -73,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "you have redeemed me, O , faithful God.",
+      "text": "you have redeemed me, O Lord, faithful God.",
       "verse": 5,
       "type": "poetry"
     },
@@ -83,7 +83,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "but I trust in the .",
+      "text": "but I trust in the Lord.",
       "verse": 6,
       "type": "poetry"
     },
@@ -113,7 +113,7 @@
       "type": "poetry"
     },
     {
-      "text": "Be gracious to me, O , for I am in distress;",
+      "text": "Be gracious to me, O Lord, for I am in distress;",
       "verse": 9,
       "type": "poetry newline"
     },
@@ -198,7 +198,7 @@
       "type": "poetry"
     },
     {
-      "text": "But I trust in you, O ;",
+      "text": "But I trust in you, O Lord;",
       "verse": 14,
       "type": "poetry newline"
     },
@@ -228,7 +228,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , let me not be put to shame,",
+      "text": "O Lord, let me not be put to shame,",
       "verse": 17,
       "type": "poetry"
     },
@@ -303,7 +303,7 @@
       "type": "poetry"
     },
     {
-      "text": "Blessed be the ,",
+      "text": "Blessed be the Lord,",
       "verse": 21,
       "type": "poetry newline"
     },
@@ -338,12 +338,12 @@
       "type": "poetry"
     },
     {
-      "text": "Love the , all you his saints!",
+      "text": "Love the Lord, all you his saints!",
       "verse": 23,
       "type": "poetry newline"
     },
     {
-      "text": "The  preserves the faithful",
+      "text": "The Lord preserves the faithful",
       "verse": 23,
       "type": "poetry"
     },
@@ -358,7 +358,7 @@
       "type": "poetry"
     },
     {
-      "text": "all you who wait for the !",
+      "text": "all you who wait for the Lord!",
       "verse": 24,
       "type": "poetry"
     }

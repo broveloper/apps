@@ -2,13 +2,14 @@
   "book_id": "REV",
   "book_name": "Revelation",
   "chapter": 4,
+  "verses": 11,
   "content": [
     {
       "text": "The Throne in Heaven",
       "type": "heading"
     },
     {
-      "text": "After this I looked, and behold, a door standing open in heaven! And the first voice, which I had heard speaking to me like a trumpet, said,",
+      "text": "After this I looked, and behold, a door standing open in heaven! And the first voice, which I had heard speaking to me like a trumpet, said, “Come up here, and I will show you what must take place after this.”",
       "verse": 1,
       "type": "newline"
     },

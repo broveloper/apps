@@ -2,6 +2,7 @@
   "book_id": "NEH",
   "book_name": "Nehemiah",
   "chapter": 9,
+  "verses": 38,
   "content": [
     {
       "text": "The Israelites Confess Their Sins",
@@ -17,15 +18,15 @@
       "verse": 2
     },
     {
-      "text": "They stood where they were and read from the Book of the Law of the  their God for a quarter of the day, and spent another quarter in confession and in worshiping the  their God.",
+      "text": "They stood where they were and read from the Book of the Law of the Lord their God for a quarter of the day, and spent another quarter in confession and in worshiping the Lord their God.",
       "verse": 3
     },
     {
-      "text": "Standing on the stairs of the Levites were Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani and Kenani. They cried out with loud voices to the  their God.",
+      "text": "Standing on the stairs of the Levites were Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani and Kenani. They cried out with loud voices to the Lord their God.",
       "verse": 4
     },
     {
-      "text": "And the Levites—Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah and Pethahiah—said: “Stand up and praise the  your God, who is from everlasting to everlasting.”",
+      "text": "And the Levites—Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah and Pethahiah—said: “Stand up and praise the Lord your God, who is from everlasting to everlasting.”",
       "verse": 5
     },
     {
@@ -34,11 +35,11 @@
       "type": "newline"
     },
     {
-      "text": "You alone are the . You made the heavens, even the highest heavens, and all their starry host, the earth and all that is on it, the seas and all that is in them. You give life to everything, and the multitudes of heaven worship you.",
+      "text": "You alone are the Lord. You made the heavens, even the highest heavens, and all their starry host, the earth and all that is on it, the seas and all that is in them. You give life to everything, and the multitudes of heaven worship you.",
       "verse": 6
     },
     {
-      "text": "“You are the  God, who chose Abram and brought him out of Ur of the Chaldeans and named him Abraham.",
+      "text": "“You are the Lord God, who chose Abram and brought him out of Ur of the Chaldeans and named him Abraham.",
       "verse": 7
     },
     {

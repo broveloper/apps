@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 102,
+  "verses": 28,
   "content": [
     {
-      "text": "Hear my prayer, O , and let my cry come unto thee.",
+      "text": "Hear my prayer, O Lord, and let my cry come unto thee.",
       "verse": 1
     },
     {
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "But thou, O , shall endure for ever; and thy remembrance unto all generations.",
+      "text": "But thou, O Lord, shall endure for ever; and thy remembrance unto all generations.",
       "verse": 12,
       "type": "newline"
     },
@@ -73,12 +74,12 @@
       "type": "newline"
     },
     {
-      "text": "So the heathen shall fear the name of the , and all the kings of the earth thy glory.",
+      "text": "So the heathen shall fear the name of the Lord, and all the kings of the earth thy glory.",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "When the  shall build up Zion, he shall appear in his glory.",
+      "text": "When the Lord shall build up Zion, he shall appear in his glory.",
       "verse": 16,
       "type": "newline"
     },
@@ -88,12 +89,12 @@
       "type": "newline"
     },
     {
-      "text": "This shall be written for the generation to come: and the people which shall be created shall praise the .",
+      "text": "This shall be written for the generation to come: and the people which shall be created shall praise the Lord.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "For he hath looked down from the height of his sanctuary; from heaven did the  behold the earth;",
+      "text": "For he hath looked down from the height of his sanctuary; from heaven did the Lord behold the earth;",
       "verse": 19,
       "type": "newline"
     },
@@ -103,12 +104,12 @@
       "type": "newline"
     },
     {
-      "text": "To declare the name of the  in Zion, and his praise in Jerusalem;",
+      "text": "To declare the name of the Lord in Zion, and his praise in Jerusalem;",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "When the people are gathered together, and the kingdoms, to serve the .",
+      "text": "When the people are gathered together, and the kingdoms, to serve the Lord.",
       "verse": 22,
       "type": "newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 17,
+  "verses": 14,
   "content": [
     {
       "text": "An Oracle Concerning Damascus",
@@ -58,7 +59,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the  of hosts.",
+      "text": "declares the Lord of hosts.",
       "verse": 3,
       "type": "poetry"
     },
@@ -123,7 +124,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the  God of Israel.",
+      "text": "declares the Lord God of Israel.",
       "verse": 6,
       "type": "poetry"
     },

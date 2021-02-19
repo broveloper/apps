@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 44,
+  "verses": 28,
   "content": [
     {
       "text": "Israel the Chosen",
@@ -18,7 +19,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the  says—",
+      "text": "This is what the Lord says—",
       "verse": 2,
       "type": "poetry"
     },
@@ -73,7 +74,7 @@
       "type": "poetry"
     },
     {
-      "text": "Some will say, ‘I belong to the ’;",
+      "text": "Some will say, ‘I belong to the Lord’;",
       "verse": 5,
       "type": "poetry"
     },
@@ -83,7 +84,7 @@
       "type": "poetry"
     },
     {
-      "text": "still others will write on their hand, ‘The ’s,’",
+      "text": "still others will write on their hand, ‘The Lord’s,’",
       "verse": 5,
       "type": "poetry"
     },
@@ -93,16 +94,16 @@
       "type": "poetry"
     },
     {
-      "text": "The , Not Idols",
+      "text": "The Lord, Not Idols",
       "type": "heading"
     },
     {
-      "text": "“This is what the  says—",
+      "text": "“This is what the Lord says—",
       "verse": 6,
       "type": "poetry newline"
     },
     {
-      "text": "Israel’s King and Redeemer, the  Almighty:",
+      "text": "Israel’s King and Redeemer, the Lord Almighty:",
       "verse": 6,
       "type": "poetry"
     },
@@ -472,7 +473,7 @@
       "type": "poetry"
     },
     {
-      "text": "Sing for joy, you heavens, for the  has done this;",
+      "text": "Sing for joy, you heavens, for the Lord has done this;",
       "verse": 23,
       "type": "poetry newline"
     },
@@ -492,7 +493,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  has redeemed Jacob,",
+      "text": "for the Lord has redeemed Jacob,",
       "verse": 23,
       "type": "poetry"
     },
@@ -506,7 +507,7 @@
       "type": "heading"
     },
     {
-      "text": "“This is what the  says—",
+      "text": "“This is what the Lord says—",
       "verse": 24,
       "type": "poetry newline"
     },
@@ -516,7 +517,7 @@
       "type": "poetry"
     },
     {
-      "text": "I am the ,",
+      "text": "I am the Lord,",
       "verse": 24,
       "type": "poetry newline"
     },

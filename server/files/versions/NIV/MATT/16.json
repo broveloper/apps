@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 16,
+  "verses": 28,
   "content": [
     {
       "text": "The Demand for a Sign",
@@ -13,16 +14,16 @@
       "type": "newline"
     },
     {
-      "text": "He replied,",
+      "text": "He replied, “When evening comes, you say, ‘It will be fair weather, for the sky is red,’",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "and in the morning, ‘Today it will be stormy, for the sky is red and overcast.’ You know how to interpret the appearance of the sky, but you cannot interpret the signs of the times.",
       "verse": 3
     },
     {
-      "text": "Jesus then left them and went away.",
+      "text": "A wicked and adulterous generation looks for a sign, but none will be given it except the sign of Jonah.” Jesus then left them and went away.",
       "verse": 4
     },
     {
@@ -35,7 +36,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said to them.",
+      "text": "“Be careful,” Jesus said to them. “Be on your guard against the yeast of the Pharisees and Sadducees.”",
       "verse": 6
     },
     {
@@ -44,20 +45,20 @@
       "type": "newline"
     },
     {
-      "text": "Aware of their discussion, Jesus asked,",
+      "text": "Aware of their discussion, Jesus asked, “You of little faith, why are you talking among yourselves about having no bread?",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Do you still not understand? Don’t you remember the five loaves for the five thousand, and how many basketfuls you gathered?",
       "verse": 9
     },
     {
-      "text": "",
+      "text": "Or the seven loaves for the four thousand, and how many basketfuls you gathered?",
       "verse": 10
     },
     {
-      "text": "",
+      "text": "How is it you don’t understand that I was not talking to you about bread? But be on your guard against the yeast of the Pharisees and Sadducees.”",
       "verse": 11
     },
     {
@@ -69,7 +70,7 @@
       "type": "heading"
     },
     {
-      "text": "When Jesus came to the region of Caesarea Philippi, he asked his disciples,",
+      "text": "When Jesus came to the region of Caesarea Philippi, he asked his disciples, “Who do people say the Son of Man is?”",
       "verse": 13,
       "type": "newline"
     },
@@ -79,7 +80,7 @@
       "type": "newline"
     },
     {
-      "text": "he asked.",
+      "text": "“But what about you?” he asked. “Who do you say I am?”",
       "verse": 15,
       "type": "newline"
     },
@@ -89,16 +90,16 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “Blessed are you, Simon son of Jonah, for this was not revealed to you by flesh and blood, but by my Father in heaven.",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "And I tell you that you are Peter, and on this rock I will build my church, and the gates of Hades will not overcome it.",
       "verse": 18
     },
     {
-      "text": "",
+      "text": "I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.”",
       "verse": 19
     },
     {
@@ -120,29 +121,29 @@
       "type": "newline"
     },
     {
-      "text": "Jesus turned and said to Peter,",
+      "text": "Jesus turned and said to Peter, “Get behind me, Satan! You are a stumbling block to me; you do not have in mind the concerns of God, but merely human concerns.”",
       "verse": 23,
       "type": "newline"
     },
     {
-      "text": "Then Jesus said to his disciples,",
+      "text": "Then Jesus said to his disciples, “Whoever wants to be my disciple must deny themselves and take up their cross and follow me.",
       "verse": 24,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "For whoever wants to save their life will lose it, but whoever loses their life for me will find it.",
       "verse": 25
     },
     {
-      "text": "",
+      "text": "What good will it be for someone to gain the whole world, yet forfeit their soul? Or what can anyone give in exchange for their soul?",
       "verse": 26
     },
     {
-      "text": "",
+      "text": "For the Son of Man is going to come in his Father’s glory with his angels, and then he will reward each person according to what they have done.",
       "verse": 27
     },
     {
-      "text": "",
+      "text": "“Truly I tell you, some who are standing here will not taste death before they see the Son of Man coming in his kingdom.”",
       "verse": 28,
       "type": "newline"
     }

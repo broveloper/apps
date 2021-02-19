@@ -2,6 +2,7 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 11,
+  "verses": 12,
   "content": [
     {
       "text": "When Israel was a child, then I loved him, and called my son out of Egypt.",
@@ -48,12 +49,12 @@
       "type": "newline"
     },
     {
-      "text": "They shall walk after the : he shall roar like a lion: when he shall roar, then the children shall tremble from the west.",
+      "text": "They shall walk after the Lord: he shall roar like a lion: when he shall roar, then the children shall tremble from the west.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the .",
+      "text": "They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the Lord.",
       "verse": 11,
       "type": "newline"
     },

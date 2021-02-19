@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 58,
+  "verses": 11,
   "content": [
     {
       "text": "Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?",
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "Break their teeth, O God, in their mouth: break out the great teeth of the young lions, O .",
+      "text": "Break their teeth, O God, in their mouth: break out the great teeth of the young lions, O Lord.",
       "verse": 6,
       "type": "newline"
     },

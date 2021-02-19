@@ -2,13 +2,14 @@
   "book_id": "JOSH",
   "book_name": "Joshua",
   "chapter": 20,
+  "verses": 9,
   "content": [
     {
       "text": "The Cities of Refuge",
       "type": "heading"
     },
     {
-      "text": "Then the  said to Joshua,",
+      "text": "Then the Lord said to Joshua,",
       "verse": 1,
       "type": "newline"
     },

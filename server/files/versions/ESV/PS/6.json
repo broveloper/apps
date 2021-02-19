@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 6,
+  "verses": 10,
   "content": [
     {
-      "text": "O , Deliver My Life",
+      "text": "O Lord, Deliver My Life",
       "type": "heading"
     },
     {
       "text": "To the choirmaster: with stringed instruments; according to The Sheminith. A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "O , rebuke me not in your anger,",
+      "text": "O Lord, rebuke me not in your anger,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,12 +23,12 @@
       "type": "poetry"
     },
     {
-      "text": "Be gracious to me, O , for I am languishing;",
+      "text": "Be gracious to me, O Lord, for I am languishing;",
       "verse": 2,
       "type": "poetry"
     },
     {
-      "text": "heal me, O , for my bones are troubled.",
+      "text": "heal me, O Lord, for my bones are troubled.",
       "verse": 2,
       "type": "poetry"
     },
@@ -38,12 +38,12 @@
       "type": "poetry"
     },
     {
-      "text": "But you, O —how long?",
+      "text": "But you, O Lord—how long?",
       "verse": 3,
       "type": "poetry"
     },
     {
-      "text": "Turn, O , deliver my life;",
+      "text": "Turn, O Lord, deliver my life;",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -93,17 +93,17 @@
       "type": "poetry newline"
     },
     {
-      "text": "for the  has heard the sound of my weeping.",
+      "text": "for the Lord has heard the sound of my weeping.",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "The  has heard my plea;",
+      "text": "The Lord has heard my plea;",
       "verse": 9,
       "type": "poetry"
     },
     {
-      "text": "the  accepts my prayer.",
+      "text": "the Lord accepts my prayer.",
       "verse": 9,
       "type": "poetry"
     },

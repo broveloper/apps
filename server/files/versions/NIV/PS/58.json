@@ -2,15 +2,15 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 58,
+  "verses": 11,
   "content": [
     {
       "text": "Psalm 58",
       "type": "heading"
     },
     {
-      "text": "For the director of music. To the tune of “Do Not Destroy.” Of David. A",
-      "verse": 1,
-      "type": "newline"
+      "text": "For the director of music. To the tune of “Do Not Destroy.” Of David. A miktam.",
+      "type": "title"
     },
     {
       "text": "Do you rulers indeed speak justly?",
@@ -68,7 +68,7 @@
       "type": "poetry newline"
     },
     {
-      "text": ", tear out the fangs of those lions!",
+      "text": "Lord, tear out the fangs of those lions!",
       "verse": 6,
       "type": "poetry"
     },

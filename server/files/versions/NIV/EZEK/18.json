@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 18,
+  "verses": 32,
   "content": [
     {
       "text": "The One Who Sins Will Die",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -27,7 +28,7 @@
       "type": "poetry"
     },
     {
-      "text": "“As surely as I live, declares the Sovereign , you will no longer quote this proverb in Israel.",
+      "text": "“As surely as I live, declares the Sovereign Lord, you will no longer quote this proverb in Israel.",
       "verse": 3,
       "type": "newline"
     },
@@ -131,7 +132,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the Sovereign .",
+      "text": "declares the Sovereign Lord.",
       "verse": 9,
       "type": "poetry"
     },
@@ -277,7 +278,7 @@
       "verse": 22
     },
     {
-      "text": "Do I take any pleasure in the death of the wicked? declares the Sovereign . Rather, am I not pleased when they turn from their ways and live?",
+      "text": "Do I take any pleasure in the death of the wicked? declares the Sovereign Lord. Rather, am I not pleased when they turn from their ways and live?",
       "verse": 23
     },
     {
@@ -307,7 +308,7 @@
       "verse": 29
     },
     {
-      "text": "“Therefore, you Israelites, I will judge each of you according to your own ways, declares the Sovereign . Repent! Turn away from all your offenses; then sin will not be your downfall.",
+      "text": "“Therefore, you Israelites, I will judge each of you according to your own ways, declares the Sovereign Lord. Repent! Turn away from all your offenses; then sin will not be your downfall.",
       "verse": 30,
       "type": "newline"
     },
@@ -316,7 +317,7 @@
       "verse": 31
     },
     {
-      "text": "For I take no pleasure in the death of anyone, declares the Sovereign . Repent and live!",
+      "text": "For I take no pleasure in the death of anyone, declares the Sovereign Lord. Repent and live!",
       "verse": 32
     }
   ]

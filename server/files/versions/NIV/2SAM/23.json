@@ -2,6 +2,7 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 23,
+  "verses": 39,
   "content": [
     {
       "text": "David’s Last Words",
@@ -33,7 +34,7 @@
       "type": "poetry"
     },
     {
-      "text": "“The Spirit of the  spoke through me;",
+      "text": "“The Spirit of the Lord spoke through me;",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -152,7 +153,7 @@
       "type": "newline"
     },
     {
-      "text": "but Eleazar stood his ground and struck down the Philistines till his hand grew tired and froze to the sword. The  brought about a great victory that day. The troops returned to Eleazar, but only to strip the dead.",
+      "text": "but Eleazar stood his ground and struck down the Philistines till his hand grew tired and froze to the sword. The Lord brought about a great victory that day. The troops returned to Eleazar, but only to strip the dead.",
       "verse": 10
     },
     {
@@ -161,7 +162,7 @@
       "type": "newline"
     },
     {
-      "text": "But Shammah took his stand in the middle of the field. He defended it and struck the Philistines down, and the  brought about a great victory.",
+      "text": "But Shammah took his stand in the middle of the field. He defended it and struck the Philistines down, and the Lord brought about a great victory.",
       "verse": 12
     },
     {
@@ -178,11 +179,11 @@
       "verse": 15
     },
     {
-      "text": "So the three mighty warriors broke through the Philistine lines, drew water from the well near the gate of Bethlehem and carried it back to David. But he refused to drink it; instead, he poured it out before the .",
+      "text": "So the three mighty warriors broke through the Philistine lines, drew water from the well near the gate of Bethlehem and carried it back to David. But he refused to drink it; instead, he poured it out before the Lord.",
       "verse": 16
     },
     {
-      "text": "“Far be it from me, , to do this!” he said. “Is it not the blood of men who went at the risk of their lives?” And David would not drink it.",
+      "text": "“Far be it from me, Lord, to do this!” he said. “Is it not the blood of men who went at the risk of their lives?” And David would not drink it.",
       "verse": 17
     },
     {

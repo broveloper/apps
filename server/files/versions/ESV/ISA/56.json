@@ -2,13 +2,14 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 56,
+  "verses": 12,
   "content": [
     {
       "text": "Salvation for Foreigners",
       "type": "heading"
     },
     {
-      "text": "Thus says the :",
+      "text": "Thus says the Lord:",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -48,12 +49,12 @@
       "type": "poetry"
     },
     {
-      "text": "Let not the foreigner who has joined himself to the  say,",
+      "text": "Let not the foreigner who has joined himself to the Lord say,",
       "verse": 3,
       "type": "poetry newline"
     },
     {
-      "text": "“The  will surely separate me from his people”;",
+      "text": "“The Lord will surely separate me from his people”;",
       "verse": 3,
       "type": "poetry"
     },
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "For thus says the :",
+      "text": "For thus says the Lord:",
       "verse": 4,
       "type": "poetry"
     },
@@ -113,12 +114,12 @@
       "type": "poetry"
     },
     {
-      "text": "“And the foreigners who join themselves to the ,",
+      "text": "“And the foreigners who join themselves to the Lord,",
       "verse": 6,
       "type": "poetry newline"
     },
     {
-      "text": "to minister to him, to love the name of the ,",
+      "text": "to minister to him, to love the name of the Lord,",
       "verse": 6,
       "type": "poetry"
     },
@@ -168,7 +169,7 @@
       "type": "poetry"
     },
     {
-      "text": "The Lord ,",
+      "text": "The Lord God,",
       "verse": 8,
       "type": "poetry"
     },

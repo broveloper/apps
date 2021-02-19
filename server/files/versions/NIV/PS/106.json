@@ -2,18 +2,19 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 106,
+  "verses": 48,
   "content": [
     {
       "text": "Psalm 106",
       "type": "heading"
     },
     {
-      "text": "Praise the .",
+      "text": "Praise the Lord.",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "Give thanks to the , for he is good;",
+      "text": "Give thanks to the Lord, for he is good;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,7 +24,7 @@
       "type": "poetry"
     },
     {
-      "text": "Who can proclaim the mighty acts of the",
+      "text": "Who can proclaim the mighty acts of the Lord",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -43,7 +44,7 @@
       "type": "poetry"
     },
     {
-      "text": "Remember me, , when you show favor to your people,",
+      "text": "Remember me, Lord, when you show favor to your people,",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -183,7 +184,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "and of Aaron, who was consecrated to the .",
+      "text": "and of Aaron, who was consecrated to the Lord.",
       "verse": 16,
       "type": "poetry"
     },
@@ -283,7 +284,7 @@
       "type": "poetry"
     },
     {
-      "text": "and did not obey the .",
+      "text": "and did not obey the Lord.",
       "verse": 25,
       "type": "poetry"
     },
@@ -318,7 +319,7 @@
       "type": "poetry"
     },
     {
-      "text": "they aroused the ’s anger by their wicked deeds,",
+      "text": "they aroused the Lord’s anger by their wicked deeds,",
       "verse": 29,
       "type": "poetry"
     },
@@ -348,7 +349,7 @@
       "type": "poetry"
     },
     {
-      "text": "By the waters of Meribah they angered the ,",
+      "text": "By the waters of Meribah they angered the Lord,",
       "verse": 32,
       "type": "poetry"
     },
@@ -373,7 +374,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "as the  had commanded them,",
+      "text": "as the Lord had commanded them,",
       "verse": 34,
       "type": "poetry"
     },
@@ -438,7 +439,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore the  was angry with his people",
+      "text": "Therefore the Lord was angry with his people",
       "verse": 40,
       "type": "poetry newline"
     },
@@ -513,7 +514,7 @@
       "type": "poetry"
     },
     {
-      "text": "Save us,  our God,",
+      "text": "Save us, Lord our God,",
       "verse": 47,
       "type": "poetry newline"
     },
@@ -533,7 +534,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise be to the , the God of Israel,",
+      "text": "Praise be to the Lord, the God of Israel,",
       "verse": 48,
       "type": "poetry newline"
     },
@@ -548,7 +549,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "Praise the .",
+      "text": "Praise the Lord.",
       "verse": 48,
       "type": "poetry newline"
     }

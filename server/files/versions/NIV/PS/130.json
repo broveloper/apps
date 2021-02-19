@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 130,
+  "verses": 8,
   "content": [
     {
       "text": "Psalm 130",
@@ -9,16 +10,15 @@
     },
     {
       "text": "A song of ascents.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Out of the depths I cry to you, ;",
+      "text": "Out of the depths I cry to you, Lord;",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "Lord, hear my voice.",
+      "text": "    Lord, hear my voice.",
       "verse": 2,
       "type": "poetry"
     },
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "If you, , kept a record of sins,",
+      "text": "If you, Lord, kept a record of sins,",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -53,7 +53,7 @@
       "type": "poetry"
     },
     {
-      "text": "I wait for the , my whole being waits,",
+      "text": "I wait for the Lord, my whole being waits,",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -78,12 +78,12 @@
       "type": "poetry"
     },
     {
-      "text": "Israel, put your hope in the ,",
+      "text": "Israel, put your hope in the Lord,",
       "verse": 7,
       "type": "poetry newline"
     },
     {
-      "text": "for with the  is unfailing love",
+      "text": "for with the Lord is unfailing love",
       "verse": 7,
       "type": "poetry"
     },

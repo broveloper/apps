@@ -2,6 +2,7 @@
   "book_id": "LAM",
   "book_name": "Lamentations",
   "chapter": 4,
+  "verses": 22,
   "content": [
     {
       "text": "How is the gold become dim! how is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street.",
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "The  hath accomplished his fury; he hath poured out his fierce anger, and hath kindled a fire in Zion, and it hath devoured the foundations thereof.",
+      "text": "The Lord hath accomplished his fury; he hath poured out his fierce anger, and hath kindled a fire in Zion, and it hath devoured the foundations thereof.",
       "verse": 11,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "The anger of the  hath divided them; he will no more regard them: they respected not the persons of the priests, they favoured not the elders.",
+      "text": "The anger of the Lord hath divided them; he will no more regard them: they respected not the persons of the priests, they favoured not the elders.",
       "verse": 16,
       "type": "newline"
     },
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "The breath of our nostrils, the anointed of the , was taken in their pits, of whom we said, Under his shadow we shall live among the heathen.",
+      "text": "The breath of our nostrils, the anointed of the Lord, was taken in their pits, of whom we said, Under his shadow we shall live among the heathen.",
       "verse": 20,
       "type": "newline"
     },

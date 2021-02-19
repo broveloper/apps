@@ -2,6 +2,7 @@
   "book_id": "1CHR",
   "book_name": "1 Chronicles",
   "chapter": 12,
+  "verses": 40,
   "content": [
     {
       "text": "The Mighty Men Join David",
@@ -130,7 +131,7 @@
       "verse": 22
     },
     {
-      "text": "These are the numbers of the divisions of the armed troops who came to David in Hebron to turn the kingdom of Saul over to him, according to the word of the .",
+      "text": "These are the numbers of the divisions of the armed troops who came to David in Hebron to turn the kingdom of Saul over to him, according to the word of the Lord.",
       "verse": 23,
       "type": "newline"
     },

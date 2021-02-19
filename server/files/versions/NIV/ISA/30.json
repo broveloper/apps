@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 30,
+  "verses": 33,
   "content": [
     {
       "text": "Woe to the Obstinate Nation",
@@ -13,7 +14,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "declares the ,",
+      "text": "declares the Lord,",
       "verse": 1,
       "type": "poetry"
     },
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "to Egypt, whose help is utterly useless.",
+      "text": "    to Egypt, whose help is utterly useless.",
       "verse": 7,
       "type": "poetry"
     },
@@ -168,7 +169,7 @@
       "type": "poetry"
     },
     {
-      "text": "children unwilling to listen to the ’s instruction.",
+      "text": "children unwilling to listen to the Lord’s instruction.",
       "verse": 9,
       "type": "poetry"
     },
@@ -283,7 +284,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the Sovereign , the Holy One of Israel, says:",
+      "text": "This is what the Sovereign Lord, the Holy One of Israel, says:",
       "verse": 15,
       "type": "newline"
     },
@@ -358,7 +359,7 @@
       "type": "poetry"
     },
     {
-      "text": "Yet the  longs to be gracious to you;",
+      "text": "Yet the Lord longs to be gracious to you;",
       "verse": 18,
       "type": "poetry newline"
     },
@@ -368,7 +369,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the  is a God of justice.",
+      "text": "For the Lord is a God of justice.",
       "verse": 18,
       "type": "poetry"
     },
@@ -408,11 +409,11 @@
       "verse": 25
     },
     {
-      "text": "The moon will shine like the sun, and the sunlight will be seven times brighter, like the light of seven full days, when the  binds up the bruises of his people and heals the wounds he inflicted.",
+      "text": "The moon will shine like the sun, and the sunlight will be seven times brighter, like the light of seven full days, when the Lord binds up the bruises of his people and heals the wounds he inflicted.",
       "verse": 26
     },
     {
-      "text": "See, the Name of the  comes from afar,",
+      "text": "See, the Name of the Lord comes from afar,",
       "verse": 27,
       "type": "poetry newline"
     },
@@ -477,7 +478,7 @@
       "type": "poetry"
     },
     {
-      "text": "to the mountain of the ,",
+      "text": "to the mountain of the Lord,",
       "verse": 29,
       "type": "poetry"
     },
@@ -487,7 +488,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  will cause people to hear his majestic voice",
+      "text": "The Lord will cause people to hear his majestic voice",
       "verse": 30,
       "type": "poetry"
     },
@@ -507,7 +508,7 @@
       "type": "poetry"
     },
     {
-      "text": "The voice of the  will shatter Assyria;",
+      "text": "The voice of the Lord will shatter Assyria;",
       "verse": 31,
       "type": "poetry"
     },
@@ -517,7 +518,7 @@
       "type": "poetry"
     },
     {
-      "text": "Every stroke the  lays on them",
+      "text": "Every stroke the Lord lays on them",
       "verse": 32,
       "type": "poetry"
     },
@@ -557,7 +558,7 @@
       "type": "poetry"
     },
     {
-      "text": "the breath of the ,",
+      "text": "the breath of the Lord,",
       "verse": 33,
       "type": "poetry"
     },

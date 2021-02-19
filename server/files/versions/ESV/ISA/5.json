@@ -2,9 +2,10 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 5,
+  "verses": 30,
   "content": [
     {
-      "text": "The Vineyard of the  Destroyed",
+      "text": "The Vineyard of the Lord Destroyed",
       "type": "heading"
     },
     {
@@ -148,7 +149,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the vineyard of the  of hosts",
+      "text": "For the vineyard of the Lord of hosts",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -217,7 +218,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  of hosts has sworn in my hearing:",
+      "text": "The Lord of hosts has sworn in my hearing:",
       "verse": 9,
       "type": "poetry"
     },
@@ -272,7 +273,7 @@
       "type": "poetry"
     },
     {
-      "text": "but they do not regard the deeds of the ,",
+      "text": "but they do not regard the deeds of the Lord,",
       "verse": 12,
       "type": "poetry"
     },
@@ -332,7 +333,7 @@
       "type": "poetry"
     },
     {
-      "text": "But the  of hosts is exalted in justice,",
+      "text": "But the Lord of hosts is exalted in justice,",
       "verse": 16,
       "type": "poetry"
     },
@@ -467,7 +468,7 @@
       "type": "poetry"
     },
     {
-      "text": "for they have rejected the law of the  of hosts,",
+      "text": "for they have rejected the law of the Lord of hosts,",
       "verse": 24,
       "type": "poetry"
     },
@@ -477,7 +478,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore the anger of the  was kindled against his people,",
+      "text": "Therefore the anger of the Lord was kindled against his people,",
       "verse": 25,
       "type": "poetry"
     },

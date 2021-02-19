@@ -2,6 +2,7 @@
   "book_id": "MARK",
   "book_name": "Mark",
   "chapter": 16,
+  "verses": 20,
   "content": [
     {
       "text": "Jesus Has Risen",
@@ -49,56 +50,56 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "When Jesus rose early on the first day of the week, he appeared first to Mary Magdalene, out of whom he had driven seven demons.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "She went and told those who had been with him and who were mourning and weeping.",
       "verse": 10
     },
     {
-      "text": "",
+      "text": "When they heard that Jesus was alive and that she had seen him, they did not believe it.",
       "verse": 11
     },
     {
-      "text": "",
+      "text": "Afterward Jesus appeared in a different form to two of them while they were walking in the country.",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "These returned and reported it to the rest; but they did not believe them either.",
       "verse": 13
     },
     {
-      "text": "",
+      "text": "Later Jesus appeared to the Eleven as they were eating; he rebuked them for their lack of faith and their stubborn refusal to believe those who had seen him after he had risen.",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "He said to them, “Go into all the world and preach the gospel to all creation.",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.",
       "verse": 16
     },
     {
-      "text": "",
+      "text": "And these signs will accompany those who believe: In my name they will drive out demons; they will speak in new tongues;",
       "verse": 17
     },
     {
-      "text": "",
+      "text": "they will pick up snakes with their hands; and when they drink deadly poison, it will not hurt them at all; they will place their hands on sick people, and they will get well.”",
       "verse": 18
     },
     {
-      "text": "",
+      "text": "After the Lord Jesus had spoken to them, he was taken up into heaven and he sat at the right hand of God.",
       "verse": 19,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Then the disciples went out and preached everywhere, and the Lord worked with them and confirmed his word by the signs that accompanied it.",
       "verse": 20
     }
   ]

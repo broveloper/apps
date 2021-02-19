@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 28,
+  "verses": 29,
   "content": [
     {
       "text": "Woe to the Leaders of Ephraim and Judah",
@@ -83,7 +84,7 @@
       "type": "poetry"
     },
     {
-      "text": "In that day the  Almighty",
+      "text": "In that day the Lord Almighty",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -238,7 +239,7 @@
       "type": "poetry"
     },
     {
-      "text": "So then, the word of the  to them will become:",
+      "text": "So then, the word of the Lord to them will become:",
       "verse": 13,
       "type": "poetry"
     },
@@ -268,7 +269,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore hear the word of the , you scoffers",
+      "text": "Therefore hear the word of the Lord, you scoffers",
       "verse": 14,
       "type": "poetry newline"
     },
@@ -308,7 +309,7 @@
       "type": "poetry"
     },
     {
-      "text": "So this is what the Sovereign  says:",
+      "text": "So this is what the Sovereign Lord says:",
       "verse": 16,
       "type": "newline"
     },
@@ -408,7 +409,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  will rise up as he did at Mount Perazim,",
+      "text": "The Lord will rise up as he did at Mount Perazim,",
       "verse": 21,
       "type": "poetry"
     },
@@ -438,7 +439,7 @@
       "type": "poetry"
     },
     {
-      "text": "the Lord, the  Almighty, has told me",
+      "text": "the Lord, the Lord Almighty, has told me",
       "verse": 22,
       "type": "poetry"
     },
@@ -543,7 +544,7 @@
       "type": "poetry"
     },
     {
-      "text": "All this also comes from the  Almighty,",
+      "text": "All this also comes from the Lord Almighty,",
       "verse": 29,
       "type": "poetry"
     },

@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 115,
+  "verses": 18,
   "content": [
     {
       "text": "Psalm 115",
       "type": "heading"
     },
     {
-      "text": "Not to us, , not to us",
+      "text": "Not to us, Lord, not to us",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -98,7 +99,7 @@
       "type": "poetry"
     },
     {
-      "text": "All you Israelites, trust in the —",
+      "text": "All you Israelites, trust in the Lord—",
       "verse": 9,
       "type": "poetry newline"
     },
@@ -108,7 +109,7 @@
       "type": "poetry"
     },
     {
-      "text": "House of Aaron, trust in the —",
+      "text": "House of Aaron, trust in the Lord—",
       "verse": 10,
       "type": "poetry"
     },
@@ -118,7 +119,7 @@
       "type": "poetry"
     },
     {
-      "text": "You who fear him, trust in the —",
+      "text": "You who fear him, trust in the Lord—",
       "verse": 11,
       "type": "poetry"
     },
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  remembers us and will bless us:",
+      "text": "The Lord remembers us and will bless us:",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -143,7 +144,7 @@
       "type": "poetry"
     },
     {
-      "text": "he will bless those who fear the —",
+      "text": "he will bless those who fear the Lord—",
       "verse": 13,
       "type": "poetry"
     },
@@ -153,7 +154,7 @@
       "type": "poetry"
     },
     {
-      "text": "May the  cause you to flourish,",
+      "text": "May the Lord cause you to flourish,",
       "verse": 14,
       "type": "poetry newline"
     },
@@ -163,7 +164,7 @@
       "type": "poetry"
     },
     {
-      "text": "May you be blessed by the ,",
+      "text": "May you be blessed by the Lord,",
       "verse": 15,
       "type": "poetry"
     },
@@ -173,7 +174,7 @@
       "type": "poetry"
     },
     {
-      "text": "The highest heavens belong to the ,",
+      "text": "The highest heavens belong to the Lord,",
       "verse": 16,
       "type": "poetry newline"
     },
@@ -183,7 +184,7 @@
       "type": "poetry"
     },
     {
-      "text": "It is not the dead who praise the ,",
+      "text": "It is not the dead who praise the Lord,",
       "verse": 17,
       "type": "poetry"
     },
@@ -193,7 +194,7 @@
       "type": "poetry"
     },
     {
-      "text": "it is we who extol the ,",
+      "text": "it is we who extol the Lord,",
       "verse": 18,
       "type": "poetry"
     },
@@ -203,7 +204,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the .",
+      "text": "Praise the Lord.",
       "verse": 18,
       "type": "poetry newline"
     }

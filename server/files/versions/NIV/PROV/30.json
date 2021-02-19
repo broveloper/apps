@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 30,
+  "verses": 33,
   "content": [
     {
       "text": "Sayings of Agur",
@@ -98,7 +99,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Two things I ask of you, ;",
+      "text": "“Two things I ask of you, Lord;",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "and say, ‘Who is the ?’",
+      "text": "and say, ‘Who is the Lord?’",
       "verse": 9,
       "type": "poetry"
     },

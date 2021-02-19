@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 13,
+  "verses": 6,
   "content": [
     {
-      "text": "How Long, O ?",
+      "text": "How Long, O Lord?",
       "type": "heading"
     },
     {
       "text": "To the choirmaster. A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "How long, O ? Will you forget me forever?",
+      "text": "How long, O Lord? Will you forget me forever?",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -38,7 +38,7 @@
       "type": "poetry"
     },
     {
-      "text": "Consider and answer me, O  my God;",
+      "text": "Consider and answer me, O Lord my God;",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -68,7 +68,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will sing to the ,",
+      "text": "I will sing to the Lord,",
       "verse": 6,
       "type": "poetry"
     },

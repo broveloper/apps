@@ -2,6 +2,7 @@
   "book_id": "AMOS",
   "book_name": "Amos",
   "chapter": 9,
+  "verses": 15,
   "content": [
     {
       "text": "Israel to Be Destroyed",
@@ -103,7 +104,7 @@
       "type": "poetry"
     },
     {
-      "text": "The Lord, the  Almighty—",
+      "text": "The Lord, the Lord Almighty—",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -148,7 +149,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  is his name.",
+      "text": "the Lord is his name.",
       "verse": 6,
       "type": "poetry"
     },
@@ -163,7 +164,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 7,
       "type": "poetry"
     },
@@ -183,7 +184,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Surely the eyes of the Sovereign",
+      "text": "“Surely the eyes of the Sovereign Lord",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -213,7 +214,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 8,
       "type": "poetry"
     },
@@ -302,12 +303,12 @@
       "type": "poetry"
     },
     {
-      "text": "declares the , who will do these things.",
+      "text": "declares the Lord, who will do these things.",
       "verse": 12,
       "type": "poetry"
     },
     {
-      "text": "“The days are coming,” declares the ,",
+      "text": "“The days are coming,” declares the Lord,",
       "verse": 13,
       "type": "newline"
     },
@@ -332,7 +333,7 @@
       "type": "poetry"
     },
     {
-      "text": "and I will bring my people Israel back from exile.",
+      "text": "    and I will bring my people Israel back from exile.",
       "verse": 14,
       "type": "poetry"
     },
@@ -367,7 +368,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the  your God.",
+      "text": "says the Lord your God.",
       "verse": 15,
       "type": "poetry newline"
     }

@@ -2,23 +2,24 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 41,
+  "verses": 13,
   "content": [
     {
-      "text": "Blessed is he that considereth the poor: the  will deliver him in time of trouble.",
+      "text": "Blessed is he that considereth the poor: the Lord will deliver him in time of trouble.",
       "verse": 1
     },
     {
-      "text": "The  will preserve him, and keep him alive; and he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies.",
+      "text": "The Lord will preserve him, and keep him alive; and he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "The  will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness.",
+      "text": "The Lord will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "I said, , be merciful unto me: heal my soul; for I have sinned against thee.",
+      "text": "I said, Lord, be merciful unto me: heal my soul; for I have sinned against thee.",
       "verse": 4,
       "type": "newline"
     },
@@ -48,7 +49,7 @@
       "type": "newline"
     },
     {
-      "text": "But thou, O , be merciful unto me, and raise me up, that I may requite them.",
+      "text": "But thou, O Lord, be merciful unto me, and raise me up, that I may requite them.",
       "verse": 10,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "Blessed be the  God of Israel from everlasting, and to everlasting. Amen, and Amen.",
+      "text": "Blessed be the Lord God of Israel from everlasting, and to everlasting. Amen, and Amen.",
       "verse": 13,
       "type": "newline"
     }

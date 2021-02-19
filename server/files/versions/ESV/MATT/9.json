@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 9,
+  "verses": 38,
   "content": [
     {
       "text": "Jesus Heals a Paralytic",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "And behold, some people brought to him a paralytic, lying on a bed. And when Jesus saw their faith, he said to the paralytic,",
+      "text": "And behold, some people brought to him a paralytic, lying on a bed. And when Jesus saw their faith, he said to the paralytic, “Take heart, my son; your sins are forgiven.”",
       "verse": 2
     },
     {
@@ -21,15 +22,15 @@
       "verse": 3
     },
     {
-      "text": "But Jesus, knowing their thoughts, said,",
+      "text": "But Jesus, knowing their thoughts, said, “Why do you think evil in your hearts?",
       "verse": 4
     },
     {
-      "text": "",
+      "text": "For which is easier, to say, ‘Your sins are forgiven,’ or to say, ‘Rise and walk’?",
       "verse": 5
     },
     {
-      "text": "—he then said to the paralytic—",
+      "text": "But that you may know that the Son of Man has authority on earth to forgive sins”—he then said to the paralytic—“Rise, pick up your bed and go home.”",
       "verse": 6
     },
     {
@@ -45,7 +46,7 @@
       "type": "heading"
     },
     {
-      "text": "As Jesus passed on from there, he saw a man called Matthew sitting at the tax booth, and he said to him,  And he rose and followed him.",
+      "text": "As Jesus passed on from there, he saw a man called Matthew sitting at the tax booth, and he said to him, “Follow me.” And he rose and followed him.",
       "verse": 9,
       "type": "newline"
     },
@@ -59,11 +60,11 @@
       "verse": 11
     },
     {
-      "text": "But when he heard it, he said,",
+      "text": "But when he heard it, he said, “Those who are well have no need of a physician, but those who are sick.",
       "verse": 12
     },
     {
-      "text": "",
+      "text": "Go and learn what this means: ‘I desire mercy, and not sacrifice.’ For I came not to call the righteous, but sinners.”",
       "verse": 13
     },
     {
@@ -76,15 +77,15 @@
       "type": "newline"
     },
     {
-      "text": "And Jesus said to them,",
+      "text": "And Jesus said to them, “Can the wedding guests mourn as long as the bridegroom is with them? The days will come when the bridegroom is taken away from them, and then they will fast.",
       "verse": 15
     },
     {
-      "text": "",
+      "text": "No one puts a piece of unshrunk cloth on an old garment, for the patch tears away from the garment, and a worse tear is made.",
       "verse": 16
     },
     {
-      "text": "",
+      "text": "Neither is new wine put into old wineskins. If it is, the skins burst and the wine is spilled and the skins are destroyed. But new wine is put into fresh wineskins, and so both are preserved.”",
       "verse": 17
     },
     {
@@ -109,7 +110,7 @@
       "verse": 21
     },
     {
-      "text": "Jesus turned, and seeing her he said,  And instantly the woman was made well.",
+      "text": "Jesus turned, and seeing her he said, “Take heart, daughter; your faith has made you well.” And instantly the woman was made well.",
       "verse": 22
     },
     {
@@ -117,7 +118,7 @@
       "verse": 23
     },
     {
-      "text": "he said,  And they laughed at him.",
+      "text": "he said, “Go away, for the girl is not dead but sleeping.” And they laughed at him.",
       "verse": 24
     },
     {
@@ -138,15 +139,15 @@
       "type": "newline"
     },
     {
-      "text": "When he entered the house, the blind men came to him, and Jesus said to them,  They said to him, “Yes, Lord.”",
+      "text": "When he entered the house, the blind men came to him, and Jesus said to them, “Do you believe that I am able to do this?” They said to him, “Yes, Lord.”",
       "verse": 28
     },
     {
-      "text": "Then he touched their eyes, saying,",
+      "text": "Then he touched their eyes, saying, “According to your faith be it done to you.”",
       "verse": 29
     },
     {
-      "text": "And their eyes were opened. And Jesus sternly warned them,",
+      "text": "And their eyes were opened. And Jesus sternly warned them, “See that no one knows about it.”",
       "verse": 30
     },
     {
@@ -184,11 +185,11 @@
       "verse": 36
     },
     {
-      "text": "Then he said to his disciples,",
+      "text": "Then he said to his disciples, “The harvest is plentiful, but the laborers are few;",
       "verse": 37
     },
     {
-      "text": "",
+      "text": "therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.”",
       "verse": 38
     }
   ]

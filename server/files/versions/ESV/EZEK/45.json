@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 45,
+  "verses": 25,
   "content": [
     {
       "text": "The Holy District",
       "type": "heading"
     },
     {
-      "text": "“When you allot the land as an inheritance, you shall set apart for the  a portion of the land as a holy district, 25,000 cubits long and 20,000 cubits broad. It shall be holy throughout its whole extent.",
+      "text": "“When you allot the land as an inheritance, you shall set apart for the Lord a portion of the land as a holy district, 25,000 cubits long and 20,000 cubits broad. It shall be holy throughout its whole extent.",
       "verse": 1,
       "type": "newline"
     },
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "It shall be the holy portion of the land. It shall be for the priests, who minister in the sanctuary and approach the  to minister to him, and it shall be a place for their houses and a holy place for the sanctuary.",
+      "text": "It shall be the holy portion of the land. It shall be for the priests, who minister in the sanctuary and approach the Lord to minister to him, and it shall be a place for their houses and a holy place for the sanctuary.",
       "verse": 4
     },
     {
@@ -47,7 +48,7 @@
       "verse": 8
     },
     {
-      "text": "“Thus says the Lord : Enough, O princes of Israel! Put away violence and oppression, and execute justice and righteousness. Cease your evictions of my people, declares the Lord .",
+      "text": "“Thus says the Lord God: Enough, O princes of Israel! Put away violence and oppression, and execute justice and righteousness. Cease your evictions of my people, declares the Lord God.",
       "verse": 9,
       "type": "newline"
     },
@@ -74,7 +75,7 @@
       "verse": 14
     },
     {
-      "text": "And one sheep from every flock of two hundred, from the watering places of Israel for grain offering, burnt offering, and peace offerings, to make atonement for them, declares the Lord .",
+      "text": "And one sheep from every flock of two hundred, from the watering places of Israel for grain offering, burnt offering, and peace offerings, to make atonement for them, declares the Lord God.",
       "verse": 15
     },
     {
@@ -86,7 +87,7 @@
       "verse": 17
     },
     {
-      "text": "“Thus says the Lord : In the first month, on the first day of the month, you shall take a bull from the herd without blemish, and purify the sanctuary.",
+      "text": "“Thus says the Lord God: In the first month, on the first day of the month, you shall take a bull from the herd without blemish, and purify the sanctuary.",
       "verse": 18,
       "type": "newline"
     },
@@ -108,7 +109,7 @@
       "verse": 22
     },
     {
-      "text": "And on the seven days of the festival he shall provide as a burnt offering to the  seven young bulls and seven rams without blemish, on each of the seven days; and a male goat daily for a sin offering.",
+      "text": "And on the seven days of the festival he shall provide as a burnt offering to the Lord seven young bulls and seven rams without blemish, on each of the seven days; and a male goat daily for a sin offering.",
       "verse": 23
     },
     {

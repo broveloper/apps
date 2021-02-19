@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 11,
+  "verses": 16,
   "content": [
     {
       "text": "The Branch From Jesse",
@@ -18,7 +19,7 @@
       "type": "poetry"
     },
     {
-      "text": "The Spirit of the  will rest on him—",
+      "text": "The Spirit of the Lord will rest on him—",
       "verse": 2,
       "type": "poetry"
     },
@@ -33,12 +34,12 @@
       "type": "poetry"
     },
     {
-      "text": "the Spirit of the knowledge and fear of the —",
+      "text": "the Spirit of the knowledge and fear of the Lord—",
       "verse": 2,
       "type": "poetry"
     },
     {
-      "text": "and he will delight in the fear of the .",
+      "text": "and he will delight in the fear of the Lord.",
       "verse": 3,
       "type": "poetry"
     },
@@ -138,7 +139,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the earth will be filled with the knowledge of the",
+      "text": "for the earth will be filled with the knowledge of the Lord",
       "verse": 9,
       "type": "poetry"
     },
@@ -217,7 +218,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  will dry up",
+      "text": "The Lord will dry up",
       "verse": 15,
       "type": "poetry"
     },

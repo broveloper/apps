@@ -2,23 +2,24 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 30,
+  "verses": 12,
   "content": [
     {
-      "text": "I will extol thee, O ; for thou hast lifted me up, and hast not made my foes to rejoice over me.",
+      "text": "I will extol thee, O Lord; for thou hast lifted me up, and hast not made my foes to rejoice over me.",
       "verse": 1
     },
     {
-      "text": "O  my God, I cried unto thee, and thou hast healed me.",
+      "text": "O Lord my God, I cried unto thee, and thou hast healed me.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "O , thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit.",
+      "text": "O Lord, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "Sing unto the , O ye saints of his, and give thanks at the remembrance of his holiness.",
+      "text": "Sing unto the Lord, O ye saints of his, and give thanks at the remembrance of his holiness.",
       "verse": 4,
       "type": "newline"
     },
@@ -33,12 +34,12 @@
       "type": "newline"
     },
     {
-      "text": ", by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled.",
+      "text": "Lord, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "I cried to thee, O ; and unto the  I made supplication.",
+      "text": "I cried to thee, O Lord; and unto the Lord I made supplication.",
       "verse": 8,
       "type": "newline"
     },
@@ -48,7 +49,7 @@
       "type": "newline"
     },
     {
-      "text": "Hear, O , and have mercy upon me: , be thou my helper.",
+      "text": "Hear, O Lord, and have mercy upon me: Lord, be thou my helper.",
       "verse": 10,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "To the end that my glory may sing praise to thee, and not be silent. O  my God, I will give thanks unto thee for ever.",
+      "text": "To the end that my glory may sing praise to thee, and not be silent. O Lord my God, I will give thanks unto thee for ever.",
       "verse": 12,
       "type": "newline"
     }

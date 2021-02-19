@@ -2,18 +2,19 @@
   "book_id": "2KGS",
   "book_name": "2 Kings",
   "chapter": 16,
+  "verses": 20,
   "content": [
     {
       "text": "In the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign.",
       "verse": 1
     },
     {
-      "text": "Twenty years old was Ahaz when he began to reign, and reigned sixteen years in Jerusalem, and did not that which was right in the sight of the  his God, like David his father.",
+      "text": "Twenty years old was Ahaz when he began to reign, and reigned sixteen years in Jerusalem, and did not that which was right in the sight of the Lord his God, like David his father.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "But he walked in the way of the kings of Israel, yea, and made his son to pass through the fire, according to the abominations of the heathen, whom the  cast out from before the children of Israel.",
+      "text": "But he walked in the way of the kings of Israel, yea, and made his son to pass through the fire, according to the abominations of the heathen, whom the Lord cast out from before the children of Israel.",
       "verse": 3,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "And Ahaz took the silver and gold that was found in the house of the , and in the treasures of the king's house, and sent it for a present to the king of Assyria.",
+      "text": "And Ahaz took the silver and gold that was found in the house of the Lord, and in the treasures of the king's house, and sent it for a present to the king of Assyria.",
       "verse": 8,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "And he brought also the brasen altar, which was before the , from the forefront of the house, from between the altar and the house of the , and put it on the north side of the altar.",
+      "text": "And he brought also the brasen altar, which was before the Lord, from the forefront of the house, from between the altar and the house of the Lord, and put it on the north side of the altar.",
       "verse": 14,
       "type": "newline"
     },
@@ -88,7 +89,7 @@
       "type": "newline"
     },
     {
-      "text": "And the covert for the sabbath that they had built in the house, and the king's entry without, turned he from the house of the  for the king of Assyria.",
+      "text": "And the covert for the sabbath that they had built in the house, and the king's entry without, turned he from the house of the Lord for the king of Assyria.",
       "verse": 18,
       "type": "newline"
     },

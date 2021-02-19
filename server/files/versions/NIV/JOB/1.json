@@ -2,6 +2,7 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 1,
+  "verses": 22,
   "content": [
     {
       "text": "Prologue",
@@ -30,21 +31,21 @@
       "verse": 5
     },
     {
-      "text": "One day the angels came to present themselves before the , and Satan also came with them.",
+      "text": "One day the angels came to present themselves before the Lord, and Satan also came with them.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "The  said to Satan, “Where have you come from?”",
+      "text": "The Lord said to Satan, “Where have you come from?”",
       "verse": 7
     },
     {
-      "text": "Satan answered the , “From roaming throughout the earth, going back and forth on it.”",
+      "text": "Satan answered the Lord, “From roaming throughout the earth, going back and forth on it.”",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "Then the  said to Satan, “Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil.”",
+      "text": "Then the Lord said to Satan, “Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil.”",
       "verse": 8,
       "type": "newline"
     },
@@ -62,12 +63,12 @@
       "verse": 11
     },
     {
-      "text": "The  said to Satan, “Very well, then, everything he has is in your power, but on the man himself do not lay a finger.”",
+      "text": "The Lord said to Satan, “Very well, then, everything he has is in your power, but on the man himself do not lay a finger.”",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "Then Satan went out from the presence of the .",
+      "text": "Then Satan went out from the presence of the Lord.",
       "verse": 12,
       "type": "newline"
     },
@@ -123,12 +124,12 @@
       "type": "poetry"
     },
     {
-      "text": "The  gave and the  has taken away;",
+      "text": "The Lord gave and the Lord has taken away;",
       "verse": 21,
       "type": "poetry"
     },
     {
-      "text": "may the name of the  be praised.”",
+      "text": "may the name of the Lord be praised.”",
       "verse": 21,
       "type": "poetry"
     },

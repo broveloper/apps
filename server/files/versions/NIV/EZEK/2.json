@@ -2,6 +2,7 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 2,
+  "verses": 10,
   "content": [
     {
       "text": "Ezekiel’s Call to Be a Prophet",
@@ -22,7 +23,7 @@
       "type": "newline"
     },
     {
-      "text": "The people to whom I am sending you are obstinate and stubborn. Say to them, ‘This is what the Sovereign  says.’",
+      "text": "The people to whom I am sending you are obstinate and stubborn. Say to them, ‘This is what the Sovereign Lord says.’",
       "verse": 4
     },
     {

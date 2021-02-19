@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 40,
+  "verses": 49,
   "content": [
     {
       "text": "The Temple Area Restored",
       "type": "heading"
     },
     {
-      "text": "In the twenty-fifth year of our exile, at the beginning of the year, on the tenth of the month, in the fourteenth year after the fall of the city—on that very day the hand of the  was on me and he took me there.",
+      "text": "In the twenty-fifth year of our exile, at the beginning of the year, on the tenth of the month, in the fourteenth year after the fall of the city—on that very day the hand of the Lord was on me and he took me there.",
       "verse": 1,
       "type": "newline"
     },
@@ -26,8 +27,7 @@
     },
     {
       "text": "The East Gate to the Outer Court",
-      "verse": 5,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "I saw a wall completely surrounding the temple area. The length of the measuring rod in the man’s hand was six long cubits, each of which was a cubit and a handbreadth. He measured the wall; it was one measuring rod thick and one rod high.",
@@ -83,8 +83,7 @@
     },
     {
       "text": "The Outer Court",
-      "verse": 17,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Then he brought me into the outer court. There I saw some rooms and a pavement that had been constructed all around the court; there were thirty rooms along the pavement.",
@@ -101,8 +100,7 @@
     },
     {
       "text": "The North Gate",
-      "verse": 20,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Then he measured the length and width of the north gate, leading into the outer court.",
@@ -123,8 +121,7 @@
     },
     {
       "text": "The South Gate",
-      "verse": 24,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Then he led me to the south side and I saw the south gate. He measured its jambs and its portico, and they had the same measurements as the others.",
@@ -145,8 +142,7 @@
     },
     {
       "text": "The Gates to the Inner Court",
-      "verse": 28,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Then he brought me into the inner court through the south gate, and he measured the south gate; it had the same measurements as the others.",
@@ -193,8 +189,7 @@
     },
     {
       "text": "The Rooms for Preparing Sacrifices",
-      "verse": 38,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "A room with a doorway was by the portico in each of the inner gateways, where the burnt offerings were washed.",
@@ -223,8 +218,7 @@
     },
     {
       "text": "The Rooms for the Priests",
-      "verse": 44,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Outside the inner gate, within the inner court, were two rooms, one at the side of the north gate and facing south, and another at the side of the south gate and facing north.",
@@ -236,7 +230,7 @@
       "verse": 45
     },
     {
-      "text": "and the room facing north is for the priests who guard the altar. These are the sons of Zadok, who are the only Levites who may draw near to the  to minister before him.”",
+      "text": "and the room facing north is for the priests who guard the altar. These are the sons of Zadok, who are the only Levites who may draw near to the Lord to minister before him.”",
       "verse": 46
     },
     {

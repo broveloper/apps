@@ -2,13 +2,14 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 12,
+  "verses": 28,
   "content": [
     {
       "text": "Whoso loveth instruction loveth knowledge: but he that hateth reproof is brutish.",
       "verse": 1
     },
     {
-      "text": "A good man obtaineth favour of the : but a man of wicked devices will he condemn.",
+      "text": "A good man obtaineth favour of the Lord: but a man of wicked devices will he condemn.",
       "verse": 2,
       "type": "newline"
     },
@@ -108,7 +109,7 @@
       "type": "newline"
     },
     {
-      "text": "Lying lips are abomination to the : but they that deal truly are his delight.",
+      "text": "Lying lips are abomination to the Lord: but they that deal truly are his delight.",
       "verse": 22,
       "type": "newline"
     },

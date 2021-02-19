@@ -2,15 +2,15 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 52,
+  "verses": 9,
   "content": [
     {
       "text": "Psalm 52",
       "type": "heading"
     },
     {
-      "text": "For the director of music. A  of David. When Doeg the Edomite had gone to Saul and told him: “David has gone to the house of Ahimelek.”",
-      "verse": 1,
-      "type": "newline"
+      "text": "For the director of music. A maskil of David. When Doeg the Edomite had gone to Saul and told him: “David has gone to the house of Ahimelek.”",
+      "type": "title"
     },
     {
       "text": "Why do you boast of evil, you mighty hero?",

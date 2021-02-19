@@ -2,9 +2,10 @@
   "book_id": "JOEL",
   "book_name": "Joel",
   "chapter": 1,
+  "verses": 20,
   "content": [
     {
-      "text": "The word of the  that came to Joel son of Pethuel.",
+      "text": "The word of the Lord that came to Joel son of Pethuel.",
       "verse": 1
     },
     {
@@ -157,7 +158,7 @@
       "type": "poetry"
     },
     {
-      "text": "are cut off from the house of the .",
+      "text": "are cut off from the house of the Lord.",
       "verse": 9,
       "type": "poetry"
     },
@@ -167,7 +168,7 @@
       "type": "poetry"
     },
     {
-      "text": "those who minister before the .",
+      "text": "those who minister before the Lord.",
       "verse": 9,
       "type": "poetry"
     },
@@ -301,12 +302,12 @@
       "type": "poetry"
     },
     {
-      "text": "to the house of the  your God,",
+      "text": "to the house of the Lord your God,",
       "verse": 14,
       "type": "poetry"
     },
     {
-      "text": "and cry out to the .",
+      "text": "and cry out to the Lord.",
       "verse": 14,
       "type": "poetry"
     },
@@ -316,7 +317,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "For the day of the  is near;",
+      "text": "For the day of the Lord is near;",
       "verse": 15,
       "type": "poetry"
     },
@@ -391,7 +392,7 @@
       "type": "poetry"
     },
     {
-      "text": "To you, , I call,",
+      "text": "To you, Lord, I call,",
       "verse": 19,
       "type": "poetry newline"
     },

@@ -2,13 +2,14 @@
   "book_id": "JOSH",
   "book_name": "Joshua",
   "chapter": 13,
+  "verses": 33,
   "content": [
     {
       "text": "Land Still to Be Taken",
       "type": "heading"
     },
     {
-      "text": "When Joshua had grown old, the  said to him, “You are now very old, and there are still very large areas of land to be taken over.",
+      "text": "When Joshua had grown old, the Lord said to him, “You are now very old, and there are still very large areas of land to be taken over.",
       "verse": 1,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "heading"
     },
     {
-      "text": "The other half of Manasseh, the Reubenites and the Gadites had received the inheritance that Moses had given them east of the Jordan, as he, the servant of the , had assigned it to them.",
+      "text": "The other half of Manasseh, the Reubenites and the Gadites had received the inheritance that Moses had given them east of the Jordan, as he, the servant of the Lord, had assigned it to them.",
       "verse": 8,
       "type": "newline"
     },
@@ -69,7 +70,7 @@
       "verse": 13
     },
     {
-      "text": "But to the tribe of Levi he gave no inheritance, since the food offerings presented to the , the God of Israel, are their inheritance, as he promised them.",
+      "text": "But to the tribe of Levi he gave no inheritance, since the food offerings presented to the Lord, the God of Israel, are their inheritance, as he promised them.",
       "verse": 14,
       "type": "newline"
     },
@@ -153,7 +154,7 @@
       "type": "newline"
     },
     {
-      "text": "But to the tribe of Levi, Moses had given no inheritance; the , the God of Israel, is their inheritance, as he promised them.",
+      "text": "But to the tribe of Levi, Moses had given no inheritance; the Lord, the God of Israel, is their inheritance, as he promised them.",
       "verse": 33
     }
   ]

@@ -2,6 +2,7 @@
   "book_id": "SONG",
   "book_name": "Song of Solomon",
   "chapter": 4,
+  "verses": 16,
   "content": [
     {
       "text": "Solomon Admires His Bride's Beauty",
@@ -9,8 +10,7 @@
     },
     {
       "text": "He",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Behold, you are beautiful, my love,",
@@ -303,8 +303,7 @@
     },
     {
       "text": "She",
-      "verse": 16,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Let my beloved come to his garden,",

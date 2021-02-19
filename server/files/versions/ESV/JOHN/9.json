@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 9,
+  "verses": 41,
   "content": [
     {
       "text": "Jesus Heals a Man Born Blind",
@@ -17,15 +18,15 @@
       "verse": 2
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “It was not that this man sinned, or his parents, but that the works of God might be displayed in him.",
       "verse": 3
     },
     {
-      "text": "",
+      "text": "We must work the works of him who sent me while it is day; night is coming, when no one can work.",
       "verse": 4
     },
     {
-      "text": "",
+      "text": "As long as I am in the world, I am the light of the world.”",
       "verse": 5
     },
     {
@@ -33,7 +34,7 @@
       "verse": 6
     },
     {
-      "text": "and said to him,  (which means Sent). So he went and washed and came back seeing.",
+      "text": "and said to him, “Go, wash in the pool of Siloam” (which means Sent). So he went and washed and came back seeing.",
       "verse": 7
     },
     {
@@ -50,7 +51,7 @@
       "verse": 10
     },
     {
-      "text": "He answered, “The man called Jesus made mud and anointed my eyes and said to me,  So I went and washed and received my sight.”",
+      "text": "He answered, “The man called Jesus made mud and anointed my eyes and said to me, ‘Go to Siloam and wash.’ So I went and washed and received my sight.”",
       "verse": 11
     },
     {
@@ -149,7 +150,7 @@
       "verse": 34
     },
     {
-      "text": "Jesus heard that they had cast him out, and having found him he said,",
+      "text": "Jesus heard that they had cast him out, and having found him he said, “Do you believe in the Son of Man?”",
       "verse": 35,
       "type": "newline"
     },
@@ -158,7 +159,7 @@
       "verse": 36
     },
     {
-      "text": "Jesus said to him,",
+      "text": "Jesus said to him, “You have seen him, and it is he who is speaking to you.”",
       "verse": 37
     },
     {
@@ -166,7 +167,7 @@
       "verse": 38
     },
     {
-      "text": "Jesus said,",
+      "text": "Jesus said, “For judgment I came into this world, that those who do not see may see, and those who see may become blind.”",
       "verse": 39
     },
     {
@@ -174,7 +175,7 @@
       "verse": 40
     },
     {
-      "text": "Jesus said to them,",
+      "text": "Jesus said to them, “If you were blind, you would have no guilt; but now that you say, ‘We see,’ your guilt remains.",
       "verse": 41
     }
   ]

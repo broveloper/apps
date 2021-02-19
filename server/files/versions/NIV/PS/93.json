@@ -2,18 +2,19 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 93,
+  "verses": 5,
   "content": [
     {
       "text": "Psalm 93",
       "type": "heading"
     },
     {
-      "text": "The  reigns, he is robed in majesty;",
+      "text": "The Lord reigns, he is robed in majesty;",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "the  is robed in majesty and armed with strength;",
+      "text": "the Lord is robed in majesty and armed with strength;",
       "verse": 1,
       "type": "poetry"
     },
@@ -33,7 +34,7 @@
       "type": "poetry"
     },
     {
-      "text": "The seas have lifted up, ,",
+      "text": "The seas have lifted up, Lord,",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -58,12 +59,12 @@
       "type": "poetry"
     },
     {
-      "text": "the  on high is mighty.",
+      "text": "the Lord on high is mighty.",
       "verse": 4,
       "type": "poetry"
     },
     {
-      "text": "Your statutes, , stand firm;",
+      "text": "Your statutes, Lord, stand firm;",
       "verse": 5,
       "type": "poetry newline"
     },

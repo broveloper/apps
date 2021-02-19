@@ -2,9 +2,10 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 39,
+  "verses": 29,
   "content": [
     {
-      "text": "“And you, son of man, prophesy against Gog and say, Thus says the Lord : Behold, I am against you, O Gog, chief prince of Meshech and Tubal.",
+      "text": "“And you, son of man, prophesy against Gog and say, Thus says the Lord God: Behold, I am against you, O Gog, chief prince of Meshech and Tubal.",
       "verse": 1
     },
     {
@@ -20,20 +21,20 @@
       "verse": 4
     },
     {
-      "text": "You shall fall in the open field, for I have spoken, declares the Lord .",
+      "text": "You shall fall in the open field, for I have spoken, declares the Lord God.",
       "verse": 5
     },
     {
-      "text": "I will send fire on Magog and on those who dwell securely in the coastlands, and they shall know that I am the .",
+      "text": "I will send fire on Magog and on those who dwell securely in the coastlands, and they shall know that I am the Lord.",
       "verse": 6
     },
     {
-      "text": "“And my holy name I will make known in the midst of my people Israel, and I will not let my holy name be profaned anymore. And the nations shall know that I am the , the Holy One in Israel.",
+      "text": "“And my holy name I will make known in the midst of my people Israel, and I will not let my holy name be profaned anymore. And the nations shall know that I am the Lord, the Holy One in Israel.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "Behold, it is coming and it will be brought about, declares the Lord . That is the day of which I have spoken.",
+      "text": "Behold, it is coming and it will be brought about, declares the Lord God. That is the day of which I have spoken.",
       "verse": 8
     },
     {
@@ -42,7 +43,7 @@
       "type": "newline"
     },
     {
-      "text": "so that they will not need to take wood out of the field or cut down any out of the forests, for they will make their fires of the weapons. They will seize the spoil of those who despoiled them, and plunder those who plundered them, declares the Lord .",
+      "text": "so that they will not need to take wood out of the field or cut down any out of the forests, for they will make their fires of the weapons. They will seize the spoil of those who despoiled them, and plunder those who plundered them, declares the Lord God.",
       "verse": 10
     },
     {
@@ -55,7 +56,7 @@
       "verse": 12
     },
     {
-      "text": "All the people of the land will bury them, and it will bring them renown on the day that I show my glory, declares the Lord .",
+      "text": "All the people of the land will bury them, and it will bring them renown on the day that I show my glory, declares the Lord God.",
       "verse": 13
     },
     {
@@ -71,7 +72,7 @@
       "verse": 16
     },
     {
-      "text": "“As for you, son of man, thus says the Lord : Speak to the birds of every sort and to all beasts of the field: ‘Assemble and come, gather from all around to the sacrificial feast that I am preparing for you, a great sacrificial feast on the mountains of Israel, and you shall eat flesh and drink blood.",
+      "text": "“As for you, son of man, thus says the Lord God: Speak to the birds of every sort and to all beasts of the field: ‘Assemble and come, gather from all around to the sacrificial feast that I am preparing for you, a great sacrificial feast on the mountains of Israel, and you shall eat flesh and drink blood.",
       "verse": 17,
       "type": "newline"
     },
@@ -84,7 +85,7 @@
       "verse": 19
     },
     {
-      "text": "And you shall be filled at my table with horses and charioteers, with mighty men and all kinds of warriors,’ declares the Lord .",
+      "text": "And you shall be filled at my table with horses and charioteers, with mighty men and all kinds of warriors,’ declares the Lord God.",
       "verse": 20
     },
     {
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "The house of Israel shall know that I am the  their God, from that day forward.",
+      "text": "The house of Israel shall know that I am the Lord their God, from that day forward.",
       "verse": 22
     },
     {
@@ -105,11 +106,11 @@
       "verse": 24
     },
     {
-      "text": "The  Will Restore Israel",
+      "text": "The Lord Will Restore Israel",
       "type": "heading"
     },
     {
-      "text": "“Therefore thus says the Lord : Now I will restore the fortunes of Jacob and have mercy on the whole house of Israel, and I will be jealous for my holy name.",
+      "text": "“Therefore thus says the Lord God: Now I will restore the fortunes of Jacob and have mercy on the whole house of Israel, and I will be jealous for my holy name.",
       "verse": 25,
       "type": "newline"
     },
@@ -122,11 +123,11 @@
       "verse": 27
     },
     {
-      "text": "Then they shall know that I am the  their God, because I sent them into exile among the nations and then assembled them into their own land. I will leave none of them remaining among the nations anymore.",
+      "text": "Then they shall know that I am the Lord their God, because I sent them into exile among the nations and then assembled them into their own land. I will leave none of them remaining among the nations anymore.",
       "verse": 28
     },
     {
-      "text": "And I will not hide my face anymore from them, when I pour out my Spirit upon the house of Israel, declares the Lord .”",
+      "text": "And I will not hide my face anymore from them, when I pour out my Spirit upon the house of Israel, declares the Lord God.”",
       "verse": 29
     }
   ]

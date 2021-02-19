@@ -2,26 +2,27 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 20,
+  "verses": 18,
   "content": [
     {
       "text": "Jeremiah Persecuted by Pashhur",
       "type": "heading"
     },
     {
-      "text": "Now Pashhur the priest, the son of Immer, who was chief officer in the house of the , heard Jeremiah prophesying these things.",
+      "text": "Now Pashhur the priest, the son of Immer, who was chief officer in the house of the Lord, heard Jeremiah prophesying these things.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "Then Pashhur beat Jeremiah the prophet, and put him in the stocks that were in the upper Benjamin Gate of the house of the .",
+      "text": "Then Pashhur beat Jeremiah the prophet, and put him in the stocks that were in the upper Benjamin Gate of the house of the Lord.",
       "verse": 2
     },
     {
-      "text": "The next day, when Pashhur released Jeremiah from the stocks, Jeremiah said to him, “The  does not call your name Pashhur, but Terror on Every Side.",
+      "text": "The next day, when Pashhur released Jeremiah from the stocks, Jeremiah said to him, “The Lord does not call your name Pashhur, but Terror on Every Side.",
       "verse": 3
     },
     {
-      "text": "For thus says the : Behold, I will make you a terror to yourself and to all your friends. They shall fall by the sword of their enemies while you look on. And I will give all Judah into the hand of the king of Babylon. He shall carry them captive to Babylon, and shall strike them down with the sword.",
+      "text": "For thus says the Lord: Behold, I will make you a terror to yourself and to all your friends. They shall fall by the sword of their enemies while you look on. And I will give all Judah into the hand of the king of Babylon. He shall carry them captive to Babylon, and shall strike them down with the sword.",
       "verse": 4
     },
     {
@@ -33,7 +34,7 @@
       "verse": 6
     },
     {
-      "text": "O , you have deceived me,",
+      "text": "O Lord, you have deceived me,",
       "verse": 7,
       "type": "poetry newline"
     },
@@ -73,7 +74,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the word of the  has become for me",
+      "text": "For the word of the Lord has become for me",
       "verse": 8,
       "type": "poetry"
     },
@@ -153,7 +154,7 @@
       "type": "poetry"
     },
     {
-      "text": "But the  is with me as a dread warrior;",
+      "text": "But the Lord is with me as a dread warrior;",
       "verse": 11,
       "type": "poetry"
     },
@@ -188,7 +189,7 @@
       "type": "poetry"
     },
     {
-      "text": "O  of hosts, who tests the righteous,",
+      "text": "O Lord of hosts, who tests the righteous,",
       "verse": 12,
       "type": "poetry"
     },
@@ -208,12 +209,12 @@
       "type": "poetry"
     },
     {
-      "text": "Sing to the ;",
+      "text": "Sing to the Lord;",
       "verse": 13,
       "type": "poetry newline"
     },
     {
-      "text": "praise the !",
+      "text": "praise the Lord!",
       "verse": 13,
       "type": "poetry"
     },
@@ -268,7 +269,7 @@
       "type": "poetry"
     },
     {
-      "text": "that the  overthrew without pity;",
+      "text": "that the Lord overthrew without pity;",
       "verse": 16,
       "type": "poetry"
     },

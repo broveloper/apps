@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 18,
+  "verses": 7,
   "content": [
     {
       "text": "An Oracle Concerning Cush",
@@ -73,7 +74,7 @@
       "type": "poetry"
     },
     {
-      "text": "For thus the  said to me:",
+      "text": "For thus the Lord said to me:",
       "verse": 4,
       "type": "poetry"
     },
@@ -138,7 +139,7 @@
       "type": "poetry"
     },
     {
-      "text": "At that time tribute will be brought to the  of hosts",
+      "text": "At that time tribute will be brought to the Lord of hosts",
       "verse": 7,
       "type": "newline"
     },
@@ -163,7 +164,7 @@
       "type": "poetry"
     },
     {
-      "text": "to Mount Zion, the place of the name of the  of hosts.",
+      "text": "to Mount Zion, the place of the name of the Lord of hosts.",
       "verse": 7,
       "type": "newline"
     }

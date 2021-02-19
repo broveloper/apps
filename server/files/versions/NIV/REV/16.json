@@ -2,6 +2,7 @@
   "book_id": "REV",
   "book_name": "Revelation",
   "chapter": 16,
+  "verses": 21,
   "content": [
     {
       "text": "The Seven Bowls of God’s Wrath",
@@ -98,7 +99,7 @@
       "verse": 14
     },
     {
-      "text": "",
+      "text": "“Look, I come like a thief! Blessed is the one who stays awake and remains clothed, so as not to go naked and be shamefully exposed.”",
       "verse": 15,
       "type": "newline"
     },

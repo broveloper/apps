@@ -2,6 +2,7 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 2,
+  "verses": 23,
   "content": [
     {
       "text": "“Say of your brothers, ‘My people,’ and of your sisters, ‘My loved one.’",
@@ -247,7 +248,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 13,
       "type": "poetry"
     },
@@ -287,7 +288,7 @@
       "type": "poetry"
     },
     {
-      "text": "“In that day,” declares the ,",
+      "text": "“In that day,” declares the Lord,",
       "verse": 16,
       "type": "poetry newline"
     },
@@ -362,7 +363,7 @@
       "type": "poetry"
     },
     {
-      "text": "and you will acknowledge the .",
+      "text": "and you will acknowledge the Lord.",
       "verse": 20,
       "type": "poetry"
     },
@@ -372,7 +373,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "declares the —",
+      "text": "declares the Lord—",
       "verse": 21,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 37,
+  "verses": 21,
   "content": [
     {
       "text": "Jeremiah in Prison",
@@ -13,11 +14,11 @@
       "type": "newline"
     },
     {
-      "text": "Neither he nor his attendants nor the people of the land paid any attention to the words the  had spoken through Jeremiah the prophet.",
+      "text": "Neither he nor his attendants nor the people of the land paid any attention to the words the Lord had spoken through Jeremiah the prophet.",
       "verse": 2
     },
     {
-      "text": "King Zedekiah, however, sent Jehukal son of Shelemiah with the priest Zephaniah son of Maaseiah to Jeremiah the prophet with this message: “Please pray to the  our God for us.”",
+      "text": "King Zedekiah, however, sent Jehukal son of Shelemiah with the priest Zephaniah son of Maaseiah to Jeremiah the prophet with this message: “Please pray to the Lord our God for us.”",
       "verse": 3,
       "type": "newline"
     },
@@ -31,12 +32,12 @@
       "verse": 5
     },
     {
-      "text": "Then the word of the  came to Jeremiah the prophet:",
+      "text": "Then the word of the Lord came to Jeremiah the prophet:",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "“This is what the , the God of Israel, says: Tell the king of Judah, who sent you to inquire of me, ‘Pharaoh’s army, which has marched out to support you, will go back to its own land, to Egypt.",
+      "text": "“This is what the Lord, the God of Israel, says: Tell the king of Judah, who sent you to inquire of me, ‘Pharaoh’s army, which has marched out to support you, will go back to its own land, to Egypt.",
       "verse": 7
     },
     {
@@ -44,7 +45,7 @@
       "verse": 8
     },
     {
-      "text": "“This is what the  says: Do not deceive yourselves, thinking, ‘The Babylonians will surely leave us.’ They will not!",
+      "text": "“This is what the Lord says: Do not deceive yourselves, thinking, ‘The Babylonians will surely leave us.’ They will not!",
       "verse": 9,
       "type": "newline"
     },
@@ -80,7 +81,7 @@
       "type": "newline"
     },
     {
-      "text": "Then King Zedekiah sent for him and had him brought to the palace, where he asked him privately, “Is there any word from the ?”",
+      "text": "Then King Zedekiah sent for him and had him brought to the palace, where he asked him privately, “Is there any word from the Lord?”",
       "verse": 17
     },
     {

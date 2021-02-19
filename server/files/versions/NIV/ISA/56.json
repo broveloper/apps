@@ -2,13 +2,14 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 56,
+  "verses": 12,
   "content": [
     {
       "text": "Salvation for Others",
       "type": "heading"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 1,
       "type": "newline"
     },
@@ -53,12 +54,12 @@
       "type": "poetry"
     },
     {
-      "text": "Let no foreigner who is bound to the  say,",
+      "text": "Let no foreigner who is bound to the Lord say,",
       "verse": 3,
       "type": "poetry newline"
     },
     {
-      "text": "“The  will surely exclude me from his people.”",
+      "text": "“The Lord will surely exclude me from his people.”",
       "verse": 3,
       "type": "poetry"
     },
@@ -73,7 +74,7 @@
       "type": "poetry"
     },
     {
-      "text": "For this is what the  says:",
+      "text": "For this is what the Lord says:",
       "verse": 4,
       "type": "newline"
     },
@@ -118,7 +119,7 @@
       "type": "poetry"
     },
     {
-      "text": "And foreigners who bind themselves to the",
+      "text": "And foreigners who bind themselves to the Lord",
       "verse": 6,
       "type": "poetry"
     },
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "to love the name of the ,",
+      "text": "to love the name of the Lord,",
       "verse": 6,
       "type": "poetry"
     },
@@ -178,7 +179,7 @@
       "type": "poetry"
     },
     {
-      "text": "The Sovereign  declares—",
+      "text": "The Sovereign Lord declares—",
       "verse": 8,
       "type": "poetry"
     },

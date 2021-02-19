@@ -2,18 +2,19 @@
   "book_id": "ZEPH",
   "book_name": "Zephaniah",
   "chapter": 2,
+  "verses": 15,
   "content": [
     {
       "text": "Gather yourselves together, yea, gather together, O nation not desired;",
       "verse": 1
     },
     {
-      "text": "Before the decree bring forth, before the day pass as the chaff, before the fierce anger of the  come upon you, before the day of the 's anger come upon you.",
+      "text": "Before the decree bring forth, before the day pass as the chaff, before the fierce anger of the Lord come upon you, before the day of the Lord's anger come upon you.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "Seek ye the , all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of the 's anger.",
+      "text": "Seek ye the Lord, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of the Lord's anger.",
       "verse": 3,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the  is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant.",
+      "text": "Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the Lord is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant.",
       "verse": 5,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "And the coast shall be for the remnant of the house of Judah; they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for the  their God shall visit them, and turn away their captivity.",
+      "text": "And the coast shall be for the remnant of the house of Judah; they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for the Lord their God shall visit them, and turn away their captivity.",
       "verse": 7,
       "type": "newline"
     },
@@ -43,17 +44,17 @@
       "type": "newline"
     },
     {
-      "text": "Therefore as I live, saith the  of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them.",
+      "text": "Therefore as I live, saith the Lord of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "This shall they have for their pride, because they have reproached and magnified themselves against the people of the  of hosts.",
+      "text": "This shall they have for their pride, because they have reproached and magnified themselves against the people of the Lord of hosts.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "The  will be terrible unto them: for he will famish all the gods of the earth; and men shall worship him, every one from his place, even all the isles of the heathen.",
+      "text": "The Lord will be terrible unto them: for he will famish all the gods of the earth; and men shall worship him, every one from his place, even all the isles of the heathen.",
       "verse": 11,
       "type": "newline"
     },

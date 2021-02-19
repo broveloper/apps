@@ -2,9 +2,10 @@
   "book_id": "MIC",
   "book_name": "Micah",
   "chapter": 1,
+  "verses": 16,
   "content": [
     {
-      "text": "The word of the  that came to Micah of Moresheth in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.",
+      "text": "The word of the Lord that came to Micah of Moresheth in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.",
       "verse": 1
     },
     {
@@ -22,7 +23,7 @@
       "type": "poetry"
     },
     {
-      "text": "and let the Lord  be a witness against you,",
+      "text": "and let the Lord God be a witness against you,",
       "verse": 2,
       "type": "poetry"
     },
@@ -32,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "For behold, the  is coming out of his place,",
+      "text": "For behold, the Lord is coming out of his place,",
       "verse": 3,
       "type": "poetry"
     },
@@ -242,7 +243,7 @@
       "type": "poetry"
     },
     {
-      "text": "because disaster has come down from the",
+      "text": "because disaster has come down from the Lord",
       "verse": 12,
       "type": "poetry"
     },

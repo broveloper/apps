@@ -2,23 +2,23 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 18,
+  "verses": 50,
   "content": [
     {
       "text": "Psalm 18",
       "type": "heading"
     },
     {
-      "text": "For the director of music. Of David the servant of the . He sang to the  the words of this song when the  delivered him from the hand of all his enemies and from the hand of Saul. He said:",
-      "verse": 1,
-      "type": "newline"
+      "text": "For the director of music. Of David the servant of the Lord. He sang to the Lord the words of this song when the Lord delivered him from the hand of all his enemies and from the hand of Saul. He said:",
+      "type": "title"
     },
     {
-      "text": "I love you, , my strength.",
+      "text": "I love you, Lord, my strength.",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "The  is my rock, my fortress and my deliverer;",
+      "text": "The Lord is my rock, my fortress and my deliverer;",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "I called to the , who is worthy of praise,",
+      "text": "I called to the Lord, who is worthy of praise,",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -63,7 +63,7 @@
       "type": "poetry"
     },
     {
-      "text": "In my distress I called to the ;",
+      "text": "In my distress I called to the Lord;",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -153,7 +153,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  thundered from heaven;",
+      "text": "The Lord thundered from heaven;",
       "verse": 13,
       "type": "poetry"
     },
@@ -183,7 +183,7 @@
       "type": "poetry"
     },
     {
-      "text": "at your rebuke, ,",
+      "text": "at your rebuke, Lord,",
       "verse": 15,
       "type": "poetry"
     },
@@ -218,7 +218,7 @@
       "type": "poetry"
     },
     {
-      "text": "but the  was my support.",
+      "text": "but the Lord was my support.",
       "verse": 18,
       "type": "poetry"
     },
@@ -233,7 +233,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has dealt with me according to my righteousness;",
+      "text": "The Lord has dealt with me according to my righteousness;",
       "verse": 20,
       "type": "poetry newline"
     },
@@ -243,7 +243,7 @@
       "type": "poetry"
     },
     {
-      "text": "For I have kept the ways of the ;",
+      "text": "For I have kept the ways of the Lord;",
       "verse": 21,
       "type": "poetry"
     },
@@ -273,7 +273,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has rewarded me according to my righteousness,",
+      "text": "The Lord has rewarded me according to my righteousness,",
       "verse": 24,
       "type": "poetry"
     },
@@ -313,7 +313,7 @@
       "type": "poetry"
     },
     {
-      "text": "You, , keep my lamp burning;",
+      "text": "You, Lord, keep my lamp burning;",
       "verse": 28,
       "type": "poetry"
     },
@@ -338,7 +338,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "The ’s word is flawless;",
+      "text": "The Lord’s word is flawless;",
       "verse": 30,
       "type": "poetry"
     },
@@ -348,7 +348,7 @@
       "type": "poetry"
     },
     {
-      "text": "For who is God besides the ?",
+      "text": "For who is God besides the Lord?",
       "verse": 31,
       "type": "poetry"
     },
@@ -458,7 +458,7 @@
       "type": "poetry"
     },
     {
-      "text": "to the , but he did not answer.",
+      "text": "to the Lord, but he did not answer.",
       "verse": 41,
       "type": "poetry"
     },
@@ -488,7 +488,7 @@
       "type": "poetry"
     },
     {
-      "text": "foreigners cower before me;",
+      "text": "    foreigners cower before me;",
       "verse": 44,
       "type": "poetry"
     },
@@ -508,7 +508,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  lives! Praise be to my Rock!",
+      "text": "The Lord lives! Praise be to my Rock!",
       "verse": 46,
       "type": "poetry newline"
     },
@@ -528,7 +528,7 @@
       "type": "poetry"
     },
     {
-      "text": "who saves me from my enemies.",
+      "text": "    who saves me from my enemies.",
       "verse": 48,
       "type": "poetry"
     },
@@ -543,7 +543,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore I will praise you, , among the nations;",
+      "text": "Therefore I will praise you, Lord, among the nations;",
       "verse": 49,
       "type": "poetry"
     },

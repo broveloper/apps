@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 126,
+  "verses": 6,
   "content": [
     {
       "text": "Psalm 126",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A song of ascents.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "When the  restored the fortunes of Zion,",
+      "text": "When the Lord restored the fortunes of Zion,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -38,12 +38,12 @@
       "type": "poetry"
     },
     {
-      "text": "“The  has done great things for them.”",
+      "text": "“The Lord has done great things for them.”",
       "verse": 2,
       "type": "poetry"
     },
     {
-      "text": "The  has done great things for us,",
+      "text": "The Lord has done great things for us,",
       "verse": 3,
       "type": "poetry"
     },
@@ -53,7 +53,7 @@
       "type": "poetry"
     },
     {
-      "text": "Restore our fortunes, ,",
+      "text": "Restore our fortunes, Lord,",
       "verse": 4,
       "type": "poetry newline"
     },

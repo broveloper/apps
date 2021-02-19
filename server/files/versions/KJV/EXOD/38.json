@@ -2,6 +2,7 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 38,
+  "verses": 31,
   "content": [
     {
       "text": "And he made the altar of burnt offering of shittim wood: five cubits was the length thereof, and five cubits the breadth thereof; it was foursquare; and three cubits the height thereof.",
@@ -108,7 +109,7 @@
       "type": "newline"
     },
     {
-      "text": "And Bezaleel the son Uri, the son of Hur, of the tribe of Judah, made all that the  commanded Moses.",
+      "text": "And Bezaleel the son Uri, the son of Hur, of the tribe of Judah, made all that the Lord commanded Moses.",
       "verse": 22,
       "type": "newline"
     },

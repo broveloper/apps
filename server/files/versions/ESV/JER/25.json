@@ -2,6 +2,7 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 25,
+  "verses": 38,
   "content": [
     {
       "text": "Seventy Years of Captivity",
@@ -17,15 +18,15 @@
       "verse": 2
     },
     {
-      "text": "“For twenty-three years, from the thirteenth year of Josiah the son of Amon, king of Judah, to this day, the word of the  has come to me, and I have spoken persistently to you, but you have not listened.",
+      "text": "“For twenty-three years, from the thirteenth year of Josiah the son of Amon, king of Judah, to this day, the word of the Lord has come to me, and I have spoken persistently to you, but you have not listened.",
       "verse": 3
     },
     {
-      "text": "You have neither listened nor inclined your ears to hear, although the  persistently sent to you all his servants the prophets,",
+      "text": "You have neither listened nor inclined your ears to hear, although the Lord persistently sent to you all his servants the prophets,",
       "verse": 4
     },
     {
-      "text": "saying, ‘Turn now, every one of you, from his evil way and evil deeds, and dwell upon the land that the  has given to you and your fathers from of old and forever.",
+      "text": "saying, ‘Turn now, every one of you, from his evil way and evil deeds, and dwell upon the land that the Lord has given to you and your fathers from of old and forever.",
       "verse": 5
     },
     {
@@ -33,16 +34,16 @@
       "verse": 6
     },
     {
-      "text": "Yet you have not listened to me, declares the , that you might provoke me to anger with the work of your hands to your own harm.",
+      "text": "Yet you have not listened to me, declares the Lord, that you might provoke me to anger with the work of your hands to your own harm.",
       "verse": 7
     },
     {
-      "text": "“Therefore thus says the  of hosts: Because you have not obeyed my words,",
+      "text": "“Therefore thus says the Lord of hosts: Because you have not obeyed my words,",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "behold, I will send for all the tribes of the north, declares the , and for Nebuchadnezzar the king of Babylon, my servant, and I will bring them against this land and its inhabitants, and against all these surrounding nations. I will devote them to destruction, and make them a horror, a hissing, and an everlasting desolation.",
+      "text": "behold, I will send for all the tribes of the north, declares the Lord, and for Nebuchadnezzar the king of Babylon, my servant, and I will bring them against this land and its inhabitants, and against all these surrounding nations. I will devote them to destruction, and make them a horror, a hissing, and an everlasting desolation.",
       "verse": 9
     },
     {
@@ -54,7 +55,7 @@
       "verse": 11
     },
     {
-      "text": "Then after seventy years are completed, I will punish the king of Babylon and that nation, the land of the Chaldeans, for their iniquity, declares the , making the land an everlasting waste.",
+      "text": "Then after seventy years are completed, I will punish the king of Babylon and that nation, the land of the Chaldeans, for their iniquity, declares the Lord, making the land an everlasting waste.",
       "verse": 12
     },
     {
@@ -66,11 +67,11 @@
       "verse": 14
     },
     {
-      "text": "The Cup of the 's Wrath",
+      "text": "The Cup of the Lord's Wrath",
       "type": "heading"
     },
     {
-      "text": "Thus the , the God of Israel, said to me: “Take from my hand this cup of the wine of wrath, and make all the nations to whom I send you drink it.",
+      "text": "Thus the Lord, the God of Israel, said to me: “Take from my hand this cup of the wine of wrath, and make all the nations to whom I send you drink it.",
       "verse": 15,
       "type": "newline"
     },
@@ -79,7 +80,7 @@
       "verse": 16
     },
     {
-      "text": "So I took the cup from the 's hand, and made all the nations to whom the  sent me drink it:",
+      "text": "So I took the cup from the Lord's hand, and made all the nations to whom the Lord sent me drink it:",
       "verse": 17,
       "type": "newline"
     },
@@ -120,17 +121,17 @@
       "verse": 26
     },
     {
-      "text": "“Then you shall say to them, ‘Thus says the  of hosts, the God of Israel: Drink, be drunk and vomit, fall and rise no more, because of the sword that I am sending among you.’",
+      "text": "“Then you shall say to them, ‘Thus says the Lord of hosts, the God of Israel: Drink, be drunk and vomit, fall and rise no more, because of the sword that I am sending among you.’",
       "verse": 27,
       "type": "newline"
     },
     {
-      "text": "“And if they refuse to accept the cup from your hand to drink, then you shall say to them, ‘Thus says the  of hosts: You must drink!",
+      "text": "“And if they refuse to accept the cup from your hand to drink, then you shall say to them, ‘Thus says the Lord of hosts: You must drink!",
       "verse": 28,
       "type": "newline"
     },
     {
-      "text": "For behold, I begin to work disaster at the city that is called by my name, and shall you go unpunished? You shall not go unpunished, for I am summoning a sword against all the inhabitants of the earth, declares the  of hosts.’",
+      "text": "For behold, I begin to work disaster at the city that is called by my name, and shall you go unpunished? You shall not go unpunished, for I am summoning a sword against all the inhabitants of the earth, declares the Lord of hosts.’",
       "verse": 29
     },
     {
@@ -139,7 +140,7 @@
       "type": "newline"
     },
     {
-      "text": "“‘The  will roar from on high,",
+      "text": "“‘The Lord will roar from on high,",
       "verse": 30,
       "type": "poetry newline"
     },
@@ -169,7 +170,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  has an indictment against the nations;",
+      "text": "for the Lord has an indictment against the nations;",
       "verse": 31,
       "type": "poetry"
     },
@@ -184,12 +185,12 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .’",
+      "text": "declares the Lord.’",
       "verse": 31,
       "type": "poetry"
     },
     {
-      "text": "“Thus says the  of hosts:",
+      "text": "“Thus says the Lord of hosts:",
       "verse": 32,
       "type": "poetry newline"
     },
@@ -214,7 +215,7 @@
       "type": "poetry"
     },
     {
-      "text": "“And those pierced by the  on that day shall extend from one end of the earth to the other. They shall not be lamented, or gathered, or buried; they shall be dung on the surface of the ground.",
+      "text": "“And those pierced by the Lord on that day shall extend from one end of the earth to the other. They shall not be lamented, or gathered, or buried; they shall be dung on the surface of the ground.",
       "verse": 33,
       "type": "newline"
     },
@@ -259,17 +260,17 @@
       "type": "poetry"
     },
     {
-      "text": "For the  is laying waste their pasture,",
+      "text": "For the Lord is laying waste their pasture,",
       "verse": 36,
       "type": "poetry"
     },
     {
-      "text": "and the peaceful folds are devastated",
+      "text": "    and the peaceful folds are devastated",
       "verse": 37,
       "type": "poetry"
     },
     {
-      "text": "because of the fierce anger of the .",
+      "text": "because of the fierce anger of the Lord.",
       "verse": 37,
       "type": "poetry"
     },

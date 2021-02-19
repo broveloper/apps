@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 150,
+  "verses": 6,
   "content": [
     {
-      "text": "Praise ye the . Praise God in his sanctuary: praise him in the firmament of his power.",
+      "text": "Praise ye the Lord. Praise God in his sanctuary: praise him in the firmament of his power.",
       "verse": 1
     },
     {
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "Let every thing that hath breath praise the . Praise ye the .",
+      "text": "Let every thing that hath breath praise the Lord. Praise ye the Lord.",
       "verse": 6,
       "type": "newline"
     }

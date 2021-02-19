@@ -2,6 +2,7 @@
   "book_id": "2KGS",
   "book_name": "2 Kings",
   "chapter": 25,
+  "verses": 30,
   "content": [
     {
       "text": "And it came to pass in the ninth year of his reign, in the tenth month, in the tenth day of the month, that Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about.",
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "And he burnt the house of the , and the king's house, and all the houses of Jerusalem, and every great man's house burnt he with fire.",
+      "text": "And he burnt the house of the Lord, and the king's house, and all the houses of Jerusalem, and every great man's house burnt he with fire.",
       "verse": 9,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "And the pillars of brass that were in the house of the , and the bases, and the brasen sea that was in the house of the , did the Chaldees break in pieces, and carried the brass of them to Babylon.",
+      "text": "And the pillars of brass that were in the house of the Lord, and the bases, and the brasen sea that was in the house of the Lord, did the Chaldees break in pieces, and carried the brass of them to Babylon.",
       "verse": 13,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "The two pillars, one sea, and the bases which Solomon had made for the house of the ; the brass of all these vessels was without weight.",
+      "text": "The two pillars, one sea, and the bases which Solomon had made for the house of the Lord; the brass of all these vessels was without weight.",
       "verse": 16,
       "type": "newline"
     },

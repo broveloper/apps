@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 137,
+  "verses": 9,
   "content": [
     {
       "text": "Psalm 137",
@@ -43,7 +44,7 @@
       "type": "poetry"
     },
     {
-      "text": "How can we sing the songs of the",
+      "text": "How can we sing the songs of the Lord",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -83,7 +84,7 @@
       "type": "poetry"
     },
     {
-      "text": "Remember, , what the Edomites did",
+      "text": "Remember, Lord, what the Edomites did",
       "verse": 7,
       "type": "poetry newline"
     },

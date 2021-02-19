@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 27,
+  "verses": 36,
   "content": [
     {
       "text": "A Lament Over Tyre",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "Say to Tyre, situated at the gateway to the sea, merchant of peoples on many coasts, ‘This is what the Sovereign  says:",
+      "text": "Say to Tyre, situated at the gateway to the sea, merchant of peoples on many coasts, ‘This is what the Sovereign Lord says:",
       "verse": 3
     },
     {

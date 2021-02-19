@@ -2,18 +2,19 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 112,
+  "verses": 10,
   "content": [
     {
       "text": "Psalm 112",
       "type": "heading"
     },
     {
-      "text": "Praise the .",
+      "text": "Praise the Lord.",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "Blessed are those who fear the ,",
+      "text": "Blessed are those who fear the Lord,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "their hearts are steadfast, trusting in the .",
+      "text": "their hearts are steadfast, trusting in the Lord.",
       "verse": 7,
       "type": "poetry"
     },

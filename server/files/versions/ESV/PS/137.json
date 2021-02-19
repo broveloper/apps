@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 137,
+  "verses": 9,
   "content": [
     {
-      "text": "How Shall We Sing the 's Song?",
+      "text": "How Shall We Sing the Lord's Song?",
       "type": "heading"
     },
     {
@@ -53,7 +54,7 @@
       "type": "poetry"
     },
     {
-      "text": "How shall we sing the 's song",
+      "text": "How shall we sing the Lord's song",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -93,7 +94,7 @@
       "type": "poetry"
     },
     {
-      "text": "Remember, O , against the Edomites",
+      "text": "Remember, O Lord, against the Edomites",
       "verse": 7,
       "type": "poetry newline"
     },

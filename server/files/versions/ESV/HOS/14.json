@@ -2,13 +2,14 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 14,
+  "verses": 9,
   "content": [
     {
-      "text": "A Plea to Return to the",
+      "text": "A Plea to Return to the Lord",
       "type": "heading"
     },
     {
-      "text": "Return, O Israel, to the  your God,",
+      "text": "Return, O Israel, to the Lord your God,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,7 +24,7 @@
       "type": "poetry"
     },
     {
-      "text": "and return to the ;",
+      "text": "and return to the Lord;",
       "verse": 2,
       "type": "poetry"
     },
@@ -173,7 +174,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the ways of the  are right,",
+      "text": "for the ways of the Lord are right,",
       "verse": 9,
       "type": "poetry"
     },

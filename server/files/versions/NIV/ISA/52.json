@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 52,
+  "verses": 15,
   "content": [
     {
       "text": "Awake, awake, Zion,",
@@ -54,7 +55,7 @@
       "type": "poetry"
     },
     {
-      "text": "For this is what the  says:",
+      "text": "For this is what the Lord says:",
       "verse": 3,
       "type": "newline"
     },
@@ -69,7 +70,7 @@
       "type": "poetry"
     },
     {
-      "text": "For this is what the Sovereign  says:",
+      "text": "For this is what the Sovereign Lord says:",
       "verse": 4,
       "type": "newline"
     },
@@ -84,7 +85,7 @@
       "type": "poetry"
     },
     {
-      "text": "“And now what do I have here?” declares the .",
+      "text": "“And now what do I have here?” declares the Lord.",
       "verse": 5,
       "type": "newline"
     },
@@ -99,7 +100,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 5,
       "type": "poetry"
     },
@@ -179,7 +180,7 @@
       "type": "poetry"
     },
     {
-      "text": "When the  returns to Zion,",
+      "text": "When the Lord returns to Zion,",
       "verse": 8,
       "type": "poetry"
     },
@@ -199,7 +200,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  has comforted his people,",
+      "text": "for the Lord has comforted his people,",
       "verse": 9,
       "type": "poetry"
     },
@@ -209,7 +210,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  will lay bare his holy arm",
+      "text": "The Lord will lay bare his holy arm",
       "verse": 10,
       "type": "poetry"
     },
@@ -244,7 +245,7 @@
       "type": "poetry"
     },
     {
-      "text": "you who carry the articles of the ’s house.",
+      "text": "you who carry the articles of the Lord’s house.",
       "verse": 11,
       "type": "poetry"
     },
@@ -259,7 +260,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  will go before you,",
+      "text": "for the Lord will go before you,",
       "verse": 12,
       "type": "poetry"
     },

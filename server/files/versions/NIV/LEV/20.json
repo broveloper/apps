@@ -2,13 +2,14 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 20,
+  "verses": 27,
   "content": [
     {
       "text": "Punishments for Sin",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 1,
       "type": "newline"
     },
@@ -34,12 +35,12 @@
       "type": "newline"
     },
     {
-      "text": "“‘Consecrate yourselves and be holy, because I am the  your God.",
+      "text": "“‘Consecrate yourselves and be holy, because I am the Lord your God.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "Keep my decrees and follow them. I am the , who makes you holy.",
+      "text": "Keep my decrees and follow them. I am the Lord, who makes you holy.",
       "verse": 8
     },
     {
@@ -117,7 +118,7 @@
       "verse": 23
     },
     {
-      "text": "But I said to you, “You will possess their land; I will give it to you as an inheritance, a land flowing with milk and honey.” I am the  your God, who has set you apart from the nations.",
+      "text": "But I said to you, “You will possess their land; I will give it to you as an inheritance, a land flowing with milk and honey.” I am the Lord your God, who has set you apart from the nations.",
       "verse": 24
     },
     {
@@ -126,7 +127,7 @@
       "type": "newline"
     },
     {
-      "text": "You are to be holy to me because I, the , am holy, and I have set you apart from the nations to be my own.",
+      "text": "You are to be holy to me because I, the Lord, am holy, and I have set you apart from the nations to be my own.",
       "verse": 26
     },
     {

@@ -2,6 +2,7 @@
   "book_id": "1KGS",
   "book_name": "1 Kings",
   "chapter": 1,
+  "verses": 53,
   "content": [
     {
       "text": "Adonijah Sets Himself Up as King",
@@ -84,7 +85,7 @@
       "type": "newline"
     },
     {
-      "text": "She said to him, “My lord, you yourself swore to me your servant by the  your God: ‘Solomon your son shall be king after me, and he will sit on my throne.’",
+      "text": "She said to him, “My lord, you yourself swore to me your servant by the Lord your God: ‘Solomon your son shall be king after me, and he will sit on my throne.’",
       "verse": 17,
       "type": "newline"
     },
@@ -140,12 +141,12 @@
       "type": "newline"
     },
     {
-      "text": "The king then took an oath: “As surely as the  lives, who has delivered me out of every trouble,",
+      "text": "The king then took an oath: “As surely as the Lord lives, who has delivered me out of every trouble,",
       "verse": 29,
       "type": "newline"
     },
     {
-      "text": "I will surely carry out this very day what I swore to you by the , the God of Israel: Solomon your son shall be king after me, and he will sit on my throne in my place.”",
+      "text": "I will surely carry out this very day what I swore to you by the Lord, the God of Israel: Solomon your son shall be king after me, and he will sit on my throne in my place.”",
       "verse": 30
     },
     {
@@ -171,12 +172,12 @@
       "verse": 35
     },
     {
-      "text": "Benaiah son of Jehoiada answered the king, “Amen! May the , the God of my lord the king, so declare it.",
+      "text": "Benaiah son of Jehoiada answered the king, “Amen! May the Lord, the God of my lord the king, so declare it.",
       "verse": 36,
       "type": "newline"
     },
     {
-      "text": "As the  was with my lord the king, so may he be with Solomon to make his throne even greater than the throne of my lord King David!”",
+      "text": "As the Lord was with my lord the king, so may he be with Solomon to make his throne even greater than the throne of my lord King David!”",
       "verse": 37
     },
     {
@@ -224,7 +225,7 @@
       "verse": 47
     },
     {
-      "text": "and said, ‘Praise be to the , the God of Israel, who has allowed my eyes to see a successor on my throne today.’”",
+      "text": "and said, ‘Praise be to the Lord, the God of Israel, who has allowed my eyes to see a successor on my throne today.’”",
       "verse": 48
     },
     {

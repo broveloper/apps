@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 10,
+  "verses": 42,
   "content": [
     {
       "text": "Jesus Sends Out the Twelve",
@@ -26,181 +27,181 @@
       "verse": 4
     },
     {
-      "text": "These twelve Jesus sent out with the following instructions:",
+      "text": "These twelve Jesus sent out with the following instructions: “Do not go among the Gentiles or enter any town of the Samaritans.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Go rather to the lost sheep of Israel.",
       "verse": 6
     },
     {
-      "text": "",
+      "text": "As you go, proclaim this message: ‘The kingdom of heaven has come near.’",
       "verse": 7
     },
     {
-      "text": "",
+      "text": "Heal the sick, raise the dead, cleanse those who have leprosy, drive out demons. Freely you have received; freely give.",
       "verse": 8
     },
     {
-      "text": "",
+      "text": "“Do not get any gold or silver or copper to take with you in your belts—",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "no bag for the journey or extra shirt or sandals or a staff, for the worker is worth his keep.",
       "verse": 10
     },
     {
-      "text": "",
+      "text": "Whatever town or village you enter, search there for some worthy person and stay at their house until you leave.",
       "verse": 11
     },
     {
-      "text": "",
+      "text": "As you enter the home, give it your greeting.",
       "verse": 12
     },
     {
-      "text": "",
+      "text": "If the home is deserving, let your peace rest on it; if it is not, let your peace return to you.",
       "verse": 13
     },
     {
-      "text": "",
+      "text": "If anyone will not welcome you or listen to your words, leave that home or town and shake the dust off your feet.",
       "verse": 14
     },
     {
-      "text": "",
+      "text": "Truly I tell you, it will be more bearable for Sodom and Gomorrah on the day of judgment than for that town.",
       "verse": 15
     },
     {
-      "text": "",
+      "text": "“I am sending you out like sheep among wolves. Therefore be as shrewd as snakes and as innocent as doves.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Be on your guard; you will be handed over to the local councils and be flogged in the synagogues.",
       "verse": 17
     },
     {
-      "text": "",
+      "text": "On my account you will be brought before governors and kings as witnesses to them and to the Gentiles.",
       "verse": 18
     },
     {
-      "text": "",
+      "text": "But when they arrest you, do not worry about what to say or how to say it. At that time you will be given what to say,",
       "verse": 19
     },
     {
-      "text": "",
+      "text": "for it will not be you speaking, but the Spirit of your Father speaking through you.",
       "verse": 20
     },
     {
-      "text": "",
+      "text": "“Brother will betray brother to death, and a father his child; children will rebel against their parents and have them put to death.",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "You will be hated by everyone because of me, but the one who stands firm to the end will be saved.",
       "verse": 22
     },
     {
-      "text": "",
+      "text": "When you are persecuted in one place, flee to another. Truly I tell you, you will not finish going through the towns of Israel before the Son of Man comes.",
       "verse": 23
     },
     {
-      "text": "",
+      "text": "“The student is not above the teacher, nor a servant above his master.",
       "verse": 24,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "It is enough for students to be like their teachers, and servants like their masters. If the head of the house has been called Beelzebul, how much more the members of his household!",
       "verse": 25
     },
     {
-      "text": "",
+      "text": "“So do not be afraid of them, for there is nothing concealed that will not be disclosed, or hidden that will not be made known.",
       "verse": 26,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "What I tell you in the dark, speak in the daylight; what is whispered in your ear, proclaim from the roofs.",
       "verse": 27
     },
     {
-      "text": "",
+      "text": "Do not be afraid of those who kill the body but cannot kill the soul. Rather, be afraid of the One who can destroy both soul and body in hell.",
       "verse": 28
     },
     {
-      "text": "",
+      "text": "Are not two sparrows sold for a penny? Yet not one of them will fall to the ground outside your Father’s care.",
       "verse": 29
     },
     {
-      "text": "",
+      "text": "And even the very hairs of your head are all numbered.",
       "verse": 30
     },
     {
-      "text": "",
+      "text": "So don’t be afraid; you are worth more than many sparrows.",
       "verse": 31
     },
     {
-      "text": "",
+      "text": "“Whoever acknowledges me before others, I will also acknowledge before my Father in heaven.",
       "verse": 32,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "But whoever disowns me before others, I will disown before my Father in heaven.",
       "verse": 33
     },
     {
-      "text": "",
+      "text": "“Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword.",
       "verse": 34,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "For I have come to turn",
       "verse": 35
     },
     {
-      "text": "",
+      "text": "“‘a man against his father,",
       "verse": 35,
       "type": "poetry newline"
     },
     {
-      "text": "",
+      "text": "a daughter against her mother,",
       "verse": 35,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "a daughter-in-law against her mother-in-law—",
       "verse": 35,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "    a man’s enemies will be the members of his own household.’",
       "verse": 36,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "“Anyone who loves their father or mother more than me is not worthy of me; anyone who loves their son or daughter more than me is not worthy of me.",
       "verse": 37,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Whoever does not take up their cross and follow me is not worthy of me.",
       "verse": 38
     },
     {
-      "text": "",
+      "text": "Whoever finds their life will lose it, and whoever loses their life for my sake will find it.",
       "verse": 39
     },
     {
-      "text": "",
+      "text": "“Anyone who welcomes you welcomes me, and anyone who welcomes me welcomes the one who sent me.",
       "verse": 40,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Whoever welcomes a prophet as a prophet will receive a prophet’s reward, and whoever welcomes a righteous person as a righteous person will receive a righteous person’s reward.",
       "verse": 41
     },
     {
-      "text": "",
+      "text": "And if anyone gives even a cup of cold water to one of these little ones who is my disciple, truly I tell you, that person will certainly not lose their reward.”",
       "verse": 42
     }
   ]

@@ -2,18 +2,19 @@
   "book_id": "1KGS",
   "book_name": "1 Kings",
   "chapter": 9,
+  "verses": 28,
   "content": [
     {
-      "text": "And it came to pass, when Solomon had finished the building of the house of the , and the king's house, and all Solomon's desire which he was pleased to do,",
+      "text": "And it came to pass, when Solomon had finished the building of the house of the Lord, and the king's house, and all Solomon's desire which he was pleased to do,",
       "verse": 1
     },
     {
-      "text": "That the  appeared to Solomon the second time, as he had appeared unto him at Gibeon.",
+      "text": "That the Lord appeared to Solomon the second time, as he had appeared unto him at Gibeon.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "And the  said unto him, I have heard thy prayer and thy supplication, that thou hast made before me: I have hallowed this house, which thou hast built, to put my name there for ever; and mine eyes and mine heart shall be there perpetually.",
+      "text": "And the Lord said unto him, I have heard thy prayer and thy supplication, that thou hast made before me: I have hallowed this house, which thou hast built, to put my name there for ever; and mine eyes and mine heart shall be there perpetually.",
       "verse": 3,
       "type": "newline"
     },
@@ -38,17 +39,17 @@
       "type": "newline"
     },
     {
-      "text": "And at this house, which is high, every one that passeth by it shall be astonished, and shall hiss; and they shall say, Why hath the  done thus unto this land, and to this house?",
+      "text": "And at this house, which is high, every one that passeth by it shall be astonished, and shall hiss; and they shall say, Why hath the Lord done thus unto this land, and to this house?",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "And they shall answer, Because they forsook the  their God, who brought forth their fathers out of the land of Egypt, and have taken hold upon other gods, and have worshipped them, and served them: therefore hath the  brought upon them all this evil.",
+      "text": "And they shall answer, Because they forsook the Lord their God, who brought forth their fathers out of the land of Egypt, and have taken hold upon other gods, and have worshipped them, and served them: therefore hath the Lord brought upon them all this evil.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "And it came to pass at the end of twenty years, when Solomon had built the two houses, the house of the , and the king's house,",
+      "text": "And it came to pass at the end of twenty years, when Solomon had built the two houses, the house of the Lord, and the king's house,",
       "verse": 10,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "And this is the reason of the levy which king Solomon raised; for to build the house of the , and his own house, and Millo, and the wall of Jerusalem, and Hazor, and Megiddo, and Gezer.",
+      "text": "And this is the reason of the levy which king Solomon raised; for to build the house of the Lord, and his own house, and Millo, and the wall of Jerusalem, and Hazor, and Megiddo, and Gezer.",
       "verse": 15,
       "type": "newline"
     },
@@ -123,7 +124,7 @@
       "type": "newline"
     },
     {
-      "text": "And three times in a year did Solomon offer burnt offerings and peace offerings upon the altar which he built unto the , and he burnt incense upon the altar that was before the . So he finished the house.",
+      "text": "And three times in a year did Solomon offer burnt offerings and peace offerings upon the altar which he built unto the Lord, and he burnt incense upon the altar that was before the Lord. So he finished the house.",
       "verse": 25,
       "type": "newline"
     },

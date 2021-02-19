@@ -2,9 +2,10 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 22,
+  "verses": 31,
   "content": [
     {
-      "text": "Moreover the word of the  came unto me, saying,",
+      "text": "Moreover the word of the Lord came unto me, saying,",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "Then say thou, Thus saith the Lord , The city sheddeth blood in the midst of it, that her time may come, and maketh idols against herself to defile herself.",
+      "text": "Then say thou, Thus saith the Lord God, The city sheddeth blood in the midst of it, that her time may come, and maketh idols against herself to defile herself.",
       "verse": 3,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "In thee have they taken gifts to shed blood; thou hast taken usury and increase, and thou hast greedily gained of thy neighbours by extortion, and hast forgotten me, saith the Lord .",
+      "text": "In thee have they taken gifts to shed blood; thou hast taken usury and increase, and thou hast greedily gained of thy neighbours by extortion, and hast forgotten me, saith the Lord God.",
       "verse": 12,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "Can thine heart endure, or can thine hands be strong, in the days that I shall deal with thee? I the  have spoken it, and will do it.",
+      "text": "Can thine heart endure, or can thine hands be strong, in the days that I shall deal with thee? I the Lord have spoken it, and will do it.",
       "verse": 14,
       "type": "newline"
     },
@@ -78,12 +79,12 @@
       "type": "newline"
     },
     {
-      "text": "And thou shalt take thine inheritance in thyself in the sight of the heathen, and thou shalt know that I am the .",
+      "text": "And thou shalt take thine inheritance in thyself in the sight of the heathen, and thou shalt know that I am the Lord.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "And the word of the  came unto me, saying,",
+      "text": "And the word of the Lord came unto me, saying,",
       "verse": 17,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore thus saith the Lord ; Because ye are all become dross, behold, therefore I will gather you into the midst of Jerusalem.",
+      "text": "Therefore thus saith the Lord God; Because ye are all become dross, behold, therefore I will gather you into the midst of Jerusalem.",
       "verse": 19,
       "type": "newline"
     },
@@ -108,12 +109,12 @@
       "type": "newline"
     },
     {
-      "text": "As silver is melted in the midst of the furnace, so shall ye be melted in the midst thereof; and ye shall know that I the  have poured out my fury upon you.",
+      "text": "As silver is melted in the midst of the furnace, so shall ye be melted in the midst thereof; and ye shall know that I the Lord have poured out my fury upon you.",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "And the word of the  came unto me, saying,",
+      "text": "And the word of the Lord came unto me, saying,",
       "verse": 23,
       "type": "newline"
     },
@@ -138,7 +139,7 @@
       "type": "newline"
     },
     {
-      "text": "And her prophets have daubed them with untempered morter, seeing vanity, and divining lies unto them, saying, Thus saith the Lord , when the  hath not spoken.",
+      "text": "And her prophets have daubed them with untempered morter, seeing vanity, and divining lies unto them, saying, Thus saith the Lord God, when the Lord hath not spoken.",
       "verse": 28,
       "type": "newline"
     },
@@ -153,7 +154,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore have I poured out mine indignation upon them; I have consumed them with the fire of my wrath: their own way have I recompensed upon their heads, saith the Lord .",
+      "text": "Therefore have I poured out mine indignation upon them; I have consumed them with the fire of my wrath: their own way have I recompensed upon their heads, saith the Lord God.",
       "verse": 31,
       "type": "newline"
     }

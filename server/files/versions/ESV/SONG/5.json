@@ -2,10 +2,11 @@
   "book_id": "SONG",
   "book_name": "Song of Solomon",
   "chapter": 5,
+  "verses": 16,
   "content": [
     {
       "text": "He",
-      "verse": 1
+      "type": "title"
     },
     {
       "text": "I came to my garden, my sister, my bride,",
@@ -29,8 +30,7 @@
     },
     {
       "text": "Others",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Eat, friends, drink,",
@@ -48,8 +48,7 @@
     },
     {
       "text": "She",
-      "verse": 2,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "I slept, but my heart was awake.",
@@ -203,8 +202,7 @@
     },
     {
       "text": "Others",
-      "verse": 9,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "What is your beloved more than another beloved,",
@@ -232,8 +230,7 @@
     },
     {
       "text": "She",
-      "verse": 10,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "My beloved is radiant and ruddy,",

@@ -2,18 +2,19 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 16,
+  "verses": 34,
   "content": [
     {
       "text": "The Day of Atonement",
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses after the death of the two sons of Aaron who died when they approached the .",
+      "text": "The Lord spoke to Moses after the death of the two sons of Aaron who died when they approached the Lord.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "The  said to Moses: “Tell your brother Aaron that he is not to come whenever he chooses into the Most Holy Place behind the curtain in front of the atonement cover on the ark, or else he will die. For I will appear in the cloud over the atonement cover.",
+      "text": "The Lord said to Moses: “Tell your brother Aaron that he is not to come whenever he chooses into the Most Holy Place behind the curtain in front of the atonement cover on the ark, or else he will die. For I will appear in the cloud over the atonement cover.",
       "verse": 2
     },
     {
@@ -35,19 +36,19 @@
       "type": "newline"
     },
     {
-      "text": "Then he is to take the two goats and present them before the  at the entrance to the tent of meeting.",
+      "text": "Then he is to take the two goats and present them before the Lord at the entrance to the tent of meeting.",
       "verse": 7
     },
     {
-      "text": "He is to cast lots for the two goats—one lot for the  and the other for the scapegoat.",
+      "text": "He is to cast lots for the two goats—one lot for the Lord and the other for the scapegoat.",
       "verse": 8
     },
     {
-      "text": "Aaron shall bring the goat whose lot falls to the  and sacrifice it for a sin offering.",
+      "text": "Aaron shall bring the goat whose lot falls to the Lord and sacrifice it for a sin offering.",
       "verse": 9
     },
     {
-      "text": "But the goat chosen by lot as the scapegoat shall be presented alive before the  to be used for making atonement by sending it into the wilderness as a scapegoat.",
+      "text": "But the goat chosen by lot as the scapegoat shall be presented alive before the Lord to be used for making atonement by sending it into the wilderness as a scapegoat.",
       "verse": 10
     },
     {
@@ -56,11 +57,11 @@
       "type": "newline"
     },
     {
-      "text": "He is to take a censer full of burning coals from the altar before the  and two handfuls of finely ground fragrant incense and take them behind the curtain.",
+      "text": "He is to take a censer full of burning coals from the altar before the Lord and two handfuls of finely ground fragrant incense and take them behind the curtain.",
       "verse": 12
     },
     {
-      "text": "He is to put the incense on the fire before the , and the smoke of the incense will conceal the atonement cover above the tablets of the covenant law, so that he will not die.",
+      "text": "He is to put the incense on the fire before the Lord, and the smoke of the incense will conceal the atonement cover above the tablets of the covenant law, so that he will not die.",
       "verse": 13
     },
     {
@@ -81,7 +82,7 @@
       "verse": 17
     },
     {
-      "text": "“Then he shall come out to the altar that is before the  and make atonement for it. He shall take some of the bull’s blood and some of the goat’s blood and put it on all the horns of the altar.",
+      "text": "“Then he shall come out to the altar that is before the Lord and make atonement for it. He shall take some of the bull’s blood and some of the goat’s blood and put it on all the horns of the altar.",
       "verse": 18,
       "type": "newline"
     },
@@ -134,7 +135,7 @@
       "type": "newline"
     },
     {
-      "text": "because on this day atonement will be made for you, to cleanse you. Then, before the , you will be clean from all your sins.",
+      "text": "because on this day atonement will be made for you, to cleanse you. Then, before the Lord, you will be clean from all your sins.",
       "verse": 30
     },
     {
@@ -155,7 +156,7 @@
       "type": "newline"
     },
     {
-      "text": "And it was done, as the  commanded Moses.",
+      "text": "And it was done, as the Lord commanded Moses.",
       "verse": 34,
       "type": "newline"
     }

@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 5,
+  "verses": 12,
   "content": [
     {
       "text": "Lead Me in Your Righteousness",
@@ -9,11 +10,10 @@
     },
     {
       "text": "To the choirmaster: for the flutes. A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Give ear to my words, O ;",
+      "text": "Give ear to my words, O Lord;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -38,7 +38,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , in the morning you hear my voice;",
+      "text": "O Lord, in the morning you hear my voice;",
       "verse": 3,
       "type": "poetry"
     },
@@ -73,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  abhors the bloodthirsty and deceitful man.",
+      "text": "the Lord abhors the bloodthirsty and deceitful man.",
       "verse": 6,
       "type": "poetry"
     },
@@ -98,7 +98,7 @@
       "type": "poetry"
     },
     {
-      "text": "Lead me, O , in your righteousness",
+      "text": "Lead me, O Lord, in your righteousness",
       "verse": 8,
       "type": "poetry"
     },
@@ -173,7 +173,7 @@
       "type": "poetry"
     },
     {
-      "text": "For you bless the righteous, O ;",
+      "text": "For you bless the righteous, O Lord;",
       "verse": 12,
       "type": "poetry"
     },

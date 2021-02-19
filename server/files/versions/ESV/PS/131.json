@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 131,
+  "verses": 3,
   "content": [
     {
       "text": "I Have Calmed and Quieted My Soul",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A Song of Ascents. Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "O , my heart is not lifted up;",
+      "text": "O Lord, my heart is not lifted up;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -48,7 +48,7 @@
       "type": "poetry"
     },
     {
-      "text": "O Israel, hope in the",
+      "text": "O Israel, hope in the Lord",
       "verse": 3,
       "type": "poetry newline"
     },

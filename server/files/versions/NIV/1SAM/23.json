@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 23,
+  "verses": 29,
   "content": [
     {
       "text": "David Saves Keilah",
@@ -13,11 +14,11 @@
       "type": "newline"
     },
     {
-      "text": "he inquired of the , saying, “Shall I go and attack these Philistines?”",
+      "text": "he inquired of the Lord, saying, “Shall I go and attack these Philistines?”",
       "verse": 2
     },
     {
-      "text": "The  answered him, “Go, attack the Philistines and save Keilah.”",
+      "text": "The Lord answered him, “Go, attack the Philistines and save Keilah.”",
       "verse": 2,
       "type": "newline"
     },
@@ -27,7 +28,7 @@
       "type": "newline"
     },
     {
-      "text": "Once again David inquired of the , and the  answered him, “Go down to Keilah, for I am going to give the Philistines into your hand.”",
+      "text": "Once again David inquired of the Lord, and the Lord answered him, “Go down to Keilah, for I am going to give the Philistines into your hand.”",
       "verse": 4,
       "type": "newline"
     },
@@ -58,15 +59,15 @@
       "type": "newline"
     },
     {
-      "text": "David said, “, God of Israel, your servant has heard definitely that Saul plans to come to Keilah and destroy the town on account of me.",
+      "text": "David said, “Lord, God of Israel, your servant has heard definitely that Saul plans to come to Keilah and destroy the town on account of me.",
       "verse": 10
     },
     {
-      "text": "Will the citizens of Keilah surrender me to him? Will Saul come down, as your servant has heard? , God of Israel, tell your servant.”",
+      "text": "Will the citizens of Keilah surrender me to him? Will Saul come down, as your servant has heard? Lord, God of Israel, tell your servant.”",
       "verse": 11
     },
     {
-      "text": "And the  said, “He will.”",
+      "text": "And the Lord said, “He will.”",
       "verse": 11,
       "type": "newline"
     },
@@ -76,7 +77,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  said, “They will.”",
+      "text": "And the Lord said, “They will.”",
       "verse": 12,
       "type": "newline"
     },
@@ -104,7 +105,7 @@
       "verse": 17
     },
     {
-      "text": "The two of them made a covenant before the . Then Jonathan went home, but David remained at Horesh.",
+      "text": "The two of them made a covenant before the Lord. Then Jonathan went home, but David remained at Horesh.",
       "verse": 18
     },
     {
@@ -117,7 +118,7 @@
       "verse": 20
     },
     {
-      "text": "Saul replied, “The  bless you for your concern for me.",
+      "text": "Saul replied, “The Lord bless you for your concern for me.",
       "verse": 21,
       "type": "newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 17,
+  "verses": 27,
   "content": [
     {
       "text": "The Transfiguration",
@@ -36,7 +37,7 @@
       "type": "newline"
     },
     {
-      "text": "But Jesus came and touched them.  he said.",
+      "text": "But Jesus came and touched them. “Get up,” he said. “Don’t be afraid.”",
       "verse": 7
     },
     {
@@ -44,7 +45,7 @@
       "verse": 8
     },
     {
-      "text": "As they were coming down the mountain, Jesus instructed them,",
+      "text": "As they were coming down the mountain, Jesus instructed them, “Don’t tell anyone what you have seen, until the Son of Man has been raised from the dead.”",
       "verse": 9,
       "type": "newline"
     },
@@ -54,12 +55,12 @@
       "type": "newline"
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “To be sure, Elijah comes and will restore all things.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "But I tell you, Elijah has already come, and they did not recognize him, but have done to him everything they wished. In the same way the Son of Man is going to suffer at their hands.”",
       "verse": 12
     },
     {
@@ -84,7 +85,7 @@
       "verse": 16
     },
     {
-      "text": "Jesus replied,",
+      "text": "“You unbelieving and perverse generation,” Jesus replied, “how long shall I stay with you? How long shall I put up with you? Bring the boy here to me.”",
       "verse": 17,
       "type": "newline"
     },
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "He replied,",
+      "text": "He replied, “Because you have so little faith. Truly I tell you, if you have faith as small as a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.”",
       "verse": 20,
       "type": "newline"
     },
@@ -111,12 +112,12 @@
       "type": "heading"
     },
     {
-      "text": "When they came together in Galilee, he said to them,",
+      "text": "When they came together in Galilee, he said to them, “The Son of Man is going to be delivered into the hands of men.",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "And the disciples were filled with grief.",
+      "text": "They will kill him, and on the third day he will be raised to life.” And the disciples were filled with grief.",
       "verse": 23
     },
     {
@@ -134,7 +135,7 @@
       "type": "newline"
     },
     {
-      "text": "When Peter came into the house, Jesus was the first to speak.  he asked.",
+      "text": "When Peter came into the house, Jesus was the first to speak. “What do you think, Simon?” he asked. “From whom do the kings of the earth collect duty and taxes—from their own children or from others?”",
       "verse": 25,
       "type": "newline"
     },
@@ -144,12 +145,12 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said to him.",
+      "text": "“Then the children are exempt,” Jesus said to him.",
       "verse": 26,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“But so that we may not cause offense, go to the lake and throw out your line. Take the first fish you catch; open its mouth and you will find a four-drachma coin. Take it and give it to them for my tax and yours.”",
       "verse": 27
     }
   ]

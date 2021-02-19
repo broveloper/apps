@@ -2,9 +2,10 @@
   "book_id": "JONAH",
   "book_name": "Jonah",
   "chapter": 1,
+  "verses": 17,
   "content": [
     {
-      "text": "Now the word of the  came unto Jonah the son of Amittai, saying,",
+      "text": "Now the word of the Lord came unto Jonah the son of Amittai, saying,",
       "verse": 1
     },
     {
@@ -13,12 +14,12 @@
       "type": "newline"
     },
     {
-      "text": "But Jonah rose up to flee unto Tarshish from the presence of the , and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the .",
+      "text": "But Jonah rose up to flee unto Tarshish from the presence of the Lord, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the Lord.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "But the  sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.",
+      "text": "But the Lord sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.",
       "verse": 4,
       "type": "newline"
     },
@@ -43,12 +44,12 @@
       "type": "newline"
     },
     {
-      "text": "And he said unto them, I am an Hebrew; and I fear the , the God of heaven, which hath made the sea and the dry land.",
+      "text": "And he said unto them, I am an Hebrew; and I fear the Lord, the God of heaven, which hath made the sea and the dry land.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "Then were the men exceedingly afraid, and said unto him. Why hast thou done this? For the men knew that he fled from the presence of the , because he had told them.",
+      "text": "Then were the men exceedingly afraid, and said unto him. Why hast thou done this? For the men knew that he fled from the presence of the Lord, because he had told them.",
       "verse": 10,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "Wherefore they cried unto the , and said, We beseech thee, O , we beseech thee, let us not perish for this man's life, and lay not upon us innocent blood: for thou, O , hast done as it pleased thee.",
+      "text": "Wherefore they cried unto the Lord, and said, We beseech thee, O Lord, we beseech thee, let us not perish for this man's life, and lay not upon us innocent blood: for thou, O Lord, hast done as it pleased thee.",
       "verse": 14,
       "type": "newline"
     },
@@ -78,12 +79,12 @@
       "type": "newline"
     },
     {
-      "text": "Then the men feared the  exceedingly, and offered a sacrifice unto the , and made vows.",
+      "text": "Then the men feared the Lord exceedingly, and offered a sacrifice unto the Lord, and made vows.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "Now the  had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.",
+      "text": "Now the Lord had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.",
       "verse": 17,
       "type": "newline"
     }

@@ -2,6 +2,7 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 8,
+  "verses": 14,
   "content": [
     {
       "text": "Israel Will Reap the Whirlwind",
@@ -13,7 +14,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "One like a vulture is over the house of the ,",
+      "text": "One like a vulture is over the house of the Lord,",
       "verse": 1,
       "type": "poetry"
     },
@@ -218,7 +219,7 @@
       "type": "poetry"
     },
     {
-      "text": "but the  does not accept them.",
+      "text": "but the Lord does not accept them.",
       "verse": 13,
       "type": "poetry"
     },

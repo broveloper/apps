@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 35,
+  "verses": 34,
   "content": [
     {
       "text": "Towns for the Levites",
       "type": "heading"
     },
     {
-      "text": "On the plains of Moab by the Jordan across from Jericho, the  said to Moses,",
+      "text": "On the plains of Moab by the Jordan across from Jericho, the Lord said to Moses,",
       "verse": 1,
       "type": "newline"
     },
@@ -47,7 +48,7 @@
       "verse": 8
     },
     {
-      "text": "Then the  said to Moses:",
+      "text": "Then the Lord said to Moses:",
       "verse": 9,
       "type": "newline"
     },
@@ -156,7 +157,7 @@
       "type": "newline"
     },
     {
-      "text": "Do not defile the land where you live and where I dwell, for I, the , dwell among the Israelites.’”",
+      "text": "Do not defile the land where you live and where I dwell, for I, the Lord, dwell among the Israelites.’”",
       "verse": 34
     }
   ]

@@ -2,6 +2,7 @@
   "book_id": "MARK",
   "book_name": "Mark",
   "chapter": 16,
+  "verses": 20,
   "content": [
     {
       "text": "The Resurrection",
@@ -85,19 +86,19 @@
       "type": "newline"
     },
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “Go into all the world and proclaim the gospel to the whole creation.",
       "verse": 15
     },
     {
-      "text": "",
+      "text": "Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.",
       "verse": 16
     },
     {
-      "text": "",
+      "text": "And these signs will accompany those who believe: in my name they will cast out demons; they will speak in new tongues;",
       "verse": 17
     },
     {
-      "text": "",
+      "text": "they will pick up serpents with their hands; and if they drink any deadly poison, it will not hurt them; they will lay their hands on the sick, and they will recover.”",
       "verse": 18
     },
     {

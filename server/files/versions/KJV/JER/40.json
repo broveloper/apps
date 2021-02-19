@@ -2,18 +2,19 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 40,
+  "verses": 16,
   "content": [
     {
-      "text": "The word that came to Jeremiah from the , after that Nebuzaradan the captain of the guard had let him go from Ramah, when he had taken him being bound in chains among all that were carried away captive of Jerusalem and Judah, which were carried away captive unto Babylon.",
+      "text": "The word that came to Jeremiah from the Lord, after that Nebuzaradan the captain of the guard had let him go from Ramah, when he had taken him being bound in chains among all that were carried away captive of Jerusalem and Judah, which were carried away captive unto Babylon.",
       "verse": 1
     },
     {
-      "text": "And the captain of the guard took Jeremiah, and said unto him, The  thy God hath pronounced this evil upon this place.",
+      "text": "And the captain of the guard took Jeremiah, and said unto him, The Lord thy God hath pronounced this evil upon this place.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "Now the  hath brought it, and done according as he hath said: because ye have sinned against the , and have not obeyed his voice, therefore this thing is come upon you.",
+      "text": "Now the Lord hath brought it, and done according as he hath said: because ye have sinned against the Lord, and have not obeyed his voice, therefore this thing is come upon you.",
       "verse": 3,
       "type": "newline"
     },

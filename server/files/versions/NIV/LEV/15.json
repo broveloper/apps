@@ -2,13 +2,14 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 15,
+  "verses": 33,
   "content": [
     {
       "text": "Discharges Causing Uncleanness",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses and Aaron,",
+      "text": "The Lord said to Moses and Aaron,",
       "verse": 1,
       "type": "newline"
     },
@@ -68,11 +69,11 @@
       "type": "newline"
     },
     {
-      "text": "On the eighth day he must take two doves or two young pigeons and come before the  to the entrance to the tent of meeting and give them to the priest.",
+      "text": "On the eighth day he must take two doves or two young pigeons and come before the Lord to the entrance to the tent of meeting and give them to the priest.",
       "verse": 14
     },
     {
-      "text": "The priest is to sacrifice them, the one for a sin offering and the other for a burnt offering. In this way he will make atonement before the  for the man because of his discharge.",
+      "text": "The priest is to sacrifice them, the one for a sin offering and the other for a burnt offering. In this way he will make atonement before the Lord for the man because of his discharge.",
       "verse": 15
     },
     {
@@ -138,7 +139,7 @@
       "verse": 29
     },
     {
-      "text": "The priest is to sacrifice one for a sin offering and the other for a burnt offering. In this way he will make atonement for her before the  for the uncleanness of her discharge.",
+      "text": "The priest is to sacrifice one for a sin offering and the other for a burnt offering. In this way he will make atonement for her before the Lord for the uncleanness of her discharge.",
       "verse": 30
     },
     {

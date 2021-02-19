@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 72,
+  "verses": 20,
   "content": [
     {
       "text": "Psalm 72",
@@ -9,8 +10,7 @@
     },
     {
       "text": "Of Solomon.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Endow the king with your justice, O God,",
@@ -228,7 +228,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise be to the  God, the God of Israel,",
+      "text": "Praise be to the Lord God, the God of Israel,",
       "verse": 18,
       "type": "poetry newline"
     },

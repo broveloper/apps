@@ -2,9 +2,10 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 42,
+  "verses": 25,
   "content": [
     {
-      "text": "The 's Chosen Servant",
+      "text": "The Lord's Chosen Servant",
       "type": "heading"
     },
     {
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "Thus says God, the ,",
+      "text": "Thus says God, the Lord,",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -93,7 +94,7 @@
       "type": "poetry"
     },
     {
-      "text": "“I am the ; I have called you in righteousness;",
+      "text": "“I am the Lord; I have called you in righteousness;",
       "verse": 6,
       "type": "poetry"
     },
@@ -113,7 +114,7 @@
       "type": "poetry"
     },
     {
-      "text": "to open the eyes that are blind,",
+      "text": "    to open the eyes that are blind,",
       "verse": 7,
       "type": "poetry"
     },
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "I am the ; that is my name;",
+      "text": "I am the Lord; that is my name;",
       "verse": 8,
       "type": "poetry"
     },
@@ -163,11 +164,11 @@
       "type": "poetry"
     },
     {
-      "text": "Sing to the  a New Song",
+      "text": "Sing to the Lord a New Song",
       "type": "heading"
     },
     {
-      "text": "Sing to the  a new song,",
+      "text": "Sing to the Lord a new song,",
       "verse": 10,
       "type": "poetry newline"
     },
@@ -207,7 +208,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let them give glory to the ,",
+      "text": "Let them give glory to the Lord,",
       "verse": 12,
       "type": "poetry"
     },
@@ -217,7 +218,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  goes out like a mighty man,",
+      "text": "The Lord goes out like a mighty man,",
       "verse": 13,
       "type": "poetry"
     },
@@ -366,7 +367,7 @@
       "type": "poetry"
     },
     {
-      "text": "or blind as the servant of the ?",
+      "text": "or blind as the servant of the Lord?",
       "verse": 19,
       "type": "poetry"
     },
@@ -381,7 +382,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  was pleased, for his righteousness' sake,",
+      "text": "The Lord was pleased, for his righteousness' sake,",
       "verse": 21,
       "type": "poetry"
     },
@@ -436,7 +437,7 @@
       "type": "poetry"
     },
     {
-      "text": "Was it not the , against whom we have sinned,",
+      "text": "Was it not the Lord, against whom we have sinned,",
       "verse": 24,
       "type": "poetry"
     },

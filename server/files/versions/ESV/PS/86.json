@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 86,
+  "verses": 17,
   "content": [
     {
       "text": "Great Is Your Steadfast Love",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A Prayer of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Incline your ear, O , and answer me,",
+      "text": "Incline your ear, O Lord, and answer me,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -63,7 +63,7 @@
       "type": "poetry"
     },
     {
-      "text": "Give ear, O , to my prayer;",
+      "text": "Give ear, O Lord, to my prayer;",
       "verse": 6,
       "type": "poetry"
     },
@@ -118,7 +118,7 @@
       "type": "poetry"
     },
     {
-      "text": "Teach me your way, O ,",
+      "text": "Teach me your way, O Lord,",
       "verse": 11,
       "type": "poetry"
     },
@@ -203,7 +203,7 @@
       "type": "poetry"
     },
     {
-      "text": "because you, , have helped me and comforted me.",
+      "text": "because you, Lord, have helped me and comforted me.",
       "verse": 17,
       "type": "poetry"
     }

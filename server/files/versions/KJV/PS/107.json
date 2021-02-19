@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 107,
+  "verses": 43,
   "content": [
     {
-      "text": "O give thanks unto the , for he is good: for his mercy endureth for ever.",
+      "text": "O give thanks unto the Lord, for he is good: for his mercy endureth for ever.",
       "verse": 1
     },
     {
-      "text": "Let the redeemed of the  say so, whom he hath redeemed from the hand of the enemy;",
+      "text": "Let the redeemed of the Lord say so, whom he hath redeemed from the hand of the enemy;",
       "verse": 2,
       "type": "newline"
     },
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "Then they cried unto the  in their trouble, and he delivered them out of their distresses.",
+      "text": "Then they cried unto the Lord in their trouble, and he delivered them out of their distresses.",
       "verse": 6,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "Oh that men would praise the  for his goodness, and for his wonderful works to the children of men!",
+      "text": "Oh that men would praise the Lord for his goodness, and for his wonderful works to the children of men!",
       "verse": 8,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "Then they cried unto the  in their trouble, and he saved them out of their distresses.",
+      "text": "Then they cried unto the Lord in their trouble, and he saved them out of their distresses.",
       "verse": 13,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "Oh that men would praise the  for his goodness, and for his wonderful works to the children of men!",
+      "text": "Oh that men would praise the Lord for his goodness, and for his wonderful works to the children of men!",
       "verse": 15,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "Then they cry unto the  in their trouble, and he saveth them out of their distresses.",
+      "text": "Then they cry unto the Lord in their trouble, and he saveth them out of their distresses.",
       "verse": 19,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "Oh that men would praise the  for his goodness, and for his wonderful works to the children of men!",
+      "text": "Oh that men would praise the Lord for his goodness, and for his wonderful works to the children of men!",
       "verse": 21,
       "type": "newline"
     },
@@ -118,7 +119,7 @@
       "type": "newline"
     },
     {
-      "text": "These see the works of the , and his wonders in the deep.",
+      "text": "These see the works of the Lord, and his wonders in the deep.",
       "verse": 24,
       "type": "newline"
     },
@@ -138,7 +139,7 @@
       "type": "newline"
     },
     {
-      "text": "Then they cry unto the  in their trouble, and he bringeth them out of their distresses.",
+      "text": "Then they cry unto the Lord in their trouble, and he bringeth them out of their distresses.",
       "verse": 28,
       "type": "newline"
     },
@@ -153,7 +154,7 @@
       "type": "newline"
     },
     {
-      "text": "Oh that men would praise the  for his goodness, and for his wonderful works to the children of men!",
+      "text": "Oh that men would praise the Lord for his goodness, and for his wonderful works to the children of men!",
       "verse": 31,
       "type": "newline"
     },
@@ -213,7 +214,7 @@
       "type": "newline"
     },
     {
-      "text": "Whoso is wise, and will observe these things, even they shall understand the lovingkindness of the .",
+      "text": "Whoso is wise, and will observe these things, even they shall understand the lovingkindness of the Lord.",
       "verse": 43,
       "type": "newline"
     }

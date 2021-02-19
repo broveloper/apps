@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 19,
+  "verses": 22,
   "content": [
     {
-      "text": "And the  spake unto Moses and unto Aaron, saying,",
+      "text": "And the Lord spake unto Moses and unto Aaron, saying,",
       "verse": 1
     },
     {
-      "text": "This is the ordinance of the law which the  hath commanded, saying, Speak unto the children of Israel, that they bring thee a red heifer without spot, wherein is no blemish, and upon which never came yoke:",
+      "text": "This is the ordinance of the law which the Lord hath commanded, saying, Speak unto the children of Israel, that they bring thee a red heifer without spot, wherein is no blemish, and upon which never came yoke:",
       "verse": 2,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "Whosoever toucheth the dead body of any man that is dead, and purifieth not himself, defileth the tabernacle of the ; and that soul shall be cut off from Israel: because the water of separation was not sprinkled upon him, he shall be unclean; his uncleanness is yet upon him.",
+      "text": "Whosoever toucheth the dead body of any man that is dead, and purifieth not himself, defileth the tabernacle of the Lord; and that soul shall be cut off from Israel: because the water of separation was not sprinkled upon him, he shall be unclean; his uncleanness is yet upon him.",
       "verse": 13,
       "type": "newline"
     },
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "But the man that shall be unclean, and shall not purify himself, that soul shall be cut off from among the congregation, because he hath defiled the sanctuary of the : the water of separation hath not been sprinkled upon him; he is unclean.",
+      "text": "But the man that shall be unclean, and shall not purify himself, that soul shall be cut off from among the congregation, because he hath defiled the sanctuary of the Lord: the water of separation hath not been sprinkled upon him; he is unclean.",
       "verse": 20,
       "type": "newline"
     },

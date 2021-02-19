@@ -2,6 +2,7 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 32,
+  "verses": 35,
   "content": [
     {
       "text": "And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.",
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "And when Aaron saw it, he built an altar before it; and Aaron made proclamation, and said, To morrow is a feast to the .",
+      "text": "And when Aaron saw it, he built an altar before it; and Aaron made proclamation, and said, To morrow is a feast to the Lord.",
       "verse": 5,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  said unto Moses, Go, get thee down; for thy people, which thou broughtest out of the land of Egypt, have corrupted themselves:",
+      "text": "And the Lord said unto Moses, Go, get thee down; for thy people, which thou broughtest out of the land of Egypt, have corrupted themselves:",
       "verse": 7,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  said unto Moses, I have seen this people, and, behold, it is a stiffnecked people:",
+      "text": "And the Lord said unto Moses, I have seen this people, and, behold, it is a stiffnecked people:",
       "verse": 9,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "And Moses besought the  his God, and said, , why doth thy wrath wax hot against thy people, which thou hast brought forth out of the land of Egypt with great power, and with a mighty hand?",
+      "text": "And Moses besought the Lord his God, and said, Lord, why doth thy wrath wax hot against thy people, which thou hast brought forth out of the land of Egypt with great power, and with a mighty hand?",
       "verse": 11,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  repented of the evil which he thought to do unto his people.",
+      "text": "And the Lord repented of the evil which he thought to do unto his people.",
       "verse": 14,
       "type": "newline"
     },
@@ -128,12 +129,12 @@
       "type": "newline"
     },
     {
-      "text": "Then Moses stood in the gate of the camp, and said, Who is on the 's side? let him come unto me. And all the sons of Levi gathered themselves together unto him.",
+      "text": "Then Moses stood in the gate of the camp, and said, Who is on the Lord's side? let him come unto me. And all the sons of Levi gathered themselves together unto him.",
       "verse": 26,
       "type": "newline"
     },
     {
-      "text": "And he said unto them, Thus saith the  God of Israel, Put every man his sword by his side, and go in and out from gate to gate throughout the camp, and slay every man his brother, and every man his companion, and every man his neighbour.",
+      "text": "And he said unto them, Thus saith the Lord God of Israel, Put every man his sword by his side, and go in and out from gate to gate throughout the camp, and slay every man his brother, and every man his companion, and every man his neighbour.",
       "verse": 27,
       "type": "newline"
     },
@@ -143,17 +144,17 @@
       "type": "newline"
     },
     {
-      "text": "For Moses had said, Consecrate yourselves today to the , even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day.",
+      "text": "For Moses had said, Consecrate yourselves today to the Lord, even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day.",
       "verse": 29,
       "type": "newline"
     },
     {
-      "text": "And it came to pass on the morrow, that Moses said unto the people, Ye have sinned a great sin: and now I will go up unto the ; peradventure I shall make an atonement for your sin.",
+      "text": "And it came to pass on the morrow, that Moses said unto the people, Ye have sinned a great sin: and now I will go up unto the Lord; peradventure I shall make an atonement for your sin.",
       "verse": 30,
       "type": "newline"
     },
     {
-      "text": "And Moses returned unto the , and said, Oh, this people have sinned a great sin, and have made them gods of gold.",
+      "text": "And Moses returned unto the Lord, and said, Oh, this people have sinned a great sin, and have made them gods of gold.",
       "verse": 31,
       "type": "newline"
     },
@@ -163,7 +164,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  said unto Moses, Whosoever hath sinned against me, him will I blot out of my book.",
+      "text": "And the Lord said unto Moses, Whosoever hath sinned against me, him will I blot out of my book.",
       "verse": 33,
       "type": "newline"
     },
@@ -173,7 +174,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  plagued the people, because they made the calf, which Aaron made.",
+      "text": "And the Lord plagued the people, because they made the calf, which Aaron made.",
       "verse": 35,
       "type": "newline"
     }

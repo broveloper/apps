@@ -2,6 +2,7 @@
   "book_id": "MARK",
   "book_name": "Mark",
   "chapter": 1,
+  "verses": 45,
   "content": [
     {
       "text": "John the Baptist Prepares the Way",
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "and saying,",
+      "text": "and saying, “The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel.”",
       "verse": 15
     },
     {
@@ -116,7 +117,7 @@
       "type": "newline"
     },
     {
-      "text": "And Jesus said to them,",
+      "text": "And Jesus said to them, “Follow me, and I will make you become fishers of men.”",
       "verse": 17
     },
     {
@@ -153,7 +154,7 @@
       "verse": 24
     },
     {
-      "text": "But Jesus rebuked him, saying,",
+      "text": "But Jesus rebuked him, saying, “Be silent, and come out of him!”",
       "verse": 25
     },
     {
@@ -216,7 +217,7 @@
       "verse": 37
     },
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “Let us go on to the next towns, that I may preach there also, for that is why I came out.”",
       "verse": 38
     },
     {
@@ -233,7 +234,7 @@
       "type": "newline"
     },
     {
-      "text": "Moved with pity, he stretched out his hand and touched him and said to him,",
+      "text": "Moved with pity, he stretched out his hand and touched him and said to him, “I will; be clean.”",
       "verse": 41
     },
     {
@@ -245,7 +246,7 @@
       "verse": 43
     },
     {
-      "text": "and said to him,",
+      "text": "and said to him, “See that you say nothing to anyone, but go, show yourself to the priest and offer for your cleansing what Moses commanded, for a proof to them.”",
       "verse": 44
     },
     {

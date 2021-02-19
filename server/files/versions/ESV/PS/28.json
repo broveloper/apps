@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 28,
+  "verses": 9,
   "content": [
     {
-      "text": "The  Is My Strength and My Shield",
+      "text": "The Lord Is My Strength and My Shield",
       "type": "heading"
     },
     {
       "text": "Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "To you, O , I call;",
+      "text": "To you, O Lord, I call;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -93,7 +93,7 @@
       "type": "poetry"
     },
     {
-      "text": "Because they do not regard the works of the",
+      "text": "Because they do not regard the works of the Lord",
       "verse": 5,
       "type": "poetry"
     },
@@ -108,7 +108,7 @@
       "type": "poetry"
     },
     {
-      "text": "Blessed be the !",
+      "text": "Blessed be the Lord!",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -118,7 +118,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is my strength and my shield;",
+      "text": "The Lord is my strength and my shield;",
       "verse": 7,
       "type": "poetry"
     },
@@ -138,7 +138,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is the strength of his people;",
+      "text": "The Lord is the strength of his people;",
       "verse": 8,
       "type": "poetry newline"
     },

@@ -2,22 +2,23 @@
   "book_id": "1KGS",
   "book_name": "1 Kings",
   "chapter": 3,
+  "verses": 28,
   "content": [
     {
       "text": "Solomon's Prayer for Wisdom",
       "type": "heading"
     },
     {
-      "text": "Solomon made a marriage alliance with Pharaoh king of Egypt. He took Pharaoh's daughter and brought her into the city of David until he had finished building his own house and the house of the  and the wall around Jerusalem.",
+      "text": "Solomon made a marriage alliance with Pharaoh king of Egypt. He took Pharaoh's daughter and brought her into the city of David until he had finished building his own house and the house of the Lord and the wall around Jerusalem.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "The people were sacrificing at the high places, however, because no house had yet been built for the name of the .",
+      "text": "The people were sacrificing at the high places, however, because no house had yet been built for the name of the Lord.",
       "verse": 2
     },
     {
-      "text": "Solomon loved the , walking in the statutes of David his father, only he sacrificed and made offerings at the high places.",
+      "text": "Solomon loved the Lord, walking in the statutes of David his father, only he sacrificed and made offerings at the high places.",
       "verse": 3,
       "type": "newline"
     },
@@ -26,7 +27,7 @@
       "verse": 4
     },
     {
-      "text": "At Gibeon the  appeared to Solomon in a dream by night, and God said, “Ask what I shall give you.”",
+      "text": "At Gibeon the Lord appeared to Solomon in a dream by night, and God said, “Ask what I shall give you.”",
       "verse": 5
     },
     {
@@ -34,7 +35,7 @@
       "verse": 6
     },
     {
-      "text": "And now, O  my God, you have made your servant king in place of David my father, although I am but a little child. I do not know how to go out or come in.",
+      "text": "And now, O Lord my God, you have made your servant king in place of David my father, although I am but a little child. I do not know how to go out or come in.",
       "verse": 7
     },
     {

@@ -2,18 +2,19 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 47,
+  "verses": 7,
   "content": [
     {
       "text": "A Message About the Philistines",
       "type": "heading"
     },
     {
-      "text": "This is the word of the  that came to Jeremiah the prophet concerning the Philistines before Pharaoh attacked Gaza:",
+      "text": "This is the word of the Lord that came to Jeremiah the prophet concerning the Philistines before Pharaoh attacked Gaza:",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 2,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is about to destroy the Philistines,",
+      "text": "The Lord is about to destroy the Philistines,",
       "verse": 4,
       "type": "poetry"
     },
@@ -123,7 +124,7 @@
       "type": "poetry"
     },
     {
-      "text": "“‘Alas, sword of the ,",
+      "text": "“‘Alas, sword of the Lord,",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -148,7 +149,7 @@
       "type": "poetry"
     },
     {
-      "text": "when the  has commanded it,",
+      "text": "when the Lord has commanded it,",
       "verse": 7,
       "type": "poetry"
     },

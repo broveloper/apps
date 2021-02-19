@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 10,
+  "verses": 48,
   "content": [
     {
       "text": "Peter and Cornelius",
@@ -62,7 +63,7 @@
       "verse": 12
     },
     {
-      "text": "And there came a voice to him:",
+      "text": "And there came a voice to him: “Rise, Peter; kill and eat.”",
       "verse": 13
     },
     {
@@ -70,7 +71,7 @@
       "verse": 14
     },
     {
-      "text": "And the voice came to him again a second time,",
+      "text": "And the voice came to him again a second time, “What God has made clean, do not call common.”",
       "verse": 15
     },
     {

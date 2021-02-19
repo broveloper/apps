@@ -2,18 +2,19 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 19,
+  "verses": 21,
   "content": [
     {
-      "text": "When the  thy God hath cut off the nations, whose land the  thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;",
+      "text": "When the Lord thy God hath cut off the nations, whose land the Lord thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;",
       "verse": 1
     },
     {
-      "text": "Thou shalt separate three cities for thee in the midst of thy land, which the  thy God giveth thee to possess it.",
+      "text": "Thou shalt separate three cities for thee in the midst of thy land, which the Lord thy God giveth thee to possess it.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "Thou shalt prepare thee a way, and divide the coasts of thy land, which the  thy God giveth thee to inherit, into three parts, that every slayer may flee thither.",
+      "text": "Thou shalt prepare thee a way, and divide the coasts of thy land, which the Lord thy God giveth thee to inherit, into three parts, that every slayer may flee thither.",
       "verse": 3,
       "type": "newline"
     },
@@ -38,17 +39,17 @@
       "type": "newline"
     },
     {
-      "text": "And if the  thy God enlarge thy coast, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers;",
+      "text": "And if the Lord thy God enlarge thy coast, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers;",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "If thou shalt keep all these commandments to do them, which I command thee this day, to love the  thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three:",
+      "text": "If thou shalt keep all these commandments to do them, which I command thee this day, to love the Lord thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three:",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "That innocent blood be not shed in thy land, which the  thy God giveth thee for an inheritance, and so blood be upon thee.",
+      "text": "That innocent blood be not shed in thy land, which the Lord thy God giveth thee for an inheritance, and so blood be upon thee.",
       "verse": 10,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "Thou shalt not remove thy neighbour's landmark, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the  thy God giveth thee to possess it.",
+      "text": "Thou shalt not remove thy neighbour's landmark, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the Lord thy God giveth thee to possess it.",
       "verse": 14,
       "type": "newline"
     },
@@ -83,7 +84,7 @@
       "type": "newline"
     },
     {
-      "text": "Then both the men, between whom the controversy is, shall stand before the , before the priests and the judges, which shall be in those days;",
+      "text": "Then both the men, between whom the controversy is, shall stand before the Lord, before the priests and the judges, which shall be in those days;",
       "verse": 17,
       "type": "newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 6,
+  "verses": 13,
   "content": [
     {
       "text": "Isaiah's Vision of the Lord",
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "“Holy, holy, holy is the  of hosts;",
+      "text": "“Holy, holy, holy is the Lord of hosts;",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -36,7 +37,7 @@
       "type": "newline"
     },
     {
-      "text": "And I said: “Woe is me! For I am lost; for I am a man of unclean lips, and I dwell in the midst of a people of unclean lips; for my eyes have seen the King, the  of hosts!”",
+      "text": "And I said: “Woe is me! For I am lost; for I am a man of unclean lips, and I dwell in the midst of a people of unclean lips; for my eyes have seen the King, the Lord of hosts!”",
       "verse": 5
     },
     {
@@ -137,7 +138,7 @@
       "type": "poetry"
     },
     {
-      "text": "and the  removes people far away,",
+      "text": "and the Lord removes people far away,",
       "verse": 12,
       "type": "poetry"
     },

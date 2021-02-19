@@ -2,9 +2,10 @@
   "book_id": "JOEL",
   "book_name": "Joel",
   "chapter": 1,
+  "verses": 20,
   "content": [
     {
-      "text": "The word of the  that came to Joel the son of Pethuel.",
+      "text": "The word of the Lord that came to Joel the son of Pethuel.",
       "verse": 1
     },
     {
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "The meat offering and the drink offering is cut off from the house of the ; the priests, the 's ministers, mourn.",
+      "text": "The meat offering and the drink offering is cut off from the house of the Lord; the priests, the Lord's ministers, mourn.",
       "verse": 9,
       "type": "newline"
     },
@@ -68,12 +69,12 @@
       "type": "newline"
     },
     {
-      "text": "Sanctify ye a fast, call a solemn assembly, gather the elders and all the inhabitants of the land into the house of the  your God, and cry unto the ,",
+      "text": "Sanctify ye a fast, call a solemn assembly, gather the elders and all the inhabitants of the land into the house of the Lord your God, and cry unto the Lord,",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "Alas for the day! for the day of the  is at hand, and as a destruction from the Almighty shall it come.",
+      "text": "Alas for the day! for the day of the Lord is at hand, and as a destruction from the Almighty shall it come.",
       "verse": 15,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "O , to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field.",
+      "text": "O Lord, to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field.",
       "verse": 19,
       "type": "newline"
     },

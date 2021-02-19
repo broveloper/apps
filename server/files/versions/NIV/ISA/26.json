@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 26,
+  "verses": 21,
   "content": [
     {
       "text": "A Song of Praise",
@@ -58,12 +59,12 @@
       "type": "poetry"
     },
     {
-      "text": "Trust in the  forever,",
+      "text": "Trust in the Lord forever,",
       "verse": 4,
       "type": "poetry"
     },
     {
-      "text": "for the , the  himself, is the Rock eternal.",
+      "text": "for the Lord, the Lord himself, is the Rock eternal.",
       "verse": 4,
       "type": "poetry"
     },
@@ -113,7 +114,7 @@
       "type": "poetry"
     },
     {
-      "text": "Yes, , walking in the way of your laws,",
+      "text": "Yes, Lord, walking in the way of your laws,",
       "verse": 8,
       "type": "poetry"
     },
@@ -168,12 +169,12 @@
       "type": "poetry"
     },
     {
-      "text": "and do not regard the majesty of the .",
+      "text": "and do not regard the majesty of the Lord.",
       "verse": 10,
       "type": "poetry"
     },
     {
-      "text": ", your hand is lifted high,",
+      "text": "Lord, your hand is lifted high,",
       "verse": 11,
       "type": "poetry"
     },
@@ -193,7 +194,7 @@
       "type": "poetry"
     },
     {
-      "text": ", you establish peace for us;",
+      "text": "Lord, you establish peace for us;",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -203,7 +204,7 @@
       "type": "poetry"
     },
     {
-      "text": "our God, other lords besides you have ruled over us,",
+      "text": "Lord our God, other lords besides you have ruled over us,",
       "verse": 13,
       "type": "poetry"
     },
@@ -233,7 +234,7 @@
       "type": "poetry"
     },
     {
-      "text": "You have enlarged the nation, ;",
+      "text": "You have enlarged the nation, Lord;",
       "verse": 15,
       "type": "poetry"
     },
@@ -253,7 +254,7 @@
       "type": "poetry"
     },
     {
-      "text": ", they came to you in their distress;",
+      "text": "Lord, they came to you in their distress;",
       "verse": 16,
       "type": "poetry newline"
     },
@@ -278,7 +279,7 @@
       "type": "poetry"
     },
     {
-      "text": "so were we in your presence, .",
+      "text": "so were we in your presence, Lord.",
       "verse": 17,
       "type": "poetry"
     },
@@ -303,7 +304,7 @@
       "type": "poetry"
     },
     {
-      "text": "But your dead will live, ;",
+      "text": "But your dead will live, Lord;",
       "verse": 19,
       "type": "poetry newline"
     },
@@ -353,7 +354,7 @@
       "type": "poetry"
     },
     {
-      "text": "See, the  is coming out of his dwelling",
+      "text": "See, the Lord is coming out of his dwelling",
       "verse": 21,
       "type": "poetry"
     },

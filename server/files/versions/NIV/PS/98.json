@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 98,
+  "verses": 9,
   "content": [
     {
       "text": "Psalm 98",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A psalm.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Sing to the  a new song,",
+      "text": "Sing to the Lord a new song,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has made his salvation known",
+      "text": "The Lord has made his salvation known",
       "verse": 2,
       "type": "poetry"
     },
@@ -63,7 +63,7 @@
       "type": "poetry"
     },
     {
-      "text": "Shout for joy to the , all the earth,",
+      "text": "Shout for joy to the Lord, all the earth,",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -73,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "make music to the  with the harp,",
+      "text": "make music to the Lord with the harp,",
       "verse": 5,
       "type": "poetry"
     },
@@ -88,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "shout for joy before the , the King.",
+      "text": "shout for joy before the Lord, the King.",
       "verse": 6,
       "type": "poetry"
     },
@@ -113,7 +113,7 @@
       "type": "poetry"
     },
     {
-      "text": "let them sing before the ,",
+      "text": "let them sing before the Lord,",
       "verse": 9,
       "type": "poetry"
     },

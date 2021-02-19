@@ -2,6 +2,7 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 23,
+  "verses": 33,
   "content": [
     {
       "text": "Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness.",
@@ -83,7 +84,7 @@
       "type": "newline"
     },
     {
-      "text": "Three times in the year all thy males shall appear before the  God.",
+      "text": "Three times in the year all thy males shall appear before the Lord God.",
       "verse": 17,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "The first of the firstfruits of thy land thou shalt bring into the house of the  thy God. Thou shalt not seethe a kid in his mother's milk.",
+      "text": "The first of the firstfruits of thy land thou shalt bring into the house of the Lord thy God. Thou shalt not seethe a kid in his mother's milk.",
       "verse": 19,
       "type": "newline"
     },
@@ -123,7 +124,7 @@
       "type": "newline"
     },
     {
-      "text": "And ye shall serve the  your God, and he shall bless thy bread, and thy water; and I will take sickness away from the midst of thee.",
+      "text": "And ye shall serve the Lord your God, and he shall bless thy bread, and thy water; and I will take sickness away from the midst of thee.",
       "verse": 25,
       "type": "newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 73,
+  "verses": 28,
   "content": [
     {
       "text": "Book Three",
@@ -13,8 +14,7 @@
     },
     {
       "text": "A Psalm of Asaph.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Truly God is good to Israel,",
@@ -292,7 +292,7 @@
       "type": "poetry"
     },
     {
-      "text": "I have made the Lord  my refuge,",
+      "text": "I have made the Lord God my refuge,",
       "verse": 28,
       "type": "poetry"
     },

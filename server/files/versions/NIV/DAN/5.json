@@ -2,6 +2,7 @@
   "book_id": "DAN",
   "book_name": "Daniel",
   "chapter": 5,
+  "verses": 31,
   "content": [
     {
       "text": "The Writing on the Wall",
@@ -118,7 +119,7 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "mene, mene, tekel, parsin",
       "verse": 25,
       "type": "newline"
     },
@@ -128,16 +129,16 @@
       "type": "newline"
     },
     {
-      "text": ": God has numbered the days of your reign and brought it to an end.",
+      "text": "Mene: God has numbered the days of your reign and brought it to an end.",
       "verse": 26,
       "type": "newline"
     },
     {
-      "text": ": You have been weighed on the scales and found wanting.",
+      "text": "Tekel: You have been weighed on the scales and found wanting.",
       "verse": 27
     },
     {
-      "text": ": Your kingdom is divided and given to the Medes and Persians.”",
+      "text": "Peres: Your kingdom is divided and given to the Medes and Persians.”",
       "verse": 28
     },
     {

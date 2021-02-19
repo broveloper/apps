@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 50,
+  "verses": 23,
   "content": [
     {
-      "text": "The mighty God, even the , hath spoken, and called the earth from the rising of the sun unto the going down thereof.",
+      "text": "The mighty God, even the Lord, hath spoken, and called the earth from the rising of the sun unto the going down thereof.",
       "verse": 1
     },
     {

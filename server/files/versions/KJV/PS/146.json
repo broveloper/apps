@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 146,
+  "verses": 10,
   "content": [
     {
-      "text": "Praise ye the . Praise the , O my soul.",
+      "text": "Praise ye the Lord. Praise the Lord, O my soul.",
       "verse": 1
     },
     {
-      "text": "While I live will I praise the : I will sing praises unto my God while I have any being.",
+      "text": "While I live will I praise the Lord: I will sing praises unto my God while I have any being.",
       "verse": 2,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "Happy is he that hath the God of Jacob for his help, whose hope is in the  his God:",
+      "text": "Happy is he that hath the God of Jacob for his help, whose hope is in the Lord his God:",
       "verse": 5,
       "type": "newline"
     },
@@ -33,22 +34,22 @@
       "type": "newline"
     },
     {
-      "text": "Which executeth judgment for the oppressed: which giveth food to the hungry. The  looseth the prisoners:",
+      "text": "Which executeth judgment for the oppressed: which giveth food to the hungry. The Lord looseth the prisoners:",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "The  openeth the eyes of the blind: the  raiseth them that are bowed down: the  loveth the righteous:",
+      "text": "The Lord openeth the eyes of the blind: the Lord raiseth them that are bowed down: the Lord loveth the righteous:",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "The  preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.",
+      "text": "The Lord preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "The  shall reign for ever, even thy God, O Zion, unto all generations. Praise ye the .",
+      "text": "The Lord shall reign for ever, even thy God, O Zion, unto all generations. Praise ye the Lord.",
       "verse": 10,
       "type": "newline"
     }

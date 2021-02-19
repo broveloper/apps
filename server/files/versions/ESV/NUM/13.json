@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 13,
+  "verses": 33,
   "content": [
     {
       "text": "Spies Sent into Canaan",
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses, saying,",
+      "text": "The Lord spoke to Moses, saying,",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "So Moses sent them from the wilderness of Paran, according to the command of the , all of them men who were heads of the people of Israel.",
+      "text": "So Moses sent them from the wilderness of Paran, according to the command of the Lord, all of them men who were heads of the people of Israel.",
       "verse": 3
     },
     {

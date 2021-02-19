@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 31,
+  "verses": 9,
   "content": [
     {
       "text": "Woe to Those Who Go Down to Egypt",
@@ -33,7 +34,7 @@
       "type": "poetry"
     },
     {
-      "text": "or consult the !",
+      "text": "or consult the Lord!",
       "verse": 1,
       "type": "poetry"
     },
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "When the  stretches out his hand,",
+      "text": "When the Lord stretches out his hand,",
       "verse": 3,
       "type": "poetry"
     },
@@ -83,7 +84,7 @@
       "type": "poetry"
     },
     {
-      "text": "For thus the  said to me,",
+      "text": "For thus the Lord said to me,",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -108,7 +109,7 @@
       "type": "poetry"
     },
     {
-      "text": "so the  of hosts will come down",
+      "text": "so the Lord of hosts will come down",
       "verse": 4,
       "type": "poetry"
     },
@@ -118,7 +119,7 @@
       "type": "poetry"
     },
     {
-      "text": "Like birds hovering, so the  of hosts",
+      "text": "Like birds hovering, so the Lord of hosts",
       "verse": 5,
       "type": "poetry"
     },
@@ -177,7 +178,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the , whose fire is in Zion,",
+      "text": "declares the Lord, whose fire is in Zion,",
       "verse": 9,
       "type": "poetry"
     },

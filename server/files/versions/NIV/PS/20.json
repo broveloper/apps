@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 20,
+  "verses": 9,
   "content": [
     {
       "text": "Psalm 20",
@@ -9,11 +10,10 @@
     },
     {
       "text": "For the director of music. A psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "May the  answer you when you are in distress;",
+      "text": "May the Lord answer you when you are in distress;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -63,7 +63,7 @@
       "type": "poetry"
     },
     {
-      "text": "May the  grant all your requests.",
+      "text": "May the Lord grant all your requests.",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -73,7 +73,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "The  gives victory to his anointed.",
+      "text": "The Lord gives victory to his anointed.",
       "verse": 6,
       "type": "poetry"
     },
@@ -93,7 +93,7 @@
       "type": "poetry"
     },
     {
-      "text": "but we trust in the name of the  our God.",
+      "text": "but we trust in the name of the Lord our God.",
       "verse": 7,
       "type": "poetry"
     },
@@ -108,7 +108,7 @@
       "type": "poetry"
     },
     {
-      "text": ", give victory to the king!",
+      "text": "Lord, give victory to the king!",
       "verse": 9,
       "type": "poetry"
     },

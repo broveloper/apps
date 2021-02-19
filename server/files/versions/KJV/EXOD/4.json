@@ -2,13 +2,14 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 4,
+  "verses": 31,
   "content": [
     {
-      "text": "And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The  hath not appeared unto thee.",
+      "text": "And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The Lord hath not appeared unto thee.",
       "verse": 1
     },
     {
-      "text": "And the  said unto him, What is that in thine hand? And he said, A rod.",
+      "text": "And the Lord said unto him, What is that in thine hand? And he said, A rod.",
       "verse": 2,
       "type": "newline"
     },
@@ -18,17 +19,17 @@
       "type": "newline"
     },
     {
-      "text": "And the  said unto Moses, Put forth thine hand, and take it by the tail. And he put forth his hand, and caught it, and it became a rod in his hand:",
+      "text": "And the Lord said unto Moses, Put forth thine hand, and take it by the tail. And he put forth his hand, and caught it, and it became a rod in his hand:",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "That they may believe that the  God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee.",
+      "text": "That they may believe that the Lord God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "And the  said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand was leprous as snow.",
+      "text": "And the Lord said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand was leprous as snow.",
       "verse": 6,
       "type": "newline"
     },
@@ -48,12 +49,12 @@
       "type": "newline"
     },
     {
-      "text": "And Moses said unto the , O my , I am not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I am slow of speech, and of a slow tongue.",
+      "text": "And Moses said unto the Lord, O my Lord, I am not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I am slow of speech, and of a slow tongue.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "And the  said unto him, Who hath made man's mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the ?",
+      "text": "And the Lord said unto him, Who hath made man's mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the Lord?",
       "verse": 11,
       "type": "newline"
     },
@@ -63,12 +64,12 @@
       "type": "newline"
     },
     {
-      "text": "And he said, O my , send, I pray thee, by the hand of him whom thou wilt send.",
+      "text": "And he said, O my Lord, send, I pray thee, by the hand of him whom thou wilt send.",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "And the anger of the  was kindled against Moses, and he said, Is not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart.",
+      "text": "And the anger of the Lord was kindled against Moses, and he said, Is not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart.",
       "verse": 14,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life.",
+      "text": "And the Lord said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life.",
       "verse": 19,
       "type": "newline"
     },
@@ -103,12 +104,12 @@
       "type": "newline"
     },
     {
-      "text": "And the  said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand: but I will harden his heart, that he shall not let the people go.",
+      "text": "And the Lord said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand: but I will harden his heart, that he shall not let the people go.",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "And thou shalt say unto Pharaoh, Thus saith the , Israel is my son, even my firstborn:",
+      "text": "And thou shalt say unto Pharaoh, Thus saith the Lord, Israel is my son, even my firstborn:",
       "verse": 22,
       "type": "newline"
     },
@@ -118,7 +119,7 @@
       "type": "newline"
     },
     {
-      "text": "And it came to pass by the way in the inn, that the  met him, and sought to kill him.",
+      "text": "And it came to pass by the way in the inn, that the Lord met him, and sought to kill him.",
       "verse": 24,
       "type": "newline"
     },
@@ -133,12 +134,12 @@
       "type": "newline"
     },
     {
-      "text": "And the  said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mount of God, and kissed him.",
+      "text": "And the Lord said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mount of God, and kissed him.",
       "verse": 27,
       "type": "newline"
     },
     {
-      "text": "And Moses told Aaron all the words of the  who had sent him, and all the signs which he had commanded him.",
+      "text": "And Moses told Aaron all the words of the Lord who had sent him, and all the signs which he had commanded him.",
       "verse": 28,
       "type": "newline"
     },
@@ -148,12 +149,12 @@
       "type": "newline"
     },
     {
-      "text": "And Aaron spake all the words which the  had spoken unto Moses, and did the signs in the sight of the people.",
+      "text": "And Aaron spake all the words which the Lord had spoken unto Moses, and did the signs in the sight of the people.",
       "verse": 30,
       "type": "newline"
     },
     {
-      "text": "And the people believed: and when they heard that the  had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped.",
+      "text": "And the people believed: and when they heard that the Lord had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped.",
       "verse": 31,
       "type": "newline"
     }

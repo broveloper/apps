@@ -2,6 +2,7 @@
   "book_id": "2CHR",
   "book_name": "2 Chronicles",
   "chapter": 4,
+  "verses": 22,
   "content": [
     {
       "text": "Moreover he made an altar of brass, twenty cubits the length thereof, and twenty cubits the breadth thereof, and ten cubits the height thereof.",
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "The pots also, and the shovels, and the fleshhooks, and all their instruments, did Huram his father make to king Solomon for the house of the  of bright brass.",
+      "text": "The pots also, and the shovels, and the fleshhooks, and all their instruments, did Huram his father make to king Solomon for the house of the Lord of bright brass.",
       "verse": 16,
       "type": "newline"
     },

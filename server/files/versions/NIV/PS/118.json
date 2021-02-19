@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 118,
+  "verses": 29,
   "content": [
     {
       "text": "Psalm 118",
       "type": "heading"
     },
     {
-      "text": "Give thanks to the , for he is good;",
+      "text": "Give thanks to the Lord, for he is good;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -38,7 +39,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let those who fear the  say:",
+      "text": "Let those who fear the Lord say:",
       "verse": 4,
       "type": "poetry"
     },
@@ -48,7 +49,7 @@
       "type": "poetry"
     },
     {
-      "text": "When hard pressed, I cried to the ;",
+      "text": "When hard pressed, I cried to the Lord;",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -58,7 +59,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is with me; I will not be afraid.",
+      "text": "The Lord is with me; I will not be afraid.",
       "verse": 6,
       "type": "poetry"
     },
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is with me; he is my helper.",
+      "text": "The Lord is with me; he is my helper.",
       "verse": 7,
       "type": "poetry"
     },
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "It is better to take refuge in the",
+      "text": "It is better to take refuge in the Lord",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -88,7 +89,7 @@
       "type": "poetry"
     },
     {
-      "text": "It is better to take refuge in the",
+      "text": "It is better to take refuge in the Lord",
       "verse": 9,
       "type": "poetry"
     },
@@ -103,7 +104,7 @@
       "type": "poetry"
     },
     {
-      "text": "but in the name of the  I cut them down.",
+      "text": "but in the name of the Lord I cut them down.",
       "verse": 10,
       "type": "poetry"
     },
@@ -113,7 +114,7 @@
       "type": "poetry"
     },
     {
-      "text": "but in the name of the  I cut them down.",
+      "text": "but in the name of the Lord I cut them down.",
       "verse": 11,
       "type": "poetry"
     },
@@ -128,7 +129,7 @@
       "type": "poetry"
     },
     {
-      "text": "in the name of the  I cut them down.",
+      "text": "in the name of the Lord I cut them down.",
       "verse": 12,
       "type": "poetry"
     },
@@ -138,12 +139,12 @@
       "type": "poetry"
     },
     {
-      "text": "but the  helped me.",
+      "text": "but the Lord helped me.",
       "verse": 13,
       "type": "poetry"
     },
     {
-      "text": "The  is my strength and my defense;",
+      "text": "The Lord is my strength and my defense;",
       "verse": 14,
       "type": "poetry"
     },
@@ -163,17 +164,17 @@
       "type": "poetry"
     },
     {
-      "text": "“The ’s right hand has done mighty things!",
+      "text": "“The Lord’s right hand has done mighty things!",
       "verse": 15,
       "type": "poetry"
     },
     {
-      "text": "The ’s right hand is lifted high;",
+      "text": "    The Lord’s right hand is lifted high;",
       "verse": 16,
       "type": "poetry"
     },
     {
-      "text": "the ’s right hand has done mighty things!”",
+      "text": "the Lord’s right hand has done mighty things!”",
       "verse": 16,
       "type": "poetry"
     },
@@ -183,12 +184,12 @@
       "type": "poetry"
     },
     {
-      "text": "and will proclaim what the  has done.",
+      "text": "and will proclaim what the Lord has done.",
       "verse": 17,
       "type": "poetry"
     },
     {
-      "text": "The  has chastened me severely,",
+      "text": "The Lord has chastened me severely,",
       "verse": 18,
       "type": "poetry"
     },
@@ -203,12 +204,12 @@
       "type": "poetry"
     },
     {
-      "text": "I will enter and give thanks to the .",
+      "text": "I will enter and give thanks to the Lord.",
       "verse": 19,
       "type": "poetry"
     },
     {
-      "text": "This is the gate of the",
+      "text": "This is the gate of the Lord",
       "verse": 20,
       "type": "poetry"
     },
@@ -238,7 +239,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  has done this,",
+      "text": "the Lord has done this,",
       "verse": 23,
       "type": "poetry"
     },
@@ -248,7 +249,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has done it this very day;",
+      "text": "The Lord has done it this very day;",
       "verse": 24,
       "type": "poetry"
     },
@@ -258,27 +259,27 @@
       "type": "poetry"
     },
     {
-      "text": ", save us!",
+      "text": "Lord, save us!",
       "verse": 25,
       "type": "poetry newline"
     },
     {
-      "text": ", grant us success!",
+      "text": "Lord, grant us success!",
       "verse": 25,
       "type": "poetry"
     },
     {
-      "text": "Blessed is he who comes in the name of the .",
+      "text": "Blessed is he who comes in the name of the Lord.",
       "verse": 26,
       "type": "poetry newline"
     },
     {
-      "text": "From the house of the  we bless you.",
+      "text": "From the house of the Lord we bless you.",
       "verse": 26,
       "type": "poetry"
     },
     {
-      "text": "The  is God,",
+      "text": "The Lord is God,",
       "verse": 27,
       "type": "poetry"
     },
@@ -308,7 +309,7 @@
       "type": "poetry"
     },
     {
-      "text": "Give thanks to the , for he is good;",
+      "text": "Give thanks to the Lord, for he is good;",
       "verse": 29,
       "type": "poetry newline"
     },

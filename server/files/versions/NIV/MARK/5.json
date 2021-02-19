@@ -2,6 +2,7 @@
   "book_id": "MARK",
   "book_name": "Mark",
   "chapter": 5,
+  "verses": 43,
   "content": [
     {
       "text": "Jesus Restores a Demon-Possessed Man",
@@ -38,11 +39,11 @@
       "verse": 7
     },
     {
-      "text": "For Jesus had said to him,",
+      "text": "For Jesus had said to him, “Come out of this man, you impure spirit!”",
       "verse": 8
     },
     {
-      "text": "Then Jesus asked him,",
+      "text": "Then Jesus asked him, “What is your name?”",
       "verse": 9,
       "type": "newline"
     },
@@ -91,7 +92,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus did not let him, but said,",
+      "text": "Jesus did not let him, but said, “Go home to your own people and tell them how much the Lord has done for you, and how he has had mercy on you.”",
       "verse": 19
     },
     {
@@ -145,12 +146,12 @@
       "verse": 29
     },
     {
-      "text": "At once Jesus realized that power had gone out from him. He turned around in the crowd and asked,",
+      "text": "At once Jesus realized that power had gone out from him. He turned around in the crowd and asked, “Who touched my clothes?”",
       "verse": 30,
       "type": "newline"
     },
     {
-      "text": "“You see the people crowding against you,” his disciples answered, “and yet you can ask,  ”",
+      "text": "“You see the people crowding against you,” his disciples answered, “and yet you can ask, ‘Who touched me?’ ”",
       "verse": 31,
       "type": "newline"
     },
@@ -164,7 +165,7 @@
       "verse": 33
     },
     {
-      "text": "He said to her,",
+      "text": "He said to her, “Daughter, your faith has healed you. Go in peace and be freed from your suffering.”",
       "verse": 34
     },
     {
@@ -173,7 +174,7 @@
       "type": "newline"
     },
     {
-      "text": "Overhearing what they said, Jesus told him,",
+      "text": "Overhearing what they said, Jesus told him, “Don’t be afraid; just believe.”",
       "verse": 36,
       "type": "newline"
     },
@@ -187,7 +188,7 @@
       "verse": 38
     },
     {
-      "text": "He went in and said to them,",
+      "text": "He went in and said to them, “Why all this commotion and wailing? The child is not dead but asleep.”",
       "verse": 39
     },
     {
@@ -200,7 +201,7 @@
       "type": "newline"
     },
     {
-      "text": "He took her by the hand and said to her,  (which means ).",
+      "text": "He took her by the hand and said to her, “Talitha koum!” (which means “Little girl, I say to you, get up!”).",
       "verse": 41
     },
     {

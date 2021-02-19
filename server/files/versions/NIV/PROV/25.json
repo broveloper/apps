@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 25,
+  "verses": 28,
   "content": [
     {
       "text": "More Proverbs of Solomon",
@@ -78,7 +79,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "do not bring hastily to court,",
+      "text": "    do not bring hastily to court,",
       "verse": 8,
       "type": "poetry"
     },
@@ -238,7 +239,7 @@
       "type": "poetry"
     },
     {
-      "text": "and the  will reward you.",
+      "text": "and the Lord will reward you.",
       "verse": 22,
       "type": "poetry"
     },

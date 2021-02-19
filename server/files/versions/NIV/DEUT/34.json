@@ -2,13 +2,14 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 34,
+  "verses": 12,
   "content": [
     {
       "text": "The Death of Moses",
       "type": "heading"
     },
     {
-      "text": "Then Moses climbed Mount Nebo from the plains of Moab to the top of Pisgah, across from Jericho. There the  showed him the whole land—from Gilead to Dan,",
+      "text": "Then Moses climbed Mount Nebo from the plains of Moab to the top of Pisgah, across from Jericho. There the Lord showed him the whole land—from Gilead to Dan,",
       "verse": 1,
       "type": "newline"
     },
@@ -21,11 +22,11 @@
       "verse": 3
     },
     {
-      "text": "Then the  said to him, “This is the land I promised on oath to Abraham, Isaac and Jacob when I said, ‘I will give it to your descendants.’ I have let you see it with your eyes, but you will not cross over into it.”",
+      "text": "Then the Lord said to him, “This is the land I promised on oath to Abraham, Isaac and Jacob when I said, ‘I will give it to your descendants.’ I have let you see it with your eyes, but you will not cross over into it.”",
       "verse": 4
     },
     {
-      "text": "And Moses the servant of the  died there in Moab, as the  had said.",
+      "text": "And Moses the servant of the Lord died there in Moab, as the Lord had said.",
       "verse": 5,
       "type": "newline"
     },
@@ -42,17 +43,17 @@
       "verse": 8
     },
     {
-      "text": "Now Joshua son of Nun was filled with the spirit of wisdom because Moses had laid his hands on him. So the Israelites listened to him and did what the  had commanded Moses.",
+      "text": "Now Joshua son of Nun was filled with the spirit of wisdom because Moses had laid his hands on him. So the Israelites listened to him and did what the Lord had commanded Moses.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "Since then, no prophet has risen in Israel like Moses, whom the  knew face to face,",
+      "text": "Since then, no prophet has risen in Israel like Moses, whom the Lord knew face to face,",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "who did all those signs and wonders the  sent him to do in Egypt—to Pharaoh and to all his officials and to his whole land.",
+      "text": "who did all those signs and wonders the Lord sent him to do in Egypt—to Pharaoh and to all his officials and to his whole land.",
       "verse": 11
     },
     {

@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 30,
+  "verses": 31,
   "content": [
     {
       "text": "And it came to pass, when David and his men were come to Ziklag on the third day, that the Amalekites had invaded the south, and Ziklag, and smitten Ziklag, and burned it with fire;",
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "And David was greatly distressed; for the people spake of stoning him, because the soul of all the people was grieved, every man for his sons and for his daughters: but David encouraged himself in the  his God.",
+      "text": "And David was greatly distressed; for the people spake of stoning him, because the soul of all the people was grieved, every man for his sons and for his daughters: but David encouraged himself in the Lord his God.",
       "verse": 6,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "And David enquired at the , saying, Shall I pursue after this troop? shall I overtake them? And he answered him, Pursue: for thou shalt surely overtake them, and without fail recover all.",
+      "text": "And David enquired at the Lord, saying, Shall I pursue after this troop? shall I overtake them? And he answered him, Pursue: for thou shalt surely overtake them, and without fail recover all.",
       "verse": 8,
       "type": "newline"
     },
@@ -113,7 +114,7 @@
       "type": "newline"
     },
     {
-      "text": "Then said David, Ye shall not do so, my brethren, with that which the  hath given us, who hath preserved us, and delivered the company that came against us into our hand.",
+      "text": "Then said David, Ye shall not do so, my brethren, with that which the Lord hath given us, who hath preserved us, and delivered the company that came against us into our hand.",
       "verse": 23,
       "type": "newline"
     },
@@ -128,7 +129,7 @@
       "type": "newline"
     },
     {
-      "text": "And when David came to Ziklag, he sent of the spoil unto the elders of Judah, even to his friends, saying, Behold a present for you of the spoil of the enemies of the ;",
+      "text": "And when David came to Ziklag, he sent of the spoil unto the elders of Judah, even to his friends, saying, Behold a present for you of the spoil of the enemies of the Lord;",
       "verse": 26,
       "type": "newline"
     },

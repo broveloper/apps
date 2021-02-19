@@ -2,18 +2,18 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 140,
+  "verses": 13,
   "content": [
     {
-      "text": "Deliver Me, O , from Evil Men",
+      "text": "Deliver Me, O Lord, from Evil Men",
       "type": "heading"
     },
     {
       "text": "To the choirmaster. A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Deliver me, O , from evil men;",
+      "text": "Deliver me, O Lord, from evil men;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -38,12 +38,12 @@
       "type": "poetry"
     },
     {
-      "text": "and under their lips is the venom of asps.",
+      "text": "and under their lips is the venom of asps. Selah",
       "verse": 3,
       "type": "poetry"
     },
     {
-      "text": "Guard me, O , from the hands of the wicked;",
+      "text": "Guard me, O Lord, from the hands of the wicked;",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -68,22 +68,22 @@
       "type": "poetry"
     },
     {
-      "text": "beside the way they have set snares for me.",
+      "text": "beside the way they have set snares for me. Selah",
       "verse": 5,
       "type": "poetry"
     },
     {
-      "text": "I say to the , You are my God;",
+      "text": "I say to the Lord, You are my God;",
       "verse": 6,
       "type": "poetry newline"
     },
     {
-      "text": "give ear to the voice of my pleas for mercy, O !",
+      "text": "give ear to the voice of my pleas for mercy, O Lord!",
       "verse": 6,
       "type": "poetry"
     },
     {
-      "text": "O , my Lord, the strength of my salvation,",
+      "text": "O Lord, my Lord, the strength of my salvation,",
       "verse": 7,
       "type": "poetry"
     },
@@ -93,12 +93,12 @@
       "type": "poetry"
     },
     {
-      "text": "Grant not, O , the desires of the wicked;",
+      "text": "Grant not, O Lord, the desires of the wicked;",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "do not further their evil plot, or they will be exalted!",
+      "text": "do not further their evil plot, or they will be exalted! Selah",
       "verse": 8,
       "type": "poetry"
     },
@@ -138,7 +138,7 @@
       "type": "poetry"
     },
     {
-      "text": "I know that the  will maintain the cause of the afflicted,",
+      "text": "I know that the Lord will maintain the cause of the afflicted,",
       "verse": 12,
       "type": "poetry newline"
     },

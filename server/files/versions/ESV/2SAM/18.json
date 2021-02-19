@@ -2,6 +2,7 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 18,
+  "verses": 33,
   "content": [
     {
       "text": "Absalom Killed",
@@ -88,7 +89,7 @@
       "type": "heading"
     },
     {
-      "text": "Then Ahimaaz the son of Zadok said, “Let me run and carry news to the king that the  has delivered him from the hand of his enemies.”",
+      "text": "Then Ahimaaz the son of Zadok said, “Let me run and carry news to the king that the Lord has delivered him from the hand of his enemies.”",
       "verse": 19,
       "type": "newline"
     },
@@ -126,7 +127,7 @@
       "verse": 27
     },
     {
-      "text": "Then Ahimaaz cried out to the king, “All is well.” And he bowed before the king with his face to the earth and said, “Blessed be the  your God, who has delivered up the men who raised their hand against my lord the king.”",
+      "text": "Then Ahimaaz cried out to the king, “All is well.” And he bowed before the king with his face to the earth and said, “Blessed be the Lord your God, who has delivered up the men who raised their hand against my lord the king.”",
       "verse": 28,
       "type": "newline"
     },
@@ -143,7 +144,7 @@
       "type": "heading"
     },
     {
-      "text": "And behold, the Cushite came, and the Cushite said, “Good news for my lord the king! For the  has delivered you this day from the hand of all who rose up against you.”",
+      "text": "And behold, the Cushite came, and the Cushite said, “Good news for my lord the king! For the Lord has delivered you this day from the hand of all who rose up against you.”",
       "verse": 31,
       "type": "newline"
     },
@@ -152,7 +153,7 @@
       "verse": 32
     },
     {
-      "text": "And the king was deeply moved and went up to the chamber over the gate and wept. And as he went, he said, “O my son Absalom, my son, my son Absalom! Would I had died instead of you, O Absalom, my son, my son!”",
+      "text": " And the king was deeply moved and went up to the chamber over the gate and wept. And as he went, he said, “O my son Absalom, my son, my son Absalom! Would I had died instead of you, O Absalom, my son, my son!”",
       "verse": 33
     }
   ]

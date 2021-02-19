@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 11,
+  "verses": 32,
   "content": [
     {
       "text": "And the whole earth was of one language, and of one speech.",
@@ -23,12 +24,12 @@
       "type": "newline"
     },
     {
-      "text": "And the  came down to see the city and the tower, which the children of men builded.",
+      "text": "And the Lord came down to see the city and the tower, which the children of men builded.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "And the  said, Behold, the people is one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do.",
+      "text": "And the Lord said, Behold, the people is one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do.",
       "verse": 6,
       "type": "newline"
     },
@@ -38,12 +39,12 @@
       "type": "newline"
     },
     {
-      "text": "So the  scattered them abroad from thence upon the face of all the earth: and they left off to build the city.",
+      "text": "So the Lord scattered them abroad from thence upon the face of all the earth: and they left off to build the city.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "Therefore is the name of it called Babel; because the  did there confound the language of all the earth: and from thence did the  scatter them abroad upon the face of all the earth.",
+      "text": "Therefore is the name of it called Babel; because the Lord did there confound the language of all the earth: and from thence did the Lord scatter them abroad upon the face of all the earth.",
       "verse": 9,
       "type": "newline"
     },

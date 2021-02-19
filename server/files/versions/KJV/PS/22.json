@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 22,
+  "verses": 31,
   "content": [
     {
       "text": "My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?",
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "He trusted on the  that he would deliver him: let him deliver him, seeing he delighted in him.",
+      "text": "He trusted on the Lord that he would deliver him: let him deliver him, seeing he delighted in him.",
       "verse": 8,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "But be not thou far from me, O : O my strength, haste thee to help me.",
+      "text": "But be not thou far from me, O Lord: O my strength, haste thee to help me.",
       "verse": 19,
       "type": "newline"
     },
@@ -113,7 +114,7 @@
       "type": "newline"
     },
     {
-      "text": "Ye that fear the , praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel.",
+      "text": "Ye that fear the Lord, praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel.",
       "verse": 23,
       "type": "newline"
     },
@@ -128,17 +129,17 @@
       "type": "newline"
     },
     {
-      "text": "The meek shall eat and be satisfied: they shall praise the  that seek him: your heart shall live for ever.",
+      "text": "The meek shall eat and be satisfied: they shall praise the Lord that seek him: your heart shall live for ever.",
       "verse": 26,
       "type": "newline"
     },
     {
-      "text": "All the ends of the world shall remember and turn unto the : and all the kindreds of the nations shall worship before thee.",
+      "text": "All the ends of the world shall remember and turn unto the Lord: and all the kindreds of the nations shall worship before thee.",
       "verse": 27,
       "type": "newline"
     },
     {
-      "text": "For the kingdom is the 's: and he is the governor among the nations.",
+      "text": "For the kingdom is the Lord's: and he is the governor among the nations.",
       "verse": 28,
       "type": "newline"
     },

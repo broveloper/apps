@@ -2,38 +2,39 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 16,
+  "verses": 33,
   "content": [
     {
-      "text": "The preparations of the heart in man, and the answer of the tongue, is from the .",
+      "text": "The preparations of the heart in man, and the answer of the tongue, is from the Lord.",
       "verse": 1
     },
     {
-      "text": "All the ways of a man are clean in his own eyes; but the  weigheth the spirits.",
+      "text": "All the ways of a man are clean in his own eyes; but the Lord weigheth the spirits.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "Commit thy works unto the , and thy thoughts shall be established.",
+      "text": "Commit thy works unto the Lord, and thy thoughts shall be established.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "The  hath made all things for himself: yea, even the wicked for the day of evil.",
+      "text": "The Lord hath made all things for himself: yea, even the wicked for the day of evil.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "Every one that is proud in heart is an abomination to the : though hand join in hand, he shall not be unpunished.",
+      "text": "Every one that is proud in heart is an abomination to the Lord: though hand join in hand, he shall not be unpunished.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "By mercy and truth iniquity is purged: and by the fear of the  men depart from evil.",
+      "text": "By mercy and truth iniquity is purged: and by the fear of the Lord men depart from evil.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "When a man's ways please the , he maketh even his enemies to be at peace with him.",
+      "text": "When a man's ways please the Lord, he maketh even his enemies to be at peace with him.",
       "verse": 7,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "A man's heart deviseth his way: but the  directeth his steps.",
+      "text": "A man's heart deviseth his way: but the Lord directeth his steps.",
       "verse": 9,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "A just weight and balance are the 's: all the weights of the bag are his work.",
+      "text": "A just weight and balance are the Lord's: all the weights of the bag are his work.",
       "verse": 11,
       "type": "newline"
     },
@@ -98,7 +99,7 @@
       "type": "newline"
     },
     {
-      "text": "He that handleth a matter wisely shall find good: and whoso trusteth in the , happy is he.",
+      "text": "He that handleth a matter wisely shall find good: and whoso trusteth in the Lord, happy is he.",
       "verse": 20,
       "type": "newline"
     },
@@ -163,7 +164,7 @@
       "type": "newline"
     },
     {
-      "text": "The lot is cast into the lap; but the whole disposing thereof is of the .",
+      "text": "The lot is cast into the lap; but the whole disposing thereof is of the Lord.",
       "verse": 33,
       "type": "newline"
     }

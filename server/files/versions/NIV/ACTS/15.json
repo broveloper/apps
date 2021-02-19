@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 15,
+  "verses": 41,
   "content": [
     {
       "text": "The Council at Jerusalem",
@@ -107,7 +108,7 @@
       "type": "poetry"
     },
     {
-      "text": "things known from long ago.",
+      "text": "    things known from long ago.",
       "verse": 18,
       "type": "poetry"
     },

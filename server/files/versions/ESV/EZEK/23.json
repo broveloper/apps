@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 23,
+  "verses": 49,
   "content": [
     {
       "text": "Oholah and Oholibah",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -95,7 +96,7 @@
       "verse": 21
     },
     {
-      "text": "Therefore, O Oholibah, thus says the Lord : “Behold, I will stir up against you your lovers from whom you turned in disgust, and I will bring them against you from every side:",
+      "text": "Therefore, O Oholibah, thus says the Lord God: “Behold, I will stir up against you your lovers from whom you turned in disgust, and I will bring them against you from every side:",
       "verse": 22,
       "type": "newline"
     },
@@ -120,7 +121,7 @@
       "verse": 27
     },
     {
-      "text": "“For thus says the Lord : Behold, I will deliver you into the hands of those whom you hate, into the hands of those from whom you turned in disgust,",
+      "text": "“For thus says the Lord God: Behold, I will deliver you into the hands of those whom you hate, into the hands of those from whom you turned in disgust,",
       "verse": 28,
       "type": "newline"
     },
@@ -137,7 +138,7 @@
       "verse": 31
     },
     {
-      "text": "Thus says the Lord :",
+      "text": "Thus says the Lord God:",
       "verse": 32
     },
     {
@@ -191,16 +192,16 @@
       "type": "poetry"
     },
     {
-      "text": "for I have spoken, declares the Lord .",
+      "text": "for I have spoken, declares the Lord God.",
       "verse": 34,
       "type": "newline"
     },
     {
-      "text": "Therefore thus says the Lord : Because you have forgotten me and cast me behind your back, you yourself must bear the consequences of your lewdness and whoring.”",
+      "text": "Therefore thus says the Lord God: Because you have forgotten me and cast me behind your back, you yourself must bear the consequences of your lewdness and whoring.”",
       "verse": 35
     },
     {
-      "text": "The  said to me: “Son of man, will you judge Oholah and Oholibah? Declare to them their abominations.",
+      "text": "The Lord said to me: “Son of man, will you judge Oholah and Oholibah? Declare to them their abominations.",
       "verse": 36,
       "type": "newline"
     },
@@ -242,7 +243,7 @@
       "verse": 45
     },
     {
-      "text": "For thus says the Lord : “Bring up a vast host against them, and make them an object of terror and a plunder.",
+      "text": "For thus says the Lord God: “Bring up a vast host against them, and make them an object of terror and a plunder.",
       "verse": 46,
       "type": "newline"
     },
@@ -255,7 +256,7 @@
       "verse": 48
     },
     {
-      "text": "And they shall return your lewdness upon you, and you shall bear the penalty for your sinful idolatry, and you shall know that I am the Lord .”",
+      "text": "And they shall return your lewdness upon you, and you shall bear the penalty for your sinful idolatry, and you shall know that I am the Lord God.”",
       "verse": 49
     }
   ]

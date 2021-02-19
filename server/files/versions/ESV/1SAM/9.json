@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 9,
+  "verses": 27,
   "content": [
     {
       "text": "Saul Chosen to Be King",
@@ -68,7 +69,7 @@
       "verse": 14
     },
     {
-      "text": "Now the day before Saul came, the  had revealed to Samuel:",
+      "text": "Now the day before Saul came, the Lord had revealed to Samuel:",
       "verse": 15,
       "type": "newline"
     },
@@ -77,7 +78,7 @@
       "verse": 16
     },
     {
-      "text": "When Samuel saw Saul, the  told him, “Here is the man of whom I spoke to you! He it is who shall restrain my people.”",
+      "text": "When Samuel saw Saul, the Lord told him, “Here is the man of whom I spoke to you! He it is who shall restrain my people.”",
       "verse": 17
     },
     {

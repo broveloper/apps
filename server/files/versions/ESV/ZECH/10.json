@@ -2,13 +2,14 @@
   "book_id": "ZECH",
   "book_name": "Zechariah",
   "chapter": 10,
+  "verses": 12,
   "content": [
     {
       "text": "The Restoration for Judah and Israel",
       "type": "heading"
     },
     {
-      "text": "Ask rain from the",
+      "text": "Ask rain from the Lord",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -18,7 +19,7 @@
       "type": "poetry"
     },
     {
-      "text": "from the  who makes the storm clouds,",
+      "text": "from the Lord who makes the storm clouds,",
       "verse": 1,
       "type": "poetry"
     },
@@ -73,7 +74,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  of hosts cares for his flock, the house of Judah,",
+      "text": "for the Lord of hosts cares for his flock, the house of Judah,",
       "verse": 3,
       "type": "poetry"
     },
@@ -113,7 +114,7 @@
       "type": "poetry"
     },
     {
-      "text": "they shall fight because the  is with them,",
+      "text": "they shall fight because the Lord is with them,",
       "verse": 5,
       "type": "poetry"
     },
@@ -143,7 +144,7 @@
       "type": "poetry"
     },
     {
-      "text": "for I am the  their God and I will answer them.",
+      "text": "for I am the Lord their God and I will answer them.",
       "verse": 6,
       "type": "poetry"
     },
@@ -163,7 +164,7 @@
       "type": "poetry"
     },
     {
-      "text": "their hearts shall rejoice in the .",
+      "text": "their hearts shall rejoice in the Lord.",
       "verse": 7,
       "type": "poetry"
     },
@@ -243,7 +244,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will make them strong in the ,",
+      "text": "I will make them strong in the Lord,",
       "verse": 12,
       "type": "poetry"
     },
@@ -253,7 +254,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 12,
       "type": "poetry"
     }

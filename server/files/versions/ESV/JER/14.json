@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 14,
+  "verses": 22,
   "content": [
     {
       "text": "Famine, Sword, and Pestilence",
       "type": "heading"
     },
     {
-      "text": "The word of the  that came to Jeremiah concerning the drought:",
+      "text": "The word of the Lord that came to Jeremiah concerning the drought:",
       "verse": 1,
       "type": "newline"
     },
@@ -118,7 +119,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "act, O , for your name's sake;",
+      "text": "act, O Lord, for your name's sake;",
       "verse": 7,
       "type": "poetry"
     },
@@ -163,7 +164,7 @@
       "type": "poetry"
     },
     {
-      "text": "Yet you, O , are in the midst of us,",
+      "text": "Yet you, O Lord, are in the midst of us,",
       "verse": 9,
       "type": "poetry"
     },
@@ -178,7 +179,7 @@
       "type": "poetry"
     },
     {
-      "text": "Thus says the  concerning this people:",
+      "text": "Thus says the Lord concerning this people:",
       "verse": 10,
       "type": "poetry newline"
     },
@@ -193,7 +194,7 @@
       "type": "poetry"
     },
     {
-      "text": "therefore the  does not accept them;",
+      "text": "therefore the Lord does not accept them;",
       "verse": 10,
       "type": "poetry"
     },
@@ -208,7 +209,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  said to me: “Do not pray for the welfare of this people.",
+      "text": "The Lord said to me: “Do not pray for the welfare of this people.",
       "verse": 11,
       "type": "newline"
     },
@@ -221,16 +222,16 @@
       "type": "heading"
     },
     {
-      "text": "Then I said: “Ah, Lord , behold, the prophets say to them, ‘You shall not see the sword, nor shall you have famine, but I will give you assured peace in this place.’”",
+      "text": "Then I said: “Ah, Lord God, behold, the prophets say to them, ‘You shall not see the sword, nor shall you have famine, but I will give you assured peace in this place.’”",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "And the  said to me: “The prophets are prophesying lies in my name. I did not send them, nor did I command them or speak to them. They are prophesying to you a lying vision, worthless divination, and the deceit of their own minds.",
+      "text": "And the Lord said to me: “The prophets are prophesying lies in my name. I did not send them, nor did I command them or speak to them. They are prophesying to you a lying vision, worthless divination, and the deceit of their own minds.",
       "verse": 14
     },
     {
-      "text": "Therefore thus says the  concerning the prophets who prophesy in my name although I did not send them, and who say, ‘Sword and famine shall not come upon this land’: By sword and famine those prophets shall be consumed.",
+      "text": "Therefore thus says the Lord concerning the prophets who prophesy in my name although I did not send them, and who say, ‘Sword and famine shall not come upon this land’: By sword and famine those prophets shall be consumed.",
       "verse": 15
     },
     {
@@ -323,7 +324,7 @@
       "type": "poetry"
     },
     {
-      "text": "We acknowledge our wickedness, O ,",
+      "text": "We acknowledge our wickedness, O Lord,",
       "verse": 20,
       "type": "poetry"
     },
@@ -363,7 +364,7 @@
       "type": "poetry"
     },
     {
-      "text": "Are you not he, O  our God?",
+      "text": "Are you not he, O Lord our God?",
       "verse": 22,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 3,
+  "verses": 22,
   "content": [
     {
       "text": "The Burning Bush",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "And the angel of the  appeared to him in a flame of fire out of the midst of a bush. He looked, and behold, the bush was burning, yet it was not consumed.",
+      "text": "And the angel of the Lord appeared to him in a flame of fire out of the midst of a bush. He looked, and behold, the bush was burning, yet it was not consumed.",
       "verse": 2
     },
     {
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "When the  saw that he turned aside to see, God called to him out of the bush, “Moses, Moses!” And he said, “Here I am.”",
+      "text": "When the Lord saw that he turned aside to see, God called to him out of the bush, “Moses, Moses!” And he said, “Here I am.”",
       "verse": 4
     },
     {
@@ -33,7 +34,7 @@
       "verse": 6
     },
     {
-      "text": "Then the  said, “I have surely seen the affliction of my people who are in Egypt and have heard their cry because of their taskmasters. I know their sufferings,",
+      "text": "Then the Lord said, “I have surely seen the affliction of my people who are in Egypt and have heard their cry because of their taskmasters. I know their sufferings,",
       "verse": 7,
       "type": "newline"
     },
@@ -63,15 +64,15 @@
       "type": "newline"
     },
     {
-      "text": "God said to Moses, “.” And he said, “Say this to the people of Israel: ‘ has sent me to you.’”",
+      "text": "God said to Moses, “I am who I am.” And he said, “Say this to the people of Israel: ‘I am has sent me to you.’”",
       "verse": 14
     },
     {
-      "text": "God also said to Moses, “Say this to the people of Israel: ‘The , the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.’ This is my name forever, and thus I am to be remembered throughout all generations.",
+      "text": "God also said to Moses, “Say this to the people of Israel: ‘The Lord, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.’ This is my name forever, and thus I am to be remembered throughout all generations.",
       "verse": 15
     },
     {
-      "text": "Go and gather the elders of Israel together and say to them, ‘The , the God of your fathers, the God of Abraham, of Isaac, and of Jacob, has appeared to me, saying, “I have observed you and what has been done to you in Egypt,",
+      "text": "Go and gather the elders of Israel together and say to them, ‘The Lord, the God of your fathers, the God of Abraham, of Isaac, and of Jacob, has appeared to me, saying, “I have observed you and what has been done to you in Egypt,",
       "verse": 16
     },
     {
@@ -79,7 +80,7 @@
       "verse": 17
     },
     {
-      "text": "And they will listen to your voice, and you and the elders of Israel shall go to the king of Egypt and say to him, ‘The , the God of the Hebrews, has met with us; and now, please let us go a three days' journey into the wilderness, that we may sacrifice to the  our God.’",
+      "text": "And they will listen to your voice, and you and the elders of Israel shall go to the king of Egypt and say to him, ‘The Lord, the God of the Hebrews, has met with us; and now, please let us go a three days' journey into the wilderness, that we may sacrifice to the Lord our God.’",
       "verse": 18
     },
     {

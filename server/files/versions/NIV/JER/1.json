@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 1,
+  "verses": 19,
   "content": [
     {
       "text": "The words of Jeremiah son of Hilkiah, one of the priests at Anathoth in the territory of Benjamin.",
       "verse": 1
     },
     {
-      "text": "The word of the  came to him in the thirteenth year of the reign of Josiah son of Amon king of Judah,",
+      "text": "The word of the Lord came to him in the thirteenth year of the reign of Josiah son of Amon king of Judah,",
       "verse": 2
     },
     {
@@ -20,7 +21,7 @@
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me, saying,",
+      "text": "The word of the Lord came to me, saying,",
       "verse": 4,
       "type": "newline"
     },
@@ -40,21 +41,21 @@
       "type": "poetry"
     },
     {
-      "text": "“Alas, Sovereign ,” I said, “I do not know how to speak; I am too young.”",
+      "text": "“Alas, Sovereign Lord,” I said, “I do not know how to speak; I am too young.”",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "But the  said to me, “Do not say, ‘I am too young.’ You must go to everyone I send you to and say whatever I command you.",
+      "text": "But the Lord said to me, “Do not say, ‘I am too young.’ You must go to everyone I send you to and say whatever I command you.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "Do not be afraid of them, for I am with you and will rescue you,” declares the .",
+      "text": "Do not be afraid of them, for I am with you and will rescue you,” declares the Lord.",
       "verse": 8
     },
     {
-      "text": "Then the  reached out his hand and touched my mouth and said to me, “I have put my words in your mouth.",
+      "text": "Then the Lord reached out his hand and touched my mouth and said to me, “I have put my words in your mouth.",
       "verse": 9,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "verse": 10
     },
     {
-      "text": "The word of the  came to me: “What do you see, Jeremiah?”",
+      "text": "The word of the Lord came to me: “What do you see, Jeremiah?”",
       "verse": 11,
       "type": "newline"
     },
@@ -73,12 +74,12 @@
       "type": "newline"
     },
     {
-      "text": "The  said to me, “You have seen correctly, for I am watching to see that my word is fulfilled.”",
+      "text": "The Lord said to me, “You have seen correctly, for I am watching to see that my word is fulfilled.”",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "The word of the  came to me again: “What do you see?”",
+      "text": "The word of the Lord came to me again: “What do you see?”",
       "verse": 13,
       "type": "newline"
     },
@@ -88,12 +89,12 @@
       "type": "newline"
     },
     {
-      "text": "The  said to me, “From the north disaster will be poured out on all who live in the land.",
+      "text": "The Lord said to me, “From the north disaster will be poured out on all who live in the land.",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "I am about to summon all the peoples of the northern kingdoms,” declares the .",
+      "text": "I am about to summon all the peoples of the northern kingdoms,” declares the Lord.",
       "verse": 15
     },
     {
@@ -146,7 +147,7 @@
       "verse": 18
     },
     {
-      "text": "They will fight against you but will not overcome you, for I am with you and will rescue you,” declares the .",
+      "text": "They will fight against you but will not overcome you, for I am with you and will rescue you,” declares the Lord.",
       "verse": 19
     }
   ]

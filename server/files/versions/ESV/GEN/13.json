@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 13,
+  "verses": 18,
   "content": [
     {
       "text": "Abram and Lot Separate",
@@ -22,7 +23,7 @@
       "verse": 3
     },
     {
-      "text": "to the place where he had made an altar at the first. And there Abram called upon the name of the .",
+      "text": "to the place where he had made an altar at the first. And there Abram called upon the name of the Lord.",
       "verse": 4
     },
     {
@@ -47,7 +48,7 @@
       "verse": 9
     },
     {
-      "text": "And Lot lifted up his eyes and saw that the Jordan Valley was well watered everywhere like the garden of the , like the land of Egypt, in the direction of Zoar. (This was before the  destroyed Sodom and Gomorrah.)",
+      "text": "And Lot lifted up his eyes and saw that the Jordan Valley was well watered everywhere like the garden of the Lord, like the land of Egypt, in the direction of Zoar. (This was before the Lord destroyed Sodom and Gomorrah.)",
       "verse": 10
     },
     {
@@ -59,11 +60,11 @@
       "verse": 12
     },
     {
-      "text": "Now the men of Sodom were wicked, great sinners against the .",
+      "text": "Now the men of Sodom were wicked, great sinners against the Lord.",
       "verse": 13
     },
     {
-      "text": "The  said to Abram, after Lot had separated from him, “Lift up your eyes and look from the place where you are, northward and southward and eastward and westward,",
+      "text": "The Lord said to Abram, after Lot had separated from him, “Lift up your eyes and look from the place where you are, northward and southward and eastward and westward,",
       "verse": 14,
       "type": "newline"
     },
@@ -80,7 +81,7 @@
       "verse": 17
     },
     {
-      "text": "So Abram moved his tent and came and settled by the oaks of Mamre, which are at Hebron, and there he built an altar to the .",
+      "text": "So Abram moved his tent and came and settled by the oaks of Mamre, which are at Hebron, and there he built an altar to the Lord.",
       "verse": 18
     }
   ]

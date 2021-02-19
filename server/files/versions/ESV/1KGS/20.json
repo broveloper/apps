@@ -2,6 +2,7 @@
   "book_id": "1KGS",
   "book_name": "1 Kings",
   "chapter": 20,
+  "verses": 43,
   "content": [
     {
       "text": "Ahab's Wars with Syria",
@@ -62,12 +63,12 @@
       "type": "heading"
     },
     {
-      "text": "And behold, a prophet came near to Ahab king of Israel and said, “Thus says the , Have you seen all this great multitude? Behold, I will give it into your hand this day, and you shall know that I am the .”",
+      "text": "And behold, a prophet came near to Ahab king of Israel and said, “Thus says the Lord, Have you seen all this great multitude? Behold, I will give it into your hand this day, and you shall know that I am the Lord.”",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "And Ahab said, “By whom?” He said, “Thus says the , By the servants of the governors of the districts.” Then he said, “Who shall begin the battle?” He answered, “You.”",
+      "text": "And Ahab said, “By whom?” He said, “Thus says the Lord, By the servants of the governors of the districts.” Then he said, “Who shall begin the battle?” He answered, “You.”",
       "verse": 14
     },
     {
@@ -132,7 +133,7 @@
       "verse": 27
     },
     {
-      "text": "And a man of God came near and said to the king of Israel, “Thus says the , ‘Because the Syrians have said, “The  is a god of the hills but he is not a god of the valleys,” therefore I will give all this great multitude into your hand, and you shall know that I am the .’”",
+      "text": "And a man of God came near and said to the king of Israel, “Thus says the Lord, ‘Because the Syrians have said, “The Lord is a god of the hills but he is not a god of the valleys,” therefore I will give all this great multitude into your hand, and you shall know that I am the Lord.’”",
       "verse": 28
     },
     {
@@ -169,12 +170,12 @@
       "type": "heading"
     },
     {
-      "text": "And a certain man of the sons of the prophets said to his fellow at the command of the , “Strike me, please.” But the man refused to strike him.",
+      "text": "And a certain man of the sons of the prophets said to his fellow at the command of the Lord, “Strike me, please.” But the man refused to strike him.",
       "verse": 35,
       "type": "newline"
     },
     {
-      "text": "Then he said to him, “Because you have not obeyed the voice of the , behold, as soon as you have gone from me, a lion shall strike you down.” And as soon as he had departed from him, a lion met him and struck him down.",
+      "text": "Then he said to him, “Because you have not obeyed the voice of the Lord, behold, as soon as you have gone from me, a lion shall strike you down.” And as soon as he had departed from him, a lion met him and struck him down.",
       "verse": 36
     },
     {
@@ -198,7 +199,7 @@
       "verse": 41
     },
     {
-      "text": "And he said to him, “Thus says the , ‘Because you have let go out of your hand the man whom I had devoted to destruction, therefore your life shall be for his life, and your people for his people.’”",
+      "text": "And he said to him, “Thus says the Lord, ‘Because you have let go out of your hand the man whom I had devoted to destruction, therefore your life shall be for his life, and your people for his people.’”",
       "verse": 42
     },
     {

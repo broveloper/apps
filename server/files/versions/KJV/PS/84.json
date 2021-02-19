@@ -2,18 +2,19 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 84,
+  "verses": 12,
   "content": [
     {
-      "text": "How amiable are thy tabernacles, O  of hosts!",
+      "text": "How amiable are thy tabernacles, O Lord of hosts!",
       "verse": 1
     },
     {
-      "text": "My soul longeth, yea, even fainteth for the courts of the : my heart and my flesh crieth out for the living God.",
+      "text": "My soul longeth, yea, even fainteth for the courts of the Lord: my heart and my flesh crieth out for the living God.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, even thine altars, O  of hosts, my King, and my God.",
+      "text": "Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, even thine altars, O Lord of hosts, my King, and my God.",
       "verse": 3,
       "type": "newline"
     },
@@ -38,7 +39,7 @@
       "type": "newline"
     },
     {
-      "text": "O  God of hosts, hear my prayer: give ear, O God of Jacob. Selah.",
+      "text": "O Lord God of hosts, hear my prayer: give ear, O God of Jacob. Selah.",
       "verse": 8,
       "type": "newline"
     },
@@ -53,12 +54,12 @@
       "type": "newline"
     },
     {
-      "text": "For the  God is a sun and shield: the  will give grace and glory: no good thing will he withhold from them that walk uprightly.",
+      "text": "For the Lord God is a sun and shield: the Lord will give grace and glory: no good thing will he withhold from them that walk uprightly.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "O  of hosts, blessed is the man that trusteth in thee.",
+      "text": "O Lord of hosts, blessed is the man that trusteth in thee.",
       "verse": 12,
       "type": "newline"
     }

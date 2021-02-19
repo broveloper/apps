@@ -2,13 +2,14 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 22,
+  "verses": 29,
   "content": [
     {
       "text": "A good name is rather to be chosen than great riches, and loving favour rather than silver and gold.",
       "verse": 1
     },
     {
-      "text": "The rich and poor meet together: the  is the maker of them all.",
+      "text": "The rich and poor meet together: the Lord is the maker of them all.",
       "verse": 2,
       "type": "newline"
     },
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "By humility and the fear of the  are riches, and honour, and life.",
+      "text": "By humility and the fear of the Lord are riches, and honour, and life.",
       "verse": 4,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "The eyes of the  preserve knowledge, and he overthroweth the words of the transgressor.",
+      "text": "The eyes of the Lord preserve knowledge, and he overthroweth the words of the transgressor.",
       "verse": 12,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "The mouth of strange women is a deep pit: he that is abhorred of the  shall fall therein.",
+      "text": "The mouth of strange women is a deep pit: he that is abhorred of the Lord shall fall therein.",
       "verse": 14,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "That thy trust may be in the , I have made known to thee this day, even to thee.",
+      "text": "That thy trust may be in the Lord, I have made known to thee this day, even to thee.",
       "verse": 19,
       "type": "newline"
     },
@@ -113,7 +114,7 @@
       "type": "newline"
     },
     {
-      "text": "For the  will plead their cause, and spoil the soul of those that spoiled them.",
+      "text": "For the Lord will plead their cause, and spoil the soul of those that spoiled them.",
       "verse": 23,
       "type": "newline"
     },

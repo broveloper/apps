@@ -2,13 +2,14 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 1,
+  "verses": 19,
   "content": [
     {
       "text": "The words of Jeremiah, the son of Hilkiah, one of the priests who were in Anathoth in the land of Benjamin,",
       "verse": 1
     },
     {
-      "text": "to whom the word of the  came in the days of Josiah the son of Amon, king of Judah, in the thirteenth year of his reign.",
+      "text": "to whom the word of the Lord came in the days of Josiah the son of Amon, king of Judah, in the thirteenth year of his reign.",
       "verse": 2
     },
     {
@@ -20,7 +21,7 @@
       "type": "heading"
     },
     {
-      "text": "Now the word of the  came to me, saying,",
+      "text": "Now the word of the Lord came to me, saying,",
       "verse": 4,
       "type": "newline"
     },
@@ -40,12 +41,12 @@
       "type": "poetry"
     },
     {
-      "text": "Then I said, “Ah, Lord ! Behold, I do not know how to speak, for I am only a youth.”",
+      "text": "Then I said, “Ah, Lord God! Behold, I do not know how to speak, for I am only a youth.”",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "But the  said to me,",
+      "text": "But the Lord said to me,",
       "verse": 7
     },
     {
@@ -74,12 +75,12 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .”",
+      "text": "declares the Lord.”",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "Then the  put out his hand and touched my mouth. And the  said to me,",
+      "text": "Then the Lord put out his hand and touched my mouth. And the Lord said to me,",
       "verse": 9,
       "type": "newline"
     },
@@ -109,25 +110,25 @@
       "type": "poetry"
     },
     {
-      "text": "And the word of the  came to me, saying, “Jeremiah, what do you see?” And I said, “I see an almond branch.”",
+      "text": "And the word of the Lord came to me, saying, “Jeremiah, what do you see?” And I said, “I see an almond branch.”",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "Then the  said to me, “You have seen well, for I am watching over my word to perform it.”",
+      "text": "Then the Lord said to me, “You have seen well, for I am watching over my word to perform it.”",
       "verse": 12
     },
     {
-      "text": "The word of the  came to me a second time, saying, “What do you see?” And I said, “I see a boiling pot, facing away from the north.”",
+      "text": "The word of the Lord came to me a second time, saying, “What do you see?” And I said, “I see a boiling pot, facing away from the north.”",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "Then the  said to me, “Out of the north disaster shall be let loose upon all the inhabitants of the land.",
+      "text": "Then the Lord said to me, “Out of the north disaster shall be let loose upon all the inhabitants of the land.",
       "verse": 14
     },
     {
-      "text": "For behold, I am calling all the tribes of the kingdoms of the north, declares the , and they shall come, and every one shall set his throne at the entrance of the gates of Jerusalem, against all its walls all around and against all the cities of Judah.",
+      "text": "For behold, I am calling all the tribes of the kingdoms of the north, declares the Lord, and they shall come, and every one shall set his throne at the entrance of the gates of Jerusalem, against all its walls all around and against all the cities of Judah.",
       "verse": 15
     },
     {
@@ -143,7 +144,7 @@
       "verse": 18
     },
     {
-      "text": "They will fight against you, but they shall not prevail against you, for I am with you, declares the , to deliver you.”",
+      "text": "They will fight against you, but they shall not prevail against you, for I am with you, declares the Lord, to deliver you.”",
       "verse": 19
     }
   ]

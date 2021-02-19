@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 12,
+  "verses": 6,
   "content": [
     {
       "text": "Songs of Praise",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "“I will praise you, .",
+      "text": "“I will praise you, Lord.",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -43,7 +44,7 @@
       "type": "poetry"
     },
     {
-      "text": "The , the  himself, is my strength and my defense;",
+      "text": "The Lord, the Lord himself, is my strength and my defense;",
       "verse": 2,
       "type": "poetry"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "“Give praise to the , proclaim his name;",
+      "text": "“Give praise to the Lord, proclaim his name;",
       "verse": 4,
       "type": "poetry newline"
     },
@@ -83,7 +84,7 @@
       "type": "poetry"
     },
     {
-      "text": "Sing to the , for he has done glorious things;",
+      "text": "Sing to the Lord, for he has done glorious things;",
       "verse": 5,
       "type": "poetry"
     },

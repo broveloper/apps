@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 28,
+  "verses": 20,
   "content": [
     {
       "text": "Jesus Has Risen",
@@ -44,11 +45,11 @@
       "type": "newline"
     },
     {
-      "text": "Suddenly Jesus met them.  he said. They came to him, clasped his feet and worshiped him.",
+      "text": "Suddenly Jesus met them. “Greetings,” he said. They came to him, clasped his feet and worshiped him.",
       "verse": 9
     },
     {
-      "text": "Then Jesus said to them,",
+      "text": "Then Jesus said to them, “Do not be afraid. Go and tell my brothers to go to Galilee; there they will see me.”",
       "verse": 10
     },
     {
@@ -90,15 +91,15 @@
       "verse": 17
     },
     {
-      "text": "Then Jesus came to them and said,",
+      "text": "Then Jesus came to them and said, “All authority in heaven and on earth has been given to me.",
       "verse": 18
     },
     {
-      "text": "",
+      "text": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
       "verse": 19
     },
     {
-      "text": "",
+      "text": "and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.”",
       "verse": 20
     }
   ]

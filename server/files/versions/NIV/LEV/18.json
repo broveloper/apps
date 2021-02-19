@@ -2,18 +2,19 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 18,
+  "verses": 30,
   "content": [
     {
       "text": "Unlawful Sexual Relations",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Speak to the Israelites and say to them: ‘I am the  your God.",
+      "text": "“Speak to the Israelites and say to them: ‘I am the Lord your God.",
       "verse": 2
     },
     {
@@ -21,15 +22,15 @@
       "verse": 3
     },
     {
-      "text": "You must obey my laws and be careful to follow my decrees. I am the  your God.",
+      "text": "You must obey my laws and be careful to follow my decrees. I am the Lord your God.",
       "verse": 4
     },
     {
-      "text": "Keep my decrees and laws, for the person who obeys them will live by them. I am the .",
+      "text": "Keep my decrees and laws, for the person who obeys them will live by them. I am the Lord.",
       "verse": 5
     },
     {
-      "text": "“‘No one is to approach any close relative to have sexual relations. I am the .",
+      "text": "“‘No one is to approach any close relative to have sexual relations. I am the Lord.",
       "verse": 6,
       "type": "newline"
     },
@@ -104,7 +105,7 @@
       "type": "newline"
     },
     {
-      "text": "“‘Do not give any of your children to be sacrificed to Molek, for you must not profane the name of your God. I am the .",
+      "text": "“‘Do not give any of your children to be sacrificed to Molek, for you must not profane the name of your God. I am the Lord.",
       "verse": 21,
       "type": "newline"
     },
@@ -145,7 +146,7 @@
       "type": "newline"
     },
     {
-      "text": "Keep my requirements and do not follow any of the detestable customs that were practiced before you came and do not defile yourselves with them. I am the  your God.’”",
+      "text": "Keep my requirements and do not follow any of the detestable customs that were practiced before you came and do not defile yourselves with them. I am the Lord your God.’”",
       "verse": 30
     }
   ]

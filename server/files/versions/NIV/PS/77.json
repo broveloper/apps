@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 77,
+  "verses": 20,
   "content": [
     {
       "text": "Psalm 77",
@@ -9,8 +10,7 @@
     },
     {
       "text": "For the director of music. For Jeduthun. Of Asaph. A psalm.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "I cried out to God for help;",
@@ -118,7 +118,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will remember the deeds of the ;",
+      "text": "I will remember the deeds of the Lord;",
       "verse": 11,
       "type": "poetry"
     },

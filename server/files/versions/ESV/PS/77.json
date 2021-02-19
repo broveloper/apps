@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 77,
+  "verses": 20,
   "content": [
     {
       "text": "In the Day of Trouble I Seek the Lord",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster: according to Jeduthun. A Psalm of Asaph.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "I cry aloud to God,",
@@ -43,7 +43,7 @@
       "type": "poetry"
     },
     {
-      "text": "when I meditate, my spirit faints.",
+      "text": "when I meditate, my spirit faints. Selah",
       "verse": 3,
       "type": "poetry"
     },
@@ -108,7 +108,7 @@
       "type": "poetry"
     },
     {
-      "text": "Has he in anger shut up his compassion?”",
+      "text": "Has he in anger shut up his compassion?” Selah",
       "verse": 9,
       "type": "poetry"
     },
@@ -123,7 +123,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will remember the deeds of the ;",
+      "text": "I will remember the deeds of the Lord;",
       "verse": 11,
       "type": "poetry newline"
     },
@@ -168,7 +168,7 @@
       "type": "poetry"
     },
     {
-      "text": "the children of Jacob and Joseph.",
+      "text": "the children of Jacob and Joseph. Selah",
       "verse": 15,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 22,
+  "verses": 71,
   "content": [
     {
       "text": "Judas Agrees to Betray Jesus",
@@ -42,7 +43,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus sent Peter and John, saying,",
+      "text": "Jesus sent Peter and John, saying, “Go and make preparations for us to eat the Passover.”",
       "verse": 8
     },
     {
@@ -51,16 +52,16 @@
       "type": "newline"
     },
     {
-      "text": "He replied,",
+      "text": "He replied, “As you enter the city, a man carrying a jar of water will meet you. Follow him to the house that he enters,",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "and say to the owner of the house, ‘The Teacher asks: Where is the guest room, where I may eat the Passover with my disciples?’",
       "verse": 11
     },
     {
-      "text": "",
+      "text": "He will show you a large room upstairs, all furnished. Make preparations there.”",
       "verse": 12
     },
     {
@@ -74,38 +75,38 @@
       "type": "newline"
     },
     {
-      "text": "And he said to them,",
+      "text": "And he said to them, “I have eagerly desired to eat this Passover with you before I suffer.",
       "verse": 15
     },
     {
-      "text": "",
+      "text": "For I tell you, I will not eat it again until it finds fulfillment in the kingdom of God.”",
       "verse": 16
     },
     {
-      "text": "After taking the cup, he gave thanks and said,",
+      "text": "After taking the cup, he gave thanks and said, “Take this and divide it among you.",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "For I tell you I will not drink again from the fruit of the vine until the kingdom of God comes.”",
       "verse": 18
     },
     {
-      "text": "And he took bread, gave thanks and broke it, and gave it to them, saying,",
+      "text": "And he took bread, gave thanks and broke it, and gave it to them, saying, “This is my body given for you; do this in remembrance of me.”",
       "verse": 19,
       "type": "newline"
     },
     {
-      "text": "In the same way, after the supper he took the cup, saying,",
+      "text": "In the same way, after the supper he took the cup, saying, “This cup is the new covenant in my blood, which is poured out for you.",
       "verse": 20,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "But the hand of him who is going to betray me is with mine on the table.",
       "verse": 21
     },
     {
-      "text": "",
+      "text": "The Son of Man will go as it has been decreed. But woe to that man who betrays him!”",
       "verse": 22
     },
     {
@@ -118,36 +119,36 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said to them,",
+      "text": "Jesus said to them, “The kings of the Gentiles lord it over them; and those who exercise authority over them call themselves Benefactors.",
       "verse": 25
     },
     {
-      "text": "",
+      "text": "But you are not to be like that. Instead, the greatest among you should be like the youngest, and the one who rules like the one who serves.",
       "verse": 26
     },
     {
-      "text": "",
+      "text": "For who is greater, the one who is at the table or the one who serves? Is it not the one who is at the table? But I am among you as one who serves.",
       "verse": 27
     },
     {
-      "text": "",
+      "text": "You are those who have stood by me in my trials.",
       "verse": 28
     },
     {
-      "text": "",
+      "text": "And I confer on you a kingdom, just as my Father conferred one on me,",
       "verse": 29
     },
     {
-      "text": "",
+      "text": "so that you may eat and drink at my table in my kingdom and sit on thrones, judging the twelve tribes of Israel.",
       "verse": 30
     },
     {
-      "text": "",
+      "text": "“Simon, Simon, Satan has asked to sift all of you as wheat.",
       "verse": 31,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "But I have prayed for you, Simon, that your faith may not fail. And when you have turned back, strengthen your brothers.”",
       "verse": 32
     },
     {
@@ -156,12 +157,12 @@
       "type": "newline"
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “I tell you, Peter, before the rooster crows today, you will deny three times that you know me.”",
       "verse": 34,
       "type": "newline"
     },
     {
-      "text": "Then Jesus asked them,",
+      "text": "Then Jesus asked them, “When I sent you without purse, bag or sandals, did you lack anything?”",
       "verse": 35,
       "type": "newline"
     },
@@ -171,12 +172,12 @@
       "type": "newline"
     },
     {
-      "text": "He said to them,",
+      "text": "He said to them, “But now if you have a purse, take it, and also a bag; and if you don’t have a sword, sell your cloak and buy one.",
       "verse": 36,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "It is written: ‘And he was numbered with the transgressors’; and I tell you that this must be fulfilled in me. Yes, what is written about me is reaching its fulfillment.”",
       "verse": 37
     },
     {
@@ -185,7 +186,7 @@
       "type": "newline"
     },
     {
-      "text": "he replied.",
+      "text": "“That’s enough!” he replied.",
       "verse": 38,
       "type": "newline"
     },
@@ -199,7 +200,7 @@
       "type": "newline"
     },
     {
-      "text": "On reaching the place, he said to them,",
+      "text": "On reaching the place, he said to them, “Pray that you will not fall into temptation.”",
       "verse": 40
     },
     {
@@ -207,7 +208,7 @@
       "verse": 41
     },
     {
-      "text": "",
+      "text": "“Father, if you are willing, take this cup from me; yet not my will, but yours be done.”",
       "verse": 42
     },
     {
@@ -224,7 +225,7 @@
       "type": "newline"
     },
     {
-      "text": "he asked them.",
+      "text": "“Why are you sleeping?” he asked them. “Get up and pray so that you will not fall into temptation.”",
       "verse": 46
     },
     {
@@ -237,7 +238,7 @@
       "type": "newline"
     },
     {
-      "text": "but Jesus asked him,",
+      "text": "but Jesus asked him, “Judas, are you betraying the Son of Man with a kiss?”",
       "verse": 48
     },
     {
@@ -250,17 +251,17 @@
       "verse": 50
     },
     {
-      "text": "But Jesus answered,  And he touched the man’s ear and healed him.",
+      "text": "But Jesus answered, “No more of this!” And he touched the man’s ear and healed him.",
       "verse": 51,
       "type": "newline"
     },
     {
-      "text": "Then Jesus said to the chief priests, the officers of the temple guard, and the elders, who had come for him,",
+      "text": "Then Jesus said to the chief priests, the officers of the temple guard, and the elders, who had come for him, “Am I leading a rebellion, that you have come with swords and clubs?",
       "verse": 52,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Every day I was with you in the temple courts, and you did not lay a hand on me. But this is your hour—when darkness reigns.”",
       "verse": 53
     },
     {
@@ -306,7 +307,7 @@
       "type": "newline"
     },
     {
-      "text": "The Lord turned and looked straight at Peter. Then Peter remembered the word the Lord had spoken to him:",
+      "text": "The Lord turned and looked straight at Peter. Then Peter remembered the word the Lord had spoken to him: “Before the rooster crows today, you will disown me three times.”",
       "verse": 61
     },
     {
@@ -344,16 +345,16 @@
       "verse": 67
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “If I tell you, you will not believe me,",
       "verse": 67,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "and if I asked you, you would not answer.",
       "verse": 68
     },
     {
-      "text": "",
+      "text": "But from now on, the Son of Man will be seated at the right hand of the mighty God.”",
       "verse": 69
     },
     {
@@ -362,7 +363,7 @@
       "type": "newline"
     },
     {
-      "text": "He replied,",
+      "text": "He replied, “You say that I am.”",
       "verse": 70,
       "type": "newline"
     },

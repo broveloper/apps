@@ -2,13 +2,14 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 21,
+  "verses": 23,
   "content": [
     {
       "text": "Atonement for Unsolved Murders",
       "type": "heading"
     },
     {
-      "text": "“If in the land that the  your God is giving you to possess someone is found slain, lying in the open country, and it is not known who killed him,",
+      "text": "“If in the land that the Lord your God is giving you to possess someone is found slain, lying in the open country, and it is not known who killed him,",
       "verse": 1,
       "type": "newline"
     },
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "Then the priests, the sons of Levi, shall come forward, for the  your God has chosen them to minister to him and to bless in the name of the , and by their word every dispute and every assault shall be settled.",
+      "text": "Then the priests, the sons of Levi, shall come forward, for the Lord your God has chosen them to minister to him and to bless in the name of the Lord, and by their word every dispute and every assault shall be settled.",
       "verse": 5
     },
     {
@@ -37,11 +38,11 @@
       "verse": 7
     },
     {
-      "text": "Accept atonement, O , for your people Israel, whom you have redeemed, and do not set the guilt of innocent blood in the midst of your people Israel, so that their blood guilt be atoned for.’",
+      "text": "Accept atonement, O Lord, for your people Israel, whom you have redeemed, and do not set the guilt of innocent blood in the midst of your people Israel, so that their blood guilt be atoned for.’",
       "verse": 8
     },
     {
-      "text": "So you shall purge the guilt of innocent blood from your midst, when you do what is right in the sight of the .",
+      "text": "So you shall purge the guilt of innocent blood from your midst, when you do what is right in the sight of the Lord.",
       "verse": 9
     },
     {
@@ -49,7 +50,7 @@
       "type": "heading"
     },
     {
-      "text": "“When you go out to war against your enemies, and the  your God gives them into your hand and you take them captive,",
+      "text": "“When you go out to war against your enemies, and the Lord your God gives them into your hand and you take them captive,",
       "verse": 10,
       "type": "newline"
     },
@@ -117,7 +118,7 @@
       "type": "newline"
     },
     {
-      "text": "his body shall not remain all night on the tree, but you shall bury him the same day, for a hanged man is cursed by God. You shall not defile your land that the  your God is giving you for an inheritance.",
+      "text": "his body shall not remain all night on the tree, but you shall bury him the same day, for a hanged man is cursed by God. You shall not defile your land that the Lord your God is giving you for an inheritance.",
       "verse": 23
     }
   ]

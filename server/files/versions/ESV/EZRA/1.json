@@ -2,23 +2,24 @@
   "book_id": "EZRA",
   "book_name": "Ezra",
   "chapter": 1,
+  "verses": 11,
   "content": [
     {
       "text": "The Proclamation of Cyrus",
       "type": "heading"
     },
     {
-      "text": "In the first year of Cyrus king of Persia, that the word of the  by the mouth of Jeremiah might be fulfilled, the  stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom and also put it in writing:",
+      "text": "In the first year of Cyrus king of Persia, that the word of the Lord by the mouth of Jeremiah might be fulfilled, the Lord stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom and also put it in writing:",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Thus says Cyrus king of Persia: The , the God of heaven, has given me all the kingdoms of the earth, and he has charged me to build him a house at Jerusalem, which is in Judah.",
+      "text": "“Thus says Cyrus king of Persia: The Lord, the God of heaven, has given me all the kingdoms of the earth, and he has charged me to build him a house at Jerusalem, which is in Judah.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "Whoever is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and rebuild the house of the , the God of Israel—he is the God who is in Jerusalem.",
+      "text": "Whoever is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and rebuild the house of the Lord, the God of Israel—he is the God who is in Jerusalem.",
       "verse": 3
     },
     {
@@ -26,7 +27,7 @@
       "verse": 4
     },
     {
-      "text": "Then rose up the heads of the fathers' houses of Judah and Benjamin, and the priests and the Levites, everyone whose spirit God had stirred to go up to rebuild the house of the  that is in Jerusalem.",
+      "text": "Then rose up the heads of the fathers' houses of Judah and Benjamin, and the priests and the Levites, everyone whose spirit God had stirred to go up to rebuild the house of the Lord that is in Jerusalem.",
       "verse": 5,
       "type": "newline"
     },
@@ -35,7 +36,7 @@
       "verse": 6
     },
     {
-      "text": "Cyrus the king also brought out the vessels of the house of the  that Nebuchadnezzar had carried away from Jerusalem and placed in the house of his gods.",
+      "text": "Cyrus the king also brought out the vessels of the house of the Lord that Nebuchadnezzar had carried away from Jerusalem and placed in the house of his gods.",
       "verse": 7
     },
     {

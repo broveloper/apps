@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 5,
+  "verses": 12,
   "content": [
     {
       "text": "Psalm 5",
@@ -9,11 +10,10 @@
     },
     {
       "text": "For the director of music. For pipes. A psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Listen to my words, ,",
+      "text": "Listen to my words, Lord,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -38,7 +38,7 @@
       "type": "poetry"
     },
     {
-      "text": "In the morning, , you hear my voice;",
+      "text": "In the morning, Lord, you hear my voice;",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -78,7 +78,7 @@
       "type": "poetry"
     },
     {
-      "text": "you destroy those who tell lies.",
+      "text": "    you destroy those who tell lies.",
       "verse": 6,
       "type": "poetry"
     },
@@ -88,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "you, , detest.",
+      "text": "you, Lord, detest.",
       "verse": 6,
       "type": "poetry"
     },
@@ -113,7 +113,7 @@
       "type": "poetry"
     },
     {
-      "text": "Lead me, , in your righteousness",
+      "text": "Lead me, Lord, in your righteousness",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -188,7 +188,7 @@
       "type": "poetry"
     },
     {
-      "text": "Surely, , you bless the righteous;",
+      "text": "Surely, Lord, you bless the righteous;",
       "verse": 12,
       "type": "poetry newline"
     },

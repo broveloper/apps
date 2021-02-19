@@ -2,6 +2,7 @@
   "book_id": "MARK",
   "book_name": "Mark",
   "chapter": 15,
+  "verses": 46,
   "content": [
     {
       "text": "Jesus Delivered to Pilate",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "And Pilate asked him, “Are you the King of the Jews?” And he answered him,",
+      "text": "And Pilate asked him, “Are you the King of the Jews?” And he answered him, “You have said so.”",
       "verse": 2
     },
     {
@@ -157,7 +158,7 @@
       "type": "newline"
     },
     {
-      "text": "And at the ninth hour Jesus cried with a loud voice,  which means,",
+      "text": "And at the ninth hour Jesus cried with a loud voice, “Eloi, Eloi, lema sabachthani?” which means, “My God, my God, why have you forsaken me?”",
       "verse": 34
     },
     {

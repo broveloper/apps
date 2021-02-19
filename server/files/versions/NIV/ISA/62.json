@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 62,
+  "verses": 12,
   "content": [
     {
       "text": "Zion’s New Name",
@@ -43,12 +44,12 @@
       "type": "poetry"
     },
     {
-      "text": "that the mouth of the  will bestow.",
+      "text": "that the mouth of the Lord will bestow.",
       "verse": 2,
       "type": "poetry"
     },
     {
-      "text": "You will be a crown of splendor in the ’s hand,",
+      "text": "You will be a crown of splendor in the Lord’s hand,",
       "verse": 3,
       "type": "poetry"
     },
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  will take delight in you,",
+      "text": "for the Lord will take delight in you,",
       "verse": 4,
       "type": "poetry"
     },
@@ -118,7 +119,7 @@
       "type": "poetry"
     },
     {
-      "text": "You who call on the ,",
+      "text": "You who call on the Lord,",
       "verse": 6,
       "type": "poetry"
     },
@@ -138,7 +139,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has sworn by his right hand",
+      "text": "The Lord has sworn by his right hand",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -173,7 +174,7 @@
       "type": "poetry"
     },
     {
-      "text": "and praise the ,",
+      "text": "and praise the Lord,",
       "verse": 9,
       "type": "poetry"
     },
@@ -213,7 +214,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has made proclamation",
+      "text": "The Lord has made proclamation",
       "verse": 11,
       "type": "poetry newline"
     },
@@ -248,7 +249,7 @@
       "type": "poetry"
     },
     {
-      "text": "the Redeemed of the ;",
+      "text": "the Redeemed of the Lord;",
       "verse": 12,
       "type": "poetry"
     },

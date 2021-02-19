@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 26,
+  "verses": 21,
   "content": [
     {
       "text": "Prophecy Against Tyre",
       "type": "heading"
     },
     {
-      "text": "In the eleventh year, on the first day of the month, the word of the  came to me:",
+      "text": "In the eleventh year, on the first day of the month, the word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "therefore thus says the Lord : Behold, I am against you, O Tyre, and will bring up many nations against you, as the sea brings up its waves.",
+      "text": "therefore thus says the Lord God: Behold, I am against you, O Tyre, and will bring up many nations against you, as the sea brings up its waves.",
       "verse": 3
     },
     {
@@ -25,15 +26,15 @@
       "verse": 4
     },
     {
-      "text": "She shall be in the midst of the sea a place for the spreading of nets, for I have spoken, declares the Lord . And she shall become plunder for the nations,",
+      "text": "She shall be in the midst of the sea a place for the spreading of nets, for I have spoken, declares the Lord God. And she shall become plunder for the nations,",
       "verse": 5
     },
     {
-      "text": "and her daughters on the mainland shall be killed by the sword. Then they will know that I am the .",
+      "text": "and her daughters on the mainland shall be killed by the sword. Then they will know that I am the Lord.",
       "verse": 6
     },
     {
-      "text": "“For thus says the Lord : Behold, I will bring against Tyre from the north Nebuchadnezzar king of Babylon, king of kings, with horses and chariots, and with horsemen and a host of many soldiers.",
+      "text": "“For thus says the Lord God: Behold, I will bring against Tyre from the north Nebuchadnezzar king of Babylon, king of kings, with horses and chariots, and with horsemen and a host of many soldiers.",
       "verse": 7,
       "type": "newline"
     },
@@ -62,11 +63,11 @@
       "verse": 13
     },
     {
-      "text": "I will make you a bare rock. You shall be a place for the spreading of nets. You shall never be rebuilt, for I am the ; I have spoken, declares the Lord .",
+      "text": "I will make you a bare rock. You shall be a place for the spreading of nets. You shall never be rebuilt, for I am the Lord; I have spoken, declares the Lord God.",
       "verse": 14
     },
     {
-      "text": "“Thus says the Lord  to Tyre: Will not the coastlands shake at the sound of your fall, when the wounded groan, when slaughter is made in your midst?",
+      "text": "“Thus says the Lord God to Tyre: Will not the coastlands shake at the sound of your fall, when the wounded groan, when slaughter is made in your midst?",
       "verse": 15,
       "type": "newline"
     },
@@ -129,7 +130,7 @@
       "type": "poetry"
     },
     {
-      "text": "“For thus says the Lord : When I make you a city laid waste, like the cities that are not inhabited, when I bring up the deep over you, and the great waters cover you,",
+      "text": "“For thus says the Lord God: When I make you a city laid waste, like the cities that are not inhabited, when I bring up the deep over you, and the great waters cover you,",
       "verse": 19,
       "type": "newline"
     },
@@ -138,7 +139,7 @@
       "verse": 20
     },
     {
-      "text": "I will bring you to a dreadful end, and you shall be no more. Though you be sought for, you will never be found again, declares the Lord .”",
+      "text": "I will bring you to a dreadful end, and you shall be no more. Though you be sought for, you will never be found again, declares the Lord God.”",
       "verse": 21
     }
   ]

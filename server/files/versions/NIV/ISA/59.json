@@ -2,13 +2,14 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 59,
+  "verses": 21,
   "content": [
     {
       "text": "Sin, Confession and Redemption",
       "type": "heading"
     },
     {
-      "text": "Surely the arm of the  is not too short to save,",
+      "text": "Surely the arm of the Lord is not too short to save,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -238,7 +239,7 @@
       "type": "poetry"
     },
     {
-      "text": "rebellion and treachery against the ,",
+      "text": "rebellion and treachery against the Lord,",
       "verse": 13,
       "type": "poetry"
     },
@@ -288,7 +289,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  looked and was displeased",
+      "text": "The Lord looked and was displeased",
       "verse": 15,
       "type": "poetry newline"
     },
@@ -363,7 +364,7 @@
       "type": "poetry"
     },
     {
-      "text": "From the west, people will fear the name of the ,",
+      "text": "From the west, people will fear the name of the Lord,",
       "verse": 19,
       "type": "poetry"
     },
@@ -378,7 +379,7 @@
       "type": "poetry"
     },
     {
-      "text": "that the breath of the  drives along.",
+      "text": "that the breath of the Lord drives along.",
       "verse": 19,
       "type": "poetry"
     },
@@ -393,12 +394,12 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 20,
       "type": "poetry"
     },
     {
-      "text": "“As for me, this is my covenant with them,” says the . “My Spirit, who is on you, will not depart from you, and my words that I have put in your mouth will always be on your lips, on the lips of your children and on the lips of their descendants—from this time on and forever,” says the .",
+      "text": "“As for me, this is my covenant with them,” says the Lord. “My Spirit, who is on you, will not depart from you, and my words that I have put in your mouth will always be on your lips, on the lips of your children and on the lips of their descendants—from this time on and forever,” says the Lord.",
       "verse": 21,
       "type": "newline"
     }

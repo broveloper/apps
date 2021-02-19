@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 103,
+  "verses": 22,
   "content": [
     {
       "text": "Psalm 103",
@@ -9,11 +10,10 @@
     },
     {
       "text": "Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Praise the , my soul;",
+      "text": "Praise the Lord, my soul;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -23,7 +23,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the , my soul,",
+      "text": "Praise the Lord, my soul,",
       "verse": 2,
       "type": "poetry"
     },
@@ -63,7 +63,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  works righteousness",
+      "text": "The Lord works righteousness",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -83,7 +83,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is compassionate and gracious,",
+      "text": "The Lord is compassionate and gracious,",
       "verse": 8,
       "type": "poetry"
     },
@@ -138,7 +138,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "so the  has compassion on those who fear him;",
+      "text": "so the Lord has compassion on those who fear him;",
       "verse": 13,
       "type": "poetry"
     },
@@ -178,7 +178,7 @@
       "type": "poetry"
     },
     {
-      "text": "the ’s love is with those who fear him,",
+      "text": "the Lord’s love is with those who fear him,",
       "verse": 17,
       "type": "poetry"
     },
@@ -198,7 +198,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has established his throne in heaven,",
+      "text": "The Lord has established his throne in heaven,",
       "verse": 19,
       "type": "poetry newline"
     },
@@ -208,7 +208,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the , you his angels,",
+      "text": "Praise the Lord, you his angels,",
       "verse": 20,
       "type": "poetry newline"
     },
@@ -223,7 +223,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the , all his heavenly hosts,",
+      "text": "Praise the Lord, all his heavenly hosts,",
       "verse": 21,
       "type": "poetry"
     },
@@ -233,7 +233,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the , all his works",
+      "text": "Praise the Lord, all his works",
       "verse": 22,
       "type": "poetry"
     },
@@ -243,7 +243,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the , my soul.",
+      "text": "Praise the Lord, my soul.",
       "verse": 22,
       "type": "poetry newline"
     }

@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 115,
+  "verses": 18,
   "content": [
     {
       "text": "To Your Name Give Glory",
       "type": "heading"
     },
     {
-      "text": "Not to us, O , not to us, but to your name give glory,",
+      "text": "Not to us, O Lord, not to us, but to your name give glory,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -93,7 +94,7 @@
       "type": "poetry"
     },
     {
-      "text": "O Israel, trust in the !",
+      "text": "O Israel, trust in the Lord!",
       "verse": 9,
       "type": "poetry newline"
     },
@@ -103,7 +104,7 @@
       "type": "poetry"
     },
     {
-      "text": "O house of Aaron, trust in the !",
+      "text": "O house of Aaron, trust in the Lord!",
       "verse": 10,
       "type": "poetry"
     },
@@ -113,7 +114,7 @@
       "type": "poetry"
     },
     {
-      "text": "You who fear the , trust in the !",
+      "text": "You who fear the Lord, trust in the Lord!",
       "verse": 11,
       "type": "poetry"
     },
@@ -123,7 +124,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has remembered us; he will bless us;",
+      "text": "The Lord has remembered us; he will bless us;",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -138,7 +139,7 @@
       "type": "poetry"
     },
     {
-      "text": "he will bless those who fear the ,",
+      "text": "he will bless those who fear the Lord,",
       "verse": 13,
       "type": "poetry"
     },
@@ -148,7 +149,7 @@
       "type": "poetry"
     },
     {
-      "text": "May the  give you increase,",
+      "text": "May the Lord give you increase,",
       "verse": 14,
       "type": "poetry newline"
     },
@@ -158,7 +159,7 @@
       "type": "poetry"
     },
     {
-      "text": "May you be blessed by the ,",
+      "text": "May you be blessed by the Lord,",
       "verse": 15,
       "type": "poetry"
     },
@@ -168,7 +169,7 @@
       "type": "poetry"
     },
     {
-      "text": "The heavens are the 's heavens,",
+      "text": "The heavens are the Lord's heavens,",
       "verse": 16,
       "type": "poetry newline"
     },
@@ -178,7 +179,7 @@
       "type": "poetry"
     },
     {
-      "text": "The dead do not praise the ,",
+      "text": "The dead do not praise the Lord,",
       "verse": 17,
       "type": "poetry"
     },
@@ -188,7 +189,7 @@
       "type": "poetry"
     },
     {
-      "text": "But we will bless the",
+      "text": "But we will bless the Lord",
       "verse": 18,
       "type": "poetry"
     },
@@ -198,7 +199,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the !",
+      "text": "Praise the Lord!",
       "verse": 18,
       "type": "poetry"
     }

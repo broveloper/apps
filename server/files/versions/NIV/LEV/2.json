@@ -2,22 +2,23 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 2,
+  "verses": 16,
   "content": [
     {
       "text": "The Grain Offering",
       "type": "heading"
     },
     {
-      "text": "“‘When anyone brings a grain offering to the , their offering is to be of the finest flour. They are to pour olive oil on it, put incense on it",
+      "text": "“‘When anyone brings a grain offering to the Lord, their offering is to be of the finest flour. They are to pour olive oil on it, put incense on it",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "and take it to Aaron’s sons the priests. The priest shall take a handful of the flour and oil, together with all the incense, and burn this as a memorial portion on the altar, a food offering, an aroma pleasing to the .",
+      "text": "and take it to Aaron’s sons the priests. The priest shall take a handful of the flour and oil, together with all the incense, and burn this as a memorial portion on the altar, a food offering, an aroma pleasing to the Lord.",
       "verse": 2
     },
     {
-      "text": "The rest of the grain offering belongs to Aaron and his sons; it is a most holy part of the food offerings presented to the .",
+      "text": "The rest of the grain offering belongs to Aaron and his sons; it is a most holy part of the food offerings presented to the Lord.",
       "verse": 3
     },
     {
@@ -38,24 +39,24 @@
       "verse": 7
     },
     {
-      "text": "Bring the grain offering made of these things to the ; present it to the priest, who shall take it to the altar.",
+      "text": "Bring the grain offering made of these things to the Lord; present it to the priest, who shall take it to the altar.",
       "verse": 8
     },
     {
-      "text": "He shall take out the memorial portion from the grain offering and burn it on the altar as a food offering, an aroma pleasing to the .",
+      "text": "He shall take out the memorial portion from the grain offering and burn it on the altar as a food offering, an aroma pleasing to the Lord.",
       "verse": 9
     },
     {
-      "text": "The rest of the grain offering belongs to Aaron and his sons; it is a most holy part of the food offerings presented to the .",
+      "text": "The rest of the grain offering belongs to Aaron and his sons; it is a most holy part of the food offerings presented to the Lord.",
       "verse": 10
     },
     {
-      "text": "“‘Every grain offering you bring to the  must be made without yeast, for you are not to burn any yeast or honey in a food offering presented to the .",
+      "text": "“‘Every grain offering you bring to the Lord must be made without yeast, for you are not to burn any yeast or honey in a food offering presented to the Lord.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "You may bring them to the  as an offering of the firstfruits, but they are not to be offered on the altar as a pleasing aroma.",
+      "text": "You may bring them to the Lord as an offering of the firstfruits, but they are not to be offered on the altar as a pleasing aroma.",
       "verse": 12
     },
     {
@@ -63,7 +64,7 @@
       "verse": 13
     },
     {
-      "text": "“‘If you bring a grain offering of firstfruits to the , offer crushed heads of new grain roasted in the fire.",
+      "text": "“‘If you bring a grain offering of firstfruits to the Lord, offer crushed heads of new grain roasted in the fire.",
       "verse": 14,
       "type": "newline"
     },
@@ -72,7 +73,7 @@
       "verse": 15
     },
     {
-      "text": "The priest shall burn the memorial portion of the crushed grain and the oil, together with all the incense, as a food offering presented to the .",
+      "text": "The priest shall burn the memorial portion of the crushed grain and the oil, together with all the incense, as a food offering presented to the Lord.",
       "verse": 16
     }
   ]

@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 30,
+  "verses": 33,
   "content": [
     {
       "text": "The words of Agur the son of Jakeh, even the prophecy: the man spake unto Ithiel, even unto Ithiel and Ucal,",
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "Lest I be full, and deny thee, and say, Who is the ? or lest I be poor, and steal, and take the name of my God in vain.",
+      "text": "Lest I be full, and deny thee, and say, Who is the Lord? or lest I be poor, and steal, and take the name of my God in vain.",
       "verse": 9,
       "type": "newline"
     },

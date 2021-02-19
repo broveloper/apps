@@ -2,13 +2,14 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 24,
+  "verses": 22,
   "content": [
     {
       "text": "David Spares Saul's Life",
       "type": "heading"
     },
     {
-      "text": "When Saul returned from following the Philistines, he was told, “Behold, David is in the wilderness of Engedi.”",
+      "text": " When Saul returned from following the Philistines, he was told, “Behold, David is in the wilderness of Engedi.”",
       "verse": 1,
       "type": "newline"
     },
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "And the men of David said to him, “Here is the day of which the  said to you, ‘Behold, I will give your enemy into your hand, and you shall do to him as it shall seem good to you.’” Then David arose and stealthily cut off a corner of Saul's robe.",
+      "text": "And the men of David said to him, “Here is the day of which the Lord said to you, ‘Behold, I will give your enemy into your hand, and you shall do to him as it shall seem good to you.’” Then David arose and stealthily cut off a corner of Saul's robe.",
       "verse": 4
     },
     {
@@ -29,7 +30,7 @@
       "verse": 5
     },
     {
-      "text": "He said to his men, “The  forbid that I should do this thing to my lord, the 's anointed, to put out my hand against him, seeing he is the 's anointed.”",
+      "text": "He said to his men, “The Lord forbid that I should do this thing to my lord, the Lord's anointed, to put out my hand against him, seeing he is the Lord's anointed.”",
       "verse": 6
     },
     {
@@ -46,7 +47,7 @@
       "verse": 9
     },
     {
-      "text": "Behold, this day your eyes have seen how the  gave you today into my hand in the cave. And some told me to kill you, but I spared you. I said, ‘I will not put out my hand against my lord, for he is the 's anointed.’",
+      "text": "Behold, this day your eyes have seen how the Lord gave you today into my hand in the cave. And some told me to kill you, but I spared you. I said, ‘I will not put out my hand against my lord, for he is the Lord's anointed.’",
       "verse": 10
     },
     {
@@ -54,7 +55,7 @@
       "verse": 11
     },
     {
-      "text": "May the  judge between me and you, may the  avenge me against you, but my hand shall not be against you.",
+      "text": "May the Lord judge between me and you, may the Lord avenge me against you, but my hand shall not be against you.",
       "verse": 12
     },
     {
@@ -66,7 +67,7 @@
       "verse": 14
     },
     {
-      "text": "May the  therefore be judge and give sentence between me and you, and see to it and plead my cause and deliver me from your hand.”",
+      "text": "May the Lord therefore be judge and give sentence between me and you, and see to it and plead my cause and deliver me from your hand.”",
       "verse": 15
     },
     {
@@ -79,11 +80,11 @@
       "verse": 17
     },
     {
-      "text": "And you have declared this day how you have dealt well with me, in that you did not kill me when the  put me into your hands.",
+      "text": "And you have declared this day how you have dealt well with me, in that you did not kill me when the Lord put me into your hands.",
       "verse": 18
     },
     {
-      "text": "For if a man finds his enemy, will he let him go away safe? So may the  reward you with good for what you have done to me this day.",
+      "text": "For if a man finds his enemy, will he let him go away safe? So may the Lord reward you with good for what you have done to me this day.",
       "verse": 19
     },
     {
@@ -91,7 +92,7 @@
       "verse": 20
     },
     {
-      "text": "Swear to me therefore by the  that you will not cut off my offspring after me, and that you will not destroy my name out of my father's house.”",
+      "text": "Swear to me therefore by the Lord that you will not cut off my offspring after me, and that you will not destroy my name out of my father's house.”",
       "verse": 21
     },
     {

@@ -2,13 +2,14 @@
   "book_id": "NEH",
   "book_name": "Nehemiah",
   "chapter": 4,
+  "verses": 23,
   "content": [
     {
       "text": "Opposition to the Work",
       "type": "heading"
     },
     {
-      "text": "Now when Sanballat heard that we were building the wall, he was angry and greatly enraged, and he jeered at the Jews.",
+      "text": " Now when Sanballat heard that we were building the wall, he was angry and greatly enraged, and he jeered at the Jews.",
       "verse": 1,
       "type": "newline"
     },
@@ -34,7 +35,7 @@
       "type": "newline"
     },
     {
-      "text": "But when Sanballat and Tobiah and the Arabs and the Ammonites and the Ashdodites heard that the repairing of the walls of Jerusalem was going forward and that the breaches were beginning to be closed, they were very angry.",
+      "text": " But when Sanballat and Tobiah and the Arabs and the Ammonites and the Ashdodites heard that the repairing of the walls of Jerusalem was going forward and that the breaches were beginning to be closed, they were very angry.",
       "verse": 7,
       "type": "newline"
     },

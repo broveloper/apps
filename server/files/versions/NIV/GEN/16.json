@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 16,
+  "verses": 16,
   "content": [
     {
       "text": "Hagar and Ishmael",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "so she said to Abram, “The  has kept me from having children. Go, sleep with my slave; perhaps I can build a family through her.”",
+      "text": "so she said to Abram, “The Lord has kept me from having children. Go, sleep with my slave; perhaps I can build a family through her.”",
       "verse": 2
     },
     {
@@ -35,7 +36,7 @@
       "type": "newline"
     },
     {
-      "text": "Then Sarai said to Abram, “You are responsible for the wrong I am suffering. I put my slave in your arms, and now that she knows she is pregnant, she despises me. May the  judge between you and me.”",
+      "text": "Then Sarai said to Abram, “You are responsible for the wrong I am suffering. I put my slave in your arms, and now that she knows she is pregnant, she despises me. May the Lord judge between you and me.”",
       "verse": 5
     },
     {
@@ -44,7 +45,7 @@
       "type": "newline"
     },
     {
-      "text": "The angel of the  found Hagar near a spring in the desert; it was the spring that is beside the road to Shur.",
+      "text": "The angel of the Lord found Hagar near a spring in the desert; it was the spring that is beside the road to Shur.",
       "verse": 7,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "Then the angel of the  told her, “Go back to your mistress and submit to her.”",
+      "text": "Then the angel of the Lord told her, “Go back to your mistress and submit to her.”",
       "verse": 9,
       "type": "newline"
     },
@@ -67,7 +68,7 @@
       "verse": 10
     },
     {
-      "text": "The angel of the  also said to her:",
+      "text": "The angel of the Lord also said to her:",
       "verse": 11,
       "type": "newline"
     },
@@ -87,7 +88,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the  has heard of your misery.",
+      "text": "for the Lord has heard of your misery.",
       "verse": 11,
       "type": "poetry"
     },
@@ -117,7 +118,7 @@
       "type": "poetry"
     },
     {
-      "text": "She gave this name to the  who spoke to her: “You are the God who sees me,” for she said, “I have now seen the One who sees me.”",
+      "text": "She gave this name to the Lord who spoke to her: “You are the God who sees me,” for she said, “I have now seen the One who sees me.”",
       "verse": 13,
       "type": "newline"
     },

@@ -2,18 +2,19 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 2,
+  "verses": 22,
   "content": [
     {
       "text": "The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.",
       "verse": 1
     },
     {
-      "text": "And it shall come to pass in the last days, that the mountain of the 's house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.",
+      "text": "And it shall come to pass in the last days, that the mountain of the Lord's house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "And many people shall go and say, Come ye, and let us go up to the mountain of the , to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the  from Jerusalem.",
+      "text": "And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.",
       "verse": 3,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "O house of Jacob, come ye, and let us walk in the light of the .",
+      "text": "O house of Jacob, come ye, and let us walk in the light of the Lord.",
       "verse": 5,
       "type": "newline"
     },
@@ -48,17 +49,17 @@
       "type": "newline"
     },
     {
-      "text": "Enter into the rock, and hide thee in the dust, for fear of the , and for the glory of his majesty.",
+      "text": "Enter into the rock, and hide thee in the dust, for fear of the Lord, and for the glory of his majesty.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "The lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the  alone shall be exalted in that day.",
+      "text": "The lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the Lord alone shall be exalted in that day.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "For the day of the  of hosts shall be upon every one that is proud and lofty, and upon every one that is lifted up; and he shall be brought low:",
+      "text": "For the day of the Lord of hosts shall be upon every one that is proud and lofty, and upon every one that is lifted up; and he shall be brought low:",
       "verse": 12,
       "type": "newline"
     },
@@ -83,7 +84,7 @@
       "type": "newline"
     },
     {
-      "text": "And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low: and the  alone shall be exalted in that day.",
+      "text": "And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low: and the Lord alone shall be exalted in that day.",
       "verse": 17,
       "type": "newline"
     },
@@ -93,7 +94,7 @@
       "type": "newline"
     },
     {
-      "text": "And they shall go into the holes of the rocks, and into the caves of the earth, for fear of the , and for the glory of his majesty, when he ariseth to shake terribly the earth.",
+      "text": "And they shall go into the holes of the rocks, and into the caves of the earth, for fear of the Lord, and for the glory of his majesty, when he ariseth to shake terribly the earth.",
       "verse": 19,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "To go into the clefts of the rocks, and into the tops of the ragged rocks, for fear of the , and for the glory of his majesty, when he ariseth to shake terribly the earth.",
+      "text": "To go into the clefts of the rocks, and into the tops of the ragged rocks, for fear of the Lord, and for the glory of his majesty, when he ariseth to shake terribly the earth.",
       "verse": 21,
       "type": "newline"
     },

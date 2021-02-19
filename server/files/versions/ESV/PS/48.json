@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 48,
+  "verses": 14,
   "content": [
     {
       "text": "Zion, the City of Our God",
@@ -9,11 +10,10 @@
     },
     {
       "text": "A Song. A Psalm of the Sons of Korah.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Great is the  and greatly to be praised",
+      "text": "Great is the Lord and greatly to be praised",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -103,7 +103,7 @@
       "type": "poetry"
     },
     {
-      "text": "in the city of the  of hosts,",
+      "text": "in the city of the Lord of hosts,",
       "verse": 8,
       "type": "poetry"
     },
@@ -113,7 +113,7 @@
       "type": "poetry"
     },
     {
-      "text": "which God will establish forever.",
+      "text": "which God will establish forever. Selah",
       "verse": 8,
       "type": "poetry"
     },
@@ -143,7 +143,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let Mount Zion be glad!",
+      "text": "    Let Mount Zion be glad!",
       "verse": 11,
       "type": "poetry"
     },
@@ -183,7 +183,7 @@
       "type": "poetry"
     },
     {
-      "text": "that this is God,",
+      "text": "    that this is God,",
       "verse": 14,
       "type": "poetry"
     },

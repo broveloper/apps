@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 18,
+  "verses": 40,
   "content": [
     {
       "text": "Betrayal and Arrest of Jesus",
@@ -21,27 +22,27 @@
       "verse": 3
     },
     {
-      "text": "Then Jesus, knowing all that would happen to him, came forward and said to them,",
+      "text": "Then Jesus, knowing all that would happen to him, came forward and said to them, “Whom do you seek?”",
       "verse": 4
     },
     {
-      "text": "They answered him, “Jesus of Nazareth.” Jesus said to them,  Judas, who betrayed him, was standing with them.",
+      "text": "They answered him, “Jesus of Nazareth.” Jesus said to them, “I am he.” Judas, who betrayed him, was standing with them.",
       "verse": 5
     },
     {
-      "text": "When Jesus said to them,  they drew back and fell to the ground.",
+      "text": "When Jesus said to them, “I am he,” they drew back and fell to the ground.",
       "verse": 6
     },
     {
-      "text": "So he asked them again,  And they said, “Jesus of Nazareth.”",
+      "text": "So he asked them again, “Whom do you seek?” And they said, “Jesus of Nazareth.”",
       "verse": 7
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “I told you that I am he. So, if you seek me, let these men go.”",
       "verse": 8
     },
     {
-      "text": "This was to fulfill the word that he had spoken:",
+      "text": "This was to fulfill the word that he had spoken: “Of those whom you gave me I have lost not one.”",
       "verse": 9
     },
     {
@@ -49,7 +50,7 @@
       "verse": 10
     },
     {
-      "text": "So Jesus said to Peter,",
+      "text": "So Jesus said to Peter, “Put your sword into its sheath; shall I not drink the cup that the Father has given me?”",
       "verse": 11
     },
     {
@@ -100,11 +101,11 @@
       "type": "newline"
     },
     {
-      "text": "Jesus answered him,",
+      "text": "Jesus answered him, “I have spoken openly to the world. I have always taught in synagogues and in the temple, where all Jews come together. I have said nothing in secret.",
       "verse": 20
     },
     {
-      "text": "",
+      "text": "Why do you ask me? Ask those who have heard me what I said to them; they know what I said.”",
       "verse": 21
     },
     {
@@ -112,7 +113,7 @@
       "verse": 22
     },
     {
-      "text": "Jesus answered him,",
+      "text": "Jesus answered him, “If what I said is wrong, bear witness about the wrong; but if what I said is right, why do you strike me?”",
       "verse": 23
     },
     {
@@ -171,7 +172,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “Do you say this of your own accord, or did others say it to you about me?”",
       "verse": 34
     },
     {
@@ -179,11 +180,11 @@
       "verse": 35
     },
     {
-      "text": "Jesus answered,",
+      "text": "Jesus answered, “My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting, that I might not be delivered over to the Jews. But my kingdom is not from the world.”",
       "verse": 36
     },
     {
-      "text": "Then Pilate said to him, “So you are a king?” Jesus answered,",
+      "text": "Then Pilate said to him, “So you are a king?” Jesus answered, “You say that I am a king. For this purpose I was born and for this purpose I have come into the world—to bear witness to the truth. Everyone who is of the truth listens to my voice.”",
       "verse": 37
     },
     {

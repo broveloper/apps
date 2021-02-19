@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 32,
+  "verses": 32,
   "content": [
     {
       "text": "Jacob Prepares to Meet Esau",
@@ -44,7 +45,7 @@
       "verse": 8
     },
     {
-      "text": "Then Jacob prayed, “O God of my father Abraham, God of my father Isaac, , you who said to me, ‘Go back to your country and your relatives, and I will make you prosper,’",
+      "text": "Then Jacob prayed, “O God of my father Abraham, God of my father Isaac, Lord, you who said to me, ‘Go back to your country and your relatives, and I will make you prosper,’",
       "verse": 9,
       "type": "newline"
     },

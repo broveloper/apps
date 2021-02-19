@@ -2,15 +2,15 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 59,
+  "verses": 17,
   "content": [
     {
       "text": "Psalm 59",
       "type": "heading"
     },
     {
-      "text": "For the director of music. To the tune of “Do Not Destroy.” Of David. A  When Saul had sent men to watch David’s house in order to kill him.",
-      "verse": 1,
-      "type": "newline"
+      "text": "For the director of music. To the tune of “Do Not Destroy.” Of David. A miktam. When Saul had sent men to watch David’s house in order to kill him.",
+      "type": "title"
     },
     {
       "text": "Deliver me from my enemies, O God;",
@@ -43,7 +43,7 @@
       "type": "poetry"
     },
     {
-      "text": "for no offense or sin of mine, .",
+      "text": "for no offense or sin of mine, Lord.",
       "verse": 3,
       "type": "poetry"
     },
@@ -58,7 +58,7 @@
       "type": "poetry"
     },
     {
-      "text": "You,  God Almighty,",
+      "text": "You, Lord God Almighty,",
       "verse": 5,
       "type": "poetry"
     },
@@ -108,7 +108,7 @@
       "type": "poetry"
     },
     {
-      "text": "But you laugh at them, ;",
+      "text": "But you laugh at them, Lord;",
       "verse": 8,
       "type": "poetry"
     },
@@ -128,7 +128,7 @@
       "type": "poetry"
     },
     {
-      "text": "my God on whom I can rely.",
+      "text": "    my God on whom I can rely.",
       "verse": 10,
       "type": "poetry"
     },
@@ -183,7 +183,7 @@
       "type": "poetry"
     },
     {
-      "text": "consume them in your wrath,",
+      "text": "    consume them in your wrath,",
       "verse": 13,
       "type": "poetry"
     },

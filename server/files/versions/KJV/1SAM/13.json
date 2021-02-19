@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 13,
+  "verses": 23,
   "content": [
     {
       "text": "Saul reigned one year; and when he had reigned two years over Israel,",
@@ -58,17 +59,17 @@
       "type": "newline"
     },
     {
-      "text": "Therefore said I, The Philistines will come down now upon me to Gilgal, and I have not made supplication unto the : I forced myself therefore, and offered a burnt offering.",
+      "text": "Therefore said I, The Philistines will come down now upon me to Gilgal, and I have not made supplication unto the Lord: I forced myself therefore, and offered a burnt offering.",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "And Samuel said to Saul, Thou hast done foolishly: thou hast not kept the commandment of the  thy God, which he commanded thee: for now would the  have established thy kingdom upon Israel for ever.",
+      "text": "And Samuel said to Saul, Thou hast done foolishly: thou hast not kept the commandment of the Lord thy God, which he commanded thee: for now would the Lord have established thy kingdom upon Israel for ever.",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "But now thy kingdom shall not continue: the  hath sought him a man after his own heart, and the  hath commanded him to be captain over his people, because thou hast not kept that which the  commanded thee.",
+      "text": "But now thy kingdom shall not continue: the Lord hath sought him a man after his own heart, and the Lord hath commanded him to be captain over his people, because thou hast not kept that which the Lord commanded thee.",
       "verse": 14,
       "type": "newline"
     },

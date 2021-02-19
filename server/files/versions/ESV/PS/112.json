@@ -2,18 +2,19 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 112,
+  "verses": 10,
   "content": [
     {
       "text": "The Righteous Will Never Be Moved",
       "type": "heading"
     },
     {
-      "text": "Praise the !",
+      "text": " Praise the Lord!",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "Blessed is the man who fears the ,",
+      "text": "Blessed is the man who fears the Lord,",
       "verse": 1,
       "type": "poetry"
     },
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "his heart is firm, trusting in the .",
+      "text": "his heart is firm, trusting in the Lord.",
       "verse": 7,
       "type": "poetry"
     },

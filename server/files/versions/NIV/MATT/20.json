@@ -2,89 +2,90 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 20,
+  "verses": 34,
   "content": [
     {
       "text": "The Parable of the Workers in the Vineyard",
       "type": "heading"
     },
     {
-      "text": "",
+      "text": "“For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "He agreed to pay them a denarius for the day and sent them into his vineyard.",
       "verse": 2
     },
     {
-      "text": "",
+      "text": "“About nine in the morning he went out and saw others standing in the marketplace doing nothing.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "He told them, ‘You also go and work in my vineyard, and I will pay you whatever is right.’",
       "verse": 4
     },
     {
-      "text": "",
+      "text": "So they went.",
       "verse": 5
     },
     {
-      "text": "",
+      "text": "“He went out again about noon and about three in the afternoon and did the same thing.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "About five in the afternoon he went out and found still others standing around. He asked them, ‘Why have you been standing here all day long doing nothing?’",
       "verse": 6
     },
     {
-      "text": "",
+      "text": "“‘Because no one has hired us,’ they answered.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“He said to them, ‘You also go and work in my vineyard.’",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“When evening came, the owner of the vineyard said to his foreman, ‘Call the workers and pay them their wages, beginning with the last ones hired and going on to the first.’",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“The workers who were hired about five in the afternoon came and each received a denarius.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "So when those came who were hired first, they expected to receive more. But each one of them also received a denarius.",
       "verse": 10
     },
     {
-      "text": "",
+      "text": "When they received it, they began to grumble against the landowner.",
       "verse": 11
     },
     {
-      "text": "",
+      "text": "‘These who were hired last worked only one hour,’ they said, ‘and you have made them equal to us who have borne the burden of the work and the heat of the day.’",
       "verse": 12
     },
     {
-      "text": "",
+      "text": "“But he answered one of them, ‘I am not being unfair to you, friend. Didn’t you agree to work for a denarius?",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Take your pay and go. I want to give the one who was hired last the same as I gave you.",
       "verse": 14
     },
     {
-      "text": "",
+      "text": "Don’t I have the right to do what I want with my own money? Or are you envious because I am generous?’",
       "verse": 15
     },
     {
-      "text": "",
+      "text": "“So the last will be first, and the first will be last.”",
       "verse": 16,
       "type": "newline"
     },
@@ -98,11 +99,11 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“We are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the teachers of the law. They will condemn him to death",
       "verse": 18
     },
     {
-      "text": "",
+      "text": "and will hand him over to the Gentiles to be mocked and flogged and crucified. On the third day he will be raised to life!”",
       "verse": 19
     },
     {
@@ -115,7 +116,7 @@
       "type": "newline"
     },
     {
-      "text": "he asked.",
+      "text": "“What is it you want?” he asked.",
       "verse": 21,
       "type": "newline"
     },
@@ -125,7 +126,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said to them.",
+      "text": "“You don’t know what you are asking,” Jesus said to them. “Can you drink the cup I am going to drink?”",
       "verse": 22,
       "type": "newline"
     },
@@ -135,7 +136,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said to them,",
+      "text": "Jesus said to them, “You will indeed drink from my cup, but to sit at my right or left is not for me to grant. These places belong to those for whom they have been prepared by my Father.”",
       "verse": 23,
       "type": "newline"
     },
@@ -145,19 +146,19 @@
       "type": "newline"
     },
     {
-      "text": "Jesus called them together and said,",
+      "text": "Jesus called them together and said, “You know that the rulers of the Gentiles lord it over them, and their high officials exercise authority over them.",
       "verse": 25
     },
     {
-      "text": "",
+      "text": "Not so with you. Instead, whoever wants to become great among you must be your servant,",
       "verse": 26
     },
     {
-      "text": "",
+      "text": "and whoever wants to be first must be your slave—",
       "verse": 27
     },
     {
-      "text": "",
+      "text": "just as the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.”",
       "verse": 28
     },
     {
@@ -179,7 +180,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus stopped and called them.  he asked.",
+      "text": "Jesus stopped and called them. “What do you want me to do for you?” he asked.",
       "verse": 32,
       "type": "newline"
     },

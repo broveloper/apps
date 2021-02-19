@@ -2,6 +2,7 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 6,
+  "verses": 30,
   "content": [
     {
       "text": "O ye children of Benjamin, gather yourselves to flee out of the midst of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Bethhaccerem: for evil appeareth out of the north, and great destruction.",
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "For thus hath the  of hosts said, Hew ye down trees, and cast a mount against Jerusalem: this is the city to be visited; she is wholly oppression in the midst of her.",
+      "text": "For thus hath the Lord of hosts said, Hew ye down trees, and cast a mount against Jerusalem: this is the city to be visited; she is wholly oppression in the midst of her.",
       "verse": 6,
       "type": "newline"
     },
@@ -43,22 +44,22 @@
       "type": "newline"
     },
     {
-      "text": "Thus saith the  of hosts, They shall throughly glean the remnant of Israel as a vine: turn back thine hand as a grapegatherer into the baskets.",
+      "text": "Thus saith the Lord of hosts, They shall throughly glean the remnant of Israel as a vine: turn back thine hand as a grapegatherer into the baskets.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "To whom shall I speak, and give warning, that they may hear? behold, their ear is uncircumcised, and they cannot hearken: behold, the word of the  is unto them a reproach; they have no delight in it.",
+      "text": "To whom shall I speak, and give warning, that they may hear? behold, their ear is uncircumcised, and they cannot hearken: behold, the word of the Lord is unto them a reproach; they have no delight in it.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "Therefore I am full of the fury of the ; I am weary with holding in: I will pour it out upon the children abroad, and upon the assembly of young men together: for even the husband with the wife shall be taken, the aged with him that is full of days.",
+      "text": "Therefore I am full of the fury of the Lord; I am weary with holding in: I will pour it out upon the children abroad, and upon the assembly of young men together: for even the husband with the wife shall be taken, the aged with him that is full of days.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "And their houses shall be turned unto others, with their fields and wives together: for I will stretch out my hand upon the inhabitants of the land, saith the .",
+      "text": "And their houses shall be turned unto others, with their fields and wives together: for I will stretch out my hand upon the inhabitants of the land, saith the Lord.",
       "verse": 12,
       "type": "newline"
     },
@@ -73,12 +74,12 @@
       "type": "newline"
     },
     {
-      "text": "Were they ashamed when they had committed abomination? nay, they were not at all ashamed, neither could they blush: therefore they shall fall among them that fall: at the time that I visit them they shall be cast down, saith the .",
+      "text": "Were they ashamed when they had committed abomination? nay, they were not at all ashamed, neither could they blush: therefore they shall fall among them that fall: at the time that I visit them they shall be cast down, saith the Lord.",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "Thus saith the , Stand ye in the ways, and see, and ask for the old paths, where is the good way, and walk therein, and ye shall find rest for your souls. But they said, We will not walk therein.",
+      "text": "Thus saith the Lord, Stand ye in the ways, and see, and ask for the old paths, where is the good way, and walk therein, and ye shall find rest for your souls. But they said, We will not walk therein.",
       "verse": 16,
       "type": "newline"
     },
@@ -103,12 +104,12 @@
       "type": "newline"
     },
     {
-      "text": "Therefore thus saith the , Behold, I will lay stumblingblocks before this people, and the fathers and the sons together shall fall upon them; the neighbour and his friend shall perish.",
+      "text": "Therefore thus saith the Lord, Behold, I will lay stumblingblocks before this people, and the fathers and the sons together shall fall upon them; the neighbour and his friend shall perish.",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "Thus saith the , Behold, a people cometh from the north country, and a great nation shall be raised from the sides of the earth.",
+      "text": "Thus saith the Lord, Behold, a people cometh from the north country, and a great nation shall be raised from the sides of the earth.",
       "verse": 22,
       "type": "newline"
     },
@@ -148,7 +149,7 @@
       "type": "newline"
     },
     {
-      "text": "Reprobate silver shall men call them, because the  hath rejected them.",
+      "text": "Reprobate silver shall men call them, because the Lord hath rejected them.",
       "verse": 30,
       "type": "newline"
     }

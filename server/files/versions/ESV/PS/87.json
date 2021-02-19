@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 87,
+  "verses": 7,
   "content": [
     {
       "text": "Glorious Things of You Are Spoken",
@@ -9,8 +10,7 @@
     },
     {
       "text": "A Psalm of the Sons of Korah. A Song.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "On the holy mount stands the city he founded;",
@@ -18,7 +18,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "the  loves the gates of Zion",
+      "text": "    the Lord loves the gates of Zion",
       "verse": 2,
       "type": "poetry"
     },
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "O city of God.",
+      "text": "O city of God. Selah",
       "verse": 3,
       "type": "poetry"
     },
@@ -68,12 +68,12 @@
       "type": "poetry"
     },
     {
-      "text": "The  records as he registers the peoples,",
+      "text": "The Lord records as he registers the peoples,",
       "verse": 6,
       "type": "poetry"
     },
     {
-      "text": "“This one was born there.”",
+      "text": "“This one was born there.” Selah",
       "verse": 6,
       "type": "poetry"
     },

@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 32,
+  "verses": 32,
   "content": [
     {
       "text": "A Lament over Pharaoh and Egypt",
       "type": "heading"
     },
     {
-      "text": "In the twelfth year, in the twelfth month, on the first day of the month, the word of the  came to me:",
+      "text": "In the twelfth year, in the twelfth month, on the first day of the month, the word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -42,7 +43,7 @@
       "type": "poetry"
     },
     {
-      "text": "Thus says the Lord :",
+      "text": "Thus says the Lord God:",
       "verse": 3,
       "type": "poetry"
     },
@@ -142,7 +143,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the Lord .",
+      "text": "declares the Lord God.",
       "verse": 8,
       "type": "poetry"
     },
@@ -156,7 +157,7 @@
       "verse": 10
     },
     {
-      "text": "“For thus says the Lord : The sword of the king of Babylon shall come upon you.",
+      "text": "“For thus says the Lord God: The sword of the king of Babylon shall come upon you.",
       "verse": 11,
       "type": "newline"
     },
@@ -205,7 +206,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the Lord .",
+      "text": "declares the Lord God.",
       "verse": 14,
       "type": "poetry"
     },
@@ -225,17 +226,17 @@
       "type": "poetry"
     },
     {
-      "text": "then they will know that I am the .",
+      "text": "then they will know that I am the Lord.",
       "verse": 15,
       "type": "poetry"
     },
     {
-      "text": "This is a lamentation that shall be chanted; the daughters of the nations shall chant it; over Egypt, and over all her multitude, shall they chant it, declares the Lord .”",
+      "text": "This is a lamentation that shall be chanted; the daughters of the nations shall chant it; over Egypt, and over all her multitude, shall they chant it, declares the Lord God.”",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "In the twelfth year, in the twelfth month, on the fifteenth day of the month, the word of the  came to me:",
+      "text": "In the twelfth year, in the twelfth month, on the fifteenth day of the month, the word of the Lord came to me:",
       "verse": 17,
       "type": "newline"
     },
@@ -304,12 +305,12 @@
       "type": "newline"
     },
     {
-      "text": "“When Pharaoh sees them, he will be comforted for all his multitude, Pharaoh and all his army, slain by the sword, declares the Lord .",
+      "text": "“When Pharaoh sees them, he will be comforted for all his multitude, Pharaoh and all his army, slain by the sword, declares the Lord God.",
       "verse": 31,
       "type": "newline"
     },
     {
-      "text": "For I spread terror in the land of the living; and he shall be laid to rest among the uncircumcised, with those who are slain by the sword, Pharaoh and all his multitude, declares the Lord .”",
+      "text": "For I spread terror in the land of the living; and he shall be laid to rest among the uncircumcised, with those who are slain by the sword, Pharaoh and all his multitude, declares the Lord God.”",
       "verse": 32
     }
   ]

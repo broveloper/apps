@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 15,
+  "verses": 41,
   "content": [
     {
       "text": "And certain men which came down from Judaea taught the brethren, and said, Except ye be circumcised after the manner of Moses, ye cannot be saved.",
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "But we believe that through the grace of the  Jesus Christ we shall be saved, even as they.",
+      "text": "But we believe that through the grace of the Lord Jesus Christ we shall be saved, even as they.",
       "verse": 11,
       "type": "newline"
     },
@@ -178,7 +179,7 @@
       "type": "newline"
     },
     {
-      "text": "And some days after Paul said unto Barnabas, Let us go again and visit our brethren in every city where we have preached the word of the , and see how they do.",
+      "text": "And some days after Paul said unto Barnabas, Let us go again and visit our brethren in every city where we have preached the word of the Lord, and see how they do.",
       "verse": 36,
       "type": "newline"
     },

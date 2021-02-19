@@ -2,13 +2,14 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 23,
+  "verses": 29,
   "content": [
     {
       "text": "Then they told David, saying, Behold, the Philistines fight against Keilah, and they rob the threshingfloors.",
       "verse": 1
     },
     {
-      "text": "Therefore David enquired of the , saying, Shall I go and smite these Philistines? And the  said unto David, Go, and smite the Philistines, and save Keilah.",
+      "text": "Therefore David enquired of the Lord, saying, Shall I go and smite these Philistines? And the Lord said unto David, Go, and smite the Philistines, and save Keilah.",
       "verse": 2,
       "type": "newline"
     },
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "Then David enquired of the  yet again. And the  answered him and said, Arise, go down to Keilah; for I will deliver the Philistines into thine hand.",
+      "text": "Then David enquired of the Lord yet again. And the Lord answered him and said, Arise, go down to Keilah; for I will deliver the Philistines into thine hand.",
       "verse": 4,
       "type": "newline"
     },
@@ -48,17 +49,17 @@
       "type": "newline"
     },
     {
-      "text": "Then said David, O  God of Israel, thy servant hath certainly heard that Saul seeketh to come to Keilah, to destroy the city for my sake.",
+      "text": "Then said David, O Lord God of Israel, thy servant hath certainly heard that Saul seeketh to come to Keilah, to destroy the city for my sake.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "Will the men of Keilah deliver me up into his hand? will Saul come down, as thy servant hath heard? O  God of Israel, I beseech thee, tell thy servant. And the  said, He will come down.",
+      "text": "Will the men of Keilah deliver me up into his hand? will Saul come down, as thy servant hath heard? O Lord God of Israel, I beseech thee, tell thy servant. And the Lord said, He will come down.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "Then said David, Will the men of Keilah deliver me and my men into the hand of Saul? And the  said, They will deliver thee up.",
+      "text": "Then said David, Will the men of Keilah deliver me and my men into the hand of Saul? And the Lord said, They will deliver thee up.",
       "verse": 12,
       "type": "newline"
     },
@@ -88,7 +89,7 @@
       "type": "newline"
     },
     {
-      "text": "And they two made a covenant before the : and David abode in the wood, and Jonathan went to his house.",
+      "text": "And they two made a covenant before the Lord: and David abode in the wood, and Jonathan went to his house.",
       "verse": 18,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "And Saul said, Blessed be ye of the ; for ye have compassion on me.",
+      "text": "And Saul said, Blessed be ye of the Lord; for ye have compassion on me.",
       "verse": 21,
       "type": "newline"
     },

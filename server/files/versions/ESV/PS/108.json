@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 108,
+  "verses": 13,
   "content": [
     {
       "text": "With God We Shall Do Valiantly",
@@ -9,8 +10,7 @@
     },
     {
       "text": "A Song. A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "My heart is steadfast, O God!",
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will give thanks to you, O , among the peoples;",
+      "text": "I will give thanks to you, O Lord, among the peoples;",
       "verse": 3,
       "type": "poetry"
     },

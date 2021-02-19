@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 47,
+  "verses": 15,
   "content": [
     {
       "text": "The Fall of Babylon",
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "Our Redeemer—the  Almighty is his name—",
+      "text": "Our Redeemer—the Lord Almighty is his name—",
       "verse": 4,
       "type": "poetry newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 12,
+  "verses": 25,
   "content": [
     {
       "text": "Now about that time Herod the king stretched forth his hands to vex certain of the church.",
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "And when Peter was come to himself, he said, Now I know of a surety, that the  hath sent his angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews.",
+      "text": "And when Peter was come to himself, he said, Now I know of a surety, that the Lord hath sent his angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews.",
       "verse": 11,
       "type": "newline"
     },

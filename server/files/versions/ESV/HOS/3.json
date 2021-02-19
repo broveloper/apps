@@ -2,13 +2,14 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 3,
+  "verses": 5,
   "content": [
     {
       "text": "Hosea Redeems His Wife",
       "type": "heading"
     },
     {
-      "text": "And the  said to me, “Go again, love a woman who is loved by another man and is an adulteress, even as the  loves the children of Israel, though they turn to other gods and love cakes of raisins.”",
+      "text": "And the Lord said to me, “Go again, love a woman who is loved by another man and is an adulteress, even as the Lord loves the children of Israel, though they turn to other gods and love cakes of raisins.”",
       "verse": 1,
       "type": "newline"
     },
@@ -25,7 +26,7 @@
       "verse": 4
     },
     {
-      "text": "Afterward the children of Israel shall return and seek the  their God, and David their king, and they shall come in fear to the  and to his goodness in the latter days.",
+      "text": "Afterward the children of Israel shall return and seek the Lord their God, and David their king, and they shall come in fear to the Lord and to his goodness in the latter days.",
       "verse": 5
     }
   ]

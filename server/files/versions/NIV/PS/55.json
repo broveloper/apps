@@ -2,15 +2,15 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 55,
+  "verses": 23,
   "content": [
     {
       "text": "Psalm 55",
       "type": "heading"
     },
     {
-      "text": "For the director of music. With stringed instruments. A  of David.",
-      "verse": 1,
-      "type": "newline"
+      "text": "For the director of music. With stringed instruments. A maskil of David.",
+      "type": "title"
     },
     {
       "text": "Listen to my prayer, O God,",
@@ -23,7 +23,7 @@
       "type": "poetry"
     },
     {
-      "text": "hear me and answer me.",
+      "text": "    hear me and answer me.",
       "verse": 2,
       "type": "poetry"
     },
@@ -33,7 +33,7 @@
       "type": "poetry"
     },
     {
-      "text": "because of what my enemy is saying,",
+      "text": "    because of what my enemy is saying,",
       "verse": 3,
       "type": "poetry"
     },
@@ -203,7 +203,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "and the  saves me.",
+      "text": "and the Lord saves me.",
       "verse": 16,
       "type": "poetry"
     },
@@ -288,7 +288,7 @@
       "type": "poetry"
     },
     {
-      "text": "Cast your cares on the",
+      "text": "Cast your cares on the Lord",
       "verse": 22,
       "type": "poetry newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "DEUT",
   "book_name": "Deuteronomy",
   "chapter": 32,
+  "verses": 52,
   "content": [
     {
       "text": "“Give ear, O heavens, and I will speak,",
@@ -34,7 +35,7 @@
       "type": "poetry"
     },
     {
-      "text": "For I will proclaim the name of the ;",
+      "text": "For I will proclaim the name of the Lord;",
       "verse": 3,
       "type": "poetry"
     },
@@ -79,7 +80,7 @@
       "type": "poetry"
     },
     {
-      "text": "Do you thus repay the ,",
+      "text": "Do you thus repay the Lord,",
       "verse": 6,
       "type": "poetry"
     },
@@ -139,7 +140,7 @@
       "type": "poetry"
     },
     {
-      "text": "But the 's portion is his people,",
+      "text": "But the Lord's portion is his people,",
       "verse": 9,
       "type": "poetry"
     },
@@ -189,7 +190,7 @@
       "type": "poetry"
     },
     {
-      "text": "the  alone guided him,",
+      "text": "the Lord alone guided him,",
       "verse": 12,
       "type": "poetry"
     },
@@ -304,7 +305,7 @@
       "type": "poetry"
     },
     {
-      "text": "“The  saw it and spurned them,",
+      "text": "“The Lord saw it and spurned them,",
       "verse": 19,
       "type": "poetry newline"
     },
@@ -454,7 +455,7 @@
       "type": "poetry"
     },
     {
-      "text": "it was not the  who did all this.”’",
+      "text": "it was not the Lord who did all this.”’",
       "verse": 27,
       "type": "poetry"
     },
@@ -494,7 +495,7 @@
       "type": "poetry"
     },
     {
-      "text": "and the  had given them up?",
+      "text": "and the Lord had given them up?",
       "verse": 30,
       "type": "poetry"
     },
@@ -569,7 +570,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the  will vindicate his people",
+      "text": "For the Lord will vindicate his people",
       "verse": 36,
       "type": "poetry"
     },
@@ -745,7 +746,7 @@
       "type": "heading"
     },
     {
-      "text": "That very day the  spoke to Moses,",
+      "text": "That very day the Lord spoke to Moses,",
       "verse": 48,
       "type": "newline"
     },

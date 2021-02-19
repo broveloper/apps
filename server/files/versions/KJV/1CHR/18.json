@@ -2,6 +2,7 @@
   "book_id": "1CHR",
   "book_name": "1 Chronicles",
   "chapter": 18,
+  "verses": 17,
   "content": [
     {
       "text": "Now after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and her towns out of the hand of the Philistines.",
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "Then David put garrisons in Syriadamascus; and the Syrians became David's servants, and brought gifts. Thus the  preserved David whithersoever he went.",
+      "text": "Then David put garrisons in Syriadamascus; and the Syrians became David's servants, and brought gifts. Thus the Lord preserved David whithersoever he went.",
       "verse": 6,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "Them also king David dedicated unto the , with the silver and the gold that he brought from all these nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek.",
+      "text": "Them also king David dedicated unto the Lord, with the silver and the gold that he brought from all these nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek.",
       "verse": 11,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "And he put garrisons in Edom; and all the Edomites became David's servants. Thus the  preserved David whithersoever he went.",
+      "text": "And he put garrisons in Edom; and all the Edomites became David's servants. Thus the Lord preserved David whithersoever he went.",
       "verse": 13,
       "type": "newline"
     },

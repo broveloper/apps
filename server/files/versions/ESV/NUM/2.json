@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 2,
+  "verses": 34,
   "content": [
     {
       "text": "Arrangement of the Camp",
       "type": "heading"
     },
     {
-      "text": "The  spoke to Moses and Aaron, saying,",
+      "text": "The Lord spoke to Moses and Aaron, saying,",
       "verse": 1,
       "type": "newline"
     },
@@ -142,11 +143,11 @@
       "type": "newline"
     },
     {
-      "text": "But the Levites were not listed among the people of Israel, as the  commanded Moses.",
+      "text": "But the Levites were not listed among the people of Israel, as the Lord commanded Moses.",
       "verse": 33
     },
     {
-      "text": "Thus did the people of Israel. According to all that the  commanded Moses, so they camped by their standards, and so they set out, each one in his clan, according to his fathers' house.",
+      "text": "Thus did the people of Israel. According to all that the Lord commanded Moses, so they camped by their standards, and so they set out, each one in his clan, according to his fathers' house.",
       "verse": 34,
       "type": "newline"
     }

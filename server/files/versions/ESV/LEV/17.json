@@ -2,18 +2,19 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 17,
+  "verses": 16,
   "content": [
     {
       "text": "The Place of Sacrifice",
       "type": "heading"
     },
     {
-      "text": "And the  spoke to Moses, saying,",
+      "text": "And the Lord spoke to Moses, saying,",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Speak to Aaron and his sons and to all the people of Israel and say to them, This is the thing that the  has commanded.",
+      "text": "“Speak to Aaron and his sons and to all the people of Israel and say to them, This is the thing that the Lord has commanded.",
       "verse": 2
     },
     {
@@ -21,15 +22,15 @@
       "verse": 3
     },
     {
-      "text": "and does not bring it to the entrance of the tent of meeting to offer it as a gift to the  in front of the tabernacle of the , bloodguilt shall be imputed to that man. He has shed blood, and that man shall be cut off from among his people.",
+      "text": "and does not bring it to the entrance of the tent of meeting to offer it as a gift to the Lord in front of the tabernacle of the Lord, bloodguilt shall be imputed to that man. He has shed blood, and that man shall be cut off from among his people.",
       "verse": 4
     },
     {
-      "text": "This is to the end that the people of Israel may bring their sacrifices that they sacrifice in the open field, that they may bring them to the , to the priest at the entrance of the tent of meeting, and sacrifice them as sacrifices of peace offerings to the .",
+      "text": "This is to the end that the people of Israel may bring their sacrifices that they sacrifice in the open field, that they may bring them to the Lord, to the priest at the entrance of the tent of meeting, and sacrifice them as sacrifices of peace offerings to the Lord.",
       "verse": 5
     },
     {
-      "text": "And the priest shall throw the blood on the altar of the  at the entrance of the tent of meeting and burn the fat for a pleasing aroma to the .",
+      "text": "And the priest shall throw the blood on the altar of the Lord at the entrance of the tent of meeting and burn the fat for a pleasing aroma to the Lord.",
       "verse": 6
     },
     {
@@ -42,7 +43,7 @@
       "type": "newline"
     },
     {
-      "text": "and does not bring it to the entrance of the tent of meeting to offer it to the , that man shall be cut off from his people.",
+      "text": "and does not bring it to the entrance of the tent of meeting to offer it to the Lord, that man shall be cut off from his people.",
       "verse": 9
     },
     {

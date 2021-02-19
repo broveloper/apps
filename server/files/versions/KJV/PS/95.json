@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 95,
+  "verses": 11,
   "content": [
     {
-      "text": "O come, let us sing unto the : let us make a joyful noise to the rock of our salvation.",
+      "text": "O come, let us sing unto the Lord: let us make a joyful noise to the rock of our salvation.",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "For the  is a great God, and a great King above all gods.",
+      "text": "For the Lord is a great God, and a great King above all gods.",
       "verse": 3,
       "type": "newline"
     },
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "O come, let us worship and bow down: let us kneel before the  our maker.",
+      "text": "O come, let us worship and bow down: let us kneel before the Lord our maker.",
       "verse": 6,
       "type": "newline"
     },

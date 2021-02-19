@@ -2,23 +2,24 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 34,
+  "verses": 22,
   "content": [
     {
-      "text": "I will bless the  at all times: his praise shall continually be in my mouth.",
+      "text": "I will bless the Lord at all times: his praise shall continually be in my mouth.",
       "verse": 1
     },
     {
-      "text": "My soul shall make her boast in the : the humble shall hear thereof, and be glad.",
+      "text": "My soul shall make her boast in the Lord: the humble shall hear thereof, and be glad.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "O magnify the  with me, and let us exalt his name together.",
+      "text": "O magnify the Lord with me, and let us exalt his name together.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "I sought the , and he heard me, and delivered me from all my fears.",
+      "text": "I sought the Lord, and he heard me, and delivered me from all my fears.",
       "verse": 4,
       "type": "newline"
     },
@@ -28,32 +29,32 @@
       "type": "newline"
     },
     {
-      "text": "This poor man cried, and the  heard him, and saved him out of all his troubles.",
+      "text": "This poor man cried, and the Lord heard him, and saved him out of all his troubles.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "The angel of the  encampeth round about them that fear him, and delivereth them.",
+      "text": "The angel of the Lord encampeth round about them that fear him, and delivereth them.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "O taste and see that the  is good: blessed is the man that trusteth in him.",
+      "text": "O taste and see that the Lord is good: blessed is the man that trusteth in him.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "O fear the , ye his saints: for there is no want to them that fear him.",
+      "text": "O fear the Lord, ye his saints: for there is no want to them that fear him.",
       "verse": 9,
       "type": "newline"
     },
     {
-      "text": "The young lions do lack, and suffer hunger: but they that seek the  shall not want any good thing.",
+      "text": "The young lions do lack, and suffer hunger: but they that seek the Lord shall not want any good thing.",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "Come, ye children, hearken unto me: I will teach you the fear of the .",
+      "text": "Come, ye children, hearken unto me: I will teach you the fear of the Lord.",
       "verse": 11,
       "type": "newline"
     },
@@ -73,27 +74,27 @@
       "type": "newline"
     },
     {
-      "text": "The eyes of the  are upon the righteous, and his ears are open unto their cry.",
+      "text": "The eyes of the Lord are upon the righteous, and his ears are open unto their cry.",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "The face of the  is against them that do evil, to cut off the remembrance of them from the earth.",
+      "text": "The face of the Lord is against them that do evil, to cut off the remembrance of them from the earth.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "The righteous cry, and the  heareth, and delivereth them out of all their troubles.",
+      "text": "The righteous cry, and the Lord heareth, and delivereth them out of all their troubles.",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "The  is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
+      "text": "The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "Many are the afflictions of the righteous: but the  delivereth him out of them all.",
+      "text": "Many are the afflictions of the righteous: but the Lord delivereth him out of them all.",
       "verse": 19,
       "type": "newline"
     },
@@ -108,7 +109,7 @@
       "type": "newline"
     },
     {
-      "text": "The  redeemeth the soul of his servants: and none of them that trust in him shall be desolate.",
+      "text": "The Lord redeemeth the soul of his servants: and none of them that trust in him shall be desolate.",
       "verse": 22,
       "type": "newline"
     }

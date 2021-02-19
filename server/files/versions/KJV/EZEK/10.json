@@ -2,6 +2,7 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 10,
+  "verses": 22,
   "content": [
     {
       "text": "Then I looked, and, behold, in the firmament that was above the head of the cherubims there appeared over them as it were a sapphire stone, as the appearance of the likeness of a throne.",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "Then the glory of the  went up from the cherub, and stood over the threshold of the house; and the house was filled with the cloud, and the court was full of the brightness of the 's glory.",
+      "text": "Then the glory of the Lord went up from the cherub, and stood over the threshold of the house; and the house was filled with the cloud, and the court was full of the brightness of the Lord's glory.",
       "verse": 4,
       "type": "newline"
     },
@@ -88,12 +89,12 @@
       "type": "newline"
     },
     {
-      "text": "Then the glory of the  departed from off the threshold of the house, and stood over the cherubims.",
+      "text": "Then the glory of the Lord departed from off the threshold of the house, and stood over the cherubims.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "And the cherubims lifted up their wings, and mounted up from the earth in my sight: when they went out, the wheels also were beside them, and every one stood at the door of the east gate of the 's house; and the glory of the God of Israel was over them above.",
+      "text": "And the cherubims lifted up their wings, and mounted up from the earth in my sight: when they went out, the wheels also were beside them, and every one stood at the door of the east gate of the Lord's house; and the glory of the God of Israel was over them above.",
       "verse": 19,
       "type": "newline"
     },

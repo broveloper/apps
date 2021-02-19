@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 10,
+  "verses": 34,
   "content": [
     {
       "text": "Woe to those who make unjust laws,",
@@ -133,7 +134,7 @@
       "type": "poetry"
     },
     {
-      "text": "‘Has not Kalno fared like Carchemish?",
+      "text": "    ‘Has not Kalno fared like Carchemish?",
       "verse": 9,
       "type": "poetry"
     },
@@ -252,7 +253,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore, the Lord, the  Almighty,",
+      "text": "Therefore, the Lord, the Lord Almighty,",
       "verse": 16,
       "type": "poetry"
     },
@@ -341,7 +342,7 @@
       "type": "poetry"
     },
     {
-      "text": "but will truly rely on the ,",
+      "text": "but will truly rely on the Lord,",
       "verse": 20,
       "type": "poetry"
     },
@@ -381,7 +382,7 @@
       "type": "poetry"
     },
     {
-      "text": "The Lord, the  Almighty, will carry out",
+      "text": "The Lord, the Lord Almighty, will carry out",
       "verse": 23,
       "type": "poetry"
     },
@@ -391,7 +392,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore this is what the Lord, the  Almighty, says:",
+      "text": "Therefore this is what the Lord, the Lord Almighty, says:",
       "verse": 24,
       "type": "newline"
     },
@@ -426,7 +427,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  Almighty will lash them with a whip,",
+      "text": "The Lord Almighty will lash them with a whip,",
       "verse": 26,
       "type": "poetry newline"
     },
@@ -546,7 +547,7 @@
       "type": "poetry"
     },
     {
-      "text": "See, the Lord, the  Almighty,",
+      "text": "See, the Lord, the Lord Almighty,",
       "verse": 33,
       "type": "poetry newline"
     },

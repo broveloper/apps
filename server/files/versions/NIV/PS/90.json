@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 90,
+  "verses": 17,
   "content": [
     {
       "text": "BOOK IV",
@@ -9,8 +10,7 @@
     },
     {
       "text": "Psalms 90–106",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Psalm 90",
@@ -18,8 +18,7 @@
     },
     {
       "text": "A prayer of Moses the man of God.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Lord, you have been our dwelling place",
@@ -162,7 +161,7 @@
       "type": "poetry"
     },
     {
-      "text": "Relent, ! How long will it be?",
+      "text": "Relent, Lord! How long will it be?",
       "verse": 13,
       "type": "poetry newline"
     },

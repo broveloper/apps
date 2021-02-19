@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 66,
+  "verses": 20,
   "content": [
     {
       "text": "Psalm 66",
@@ -9,8 +10,7 @@
     },
     {
       "text": "For the director of music. A song. A psalm.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Shout for joy to God, all the earth!",
@@ -18,7 +18,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "Sing the glory of his name;",
+      "text": "    Sing the glory of his name;",
       "verse": 2,
       "type": "poetry"
     },

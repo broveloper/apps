@@ -2,6 +2,7 @@
   "book_id": "HAB",
   "book_name": "Habakkuk",
   "chapter": 3,
+  "verses": 19,
   "content": [
     {
       "text": "Habakkuk's Prayer",
@@ -13,12 +14,12 @@
       "type": "newline"
     },
     {
-      "text": "O , I have heard the report of you,",
+      "text": "O Lord, I have heard the report of you,",
       "verse": 2,
       "type": "poetry newline"
     },
     {
-      "text": "and your work, O , do I fear.",
+      "text": "and your work, O Lord, do I fear.",
       "verse": 2,
       "type": "poetry"
     },
@@ -43,7 +44,7 @@
       "type": "poetry"
     },
     {
-      "text": "and the Holy One from Mount Paran.",
+      "text": "and the Holy One from Mount Paran. Selah",
       "verse": 3,
       "type": "poetry"
     },
@@ -118,7 +119,7 @@
       "type": "poetry"
     },
     {
-      "text": "Was your wrath against the rivers, O ?",
+      "text": "Was your wrath against the rivers, O Lord?",
       "verse": 8,
       "type": "poetry"
     },
@@ -148,7 +149,7 @@
       "type": "poetry"
     },
     {
-      "text": "calling for many arrows.",
+      "text": "calling for many arrows. Selah",
       "verse": 9,
       "type": "poetry"
     },
@@ -218,7 +219,7 @@
       "type": "poetry"
     },
     {
-      "text": "laying him bare from thigh to neck.",
+      "text": "laying him bare from thigh to neck. Selah",
       "verse": 13,
       "type": "poetry"
     },
@@ -278,7 +279,7 @@
       "type": "poetry"
     },
     {
-      "text": "Habakkuk Rejoices in the",
+      "text": "Habakkuk Rejoices in the Lord",
       "type": "heading"
     },
     {
@@ -312,7 +313,7 @@
       "type": "poetry"
     },
     {
-      "text": "yet I will rejoice in the ;",
+      "text": "yet I will rejoice in the Lord;",
       "verse": 18,
       "type": "poetry"
     },
@@ -322,7 +323,7 @@
       "type": "poetry"
     },
     {
-      "text": ", the Lord, is my strength;",
+      "text": "God, the Lord, is my strength;",
       "verse": 19,
       "type": "poetry"
     },

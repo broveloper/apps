@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 3,
+  "verses": 51,
   "content": [
     {
       "text": "The Levites",
       "type": "heading"
     },
     {
-      "text": "This is the account of the family of Aaron and Moses at the time the  spoke to Moses at Mount Sinai.",
+      "text": "This is the account of the family of Aaron and Moses at the time the Lord spoke to Moses at Mount Sinai.",
       "verse": 1,
       "type": "newline"
     },
@@ -22,11 +23,11 @@
       "verse": 3
     },
     {
-      "text": "Nadab and Abihu, however, died before the  when they made an offering with unauthorized fire before him in the Desert of Sinai. They had no sons, so Eleazar and Ithamar served as priests during the lifetime of their father Aaron.",
+      "text": "Nadab and Abihu, however, died before the Lord when they made an offering with unauthorized fire before him in the Desert of Sinai. They had no sons, so Eleazar and Ithamar served as priests during the lifetime of their father Aaron.",
       "verse": 4
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 5,
       "type": "newline"
     },
@@ -51,7 +52,7 @@
       "verse": 10
     },
     {
-      "text": "The  also said to Moses,",
+      "text": "The Lord also said to Moses,",
       "verse": 11,
       "type": "newline"
     },
@@ -60,11 +61,11 @@
       "verse": 12
     },
     {
-      "text": "for all the firstborn are mine. When I struck down all the firstborn in Egypt, I set apart for myself every firstborn in Israel, whether human or animal. They are to be mine. I am the .”",
+      "text": "for all the firstborn are mine. When I struck down all the firstborn in Egypt, I set apart for myself every firstborn in Israel, whether human or animal. They are to be mine. I am the Lord.”",
       "verse": 13
     },
     {
-      "text": "The  said to Moses in the Desert of Sinai,",
+      "text": "The Lord said to Moses in the Desert of Sinai,",
       "verse": 14,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "verse": 15
     },
     {
-      "text": "So Moses counted them, as he was commanded by the word of the .",
+      "text": "So Moses counted them, as he was commanded by the word of the Lord.",
       "verse": 16
     },
     {
@@ -191,21 +192,21 @@
       "type": "newline"
     },
     {
-      "text": "The total number of Levites counted at the ’s command by Moses and Aaron according to their clans, including every male a month old or more, was 22,000.",
+      "text": "The total number of Levites counted at the Lord’s command by Moses and Aaron according to their clans, including every male a month old or more, was 22,000.",
       "verse": 39,
       "type": "newline"
     },
     {
-      "text": "The  said to Moses, “Count all the firstborn Israelite males who are a month old or more and make a list of their names.",
+      "text": "The Lord said to Moses, “Count all the firstborn Israelite males who are a month old or more and make a list of their names.",
       "verse": 40,
       "type": "newline"
     },
     {
-      "text": "Take the Levites for me in place of all the firstborn of the Israelites, and the livestock of the Levites in place of all the firstborn of the livestock of the Israelites. I am the .”",
+      "text": "Take the Levites for me in place of all the firstborn of the Israelites, and the livestock of the Levites in place of all the firstborn of the livestock of the Israelites. I am the Lord.”",
       "verse": 41
     },
     {
-      "text": "So Moses counted all the firstborn of the Israelites, as the  commanded him.",
+      "text": "So Moses counted all the firstborn of the Israelites, as the Lord commanded him.",
       "verse": 42,
       "type": "newline"
     },
@@ -214,12 +215,12 @@
       "verse": 43
     },
     {
-      "text": "The  also said to Moses,",
+      "text": "The Lord also said to Moses,",
       "verse": 44,
       "type": "newline"
     },
     {
-      "text": "“Take the Levites in place of all the firstborn of Israel, and the livestock of the Levites in place of their livestock. The Levites are to be mine. I am the .",
+      "text": "“Take the Levites in place of all the firstborn of Israel, and the livestock of the Levites in place of their livestock. The Levites are to be mine. I am the Lord.",
       "verse": 45
     },
     {
@@ -244,7 +245,7 @@
       "verse": 50
     },
     {
-      "text": "Moses gave the redemption money to Aaron and his sons, as he was commanded by the word of the .",
+      "text": "Moses gave the redemption money to Aaron and his sons, as he was commanded by the word of the Lord.",
       "verse": 51
     }
   ]

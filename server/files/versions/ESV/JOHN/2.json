@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 2,
+  "verses": 25,
   "content": [
     {
       "text": "The Wedding at Cana",
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "And Jesus said to her,",
+      "text": "And Jesus said to her, “Woman, what does this have to do with me? My hour has not yet come.”",
       "verse": 4
     },
     {
@@ -34,11 +35,11 @@
       "type": "newline"
     },
     {
-      "text": "Jesus said to the servants,  And they filled them up to the brim.",
+      "text": "Jesus said to the servants, “Fill the jars with water.” And they filled them up to the brim.",
       "verse": 7
     },
     {
-      "text": "And he said to them,  So they took it.",
+      "text": "And he said to them, “Now draw some out and take it to the master of the feast.” So they took it.",
       "verse": 8
     },
     {
@@ -76,7 +77,7 @@
       "verse": 15
     },
     {
-      "text": "And he told those who sold the pigeons,",
+      "text": "And he told those who sold the pigeons, “Take these things away; do not make my Father's house a house of trade.”",
       "verse": 16
     },
     {
@@ -89,7 +90,7 @@
       "type": "newline"
     },
     {
-      "text": "Jesus answered them,",
+      "text": "Jesus answered them, “Destroy this temple, and in three days I will raise it up.”",
       "verse": 19
     },
     {

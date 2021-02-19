@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 20,
+  "verses": 18,
   "content": [
     {
       "text": "And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar.",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "But Abimelech had not come near her: and he said, , wilt thou slay also a righteous nation?",
+      "text": "But Abimelech had not come near her: and he said, Lord, wilt thou slay also a righteous nation?",
       "verse": 4,
       "type": "newline"
     },
@@ -88,7 +89,7 @@
       "type": "newline"
     },
     {
-      "text": "For the  had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham's wife.",
+      "text": "For the Lord had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham's wife.",
       "verse": 18,
       "type": "newline"
     }

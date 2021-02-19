@@ -2,18 +2,19 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 18,
+  "verses": 50,
   "content": [
     {
-      "text": "I will love thee, O , my strength.",
+      "text": "I will love thee, O Lord, my strength.",
       "verse": 1
     },
     {
-      "text": "The  is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower.",
+      "text": "The Lord is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "I will call upon the , who is worthy to be praised: so shall I be saved from mine enemies.",
+      "text": "I will call upon the Lord, who is worthy to be praised: so shall I be saved from mine enemies.",
       "verse": 3,
       "type": "newline"
     },
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "In my distress I called upon the , and cried unto my God: he heard my voice out of his temple, and my cry came before him, even into his ears.",
+      "text": "In my distress I called upon the Lord, and cried unto my God: he heard my voice out of his temple, and my cry came before him, even into his ears.",
       "verse": 6,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "The  also thundered in the heavens, and the Highest gave his voice; hail stones and coals of fire.",
+      "text": "The Lord also thundered in the heavens, and the Highest gave his voice; hail stones and coals of fire.",
       "verse": 13,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "Then the channels of waters were seen, and the foundations of the world were discovered at thy rebuke, O , at the blast of the breath of thy nostrils.",
+      "text": "Then the channels of waters were seen, and the foundations of the world were discovered at thy rebuke, O Lord, at the blast of the breath of thy nostrils.",
       "verse": 15,
       "type": "newline"
     },
@@ -88,7 +89,7 @@
       "type": "newline"
     },
     {
-      "text": "They prevented me in the day of my calamity: but the  was my stay.",
+      "text": "They prevented me in the day of my calamity: but the Lord was my stay.",
       "verse": 18,
       "type": "newline"
     },
@@ -98,12 +99,12 @@
       "type": "newline"
     },
     {
-      "text": "The  rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me.",
+      "text": "The Lord rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me.",
       "verse": 20,
       "type": "newline"
     },
     {
-      "text": "For I have kept the ways of the , and have not wickedly departed from my God.",
+      "text": "For I have kept the ways of the Lord, and have not wickedly departed from my God.",
       "verse": 21,
       "type": "newline"
     },
@@ -118,7 +119,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore hath the  recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight.",
+      "text": "Therefore hath the Lord recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight.",
       "verse": 24,
       "type": "newline"
     },
@@ -138,7 +139,7 @@
       "type": "newline"
     },
     {
-      "text": "For thou wilt light my candle: the  my God will enlighten my darkness.",
+      "text": "For thou wilt light my candle: the Lord my God will enlighten my darkness.",
       "verse": 28,
       "type": "newline"
     },
@@ -148,12 +149,12 @@
       "type": "newline"
     },
     {
-      "text": "As for God, his way is perfect: the word of the  is tried: he is a buckler to all those that trust in him.",
+      "text": "As for God, his way is perfect: the word of the Lord is tried: he is a buckler to all those that trust in him.",
       "verse": 30,
       "type": "newline"
     },
     {
-      "text": "For who is God save the ? or who is a rock save our God?",
+      "text": "For who is God save the Lord? or who is a rock save our God?",
       "verse": 31,
       "type": "newline"
     },
@@ -203,7 +204,7 @@
       "type": "newline"
     },
     {
-      "text": "They cried, but there was none to save them: even unto the , but he answered them not.",
+      "text": "They cried, but there was none to save them: even unto the Lord, but he answered them not.",
       "verse": 41,
       "type": "newline"
     },
@@ -228,7 +229,7 @@
       "type": "newline"
     },
     {
-      "text": "The  liveth; and blessed be my rock; and let the God of my salvation be exalted.",
+      "text": "The Lord liveth; and blessed be my rock; and let the God of my salvation be exalted.",
       "verse": 46,
       "type": "newline"
     },
@@ -243,7 +244,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore will I give thanks unto thee, O , among the heathen, and sing praises unto thy name.",
+      "text": "Therefore will I give thanks unto thee, O Lord, among the heathen, and sing praises unto thy name.",
       "verse": 49,
       "type": "newline"
     },

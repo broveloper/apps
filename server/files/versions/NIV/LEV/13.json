@@ -2,13 +2,14 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 13,
+  "verses": 59,
   "content": [
     {
       "text": "Regulations About Defiling Skin Diseases",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses and Aaron,",
+      "text": "The Lord said to Moses and Aaron,",
       "verse": 1,
       "type": "newline"
     },

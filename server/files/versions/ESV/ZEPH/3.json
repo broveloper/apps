@@ -2,6 +2,7 @@
   "book_id": "ZEPH",
   "book_name": "Zephaniah",
   "chapter": 3,
+  "verses": 20,
   "content": [
     {
       "text": "Judgment on Jerusalem and the Nations",
@@ -28,7 +29,7 @@
       "type": "poetry"
     },
     {
-      "text": "She does not trust in the ;",
+      "text": "She does not trust in the Lord;",
       "verse": 2,
       "type": "poetry"
     },
@@ -73,7 +74,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  within her is righteous;",
+      "text": "The Lord within her is righteous;",
       "verse": 5,
       "type": "poetry"
     },
@@ -158,7 +159,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Therefore wait for me,” declares the ,",
+      "text": "“Therefore wait for me,” declares the Lord,",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -212,7 +213,7 @@
       "type": "poetry"
     },
     {
-      "text": "that all of them may call upon the name of the",
+      "text": "that all of them may call upon the name of the Lord",
       "verse": 9,
       "type": "poetry"
     },
@@ -277,12 +278,12 @@
       "type": "poetry"
     },
     {
-      "text": "They shall seek refuge in the name of the ,",
+      "text": "They shall seek refuge in the name of the Lord,",
       "verse": 12,
       "type": "poetry"
     },
     {
-      "text": "those who are left in Israel;",
+      "text": "    those who are left in Israel;",
       "verse": 13,
       "type": "poetry"
     },
@@ -341,7 +342,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has taken away the judgments against you;",
+      "text": "The Lord has taken away the judgments against you;",
       "verse": 15,
       "type": "poetry"
     },
@@ -351,7 +352,7 @@
       "type": "poetry"
     },
     {
-      "text": "The King of Israel, the , is in your midst;",
+      "text": "The King of Israel, the Lord, is in your midst;",
       "verse": 15,
       "type": "poetry"
     },
@@ -376,7 +377,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  your God is in your midst,",
+      "text": "The Lord your God is in your midst,",
       "verse": 17,
       "type": "poetry"
     },
@@ -466,7 +467,7 @@
       "type": "poetry"
     },
     {
-      "text": "before your eyes,” says the .",
+      "text": "before your eyes,” says the Lord.",
       "verse": 20,
       "type": "poetry"
     }

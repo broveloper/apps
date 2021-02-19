@@ -2,6 +2,7 @@
   "book_id": "ESTH",
   "book_name": "Esther",
   "chapter": 9,
+  "verses": 32,
   "content": [
     {
       "text": "On the thirteenth day of the twelfth month, the month of Adar, the edict commanded by the king was to be carried out. On this day the enemies of the Jews had hoped to overpower them, but now the tables were turned and the Jews got the upper hand over those who hated them.",
@@ -109,7 +110,7 @@
       "type": "newline"
     },
     {
-      "text": "For Haman son of Hammedatha, the Agagite, the enemy of all the Jews, had plotted against the Jews to destroy them and had cast the  (that is, the lot) for their ruin and destruction.",
+      "text": "For Haman son of Hammedatha, the Agagite, the enemy of all the Jews, had plotted against the Jews to destroy them and had cast the pur (that is, the lot) for their ruin and destruction.",
       "verse": 24
     },
     {
@@ -117,7 +118,7 @@
       "verse": 25
     },
     {
-      "text": "(Therefore these days were called Purim, from the word .) Because of everything written in this letter and because of what they had seen and what had happened to them,",
+      "text": "(Therefore these days were called Purim, from the word pur.) Because of everything written in this letter and because of what they had seen and what had happened to them,",
       "verse": 26
     },
     {

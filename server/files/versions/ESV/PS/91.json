@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 91,
+  "verses": 16,
   "content": [
     {
       "text": "My Refuge and My Fortress",
@@ -18,7 +19,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will say to the , “My refuge and my fortress,",
+      "text": "I will say to the Lord, “My refuge and my fortress,",
       "verse": 2,
       "type": "poetry"
     },
@@ -98,7 +99,7 @@
       "type": "poetry"
     },
     {
-      "text": "Because you have made the  your dwelling place—",
+      "text": "Because you have made the Lord your dwelling place—",
       "verse": 9,
       "type": "poetry newline"
     },

@@ -2,9 +2,10 @@
   "book_id": "JOB",
   "book_name": "Job",
   "chapter": 40,
+  "verses": 24,
   "content": [
     {
-      "text": "And the  said to Job:",
+      "text": "And the Lord said to Job:",
       "verse": 1
     },
     {
@@ -22,7 +23,7 @@
       "type": "heading"
     },
     {
-      "text": "Then Job answered the  and said:",
+      "text": "Then Job answered the Lord and said:",
       "verse": 3,
       "type": "newline"
     },
@@ -47,11 +48,11 @@
       "type": "poetry"
     },
     {
-      "text": "The  Challenges Job",
+      "text": "The Lord Challenges Job",
       "type": "heading"
     },
     {
-      "text": "Then the  answered Job out of the whirlwind and said:",
+      "text": "Then the Lord answered Job out of the whirlwind and said:",
       "verse": 6,
       "type": "newline"
     },

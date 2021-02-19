@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 34,
+  "verses": 29,
   "content": [
     {
       "text": "Boundaries of Canaan",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 1,
       "type": "newline"
     },
@@ -66,7 +67,7 @@
       "type": "newline"
     },
     {
-      "text": "Moses commanded the Israelites: “Assign this land by lot as an inheritance. The  has ordered that it be given to the nine and a half tribes,",
+      "text": "Moses commanded the Israelites: “Assign this land by lot as an inheritance. The Lord has ordered that it be given to the nine and a half tribes,",
       "verse": 13,
       "type": "newline"
     },
@@ -79,7 +80,7 @@
       "verse": 15
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 16,
       "type": "newline"
     },
@@ -177,7 +178,7 @@
       "verse": 28
     },
     {
-      "text": "These are the men the  commanded to assign the inheritance to the Israelites in the land of Canaan.",
+      "text": "These are the men the Lord commanded to assign the inheritance to the Israelites in the land of Canaan.",
       "verse": 29,
       "type": "newline"
     }

@@ -2,6 +2,7 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 32,
+  "verses": 35,
   "content": [
     {
       "text": "The Golden Calf",
@@ -26,7 +27,7 @@
       "verse": 4
     },
     {
-      "text": "When Aaron saw this, he built an altar in front of the calf and announced, “Tomorrow there will be a festival to the .”",
+      "text": "When Aaron saw this, he built an altar in front of the calf and announced, “Tomorrow there will be a festival to the Lord.”",
       "verse": 5,
       "type": "newline"
     },
@@ -35,7 +36,7 @@
       "verse": 6
     },
     {
-      "text": "Then the  said to Moses, “Go down, because your people, whom you brought up out of Egypt, have become corrupt.",
+      "text": "Then the Lord said to Moses, “Go down, because your people, whom you brought up out of Egypt, have become corrupt.",
       "verse": 7,
       "type": "newline"
     },
@@ -44,7 +45,7 @@
       "verse": 8
     },
     {
-      "text": "“I have seen these people,” the  said to Moses, “and they are a stiff-necked people.",
+      "text": "“I have seen these people,” the Lord said to Moses, “and they are a stiff-necked people.",
       "verse": 9,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "verse": 10
     },
     {
-      "text": "But Moses sought the favor of the  his God. “,” he said, “why should your anger burn against your people, whom you brought out of Egypt with great power and a mighty hand?",
+      "text": "But Moses sought the favor of the Lord his God. “Lord,” he said, “why should your anger burn against your people, whom you brought out of Egypt with great power and a mighty hand?",
       "verse": 11,
       "type": "newline"
     },
@@ -66,7 +67,7 @@
       "verse": 13
     },
     {
-      "text": "Then the  relented and did not bring on his people the disaster he had threatened.",
+      "text": "Then the Lord relented and did not bring on his people the disaster he had threatened.",
       "verse": 14
     },
     {
@@ -136,11 +137,11 @@
       "type": "newline"
     },
     {
-      "text": "So he stood at the entrance to the camp and said, “Whoever is for the , come to me.” And all the Levites rallied to him.",
+      "text": "So he stood at the entrance to the camp and said, “Whoever is for the Lord, come to me.” And all the Levites rallied to him.",
       "verse": 26
     },
     {
-      "text": "Then he said to them, “This is what the , the God of Israel, says: ‘Each man strap a sword to his side. Go back and forth through the camp from one end to the other, each killing his brother and friend and neighbor.’”",
+      "text": "Then he said to them, “This is what the Lord, the God of Israel, says: ‘Each man strap a sword to his side. Go back and forth through the camp from one end to the other, each killing his brother and friend and neighbor.’”",
       "verse": 27,
       "type": "newline"
     },
@@ -149,16 +150,16 @@
       "verse": 28
     },
     {
-      "text": "Then Moses said, “You have been set apart to the  today, for you were against your own sons and brothers, and he has blessed you this day.”",
+      "text": "Then Moses said, “You have been set apart to the Lord today, for you were against your own sons and brothers, and he has blessed you this day.”",
       "verse": 29
     },
     {
-      "text": "The next day Moses said to the people, “You have committed a great sin. But now I will go up to the ; perhaps I can make atonement for your sin.”",
+      "text": "The next day Moses said to the people, “You have committed a great sin. But now I will go up to the Lord; perhaps I can make atonement for your sin.”",
       "verse": 30,
       "type": "newline"
     },
     {
-      "text": "So Moses went back to the  and said, “Oh, what a great sin these people have committed! They have made themselves gods of gold.",
+      "text": "So Moses went back to the Lord and said, “Oh, what a great sin these people have committed! They have made themselves gods of gold.",
       "verse": 31,
       "type": "newline"
     },
@@ -167,7 +168,7 @@
       "verse": 32
     },
     {
-      "text": "The  replied to Moses, “Whoever has sinned against me I will blot out of my book.",
+      "text": "The Lord replied to Moses, “Whoever has sinned against me I will blot out of my book.",
       "verse": 33,
       "type": "newline"
     },
@@ -176,7 +177,7 @@
       "verse": 34
     },
     {
-      "text": "And the  struck the people with a plague because of what they did with the calf Aaron had made.",
+      "text": "And the Lord struck the people with a plague because of what they did with the calf Aaron had made.",
       "verse": 35,
       "type": "newline"
     }

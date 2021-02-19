@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 8,
+  "verses": 9,
   "content": [
     {
       "text": "How Majestic Is Your Name",
@@ -9,11 +10,10 @@
     },
     {
       "text": "To the choirmaster: according to The Gittith. A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "O , our Lord,",
+      "text": "O Lord, our Lord,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -28,7 +28,7 @@
       "type": "poetry"
     },
     {
-      "text": "Out of the mouth of babies and infants,",
+      "text": "    Out of the mouth of babies and infants,",
       "verse": 2,
       "type": "poetry"
     },
@@ -103,7 +103,7 @@
       "type": "poetry"
     },
     {
-      "text": "O , our Lord,",
+      "text": "O Lord, our Lord,",
       "verse": 9,
       "type": "poetry newline"
     },

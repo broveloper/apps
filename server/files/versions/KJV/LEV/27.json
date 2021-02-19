@@ -2,13 +2,14 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 27,
+  "verses": 34,
   "content": [
     {
-      "text": "And the  spake unto Moses, saying,",
+      "text": "And the Lord spake unto Moses, saying,",
       "verse": 1
     },
     {
-      "text": "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons shall be for the  by thy estimation.",
+      "text": "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons shall be for the Lord by thy estimation.",
       "verse": 2,
       "type": "newline"
     },
@@ -43,7 +44,7 @@
       "type": "newline"
     },
     {
-      "text": "And if it be a beast, whereof men bring an offering unto the , all that any man giveth of such unto the  shall be holy.",
+      "text": "And if it be a beast, whereof men bring an offering unto the Lord, all that any man giveth of such unto the Lord shall be holy.",
       "verse": 9,
       "type": "newline"
     },
@@ -53,7 +54,7 @@
       "type": "newline"
     },
     {
-      "text": "And if it be any unclean beast, of which they do not offer a sacrifice unto the , then he shall present the beast before the priest:",
+      "text": "And if it be any unclean beast, of which they do not offer a sacrifice unto the Lord, then he shall present the beast before the priest:",
       "verse": 11,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "And when a man shall sanctify his house to be holy unto the , then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand.",
+      "text": "And when a man shall sanctify his house to be holy unto the Lord, then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand.",
       "verse": 14,
       "type": "newline"
     },
@@ -78,7 +79,7 @@
       "type": "newline"
     },
     {
-      "text": "And if a man shall sanctify unto the  some part of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed shall be valued at fifty shekels of silver.",
+      "text": "And if a man shall sanctify unto the Lord some part of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed shall be valued at fifty shekels of silver.",
       "verse": 16,
       "type": "newline"
     },
@@ -103,17 +104,17 @@
       "type": "newline"
     },
     {
-      "text": "But the field, when it goeth out in the jubile, shall be holy unto the , as a field devoted; the possession thereof shall be the priest's.",
+      "text": "But the field, when it goeth out in the jubile, shall be holy unto the Lord, as a field devoted; the possession thereof shall be the priest's.",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "And if a man sanctify unto the  a field which he hath bought, which is not of the fields of his possession;",
+      "text": "And if a man sanctify unto the Lord a field which he hath bought, which is not of the fields of his possession;",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "Then the priest shall reckon unto him the worth of thy estimation, even unto the year of the jubile: and he shall give thine estimation in that day, as a holy thing unto the .",
+      "text": "Then the priest shall reckon unto him the worth of thy estimation, even unto the year of the jubile: and he shall give thine estimation in that day, as a holy thing unto the Lord.",
       "verse": 23,
       "type": "newline"
     },
@@ -128,7 +129,7 @@
       "type": "newline"
     },
     {
-      "text": "Only the firstling of the beasts, which should be the 's firstling, no man shall sanctify it; whether it be ox, or sheep: it is the 's.",
+      "text": "Only the firstling of the beasts, which should be the Lord's firstling, no man shall sanctify it; whether it be ox, or sheep: it is the Lord's.",
       "verse": 26,
       "type": "newline"
     },
@@ -138,7 +139,7 @@
       "type": "newline"
     },
     {
-      "text": "Notwithstanding no devoted thing, that a man shall devote unto the  of all that he hath, both of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing is most holy unto the .",
+      "text": "Notwithstanding no devoted thing, that a man shall devote unto the Lord of all that he hath, both of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing is most holy unto the Lord.",
       "verse": 28,
       "type": "newline"
     },
@@ -148,7 +149,7 @@
       "type": "newline"
     },
     {
-      "text": "And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is the 's: it is holy unto the .",
+      "text": "And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is the Lord's: it is holy unto the Lord.",
       "verse": 30,
       "type": "newline"
     },
@@ -158,7 +159,7 @@
       "type": "newline"
     },
     {
-      "text": "And concerning the tithe of the herd, or of the flock, even of whatsoever passeth under the rod, the tenth shall be holy unto the .",
+      "text": "And concerning the tithe of the herd, or of the flock, even of whatsoever passeth under the rod, the tenth shall be holy unto the Lord.",
       "verse": 32,
       "type": "newline"
     },
@@ -168,7 +169,7 @@
       "type": "newline"
     },
     {
-      "text": "These are the commandments, which the  commanded Moses for the children of Israel in mount Sinai.",
+      "text": "These are the commandments, which the Lord commanded Moses for the children of Israel in mount Sinai.",
       "verse": 34,
       "type": "newline"
     }

@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 23,
+  "verses": 29,
   "content": [
     {
       "text": "David Saves the City of Keilah",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "Therefore David inquired of the , “Shall I go and attack these Philistines?” And the  said to David, “Go and attack the Philistines and save Keilah.”",
+      "text": "Therefore David inquired of the Lord, “Shall I go and attack these Philistines?” And the Lord said to David, “Go and attack the Philistines and save Keilah.”",
       "verse": 2
     },
     {
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "Then David inquired of the  again. And the  answered him, “Arise, go down to Keilah, for I will give the Philistines into your hand.”",
+      "text": "Then David inquired of the Lord again. And the Lord answered him, “Arise, go down to Keilah, for I will give the Philistines into your hand.”",
       "verse": 4
     },
     {
@@ -46,15 +47,15 @@
       "verse": 9
     },
     {
-      "text": "Then David said, “O , the God of Israel, your servant has surely heard that Saul seeks to come to Keilah, to destroy the city on my account.",
+      "text": "Then David said, “O Lord, the God of Israel, your servant has surely heard that Saul seeks to come to Keilah, to destroy the city on my account.",
       "verse": 10
     },
     {
-      "text": "Will the men of Keilah surrender me into his hand? Will Saul come down, as your servant has heard? O , the God of Israel, please tell your servant.” And the  said, “He will come down.”",
+      "text": "Will the men of Keilah surrender me into his hand? Will Saul come down, as your servant has heard? O Lord, the God of Israel, please tell your servant.” And the Lord said, “He will come down.”",
       "verse": 11
     },
     {
-      "text": "Then David said, “Will the men of Keilah surrender me and my men into the hand of Saul?” And the  said, “They will surrender you.”",
+      "text": "Then David said, “Will the men of Keilah surrender me and my men into the hand of Saul?” And the Lord said, “They will surrender you.”",
       "verse": 12
     },
     {
@@ -83,7 +84,7 @@
       "verse": 17
     },
     {
-      "text": "And the two of them made a covenant before the . David remained at Horesh, and Jonathan went home.",
+      "text": "And the two of them made a covenant before the Lord. David remained at Horesh, and Jonathan went home.",
       "verse": 18
     },
     {
@@ -96,7 +97,7 @@
       "verse": 20
     },
     {
-      "text": "And Saul said, “May you be blessed by the , for you have had compassion on me.",
+      "text": "And Saul said, “May you be blessed by the Lord, for you have had compassion on me.",
       "verse": 21
     },
     {
@@ -133,7 +134,7 @@
       "verse": 28
     },
     {
-      "text": "And David went up from there and lived in the strongholds of Engedi.",
+      "text": " And David went up from there and lived in the strongholds of Engedi.",
       "verse": 29
     }
   ]

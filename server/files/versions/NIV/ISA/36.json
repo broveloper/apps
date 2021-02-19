@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 36,
+  "verses": 22,
   "content": [
     {
       "text": "Sennacherib Threatens Jerusalem",
@@ -39,7 +40,7 @@
       "verse": 6
     },
     {
-      "text": "But if you say to me, “We are depending on the  our God”—isn’t he the one whose high places and altars Hezekiah removed, saying to Judah and Jerusalem, “You must worship before this altar”?",
+      "text": "But if you say to me, “We are depending on the Lord our God”—isn’t he the one whose high places and altars Hezekiah removed, saying to Judah and Jerusalem, “You must worship before this altar”?",
       "verse": 7
     },
     {
@@ -51,7 +52,7 @@
       "verse": 9
     },
     {
-      "text": "Furthermore, have I come to attack and destroy this land without the ? The  himself told me to march against this country and destroy it.’”",
+      "text": "Furthermore, have I come to attack and destroy this land without the Lord? The Lord himself told me to march against this country and destroy it.’”",
       "verse": 10
     },
     {
@@ -74,7 +75,7 @@
       "verse": 14
     },
     {
-      "text": "Do not let Hezekiah persuade you to trust in the  when he says, ‘The  will surely deliver us; this city will not be given into the hand of the king of Assyria.’",
+      "text": "Do not let Hezekiah persuade you to trust in the Lord when he says, ‘The Lord will surely deliver us; this city will not be given into the hand of the king of Assyria.’",
       "verse": 15
     },
     {
@@ -87,7 +88,7 @@
       "verse": 17
     },
     {
-      "text": "“Do not let Hezekiah mislead you when he says, ‘The  will deliver us.’ Have the gods of any nations ever delivered their lands from the hand of the king of Assyria?",
+      "text": "“Do not let Hezekiah mislead you when he says, ‘The Lord will deliver us.’ Have the gods of any nations ever delivered their lands from the hand of the king of Assyria?",
       "verse": 18,
       "type": "newline"
     },
@@ -96,7 +97,7 @@
       "verse": 19
     },
     {
-      "text": "Who of all the gods of these countries have been able to save their lands from me? How then can the  deliver Jerusalem from my hand?”",
+      "text": "Who of all the gods of these countries have been able to save their lands from me? How then can the Lord deliver Jerusalem from my hand?”",
       "verse": 20
     },
     {

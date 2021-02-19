@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 144,
+  "verses": 15,
   "content": [
     {
       "text": "Psalm 144",
@@ -9,11 +10,10 @@
     },
     {
       "text": "Of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Praise be to the  my Rock,",
+      "text": "Praise be to the Lord my Rock,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -48,7 +48,7 @@
       "type": "poetry"
     },
     {
-      "text": ", what are human beings that you care for them,",
+      "text": "Lord, what are human beings that you care for them,",
       "verse": 3,
       "type": "poetry newline"
     },
@@ -68,7 +68,7 @@
       "type": "poetry"
     },
     {
-      "text": "Part your heavens, , and come down;",
+      "text": "Part your heavens, Lord, and come down;",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -203,7 +203,7 @@
       "type": "poetry"
     },
     {
-      "text": "our oxen will draw heavy loads.",
+      "text": "    our oxen will draw heavy loads.",
       "verse": 14,
       "type": "poetry"
     },
@@ -228,7 +228,7 @@
       "type": "poetry"
     },
     {
-      "text": "blessed is the people whose God is the .",
+      "text": "blessed is the people whose God is the Lord.",
       "verse": 15,
       "type": "poetry"
     }

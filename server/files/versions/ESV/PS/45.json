@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 45,
+  "verses": 17,
   "content": [
     {
       "text": "Your Throne, O God, Is Forever",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster: according to Lilies. A Maskil of the Sons of Korah; a love song.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "My heart overflows with a pleasing theme;",
@@ -93,7 +93,7 @@
       "type": "poetry"
     },
     {
-      "text": "you have loved righteousness and hated wickedness.",
+      "text": "    you have loved righteousness and hated wickedness.",
       "verse": 7,
       "type": "poetry"
     },
@@ -108,7 +108,7 @@
       "type": "poetry"
     },
     {
-      "text": "your robes are all fragrant with myrrh and aloes and cassia.",
+      "text": "    your robes are all fragrant with myrrh and aloes and cassia.",
       "verse": 8,
       "type": "poetry"
     },
@@ -118,7 +118,7 @@
       "type": "poetry"
     },
     {
-      "text": "daughters of kings are among your ladies of honor;",
+      "text": "    daughters of kings are among your ladies of honor;",
       "verse": 9,
       "type": "poetry"
     },
@@ -138,7 +138,7 @@
       "type": "poetry"
     },
     {
-      "text": "and the king will desire your beauty.",
+      "text": "    and the king will desire your beauty.",
       "verse": 11,
       "type": "poetry"
     },
@@ -148,7 +148,7 @@
       "type": "poetry"
     },
     {
-      "text": "The people of Tyre will seek your favor with gifts,",
+      "text": "    The people of Tyre will seek your favor with gifts,",
       "verse": 12,
       "type": "poetry"
     },
@@ -163,7 +163,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "In many-colored robes she is led to the king,",
+      "text": "    In many-colored robes she is led to the king,",
       "verse": 14,
       "type": "poetry"
     },

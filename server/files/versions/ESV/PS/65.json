@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 65,
+  "verses": 13,
   "content": [
     {
       "text": "O God of Our Salvation",
@@ -9,8 +10,7 @@
     },
     {
       "text": "To the choirmaster. A Psalm of David. A Song.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Praise is due to you, O God, in Zion,",

@@ -2,6 +2,7 @@
   "book_id": "1CHR",
   "book_name": "1 Chronicles",
   "chapter": 9,
+  "verses": 44,
   "content": [
     {
       "text": "So all Israel were reckoned by genealogies; and, behold, they were written in the book of the kings of Israel and Judah, who were carried away to Babylon for their transgression.",
@@ -93,12 +94,12 @@
       "type": "newline"
     },
     {
-      "text": "And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, were over the work of the service, keepers of the gates of the tabernacle: and their fathers, being over the host of the , were keepers of the entry.",
+      "text": "And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, were over the work of the service, keepers of the gates of the tabernacle: and their fathers, being over the host of the Lord, were keepers of the entry.",
       "verse": 19,
       "type": "newline"
     },
     {
-      "text": "And Phinehas the son of Eleazar was the ruler over them in time past, and the  was with him.",
+      "text": "And Phinehas the son of Eleazar was the ruler over them in time past, and the Lord was with him.",
       "verse": 20,
       "type": "newline"
     },
@@ -113,7 +114,7 @@
       "type": "newline"
     },
     {
-      "text": "So they and their children had the oversight of the gates of the house of the , namely, the house of the tabernacle, by wards.",
+      "text": "So they and their children had the oversight of the gates of the house of the Lord, namely, the house of the tabernacle, by wards.",
       "verse": 23,
       "type": "newline"
     },

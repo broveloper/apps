@@ -2,18 +2,19 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 149,
+  "verses": 9,
   "content": [
     {
       "text": "Psalm 149",
       "type": "heading"
     },
     {
-      "text": "Praise the .",
+      "text": "Praise the Lord.",
       "verse": 1,
       "type": "poetry newline"
     },
     {
-      "text": "Sing to the  a new song,",
+      "text": "Sing to the Lord a new song,",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -43,7 +44,7 @@
       "type": "poetry"
     },
     {
-      "text": "For the  takes delight in his people;",
+      "text": "For the Lord takes delight in his people;",
       "verse": 4,
       "type": "poetry"
     },
@@ -103,7 +104,7 @@
       "type": "poetry"
     },
     {
-      "text": "Praise the .",
+      "text": "Praise the Lord.",
       "verse": 9,
       "type": "poetry newline"
     }

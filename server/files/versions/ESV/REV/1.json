@@ -2,6 +2,7 @@
   "book_id": "REV",
   "book_name": "Revelation",
   "chapter": 1,
+  "verses": 20,
   "content": [
     {
       "text": "Prologue",
@@ -70,7 +71,7 @@
       "verse": 10
     },
     {
-      "text": "saying,",
+      "text": "saying, “Write what you see in a book and send it to the seven churches, to Ephesus and to Smyrna and to Pergamum and to Thyatira and to Sardis and to Philadelphia and to Laodicea.”",
       "verse": 11
     },
     {
@@ -95,20 +96,20 @@
       "verse": 16
     },
     {
-      "text": "When I saw him, I fell at his feet as though dead. But he laid his right hand on me, saying,",
+      "text": "When I saw him, I fell at his feet as though dead. But he laid his right hand on me, saying, “Fear not, I am the first and the last,",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "and the living one. I died, and behold I am alive forevermore, and I have the keys of Death and Hades.",
       "verse": 18
     },
     {
-      "text": "",
+      "text": "Write therefore the things that you have seen, those that are and those that are to take place after this.",
       "verse": 19
     },
     {
-      "text": "",
+      "text": "As for the mystery of the seven stars that you saw in my right hand, and the seven golden lampstands, the seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.",
       "verse": 20
     }
   ]

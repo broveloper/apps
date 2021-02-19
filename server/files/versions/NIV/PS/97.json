@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 97,
+  "verses": 12,
   "content": [
     {
       "text": "Psalm 97",
       "type": "heading"
     },
     {
-      "text": "The  reigns, let the earth be glad;",
+      "text": "The Lord reigns, let the earth be glad;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -48,7 +49,7 @@
       "type": "poetry"
     },
     {
-      "text": "The mountains melt like wax before the ,",
+      "text": "The mountains melt like wax before the Lord,",
       "verse": 5,
       "type": "poetry"
     },
@@ -93,12 +94,12 @@
       "type": "poetry"
     },
     {
-      "text": "because of your judgments, .",
+      "text": "because of your judgments, Lord.",
       "verse": 8,
       "type": "poetry"
     },
     {
-      "text": "For you, , are the Most High over all the earth;",
+      "text": "For you, Lord, are the Most High over all the earth;",
       "verse": 9,
       "type": "poetry"
     },
@@ -108,7 +109,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let those who love the  hate evil,",
+      "text": "Let those who love the Lord hate evil,",
       "verse": 10,
       "type": "poetry"
     },
@@ -133,7 +134,7 @@
       "type": "poetry"
     },
     {
-      "text": "Rejoice in the , you who are righteous,",
+      "text": "Rejoice in the Lord, you who are righteous,",
       "verse": 12,
       "type": "poetry"
     },

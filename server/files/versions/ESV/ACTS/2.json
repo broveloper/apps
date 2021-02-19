@@ -2,6 +2,7 @@
   "book_id": "ACTS",
   "book_name": "Acts",
   "chapter": 2,
+  "verses": 47,
   "content": [
     {
       "text": "The Coming of the Holy Spirit",
@@ -241,7 +242,7 @@
       "type": "poetry"
     },
     {
-      "text": "until I make your enemies your footstool.”’",
+      "text": "    until I make your enemies your footstool.”’",
       "verse": 35,
       "type": "poetry"
     },

@@ -2,18 +2,19 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 30,
+  "verses": 26,
   "content": [
     {
       "text": "A Lament for Egypt",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Son of man, prophesy, and say, Thus says the Lord :",
+      "text": "“Son of man, prophesy, and say, Thus says the Lord God:",
       "verse": 2
     },
     {
@@ -22,12 +23,12 @@
       "type": "poetry newline"
     },
     {
-      "text": "For the day is near,",
+      "text": "    For the day is near,",
       "verse": 3,
       "type": "poetry"
     },
     {
-      "text": "the day of the  is near;",
+      "text": "the day of the Lord is near;",
       "verse": 3,
       "type": "poetry"
     },
@@ -72,7 +73,7 @@
       "type": "newline"
     },
     {
-      "text": "“Thus says the :",
+      "text": "“Thus says the Lord:",
       "verse": 6,
       "type": "poetry newline"
     },
@@ -97,7 +98,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the Lord .",
+      "text": "declares the Lord God.",
       "verse": 6,
       "type": "poetry"
     },
@@ -112,7 +113,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then they will know that I am the ,",
+      "text": "Then they will know that I am the Lord,",
       "verse": 8,
       "type": "poetry"
     },
@@ -132,7 +133,7 @@
       "type": "newline"
     },
     {
-      "text": "“Thus says the Lord :",
+      "text": "“Thus says the Lord God:",
       "verse": 10,
       "type": "newline"
     },
@@ -187,12 +188,12 @@
       "type": "poetry"
     },
     {
-      "text": "I am the ; I have spoken.",
+      "text": "I am the Lord; I have spoken.",
       "verse": 12,
       "type": "poetry"
     },
     {
-      "text": "“Thus says the Lord :",
+      "text": "“Thus says the Lord God:",
       "verse": 13,
       "type": "newline"
     },
@@ -307,7 +308,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then they will know that I am the .”",
+      "text": "Then they will know that I am the Lord.”",
       "verse": 19,
       "type": "poetry"
     },
@@ -316,7 +317,7 @@
       "type": "heading"
     },
     {
-      "text": "In the eleventh year, in the first month, on the seventh day of the month, the word of the  came to me:",
+      "text": "In the eleventh year, in the first month, on the seventh day of the month, the word of the Lord came to me:",
       "verse": 20,
       "type": "newline"
     },
@@ -325,7 +326,7 @@
       "verse": 21
     },
     {
-      "text": "Therefore thus says the Lord : Behold, I am against Pharaoh king of Egypt and will break his arms, both the strong arm and the one that was broken, and I will make the sword fall from his hand.",
+      "text": "Therefore thus says the Lord God: Behold, I am against Pharaoh king of Egypt and will break his arms, both the strong arm and the one that was broken, and I will make the sword fall from his hand.",
       "verse": 22
     },
     {
@@ -337,11 +338,11 @@
       "verse": 24
     },
     {
-      "text": "I will strengthen the arms of the king of Babylon, but the arms of Pharaoh shall fall. Then they shall know that I am the , when I put my sword into the hand of the king of Babylon and he stretches it out against the land of Egypt.",
+      "text": "I will strengthen the arms of the king of Babylon, but the arms of Pharaoh shall fall. Then they shall know that I am the Lord, when I put my sword into the hand of the king of Babylon and he stretches it out against the land of Egypt.",
       "verse": 25
     },
     {
-      "text": "And I will scatter the Egyptians among the nations and disperse them throughout the countries. Then they will know that I am the .”",
+      "text": "And I will scatter the Egyptians among the nations and disperse them throughout the countries. Then they will know that I am the Lord.”",
       "verse": 26
     }
   ]

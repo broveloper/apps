@@ -2,9 +2,10 @@
   "book_id": "2KGS",
   "book_name": "2 Kings",
   "chapter": 4,
+  "verses": 44,
   "content": [
     {
-      "text": "Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the : and the creditor is come to take unto him my two sons to be bondmen.",
+      "text": "Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the Lord: and the creditor is come to take unto him my two sons to be bondmen.",
       "verse": 1
     },
     {
@@ -133,7 +134,7 @@
       "type": "newline"
     },
     {
-      "text": "And when she came to the man of God to the hill, she caught him by the feet: but Gehazi came near to thrust her away. And the man of God said, Let her alone; for her soul is vexed within her: and the  hath hid it from me, and hath not told me.",
+      "text": "And when she came to the man of God to the hill, she caught him by the feet: but Gehazi came near to thrust her away. And the man of God said, Let her alone; for her soul is vexed within her: and the Lord hath hid it from me, and hath not told me.",
       "verse": 27,
       "type": "newline"
     },
@@ -148,7 +149,7 @@
       "type": "newline"
     },
     {
-      "text": "And the mother of the child said, As the  liveth, and as thy soul liveth, I will not leave thee. And he arose, and followed her.",
+      "text": "And the mother of the child said, As the Lord liveth, and as thy soul liveth, I will not leave thee. And he arose, and followed her.",
       "verse": 30,
       "type": "newline"
     },
@@ -163,7 +164,7 @@
       "type": "newline"
     },
     {
-      "text": "He went in therefore, and shut the door upon them twain, and prayed unto the .",
+      "text": "He went in therefore, and shut the door upon them twain, and prayed unto the Lord.",
       "verse": 33,
       "type": "newline"
     },
@@ -213,12 +214,12 @@
       "type": "newline"
     },
     {
-      "text": "And his servitor said, What, should I set this before an hundred men? He said again, Give the people, that they may eat: for thus saith the , They shall eat, and shall leave thereof.",
+      "text": "And his servitor said, What, should I set this before an hundred men? He said again, Give the people, that they may eat: for thus saith the Lord, They shall eat, and shall leave thereof.",
       "verse": 43,
       "type": "newline"
     },
     {
-      "text": "So he set it before them, and they did eat, and left thereof, according to the word of the .",
+      "text": "So he set it before them, and they did eat, and left thereof, according to the word of the Lord.",
       "verse": 44,
       "type": "newline"
     }

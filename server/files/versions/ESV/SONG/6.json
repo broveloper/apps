@@ -2,10 +2,11 @@
   "book_id": "SONG",
   "book_name": "Song of Solomon",
   "chapter": 6,
+  "verses": 13,
   "content": [
     {
       "text": "Others",
-      "verse": 1
+      "type": "title"
     },
     {
       "text": "Where has your beloved gone,",
@@ -33,8 +34,7 @@
     },
     {
       "text": "She",
-      "verse": 2,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "My beloved has gone down to his garden",
@@ -72,8 +72,7 @@
     },
     {
       "text": "He",
-      "verse": 4,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "You are beautiful as Tirzah, my love,",
@@ -192,8 +191,7 @@
     },
     {
       "text": "She",
-      "verse": 11,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "I went down to the nut orchard",
@@ -227,11 +225,10 @@
     },
     {
       "text": "Others",
-      "verse": 13,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "Return, return, O Shulammite,",
+      "text": " Return, return, O Shulammite,",
       "verse": 13,
       "type": "poetry newline"
     },
@@ -242,8 +239,7 @@
     },
     {
       "text": "He",
-      "verse": 13,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Why should you look upon the Shulammite,",

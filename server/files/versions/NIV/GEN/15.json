@@ -2,13 +2,14 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 15,
+  "verses": 21,
   "content": [
     {
-      "text": "The ’s Covenant With Abram",
+      "text": "The Lord’s Covenant With Abram",
       "type": "heading"
     },
     {
-      "text": "After this, the word of the  came to Abram in a vision:",
+      "text": "After this, the word of the Lord came to Abram in a vision:",
       "verse": 1,
       "type": "newline"
     },
@@ -28,7 +29,7 @@
       "type": "poetry"
     },
     {
-      "text": "But Abram said, “Sovereign , what can you give me since I remain childless and the one who will inherit my estate is Eliezer of Damascus?”",
+      "text": "But Abram said, “Sovereign Lord, what can you give me since I remain childless and the one who will inherit my estate is Eliezer of Damascus?”",
       "verse": 2,
       "type": "newline"
     },
@@ -37,7 +38,7 @@
       "verse": 3
     },
     {
-      "text": "Then the word of the  came to him: “This man will not be your heir, but a son who is your own flesh and blood will be your heir.”",
+      "text": "Then the word of the Lord came to him: “This man will not be your heir, but a son who is your own flesh and blood will be your heir.”",
       "verse": 4,
       "type": "newline"
     },
@@ -46,22 +47,22 @@
       "verse": 5
     },
     {
-      "text": "Abram believed the , and he credited it to him as righteousness.",
+      "text": "Abram believed the Lord, and he credited it to him as righteousness.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "He also said to him, “I am the , who brought you out of Ur of the Chaldeans to give you this land to take possession of it.”",
+      "text": "He also said to him, “I am the Lord, who brought you out of Ur of the Chaldeans to give you this land to take possession of it.”",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "But Abram said, “Sovereign , how can I know that I will gain possession of it?”",
+      "text": "But Abram said, “Sovereign Lord, how can I know that I will gain possession of it?”",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "So the  said to him, “Bring me a heifer, a goat and a ram, each three years old, along with a dove and a young pigeon.”",
+      "text": "So the Lord said to him, “Bring me a heifer, a goat and a ram, each three years old, along with a dove and a young pigeon.”",
       "verse": 9,
       "type": "newline"
     },
@@ -80,7 +81,7 @@
       "type": "newline"
     },
     {
-      "text": "Then the  said to him, “Know for certain that for four hundred years your descendants will be strangers in a country not their own and that they will be enslaved and mistreated there.",
+      "text": "Then the Lord said to him, “Know for certain that for four hundred years your descendants will be strangers in a country not their own and that they will be enslaved and mistreated there.",
       "verse": 13
     },
     {
@@ -101,7 +102,7 @@
       "type": "newline"
     },
     {
-      "text": "On that day the  made a covenant with Abram and said, “To your descendants I give this land, from the Wadi of Egypt to the great river, the Euphrates—",
+      "text": "On that day the Lord made a covenant with Abram and said, “To your descendants I give this land, from the Wadi of Egypt to the great river, the Euphrates—",
       "verse": 18
     },
     {

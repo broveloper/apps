@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 71,
+  "verses": 24,
   "content": [
     {
       "text": "Psalm 71",
       "type": "heading"
     },
     {
-      "text": "In you, , I have taken refuge;",
+      "text": "In you, Lord, I have taken refuge;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -58,7 +59,7 @@
       "type": "poetry"
     },
     {
-      "text": "For you have been my hope, Sovereign ,",
+      "text": "For you have been my hope, Sovereign Lord,",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -188,7 +189,7 @@
       "type": "poetry"
     },
     {
-      "text": "I will come and proclaim your mighty acts, Sovereign ;",
+      "text": "I will come and proclaim your mighty acts, Sovereign Lord;",
       "verse": 16,
       "type": "poetry"
     },

@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 17,
+  "verses": 28,
   "content": [
     {
       "text": "Better is a dry morsel, and quietness therewith, than an house full of sacrifices with strife.",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "The fining pot is for silver, and the furnace for gold: but the  trieth the hearts.",
+      "text": "The fining pot is for silver, and the furnace for gold: but the Lord trieth the hearts.",
       "verse": 3,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "He that justifieth the wicked, and he that condemneth the just, even they both are abomination to the .",
+      "text": "He that justifieth the wicked, and he that condemneth the just, even they both are abomination to the Lord.",
       "verse": 15,
       "type": "newline"
     },

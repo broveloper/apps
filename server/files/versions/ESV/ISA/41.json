@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 41,
+  "verses": 29,
   "content": [
     {
       "text": "Fear Not, for I Am with You",
@@ -78,7 +79,7 @@
       "type": "poetry"
     },
     {
-      "text": "I, the , the first,",
+      "text": "I, the Lord, the first,",
       "verse": 4,
       "type": "poetry"
     },
@@ -228,7 +229,7 @@
       "type": "poetry"
     },
     {
-      "text": "For I, the  your God,",
+      "text": "For I, the Lord your God,",
       "verse": 13,
       "type": "poetry"
     },
@@ -258,7 +259,7 @@
       "type": "poetry"
     },
     {
-      "text": "I am the one who helps you, declares the ;",
+      "text": "I am the one who helps you, declares the Lord;",
       "verse": 14,
       "type": "poetry"
     },
@@ -298,7 +299,7 @@
       "type": "poetry"
     },
     {
-      "text": "And you shall rejoice in the ;",
+      "text": "And you shall rejoice in the Lord;",
       "verse": 16,
       "type": "poetry"
     },
@@ -323,7 +324,7 @@
       "type": "poetry"
     },
     {
-      "text": "I the  will answer them;",
+      "text": "I the Lord will answer them;",
       "verse": 17,
       "type": "poetry"
     },
@@ -383,7 +384,7 @@
       "type": "poetry"
     },
     {
-      "text": "that the hand of the  has done this,",
+      "text": "that the hand of the Lord has done this,",
       "verse": 20,
       "type": "poetry"
     },
@@ -397,7 +398,7 @@
       "type": "heading"
     },
     {
-      "text": "Set forth your case, says the ;",
+      "text": "Set forth your case, says the Lord;",
       "verse": 21,
       "type": "poetry newline"
     },

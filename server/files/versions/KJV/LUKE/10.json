@@ -2,9 +2,10 @@
   "book_id": "LUKE",
   "book_name": "Luke",
   "chapter": 10,
+  "verses": 42,
   "content": [
     {
-      "text": "After these things the  appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come.",
+      "text": "After these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come.",
       "verse": 1
     },
     {

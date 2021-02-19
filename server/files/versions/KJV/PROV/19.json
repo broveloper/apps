@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 19,
+  "verses": 29,
   "content": [
     {
       "text": "Better is the poor that walketh in his integrity, than he that is perverse in his lips, and is a fool.",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "The foolishness of man perverteth his way: and his heart fretteth against the .",
+      "text": "The foolishness of man perverteth his way: and his heart fretteth against the Lord.",
       "verse": 3,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "House and riches are the inheritance of fathers: and a prudent wife is from the .",
+      "text": "House and riches are the inheritance of fathers: and a prudent wife is from the Lord.",
       "verse": 14,
       "type": "newline"
     },
@@ -83,7 +84,7 @@
       "type": "newline"
     },
     {
-      "text": "He that hath pity upon the poor lendeth unto the ; and that which he hath given will he pay him again.",
+      "text": "He that hath pity upon the poor lendeth unto the Lord; and that which he hath given will he pay him again.",
       "verse": 17,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "There are many devices in a man's heart; nevertheless the counsel of the , that shall stand.",
+      "text": "There are many devices in a man's heart; nevertheless the counsel of the Lord, that shall stand.",
       "verse": 21,
       "type": "newline"
     },
@@ -113,7 +114,7 @@
       "type": "newline"
     },
     {
-      "text": "The fear of the  tendeth to life: and he that hath it shall abide satisfied; he shall not be visited with evil.",
+      "text": "The fear of the Lord tendeth to life: and he that hath it shall abide satisfied; he shall not be visited with evil.",
       "verse": 23,
       "type": "newline"
     },

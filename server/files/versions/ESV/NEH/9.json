@@ -2,6 +2,7 @@
   "book_id": "NEH",
   "book_name": "Nehemiah",
   "chapter": 9,
+  "verses": 38,
   "content": [
     {
       "text": "The People of Israel Confess Their Sin",
@@ -17,24 +18,24 @@
       "verse": 2
     },
     {
-      "text": "And they stood up in their place and read from the Book of the Law of the  their God for a quarter of the day; for another quarter of it they made confession and worshiped the  their God.",
+      "text": "And they stood up in their place and read from the Book of the Law of the Lord their God for a quarter of the day; for another quarter of it they made confession and worshiped the Lord their God.",
       "verse": 3
     },
     {
-      "text": "On the stairs of the Levites stood Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani; and they cried with a loud voice to the  their God.",
+      "text": "On the stairs of the Levites stood Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani; and they cried with a loud voice to the Lord their God.",
       "verse": 4
     },
     {
-      "text": "Then the Levites, Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah, said, “Stand up and bless the  your God from everlasting to everlasting. Blessed be your glorious name, which is exalted above all blessing and praise.",
+      "text": "Then the Levites, Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah, said, “Stand up and bless the Lord your God from everlasting to everlasting. Blessed be your glorious name, which is exalted above all blessing and praise.",
       "verse": 5
     },
     {
-      "text": "“You are the , you alone. You have made heaven, the heaven of heavens, with all their host, the earth and all that is on it, the seas and all that is in them; and you preserve all of them; and the host of heaven worships you.",
+      "text": " “You are the Lord, you alone. You have made heaven, the heaven of heavens, with all their host, the earth and all that is on it, the seas and all that is in them; and you preserve all of them; and the host of heaven worships you.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "You are the , the God who chose Abram and brought him out of Ur of the Chaldeans and gave him the name Abraham.",
+      "text": "You are the Lord, the God who chose Abram and brought him out of Ur of the Chaldeans and gave him the name Abraham.",
       "verse": 7
     },
     {
@@ -163,7 +164,7 @@
       "verse": 37
     },
     {
-      "text": "“Because of all this we make a firm covenant in writing; on the sealed document are the names of our princes, our Levites, and our priests.",
+      "text": " “Because of all this we make a firm covenant in writing; on the sealed document are the names of our princes, our Levites, and our priests.",
       "verse": 38,
       "type": "newline"
     }

@@ -2,33 +2,34 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 135,
+  "verses": 21,
   "content": [
     {
-      "text": "Praise ye the . Praise ye the name of the ; praise him, O ye servants of the .",
+      "text": "Praise ye the Lord. Praise ye the name of the Lord; praise him, O ye servants of the Lord.",
       "verse": 1
     },
     {
-      "text": "Ye that stand in the house of the , in the courts of the house of our God.",
+      "text": "Ye that stand in the house of the Lord, in the courts of the house of our God.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "Praise the ; for the  is good: sing praises unto his name; for it is pleasant.",
+      "text": "Praise the Lord; for the Lord is good: sing praises unto his name; for it is pleasant.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "For the  hath chosen Jacob unto himself, and Israel for his peculiar treasure.",
+      "text": "For the Lord hath chosen Jacob unto himself, and Israel for his peculiar treasure.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "For I know that the  is great, and that our Lord is above all gods.",
+      "text": "For I know that the Lord is great, and that our Lord is above all gods.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "Whatsoever the  pleased, that did he in heaven, and in earth, in the seas, and all deep places.",
+      "text": "Whatsoever the Lord pleased, that did he in heaven, and in earth, in the seas, and all deep places.",
       "verse": 6,
       "type": "newline"
     },
@@ -63,12 +64,12 @@
       "type": "newline"
     },
     {
-      "text": "Thy name, O , endureth for ever; and thy memorial, O , throughout all generations.",
+      "text": "Thy name, O Lord, endureth for ever; and thy memorial, O Lord, throughout all generations.",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "For the  will judge his people, and he will repent himself concerning his servants.",
+      "text": "For the Lord will judge his people, and he will repent himself concerning his servants.",
       "verse": 14,
       "type": "newline"
     },
@@ -93,17 +94,17 @@
       "type": "newline"
     },
     {
-      "text": "Bless the , O house of Israel: bless the , O house of Aaron:",
+      "text": "Bless the Lord, O house of Israel: bless the Lord, O house of Aaron:",
       "verse": 19,
       "type": "newline"
     },
     {
-      "text": "Bless the , O house of Levi: ye that fear the , bless the .",
+      "text": "Bless the Lord, O house of Levi: ye that fear the Lord, bless the Lord.",
       "verse": 20,
       "type": "newline"
     },
     {
-      "text": "Blessed be the  out of Zion, which dwelleth at Jerusalem. Praise ye the .",
+      "text": "Blessed be the Lord out of Zion, which dwelleth at Jerusalem. Praise ye the Lord.",
       "verse": 21,
       "type": "newline"
     }

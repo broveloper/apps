@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 28,
+  "verses": 25,
   "content": [
     {
       "text": "In those days the Philistines gathered their forces to fight against Israel. Achish said to David, “You must understand that you and your men will accompany me in the army.”",
@@ -36,7 +37,7 @@
       "verse": 5
     },
     {
-      "text": "He inquired of the , but the  did not answer him by dreams or Urim or prophets.",
+      "text": "He inquired of the Lord, but the Lord did not answer him by dreams or Urim or prophets.",
       "verse": 6
     },
     {
@@ -59,7 +60,7 @@
       "type": "newline"
     },
     {
-      "text": "Saul swore to her by the , “As surely as the  lives, you will not be punished for this.”",
+      "text": "Saul swore to her by the Lord, “As surely as the Lord lives, you will not be punished for this.”",
       "verse": 10,
       "type": "newline"
     },
@@ -114,20 +115,20 @@
       "type": "newline"
     },
     {
-      "text": "Samuel said, “Why do you consult me, now that the  has departed from you and become your enemy?",
+      "text": "Samuel said, “Why do you consult me, now that the Lord has departed from you and become your enemy?",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "The  has done what he predicted through me. The  has torn the kingdom out of your hands and given it to one of your neighbors—to David.",
+      "text": "The Lord has done what he predicted through me. The Lord has torn the kingdom out of your hands and given it to one of your neighbors—to David.",
       "verse": 17
     },
     {
-      "text": "Because you did not obey the  or carry out his fierce wrath against the Amalekites, the  has done this to you today.",
+      "text": "Because you did not obey the Lord or carry out his fierce wrath against the Amalekites, the Lord has done this to you today.",
       "verse": 18
     },
     {
-      "text": "The  will deliver both Israel and you into the hands of the Philistines, and tomorrow you and your sons will be with me. The  will also give the army of Israel into the hands of the Philistines.”",
+      "text": "The Lord will deliver both Israel and you into the hands of the Philistines, and tomorrow you and your sons will be with me. The Lord will also give the army of Israel into the hands of the Philistines.”",
       "verse": 19
     },
     {

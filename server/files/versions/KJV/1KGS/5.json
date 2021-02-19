@@ -2,6 +2,7 @@
   "book_id": "1KGS",
   "book_name": "1 Kings",
   "chapter": 5,
+  "verses": 18,
   "content": [
     {
       "text": "And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David.",
@@ -13,17 +14,17 @@
       "type": "newline"
     },
     {
-      "text": "Thou knowest how that David my father could not build an house unto the name of the  his God for the wars which were about him on every side, until the  put them under the soles of his feet.",
+      "text": "Thou knowest how that David my father could not build an house unto the name of the Lord his God for the wars which were about him on every side, until the Lord put them under the soles of his feet.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "But now the  my God hath given me rest on every side, so that there is neither adversary nor evil occurrent.",
+      "text": "But now the Lord my God hath given me rest on every side, so that there is neither adversary nor evil occurrent.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "And, behold, I purpose to build an house unto the name of the  my God, as the  spake unto David my father, saying, Thy son, whom I will set upon thy throne in thy room, he shall build an house unto my name.",
+      "text": "And, behold, I purpose to build an house unto the name of the Lord my God, as the Lord spake unto David my father, saying, Thy son, whom I will set upon thy throne in thy room, he shall build an house unto my name.",
       "verse": 5,
       "type": "newline"
     },
@@ -33,7 +34,7 @@
       "type": "newline"
     },
     {
-      "text": "And it came to pass, when Hiram heard the words of Solomon, that he rejoiced greatly, and said, Blessed be the  this day, which hath given unto David a wise son over this great people.",
+      "text": "And it came to pass, when Hiram heard the words of Solomon, that he rejoiced greatly, and said, Blessed be the Lord this day, which hath given unto David a wise son over this great people.",
       "verse": 7,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  gave Solomon wisdom, as he promised him: and there was peace between Hiram and Solomon; and they two made a league together.",
+      "text": "And the Lord gave Solomon wisdom, as he promised him: and there was peace between Hiram and Solomon; and they two made a league together.",
       "verse": 12,
       "type": "newline"
     },

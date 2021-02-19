@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 24,
+  "verses": 27,
   "content": [
     {
       "text": "Jerusalem as a Cooking Pot",
       "type": "heading"
     },
     {
-      "text": "In the ninth year, in the tenth month on the tenth day, the word of the  came to me:",
+      "text": "In the ninth year, in the tenth month on the tenth day, the word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "Tell this rebellious people a parable and say to them: ‘This is what the Sovereign  says:",
+      "text": "Tell this rebellious people a parable and say to them: ‘This is what the Sovereign Lord says:",
       "verse": 3
     },
     {
@@ -46,7 +47,7 @@
       "type": "poetry"
     },
     {
-      "text": "take the pick of the flock.",
+      "text": "    take the pick of the flock.",
       "verse": 5,
       "type": "poetry"
     },
@@ -66,7 +67,7 @@
       "type": "poetry"
     },
     {
-      "text": "“‘For this is what the Sovereign  says:",
+      "text": "“‘For this is what the Sovereign Lord says:",
       "verse": 6,
       "type": "newline"
     },
@@ -131,7 +132,7 @@
       "type": "poetry"
     },
     {
-      "text": "“‘Therefore this is what the Sovereign  says:",
+      "text": "“‘Therefore this is what the Sovereign Lord says:",
       "verse": 9,
       "type": "newline"
     },
@@ -211,7 +212,7 @@
       "type": "newline"
     },
     {
-      "text": "“‘I the  have spoken. The time has come for me to act. I will not hold back; I will not have pity, nor will I relent. You will be judged according to your conduct and your actions, declares the Sovereign .’”",
+      "text": "“‘I the Lord have spoken. The time has come for me to act. I will not hold back; I will not have pity, nor will I relent. You will be judged according to your conduct and your actions, declares the Sovereign Lord.’”",
       "verse": 14,
       "type": "newline"
     },
@@ -220,7 +221,7 @@
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 15,
       "type": "newline"
     },
@@ -243,12 +244,12 @@
       "type": "newline"
     },
     {
-      "text": "So I said to them, “The word of the  came to me:",
+      "text": "So I said to them, “The word of the Lord came to me:",
       "verse": 20,
       "type": "newline"
     },
     {
-      "text": "Say to the people of Israel, ‘This is what the Sovereign  says: I am about to desecrate my sanctuary—the stronghold in which you take pride, the delight of your eyes, the object of your affection. The sons and daughters you left behind will fall by the sword.",
+      "text": "Say to the people of Israel, ‘This is what the Sovereign Lord says: I am about to desecrate my sanctuary—the stronghold in which you take pride, the delight of your eyes, the object of your affection. The sons and daughters you left behind will fall by the sword.",
       "verse": 21
     },
     {
@@ -260,7 +261,7 @@
       "verse": 23
     },
     {
-      "text": "Ezekiel will be a sign to you; you will do just as he has done. When this happens, you will know that I am the Sovereign .’",
+      "text": "Ezekiel will be a sign to you; you will do just as he has done. When this happens, you will know that I am the Sovereign Lord.’",
       "verse": 24
     },
     {
@@ -273,7 +274,7 @@
       "verse": 26
     },
     {
-      "text": "At that time your mouth will be opened; you will speak with him and will no longer be silent. So you will be a sign to them, and they will know that I am the .”",
+      "text": "At that time your mouth will be opened; you will speak with him and will no longer be silent. So you will be a sign to them, and they will know that I am the Lord.”",
       "verse": 27
     }
   ]

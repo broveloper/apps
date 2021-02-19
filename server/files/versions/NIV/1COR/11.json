@@ -2,6 +2,7 @@
   "book_id": "1COR",
   "book_name": "1 Corinthians",
   "chapter": 11,
+  "verses": 34,
   "content": [
     {
       "text": "Follow my example, as I follow the example of Christ.",
@@ -109,11 +110,11 @@
       "type": "newline"
     },
     {
-      "text": "and when he had given thanks, he broke it and said,",
+      "text": "and when he had given thanks, he broke it and said, “This is my body, which is for you; do this in remembrance of me.”",
       "verse": 24
     },
     {
-      "text": "In the same way, after supper he took the cup, saying,",
+      "text": "In the same way, after supper he took the cup, saying, “This cup is the new covenant in my blood; do this, whenever you drink it, in remembrance of me.”",
       "verse": 25
     },
     {

@@ -2,18 +2,19 @@
   "book_id": "1KGS",
   "book_name": "1 Kings",
   "chapter": 6,
+  "verses": 38,
   "content": [
     {
       "text": "Solomon Builds the Temple",
       "type": "heading"
     },
     {
-      "text": "In the four hundred and eightieth year after the Israelites came out of Egypt, in the fourth year of Solomon’s reign over Israel, in the month of Ziv, the second month, he began to build the temple of the .",
+      "text": "In the four hundred and eightieth year after the Israelites came out of Egypt, in the fourth year of Solomon’s reign over Israel, in the month of Ziv, the second month, he began to build the temple of the Lord.",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "The temple that King Solomon built for the  was sixty cubits long, twenty wide and thirty high.",
+      "text": "The temple that King Solomon built for the Lord was sixty cubits long, twenty wide and thirty high.",
       "verse": 2,
       "type": "newline"
     },
@@ -52,7 +53,7 @@
       "verse": 10
     },
     {
-      "text": "The word of the  came to Solomon:",
+      "text": "The word of the Lord came to Solomon:",
       "verse": 11,
       "type": "newline"
     },
@@ -86,7 +87,7 @@
       "verse": 18
     },
     {
-      "text": "He prepared the inner sanctuary within the temple to set the ark of the covenant of the  there.",
+      "text": "He prepared the inner sanctuary within the temple to set the ark of the covenant of the Lord there.",
       "verse": 19,
       "type": "newline"
     },
@@ -163,7 +164,7 @@
       "type": "newline"
     },
     {
-      "text": "The foundation of the temple of the  was laid in the fourth year, in the month of Ziv.",
+      "text": "The foundation of the temple of the Lord was laid in the fourth year, in the month of Ziv.",
       "verse": 37,
       "type": "newline"
     },

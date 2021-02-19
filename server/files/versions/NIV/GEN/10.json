@@ -2,6 +2,7 @@
   "book_id": "GEN",
   "book_name": "Genesis",
   "chapter": 10,
+  "verses": 32,
   "content": [
     {
       "text": "The Table of Nations",
@@ -14,8 +15,7 @@
     },
     {
       "text": "The Japhethites",
-      "verse": 2,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "The sons of Japheth:",
@@ -48,8 +48,7 @@
     },
     {
       "text": "The Hamites",
-      "verse": 6,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "The sons of Ham:",
@@ -82,7 +81,7 @@
       "type": "newline"
     },
     {
-      "text": "He was a mighty hunter before the ; that is why it is said, “Like Nimrod, a mighty hunter before the .”",
+      "text": "He was a mighty hunter before the Lord; that is why it is said, “Like Nimrod, a mighty hunter before the Lord.”",
       "verse": 9
     },
     {
@@ -146,8 +145,7 @@
     },
     {
       "text": "The Semites",
-      "verse": 21,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Sons were also born to Shem, whose older brother was Japheth; Shem was the ancestor of all the sons of Eber.",

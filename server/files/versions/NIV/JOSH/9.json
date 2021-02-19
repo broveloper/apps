@@ -2,6 +2,7 @@
   "book_id": "JOSH",
   "book_name": "Joshua",
   "chapter": 9,
+  "verses": 27,
   "content": [
     {
       "text": "The Gibeonite Deception",
@@ -49,7 +50,7 @@
       "type": "newline"
     },
     {
-      "text": "They answered: “Your servants have come from a very distant country because of the fame of the  your God. For we have heard reports of him: all that he did in Egypt,",
+      "text": "They answered: “Your servants have come from a very distant country because of the fame of the Lord your God. For we have heard reports of him: all that he did in Egypt,",
       "verse": 9,
       "type": "newline"
     },
@@ -70,7 +71,7 @@
       "verse": 13
     },
     {
-      "text": "The Israelites sampled their provisions but did not inquire of the .",
+      "text": "The Israelites sampled their provisions but did not inquire of the Lord.",
       "verse": 14,
       "type": "newline"
     },
@@ -88,7 +89,7 @@
       "verse": 17
     },
     {
-      "text": "But the Israelites did not attack them, because the leaders of the assembly had sworn an oath to them by the , the God of Israel.",
+      "text": "But the Israelites did not attack them, because the leaders of the assembly had sworn an oath to them by the Lord, the God of Israel.",
       "verse": 18
     },
     {
@@ -97,7 +98,7 @@
       "type": "newline"
     },
     {
-      "text": "but all the leaders answered, “We have given them our oath by the , the God of Israel, and we cannot touch them now.",
+      "text": "but all the leaders answered, “We have given them our oath by the Lord, the God of Israel, and we cannot touch them now.",
       "verse": 19
     },
     {
@@ -118,7 +119,7 @@
       "verse": 23
     },
     {
-      "text": "They answered Joshua, “Your servants were clearly told how the  your God had commanded his servant Moses to give you the whole land and to wipe out all its inhabitants from before you. So we feared for our lives because of you, and that is why we did this.",
+      "text": "They answered Joshua, “Your servants were clearly told how the Lord your God had commanded his servant Moses to give you the whole land and to wipe out all its inhabitants from before you. So we feared for our lives because of you, and that is why we did this.",
       "verse": 24,
       "type": "newline"
     },
@@ -132,7 +133,7 @@
       "type": "newline"
     },
     {
-      "text": "That day he made the Gibeonites woodcutters and water carriers for the assembly, to provide for the needs of the altar of the  at the place the  would choose. And that is what they are to this day.",
+      "text": "That day he made the Gibeonites woodcutters and water carriers for the assembly, to provide for the needs of the altar of the Lord at the place the Lord would choose. And that is what they are to this day.",
       "verse": 27
     }
   ]

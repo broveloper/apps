@@ -2,6 +2,7 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 25,
+  "verses": 18,
   "content": [
     {
       "text": "Baal Worship at Peor",
@@ -17,11 +18,11 @@
       "verse": 2
     },
     {
-      "text": "So Israel yoked himself to Baal of Peor. And the anger of the  was kindled against Israel.",
+      "text": "So Israel yoked himself to Baal of Peor. And the anger of the Lord was kindled against Israel.",
       "verse": 3
     },
     {
-      "text": "And the  said to Moses, “Take all the chiefs of the people and hang them in the sun before the , that the fierce anger of the  may turn away from Israel.”",
+      "text": "And the Lord said to Moses, “Take all the chiefs of the people and hang them in the sun before the Lord, that the fierce anger of the Lord may turn away from Israel.”",
       "verse": 4
     },
     {
@@ -50,7 +51,7 @@
       "type": "heading"
     },
     {
-      "text": "And the  said to Moses,",
+      "text": "And the Lord said to Moses,",
       "verse": 10,
       "type": "newline"
     },
@@ -76,7 +77,7 @@
       "verse": 15
     },
     {
-      "text": "And the  spoke to Moses, saying,",
+      "text": "And the Lord spoke to Moses, saying,",
       "verse": 16,
       "type": "newline"
     },

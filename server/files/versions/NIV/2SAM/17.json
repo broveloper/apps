@@ -2,6 +2,7 @@
   "book_id": "2SAM",
   "book_name": "2 Samuel",
   "chapter": 17,
+  "verses": 29,
   "content": [
     {
       "text": "Ahithophel said to Absalom, “I would choose twelve thousand men and set out tonight in pursuit of David.",
@@ -59,7 +60,7 @@
       "verse": 13
     },
     {
-      "text": "Absalom and all the men of Israel said, “The advice of Hushai the Arkite is better than that of Ahithophel.” For the  had determined to frustrate the good advice of Ahithophel in order to bring disaster on Absalom.",
+      "text": "Absalom and all the men of Israel said, “The advice of Hushai the Arkite is better than that of Ahithophel.” For the Lord had determined to frustrate the good advice of Ahithophel in order to bring disaster on Absalom.",
       "verse": 14,
       "type": "newline"
     },

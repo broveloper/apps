@@ -2,9 +2,10 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 13,
+  "verses": 33,
   "content": [
     {
-      "text": "And the  spake unto Moses, saying,",
+      "text": "And the Lord spake unto Moses, saying,",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "And Moses by the commandment of the  sent them from the wilderness of Paran: all those men were heads of the children of Israel.",
+      "text": "And Moses by the commandment of the Lord sent them from the wilderness of Paran: all those men were heads of the children of Israel.",
       "verse": 3,
       "type": "newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "PROV",
   "book_name": "Proverbs",
   "chapter": 9,
+  "verses": 18,
   "content": [
     {
       "text": "The Way of Wisdom",
@@ -98,7 +99,7 @@
       "type": "poetry"
     },
     {
-      "text": "The fear of the  is the beginning of wisdom,",
+      "text": "The fear of the Lord is the beginning of wisdom,",
       "verse": 10,
       "type": "poetry"
     },

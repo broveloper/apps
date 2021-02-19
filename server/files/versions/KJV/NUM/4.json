@@ -2,9 +2,10 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 4,
+  "verses": 49,
   "content": [
     {
-      "text": "And the  spake unto Moses and unto Aaron, saying,",
+      "text": "And the Lord spake unto Moses and unto Aaron, saying,",
       "verse": 1
     },
     {
@@ -83,7 +84,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  spake unto Moses and unto Aaron saying,",
+      "text": "And the Lord spake unto Moses and unto Aaron saying,",
       "verse": 17,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "And the  spake unto Moses, saying,",
+      "text": "And the Lord spake unto Moses, saying,",
       "verse": 21,
       "type": "newline"
     },
@@ -183,7 +184,7 @@
       "type": "newline"
     },
     {
-      "text": "These were they that were numbered of the families of the Kohathites, all that might do service in the tabernacle of the congregation, which Moses and Aaron did number according to the commandment of the  by the hand of Moses.",
+      "text": "These were they that were numbered of the families of the Kohathites, all that might do service in the tabernacle of the congregation, which Moses and Aaron did number according to the commandment of the Lord by the hand of Moses.",
       "verse": 37,
       "type": "newline"
     },
@@ -203,7 +204,7 @@
       "type": "newline"
     },
     {
-      "text": "These are they that were numbered of the families of the sons of Gershon, of all that might do service in the tabernacle of the congregation, whom Moses and Aaron did number according to the commandment of the .",
+      "text": "These are they that were numbered of the families of the sons of Gershon, of all that might do service in the tabernacle of the congregation, whom Moses and Aaron did number according to the commandment of the Lord.",
       "verse": 41,
       "type": "newline"
     },
@@ -223,7 +224,7 @@
       "type": "newline"
     },
     {
-      "text": "These be those that were numbered of the families of the sons of Merari, whom Moses and Aaron numbered according to the word of the  by the hand of Moses.",
+      "text": "These be those that were numbered of the families of the sons of Merari, whom Moses and Aaron numbered according to the word of the Lord by the hand of Moses.",
       "verse": 45,
       "type": "newline"
     },
@@ -243,7 +244,7 @@
       "type": "newline"
     },
     {
-      "text": "According to the commandment of the  they were numbered by the hand of Moses, every one according to his service, and according to his burden: thus were they numbered of him, as the  commanded Moses.",
+      "text": "According to the commandment of the Lord they were numbered by the hand of Moses, every one according to his service, and according to his burden: thus were they numbered of him, as the Lord commanded Moses.",
       "verse": 49,
       "type": "newline"
     }

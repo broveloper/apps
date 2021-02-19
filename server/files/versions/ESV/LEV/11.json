@@ -2,13 +2,14 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 11,
+  "verses": 47,
   "content": [
     {
       "text": "Clean and Unclean Animals",
       "type": "heading"
     },
     {
-      "text": "And the  spoke to Moses and Aaron, saying to them,",
+      "text": "And the Lord spoke to Moses and Aaron, saying to them,",
       "verse": 1,
       "type": "newline"
     },
@@ -188,11 +189,11 @@
       "verse": 43
     },
     {
-      "text": "For I am the  your God. Consecrate yourselves therefore, and be holy, for I am holy. You shall not defile yourselves with any swarming thing that crawls on the ground.",
+      "text": "For I am the Lord your God. Consecrate yourselves therefore, and be holy, for I am holy. You shall not defile yourselves with any swarming thing that crawls on the ground.",
       "verse": 44
     },
     {
-      "text": "For I am the  who brought you up out of the land of Egypt to be your God. You shall therefore be holy, for I am holy.”",
+      "text": "For I am the Lord who brought you up out of the land of Egypt to be your God. You shall therefore be holy, for I am holy.”",
       "verse": 45
     },
     {

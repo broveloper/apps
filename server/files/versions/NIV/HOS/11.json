@@ -2,6 +2,7 @@
   "book_id": "HOS",
   "book_name": "Hosea",
   "chapter": 11,
+  "verses": 12,
   "content": [
     {
       "text": "God’s Love for Israel",
@@ -183,7 +184,7 @@
       "type": "poetry"
     },
     {
-      "text": "They will follow the ;",
+      "text": "They will follow the Lord;",
       "verse": 10,
       "type": "poetry"
     },
@@ -223,7 +224,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 11,
       "type": "poetry"
     },

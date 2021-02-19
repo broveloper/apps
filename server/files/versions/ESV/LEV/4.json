@@ -2,26 +2,27 @@
   "book_id": "LEV",
   "book_name": "Leviticus",
   "chapter": 4,
+  "verses": 35,
   "content": [
     {
       "text": "Laws for Sin Offerings",
       "type": "heading"
     },
     {
-      "text": "And the  spoke to Moses, saying,",
+      "text": "And the Lord spoke to Moses, saying,",
       "verse": 1,
       "type": "newline"
     },
     {
-      "text": "“Speak to the people of Israel, saying, If anyone sins unintentionally in any of the 's commandments about things not to be done, and does any one of them,",
+      "text": "“Speak to the people of Israel, saying, If anyone sins unintentionally in any of the Lord's commandments about things not to be done, and does any one of them,",
       "verse": 2
     },
     {
-      "text": "if it is the anointed priest who sins, thus bringing guilt on the people, then he shall offer for the sin that he has committed a bull from the herd without blemish to the  for a sin offering.",
+      "text": "if it is the anointed priest who sins, thus bringing guilt on the people, then he shall offer for the sin that he has committed a bull from the herd without blemish to the Lord for a sin offering.",
       "verse": 3
     },
     {
-      "text": "He shall bring the bull to the entrance of the tent of meeting before the  and lay his hand on the head of the bull and kill the bull before the .",
+      "text": "He shall bring the bull to the entrance of the tent of meeting before the Lord and lay his hand on the head of the bull and kill the bull before the Lord.",
       "verse": 4
     },
     {
@@ -29,11 +30,11 @@
       "verse": 5
     },
     {
-      "text": "and the priest shall dip his finger in the blood and sprinkle part of the blood seven times before the  in front of the veil of the sanctuary.",
+      "text": "and the priest shall dip his finger in the blood and sprinkle part of the blood seven times before the Lord in front of the veil of the sanctuary.",
       "verse": 6
     },
     {
-      "text": "And the priest shall put some of the blood on the horns of the altar of fragrant incense before the  that is in the tent of meeting, and all the rest of the blood of the bull he shall pour out at the base of the altar of burnt offering that is at the entrance of the tent of meeting.",
+      "text": "And the priest shall put some of the blood on the horns of the altar of fragrant incense before the Lord that is in the tent of meeting, and all the rest of the blood of the bull he shall pour out at the base of the altar of burnt offering that is at the entrance of the tent of meeting.",
       "verse": 7
     },
     {
@@ -57,7 +58,7 @@
       "verse": 12
     },
     {
-      "text": "“If the whole congregation of Israel sins unintentionally and the thing is hidden from the eyes of the assembly, and they do any one of the things that by the 's commandments ought not to be done, and they realize their guilt,",
+      "text": "“If the whole congregation of Israel sins unintentionally and the thing is hidden from the eyes of the assembly, and they do any one of the things that by the Lord's commandments ought not to be done, and they realize their guilt,",
       "verse": 13,
       "type": "newline"
     },
@@ -66,7 +67,7 @@
       "verse": 14
     },
     {
-      "text": "And the elders of the congregation shall lay their hands on the head of the bull before the , and the bull shall be killed before the .",
+      "text": "And the elders of the congregation shall lay their hands on the head of the bull before the Lord, and the bull shall be killed before the Lord.",
       "verse": 15
     },
     {
@@ -74,11 +75,11 @@
       "verse": 16
     },
     {
-      "text": "and the priest shall dip his finger in the blood and sprinkle it seven times before the  in front of the veil.",
+      "text": "and the priest shall dip his finger in the blood and sprinkle it seven times before the Lord in front of the veil.",
       "verse": 17
     },
     {
-      "text": "And he shall put some of the blood on the horns of the altar that is in the tent of meeting before the , and the rest of the blood he shall pour out at the base of the altar of burnt offering that is at the entrance of the tent of meeting.",
+      "text": "And he shall put some of the blood on the horns of the altar that is in the tent of meeting before the Lord, and the rest of the blood he shall pour out at the base of the altar of burnt offering that is at the entrance of the tent of meeting.",
       "verse": 18
     },
     {
@@ -94,7 +95,7 @@
       "verse": 21
     },
     {
-      "text": "“When a leader sins, doing unintentionally any one of all the things that by the commandments of the  his God ought not to be done, and realizes his guilt,",
+      "text": "“When a leader sins, doing unintentionally any one of all the things that by the commandments of the Lord his God ought not to be done, and realizes his guilt,",
       "verse": 22,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "verse": 23
     },
     {
-      "text": "and shall lay his hand on the head of the goat and kill it in the place where they kill the burnt offering before the ; it is a sin offering.",
+      "text": "and shall lay his hand on the head of the goat and kill it in the place where they kill the burnt offering before the Lord; it is a sin offering.",
       "verse": 24
     },
     {
@@ -115,7 +116,7 @@
       "verse": 26
     },
     {
-      "text": "“If anyone of the common people sins unintentionally in doing any one of the things that by the 's commandments ought not to be done, and realizes his guilt,",
+      "text": "“If anyone of the common people sins unintentionally in doing any one of the things that by the Lord's commandments ought not to be done, and realizes his guilt,",
       "verse": 27,
       "type": "newline"
     },
@@ -132,7 +133,7 @@
       "verse": 30
     },
     {
-      "text": "And all its fat he shall remove, as the fat is removed from the peace offerings, and the priest shall burn it on the altar for a pleasing aroma to the . And the priest shall make atonement for him, and he shall be forgiven.",
+      "text": "And all its fat he shall remove, as the fat is removed from the peace offerings, and the priest shall burn it on the altar for a pleasing aroma to the Lord. And the priest shall make atonement for him, and he shall be forgiven.",
       "verse": 31
     },
     {
@@ -149,7 +150,7 @@
       "verse": 34
     },
     {
-      "text": "And all its fat he shall remove as the fat of the lamb is removed from the sacrifice of peace offerings, and the priest shall burn it on the altar, on top of the 's food offerings. And the priest shall make atonement for him for the sin which he has committed, and he shall be forgiven.",
+      "text": "And all its fat he shall remove as the fat of the lamb is removed from the sacrifice of peace offerings, and the priest shall burn it on the altar, on top of the Lord's food offerings. And the priest shall make atonement for him for the sin which he has committed, and he shall be forgiven.",
       "verse": 35
     }
   ]

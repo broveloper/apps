@@ -2,6 +2,7 @@
   "book_id": "JOHN",
   "book_name": "John",
   "chapter": 12,
+  "verses": 50,
   "content": [
     {
       "text": "Jesus Anointed at Bethany",
@@ -34,12 +35,12 @@
       "verse": 6
     },
     {
-      "text": "Jesus replied.",
+      "text": "“Leave her alone,” Jesus replied. “It was intended that she should save this perfume for the day of my burial.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "You will always have the poor among you, but you will not always have me.”",
       "verse": 8
     },
     {
@@ -139,29 +140,29 @@
       "verse": 22
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “The hour has come for the Son of Man to be glorified.",
       "verse": 23,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Very truly I tell you, unless a kernel of wheat falls to the ground and dies, it remains only a single seed. But if it dies, it produces many seeds.",
       "verse": 24
     },
     {
-      "text": "",
+      "text": "Anyone who loves their life will lose it, while anyone who hates their life in this world will keep it for eternal life.",
       "verse": 25
     },
     {
-      "text": "",
+      "text": "Whoever serves me must follow me; and where I am, my servant also will be. My Father will honor the one who serves me.",
       "verse": 26
     },
     {
-      "text": "",
+      "text": "“Now my soul is troubled, and what shall I say? ‘Father, save me from this hour’? No, it was for this very reason I came to this hour.",
       "verse": 27,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Father, glorify your name!”",
       "verse": 28
     },
     {
@@ -174,16 +175,16 @@
       "verse": 29
     },
     {
-      "text": "Jesus said,",
+      "text": "Jesus said, “This voice was for your benefit, not mine.",
       "verse": 30,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "Now is the time for judgment on this world; now the prince of this world will be driven out.",
       "verse": 31
     },
     {
-      "text": "",
+      "text": "And I, when I am lifted up from the earth, will draw all people to myself.”",
       "verse": 32
     },
     {
@@ -191,17 +192,17 @@
       "verse": 33
     },
     {
-      "text": "The crowd spoke up, “We have heard from the Law that the Messiah will remain forever, so how can you say, ? Who is this ‘Son of Man’?”",
+      "text": "The crowd spoke up, “We have heard from the Law that the Messiah will remain forever, so how can you say, ‘The Son of Man must be lifted up’? Who is this ‘Son of Man’?”",
       "verse": 34,
       "type": "newline"
     },
     {
-      "text": "Then Jesus told them,",
+      "text": "Then Jesus told them, “You are going to have the light just a little while longer. Walk while you have the light, before darkness overtakes you. Whoever walks in the dark does not know where they are going.",
       "verse": 35,
       "type": "newline"
     },
     {
-      "text": "When he had finished speaking, Jesus left and hid himself from them.",
+      "text": "Believe in the light while you have the light, so that you may become children of light.” When he had finished speaking, Jesus left and hid himself from them.",
       "verse": 36
     },
     {
@@ -272,33 +273,33 @@
       "verse": 43
     },
     {
-      "text": "Then Jesus cried out,",
+      "text": "Then Jesus cried out, “Whoever believes in me does not believe in me only, but in the one who sent me.",
       "verse": 44,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "The one who looks at me is seeing the one who sent me.",
       "verse": 45
     },
     {
-      "text": "",
+      "text": "I have come into the world as a light, so that no one who believes in me should stay in darkness.",
       "verse": 46
     },
     {
-      "text": "",
+      "text": "“If anyone hears my words but does not keep them, I do not judge that person. For I did not come to judge the world, but to save the world.",
       "verse": 47,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "There is a judge for the one who rejects me and does not accept my words; the very words I have spoken will condemn them at the last day.",
       "verse": 48
     },
     {
-      "text": "",
+      "text": "For I did not speak on my own, but the Father who sent me commanded me to say all that I have spoken.",
       "verse": 49
     },
     {
-      "text": "",
+      "text": "I know that his command leads to eternal life. So whatever I say is just what the Father has told me to say.”",
       "verse": 50
     }
   ]

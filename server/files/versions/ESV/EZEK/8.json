@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 8,
+  "verses": 18,
   "content": [
     {
       "text": "Abominations in the Temple",
       "type": "heading"
     },
     {
-      "text": "In the sixth year, in the sixth month, on the fifth day of the month, as I sat in my house, with the elders of Judah sitting before me, the hand of the Lord  fell upon me there.",
+      "text": "In the sixth year, in the sixth month, on the fifth day of the month, as I sat in my house, with the elders of Judah sitting before me, the hand of the Lord God fell upon me there.",
       "verse": 1,
       "type": "newline"
     },
@@ -55,7 +56,7 @@
       "verse": 11
     },
     {
-      "text": "Then he said to me, “Son of man, have you seen what the elders of the house of Israel are doing in the dark, each in his room of pictures? For they say, ‘The  does not see us, the  has forsaken the land.’”",
+      "text": "Then he said to me, “Son of man, have you seen what the elders of the house of Israel are doing in the dark, each in his room of pictures? For they say, ‘The Lord does not see us, the Lord has forsaken the land.’”",
       "verse": 12
     },
     {
@@ -63,7 +64,7 @@
       "verse": 13
     },
     {
-      "text": "Then he brought me to the entrance of the north gate of the house of the , and behold, there sat women weeping for Tammuz.",
+      "text": "Then he brought me to the entrance of the north gate of the house of the Lord, and behold, there sat women weeping for Tammuz.",
       "verse": 14,
       "type": "newline"
     },
@@ -72,7 +73,7 @@
       "verse": 15
     },
     {
-      "text": "And he brought me into the inner court of the house of the . And behold, at the entrance of the temple of the , between the porch and the altar, were about twenty-five men, with their backs to the temple of the , and their faces toward the east, worshiping the sun toward the east.",
+      "text": "And he brought me into the inner court of the house of the Lord. And behold, at the entrance of the temple of the Lord, between the porch and the altar, were about twenty-five men, with their backs to the temple of the Lord, and their faces toward the east, worshiping the sun toward the east.",
       "verse": 16,
       "type": "newline"
     },

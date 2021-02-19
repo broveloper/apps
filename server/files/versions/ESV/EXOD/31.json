@@ -2,13 +2,14 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 31,
+  "verses": 18,
   "content": [
     {
       "text": "Oholiab and Bezalel",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 1,
       "type": "newline"
     },
@@ -57,12 +58,12 @@
       "type": "heading"
     },
     {
-      "text": "And the  said to Moses,",
+      "text": "And the Lord said to Moses,",
       "verse": 12,
       "type": "newline"
     },
     {
-      "text": "“You are to speak to the people of Israel and say, ‘Above all you shall keep my Sabbaths, for this is a sign between me and you throughout your generations, that you may know that I, the , sanctify you.",
+      "text": "“You are to speak to the people of Israel and say, ‘Above all you shall keep my Sabbaths, for this is a sign between me and you throughout your generations, that you may know that I, the Lord, sanctify you.",
       "verse": 13
     },
     {
@@ -70,7 +71,7 @@
       "verse": 14
     },
     {
-      "text": "Six days shall work be done, but the seventh day is a Sabbath of solemn rest, holy to the . Whoever does any work on the Sabbath day shall be put to death.",
+      "text": "Six days shall work be done, but the seventh day is a Sabbath of solemn rest, holy to the Lord. Whoever does any work on the Sabbath day shall be put to death.",
       "verse": 15
     },
     {
@@ -78,7 +79,7 @@
       "verse": 16
     },
     {
-      "text": "It is a sign forever between me and the people of Israel that in six days the  made heaven and earth, and on the seventh day he rested and was refreshed.’”",
+      "text": "It is a sign forever between me and the people of Israel that in six days the Lord made heaven and earth, and on the seventh day he rested and was refreshed.’”",
       "verse": 17
     },
     {

@@ -2,13 +2,14 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 15,
+  "verses": 35,
   "content": [
     {
-      "text": "Samuel also said unto Saul, The  sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice of the words of the .",
+      "text": "Samuel also said unto Saul, The Lord sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice of the words of the Lord.",
       "verse": 1
     },
     {
-      "text": "Thus saith the  of hosts, I remember that which Amalek did to Israel, how he laid wait for him in the way, when he came up from Egypt.",
+      "text": "Thus saith the Lord of hosts, I remember that which Amalek did to Israel, how he laid wait for him in the way, when he came up from Egypt.",
       "verse": 2,
       "type": "newline"
     },
@@ -48,12 +49,12 @@
       "type": "newline"
     },
     {
-      "text": "Then came the word of the  unto Samuel, saying,",
+      "text": "Then came the word of the Lord unto Samuel, saying,",
       "verse": 10,
       "type": "newline"
     },
     {
-      "text": "It repenteth me that I have set up Saul to be king: for he is turned back from following me, and hath not performed my commandments. And it grieved Samuel; and he cried unto the  all night.",
+      "text": "It repenteth me that I have set up Saul to be king: for he is turned back from following me, and hath not performed my commandments. And it grieved Samuel; and he cried unto the Lord all night.",
       "verse": 11,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "And Samuel came to Saul: and Saul said unto him, Blessed be thou of the : I have performed the commandment of the .",
+      "text": "And Samuel came to Saul: and Saul said unto him, Blessed be thou of the Lord: I have performed the commandment of the Lord.",
       "verse": 13,
       "type": "newline"
     },
@@ -73,62 +74,62 @@
       "type": "newline"
     },
     {
-      "text": "And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto the  thy God; and the rest we have utterly destroyed.",
+      "text": "And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto the Lord thy God; and the rest we have utterly destroyed.",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "Then Samuel said unto Saul, Stay, and I will tell thee what the  hath said to me this night. And he said unto him, Say on.",
+      "text": "Then Samuel said unto Saul, Stay, and I will tell thee what the Lord hath said to me this night. And he said unto him, Say on.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "And Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel, and the  anointed thee king over Israel?",
+      "text": "And Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel, and the Lord anointed thee king over Israel?",
       "verse": 17,
       "type": "newline"
     },
     {
-      "text": "And the  sent thee on a journey, and said, Go and utterly destroy the sinners the Amalekites, and fight against them until they be consumed.",
+      "text": "And the Lord sent thee on a journey, and said, Go and utterly destroy the sinners the Amalekites, and fight against them until they be consumed.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "Wherefore then didst thou not obey the voice of the , but didst fly upon the spoil, and didst evil in the sight of the ?",
+      "text": "Wherefore then didst thou not obey the voice of the Lord, but didst fly upon the spoil, and didst evil in the sight of the Lord?",
       "verse": 19,
       "type": "newline"
     },
     {
-      "text": "And Saul said unto Samuel, Yea, I have obeyed the voice of the , and have gone the way which the  sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites.",
+      "text": "And Saul said unto Samuel, Yea, I have obeyed the voice of the Lord, and have gone the way which the Lord sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites.",
       "verse": 20,
       "type": "newline"
     },
     {
-      "text": "But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto the  thy God in Gilgal.",
+      "text": "But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto the Lord thy God in Gilgal.",
       "verse": 21,
       "type": "newline"
     },
     {
-      "text": "And Samuel said, Hath the  as great delight in burnt offerings and sacrifices, as in obeying the voice of the ? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.",
+      "text": "And Samuel said, Hath the Lord as great delight in burnt offerings and sacrifices, as in obeying the voice of the Lord? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.",
       "verse": 22,
       "type": "newline"
     },
     {
-      "text": "For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the , he hath also rejected thee from being king.",
+      "text": "For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the Lord, he hath also rejected thee from being king.",
       "verse": 23,
       "type": "newline"
     },
     {
-      "text": "And Saul said unto Samuel, I have sinned: for I have transgressed the commandment of the , and thy words: because I feared the people, and obeyed their voice.",
+      "text": "And Saul said unto Samuel, I have sinned: for I have transgressed the commandment of the Lord, and thy words: because I feared the people, and obeyed their voice.",
       "verse": 24,
       "type": "newline"
     },
     {
-      "text": "Now therefore, I pray thee, pardon my sin, and turn again with me, that I may worship the .",
+      "text": "Now therefore, I pray thee, pardon my sin, and turn again with me, that I may worship the Lord.",
       "verse": 25,
       "type": "newline"
     },
     {
-      "text": "And Samuel said unto Saul, I will not return with thee: for thou hast rejected the word of the , and the  hath rejected thee from being king over Israel.",
+      "text": "And Samuel said unto Saul, I will not return with thee: for thou hast rejected the word of the Lord, and the Lord hath rejected thee from being king over Israel.",
       "verse": 26,
       "type": "newline"
     },
@@ -138,7 +139,7 @@
       "type": "newline"
     },
     {
-      "text": "And Samuel said unto him, The  hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine, that is better than thou.",
+      "text": "And Samuel said unto him, The Lord hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine, that is better than thou.",
       "verse": 28,
       "type": "newline"
     },
@@ -148,12 +149,12 @@
       "type": "newline"
     },
     {
-      "text": "Then he said, I have sinned: yet honour me now, I pray thee, before the elders of my people, and before Israel, and turn again with me, that I may worship the  thy God.",
+      "text": "Then he said, I have sinned: yet honour me now, I pray thee, before the elders of my people, and before Israel, and turn again with me, that I may worship the Lord thy God.",
       "verse": 30,
       "type": "newline"
     },
     {
-      "text": "So Samuel turned again after Saul; and Saul worshipped the .",
+      "text": "So Samuel turned again after Saul; and Saul worshipped the Lord.",
       "verse": 31,
       "type": "newline"
     },
@@ -163,7 +164,7 @@
       "type": "newline"
     },
     {
-      "text": "And Samuel said, As thy sword hath made women childless, so shall thy mother be childless among women. And Samuel hewed Agag in pieces before the  in Gilgal.",
+      "text": "And Samuel said, As thy sword hath made women childless, so shall thy mother be childless among women. And Samuel hewed Agag in pieces before the Lord in Gilgal.",
       "verse": 33,
       "type": "newline"
     },
@@ -173,7 +174,7 @@
       "type": "newline"
     },
     {
-      "text": "And Samuel came no more to see Saul until the day of his death: nevertheless Samuel mourned for Saul: and the  repented that he had made Saul king over Israel.",
+      "text": "And Samuel came no more to see Saul until the day of his death: nevertheless Samuel mourned for Saul: and the Lord repented that he had made Saul king over Israel.",
       "verse": 35,
       "type": "newline"
     }

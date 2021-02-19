@@ -2,9 +2,10 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 92,
+  "verses": 15,
   "content": [
     {
-      "text": "It is a good thing to give thanks unto the , and to sing praises unto thy name, O Most High:",
+      "text": "It is a good thing to give thanks unto the Lord, and to sing praises unto thy name, O Most High:",
       "verse": 1
     },
     {
@@ -18,12 +19,12 @@
       "type": "newline"
     },
     {
-      "text": "For thou, , hast made me glad through thy work: I will triumph in the works of thy hands.",
+      "text": "For thou, Lord, hast made me glad through thy work: I will triumph in the works of thy hands.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "O , how great are thy works! and thy thoughts are very deep.",
+      "text": "O Lord, how great are thy works! and thy thoughts are very deep.",
       "verse": 5,
       "type": "newline"
     },
@@ -38,12 +39,12 @@
       "type": "newline"
     },
     {
-      "text": "But thou, , art most high for evermore.",
+      "text": "But thou, Lord, art most high for evermore.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "For, lo, thine enemies, O , for, lo, thine enemies shall perish; all the workers of iniquity shall be scattered.",
+      "text": "For, lo, thine enemies, O Lord, for, lo, thine enemies shall perish; all the workers of iniquity shall be scattered.",
       "verse": 9,
       "type": "newline"
     },
@@ -63,7 +64,7 @@
       "type": "newline"
     },
     {
-      "text": "Those that be planted in the house of the  shall flourish in the courts of our God.",
+      "text": "Those that be planted in the house of the Lord shall flourish in the courts of our God.",
       "verse": 13,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "To shew that the  is upright: he is my rock, and there is no unrighteousness in him.",
+      "text": "To shew that the Lord is upright: he is my rock, and there is no unrighteousness in him.",
       "verse": 15,
       "type": "newline"
     }

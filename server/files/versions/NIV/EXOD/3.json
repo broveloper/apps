@@ -2,6 +2,7 @@
   "book_id": "EXOD",
   "book_name": "Exodus",
   "chapter": 3,
+  "verses": 22,
   "content": [
     {
       "text": "Moses and the Burning Bush",
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "There the angel of the  appeared to him in flames of fire from within a bush. Moses saw that though the bush was on fire it did not burn up.",
+      "text": "There the angel of the Lord appeared to him in flames of fire from within a bush. Moses saw that though the bush was on fire it did not burn up.",
       "verse": 2
     },
     {
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "When the  saw that he had gone over to look, God called to him from within the bush, “Moses! Moses!”",
+      "text": "When the Lord saw that he had gone over to look, God called to him from within the bush, “Moses! Moses!”",
       "verse": 4,
       "type": "newline"
     },
@@ -40,7 +41,7 @@
       "verse": 6
     },
     {
-      "text": "The  said, “I have indeed seen the misery of my people in Egypt. I have heard them crying out because of their slave drivers, and I am concerned about their suffering.",
+      "text": "The Lord said, “I have indeed seen the misery of my people in Egypt. I have heard them crying out because of their slave drivers, and I am concerned about their suffering.",
       "verse": 7,
       "type": "newline"
     },
@@ -72,12 +73,12 @@
       "type": "newline"
     },
     {
-      "text": "God said to Moses, “. This is what you are to say to the Israelites: ‘ has sent me to you.’”",
+      "text": "God said to Moses, “I am who I am. This is what you are to say to the Israelites: ‘I am has sent me to you.’”",
       "verse": 14,
       "type": "newline"
     },
     {
-      "text": "God also said to Moses, “Say to the Israelites, ‘The , the God of your fathers—the God of Abraham, the God of Isaac and the God of Jacob—has sent me to you.’",
+      "text": "God also said to Moses, “Say to the Israelites, ‘The Lord, the God of your fathers—the God of Abraham, the God of Isaac and the God of Jacob—has sent me to you.’",
       "verse": 15,
       "type": "newline"
     },
@@ -97,7 +98,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Go, assemble the elders of Israel and say to them, ‘The , the God of your fathers—the God of Abraham, Isaac and Jacob—appeared to me and said: I have watched over you and have seen what has been done to you in Egypt.",
+      "text": "“Go, assemble the elders of Israel and say to them, ‘The Lord, the God of your fathers—the God of Abraham, Isaac and Jacob—appeared to me and said: I have watched over you and have seen what has been done to you in Egypt.",
       "verse": 16,
       "type": "newline"
     },
@@ -106,7 +107,7 @@
       "verse": 17
     },
     {
-      "text": "“The elders of Israel will listen to you. Then you and the elders are to go to the king of Egypt and say to him, ‘The , the God of the Hebrews, has met with us. Let us take a three-day journey into the wilderness to offer sacrifices to the  our God.’",
+      "text": "“The elders of Israel will listen to you. Then you and the elders are to go to the king of Egypt and say to him, ‘The Lord, the God of the Hebrews, has met with us. Let us take a three-day journey into the wilderness to offer sacrifices to the Lord our God.’",
       "verse": 18,
       "type": "newline"
     },

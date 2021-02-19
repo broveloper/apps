@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 87,
+  "verses": 7,
   "content": [
     {
       "text": "Psalm 87",
@@ -9,8 +10,7 @@
     },
     {
       "text": "Of the Sons of Korah. A psalm. A song.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "He has founded his city on the holy mountain.",
@@ -18,7 +18,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "The  loves the gates of Zion",
+      "text": "The Lord loves the gates of Zion",
       "verse": 2,
       "type": "poetry"
     },
@@ -73,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  will write in the register of the peoples:",
+      "text": "The Lord will write in the register of the peoples:",
       "verse": 6,
       "type": "poetry"
     },

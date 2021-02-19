@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 139,
+  "verses": 24,
   "content": [
     {
       "text": "Search Me, O God, and Know My Heart",
@@ -9,11 +10,10 @@
     },
     {
       "text": "To the choirmaster. A Psalm of David.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
-      "text": "O , you have searched me and known me!",
+      "text": "O Lord, you have searched me and known me!",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -43,7 +43,7 @@
       "type": "poetry"
     },
     {
-      "text": "behold, O , you know it altogether.",
+      "text": "behold, O Lord, you know it altogether.",
       "verse": 4,
       "type": "poetry"
     },
@@ -233,7 +233,7 @@
       "type": "poetry"
     },
     {
-      "text": "Do I not hate those who hate you, O ?",
+      "text": "Do I not hate those who hate you, O Lord?",
       "verse": 21,
       "type": "poetry"
     },

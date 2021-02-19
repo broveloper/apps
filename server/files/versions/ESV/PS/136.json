@@ -2,13 +2,14 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 136,
+  "verses": 26,
   "content": [
     {
       "text": "His Steadfast Love Endures Forever",
       "type": "heading"
     },
     {
-      "text": "Give thanks to the , for he is good,",
+      "text": "Give thanks to the Lord, for he is good,",
       "verse": 1,
       "type": "poetry newline"
     },

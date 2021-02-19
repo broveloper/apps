@@ -2,43 +2,44 @@
   "book_id": "AMOS",
   "book_name": "Amos",
   "chapter": 7,
+  "verses": 17,
   "content": [
     {
-      "text": "Thus hath the Lord  shewed unto me; and, behold, he formed grasshoppers in the beginning of the shooting up of the latter growth; and, lo, it was the latter growth after the king's mowings.",
+      "text": "Thus hath the Lord God shewed unto me; and, behold, he formed grasshoppers in the beginning of the shooting up of the latter growth; and, lo, it was the latter growth after the king's mowings.",
       "verse": 1
     },
     {
-      "text": "And it came to pass, that when they had made an end of eating the grass of the land, then I said, O Lord , forgive, I beseech thee: by whom shall Jacob arise? for he is small.",
+      "text": "And it came to pass, that when they had made an end of eating the grass of the land, then I said, O Lord God, forgive, I beseech thee: by whom shall Jacob arise? for he is small.",
       "verse": 2,
       "type": "newline"
     },
     {
-      "text": "The  repented for this: It shall not be, saith the .",
+      "text": "The Lord repented for this: It shall not be, saith the Lord.",
       "verse": 3,
       "type": "newline"
     },
     {
-      "text": "Thus hath the Lord  shewed unto me: and, behold, the Lord  called to contend by fire, and it devoured the great deep, and did eat up a part.",
+      "text": "Thus hath the Lord God shewed unto me: and, behold, the Lord God called to contend by fire, and it devoured the great deep, and did eat up a part.",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "Then said I, O Lord , cease, I beseech thee: by whom shall Jacob arise? for he is small.",
+      "text": "Then said I, O Lord God, cease, I beseech thee: by whom shall Jacob arise? for he is small.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "The  repented for this: This also shall not be, saith the Lord .",
+      "text": "The Lord repented for this: This also shall not be, saith the Lord God.",
       "verse": 6,
       "type": "newline"
     },
     {
-      "text": "Thus he shewed me: and, behold, the  stood upon a wall made by a plumbline, with a plumbline in his hand.",
+      "text": "Thus he shewed me: and, behold, the Lord stood upon a wall made by a plumbline, with a plumbline in his hand.",
       "verse": 7,
       "type": "newline"
     },
     {
-      "text": "And the  said unto me, Amos, what seest thou? And I said, A plumbline. Then said the , Behold, I will set a plumbline in the midst of my people Israel: I will not again pass by them any more:",
+      "text": "And the Lord said unto me, Amos, what seest thou? And I said, A plumbline. Then said the Lord, Behold, I will set a plumbline in the midst of my people Israel: I will not again pass by them any more:",
       "verse": 8,
       "type": "newline"
     },
@@ -73,17 +74,17 @@
       "type": "newline"
     },
     {
-      "text": "And the  took me as I followed the flock, and the  said unto me, Go, prophesy unto my people Israel.",
+      "text": "And the Lord took me as I followed the flock, and the Lord said unto me, Go, prophesy unto my people Israel.",
       "verse": 15,
       "type": "newline"
     },
     {
-      "text": "Now therefore hear thou the word of the : Thou sayest, Prophesy not against Israel, and drop not thy word against the house of Isaac.",
+      "text": "Now therefore hear thou the word of the Lord: Thou sayest, Prophesy not against Israel, and drop not thy word against the house of Isaac.",
       "verse": 16,
       "type": "newline"
     },
     {
-      "text": "Therefore thus saith the ; Thy wife shall be an harlot in the city, and thy sons and thy daughters shall fall by the sword, and thy land shall be divided by line; and thou shalt die in a polluted land: and Israel shall surely go into captivity forth of his land.",
+      "text": "Therefore thus saith the Lord; Thy wife shall be an harlot in the city, and thy sons and thy daughters shall fall by the sword, and thy land shall be divided by line; and thou shalt die in a polluted land: and Israel shall surely go into captivity forth of his land.",
       "verse": 17,
       "type": "newline"
     }

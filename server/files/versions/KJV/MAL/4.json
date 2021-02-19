@@ -2,9 +2,10 @@
   "book_id": "MAL",
   "book_name": "Malachi",
   "chapter": 4,
+  "verses": 6,
   "content": [
     {
-      "text": "For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the  of hosts, that it shall leave them neither root nor branch.",
+      "text": "For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the Lord of hosts, that it shall leave them neither root nor branch.",
       "verse": 1
     },
     {
@@ -13,7 +14,7 @@
       "type": "newline"
     },
     {
-      "text": "And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do this, saith the  of hosts.",
+      "text": "And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do this, saith the Lord of hosts.",
       "verse": 3,
       "type": "newline"
     },
@@ -23,7 +24,7 @@
       "type": "newline"
     },
     {
-      "text": "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the :",
+      "text": "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord:",
       "verse": 5,
       "type": "newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "MATT",
   "book_name": "Matthew",
   "chapter": 22,
+  "verses": 46,
   "content": [
     {
       "text": "The Parable of the Wedding Banquet",
@@ -13,60 +14,60 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“The kingdom of heaven is like a king who prepared a wedding banquet for his son.",
       "verse": 2
     },
     {
-      "text": "",
+      "text": "He sent his servants to those who had been invited to the banquet to tell them to come, but they refused to come.",
       "verse": 3
     },
     {
-      "text": "",
+      "text": "“Then he sent some more servants and said, ‘Tell those who have been invited that I have prepared my dinner: My oxen and fattened cattle have been butchered, and everything is ready. Come to the wedding banquet.’",
       "verse": 4,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“But they paid no attention and went off—one to his field, another to his business.",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "The rest seized his servants, mistreated them and killed them.",
       "verse": 6
     },
     {
-      "text": "",
+      "text": "The king was enraged. He sent his army and destroyed those murderers and burned their city.",
       "verse": 7
     },
     {
-      "text": "",
+      "text": "“Then he said to his servants, ‘The wedding banquet is ready, but those I invited did not deserve to come.",
       "verse": 8,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "So go to the street corners and invite to the banquet anyone you find.’",
       "verse": 9
     },
     {
-      "text": "",
+      "text": "So the servants went out into the streets and gathered all the people they could find, the bad as well as the good, and the wedding hall was filled with guests.",
       "verse": 10
     },
     {
-      "text": "",
+      "text": "“But when the king came in to see the guests, he noticed a man there who was not wearing wedding clothes.",
       "verse": 11,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "He asked, ‘How did you get in here without wedding clothes, friend?’ The man was speechless.",
       "verse": 12
     },
     {
-      "text": "",
+      "text": "“Then the king told the attendants, ‘Tie him hand and foot, and throw him outside, into the darkness, where there will be weeping and gnashing of teeth.’",
       "verse": 13,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“For many are invited, but few are chosen.”",
       "verse": 14,
       "type": "newline"
     },
@@ -88,16 +89,16 @@
       "verse": 17
     },
     {
-      "text": "But Jesus, knowing their evil intent, said,",
+      "text": "But Jesus, knowing their evil intent, said, “You hypocrites, why are you trying to trap me?",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "They brought him a denarius,",
+      "text": "Show me the coin used for paying the tax.” They brought him a denarius,",
       "verse": 19
     },
     {
-      "text": "and he asked them,",
+      "text": "and he asked them, “Whose image is this? And whose inscription?”",
       "verse": 20
     },
     {
@@ -106,7 +107,7 @@
       "type": "newline"
     },
     {
-      "text": "Then he said to them,",
+      "text": "Then he said to them, “So give back to Caesar what is Caesar’s, and to God what is God’s.”",
       "verse": 21,
       "type": "newline"
     },
@@ -145,20 +146,20 @@
       "verse": 28
     },
     {
-      "text": "Jesus replied,",
+      "text": "Jesus replied, “You are in error because you do not know the Scriptures or the power of God.",
       "verse": 29,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "At the resurrection people will neither marry nor be given in marriage; they will be like the angels in heaven.",
       "verse": 30
     },
     {
-      "text": "",
+      "text": "But about the resurrection of the dead—have you not read what God said to you,",
       "verse": 31
     },
     {
-      "text": "",
+      "text": "‘I am the God of Abraham, the God of Isaac, and the God of Jacob’? He is not the God of the dead but of the living.”",
       "verse": 32
     },
     {
@@ -184,20 +185,20 @@
       "verse": 36
     },
     {
-      "text": "Jesus replied:",
+      "text": "Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’",
       "verse": 37,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "This is the first and greatest commandment.",
       "verse": 38
     },
     {
-      "text": "",
+      "text": "And the second is like it: ‘Love your neighbor as yourself.’",
       "verse": 39
     },
     {
-      "text": "",
+      "text": "All the Law and the Prophets hang on these two commandments.”",
       "verse": 40
     },
     {
@@ -210,7 +211,7 @@
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“What do you think about the Messiah? Whose son is he?”",
       "verse": 42
     },
     {
@@ -219,32 +220,32 @@
       "type": "newline"
     },
     {
-      "text": "He said to them,",
+      "text": "He said to them, “How is it then that David, speaking by the Spirit, calls him ‘Lord’? For he says,",
       "verse": 43,
       "type": "newline"
     },
     {
-      "text": "",
+      "text": "“‘The Lord said to my Lord:",
       "verse": 44,
       "type": "poetry newline"
     },
     {
-      "text": "",
+      "text": "“Sit at my right hand",
       "verse": 44,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "until I put your enemies",
       "verse": 44,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "under your feet.”’",
       "verse": 44,
       "type": "poetry"
     },
     {
-      "text": "",
+      "text": "If then David calls him ‘Lord,’ how can he be his son?”",
       "verse": 45,
       "type": "newline"
     },

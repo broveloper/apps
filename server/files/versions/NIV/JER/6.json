@@ -2,6 +2,7 @@
   "book_id": "JER",
   "book_name": "Jeremiah",
   "chapter": 6,
+  "verses": 30,
   "content": [
     {
       "text": "Jerusalem Under Siege",
@@ -93,7 +94,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the  Almighty says:",
+      "text": "This is what the Lord Almighty says:",
       "verse": 6,
       "type": "newline"
     },
@@ -158,7 +159,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the  Almighty says:",
+      "text": "This is what the Lord Almighty says:",
       "verse": 9,
       "type": "newline"
     },
@@ -203,7 +204,7 @@
       "type": "poetry"
     },
     {
-      "text": "The word of the  is offensive to them;",
+      "text": "The word of the Lord is offensive to them;",
       "verse": 10,
       "type": "poetry"
     },
@@ -213,7 +214,7 @@
       "type": "poetry"
     },
     {
-      "text": "But I am full of the wrath of the ,",
+      "text": "But I am full of the wrath of the Lord,",
       "verse": 11,
       "type": "poetry"
     },
@@ -263,7 +264,7 @@
       "type": "poetry"
     },
     {
-      "text": "declares the .",
+      "text": "declares the Lord.",
       "verse": 12,
       "type": "poetry"
     },
@@ -333,12 +334,12 @@
       "type": "poetry"
     },
     {
-      "text": "says the .",
+      "text": "says the Lord.",
       "verse": 15,
       "type": "poetry"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 16,
       "type": "newline"
     },
@@ -443,7 +444,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore this is what the  says:",
+      "text": "Therefore this is what the Lord says:",
       "verse": 21,
       "type": "newline"
     },
@@ -463,7 +464,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what the  says:",
+      "text": "This is what the Lord says:",
       "verse": 22,
       "type": "newline"
     },
@@ -653,7 +654,7 @@
       "type": "poetry"
     },
     {
-      "text": "because the  has rejected them.”",
+      "text": "because the Lord has rejected them.”",
       "verse": 30,
       "type": "poetry"
     }

@@ -2,6 +2,7 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 1,
+  "verses": 31,
   "content": [
     {
       "text": "The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.",
@@ -17,7 +18,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "for the  has spoken:",
+      "text": "for the Lord has spoken:",
       "verse": 2,
       "type": "poetry"
     },
@@ -72,7 +73,7 @@
       "type": "poetry"
     },
     {
-      "text": "They have forsaken the ,",
+      "text": "They have forsaken the Lord,",
       "verse": 4,
       "type": "poetry"
     },
@@ -182,7 +183,7 @@
       "type": "poetry"
     },
     {
-      "text": "If the  of hosts",
+      "text": "If the Lord of hosts",
       "verse": 9,
       "type": "poetry newline"
     },
@@ -202,7 +203,7 @@
       "type": "poetry"
     },
     {
-      "text": "Hear the word of the ,",
+      "text": "Hear the word of the Lord,",
       "verse": 10,
       "type": "poetry newline"
     },
@@ -227,7 +228,7 @@
       "type": "poetry"
     },
     {
-      "text": "says the ;",
+      "text": "says the Lord;",
       "verse": 11,
       "type": "poetry"
     },
@@ -347,7 +348,7 @@
       "type": "poetry"
     },
     {
-      "text": "learn to do good;",
+      "text": "    learn to do good;",
       "verse": 17,
       "type": "poetry"
     },
@@ -372,7 +373,7 @@
       "type": "poetry"
     },
     {
-      "text": "“Come now, let us reason together, says the :",
+      "text": "“Come now, let us reason together, says the Lord:",
       "verse": 18,
       "type": "poetry newline"
     },
@@ -417,7 +418,7 @@
       "type": "poetry"
     },
     {
-      "text": "for the mouth of the  has spoken.”",
+      "text": "for the mouth of the Lord has spoken.”",
       "verse": 20,
       "type": "poetry"
     },
@@ -496,7 +497,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "the  of hosts,",
+      "text": "the Lord of hosts,",
       "verse": 24,
       "type": "poetry"
     },
@@ -566,7 +567,7 @@
       "type": "poetry"
     },
     {
-      "text": "and those who forsake the  shall be consumed.",
+      "text": "and those who forsake the Lord shall be consumed.",
       "verse": 28,
       "type": "poetry"
     },

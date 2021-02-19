@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 107,
+  "verses": 43,
   "content": [
     {
       "text": "BOOK V",
@@ -9,15 +10,14 @@
     },
     {
       "text": "Psalms 107–150",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Psalm 107",
       "type": "heading"
     },
     {
-      "text": "Give thanks to the , for he is good;",
+      "text": "Give thanks to the Lord, for he is good;",
       "verse": 1,
       "type": "poetry newline"
     },
@@ -27,7 +27,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let the redeemed of the  tell their story—",
+      "text": "Let the redeemed of the Lord tell their story—",
       "verse": 2,
       "type": "poetry newline"
     },
@@ -67,7 +67,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then they cried out to the  in their trouble,",
+      "text": "Then they cried out to the Lord in their trouble,",
       "verse": 6,
       "type": "poetry"
     },
@@ -87,7 +87,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let them give thanks to the  for his unfailing love",
+      "text": "Let them give thanks to the Lord for his unfailing love",
       "verse": 8,
       "type": "poetry"
     },
@@ -137,7 +137,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then they cried to the  in their trouble,",
+      "text": "Then they cried to the Lord in their trouble,",
       "verse": 13,
       "type": "poetry"
     },
@@ -157,7 +157,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let them give thanks to the  for his unfailing love",
+      "text": "Let them give thanks to the Lord for his unfailing love",
       "verse": 15,
       "type": "poetry"
     },
@@ -197,7 +197,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then they cried to the  in their trouble,",
+      "text": "Then they cried to the Lord in their trouble,",
       "verse": 19,
       "type": "poetry"
     },
@@ -217,7 +217,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let them give thanks to the  for his unfailing love",
+      "text": "Let them give thanks to the Lord for his unfailing love",
       "verse": 21,
       "type": "poetry"
     },
@@ -247,7 +247,7 @@
       "type": "poetry"
     },
     {
-      "text": "They saw the works of the ,",
+      "text": "They saw the works of the Lord,",
       "verse": 24,
       "type": "poetry"
     },
@@ -287,7 +287,7 @@
       "type": "poetry"
     },
     {
-      "text": "Then they cried out to the  in their trouble,",
+      "text": "Then they cried out to the Lord in their trouble,",
       "verse": 28,
       "type": "poetry"
     },
@@ -317,7 +317,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let them give thanks to the  for his unfailing love",
+      "text": "Let them give thanks to the Lord for his unfailing love",
       "verse": 31,
       "type": "poetry"
     },
@@ -442,7 +442,7 @@
       "type": "poetry newline"
     },
     {
-      "text": "and ponder the loving deeds of the .",
+      "text": "and ponder the loving deeds of the Lord.",
       "verse": 43,
       "type": "poetry"
     }

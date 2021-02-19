@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 5,
+  "verses": 31,
   "content": [
     {
       "text": "The Purity of the Camp",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 1,
       "type": "newline"
     },
@@ -21,7 +22,7 @@
       "verse": 3
     },
     {
-      "text": "The Israelites did so; they sent them outside the camp. They did just as the  had instructed Moses.",
+      "text": "The Israelites did so; they sent them outside the camp. They did just as the Lord had instructed Moses.",
       "verse": 4
     },
     {
@@ -29,12 +30,12 @@
       "type": "heading"
     },
     {
-      "text": "The  said to Moses,",
+      "text": "The Lord said to Moses,",
       "verse": 5,
       "type": "newline"
     },
     {
-      "text": "“Say to the Israelites: ‘Any man or woman who wrongs another in any way and so is unfaithful to the  is guilty",
+      "text": "“Say to the Israelites: ‘Any man or woman who wrongs another in any way and so is unfaithful to the Lord is guilty",
       "verse": 6
     },
     {
@@ -42,7 +43,7 @@
       "verse": 7
     },
     {
-      "text": "But if that person has no close relative to whom restitution can be made for the wrong, the restitution belongs to the  and must be given to the priest, along with the ram with which atonement is made for the wrongdoer.",
+      "text": "But if that person has no close relative to whom restitution can be made for the wrong, the restitution belongs to the Lord and must be given to the priest, along with the ram with which atonement is made for the wrongdoer.",
       "verse": 8
     },
     {
@@ -58,7 +59,7 @@
       "type": "heading"
     },
     {
-      "text": "Then the  said to Moses,",
+      "text": "Then the Lord said to Moses,",
       "verse": 11,
       "type": "newline"
     },
@@ -79,7 +80,7 @@
       "verse": 15
     },
     {
-      "text": "“‘The priest shall bring her and have her stand before the .",
+      "text": "“‘The priest shall bring her and have her stand before the Lord.",
       "verse": 16,
       "type": "newline"
     },
@@ -88,7 +89,7 @@
       "verse": 17
     },
     {
-      "text": "After the priest has had the woman stand before the , he shall loosen her hair and place in her hands the reminder-offering, the grain offering for jealousy, while he himself holds the bitter water that brings a curse.",
+      "text": "After the priest has had the woman stand before the Lord, he shall loosen her hair and place in her hands the reminder-offering, the grain offering for jealousy, while he himself holds the bitter water that brings a curse.",
       "verse": 18
     },
     {
@@ -100,7 +101,7 @@
       "verse": 20
     },
     {
-      "text": "here the priest is to put the woman under this curse—“may the  cause you to become a curse among your people when he makes your womb miscarry and your abdomen swell.",
+      "text": "here the priest is to put the woman under this curse—“may the Lord cause you to become a curse among your people when he makes your womb miscarry and your abdomen swell.",
       "verse": 21
     },
     {
@@ -122,7 +123,7 @@
       "verse": 24
     },
     {
-      "text": "The priest is to take from her hands the grain offering for jealousy, wave it before the  and bring it to the altar.",
+      "text": "The priest is to take from her hands the grain offering for jealousy, wave it before the Lord and bring it to the altar.",
       "verse": 25
     },
     {
@@ -143,7 +144,7 @@
       "type": "newline"
     },
     {
-      "text": "or when feelings of jealousy come over a man because he suspects his wife. The priest is to have her stand before the  and is to apply this entire law to her.",
+      "text": "or when feelings of jealousy come over a man because he suspects his wife. The priest is to have her stand before the Lord and is to apply this entire law to her.",
       "verse": 30
     },
     {

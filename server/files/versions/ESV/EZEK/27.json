@@ -2,13 +2,14 @@
   "book_id": "EZEK",
   "book_name": "Ezekiel",
   "chapter": 27,
+  "verses": 36,
   "content": [
     {
       "text": "A Lament for Tyre",
       "type": "heading"
     },
     {
-      "text": "The word of the  came to me:",
+      "text": "The word of the Lord came to me:",
       "verse": 1,
       "type": "newline"
     },
@@ -17,7 +18,7 @@
       "verse": 2
     },
     {
-      "text": "and say to Tyre, who dwells at the entrances to the sea, merchant of the peoples to many coastlands, thus says the Lord :",
+      "text": "and say to Tyre, who dwells at the entrances to the sea, merchant of the peoples to many coastlands, thus says the Lord God:",
       "verse": 3
     },
     {

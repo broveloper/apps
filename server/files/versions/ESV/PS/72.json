@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 72,
+  "verses": 20,
   "content": [
     {
       "text": "Give the King Your Justice",
@@ -9,8 +10,7 @@
     },
     {
       "text": "Of Solomon.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Give the king your justice, O God,",
@@ -233,7 +233,7 @@
       "type": "poetry"
     },
     {
-      "text": "Blessed be the , the God of Israel,",
+      "text": "Blessed be the Lord, the God of Israel,",
       "verse": 18,
       "type": "poetry newline"
     },

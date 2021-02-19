@@ -2,6 +2,7 @@
   "book_id": "NAH",
   "book_name": "Nahum",
   "chapter": 1,
+  "verses": 15,
   "content": [
     {
       "text": "An oracle concerning Nineveh. The book of the vision of Nahum of Elkosh.",
@@ -12,17 +13,17 @@
       "type": "heading"
     },
     {
-      "text": "The  is a jealous and avenging God;",
+      "text": "The Lord is a jealous and avenging God;",
       "verse": 2,
       "type": "poetry newline"
     },
     {
-      "text": "the  is avenging and wrathful;",
+      "text": "the Lord is avenging and wrathful;",
       "verse": 2,
       "type": "poetry"
     },
     {
-      "text": "the  takes vengeance on his adversaries",
+      "text": "the Lord takes vengeance on his adversaries",
       "verse": 2,
       "type": "poetry"
     },
@@ -32,12 +33,12 @@
       "type": "poetry"
     },
     {
-      "text": "The  is slow to anger and great in power,",
+      "text": "The Lord is slow to anger and great in power,",
       "verse": 3,
       "type": "poetry"
     },
     {
-      "text": "and the  will by no means clear the guilty.",
+      "text": "and the Lord will by no means clear the guilty.",
       "verse": 3,
       "type": "poetry"
     },
@@ -112,7 +113,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  is good,",
+      "text": "The Lord is good,",
       "verse": 7,
       "type": "poetry"
     },
@@ -127,7 +128,7 @@
       "type": "poetry"
     },
     {
-      "text": "But with an overflowing flood",
+      "text": "    But with an overflowing flood",
       "verse": 8,
       "type": "poetry"
     },
@@ -142,7 +143,7 @@
       "type": "poetry"
     },
     {
-      "text": "What do you plot against the ?",
+      "text": "What do you plot against the Lord?",
       "verse": 9,
       "type": "poetry"
     },
@@ -177,7 +178,7 @@
       "type": "poetry"
     },
     {
-      "text": "who plotted evil against the ,",
+      "text": "who plotted evil against the Lord,",
       "verse": 11,
       "type": "poetry"
     },
@@ -187,7 +188,7 @@
       "type": "poetry"
     },
     {
-      "text": "Thus says the ,",
+      "text": "Thus says the Lord,",
       "verse": 12,
       "type": "poetry newline"
     },
@@ -222,7 +223,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  has given commandment about you:",
+      "text": "The Lord has given commandment about you:",
       "verse": 14,
       "type": "poetry newline"
     },
@@ -247,7 +248,7 @@
       "type": "poetry"
     },
     {
-      "text": "Behold, upon the mountains, the feet of him",
+      "text": " Behold, upon the mountains, the feet of him",
       "verse": 15,
       "type": "poetry newline"
     },

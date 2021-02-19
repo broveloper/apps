@@ -2,9 +2,10 @@
   "book_id": "ISA",
   "book_name": "Isaiah",
   "chapter": 42,
+  "verses": 25,
   "content": [
     {
-      "text": "The Servant of the",
+      "text": "The Servant of the Lord",
       "type": "heading"
     },
     {
@@ -53,7 +54,7 @@
       "type": "poetry"
     },
     {
-      "text": "he will not falter or be discouraged",
+      "text": "    he will not falter or be discouraged",
       "verse": 4,
       "type": "poetry"
     },
@@ -68,7 +69,7 @@
       "type": "poetry"
     },
     {
-      "text": "This is what God the  says—",
+      "text": "This is what God the Lord says—",
       "verse": 5,
       "type": "poetry newline"
     },
@@ -93,7 +94,7 @@
       "type": "poetry"
     },
     {
-      "text": "“I, the , have called you in righteousness;",
+      "text": "“I, the Lord, have called you in righteousness;",
       "verse": 6,
       "type": "poetry"
     },
@@ -133,7 +134,7 @@
       "type": "poetry"
     },
     {
-      "text": "“I am the ; that is my name!",
+      "text": "“I am the Lord; that is my name!",
       "verse": 8,
       "type": "poetry newline"
     },
@@ -168,11 +169,11 @@
       "type": "poetry"
     },
     {
-      "text": "Song of Praise to the",
+      "text": "Song of Praise to the Lord",
       "type": "heading"
     },
     {
-      "text": "Sing to the  a new song,",
+      "text": "Sing to the Lord a new song,",
       "verse": 10,
       "type": "poetry newline"
     },
@@ -212,7 +213,7 @@
       "type": "poetry"
     },
     {
-      "text": "Let them give glory to the",
+      "text": "Let them give glory to the Lord",
       "verse": 12,
       "type": "poetry"
     },
@@ -222,7 +223,7 @@
       "type": "poetry"
     },
     {
-      "text": "The  will march out like a champion,",
+      "text": "The Lord will march out like a champion,",
       "verse": 13,
       "type": "poetry"
     },
@@ -356,7 +357,7 @@
       "type": "poetry"
     },
     {
-      "text": "blind like the servant of the ?",
+      "text": "blind like the servant of the Lord?",
       "verse": 19,
       "type": "poetry"
     },
@@ -371,7 +372,7 @@
       "type": "poetry"
     },
     {
-      "text": "It pleased the",
+      "text": "It pleased the Lord",
       "verse": 21,
       "type": "poetry"
     },
@@ -441,7 +442,7 @@
       "type": "poetry"
     },
     {
-      "text": "Was it not the ,",
+      "text": "Was it not the Lord,",
       "verse": 24,
       "type": "poetry"
     },

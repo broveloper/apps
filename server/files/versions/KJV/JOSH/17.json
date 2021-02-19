@@ -2,6 +2,7 @@
   "book_id": "JOSH",
   "book_name": "Joshua",
   "chapter": 17,
+  "verses": 18,
   "content": [
     {
       "text": "There was also a lot for the tribe of Manasseh; for he was the firstborn of Joseph; to wit, for Machir the firstborn of Manasseh, the father of Gilead: because he was a man of war, therefore he had Gilead and Bashan.",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "And they came near before Eleazar the priest, and before Joshua the son of Nun, and before the princes, saying, The  commanded Moses to give us an inheritance among our brethren. Therefore according to the commandment of the  he gave them an inheritance among the brethren of their father.",
+      "text": "And they came near before Eleazar the priest, and before Joshua the son of Nun, and before the princes, saying, The Lord commanded Moses to give us an inheritance among our brethren. Therefore according to the commandment of the Lord he gave them an inheritance among the brethren of their father.",
       "verse": 4,
       "type": "newline"
     },
@@ -68,7 +69,7 @@
       "type": "newline"
     },
     {
-      "text": "And the children of Joseph spake unto Joshua, saying, Why hast thou given me but one lot and one portion to inherit, seeing I am a great people, forasmuch as the  hath blessed me hitherto?",
+      "text": "And the children of Joseph spake unto Joshua, saying, Why hast thou given me but one lot and one portion to inherit, seeing I am a great people, forasmuch as the Lord hath blessed me hitherto?",
       "verse": 14,
       "type": "newline"
     },

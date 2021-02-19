@@ -2,13 +2,14 @@
   "book_id": "NUM",
   "book_name": "Numbers",
   "chapter": 2,
+  "verses": 34,
   "content": [
     {
       "text": "The Arrangement of the Tribal Camps",
       "type": "heading"
     },
     {
-      "text": "The  said to Moses and Aaron:",
+      "text": "The Lord said to Moses and Aaron:",
       "verse": 1,
       "type": "newline"
     },
@@ -138,11 +139,11 @@
       "verse": 32
     },
     {
-      "text": "The Levites, however, were not counted along with the other Israelites, as the  commanded Moses.",
+      "text": "The Levites, however, were not counted along with the other Israelites, as the Lord commanded Moses.",
       "verse": 33
     },
     {
-      "text": "So the Israelites did everything the  commanded Moses; that is the way they encamped under their standards, and that is the way they set out, each of them with their clan and family.",
+      "text": "So the Israelites did everything the Lord commanded Moses; that is the way they encamped under their standards, and that is the way they set out, each of them with their clan and family.",
       "verse": 34,
       "type": "newline"
     }

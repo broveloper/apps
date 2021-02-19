@@ -2,6 +2,7 @@
   "book_id": "PS",
   "book_name": "Psalm",
   "chapter": 78,
+  "verses": 72,
   "content": [
     {
       "text": "Tell the Coming Generation",
@@ -9,8 +10,7 @@
     },
     {
       "text": "A Maskil of Asaph.",
-      "verse": 1,
-      "type": "newline"
+      "type": "title"
     },
     {
       "text": "Give ear, O my people, to my teaching;",
@@ -53,7 +53,7 @@
       "type": "poetry"
     },
     {
-      "text": "the glorious deeds of the , and his might,",
+      "text": "the glorious deeds of the Lord, and his might,",
       "verse": 4,
       "type": "poetry"
     },
@@ -98,7 +98,7 @@
       "type": "poetry"
     },
     {
-      "text": "so that they should set their hope in God",
+      "text": "    so that they should set their hope in God",
       "verse": 7,
       "type": "poetry"
     },
@@ -263,7 +263,7 @@
       "type": "poetry"
     },
     {
-      "text": "Therefore, when the  heard, he was full of wrath;",
+      "text": "Therefore, when the Lord heard, he was full of wrath;",
       "verse": 21,
       "type": "poetry newline"
     },

@@ -2,6 +2,7 @@
   "book_id": "1SAM",
   "book_name": "1 Samuel",
   "chapter": 24,
+  "verses": 22,
   "content": [
     {
       "text": "And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David is in the wilderness of Engedi.",
@@ -18,7 +19,7 @@
       "type": "newline"
     },
     {
-      "text": "And the men of David said unto him, Behold the day of which the  said unto thee, Behold, I will deliver thine enemy into thine hand, that thou mayest do to him as it shall seem good unto thee. Then David arose, and cut off the skirt of Saul's robe privily.",
+      "text": "And the men of David said unto him, Behold the day of which the Lord said unto thee, Behold, I will deliver thine enemy into thine hand, that thou mayest do to him as it shall seem good unto thee. Then David arose, and cut off the skirt of Saul's robe privily.",
       "verse": 4,
       "type": "newline"
     },
@@ -28,7 +29,7 @@
       "type": "newline"
     },
     {
-      "text": "And he said unto his men, The  forbid that I should do this thing unto my master, the 's anointed, to stretch forth mine hand against him, seeing he is the anointed of the .",
+      "text": "And he said unto his men, The Lord forbid that I should do this thing unto my master, the Lord's anointed, to stretch forth mine hand against him, seeing he is the anointed of the Lord.",
       "verse": 6,
       "type": "newline"
     },
@@ -48,7 +49,7 @@
       "type": "newline"
     },
     {
-      "text": "Behold, this day thine eyes have seen how that the  had delivered thee to day into mine hand in the cave: and some bade me kill thee: but mine eye spared thee; and I said, I will not put forth mine hand against my lord; for he is the 's anointed.",
+      "text": "Behold, this day thine eyes have seen how that the Lord had delivered thee to day into mine hand in the cave: and some bade me kill thee: but mine eye spared thee; and I said, I will not put forth mine hand against my lord; for he is the Lord's anointed.",
       "verse": 10,
       "type": "newline"
     },
@@ -58,7 +59,7 @@
       "type": "newline"
     },
     {
-      "text": "The  judge between me and thee, and the  avenge me of thee: but mine hand shall not be upon thee.",
+      "text": "The Lord judge between me and thee, and the Lord avenge me of thee: but mine hand shall not be upon thee.",
       "verse": 12,
       "type": "newline"
     },
@@ -73,7 +74,7 @@
       "type": "newline"
     },
     {
-      "text": "The  therefore be judge, and judge between me and thee, and see, and plead my cause, and deliver me out of thine hand.",
+      "text": "The Lord therefore be judge, and judge between me and thee, and see, and plead my cause, and deliver me out of thine hand.",
       "verse": 15,
       "type": "newline"
     },
@@ -88,12 +89,12 @@
       "type": "newline"
     },
     {
-      "text": "And thou hast shewed this day how that thou hast dealt well with me: forasmuch as when the  had delivered me into thine hand, thou killedst me not.",
+      "text": "And thou hast shewed this day how that thou hast dealt well with me: forasmuch as when the Lord had delivered me into thine hand, thou killedst me not.",
       "verse": 18,
       "type": "newline"
     },
     {
-      "text": "For if a man find his enemy, will he let him go well away? wherefore the  reward thee good for that thou hast done unto me this day.",
+      "text": "For if a man find his enemy, will he let him go well away? wherefore the Lord reward thee good for that thou hast done unto me this day.",
       "verse": 19,
       "type": "newline"
     },
@@ -103,7 +104,7 @@
       "type": "newline"
     },
     {
-      "text": "Swear now therefore unto me by the , that thou wilt not cut off my seed after me, and that thou wilt not destroy my name out of my father's house.",
+      "text": "Swear now therefore unto me by the Lord, that thou wilt not cut off my seed after me, and that thou wilt not destroy my name out of my father's house.",
       "verse": 21,
       "type": "newline"
     },
