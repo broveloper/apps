@@ -1,6 +1,9 @@
 import _ from 'lodash';
-import { useRef, useState } from 'react';
+import { forwardRef, useRef, useState } from 'react';
 import { makeStyles } from '@material-ui/core/styles';
+import Breadcrumbs from '@material-ui/core/Breadcrumbs';
+import Chip from '@material-ui/core/Chip';
+import HomeIcon from '@material-ui/icons/Home';
 import Box from '@material-ui/core/Box';
 import Button from '@material-ui/core/Button';
 import Container from '@material-ui/core/Container';
@@ -8,7 +11,9 @@ import TextField from '@material-ui/core/TextField';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
 import { useAuth } from '@utils/useApp';
+import { AppContainer } from 'components/App';
 import { Alert } from 'components/Alert';
+import { Screen } from '../Screen';
 
 const useStyles = makeStyles(theme => ({
 	container: {
@@ -36,7 +41,8 @@ const useStyles = makeStyles(theme => ({
 	}
 }));
 
-export const Signin = () => {
+const SigninForm = props => {
+	const { hide } = props;
 	const classes = useStyles();
 	const {
 		emailregex,
@@ -68,6 +74,12 @@ export const Signin = () => {
 		}
 	};
 	return <>
+		<Box py={2} component={AppContainer}>
+			<Breadcrumbs>
+				<Chip icon={<HomeIcon />} size="small" label="Main" onClick={() => hide()} />
+				<Chip disabled size="small" label="Sign In" />
+			</Breadcrumbs>
+		</Box>
 		<Alert
 			alertRef={errorRef}
 			severity="error">{'There was an error with the request.'}</Alert>
@@ -85,7 +97,7 @@ export const Signin = () => {
 						size="small"
 						type="email"
 						value={email}
-						variant="outlined" />
+						variant="filled" />
 					<TextField
 						disabled={isSubmitting}
 						error={Boolean(password) && errors.password}
@@ -96,7 +108,7 @@ export const Signin = () => {
 						size="small"
 						type="password"
 						value={password}
-						variant="outlined" />
+						variant="filled" />
 					{!isSignin && <TextField
 						disabled={isSubmitting}
 						error={Boolean(password2) && errors.password2}
@@ -108,7 +120,7 @@ export const Signin = () => {
 						size="small"
 						type="password"
 						value={password2}
-						variant="outlined" />}
+						variant="filled" />}
 					<Box
 						className={classes.buttons}
 						display="flex"
@@ -154,3 +166,9 @@ export const Signin = () => {
 		</Container>
 	</>;
 };
+
+export const Signin = forwardRef((props, ref) => {
+	return <Screen ref={ref}>
+		<SigninForm {...props} />
+	</Screen>;
+});

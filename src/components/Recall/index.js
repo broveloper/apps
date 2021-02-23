@@ -1,15 +1,15 @@
 import Box from '@material-ui/core/Box';
 import logger from '@utils/logger';
+import { useWords } from '@utils/useApp';
 import { AppContainer } from 'components/App';
 import { Copyright } from './Copyright';
 import { Actions } from './Actions';
-import { SearchBar } from './SearchBar';
 import { Words } from './Words';
 
 export const Recall = props => {
+	const { inputProps } = useWords();
 
 	return <>
-		<SearchBar/>
 		<Box
 			component={AppContainer}
 			display="flex"
@@ -27,7 +27,7 @@ export const Recall = props => {
 				width="100%"
 				height="100%"
 				mt={2}>
-				<Box position="relative">
+				<Box position="relative" onClick={e => inputProps.ref.current?.focus?.()}>
 					<Words hint />
 					<Words />
 				</Box>

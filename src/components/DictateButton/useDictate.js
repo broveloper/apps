@@ -1,6 +1,5 @@
 import { useMemo, useRef, useState } from 'react';
 import { useUpdateEffect } from 'react-use';
-import { isMobile } from 'react-device-detect';
 import logger from '@utils/logger';
 import { useWords } from '@utils/useApp';
 
@@ -10,7 +9,6 @@ export const useDictate = props => {
 	} = useWords();
 	const activeRef = useRef(false)
 	const [active, setActive] = useState(activeRef.current);
-	const [networkError, setNetworkError] = useState(false);
 	const [error, setError] = useState(false);
 	const reloadRef = useRef(0);
 	const [reloadCount, setReloadCount] = useState(reloadRef.current);
@@ -19,15 +17,15 @@ export const useDictate = props => {
 	const memoized = useMemo(() => {
 		const memoized = {};
 		memoized.SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition || window.mozSpeechRecognition || window.msSpeechRecognition || window.oSpeechRecognition;
-		if (error || networkError || !memoized.SpeechRecognition) return memoized;
+		if (error || !memoized.SpeechRecognition) return memoized;
 		memoized.recognition = new memoized.SpeechRecognition();
 		memoized.recognition.lang = 'en-US';
 		memoized.recognition.interimResults = true;
 		memoized.recognition.maxAlternatives = 1;
-		memoized.recognition.continuous = true;
+		memoized.recognition.continuous = false;
 		memoized.recognition.onresult = (event) => {
 			const { transcript } = event?.results?.[event.results.length - 1]?.[0] || {};
-			logger.log('onresult', event.results.length, transcript);
+			logger.log('onresult', [event], event.results.length, transcript);
 			inputWords(transcript);
 		}
 		memoized.recognition.onspeechstart = () => {
@@ -41,10 +39,10 @@ export const useDictate = props => {
 			logger.log('onend', { active: activeRef.current });
 			if (activeRef.current && reloadCount === reloadRef.current) reload();
 		}
-		memoized.recognition.onerror = err => {
-			logger.log('onerror', err);
-			if (err.type === 'network') setNetworkError(true);
-			else setError(err);
+		memoized.recognition.onerror = event => {
+			logger.log('onerror', event.error);
+			if (event.error === 'network') setError(event.error);
+			else reload();
 		};
 		if (activeRef.current) {
 			memoized.recognition.start();
@@ -58,9 +56,9 @@ export const useDictate = props => {
 		memoized.toggle = () => setActive(activeRef.current = !activeRef.current);
 		
 		return memoized;
-	}, [networkError, reloadCount]);
+	}, [inputWords, error, reloadCount]);
 
-	const enabled = !isMobile && memoized.recognition;
+	const enabled = memoized.recognition;
 
 	useUpdateEffect(() => {
 		if (enabled) {

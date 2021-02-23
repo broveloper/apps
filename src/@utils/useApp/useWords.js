@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import { createContext, useContext, useMemo, useRef, useState } from 'react';
+import { createContext, useCallback, useContext, useMemo, useRef, useState } from 'react';
 import { useUpdateEffect } from 'react-use';
 import { isMobile } from 'react-device-detect';
 import logger from '@utils/logger';
@@ -59,7 +59,7 @@ export const WordsProvider = props => {
 		if (inputRef.current) inputRef.current.innerHTML = '';
 	};
 
-	const inputWords = q => {
+	const inputWords = useCallback(q => {
 		if (completed) return false;
 
 		const currentIndex = _.findIndex(words, word => word.i === atRef.current);
@@ -76,18 +76,21 @@ export const WordsProvider = props => {
 			const tryWord = q[i];
 			const currentWord = String(words[currentIndex + i]);
 			if (areSimilar(tryWord, currentWord)) {
-				// logger.log(`${currentWord} ${tryWord}`);
+				logger.log({ currentWord, tryWord });
 				i++; continue;
+			}
+			if (i + 2 === q.length) {
+				break;
 			}
 			const currentNext = words[currentIndex + i + 1];
 			if (currentNext != null && areSimilar(tryWord, String(currentNext))) {
-				// logger.log(`${String(currentNext)} ${tryWord}: inserted [${currentWord}]`);
+				logger.log({ currentNext: String(currentNext), tryWord }, `inserted: [${currentWord}]`);
 				errorsRef.current.push(Object.assign(Object(currentWord), { type: 'insert', i: currentIndex + i }))
 				q.splice(i, 0, currentWord); i++; continue;
 			}
 			const tryNext = q[i + 1];
 			if (tryNext != null && areSimilar(tryNext, currentWord)) {
-				// logger.log(`${currentWord} ${tryNext}: removed [${tryWord}]`);
+				logger.log({ currentWord, tryWord }, `removed [${tryWord}]`);
 				errorsRef.current.push(Object.assign(Object(tryWord), { type: 'removed', i: currentIndex + i }))
 				q.splice(i, 1); i++; continue;
 			}
@@ -99,7 +102,7 @@ export const WordsProvider = props => {
 			: chunks[chunks.length - 1].i;
 		setAt(atRef.current);
 		return true;
-	};
+	}, [words]);
 
 	const inputProps = {
 		contentEditable: true,
@@ -114,13 +117,13 @@ export const WordsProvider = props => {
 				e.stopPropagation();
 				inputRef.current.innerHTML = '';
 			} else if (/[^a-zA-Z0-9,']+/.test(text)) {
-				logger.log('onInput: inputWords', text, String(chunks[at]));
+				logger.log('onInput: inputWords', text, String(chunks[atRef.current]));
 				const didInput = inputWords(text);
 				if (didInput)
 					_.defer(() => inputRef.current.focus());
 				_.defer(() => inputRef.current.innerHTML = '');
-			} else if ((isMobile && text.length === String(chunks[at]).length) && areSimilar(text, String(chunks[at]))) {
-				logger.log('onInput: mobile check inputWords', text, String(chunks[at]));
+			} else if ((isMobile && text.length === String(chunks[atRef.current]).length) && areSimilar(text, String(chunks[atRef.current]))) {
+				logger.log('onInput: mobile check inputWords', text, String(chunks[atRef.current]));
 				inputWords(text);
 				_.defer(() => inputRef.current.focus());
 				_.defer(() => inputRef.current.innerHTML = '');
@@ -146,6 +149,7 @@ export const WordsProvider = props => {
 		completed,
 		inputWords,
 		inputProps,
+		inputRef,
 		resetWords,
 		showHint,
 		toggleHint,

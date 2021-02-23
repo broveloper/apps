@@ -7,9 +7,10 @@ export const baseProps = {
 	light: {
 		palette: {
 			type: 'light',
-			primary: { main: '#79ae4a' },
+			primary: { main: '#6b8233', contrastText: '#fff' },
+			// primary: { main: '#79ae4a', contrastText: '#fff' },
 			// secondary: { main: '#7f4aae', contrastText: '#000' },
-			secondary: { main: '#f45936' },
+			secondary: { main: '#aa7b33', contrastText: '#fff' },
 		},
 	},
 	dark: {

@@ -1,5 +1,5 @@
-import IconButton from '@material-ui/core/IconButton';
-import SettingsBackupRestoreIcon from '@material-ui/icons/SettingsBackupRestore';
+import Fab from '@material-ui/core/Fab';
+import ReplayIcon from '@material-ui/icons/Replay';
 import { usePassage, useWords } from '@utils/useApp';
 
 
@@ -17,9 +17,11 @@ export const RestartButton = props => {
 
 	if (completed || verses?.length < 1) return null;
 
-	return <IconButton
+	return <Fab
+		color="secondary"
 		className={className}
-		onClick={resetWords}>
-		<SettingsBackupRestoreIcon fontSize="large" />
-	</IconButton>
+		onClick={resetWords}
+		size="small">
+		<ReplayIcon />
+	</Fab>
 };

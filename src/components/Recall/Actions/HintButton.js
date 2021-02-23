@@ -1,18 +1,19 @@
 import clsx from 'clsx';
 import { makeStyles } from '@material-ui/core/styles';
-import IconButton from '@material-ui/core/IconButton';
-import GradeRoundedIcon from '@material-ui/icons/GradeRounded';
-import ExploreIcon from '@material-ui/icons/Explore';
-import ExploreOffIcon from '@material-ui/icons/ExploreOff';
+import Fab from '@material-ui/core/Fab';
+import EmojiObjectsIcon from '@material-ui/icons/EmojiObjects';
 import { usePassage, useWords } from '@utils/useApp';
 
 const useStyles = makeStyles((theme) => ({
-	assist: {
-		color: theme.palette.success.main,
+	hinton: {
+		color: 'rgba(253, 216, 53, 1)',
 	},
-	star: {
-		animation: 'starspin 600ms linear infinite, starcolor 500ms linear infinite',
+	hintoff: {
+		color: 'rgba(255, 255, 255, .5)',
 	},
+	hint: {
+		transition: 'color 200ms linear',
+	}
 }));
 
 export const HintButton = props => {
@@ -21,7 +22,7 @@ export const HintButton = props => {
 	} = props;
 	const classes = useStyles();
 	const {
-		passage,
+		verses,
 	} = usePassage();
 	const {
 		completed,
@@ -29,18 +30,13 @@ export const HintButton = props => {
 		toggleHint,
 	} = useWords();
 
-	return completed
-		? <IconButton
-			className={clsx(className, classes.assist)}
-			onClick={toggleHint}>
-			<GradeRoundedIcon className={clsx(classes.star)} fontSize="large" />
-		</IconButton>
-		: <IconButton
-			className={clsx(className, classes.assist)}
-			disabled={!passage}
-			onClick={toggleHint}>
-			{showHint
-				? <ExploreOffIcon color="primary" fontSize="large" />
-				: <ExploreIcon fontSize="large" />}
-		</IconButton>
+	if (completed || verses?.length < 1) return null;
+
+	return <Fab
+		color="secondary"
+		className={clsx(className, classes.hint, { [classes.hinton]: showHint, [classes.hintoff]: !showHint })}
+		onClick={toggleHint}
+		size="small">
+		<EmojiObjectsIcon />
+	</Fab>;
 };

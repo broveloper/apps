@@ -2,6 +2,9 @@ import _ from 'lodash';
 import { forwardRef, useEffect, useRef, useState } from 'react';
 import { useAsync, useUpdateEffect } from 'react-use';
 import { makeStyles } from '@material-ui/core/styles';
+import Breadcrumbs from '@material-ui/core/Breadcrumbs';
+import Chip from '@material-ui/core/Chip';
+import HomeIcon from '@material-ui/icons/Home';
 import Divider from '@material-ui/core/Divider';
 import Box from '@material-ui/core/Box';
 import Slider from '@material-ui/core/Slider';
@@ -11,9 +14,9 @@ import ListItem from '@material-ui/core/ListItem';
 import ListItemText from '@material-ui/core/ListItemText';
 import InputAdornment from '@material-ui/core/InputAdornment';
 import InputBase from '@material-ui/core/InputBase';
-import IconButton from '@material-ui/core/IconButton';
+import Fab from '@material-ui/core/Fab';
 import SearchIcon from '@material-ui/icons/Search';
-import CheckCircleIcon from '@material-ui/icons/CheckCircle';
+import CheckIcon from '@material-ui/icons/Check';
 import { usePassage } from '@utils/useApp';
 import { AppContainer } from 'components/App';
 import { Screen } from '../Screen';
@@ -23,8 +26,8 @@ const useStyles = makeStyles(theme => ({
 		cursor: 'pointer',
 	},
 	check: {
-		color: theme.palette.success.main,
-		transform: 'scale(1.2)'
+		// color: theme.palette.success.main,
+		// transform: 'scale(1.2)'
 	},
 }));
 
@@ -164,6 +167,12 @@ const PassageOptions = props => {
 	}, [transitionState]);
 
 	return <>
+		<Box py={2} component={AppContainer}>
+			<Breadcrumbs>
+				<Chip icon={<HomeIcon />} size="small" label="Main" onClick={() => hide()} />
+				<Chip disabled size="small" label="Search Bible Passage" />
+			</Breadcrumbs>
+		</Box>
 		<Box
 			component={AppContainer}
 			display="flex"
@@ -225,14 +234,16 @@ const PassageOptions = props => {
 			</Box>
 			<Box
 				position="absolute"
-				right="4em"
+				right="1em"
 				bottom="3em">
-				<IconButton
+				<Fab
 					className={classes.check}
+					color="primary"
 					disabled={!isSearchValid(q)}
-					onClick={handleSearch}>
-					<CheckCircleIcon fontSize="large" />
-				</IconButton>
+					onClick={handleSearch}
+					size="small">
+					<CheckIcon />
+				</Fab>
 			</Box>
 		</Box>
 	</>;

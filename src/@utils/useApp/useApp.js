@@ -13,7 +13,6 @@ export const AppProvider = props => {
 	// const [theme, setTheme] = useState(prefersDarkMode ? 'dark' : 'light');
 	const [theme, setTheme] = useState(prefersDarkMode ? 'light' : 'light');
 	const [maxWidth, setMaxWidth] = useState('sm');
-	const [view, setView] = useState('Home');
 
 	useLayoutEffect(() => {
 		if (prefersDarkMode && theme !== 'dark') {
@@ -25,9 +24,7 @@ export const AppProvider = props => {
 		maxWidth,
 		setMaxWidth,
 		setTheme,
-		setView,
 		theme,
-		view,
 	};
 
 	return <Context.Provider value={state}>
